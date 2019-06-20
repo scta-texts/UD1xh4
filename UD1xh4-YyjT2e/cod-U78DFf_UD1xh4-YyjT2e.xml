@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 5, Sermo 6 [Bern 1558 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Ueli Zahnd</editor>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 5, Sermo 6 [Bern 1558 Transcription]</title>
+          <date when="2019-06-20">June 20, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-U78DFf">Bern 1558</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="de">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="395-r"/> <!-- 883 in zurich manifest -->
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-YyjT2e">
+        <head xml:id="UD1xh4-YyjT2e-Hd1e95">Decimas 5, Sermo 6 [Bern 1558 Transcription]</head>
+        <p xml:id="UD1xh4-YyjT2e-d1e98">
+          <lb ed="#B" n="1"/><unclear>?sift</unclear> noch überig der artickel von den Sacramentem <pc type="virgula">/</pc> welcher <pc type="virgula">/</pc> 
+          <lb ed="#B"/>wie daoben ghört <pc type="virgula">/</pc> dem wort Gottes <unclear>unndem</unclear> gebätt anhanget. Sie<lb ed="#B"/>weyl 
+          ich dann nun <pc type="virgula">/</pc> mit der hilff Gottes <pc type="virgula">/</pc> von den Sacramenten die 
+          <lb ed="#B"/>von Christo unserem künig und obersten priester angäben <pc type="virgula">/</pc> unnd von seiner 
+          <lb ed="#B"/>heiligen und allgmeinen kirchen find angenommen worden <pc type="virgula">/</pc> rden wil <pc type="virgula">/</pc> so wil
+          <lb ed="#B"/>ich hierinn dise ordnung halten <pc type="virgula">/</pc> daß ich erstlich von den selbigen in gmein <pc type="virgula">/</pc> dar<lb ed="#B"/>nach 
+          von yedem besondrs rede. Und zum aller ersten wil ich hie ein gwüsses 
+          <lb ed="#B"/>anzeigen von der bedeütung des wörtlins Zeichen oder Sacrament. V. L
+          <lb ed="#B"/>wölle mirs aber für güt halten <pc type="virgula">/</pc> wenn ich mich hierinn etwas lenger fumen <pc type="virgula">/</pc> 
+          <lb ed="#B"/>dann ich hoff est werdenit one alle frucht abgon
+        </p>
+        <!-- english paragraph varies here; we are following this edition as default for all paragraph alignment -->
+        <p xml:id="UD1xh4-YyjT2e-d1e118">
+          <lb ed="#B"/>Zeichen nennend die Latiner gmerck <pc type="virgula">/</pc> anbildungen <pc type="virgula">/</pc> überblibne ding <pc type="virgula">/</pc> 
+          <lb ed="#B"/>gspar und anzeigungen die etwas bedeütend <pc type="virgula">/</pc> unnd under denen etwas wey<lb ed="#B"/>ters 
+          vermercklt wirt. Also nennends <name>Tullius</name> und <name>fabius</name>. Sifer spricht: Zei<lb ed="#B"/>chen 
+          ist ein ding <pc type="virgula">/</pc> dardurch ein anders vermerckt wirdt: als durch blüt <pc type="virgula">/</pc> mag
+          <lb ed="#B"/>todschlag verstanden werden. Ser heilig und fürnäm leerer der kirchen <ref xml:id="UD1xh4-YyjT2e-Rd1e138"><name>Au<lb ed="#B"/>relius
+          Augustinus</name> in libro de <title>de Magistro</title> capitulo 4</ref> spricht <pc type="virgula">/</pc> <quote xml:id="UD1xh4-YyjT2e-Qd1e147">Wir nennend gmeinlich 
+          <lb ed="#B"/>das alles zeichen <pc type="virgula">/</pc> was etwas bedeütet: in welcher ordnung wir auch die wort
+          <lb ed="#B"/>seyn findend</quote>. Item <ref xml:id="UD1xh4-YyjT2e-Rd1e152" corresp="#UD1xh4-YyjT2e-Qd1e160"><title>de Doctrina Christiana</title> libro 2, capitulo 1.</ref>, spricht er <pc type="virgula">/</pc> <quote xml:id="UD1xh4-YyjT2e-Qd1e160">Zeichen ist ein ding <pc type="virgula">/</pc> 
+          <lb ed="#B"/>das <unclear>eim</unclear> auffert seiner eignen gstalt <pc type="virgula">/</pc> ein anders machet in <unclear>sinnkommen</unclear>: als wenn 
+          <lb ed="#B"/>wir rouch fahend <pc type="virgula">/</pc> da glaubend wir daß fheür darhinder seye</quote>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

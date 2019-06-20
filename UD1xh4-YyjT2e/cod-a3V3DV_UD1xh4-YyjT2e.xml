@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 5, Sermo 6 [Zurich 1552 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Ueli Zahnd</editor>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 5, Sermo 6 [Zurich 1552 Transcription]</title>
+          <date when="2019-06-20">June 20, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3v3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="667"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-YyjT2e">
+        <head xml:id="UD1xh4-YyjT2e-Hd1e95">Decimas 5, Sermo 6 [Zurich 1552 Transcription]</head>
+        <p xml:id="UD1xh4-YyjT2e-d1e98">
+          <lb ed="#Z" n="15"/>Superest tractatio de Sacramentis, quam uerbo dei et orationibus 
+          <lb ed="#Z"/>adiunctam esse audiuimus. De Sacramentis autem a Christo rege et 
+          <lb ed="#Z"/>pontifice maximo traditis, et a sancta eius catholicaque ecclesia rece<lb ed="#Z"/>ptis, 
+          et legitime usurpatis, ipso domino inspirante, dicturus, hunc ser<lb ed="#Z"/>uabo 
+          ordinem, ut primum de his generatim, deinde speciatim uel sigillatim dis<lb ed="#Z"/>seram. 
+          Atque hic primum de certa signi vel sacramenti significatione constituam. 
+          In ea re si fuero paululum prolixior, condonabit id mihi c. v. Nam spero hoc 
+          <lb ed="#Z"/>non omni fructu cariturum
+        </p>
+        <!-- english paragraph varies here; we are following this edition as default for all paragraph alignment -->
+        <p xml:id="UD1xh4-YyjT2e-d1e118">
+          <lb ed="#Z"/>Signum appellant Latini scriptores notam, repraesentationem, uestigium 
+          <lb ed="#Z"/>et indicium rei significantis. Sic <name>Tullius</name> et <name>Fabius</name>. Hic, Signum, ait, uocant <foreign>semeion</foreign>, quan<lb ed="#Z"/>quam 
+          id quidam indicium, quidam uestigium nominarunt, per quod res intelli<lb ed="#Z"/>gitur, 
+          ut per sanguinem caedes. <ref xml:id="UD1xh4-YyjT2e-Rd1e138" corresp="#UD1xh4-YyjT2e-Qd1e147"><name>D. Aurel. Augustinus</name> scriptor ecclesiasticus nobilis, 
+          <lb ed="#Z"/><title>de Magistro</title> capitulo 4</ref>. <quote xml:id="UD1xh4-YyjT2e-Qd1e147" source="http://scta.info/resource/ZlRai8-TPspMO">Dicimus ea, inquit, signa universaliter omnia, quae significant 
+          <lb ed="#Z"/>aliquid: ubi etiam uerba esse invenimus</quote>. <ref xml:id="UD1xh4-YyjT2e-Rd1e152" corresp="#UD1xh4-YyjT2e-Qd1e160">Idem <title>de Doctrina Christiana</title> libro 2, capitulo 1.</ref>, dicit, 
+          <lb ed="#Z"/><quote xml:id="UD1xh4-YyjT2e-Qd1e160" source="http://scta.info/resource/addc-l2">Signum est res praeter speciem quam ingerit sensibus, aliud aliquid ex se faciens
+          <lb ed="#Z"/>in cogitationem uenire; sicut fumo viso, ignem subesse credimus</quote>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

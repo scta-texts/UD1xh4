@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 5, Sermo 6 [London 1587 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Ueli Zahnd</editor>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 5, Sermo 6 [London 1587 Transcription]</title>
+          <date when="2019-06-20">June 20, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-u2dgeg">London 1587</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="955"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-YyjT2e">
+        <head xml:id="UD1xh4-YyjT2e-Hd1e95">Decimas 5, Sermo 6 [London 1587 Transcription]</head>
+        <p xml:id="UD1xh4-YyjT2e-d1e98">
+          <lb ed="#L" n="28"/>The treatise 
+          <lb ed="#L"/>upon the sacraments remai<lb ed="#L"/>neth, 
+          whiche 
+          <lb ed="#L"/>we hard is ioi<lb ed="#L"/>ned 
+          to y word
+          <lb ed="#L"/>of God et prai<lb ed="#L"/>er. 
+          But in speking of sa
+          <lb ed="#L"/>craments delivered by Chryste our
+          <lb ed="#L"/>king and high priest, and received and 
+          <lb ed="#L"/>lawfully used of his holie and Catho<lb ed="#L"/>lique
+          <lb ed="#L"/>Church, I will by Gods grace
+          <lb ed="#L"/>and assistance observe this order, first to 
+          <lb ed="#L"/>entreat of them generally, et then par<lb ed="#L"/>ticularly, 
+          or severally: And here before 
+          <lb ed="#L"/>hande I will determine upon the cer<lb ed="#L"/>tain 
+          signification of a signe or Sacra<lb ed="#L"/>ment, 
+          wherein if I shall be somewhat 
+          <lb ed="#L"/>long or tedious. I crave pardon (dear<lb ed="#L"/>ly 
+          beloved) therefore, for I hope it shall 
+          <lb ed="#L"/>not be altogether fruitlesse.
+        </p>
+        <!-- good example of manifestatoins with different paragraph break --> 
+        <!-- editions need to align and paragraph level; unique paragraph breaks can be marked with a milestone element -->
+        <p xml:id="UD1xh4-YyjT2e-d1e118">
+          Signum, a<lb ed="#L"/>signe 
+          the Latine writers call a token,
+          <lb ed="#L"/>a representing, a marke, and <unclear>shelve</unclear> of 
+          <cb ed="#L" n="b"/> <!-- complications here there are two column b on this page an upper and lower -->
+          <lb ed="#L"/>some thing that hath signification 
+          <lb ed="#L"/><milestone ed="#L" unit="absent" type="paragraph"/><!-- TEI is demanding the unit attribute; an issue needs to be made for this in lombardpress-schema -->So say <name>Tullie</name> and <name>Fabius</name>. <name>Fabius</name>
+          <lb ed="#L"/>saith, Some call Signum <foreign>semeion</foreign> 
+          <lb ed="#L"/>though some terme them Indicium, 
+          <lb ed="#L"/>othersom Vestigium, a mark or token 
+          <lb ed="#L"/>whereby a thing is vnderstoode, as
+          <lb ed="#L"/>slaughter by blood <ref xml:id="UD1xh4-YyjT2e-Rd1e138"><name>S. Aurelius Au<lb ed="#L"/>gustine</name> 
+          y famous ecclesiasticall writer. 
+          <lb ed="#L"/>cap 4. De magistro</ref>, saith, <quote xml:id="UD1xh4-YyjT2e-Qd1e147">We general<lb ed="#L"/>ly 
+          call all those things signes which 
+          <lb ed="#L"/>signifie somewhat, where also we find 
+          <lb ed="#L"/>words to be</quote>. Again <ref xml:id="UD1xh4-YyjT2e-Rd1e152">Lib. 2 <title>De doctri<lb ed="#L"/>na 
+          Christiana</title>, cap. 1</ref>. he saith, <quote xml:id="UD1xh4-YyjT2e-Qd1e160">a sign is 
+          <lb ed="#L"/>a thing beside the semblance, which 
+          <lb ed="#L"/>it laieth before our senses, making of 
+          <lb ed="#L"/>it selfe some thing to come into our
+          <lb ed="#L"/>mind or thought, as by seeing smoke 
+          <lb ed="#L"/>we beleue there is fire</quote>
+        </p>
+        <!-- next paragraph starts at The said Aur. August. doth devide ... -->
+      </div>
+    </body>
+  </text>
+</TEI>
