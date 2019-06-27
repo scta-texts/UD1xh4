@@ -50,25 +50,28 @@
       <div xml:id="UD1xh4-YyjT2e">
         <head xml:id="UD1xh4-YyjT2e-Hd1e95">Decimas 5, Sermo 6 [Zurich 1552 Transcription]</head>
         <p xml:id="UD1xh4-YyjT2e-d1e98">
-          <lb ed="#Z" n="15"/>Superest tractatio de Sacramentis, quam uerbo dei et orationibus 
-          <lb ed="#Z"/>adiunctam esse audiuimus. De Sacramentis autem a Christo rege et 
-          <lb ed="#Z"/>pontifice maximo traditis, et a sancta eius catholicaque ecclesia rece<lb ed="#Z"/>ptis, 
-          et legitime usurpatis, ipso domino inspirante, dicturus, hunc ser<lb ed="#Z"/>uabo 
-          ordinem, ut primum de his generatim, deinde speciatim uel sigillatim dis<lb ed="#Z"/>seram. 
-          Atque hic primum de certa signi vel sacramenti significatione constituam. 
-          In ea re si fuero paululum prolixior, condonabit id mihi c. v. Nam spero hoc 
+          <lb ed="#Z" n="15"/>Superest tractatio de Sacramentis, quam uerbo dei et orationibus
+          <lb ed="#Z"/>adiunctam esse audiuimus. De Sacramentis autem a Christo rege et
+          <lb ed="#Z"/>pontifice maximo traditis, et a sancta eius catholicaque ecclesia rece<lb ed="#Z"/>ptis,
+          et legitime usurpatis, ipso domino inspirante, dicturus, hunc ser<lb ed="#Z"/>uabo
+          ordinem, ut primum de his generatim, deinde speciatim uel sigillatim dis<lb ed="#Z"/>seram.
+          Atque hic primum de certa signi vel sacramenti significatione constituam.
+          In ea re si fuero paululum prolixior, condonabit id mihi c. v. Nam spero hoc
           <lb ed="#Z"/>non omni fructu cariturum
         </p>
         <!-- english paragraph varies here; we are following this edition as default for all paragraph alignment -->
         <p xml:id="UD1xh4-YyjT2e-d1e118">
-          <lb ed="#Z"/>Signum appellant Latini scriptores notam, repraesentationem, uestigium 
-          <lb ed="#Z"/>et indicium rei significantis. Sic <name>Tullius</name> et <name>Fabius</name>. Hic, Signum, ait, uocant <foreign>semeion</foreign>, quan<lb ed="#Z"/>quam 
-          id quidam indicium, quidam uestigium nominarunt, per quod res intelli<lb ed="#Z"/>gitur, 
-          ut per sanguinem caedes. <ref xml:id="UD1xh4-YyjT2e-Rd1e138" corresp="#UD1xh4-YyjT2e-Qd1e147"><name>D. Aurel. Augustinus</name> scriptor ecclesiasticus nobilis, 
-          <lb ed="#Z"/><title>de Magistro</title> capitulo 4</ref>. <quote xml:id="UD1xh4-YyjT2e-Qd1e147" source="http://scta.info/resource/ZlRai8-TPspMO">Dicimus ea, inquit, signa universaliter omnia, quae significant 
-          <lb ed="#Z"/>aliquid: ubi etiam uerba esse invenimus</quote>. <ref xml:id="UD1xh4-YyjT2e-Rd1e152" corresp="#UD1xh4-YyjT2e-Qd1e160">Idem <title>de Doctrina Christiana</title> libro 2, capitulo 1.</ref>, dicit, 
+          <lb ed="#Z"/>Signum appellant Latini scriptores notam, repraesentationem, uestigium
+          <lb ed="#Z"/>et indicium rei significantis. Sic <name>Tullius</name> et <name>Fabius</name>. Hic, Signum, ait, uocant <foreign>semeion</foreign>, quan<lb ed="#Z"/>quam
+          id quidam indicium, quidam uestigium nominarunt, per quod res intelli<lb ed="#Z"/>gitur,
+          ut per sanguinem caedes. <ref xml:id="UD1xh4-YyjT2e-Rd1e138" corresp="#UD1xh4-YyjT2e-Qd1e147"><name>D. Aurel. Augustinus</name> scriptor ecclesiasticus nobilis,
+          <lb ed="#Z"/><title>de Magistro</title> capitulo 4</ref>. <quote xml:id="UD1xh4-YyjT2e-Qd1e147" source="http://scta.info/resource/ZlRai8-TPspMO">Dicimus ea, inquit, signa universaliter omnia, quae significant
+          <lb ed="#Z"/>aliquid: ubi etiam uerba esse invenimus</quote>. <ref xml:id="UD1xh4-YyjT2e-Rd1e152" corresp="#UD1xh4-YyjT2e-Qd1e160">Idem <title>de Doctrina Christiana</title> libro 2, capitulo 1.</ref>, dicit,
           <lb ed="#Z"/><quote xml:id="UD1xh4-YyjT2e-Qd1e160" source="http://scta.info/resource/addc-l2">Signum est res praeter speciem quam ingerit sensibus, aliud aliquid ex se faciens
           <lb ed="#Z"/>in cogitationem uenire; sicut fumo viso, ignem subesse credimus</quote>
+        </p>
+        <p>
+          <lb ed="#Z"/>Testline.
         </p>
       </div>
     </body>
