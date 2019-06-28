@@ -2,14 +2,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Decimas 5, Sermo 6 [Zurich 1552 Transcription]</title>
+        <title>Decas 5, Sermo 6 [Zurich 1552 Transcription]</title>
         <author ref="#HenrichBullinger">Henrich Bullinger</author>
         <editor>Ueli Zahnd</editor>
         <editor>Jeffrey C. Witt</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Decimas 5, Sermo 6 [Zurich 1552 Transcription]</title>
+          <title>Decas 5, Sermo 6 [Zurich 1552 Transcription]</title>
           <date when="2019-06-20">June 20, 2019</date>
         </edition>
       </editionStmt>
@@ -48,9 +48,17 @@
     </front>
     <body>
       <div xml:id="UD1xh4-YyjT2e">
-        <head xml:id="UD1xh4-YyjT2e-Hd1e95">Decimas 5, Sermo 6 [Zurich 1552 Transcription]</head>
+        <head xml:id="UD1xh4-YyjT2e-Hd1e95">Decas 5, Sermo 6 [Zurich 1552 Transcription]</head>
+        <p>
+          <!-- This paragraph is the heading of the sermo -->
+          <lb ed="#Z"/>De signis et signorum ratione, de signis sacramentalibus, quid sit sacramentum, a quo, ob quas
+          <lb ed="#Z"/><choice><orig>caussas</orig><reg>causas</reg></choice>,
+          et quot sacramenta ecclesiae Christianae a Christo instituta sint; quibus rebus constent;
+          <lb ed="#Z"/>quomodo consecrentur, quomodo vel coniuncta vel discreta sint signum et signatum in sacra<lb ed="#Z"/>mentis;
+          et de <choice><orig>loquutionibus</orig><reg>locutionibus</reg></choice> sacramentalibus. SERMO VI.
+        </p>
         <p xml:id="UD1xh4-YyjT2e-d1e98">
-          <lb ed="#Z" n="15"/>Superest tractatio de Sacramentis, quam uerbo dei et orationibus
+          <lb ed="#Z" n="15"/><emph rend="capitals">Superest</emph> tractatio de Sacramentis, quam uerbo dei et orationibus
           <lb ed="#Z"/>adiunctam esse audiuimus. De Sacramentis autem a Christo rege et
           <lb ed="#Z"/>pontifice maximo traditis, et a sancta eius catholicaque ecclesia rece<lb ed="#Z"/>ptis,
           et legitime usurpatis, ipso domino inspirante, dicturus, hunc ser<lb ed="#Z"/>uabo
@@ -61,7 +69,7 @@
         </p>
         <!-- english paragraph varies here; we are following this edition as default for all paragraph alignment -->
         <p xml:id="UD1xh4-YyjT2e-d1e118">
-          <lb ed="#Z"/>Signum appellant Latini scriptores notam, repraesentationem, uestigium
+          <lb ed="#Z"/><emph rend="capitals">Signum</emph> appellant Latini scriptores notam, repraesentationem, uestigium
           <lb ed="#Z"/>et indicium rei significantis. Sic <name>Tullius</name> et <name>Fabius</name>. Hic, Signum, ait, uocant <foreign>semeion</foreign>, quan<lb ed="#Z"/>quam
           id quidam indicium, quidam uestigium nominarunt, per quod res intelli<lb ed="#Z"/>gitur,
           ut per sanguinem caedes. <ref xml:id="UD1xh4-YyjT2e-Rd1e138" corresp="#UD1xh4-YyjT2e-Qd1e147"><name>D. Aurel. Augustinus</name> scriptor ecclesiasticus nobilis,
@@ -71,7 +79,40 @@
           <lb ed="#Z"/>in cogitationem uenire; sicut fumo viso, ignem subesse credimus</quote>
         </p>
         <p>
-          <lb ed="#Z"/>Testline.
+          <lb ed="#Z"/>Distinguit <ref>idem ille</ref> signa, in <seg>signa naturalia et data 
+            <note type="marginal-note" place="margin-right">
+              <lb ed="#Z"/>Divisio signorum 
+              <lb ed="#Z"/>ex <name>Augustino</name>. 
+            </note>
+          </seg>. <quote>Naturalia</quote> vocat, <quote>quae sine 
+          <lb ed="#Z"/>voluntate atque ullo appetitu significandi praeter se aliquid aliud ex se cognosci fa<lb ed="#Z"/>ciunt; 
+          sicuti est fumus, significans ignem. Non enim volens significare id facit</quote>. 
+          <lb ed="#Z"/><quote>Data sunt</quote>, inquit, <quote>quae sibi quaeque viventia invicem dant, ad demonstrandos quan<lb ed="#Z"/>tum 
+          possunt motus animi sui, vel sensa aut intellecta quaelibet.</quote> Et Data quidem 
+          <lb ed="#Z"/>signa rursus distinguit per sensus. Alia enim ad oculos pertinent, ut sunt vexilla 
+          et signa ducum, motus manum et omnium membrorum. Alia ad aures, ut sunt 
+          <lb ed="#Z"/><quote>tuba et tibia</quote>, et ipsa denique verba, quae <quote>inter homines obtinuerunt principatum 
+          <lb ed="#Z"/>significandi</quote>. Ad odorem refert <seg>illum odorem unguenti evangelicum 
+            <note type="marginal-note" place="margin-right">Ioan. 12</note></seg>, quo dominus ali<lb ed="#Z"/>quid 
+          significare voluerit. Ad gustum retulit <seg>Coenam domini 
+            <note type="marginal-note" place="margin-right">Marc. 14</note></seg>. <quote>Sacramento enim san<lb ed="#Z"/>guinis 
+          et corporis sui</quote>, inquit, <quote>praegustato, significavit quod voluit</quote>. Addit et exem<pb ed="#Z" n="322-v"/>plum 
+          <!-- folio 322v -->
+          ad tactum, <quote>Et cum <seg>mulier tangendo fimbriam vestimenti eius
+            <note type="marginal-note" place="margin-left">Matth. 9</note></seg> salva facta est,
+          <lb ed="#Z"/>nonnihil significat.</quote> Sic <name>Augustinus</name> de Signorum generibus et differentia disseruit.
+        </p>
+        <p>
+          <!-- this is Scotus, but not verbatim! -->
+          <lb ed="#Z"/><ref>Alii</ref> vero nihil diversi quidem ab illo asserentes, Signa iuxta temporum ra<lb ed="#Z"/>tionem 
+          distinguunt. Dicunt enim Signa alia quidem esse rerum praesentium, alia 
+          <lb ed="#Z"/>rerum praeteritarum, alia vero rerum futurarum. Praesentium signa putat, quae 
+          <lb ed="#Z"/>significant res esse praesentes: veluti haedera suspensa indicat vinum ibi vendi ubi 
+          <lb ed="#Z"/>suspensa haeret. Signa quae patrabat dominus noster, significabant adesse Mes<lb ed="#Z"/>siam 
+          et regnum dei a prophetis promissum. Sub praeterita signa referunt omnia 
+          <lb ed="#Z"/>defunctorum monimenta, et lapides illos in Iordane erectos a Iosue, posteritati 
+          <lb ed="#Z"/>significantes quid praeteritis actum sit temporibus. Futurarum rerum signum 
+          <lb ed="#Z"/>dat Vellus Gedeonis, futurae scilicet victoriae signum.
         </p>
       </div>
     </body>
