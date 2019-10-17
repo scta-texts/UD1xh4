@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 1, Sermo 1 [Bern 1558 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Charlotte Feidicker</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 1, Sermo 1 [Bern 1558 Transcription]</title>
+          <date when="2019-10-15">October 15, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-U78DFf">Bern 1558</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="de">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="1-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-XddV3R">
+        <head xml:id="UD1xh4-XddV3R-Hd1e95">Decimas 1, Sermo 1 [Bern 1558 Transcription]</head>
+        <p xml:id="UD1xh4-XddV3R-d1e98"><!--767.xml-->
+          <pb ed="#L" n="1-r"/>
+          <lb ed="#L" n="1"/>lle leeren und arti- 
+      <lb ed="#L" n="2"/>ckel deß Christenlichen glau- 
+      <lb ed="#L" n="3"/>bens / auch alles / waz zu einem 
+      <lb ed="#L" n="4"/>Gottsaeligem Christlichen lae- 
+      <lb ed="#L" n="5"/>ben hat soellen und moegen die- 
+      <lb ed="#L" n="6"/>nen / deßgleich alle rechte und 
+      <lb ed="#L" n="7"/>ware weißheit / ist ye unnd ye 
+      <lb ed="#L" n="8"/>alles auß den zügtnussen deß 
+      <lb ed="#L" n="9"/>worts Gottes genommen. Es 
+      <lb ed="#L" n="10"/>mögend auch auff den hütti- 
+      <lb ed="#L" n="11"/>gen tag dise stuck / von allen 
+      <lb ed="#L" n="12"/>verstaendigen gloeubigen / und 
+      <lb ed="#L" n="13"/>von Gott beruefften dieneren 
+      <lb ed="#L" n="14"/>der kirchen / nieneruß anders 
+      <lb ed="#L" n="15"/>gruntlich geleert und bewaert 
+      <lb ed="#L" n="16"/>werden / dann auß dem wort 
+      <lb ed="#L" n="17"/>Gottes. Darumb woelcher nicht weißt was das wort Gottes ist / und wie es 
+      <lb ed="#L" n="18"/>ein gstalt darumb hat / der wirt in der gmeynd Gottes / und under den zuhoere- 
+      <lb ed="#L" n="19"/>rern <name>Chrsti</name> / ja auch in allem laesen der <title>heilgen gschrifft</title> nicht anders sein / dann 
+      <lb ed="#L" n="20"/>wie ein blinder und unsinniger mensch. <!--Möglicherweise Absatz--> Und das vil leüt so mit grosser hin- 
+      <lb ed="#L" n="21"/>laeßigkeyt unnd verachtung die predgenen deß worts Gottes hoerend / wie man 
+      <lb ed="#L" n="22"/>an vilen sieht / das kumpt anders nienenhar / dann daz sie die krafft und die waa- 
+      <lb ed="#L" n="23"/>re rechnung unnd art deß worts Gottes nitt recht verstond noch erwaegend.  
+      <lb ed="#L" n="24"/>Darumb damit alle die / so der waarheyt / und deß worts Gottes sonst begirig 
+      <lb ed="#L" n="25"/>und geflissen sind / hieran nit gehindert werdind / sonder mengklicher in seinem 
+      <lb ed="#L" n="26"/>herzen lerne / was und wie er von dem wort Gottes recht halten soelle / so wil ich 
+      <lb ed="#L" n="27"/>mitt Gottes hilff <!--Was heißt diese Abkürzung--> <abbr>E. L.</abbr> soemlichs erklaeren / was namlich ein rechtgloeubiger 
+      <lb ed="#L" n="28"/>mensch vom wort Gottes glauben und halten soelle. <!--Möglicherweise Absatz-->Ir woellind aber hiebey 
+      <lb ed="#L" n="29"/>Gott ernstlich anrueffen und bitten / das er mir gnad und geist verleihe / mitt 
+      <lb ed="#L" n="30"/>frucht und nachtruck hieron zu reden: und das er auch euch ewere ohren unnd 
+      <lb ed="#L" n="31"/>gmuet auffschliessen woelle / damit sein Name in dem allem glopt und prisen wer- 
+      <lb ed="#L" n="32"/>de / und unsere seelen vil frucht darauß empfahen moegind / Amen.
+   </p>
+        <p xml:id="UD1xh4-XddV3R-d1e188">  
+      <lb ed="#L" n="33"/>Erstlich so ist zu erleütteren was das wort Gottes seye. Das woertli / Wort / 
+      <lb ed="#L" n="34"/>streckt sich weit auß / und begreifft vil in der <title>heilgen gschrifft</title> / nach der art und 
+      <lb ed="#L" n="35"/>eigenschafft der Hebraischen spraach. Dann es heißt etwann ein yetlich ding: 
+      <lb ed="#L" n="36"/>gleich wie wir Teütschen das wörtli / Ding / brauchend / damit wir vil begreif- 
+      <lb ed="#L" n="37"/>fend.</p><p xml:id="UD1xh4-XddV3R-d1e204"> Also spricht der Engel deß Herren im <title>Evangelio Luce</title> zu der <name>heilgen 
+      <lb ed="#L" n="38"/>Jungkfrauwen Maria</name> / Es ist bey Gott kein wort unmüglich. Das ist so vil 
+      <lb ed="#L" n="39"/>geredt / als hette er gesprochen / Gott sind alle ding müglich / oder / es ist Gott 
+      <lb ed="#L" n="40"/>kein ding unmüglich / <abbr>etc.</abbr> Es heißt auch erwann das woertli / Wort ein wort 
+      <lb ed="#L" n="41"/>das ein mensch mitt feinem mund redt. Etwann wirt es braucht für ein be- 
+      <lb ed="#L" n="42"/>faelch. Etwan für ein gantzen spruch / sententz / red / oder für ein Prophecey. Als 
+      <!--768.xml-->
+      <pb ed="#L" n="768-"/>
+      <cb ed="#L" n=""/>
+      <lb ed="#L" n="1"/>dessen vil beyspil in der gschrifft hin und wider find. Wenn es dann zu einem 
+      <lb ed="#L" n="2"/>anderen woertli gsertzt wirt / und nit allein gebraucht / so hat es auch nit einerley 
+      <lb ed="#L" n="3"/>oder gleichen verstand. Dann so manspricht / das wort Gottes / so heißt es et- 
+      <lb ed="#L" n="4"/>wan die krafft und macht Gottes. Etwan heißt es / und wirt genommen für den 
+      <lb ed="#L" n="5"/>sun Gottes / der die ander person ist in der H. dreyfaltigkeyt. Wie dann meng- 
+      <lb ed="#L" n="6"/>klichem bewißt der spruch deß heilgen Evangelisten Iohannis: der da lutet / Das 
+      <lb ed="#L" n="7"/>wort ist fleisch worden etc. Eigenlich aber so heißt das wort Gottes / wie wir hie 
+      <lb ed="#L" n="8"/>darvon handlend / Gottes red / und offenbarung seines Goettlichen willens / so 
+      <lb ed="#L" n="9"/>erstlich durch den mund Christi unsers Herren / auch der heiligen Propheten 
+      <lb ed="#L" n="10"/>und Apostlen mundtlich herfür bracht / und demnach auch in die gschrifft ver- 
+      <lb ed="#L" n="11"/>fasset /woelchem an recht nennt die heilig und die Goettlich gschrifft. Dann ein  
+      <lb ed="#L" n="12"/>yedes wort gleichet dem gmuet dessen / von dem es geredt wirt / unnd auß dem es 
+      <lb ed="#L" n="13"/>kompt / also gleichet auch das wort Gottes / Gott dem Herren selb. Gott ist 
+      <lb ed="#L" n="14"/>aber von natur / waarhafft / gerecht / gut / rein / untoedtlich / ewig etc. Darumb 
+      <lb ed="#L" n="15"/>volget das auch das wort Gottes / das auß seinem mund gabt / waarhafft seye/ 
+      <lb ed="#L" n="16"/>gerecht / on list unnd falsch / one irrthumb unnd boeß anfechtungen / heilig / rein / 
+      <lb ed="#L" n="17"/>gut / untoedlich / ewig. Dann es spricht der Herr im Evangelio / dein wort ist 
+      <lb ed="#L" n="18"/>die waarheit. Und der heilig Apostel Paulus / Das wort Gottes ist nit ange- 
+      <lb ed="#L" n="19"/>bunden. So zeuget die ganz gschrifft / das wort Gottes bleibe in ewigkeyt.  
+      <lb ed="#L" n="20"/>Und Salomon spricht / Alle reden Gottes sind geleütteret. Thu nichts zusei- 
+      <lb ed="#L" n="21"/>nen worten / damit er dich nit straffe / und lugenhafftig erfunden werdist. Und  
+      <lb ed="#L" n="22"/>David / Die reden deß Herren sind lauttere reden / wie das silber das im fewr ge- 
+      <lb ed="#L" n="23"/>schmelzt / und siben mal von der erden geleüttert wirt.  
+      <lb ed="#L" n="24"/>Dises wirt aber eüwer liebe baß verstan / so ich etwas weitloeüffiger vom ur- 
+      <lb ed="#L" n="25"/>sprung und von der gwißne deß worts Gottes reden. Das wort Gottes / wie 
+      <lb ed="#L" n="26"/>gemeldet / ist die waarheyt. Gott aber ist ein brunn unnd ursprung der waar- 
+      <lb ed="#L" n="27"/>heit / deßhalb volget / daß auch Gott der einig brunn / ursprung / unnd die einige 
+      <lb ed="#L" n="28"/>ursach deß worts Gottes syge. Unnd wiewol Gott keine glider hatt wie wir 
+      <lb ed="#L" n="29"/>menschen / und deßhalb auch keinen leiblichen mund / so wirt im doch ein mund 
+      <lb ed="#L" n="30"/>zugaeben /dieweil der mund ein Instrument der stimm ist. Dann Gott hat mitt 
+      <lb ed="#L" n="31"/>den menschen geredt in menschlicher stimm / das ist / mit einer soemlichen stimm / die 
+      <lb ed="#L" n="32"/>von menschen hat moegen verstanden werden / und die nach den gmeinen brauch 
+      <lb ed="#L" n="33"/>deß redens der menschen gestaltet gewesen ist. Das sehend wir auß seinen 
+      <lb ed="#L" n="34"/>handlungen mit den heilgen Vaetteren / mitt woelchen / als mit unseren elteren / 
+      <lb ed="#L" n="35"/>Adam und Eva / Moe und andern vaettern / er offt und dick wie wir laesend / ge- 
+      <lb ed="#L" n="36"/>redt hat. Ia auff dem berg Sinai prediget Gott der gantzen grossen gmeind 
+      <lb ed="#L" n="37"/>Israels / und redt außtruckenlich die Zehen gebott / in denen alle Gottfaeligkeit 
+      <lb ed="#L" n="38"/>vergriffen wirt. Dann Deut. 5. laesend wir also: Dise wort (verstand die Ze- 
+      <lb ed="#L" n="39"/>hen gebott) hatt der Herr geredt / zu der gantzen versamlung mitten auß dem 
+      <lb ed="#L" n="40"/>fewr mit lauter stimm. Und im 4. Cap. Ir habend ghöert die stimm seiner wort- 
+      <lb ed="#L" n="41"/>ten / aber kein gleichnuß habend ihr gesehen / sonder allein die stimm. Es hatt 
+      <lb ed="#L" n="42"/>auch Gott meermalen die Engel darzubraucht / und durch iren dienst mit den 
+      <lb ed="#L" n="43"/>menschen geredt. So ist einem yeden bekannt / das der Sun Gottes in an- 
+      <lb ed="#L" n="44"/>genomner menschhyt auff erden gewandlet / unnd er also waarer Gott unnd 
+      <lb ed="#L" n="45"/>mensch das Israelitisch volk selb bey den dreyen Iaren geleert. Darzu 
+      <lb ed="#L" n="46"/>vor und ee der Sun Gottes in dise welt geboren ward / hatt sich Gott eingelas- 
+      <lb ed="#L" n="47"/>sen in die gmuetter und hertzen der heiligen Vaetteren / unnd demnach auch der 
+      <lb ed="#L" n="48"/>Propheten / und hat also hernach durch iren mund / und durch ire gschrifften 
+      <lb ed="#L" n="49"/>die welt underrichtet und gleert. Also hat auch Christus unser Herr den heil- 
+      <lb ed="#L" n="50"/>gen geist / der ein geist ist deß Vatters und deß Suns / in seine Apostel gsendt / 
+      <lb ed="#L" n="51"/>durch woelcher mund reden und schreiben er der welt ist geoffenbaret worden.  
+      <!--769.xml-->
+      <pb ed="#L" n="769-"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>Und dise diener Gottes alle / nach dem sie als außerwoelte werckzüg Gottes / die 
+      <lb ed="#L" n="2"/>offenbarung Gottes von Gott mitt reinen gmuetteren empfangen / habend sie 
+      <lb ed="#L" n="3"/>gemaelte offenbarungen und wort Gottes die sie empfangen / erstlich selb munt- 
+      <lb ed="#L" n="4"/>lich der welt fürtragen. Darnach als die welt yetz begund alten / habend auch 
+      <lb ed="#L" n="5"/>ir etlich / soellichs in gschrifft verfasset. Wie aber und durch woelliche soellichs ge- 
+      <lb ed="#L" n="6"/>schehen / ist notwendig zuwissen / dann uß der selbigen Histori gar sein erscheint /  
+      <lb ed="#L" n="7"/>die recht gestalt / rechnung / gwisse / und wirde deß worts Gottes.  
+      <lb ed="#L" n="8"/>So sind nun von anfang der Welt an / biß auff die zeit Mosis keine gschriff- 
+      <lb ed="#L" n="9"/>ten vorhanden / die wir moegend wissen. Wiewol es gloeublich ist / das dise erste 
+      <lb ed="#L" n="10"/>und uralte Welt nit on gschrifft gewesen syge. Dann es wirt auch von dem hei- 
+      <lb ed="#L" n="11"/>ligen Apostel Inda dem bruder deß heiligen Iacobi / in seiner Epistel citiert 
+      <lb ed="#L" n="12"/>und anzogen ein geschribne weissagung deß heiligen vatters Enoch / der der si- 
+      <lb ed="#L" n="13"/>bend gewesen ist in der ordnung nach unserem vatter Adam. So laßt sich auch 
+      <lb ed="#L" n="14"/>das buch und die Histori Iob ansehen / als obs zu gar uralten zeitten geschriben.  
+      <lb ed="#L" n="15"/>Wie aber dem ioch seye / so haltend doch alle heiligen in der kirchen Gottes / den 
+      <lb ed="#L" n="16"/>trüwen diener Gottes Mosen für den eltisten Schreiber goettlicher buechern.  
+      <lb ed="#L" n="17"/>Darumb so hat Gott von anfang der Welt mit den heiligen vaettern geredt 
+      <lb ed="#L" n="18"/>durch seinen geist / und auch durch das zudienen der Englen. Sie aber habend 
+      <lb ed="#L" n="19"/>soellichs das sie von Gott empfangen / iren kinden / kindskinden / und allen nach- 
+      <lb ed="#L" n="20"/>kommen von mund angeben / seitmalen sie es auch nicht darumb empfangen / 
+      <lb ed="#L" n="21"/>das sie es allein inen selbst behieltind / sonder das sie es auch iren nachkommen 
+      <lb ed="#L" n="22"/>mitteyltind. Dann Gott zeüget immerdar / das er nit nur der Vaetteren Gott 
+      <lb ed="#L" n="23"/>sein woelle / sonder auch ires saamens in ewigkeyt. Das erscheint sonderlich in  
+      <lb ed="#L" n="24"/>der Histori Adams / Noes und Abrahams der ersten gschlechtvaettern. Dann 
+      <lb ed="#L" n="25"/>Gen. vviii. laesend wir / das der Engel deß Herren / und deßhalbend der Herr selb 
+      <lb ed="#L" n="26"/>zum Abraham geredt / solt ich Abrahamen verbergen das ich thun wil / sittmal 
+      <lb ed="#L" n="27"/>er ein groß und maechtigs volck sol werden / unnd alle voelcker in im gebenedyet 
+      <lb ed="#L" n="28"/>soellend werden: Dann ich kenn inn dermassen / das er wirt befelhen seinen kin- 
+      <lb ed="#L" n="29"/>den / und seinem hauß nach im / daßs sie deß Herren weg haltind / unnd thuegind 
+      <lb ed="#L" n="30"/>das recht und gericht ect. Deßhalb hat Abraham als ein trüwer gottsaeliger 
+      <lb ed="#L" n="31"/>liebhaber Gottes (wie auch die uralten Vaetter der ersten Welt) hierinn nützit 
+      <lb ed="#L" n="32"/>versaumpt / sonder hat die menschen fleißig deß willens und der gerichten Got- 
+      <lb ed="#L" n="33"/>tes berichtet: Darumm er auch von Mose / und deßhalb von Gott selbst ein Pro- 
+      <lb ed="#L" n="34"/>phet ist genempt worden. Dise Gottsaelige und laebliche mundtliche leer und 
+      <lb ed="#L" n="35"/>angebung der heiligen Vaetteren / ist in uebung gewesen und gebraucht worden / 
+      <lb ed="#L" n="36"/>von anfang der welt biß auff die zeit Mosis. Unnd hat auch Gott auß seiner 
+      <lb ed="#L" n="37"/>guette fürsehen / das zu allen und yeden zeitten fürtraeffenliche liechter und vaet- 
+      <lb ed="#L" n="38"/>ter gelaept habend / die da glaub wirdige zeügen und hoechstes ansehens waerind.  
+      <lb ed="#L" n="39"/>Dann die welt vor dem Sündtflussz hat neünfürtreffenliche / nammhaffte / weise 
+      <lb ed="#L" n="40"/>unnd heilige maenner gehept / den Adam / Seth / Enos / Renam / Malalehel / 
+      <lb ed="#L" n="41"/>Iared / Enoch / Mathusalem und Lamech. Under woelchen Adam anfacht /  
+      <lb ed="#L" n="42"/>Mathusalem aber beschleüßt die Iar / so vor dem Sündtflussz verlauffen /  
+      <lb ed="#L" n="43"/>Namlich 1656. Dann Adam hat gelaept 930. Iar: deßhalb gestorben vor 
+      <lb ed="#L" n="44"/>dem Sündtflussz 726. Iar. Mathusalem aber hat gelaept 969. Iar / deß- 
+      <lb ed="#L" n="45"/>halben gestorben eben deßjars / da der Sündtflussz angangen. Und hat glaept 
+      <lb ed="#L" n="46"/>mit Adamen / oder dieweil Adam noch glaept 243. iar: das er gar wol vom A- 
+      <lb ed="#L" n="47"/>dam hat moegen berichtet werden deß anfangs aller dingen / Item von Gott / 
+      <lb ed="#L" n="48"/>vom faal deß menschen / und seiner widerbringung / und von allen stucken die  
+      <lb ed="#L" n="49"/>Religion betraeffend / wie er deren von Gott selb berichtet was. Darumb so 
+      <lb ed="#L" n="50"/>habend dise zwen Vaetter / mitt sampt den ubrigen yetz erzelten andern / die er- 
+      <lb ed="#L" n="51"/>ste ganze Welt wol moegen gnugsam berichten deß waaren und einigen heils / 
+      <!--769.xml-->
+      <pb ed="#L" n="769-"/>
+      <cb ed="#L" n="b"/>
+      <!--770.xml-->
+      <pb ed="#L" n="770-"/>
+      <cb ed="#L" n=""/>
+      <lb ed="#L" n="1"/>und der gerechten wegen deß Herren. Nach dem Sündtflussz / hatt Gott 
+      <lb ed="#L" n="2"/>widerumb der welt andere herrliche maenner und fürtreffenliche liechter gege- 
+      <lb ed="#L" n="3"/>ben / mit nammen / Noe / Sem / Arphavat / Sale / Heber / Paleg / Reu / Sa- 
+      <lb ed="#L" n="4"/>ruch / Nachor / Thare / Abraham / Isaac / Iacob. Das sind dreygehen fürnemme 
+      <lb ed="#L" n="5"/>Ertzvaetter / under woelchen die fürtreffenlichsten sind die zwen ersten Noe und 
+      <lb ed="#L" n="6"/>Sem. Nach denen aber sind die fürnemsten Abraham / Isaac und Iacob. Noe 
+      <lb ed="#L" n="7"/>hat gelebt uberal 950. jar / sechs hundert jar was er alt do der Sündtflussz ein- 
+      <lb ed="#L" n="8"/>brach. Derhalben so hat er erlebt / gsehen und gehoert alle heiligen vaetter / die da 
+      <lb ed="#L" n="9"/>gelebt in der ersten welt vor dem Sündthflussz / allein drey außgenommen / Adam /  
+      <lb ed="#L" n="10"/>Seth und Enos. Aber mit den ubrigen / die dise drey gesehen / hat er vil jaren 
+      <lb ed="#L" n="11"/>gelebt / das ihm also nützit hatt moegen verborgen sein aller deren dingen / die 
+      <lb ed="#L" n="12"/>Adam angegeben hat. Es ist auch diser Noe gestorben erst im neünundfünff- 
+      <lb ed="#L" n="13"/>tzigsten jar deß alters Abrahe / das wohl zu verwundern / aber die waarheyt ist.  
+      <lb ed="#L" n="14"/>Sem hat vil jar gelebt mit seinem vatter / Ist alt worden uberal sechs hundert 
+      <lb ed="#L" n="15"/>jar. Er ist dem Noe geboren worden im sechs und nüntzigsten jar ongefar vor 
+      <lb ed="#L" n="16"/>dem Sündtflussz. Derhalben er nit nur sein vatter den Noe / und sein großvat- 
+      <lb ed="#L" n="17"/>ter den Lamech gesehen und ghoert / sonder auch sein aeni den Mathusalem / mit 
+      <lb ed="#L" n="18"/>woelchem er also die sechs und neüntzig jar gelebt hat / und hat von im moegen hoe- 
+      <lb ed="#L" n="19"/>ren und lernen alles das / daz diser vorhin vom Adamen und von der anderen Ertz- 
+      <lb ed="#L" n="20"/>vaettern auch gehoert und gelernet hat. Sem aber ist gestorben nach dem Abra- 
+      <lb ed="#L" n="21"/>ham im zwey unnd fünfftzigsten jar deß alters Jacob / siben unnd dreißig jar 
+      <lb ed="#L" n="22"/>namlich / nach dem tod Abrahe / im hundertundzwoelfften jar Isaacs. Deßhalb 
+      <lb ed="#L" n="23"/>also Iacob der heilig Ertzvatter von dem Sem dem dritten zeügen und leer- 
+      <lb ed="#L" n="24"/>meister vom Adam an / selbst hat moegen allen verstand Gottes / wie inn der vom 
+      <lb ed="#L" n="25"/>Mathusalem empfangen hat / lernen. Iacob aber der Ertzvatter hat seinen 
+      <lb ed="#L" n="26"/>kinden auch angeben / das er von Gott durch die Vaetter empfangen / das ers 
+      <lb ed="#L" n="27"/>jnen angebe und sie es larte. Disem Ertzvatter Iacob ist in Mesopotamia ge- 
+      <lb ed="#L" n="28"/>boren under andern sünen auch der Levi / dessen sun ist gewesen Rahad / woel- 
+      <lb ed="#L" n="29"/>cher sein großvatter Iacob gesehen und gehoert hat / und auch nit wenig jaren 
+      <lb ed="#L" n="30"/>mit ihm gelebt: dann er wirt auch gezellt under die kinder / die mitt Iacoben in 
+      <lb ed="#L" n="31"/>Egypten gezogen. Iacob aber hat mit seinen kinden in Egypten sibentzehen 
+      <lb ed="#L" n="32"/>jar gelebt. Und diser Rahab ist Mosis großvatter gewesen / ein vatter / Am- 
+      <lb ed="#L" n="33"/>rams. Von woelchem Moses grundtlichen erlernet die volkommen und gwisse 
+      <lb ed="#L" n="34"/>angebung von dem willen / von den gebotten und grichten Gottes / wie sein vat- 
+      <lb ed="#L" n="35"/>ter Amram die gelernet von seinem vatter Rahad / Rahad vom Iacob / Ia- 
+      <lb ed="#L" n="36"/>cob vom Sem / Sem vom Mathusalem / Mathusalem aber vom Adam. Das 
+      <lb ed="#L" n="37"/>also Moses in der welt stadt der sibende zeüg erst vom Adamen an. Es erlauf- 
+      <lb ed="#L" n="38"/>fend sich aber von anfang der welt biß auff die geburt Mosis 2368. jar. Das  
+      <lb ed="#L" n="39"/>dise abrechnung gerecht und warhafft syge / wirt ein yegklicher finden / woelcher 
+      <lb ed="#L" n="40"/>die jar / wie die vom Moseim ersten und andern buch nit one ursach fleißig ver- 
+      <lb ed="#L" n="41"/>zeichnet werdend /eigenlich außrechnet.  
+      <lb ed="#L" n="42"/>Nun ist aber auch notwendig zu wissen / was die fürnemsten stuck und arti- 
+      <lb ed="#L" n="43"/>ckel gewesen sy gind der angebung / die von den heiligen vaettern auß Gottes 
+      <lb ed="#L" n="44"/>ordnung und schickung also den nachkommenden allen ist ubergeben / und als vil 
+      <lb ed="#L" n="45"/>als von hand dargreicht worden. So habend sie nun iren nachkommen dises an- 
+      <lb ed="#L" n="46"/>geben / Namlich / daz Gott auß seiner natürlichen guete den menschen wol woelle/ 
+      <lb ed="#L" n="47"/>und woelle das alle menschen zu erkantnuß der warheit koemmind / und gnoß wer- 
+      <lb ed="#L" n="48"/>dind der Goettlichen natur / auch fromm / heilig /gerecht und saelig werdind. Und 
+      <lb ed="#L" n="49"/>darumb habe Gott von anfang den menschen erschaffen nach seiner bildtnuß 
+      <lb ed="#L" n="50"/>und gleichnuß / das er waere heilig / gut / untoedtlich / saelig und theylhafftig aller 
+      <lb ed="#L" n="51"/>guetern Gottes. Der mensch aber syge in diser herzligkeit und in dem wolstand 
+      <!--771.xml-->
+      <pb ed="#L" n="771-"/>
+      <lb ed="#L" n="1"/>nit bliben / sonder syge durch stifftung deß Teüffels und auß eigner schuld gfallen 
+      <lb ed="#L" n="2"/>in die sünd / unnd in alles ellend / auch in den tod / und auß der biltnuß Gottes 
+      <lb ed="#L" n="3"/>verwandler in die gleichnuß deß Teüffels. Da habe aber Gott widerumb ange- 
+      <lb ed="#L" n="4"/>fangen als vil als ein nüw werck deß heils / durch woelches &amp; mensch widerbracht /  
+      <lb ed="#L" n="5"/>und von allem ubel erloeßt / Gott widerumm gleich wurde: und habe sollich grosses 
+      <lb ed="#L" n="6"/>und Goettlichs werck durch ein besonder unnd wunderbar mittel zu vollenden 
+      <lb ed="#L" n="7"/>fürgenommen / Namlich durch die menschwerdung deß ewigen worts. Dann wie 
+      <lb ed="#L" n="8"/>er mit der menschwerdung desselben den menschen Gotte vereinbart / also hat er 
+      <lb ed="#L" n="9"/>auch durch das sterben im fleisch den menschen gereiniget / geheiliget und erloeßt /  
+      <lb ed="#L" n="10"/>und im geschenkt den heiligen geist / und hiemit inn Goetlicher natur widerumm 
+      <lb ed="#L" n="11"/>theilhafft / auch untoedtlich und saelig gemachet. Er verschaffet auch / das wir 
+      <lb ed="#L" n="12"/>yetz ringind und faechtind außzutrucken die art und eigenschafft dessen / nach des- 
+      <lb ed="#L" n="13"/>sen bildtnuß wir erschaffen sind / auff das wir an leib und seel heilig sygind. Zu 
+      <lb ed="#L" n="14"/>dem / so habend sie auch anzeigt / daß das wort zu seiner zeyt werde mensch wer- 
+      <lb ed="#L" n="15"/>den. Item es werde auch entlich sein ein allgmeiner grosser grichtstag / daran 
+      <lb ed="#L" n="16"/>alle menschen versamlet / aber allein die frommen die blonung der untoedtligkeyt 
+      <lb ed="#L" n="17"/>und Gottheyt empfahen werdind. Diß ist allein ein kurtze summ der angaebung 
+      <lb ed="#L" n="18"/>der H. vaettern / die wir nun etwas wytloeuffiger und eygentlicher erklaeren woel- 
+      <lb ed="#L" n="19"/>lend. Zum ersten / so habend die heiligen vaetter den iren angeben und sie geleert /  
+      <lb ed="#L" n="20"/>das allein ein Gott syge in der unzertrennten heiligen dreyheyt / der Vatter /  
+      <lb ed="#L" n="21"/>Sun und heilig Geist. Diser syge auch ein Schoepffer und regierer deß himels 
+      <lb ed="#L" n="22"/>und der erden / unnd alles dessen das darinnen. Von dem syge der mensch be- 
+      <lb ed="#L" n="23"/>schaffen / und alles anders umb deß menschen willen: der hab es auch alles dem 
+      <lb ed="#L" n="24"/>menschen underworffen / und diene im alle noturfft zu als ein trüwer / freygeber 
+      <lb ed="#L" n="25"/>vatter. Item der mensch syge erschaffen von seel und leib / gut / nach der bildt- 
+      <lb ed="#L" n="26"/>nuß und gleichnuß Gottes / aber auß eigner schuld durch trib deß Teüffels syge 
+      <lb ed="#L" n="27"/>er gefallen in sünd / unnd damit habe er den tod und die verdamnuß und alles 
+      <lb ed="#L" n="28"/>ander ubel / das unzalbar ist / in die welt bracht / also das yetz alle kinder Ade /  
+      <lb ed="#L" n="29"/>so von im har koemmend / kinder deß zorns unnd alles ellends erboren werdind.  
+      <lb ed="#L" n="30"/>Gott aber der da reich an barmhertzigkeyt / der habe sich nach seiner uner- 
+      <lb ed="#L" n="31"/>gründten guete / deß menschlichen jamers und ellends erbarmet / und habe auß 
+      <lb ed="#L" n="32"/>seiner lautteren gnad verheissen verzyhung der schuld / unnd die schwaere der  
+      <lb ed="#L" n="33"/>buß / oder der straaff der selben / seinem einigen Sun auffgelegt / das der nach 
+      <lb ed="#L" n="34"/>dem ihm von der Schlangen die versen zertraetten / auch er der Schlangen den 
+      <lb ed="#L" n="35"/>kopff zertraette. Das ist / Gott habe verheissen ein saamen / oder ein Sun / 
+      <lb ed="#L" n="36"/>der da von einem besonderen weyb / das ist auß der hochgelopten Iunckfrau- 
+      <lb ed="#L" n="37"/>wen mensch werden / und mit seinem todt / den Todt / und urheber deß tods den 
+      <lb ed="#L" n="38"/>Teüffel uberwinden / und die gloeubigen kinder Ade erloesen / ja auch zu kinderen 
+      <lb ed="#L" n="39"/>Gottes / und erben deß ewigen lebens annemmen werde. Unnd habend also 
+      <lb ed="#L" n="40"/>die heiligen Vaetter geleert / glauben in Gott unnd in seinen Sun den erloeser 
+      <lb ed="#L" n="41"/>der ganzen welt. So sie auch geopfferet / habend sie damitt bedeüttet seinen 
+      <lb ed="#L" n="42"/>unschuldigen todt / unnd das opffer seins leibs / mitt woelchem er erloesen wurde 
+      <lb ed="#L" n="43"/>unnd versuenen die sünd der gantzen welt. Darumb habend sie auch so fleißig 
+      <lb ed="#L" n="44"/>gemerckt auff das geschlecht unnd auff die linien deß geschlaechts deß Messzie.  
+      <lb ed="#L" n="45"/>Dann die selbig wirt sein ordenlich als an einem schnuerli von dem Adamen ge- 
+      <lb ed="#L" n="46"/>zogen biß auff den Noe: Darnach von dem Noe durch den Sem biß auff den 
+      <lb ed="#L" n="47"/>Abraham: Zu woelchem Gott auch redt / in deinem saamen soellend gebenedeyet 
+      <lb ed="#L" n="48"/>werden alle geschlaecht der erden. Mit woelchen worten / die ersten verheissung 
+      <lb ed="#L" n="49"/>dem Adam beschaehen von Schristo dem erloeser / der den fluch in den saegen ver- 
+      <lb ed="#L" n="50"/>wandlen solt / wider aeferet unnd erneüweret wirt. Dise linien Christi wirt 
+      <lb ed="#L" n="51"/>auch vom Abraham gezogen durch den Isaac biß auff den Iacob. Woelcher 
+      <!--772.xml-->
+      <pb ed="#L" n="772-"/>
+      <cb ed="#L" n=""/>
+      <lb ed="#L" n="1"/>mitt dem Geyst Gottes erfüllt / anzeygt das Iudas unnder seinen Sünen inn 
+      <lb ed="#L" n="2"/>der linien deß gebenedeyeten saamens sein werde / wie man sicht Genes am  
+      <lb ed="#L" n="3"/>neün und vierzigsten capittel. Im stammen Iuda aber wirt das hauß Da- 
+      <lb ed="#L" n="4"/>vids aßgesünderet / das der heilig saamen unnd pflantz deß laebens darauß 
+      <lb ed="#L" n="5"/>herfür kommen werde. Darüber habend die heiligen Vaetter weytter ange- 
+      <lb ed="#L" n="6"/>ben / wie das Gott mit dem menschlichen geschlecht ein pundt gemachet / und 
+      <lb ed="#L" n="7"/>sie sich ihm / und er sich ihnen vestigklich verpflicht und verbunden. Darauß sie 
+      <lb ed="#L" n="8"/>dann die ihren geleert auff Gott vertrauwen / den pundt unnd glauben halten / 
+      <lb ed="#L" n="9"/>Gott anbaetten / andere unnd falsche Goetter verachten / Gott allein anrueffen /  
+      <lb ed="#L" n="10"/>und andaechtigklich verehren. Item / das der dienst und die verehrung Got- 
+      <lb ed="#L" n="11"/>tes in geistlichen dingen stande / in glauben / hoffnung / liebe / gehorsamme / ge- 
+      <lb ed="#L" n="12"/>raechtigkeyt / heiligung / unschuld / gedult / waarheyt / haltung deß rechten / und 
+      <lb ed="#L" n="13"/>Gottsforcht. Derhalben warend sie den lastern fyend / schultend und hasserend 
+      <lb ed="#L" n="14"/>sie / namlich unglauben / treüwlose / verzweiflung / ungehorsame / undultigkeit / 
+      <lb ed="#L" n="15"/>luginen / gleißnerey / hassz / lesterung / unbill und gewalt / ungeraechtigkeyt / un- 
+      <lb ed="#L" n="16"/>reinigkeit / uberflussz / mutwillen / füllerey / hurey und eebruch / boßheyt / und un- 
+      <lb ed="#L" n="17"/>gottsforcht. Sie lartend auch Gott ein beloner sein alles guten / und ein raecher 
+      <lb ed="#L" n="18"/>und straffer deß boesen. Item das dermenschen seelen untoedlich / das auch die  
+      <lb ed="#L" n="19"/>leib am gericht wider aufferston wurdind / vermantend deßhalb mengklichen / 
+      <lb ed="#L" n="20"/>das man in diser zeyt also lebte / das man das ewig leben nit verlure. Das ist 
+      <lb ed="#L" n="21"/>die summ deß worts Gottes / das den Vaetteren geoffenbart / und von ihnen den 
+      <lb ed="#L" n="22"/>nachkommenden menschen immerdar von einem an andern ist angeben wor- 
+      <lb ed="#L" n="23"/>den. Ia das ist die heylig angaebung der Vaetteren / darinn alle Gottfaelig- 
+      <lb ed="#L" n="24"/>keyt begriffen ist. Das ist auch der alt ungezweyflet / waarhafft / allgemeyn 
+      <lb ed="#L" n="25"/>glaub der heiligen Vaettern.  
+      <lb ed="#L" n="26"/>Uber das alles / habend auch gedachte vaetter iren kinden / und nachkommen 
+      <lb ed="#L" n="27"/>angegeben die gwisse zaal unnd rechnung der jaren von erschaffung der welt 
+      <lb ed="#L" n="28"/>an / auch die nutzbar und gwissz Histori deren dingen / die von der welt anfang 
+      <lb ed="#L" n="29"/>biß auff sie sich verloffen / damit und sie auch also wißtind / wie alle ding ein an-  
+      <lb ed="#L" n="30"/>fang genommen / und auff ein andern ergangen / Item auch die gerichte Got- 
+      <lb ed="#L" n="31"/>tes die er geübt / mit sampt den exemplen deren die Gotsfoerchtigklich  oder un- 
+      <lb ed="#L" n="32"/>gottsfoerchtigklich gelebt. Diß alles moechte wol seyn heytter unnd ordenlich 
+      <lb ed="#L" n="33"/>auß dem ersten buch Mosis / das Genesis genennt wirt / erzeygt werden / aber 
+      <lb ed="#L" n="34"/>die predig wurde sich zu weit außhin verziehen. Ich achten auch es sygind we- 
+      <lb ed="#L" n="35"/>nig oder gar keine under euch allen / die nit mercktind das ich diß alles von der 
+      <lb ed="#L" n="36"/>vaettern angeben / gar nach von wort zu wort also zereden auß dem ersten buch 
+      <lb ed="#L" n="37"/>Mosis genommen: daz ich deßhalb nun wol mag in fürgnomner Histori fürfaren.  
+      <lb ed="#L" n="38"/>Wie nun die ding bißhar der welt von den H. vaettern mundtlich und also ze- 
+      <lb ed="#L" n="39"/>reden von hand sind ubergeben worden / also hat Moses die selben erstlich in ge- 
+      <lb ed="#L" n="40"/>schrifft verfaßt / mit sampt allem dem / das sich auch bey seinen leben / namlich in  
+      <lb ed="#L" n="41"/>cxx. jaren veroffen hat. Und damit aber soelliche leer und geschrifft Mosis bey 
+      <lb ed="#L" n="42"/>aller welt / und allen menschen / zu jeder zeyt / dest mer ansehens und glaubens 
+      <lb ed="#L" n="43"/>hette / und ein yeder sehe und wißte / das Mosis geschrifften / daz waarhafft wort 
+      <lb ed="#L" n="44"/>Gottes selb waerind / so ist Moses von Gott mit vil wunderbarlichen zeichen und 
+      <lb ed="#L" n="45"/>wunderthaten geziert und fürgstelt worden / woelche der allmaechtig Gott durch 
+      <lb ed="#L" n="46"/>sein hand / das ist / durch seinen dienst gewürckt hat. Und das nit heymlich in  
+      <lb ed="#L" n="47"/>einem winckel der welt / oder an eim unachtbaren ort / sonder im Egyptischen 
+      <lb ed="#L" n="48"/>Reich / das dozemal das aller fürtraeffenlichst unnd verrümptest inn der welt 
+      <lb ed="#L" n="49"/>was. Der wundern sind mer / sie sind auch groesser und fürtraeffenlicher / dann hie 
+      <lb ed="#L" n="50"/>moege mit wenig worten erzelt werden. Es ist auch nit von noeten das ich sie an-  
+      <lb ed="#L" n="51"/>ziehe / dieweyle euwer liebe die selben sonst weißt / und iren bericht ist. Demnach 
+      <!--773.xml-->
+      <pb ed="#L" n="773-"/>
+      <cb ed="#L" n=""/>
+      <lb ed="#L" n="1"/>so hatt auch Gott Mosi sein ansehen mit anderen dingen gemeeret / Namlich /  
+      <lb ed="#L" n="2"/>das er gantz vil gespraech mit im gehalten / und under anderem zu im gesprochen /  
+      <lb ed="#L" n="3"/>Sihe ich wil zu dir kommen inn einem dicken wolcken / das daß volck mich hoere 
+      <lb ed="#L" n="4"/>mit dir reden / und dir glauben ewigklich. Dessen vernuegt sich der Herr ouch nit / 
+      <lb ed="#L" n="5"/>sonder heißt Mosen das gantz volck besamlen / namlich auff die sechs hundert 
+      <lb ed="#L" n="6"/>tausent man / mit sampt weyb und kinden. Als nun die besamler bey dem berg 
+      <lb ed="#L" n="7"/>Sinai / da ist Gott erschinen in wunderbarer und erschrocklicher gestallt / und 
+      <lb ed="#L" n="8"/>hat selb zu dem gantzen volck geredt / und inen erzellet die Zehen gebott. Das 
+      <lb ed="#L" n="9"/>volck erschrack aber ab der herzligkeyt Gottes / unnd begaert das der Herr für- 
+      <lb ed="#L" n="10"/>hin nit mer selbs mit der gemeynd redte / sonder sie woeltind sich vernuegen / so er 
+      <lb ed="#L" n="11"/>durch Mosen mit inen handlete. Woelchs begaeren der Herr vom volck angenom- 
+      <lb ed="#L" n="12"/>men / und hat deßhalb hernach allzeit wenn er etwas mit inen reden woellen / durch 
+      <lb ed="#L" n="13"/>Mosen dasselbig geredt. Dieweil aber das volck ein halßstarrig volck / und in  
+      <lb ed="#L" n="14"/>Egypten durch die gmeynschafft der abgoettischen ubel verderbt was / do fieng 
+      <lb ed="#L" n="15"/>Moses an in geschrifft verfassen / waz die alten H. vaetter angeben hattend / auch 
+      <lb ed="#L" n="16"/>was im der Herz geoffnet hat. Und das darumm / damit semliche ding nit bey den  
+      <lb ed="#L" n="17"/>hinlaeßigen volck / auch sonst nit etwan durch lenge unnd widerwertigkeyt der 
+      <lb ed="#L" n="18"/>zeiten in vergaeßkaemind und zugrund giengind. Und zusoellichem gab der Herr 
+      <lb ed="#L" n="19"/>Mosi selb ein anzeigung mit seinem exempel. Dann er schreib selb alles daz er auff 
+      <lb ed="#L" n="20"/>dem berg Sinai zu der versamlung geredt hat / gleich mit seinem eignen finger 
+      <lb ed="#L" n="21"/>inn zwo steine taflen / der eben dasselbig auch vorhin von anfang der welt mitt 
+      <lb ed="#L" n="22"/>seinen finger in die hertzen der heiligen vaettern geschriben hat. Darzu so gab er 
+      <lb ed="#L" n="23"/>auch Mosi ein heittern befaelch / das er auffschribe was er im eroffnet hat. Di-  
+      <lb ed="#L" n="24"/>sem gebott was Moses gehorsam und schreyb. Derheilig geyst aber / der das 
+      <lb ed="#L" n="25"/>gantz gemuet Mosis besessen hat / leyttet ihm auch sein hand zu schreiben. Im 
+      <lb ed="#L" n="26"/>manlet auch sonst nützit alles dessen / das zu einem volkomnen außpündig- 
+      <lb ed="#L" n="27"/>gen Scribenten hoert. Er was von seinen vordern gantz wol aller dingen be- 
+      <lb ed="#L" n="28"/>richtet: dann er auch geboren was von dem heiligen geschlecht der vaettern / die 
+      <lb ed="#L" n="29"/>Gott zu zügen seines willens / seiner gebotten und gerichten verordnet und er- 
+      <lb ed="#L" n="30"/>woellet hatt / namlich Amram / Rahab / Iacob / Sem / Mathusalem / Adam.  
+      <lb ed="#L" n="31"/>Derhalben er wol gemoegen ein gewisse unnd waarhaffte Histori von der welt 
+      <lb ed="#L" n="32"/>anfang biß auff seine zeiten beschriben. Zu woelcher er auch gethon hat / was zu  
+      <lb ed="#L" n="33"/>seiner zeit und er dem volck Gottes beschehen / Woelcher dingen er wol hatt moe- 
+      <lb ed="#L" n="34"/>gen ein waarhaffter zeüg sein / als der sei alle selbs gesehen und gehürt. Was  
+      <lb ed="#L" n="35"/>er auch in seinen buechern geschriben / das hat er alles dem volck erzellt und für- 
+      <lb ed="#L" n="36"/>gehlaten. Und ist keiner under inen / deren doch so vil tausent warend / erfun- 
+      <lb ed="#L" n="37"/>den worden / der denen dingen widerspraeche. Das deßhalben die einmuetig ein- 
+      <lb ed="#L" n="38"/>haelligkeyt und zeügknuß der uberauß grossen versamlung deß volck Gottes / 
+      <lb ed="#L" n="39"/>den geschrifften Mosis nit wenig glaubens und ansehens bringt.  
+      <lb ed="#L" n="40"/>Er hat aber beschriben die Histori von anfang der welt biß auff sein tod / da- 
+      <lb ed="#L" n="41"/>rinn auff die 2488. jar vergriffen / inn fünff buechern / die man nennt die fünff 
+      <lb ed="#L" n="42"/>buecher Mosis. Inn denen erleüttert er weytloeuffig / die eroffnung deß worts 
+      <lb ed="#L" n="43"/>Gottes den menschen beschehen / was auch dasselbig begreiffe unnd leere. Da- 
+      <lb ed="#L" n="44"/>rinnen habend wir nit nur vilfaltige offnungen und heitere wort Gottes selb /  
+      <lb ed="#L" n="45"/>sonder auch vil klarer zeügknussen / sprüch / beyspil und leeren der aller eltisten /  
+      <lb ed="#L" n="46"/>fürtraeffenlichsten / heiligisten / weisesten und hoechstgeachtesten maennern der 
+      <lb ed="#L" n="47"/>welt / von allen stucken und sachen / die da moegend zu einem gutten und saeligen 
+      <lb ed="#L" n="48"/>leben dienen. Darumb auch dise buecher bey allen nachkomnen für glaubwir- 
+      <lb ed="#L" n="49"/>dig / und als die von und auß ihnen selbs ansehens gnüg habind / und denen on 
+      <lb ed="#L" n="50"/>alles widerspraechen alle welt zu glauben schuldig syge / erkent / angenommen und ge- 
+      <lb ed="#L" n="51"/>halten sind worden. Ia auch unser Herr Jesus Christus / &amp; eingeborn sun Gottes / 
+      <!--774.xml-->
+      <pb ed="#L" n="774-"/>
+      <cb ed="#L" n=""/>
+      <lb ed="#L" n="1"/>weißt seine gloebigen dahin / das sie die gschrifften Mosis laesind: und thut das 
+      <lb ed="#L" n="2"/>inn sachen / die die fürnemmsten hauptstuck deß heils antraffend. Als wir sehend 
+      <lb ed="#L" n="3"/>Ioan. am v. Luc. am xvi. und Matth. am v. cap. Da er spricht / ir sond nit mey -  
+      <lb ed="#L" n="4"/>nen das ich kommen sye das fsatzt usszuloesen oder die Propheten: Ich bin nitt 
+      <lb ed="#L" n="5"/>kommen das ichs auff loese / sonder erfülle. Dann waarlich sag ich euch / biß das  
+      <lb ed="#L" n="6"/>himmel und erden zergadt / wirt nit zergon der kleinest buchstab / noch ein tit- 
+      <lb ed="#L" n="7"/>tel vom gsatzt / bißes alles gschicht. Wer nur eins von disen kleinsten gebotten 
+      <lb ed="#L" n="8"/>auffloeßt / und leert die leüt also / der wirt der kleinst heissen im himmelreich / wer 
+      <lb ed="#L" n="9"/>es aber thut unnd leert / der wirt groß heissen im himmelreich. Es sind wol 
+      <lb ed="#L" n="10"/>ettlich funden worden / die Mosi dem diener Gottes widersprochen habend /  
+      <lb ed="#L" n="11"/>aber Gott hatt soellichs widerspraechen / als ob es seiner Mayestat selb beschae- 
+      <lb ed="#L" n="12"/>hen / auffgenommen / unnd greülich gestrafft. Wie wir dessen exempel unnd 
+      <lb ed="#L" n="13"/>kundtschafften habend E xod. xvi. und Nume xii Erstlichen deß volcks Got- 
+      <lb ed="#L" n="14"/>tes / das wider Mosen murret / Demnach Marie der schwester Mosis die im 
+      <lb ed="#L" n="15"/>irem eignen bruder widerbaefftzet. Da sprach aber Gott zum volck / ihr mur- 
+      <lb ed="#L" n="16"/>rend nicht wider die diener / sonder wider den Herren. Maria aber ward mitt 
+      <lb ed="#L" n="17"/>grausammem außsatz geplaget. Also ist Theotectus der Tragedischreiber er- 
+      <lb ed="#L" n="18"/>blindet / und Theopompus von sinnen kommen / darumb das sie mit dem wort 
+      <lb ed="#L" n="19"/>Gottes ungebürlich gehandlet. Dann ob wol das wort Gottes durch menschen 
+      <lb ed="#L" n="20"/>eroffnet / geredt oder geschriben wirt / so hoert es doch nit auff Gottes wort sein / 
+      <lb ed="#L" n="21"/>und wirt nicht ein menschen wort / darumb das es von menschen prediget oder 
+      <lb ed="#L" n="22"/>gehoert wirt / gleich wie auch deß Künigs gebott / nitt deß Herolden gebott ge- 
+      <lb ed="#L" n="23"/>nennt wirt / darumb das es durch den Herolden außgeschrüwen wirt. Darumm 
+      <lb ed="#L" n="24"/>wer Mosen verachtet / durch woelchen Gott mit uns redt / unnd durch woelchen 
+      <lb ed="#L" n="25"/>wir alles empfangen habend / was die heilgen Ertzvaetter von anfang der welt 
+      <lb ed="#L" n="26"/>iren nachkomnen angeben / der verachtet Gott selb / unnd mitt Gott auch alle 
+      <lb ed="#L" n="27"/>heilige Ertzvaetter. Und ist also kein underscheyd zwüschend den wort Gottes /  
+      <lb ed="#L" n="28"/>das da mundtlich geredt unnd angeben wirt / und dem / das mitt der faeder eins 
+      <lb ed="#L" n="29"/>menschen geschriben ist / dann allein so vil underscheids ist zwüschend einer 
+      <lb ed="#L" n="30"/>mundtlichen stimm und einer geschrifft / da aber an beyden orten der handel sinn 
+      <lb ed="#L" n="31"/>und verstand gleich und eins ist. Auß disem allem hat nun ewer lieb verstand- 
+      <lb ed="#L" n="32"/>den die eygenlich Histori deß ursprungs und anfangs deß worts Gottes.  
+      <lb ed="#L" n="33"/>Da woellend wir nun auch besehen / wie dasselbig zugenommen / unnd wie es  
+      <lb ed="#L" n="34"/>ye lenger ye klaerer und heitterer der welt eroeffnet worden. Als yetzund der hei- 
+      <lb ed="#L" n="35"/>lig Moses auß diser welt gehn himel genommen / da hat der guettig Gott für und 
+      <lb ed="#L" n="36"/>für fürtraeffenliche Propheten seiner kirchen gegeben / woelche er erwoelt hat / daz 
+      <lb ed="#L" n="37"/>er durch sie sein wort der gantzen welt offnete. Es sind aber bey den alten die Pro- 
+      <lb ed="#L" n="38"/>pheten gewesen / wie by uns die priester / weisen / prediger / hirten / Bischoff / leeren / 
+      <lb ed="#L" n="39"/>oder Theologi / die aller Goettlichen dingen für auß bericht / und dem volck von 
+      <lb ed="#L" n="40"/>Gott in glaubens sachen zu fuerern gegeben warend. Das aber deren nit wenig /  
+      <lb ed="#L" n="41"/>auch nit schlechte under den volck Gotes gwesen biß uff die Babylonisch gsenck- 
+      <lb ed="#L" n="42"/>nuß an / mag wol ein yeder wissen und zeügen / woelcher die Biblisch Histori gelae- 
+      <lb ed="#L" n="43"/>sen. Under denen werdend gezelt die fürnemmsten und fürtraeffenlichsten / Phinees /  
+      <lb ed="#L" n="44"/>Samuel / Helias / Heliseus / Isaias und Ieremias. Es sind auch David und Sa-  
+      <lb ed="#L" n="45"/>lomon nit nur künig sonder auch Propheten gewesen. In der Babylonischen 
+      <lb ed="#L" n="46"/>fsaencknuß warend Daniel und Ezechiel nammhafft. Nach der selben gsaencknuß 
+      <lb ed="#L" n="47"/>ist under andern Zacharias der sun Barachie der nammhafftest gewesen. Das 
+      <lb ed="#L" n="48"/>sind nun wenig von vilen / woelche ob sie wol nicht all zu einer zeit / unnd ettwan 
+      <lb ed="#L" n="49"/>lang von einanderen gelebt / so habend sie doch all einmutig erkennt / das Gott 
+      <lb ed="#L" n="50"/>durch Mosen mitt der welt geredt habe / unnd das er auß Gottes ordnung der  
+      <lb ed="#L" n="51"/>kirchen inn der welt ein volkommene summ unnd innhalt deß worts Gottes 
+      <!--775.xml-->
+      <pb ed="#L" n="775-"/>
+      <cb ed="#L" n=""/>
+      <lb ed="#L" n="1"/>und der waaren Theology in geschrifft verlassen habe. Und habend dise Prie- 
+      <lb ed="#L" n="2"/>ster / weissaget und Propheten alle / in allen dingen ein fleißig auffsehen gehept 
+      <lb ed="#L" n="3"/>auff die leer Mosis. Ia das gsatzt Mosis / das an im selb Gottes fsatzt ist / und  
+      <lb ed="#L" n="4"/>recht Thora / das ist ein richtschnur und Regel deß glaubens und deßlebens ge- 
+      <lb ed="#L" n="5"/>nennt wirt / habend sie fleißig allen menschen einpluwen / und dasselbig auch ye 
+      <lb ed="#L" n="6"/>nach dem und die zeitten personen und ort warend / den leüten außgelegt: Dann 
+      <lb ed="#L" n="7"/>alle Priester und Propheten vor der menschwerdung Christi / habend die recht 
+      <lb ed="#L" n="8"/>Gottsaeligkeit und den waaren glauben den menschen so ye zu iren zeytten ge- 
+      <lb ed="#L" n="9"/>laebt / mundtlich fürtragen. Habend inen aber auch nichts anders fürtragen /  
+      <lb ed="#L" n="10"/>dann was die vaetter von Gott / und Moses von Got und von den vaettern em- 
+      <lb ed="#L" n="11"/>pfangen hat. Und eben dasselbig habend sie auch gleich in gschrifft allen nach- 
+      <lb ed="#L" n="12"/>kommenden biß ans end der welt zu gutem verfasset: daz wir yetz also in den Pro- 
+      <lb ed="#L" n="13"/>pheten auch Mosis leer und der vaettern angebung habend / aber alles etwas 
+      <lb ed="#L" n="14"/>heitterer und volkomner außgelegt und erklaert / nach den umbstaenden der or- 
+      <lb ed="#L" n="15"/>ten / zeiten und personen. Die leer aber und die geschrifften der heiligen Pro- 
+      <lb ed="#L" n="16"/>pheten sind allwegen in hoechsten ansehen gewesen by allen verstaendigen der gan- 
+      <lb ed="#L" n="17"/>tzen welt. Dann durch vil anzeigungen offenbar war / daz die nit von iner erdacht / 
+      <lb ed="#L" n="18"/>sonder iner oben herab vom heiligen geist Gottes eingeblasen. Dann Gott ist der /  
+      <lb ed="#L" n="19"/>der durch seinen geist wonende in den hertzen der heilgen Propheten / durch iren 
+      <lb ed="#L" n="20"/>mund mit uns redt. Derhalben habend sie auch so herzliche zeügnussen von Chri- 
+      <lb ed="#L" n="21"/>sto dem sun Gottes / und seinen außerwoelten Apostlen. Darzu dienend auch die 
+      <lb ed="#L" n="22"/>grossen wunderzeichen und thaten / die Gott offtermals durch ihren dienst ge- 
+      <lb ed="#L" n="23"/>würckt hat / damit wir doch auß den selbigen grossen zeichen lernet ind erkennen /  
+      <lb ed="#L" n="24"/>das sie alles das sie gethon und geleert / auch das sie geschrifftlich hinder ihnen  
+      <lb ed="#L" n="25"/>gelassen / alles auß Gottes trib von eingaebung gethon. Es gebend auch den hei- 
+      <lb ed="#L" n="26"/>ligen Propheten herzliche kundtschafft der Goettlichen waarheyt alle die für- 
+      <lb ed="#L" n="27"/>treffenlichen gmeynden kirchen unnd Regiment / die durch sie nach dem wort 
+      <lb ed="#L" n="28"/>Gottes gesamlet und regiert sind worden. Man preißt hefftig den Platonem /  
+      <lb ed="#L" n="29"/>Zenonem / Aristotelem / und andre Heidnischen Philosophos und weisen / aber 
+      <lb ed="#L" n="30"/>woelcher hat under denen allen ye gemoegen ein gantze gemeind besammlen unnd 
+      <lb ed="#L" n="31"/>darzubringen / das sie nach irer fürgschrifft laebre: Die Propheten aber habend 
+      <lb ed="#L" n="32"/>die aller fürnempsten und beruemptesten Regiment und gmeynden der gantzen 
+      <lb ed="#L" n="33"/>welt / ja gantze herzliche Küngkreich under irer leer gehept. Den Künig und  
+      <lb ed="#L" n="34"/>Propheten Salomonem habend alle weisen der gantzen welt / die zu seiner zeit 
+      <lb ed="#L" n="35"/>gelebt / also zereden angebaettet / und sind von den enden der welt har im zugezo- 
+      <lb ed="#L" n="36"/>gen. So ist Daniel der fürnempst gewesen under allen weisen in der gantzen und 
+      <lb ed="#L" n="37"/>fürnempsten Monarchy der Babyloniern. Darzu ist er auch in hoechsten an- 
+      <lb ed="#L" n="38"/>sehen gewesen bey Dario dem Meder Künig / der ein sun was Astyagis oder  
+      <lb ed="#L" n="39"/>Assueri / deßgleichen bey dem fürtraeffenlichsten Künig Cyro. Ich kan auch 
+      <lb ed="#L" n="40"/>nit underlassen zemelden / daz Goettlich und gwisse vorwissen derh. Propheten / daz sie 
+      <lb ed="#L" n="41"/>gehept von denen dingen / die erst nach vil hundert jaren sind geschehen. Dann daz ich 
+      <lb ed="#L" n="42"/>andrer geschweige / hat nit Esaias gantz eigentlich vor gsagt alles das / daz her- 
+      <lb ed="#L" n="43"/>nach durch die Iuden an unserm Herzen Iesu Christo ist erfült worden: Darumm 
+      <lb ed="#L" n="44"/>er nit vergaebenlich von den alten mee für ein Evangelischen / dann für ein Pro- 
+      <lb ed="#L" n="45"/>pheten oder weissager ist ghalten worden. Er hat auch den namen deß Künigs 
+      <lb ed="#L" n="46"/>Cyri genempt und vorgsagt zum wenigsten clx. jar eb unnd Cyrus yenen ge- 
+      <lb ed="#L" n="47"/>boren wurde. So ist auch Daniel recht von den alten genennt worden Polyhistor / 
+      <lb ed="#L" n="48"/>daz ist / der vilwissend. Dann alles daz von seiner zeit an biß auff Christum / ja biß uff 
+      <lb ed="#L" n="49"/>denletsten tag deß grichts gschehen ist und noch gschehen wirt / gar nach in allen rei- 
+      <lb ed="#L" n="50"/>chen der welt / fürnemlich in den volck Gotes / daz hat er alles so dütlich vorgsagt /  
+      <lb ed="#L" n="51"/>daz einen beduncken moechte / er schribe nit von künfftign son &amp; bschehnen dingen.  
+      <!--776.xml-->
+      <pb ed="#L" n="776-"/>
+      <cb ed="#L" n=""/>
+      <lb ed="#L" n="1"/>Das / sprich ich / bezeüget alles heiter / das die leeren und gschrifften der heiligen 
+      <lb ed="#L" n="2"/>Propheten das waar wort Gottes selb sind / wie dann auch die heilig gschrifft 
+      <lb ed="#L" n="3"/>selbs inen den tittel und nammen allenthalben gibt. Dann ye der heilig Apostel 
+      <lb ed="#L" n="4"/>Petrus spricht / das die Prophecey nitt auß menschlichem willen herfür bracht 
+      <lb ed="#L" n="5"/>seye / sonder die heiligen menschen Gottes habinds geredt / getriben von dem  
+      <lb ed="#L" n="6"/>heiligen geist.  
+      <lb ed="#L" n="7"/>Wiewol nun aber Gott sein wort uberflüßig / heiter / klar und einfalt der welt 
+      <lb ed="#L" n="8"/>durch die heiligen Ertzvaetter / durch Mosen / die Priester und Propheten eroeff- 
+      <lb ed="#L" n="9"/>net hat / so hat er doch soemlichs in den letsten zeiten zum aller heitersten und ein- 
+      <lb ed="#L" n="10"/>faltigesten dem gantzen umbkreiß der erden durch seinen sun fürgelegt. Dann 
+      <lb ed="#L" n="11"/>der eingeboren sun deß vatters / ist selbs von himmelkommen / und hat alles er- 
+      <lb ed="#L" n="12"/>füllt / was und wie es die Propheten vorgesagt / und hatt also auff die drey jar 
+      <lb ed="#L" n="13"/>alle waare gottsaeligkeit geleert. Dann Ioannes spricht spricht / Es hat nieman ye 
+      <lb ed="#L" n="14"/>Gott gesehen / der eingeboren sun / der da ist in der schoß deß Vatters / der hats 
+      <lb ed="#L" n="15"/>uns erzellt. So spricht der Herr selb zu seinen Iüngern / Alles was ich von mei- 
+      <lb ed="#L" n="16"/>nem vatter ghort hab / das hab ich euch kundt gethon. Item / ich bin das liecht 
+      <lb ed="#L" n="17"/>der Welt / wer mir nachvolget / der wandlet nicht in der finsternuß / sonder wirt 
+      <lb ed="#L" n="18"/>haben das liecht deß lebens. Es hat aber der Herr gleert / das einem yeden 
+      <lb ed="#L" n="19"/>der da begaert faelig zewerden und gehn himmel zekommen / von noeten syge die 
+      <lb ed="#L" n="20"/>himmlisch widergeburt. Dann in der ersten geburt werde der mensch zum tod ge- 
+      <lb ed="#L" n="21"/>boren / in der andern zum leben. Dise widergeburt beschaehe aber durch den geist  
+      <lb ed="#L" n="22"/>Gottes / der durch den glauben unsere hertzen ernüwere / ja durch den glauben  
+      <lb ed="#L" n="23"/>in Christum / der da gestorben ist für unsere sünd / und wider aufferstanden umm 
+      <lb ed="#L" n="24"/>unser gerechtmachung willen. Durch disen glauben hat er gleert / werdind die 
+      <lb ed="#L" n="25"/>gloeubigen grecht gmachet / und auß disem glauben entspringind und erwach- 
+      <lb ed="#L" n="26"/>sind vil und mengerley frücht der liebe und unschuld / zu woelchen er die welt mit 
+      <lb ed="#L" n="27"/>hoechstem ernst vermanet hat. Darzu hat er geleert / das er daz end und die erfül- 
+      <lb ed="#L" n="28"/>lung deß gsatztes und der Propheten sey / und hat hiemit die leer Mosis und der 
+      <lb ed="#L" n="29"/>Propheten bestaetiget und aßgelegt. Naebend der leer / hat er grosse wunder- 
+      <lb ed="#L" n="30"/>zeichen und wolthaten gewürckt / mit woelchen er sich erklaert hat sein das liecht 
+      <lb ed="#L" n="31"/>und den erloeser der welt. Das auch dise sein leer und seine wolthaten der gan- 
+      <lb ed="#L" n="32"/>tzen welt kundtbar wurdind / so hat er ihm hierzu zeügen erwoelt / die er Apostel 
+      <lb ed="#L" n="33"/>genennt / darumb das er sie in den gantzen umbkreiß der er den zu predigen sen- 
+      <lb ed="#L" n="34"/>den wolt und verordnet hat. Dise zeügen warend einfalte / unschuldige / from- 
+      <lb ed="#L" n="35"/>me / waarhaffte leüt / die umb kein lift noch trug ützit wißtend / sonder gantz 
+      <lb ed="#L" n="36"/>trüw und redlich warend. Deren nammen nit on frucht offt in der kirchen ge- 
+      <lb ed="#L" n="37"/>meldet werdend. Und sind deßhalb das ihre nammen / Petrus und Andreas /  
+      <lb ed="#L" n="38"/>Iacobus und Ioannes / Philippus und Bartholomeus / Thomas und Ma- 
+      <lb ed="#L" n="39"/>theus / Iacobus Alphei unnd Iudas sein bruder / mit dem zunammen genennt 
+      <lb ed="#L" n="40"/>Thaddeus / Simon und Iudas der Iscarioth / an woelches statt aber / dieweil  
+      <lb ed="#L" n="41"/>er den Herren verrathen hatt / der heilig MAthias ist erwoelt worden. Dise 
+      <lb ed="#L" n="42"/>habend auff die drey jarden Herren / ja sein himmlische leer selb gehoert / und seine 
+      <lb ed="#L" n="43"/>Goettliche thaten und werck gesehen. Er hat sie auch nach seiner himmelfart /  
+      <lb ed="#L" n="44"/>durch sendung deß heiligen geists von himmel herab / in allweg geschickt unnd 
+      <lb ed="#L" n="45"/>krefftig gemachet. Dann wie sie der gschrifft wol erfaren / also kontend sie auch 
+      <lb ed="#L" n="46"/>mit allerley spraachen reden / und warend darinnen wol beredt. Nach woelcher 
+      <lb ed="#L" n="47"/>begabung sie von Ierusalem außzogen sind / und habend die gantz welt durch- 
+      <lb ed="#L" n="48"/>strichen / allen landen und voelckern geprediget / was inen zupredigen vom Her- 
+      <lb ed="#L" n="49"/>ren und heyland der welt Iesu Christo selbs befolhen was. Und als sie yetzund 
+      <lb ed="#L" n="50"/>etlich jar mundtlich geprediget / habend sie auch daz sie prediget / in geschrifft ver- 
+      <lb ed="#L" n="51"/>fasset. Dann etliche habend geschriben die Histori von den leeren unnd thaten 
+      <!--777.xml-->
+      <pb ed="#L" n="777-"/>
+      <cb ed="#L" n=""/>
+      <lb ed="#L" n="1"/>Christi / andere von den leeren und thaten der Apostlen / andere habend man- 
+      <lb ed="#L" n="2"/>cherley Epistlen und Sendbrieff hin und wider an die kirchen und voelcker ge- 
+      <lb ed="#L" n="3"/>schriben. In woelchen allen sie zubezeügnung der waarheyt / auch die geschrifften 
+      <lb ed="#L" n="4"/>deß alten gsatzes unnd der Propheten brauchend / wie wir dann soemlichs auch 
+      <lb ed="#L" n="5"/>vom Herren selb beschaehen sein laesend. Zudisen zwoelff Apostlen gehoerend 
+      <lb ed="#L" n="6"/>auch die zwey grossen liechter der welt / Ioannes der Toeüffer / der der groest von  
+      <lb ed="#L" n="7"/>weibern erboren / und Paulus der außerwellt werckzeüg / und fürtraeffenlich lee- 
+      <lb ed="#L" n="8"/>rer der Heyden.  
+      <lb ed="#L" n="9"/>Dise aber alle / namlich Ioannes der vorbott deß Herren / unnd die heiligen 
+      <lb ed="#L" n="10"/>Apostel Christi / habend nitt on ursach allwegen in der kirchen Gottes grosses 
+      <lb ed="#L" n="11"/>ansehen und glauben gehept. Dann zu dem das sie Botten gewesen deß ewigen 
+      <lb ed="#L" n="12"/>Künigs unnd deß Herren der gantzen welt / so sind sie auch mitt dem heiligen 
+      <lb ed="#L" n="13"/>geist begabet gewesen / und habend von inen selbs und auß ihrem gutduncken 
+      <lb ed="#L" n="14"/>nützit fürgenommen oder gehandlet. Es hat auch der Herr durch iren dienst 
+      <lb ed="#L" n="15"/>grosse wunder gewürckt / das er also damit iren dienst zierete / und ir leer dester 
+      <lb ed="#L" n="16"/>ansehenlicher und dest glaubwirdiger machte. Ich geschweigen das sie mitt 
+      <lb ed="#L" n="17"/>dem wort Gottes alle welt bekeert / und durch die gantz welt hin fürtreffenliche 
+      <lb ed="#L" n="18"/>kirchen gesamlet und angerichtet habend. Welches sie durch menschliche rath- 
+      <lb ed="#L" n="19"/>schleg und wort nimmermee hettend moegen zuwegen bringen. Darzu diener 
+      <lb ed="#L" n="20"/>auch / das siedermassen an diser leer / als der waaren laebendmachenden leer ge- 
+      <lb ed="#L" n="21"/>halten / das sie sich nit gewidriget auch darfür zu sterben. Ia nit nur sie / sonder 
+      <lb ed="#L" n="22"/>auch alle die / so der Evangelischen leer geglaubt / habend sich nicht entsaessen /  
+      <lb ed="#L" n="23"/>durch wasser / fewr unnd schwert dises leben zu enden / und das ewig zu ergreif- 
+      <lb ed="#L" n="24"/>fen. Das hettend die außerwoelten gloeubigen nitt gemoegen / wenn die leer deren  
+      <lb ed="#L" n="25"/>sie glaubt / nicht were Goettlich gewesen. Derhalben wiewol die Apostelmen- 
+      <lb ed="#L" n="26"/>schen gewesen / so ist doch ir leer / die sie erstlich mundtlich geleert und angeben /  
+      <lb ed="#L" n="27"/>demnach auch mit der faederen in geschrifft verfaßt habend / die waar Goettlich 
+      <lb ed="#L" n="28"/>leer / und deßhalb das waarhafft wort Gottes selb. Darumm dann auch der hei- 
+      <lb ed="#L" n="29"/>lig Apostel Paulus zun Thessalonichern schreibt / da ihr empfengend von uns 
+      <lb ed="#L" n="30"/>das wort Goettlicher predig / namend ir es auff /  nicht als menschen wort / sonder 
+      <lb ed="#L" n="31"/>wie es dann waarhafftig ist / als Gottes wort / welches auch krefftigklichen 
+      <lb ed="#L" n="32"/>würckt in euch die ir glaubend.  
+      <lb ed="#L" n="33"/>Nun vorderet die notturfft / das wir auch zemmenlaesind unnd erzellind die 
+      <lb ed="#L" n="34"/>heiligen buecher / in denen das wort Gottes / das erstlichen also von den Vaet- 
+      <lb ed="#L" n="35"/>tern / demnach von Christo selb unnd den Apostlen mundtlich herfür bracht /  
+      <lb ed="#L" n="36"/>darnach auch von den Propheten und Apostlen in gschrifft verfaßt / begrif- 
+      <lb ed="#L" n="37"/>fen wirt. Da werdend nun erstlich gesetzt die fünff buecher Mosis. Auff die 
+      <lb ed="#L" n="38"/>volgend / Das buch Iosue / Das buch der Richteren / Ruth / zwey buecher Sa- 
+      <lb ed="#L" n="39"/>muels / zwey der Künigen / zwey der Chronicken. Item die buecher Esdre/Ne- 
+      <lb ed="#L" n="40"/>hemie und Hester. Darnach das buch Iob. Item David / oder das Psalmen-  
+      <lb ed="#L" n="41"/>buch. Item drey buechli Solomons / Die Weisen Sprüch / Der Prediger und 
+      <lb ed="#L" n="42"/>die hohen Lieder. Darzu gehoerend auch die vier groessern Propheten / Esaias /  
+      <lb ed="#L" n="43"/>Ieremias / Ezechiel und Daniel. Item die zwoelff kleinern Propheten / deren 
+      <lb ed="#L" n="44"/>nammen einem yeden wol bekannt sind. Diß sind die buecher deß alten Testaments.  
+      <lb ed="#L" n="45"/>Das Neüw Testament haltet inn / erstlich die Evangelisch Histori von unse- 
+      <lb ed="#L" n="46"/>rem Herren Jesu Christo / so beschriben ist von vier maenneren / deren zwen A- 
+      <lb ed="#L" n="47"/>postel gewesen Mattheus und Ioannes / die andern zwen aber jünger / Mar- 
+      <lb ed="#L" n="48"/>cus und Lucas. Welicher Lucas auch ein uberauß schoen und nutzlich buch ge- 
+      <lb ed="#L" n="49"/>macht hat von den geschichten der Apostlen. Under den Apostlen hat Paulus 
+      <lb ed="#L" n="50"/>viertzehen Epistlen geschriben zu etlichen gmeynden und besondern personen.  
+      <lb ed="#L" n="51"/>Die andern Apostel habend siben geschriben / die man Canonicas und Catho- 
+      <!--104.xml-->
+      <pb ed="#L" n="104-"/>
+      <cb ed="#L" n=""/>
+      <lb ed="#L" n="1"/>licas heißt. Zuletst werdend die buecher deß Nüwen Testaments beschlossen 
+      <lb ed="#L" n="2"/>mit der Offenbarung Jesu Christi / die er seinem geliepten jünger dem Evan- 
+      <lb ed="#L" n="3"/>gelisten und Apostel Ioanni geoffenbaret hat / darinn er ihm und der gantzen 
+      <lb ed="#L" n="4"/>kirchen anzeigt / wie es der kirchen Gottes ergon werde biß zum tag deß gerichts.  
+      <lb ed="#L" n="5"/>In disen wenig buecheren / die da gsund / nitt groß / heitter und einfalt / nit dun- 
+      <lb ed="#L" n="6"/>ckel oder verworren sind / wirt begriffen die volkommen leer der Goettlichen 
+      <lb ed="#L" n="7"/>dingen / ja das wort deß waarhafften ewigen und lebendigen Gottes.  
+      <lb ed="#L" n="8"/>Es sind auch die buecher Mosis unnd der Propheten / gantz und ungefelscht 
+      <lb ed="#L" n="9"/>durch so vil hundert jar / durch so vil gfaaren / gefangenschafften und enderun- 
+      <lb ed="#L" n="10"/>gen deß volcks Gottes kommen / biß uff die zeitten Christi und der Apostlen. Dann 
+      <lb ed="#L" n="11"/>der Herr Iesus unnd die heiligen Apostel habend dise buecher als ungefelschte 
+      <lb ed="#L" n="12"/>unnd glaubwirdige gebraucht / das sie freilich nit wurdind gethon habend / oder 
+      <lb ed="#L" n="13"/>moegen thun / so sie eintweders gefescht / oder aber gar verloren waerind gewesen.  
+      <lb ed="#L" n="14"/>Und also sind auch die buecher / die die Apostel Christi gemacht unnd hinzu ge- 
+      <lb ed="#L" n="15"/>thon / mit sampt dem gsatz und den Propheten gantz und ungefelscht in der kir- 
+      <lb ed="#L" n="16"/>chen ye und ye durch alle verfolgungen erhalten worden: unnd auch also unge- 
+      <lb ed="#L" n="17"/>felscht unnd ganz uns / auff die das end der welt kommen / in die hend worden.  
+      <lb ed="#L" n="18"/>Und ist foellichs auß grosser fürsorg / und auß unaußspraechlicher guette Gottes 
+      <lb ed="#L" n="19"/>unsers treüwen Vatters beschaehen / damit man zu keinen zeitten dises theüren 
+      <lb ed="#L" n="20"/>und waerden schatzes manglete.  
+      <lb ed="#L" n="21"/>Also hab ich ewer liebe bißhar erklaert / was das wort Gottes syge. Wie das 
+      <lb ed="#L" n="22"/>angefangen und zugenommen / wie gwissz und wie glaubwirdig es syge. Das 
+      <lb ed="#L" n="23"/>es namlich syge Gottes red / und offenbarung seines gutten willens gegen den 
+      <lb ed="#L" n="24"/>menschen. Welches er von anfang etwan selb mundtlich / etwan aber durch die 
+      <lb ed="#L" n="25"/>Engel / den ureltisten unnd heiligesten vaettern geoffnet / die sollichs mit allen 
+      <lb ed="#L" n="26"/>trüwen und iren nachkomnen angeben. Under welchen vaettern die fürnem- 
+      <lb ed="#L" n="27"/>sten liechter der welt gewesen sind / Adam / Setz / Mathusalem / Noe / Sem / 
+      <lb ed="#L" n="28"/>Abraham / Isaac / Iacob / Amram / und dessen sun Moses. Woelcher auß Got- 
+      <lb ed="#L" n="29"/>tes befaelch die geschichten unnd angebungen der heiligen Ertzvaetteren / auch 
+      <lb ed="#L" n="30"/>das gsatzt Gottes und desselben außlegung / mit schoener und weytloeuffiger be- 
+      <lb ed="#L" n="31"/>schreibung der geschichten seiner zeit in geschrifft verfasset hat. Nach Mose 
+      <lb ed="#L" n="32"/>demnach hatt Gott seiner kirchen andere fürtreffenliche maenner geben / Pro- 
+      <lb ed="#L" n="33"/>pheten und Priester / die auch das / daß sie vom Herren empfangen / mundtlich 
+      <lb ed="#L" n="34"/>und geschrifftlich angeben habend. Nach disen ist der eingeboren sun Gottes 
+      <lb ed="#L" n="35"/>selbs von himmel herab in dise welt kommen / unnd hat erfüllet alles / das von 
+      <lb ed="#L" n="36"/>im in dem gsatzt und in den Propheten gschriben was. Darnebend hat er auch 
+      <lb ed="#L" n="37"/>gellert ein volkomnen waeg frombklich und sealigklich geleben / Und dessen hat 
+      <lb ed="#L" n="38"/>er die Apostel zu zeügen angenommen / Woelche harnach alles das ihnen der 
+      <lb ed="#L" n="39"/>Herr angeben / erstlich mundtlich geprediget / darnach aber auch damit es nit 
+      <lb ed="#L" n="40"/>gefelscht wurde / oder in vergaesszkaeme / auffgeschriben. Das wir also yetz das 
+      <lb ed="#L" n="41"/>wort Gottes habend / wie es von den Vaetteren / Propheten und Apostlen ge- 
+      <lb ed="#L" n="42"/>prediget und geschriben ist. Und das alles ist har geflossen auß dem einigen  
+      <lb ed="#L" n="43"/>geist Gottes / und reicht auch alles auff ein end / namlich das die menschen ler- 
+      <lb ed="#L" n="44"/>nind wol und Gottsaeligklich leben / unnd nach diser zeyt das ewig leben erreich- 
+      <lb ed="#L" n="45"/>chind. Wer nun denen nicht glaubt / vorauß dem eingebornen Sun Gottes /  
+      <lb ed="#L" n="46"/>wem wil er dann glauben. Hie habend wir die aller heiligsten / froembsten /  
+      <lb ed="#L" n="47"/>verruemptisten / gerechtigsten / eltesten / weysesten / Gottseligesten maenner / under 
+      <lb ed="#L" n="48"/>allen die ye und ye gelebt in der gantzen welt / und denen nun niemand sonst zu  
+      <lb ed="#L" n="49"/>vergleichen ist / deren uns sonst die gantz welt keine koendt anzeigen / wenn sie 
+      <lb ed="#L" n="50"/>schon uber tausendt mal in Synodos oder Concilia versamlet wurde. Der 
+      <lb ed="#L" n="51"/>fromm Keyser Constantinus hatt auß der gantzen welt zemmen gelesen ein 
+      <!--105.xml-->
+      <pb ed="#L" n="105-"/>
+      <lb ed="#L" n="1"/>allgemeyn Concilium / unnd sind dreyhundert und achtzehen der aller fürtref- 
+      <lb ed="#L" n="2"/>fenlichsten maennern unnd vaettern deß gantzen erdbodens zemmen kommen:  
+      <lb ed="#L" n="3"/>Aber under allen verstaendigen ist nieman / der die selben nur als ein schatten 
+      <lb ed="#L" n="4"/>achte unnd vergleich / gegen denen maennern / von denen wir das wort Gottes 
+      <lb ed="#L" n="5"/>empfangen. Darumb so soellend wir in allem / dem wort Gottes glauben / das  
+      <lb ed="#L" n="6"/>uns in der heiligen geschrifft angeben ist / unnd wissen / das der waar lebendig 
+      <lb ed="#L" n="7"/>ewig Gott selbs durch die geschrifft mitt uns redt. Lassend uns deßhalb sein  
+      <lb ed="#L" n="8"/>Nammen unnd gute zu allen zeitten loben / der sich also unser erbarmet / das er  
+      <lb ed="#L" n="9"/>uns armen menschen so trülich / volkommenlich und eygenlich die gantze weiß 
+      <lb ed="#L" n="10"/>wol unnd Gottsaeligklich zu leben angeben hatt. Im syge lob unnd ehr inn 
+      <lb ed="#L" n="11"/>ewigkeyt. Amen.  
+      </p>
+</div>
+    </body>
+  </text>
+</TEI>
