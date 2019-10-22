@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 1, Sermo 2 [Bern 1558 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Charlotte Feidicker</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 1, Sermo 2 [Bern 1558 Transcription]</title>
+          <date when="2019-10-15">October 17, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-U78DFf">Bern 1558</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="de">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="13-v"/>
+      </div>
+    </front>
+    <body>
+      <div>
+        <p><!--105.xml-->
+          <lb ed="#L" n="12"/>Uwerliebe hat inn der nechsten Predig gelernet was daz wort 
+          <lb ed="#L" n="13"/>Gottes sye / wohar es kommen / durch waen es geoffenbaret / wie es zu 
+          <lb ed="#L" n="14"/>gnommen / wie glaubwirdig und gewissz es sye. Nun wil ich aber /  
+          <lb ed="#L" n="15"/>mit hilff Gottes und euwers gebaetts euwer liebe auch zu verstan geben / waem /  
+          <lb ed="#L" n="16"/>und zu was end / es syge geoffenbaret / wie man auch dasselbig hoeren soelle / was 
+          <lb ed="#L" n="17"/>sein krafft / würckung und vermoegen syge.</p><p> Gott unser Gott / ist aller voelcke- 
+          <lb ed="#L" n="18"/>ren und menschen Gott / der wil nach dem wort Pauli / das alle menschen / saelig  
+          <lb ed="#L" n="19"/>werdind / und zu erkanntnuß der waarheyt kommind / und darumb hat er von  
+          <lb ed="#L" n="20"/>wegen aller menschen / inen zu gutem / zu irem leben und saeligkeit sein wort geoff- 
+          <lb ed="#L" n="21"/>net / damit es syge ein richtschnur und waag / nach dem die menschen durch den  
+          <lb ed="#L" n="22"/>waeg der geraechtigkeyt gefuert werdind zum ewigen leben.</p><p> Und ob wol waar /  
+          <lb ed="#L" n="23"/>das sich Gott vorzeitten den Israelitern / als seinem besondern volck gheimer 
+          <lb ed="#L" n="24"/>auffgethon unnd zu erkennen geben hatt / (wie der Prophet spricht / Er erzellt 
+          <lb ed="#L" n="25"/>und thut kundt sein wort Iacob / und seine rechte dem Israel / dergleichen hatt 
+          <lb ed="#L" n="26"/>er keinen Heyden thon / und seine Rechte inen nit geoffenbaret. Noch so hatt 
+          <lb ed="#L" n="27"/>er der Heyden auch waar genommen. Dann zu dem das er den Ionam den Ni- 
+          <lb ed="#L" n="28"/>niuitern geschickt / so habend auch Isaias / Ieremias / Daniel unnd andere 
+          <lb ed="#L" n="29"/>Propheten mit grossen ernst auch die Heyden geleert und gewarnet. Es ha- 
+          <lb ed="#L" n="30"/>bend auch die uralten vaetter Noe / Abraham unnd andre / nit nur das Israeli- 
+          <lb ed="#L" n="31"/>tisch volck das von inen / sonder auch andre ire kinder von denen andre voelcker 
+          <lb ed="#L" n="32"/>kommen / die gerichte deß Herren geleert. Vorab hat unser Herr Iesus Christus 
+          <lb ed="#L" n="33"/>seinen Apostlen die gantze welt auffgethon / unnd gesprochen / leerend alle voel- 
+          <lb ed="#L" n="34"/>cker / und predigend das Evangelium allen Creaturen.</p><p> Unnd als S. Peter 
+          <lb ed="#L" n="35"/>noch nit volkommenlich verstind / das die Heyden auch ghortind zur gmeyn- 
+          <lb ed="#L" n="36"/>samme der kirchen Christi / und das die predig deß Evangelii von dem heil das 
+          <lb ed="#L" n="37"/>allen gloeubigen durch Christum erworben und erlanget ist / auch den Heyden 
+          <lb ed="#L" n="38"/>zughorte / Do underrichtet inn dessen der Herr / durch ein himmelsche gsicht / und 
+          <lb ed="#L" n="39"/>durch stimmen von himmel / auch durch die bottschafft Cornelii / die mitthin zu 
+          <lb ed="#L" n="40"/>kam / wie euwer liebe weyßt auß der Histori der geschichten der Apostlen. Da- 
+          <lb ed="#L" n="41"/>rumb so soellend wir behalten und mercken / das daß wort Gottes und die heili- 
+          <lb ed="#L" n="42"/>ge geschrifft allen menschen geoffenbaret ist / zu was zeitten / inn was alter / ge- 
+          <lb ed="#L" n="43"/>schlecht / stand unnd wesen sie ioch immer sygend / dann auch der heilig Apostel 
+          <lb ed="#L" n="44"/>Paulus soellichs bezeüget / da er spricht / Alles was fürgeschriben ist / das ist uns 
+          <!--106.xml-->
+          <pb ed="#L" n="7-v"/>
+          <lb ed="#L" n="1"/>zur leer fürgeschriben / auff das wir durch gedult und trost der geschrifft hoff- 
+          <lb ed="#L" n="2"/>nung habind.</p><p>  
+          <lb ed="#L" n="3"/>Darumb soll niemants sagen / was gadt mich an / was den Iuden im al- 
+          <lb ed="#L" n="4"/>ten Testament fürgeschriben syge / oder was die Apostel den Roemeren / Co- 
+          <lb ed="#L" n="5"/>rintheren oder anderen voelckeren geschriben habind / Ich bin ein Christ / Die 
+          <lb ed="#L" n="6"/>Propheten habend ihren leütten / unnd die Apostel ihren zeyten prediget unnd 
+          <lb ed="#L" n="7"/>geschriben. Dann so wir die sach recht ermessend / so sehend wir das wir eben 
+          <lb ed="#L" n="8"/>darumb den geschrifften deß Alten unnd Neüwen Testaments soellend glau- 
+          <lb ed="#L" n="9"/>ben / darumb das wir Christen sind / dann Christus unnser Heyland unnd 
+          <lb ed="#L" n="10"/>Leermeyster uns ye auff die geschrifften Mosis und der heiligen Propheten 
+          <lb ed="#L" n="11"/>weißt. </p><p>So zeücht auch der außerwoelt werckzeüg Christi Paulus der alten 
+          <lb ed="#L" n="12"/>Sacrament und Exempel auff uns / namlich die Beschneidung im Tauff Co- 
+          <lb ed="#L" n="13"/>loss. am andern cap. unnd das Osterlamm in der geheymnuß deß Abendtmals 
+          <lb ed="#L" n="14"/>i. Corinth. v.</p><p> In woelcher Epistel im zehenden capitel er auch vilerley exem- 
+          <lb ed="#L" n="15"/>pel der vaettern auff uns zeücht. Und zun Roemeren am vierten capit. Da er 
+          <lb ed="#L" n="16"/>disputiert von dem glauben / wie der gerecht mache on die hilff deß gsatzs und  
+          <lb ed="#L" n="17"/>der werchen / da fuert er in das exempel Abrahe / und setzt drauff also. Soellichs 
+          <lb ed="#L" n="18"/>ist aber nitt geschriben allein von Abrahams wegen / das im sye der glaub zur 
+          <lb ed="#L" n="19"/>gerechtigkeyt grechnet / sonder auch von unsert wegen / denen er auch also wirt 
+          <lb ed="#L" n="20"/>gerechnet werden so wir glaubend / etc.</p><p>  
+          <lb ed="#L" n="21"/>Also aber (spraechend ettlich) werdend wir wider ins gsatzt verstrickt / wer- 
+          <lb ed="#L" n="22"/>dend uns wider muessen beschneiden lassen und opfferen thier unnd blut / auch 
+          <lb ed="#L" n="23"/>das Aaronisch Priesterthum auffrichten mit sampt dem Tempel und anderen 
+          <lb ed="#L" n="24"/>Ceremonien / Und wirt der scheydbrieff wider zugelassen werden / auch das ei- 
+          <lb ed="#L" n="25"/>ner moege vil weiber haben: Antwort. Wir muessend bedencken das im alten 
+          <lb ed="#L" n="26"/>Testament ettliche ding sind die allweg waerend / ettliche ding aber Ceremo- 
+          <lb ed="#L" n="27"/>nisch / und die allein biß auff die zeit der verbesserung geben sind worden. Die  
+          <lb ed="#L" n="28"/>zeit der verbesserung ist die zeit Christi / der dem gsatzt gnüg thon und den fluch 
+          <lb ed="#L" n="29"/>deß gsatztes auffgehept hat / der selbig hat auch den Tauff an statt der beschnei- 
+          <lb ed="#L" n="30"/>dung befolhen / und hat alle opffer mitt seinem einigen opffer auffgehept / also 
+          <lb ed="#L" n="31"/>das wir yetz keine opffer mer habend / dann das einig opffer Christi das ein mal 
+          <lb ed="#L" n="32"/>für uns alle geschehen ist / in welchem unnd durch welches wir auch lernend un- 
+          <lb ed="#L" n="33"/>sere leib / gebaett und allmusen als geistliche opffer / Gott dem Herren opfferen.  
+          <lb ed="#L" n="34"/>Also hatt der Herr an statt deß Aaronischen Priesterthumbs eingesetzt sein 
+          <lb ed="#L" n="35"/>und aller Christen Priesterthum.</p><p> Wir sind der Tempel Gottes / inn welchem 
+          <lb ed="#L" n="36"/>Gott durch seinen geist wonet. Alle Ceremonien hat auch Christus abthon / 
+          <lb ed="#L" n="37"/>deßgleichen den scheydbrieff und vile der weiberen Matth. am neüntzehenden.  
+          <lb ed="#L" n="38"/>Und wiewol dise Ceremonien unnd ausseren breüch / durch Christum sind ab- 
+          <lb ed="#L" n="39"/>thon und auffgehept / das sie uns nicht mer bindend / so ist doch die geschrifft die  
+          <lb ed="#L" n="40"/>von denen dingen lautet / durch Christum nit auffgehept noch abthon / dann es 
+          <lb ed="#L" n="41"/>muß allwegen inn der kirchen Christi ein gewisse zeügknuß sein / darauß wir 
+          <lb ed="#L" n="42"/>lernind / was die alten für eussere dienst unnd anbildungen Christi gehept ha- 
+          <lb ed="#L" n="43"/>bind. Die selben soellend yetz uns in der kirchen Christi geistlich außgelegt / und  
+          <lb ed="#L" n="44"/>Christus / die verzeihung der sünden / und besserung / darauß nit weniger dann 
+          <lb ed="#L" n="45"/>auß den geschrifften deß Neüwen Testaments geleert werden. Darumb sind 
+          <lb ed="#L" n="46"/>von Gott auch die geschrifften deß alten Testaments allen menschen gegeben / 
+          <lb ed="#L" n="47"/>und habend auch die heiligen Apostel allen kirchen zu guttem das geschriben / 
+          <lb ed="#L" n="48"/>das sie anfaencklich besondern kirchen zugeschriben.</p><p> 
+          <lb ed="#L" n="49"/>Auff das end hin aber ist daz wort Gottes den menschen geoffnet / daz es sie leere 
+          <lb ed="#L" n="50"/>Gott und seinen willen erkennen wer Gott sye / und wie er gegen den menschen 
+          <lb ed="#L" n="51"/>gesinnet / das er woelle das sie saelig werdind / unnd das durch den glauben inn 
+          <!--107.xml-->
+          <pb ed="#L" n="8-r"/>
+          <lb ed="#L" n="1"/>Christum. Item wer Christus syge / unnd wie es ein gestalt hab umb den han- 
+          <lb ed="#L" n="2"/>del der saeligkeyt.</p><p> Was rechten Christen gebüre und zustande zuthun oder zu 
+          <lb ed="#L" n="3"/>meiden. Dann es ist nit gnug den willen Gottes nur wissen / wir muessend inn 
+          <lb ed="#L" n="4"/>auch thun. Darumb dann Moses spricht / Hoer Israel die gebott und rechte/ 
+          <lb ed="#L" n="5"/>die ich euch leeren / das irs thuegind und laebind.</p><p> Und der Herr im Evangelio 
+          <lb ed="#L" n="6"/>bezeüget und spricht / Saelig sind die das wort Gottes hoerend und haltends.</p><p>  
+          <lb ed="#L" n="7"/>Darinn dann hoechlich zu preysen die unerschoepfflich guette Gottes / der unns 
+          <lb ed="#L" n="8"/>nützit verhalten von allem dem / das zu einem guten und saeligen laeben dienet. 
+          <lb ed="#L" n="9"/>Die weisen unnd geleerten diser welt habend die art / daß sie gern ander leüt- 
+          <lb ed="#L" n="10"/>ten die weyßheyt unnd das wissen mißgunnend / aber unser Gott nit also / son- 
+          <lb ed="#L" n="11"/>der er beüttet unns selbs an das wissen aller himmelschen dingen / unnd begert 
+          <lb ed="#L" n="12"/>nichts mer / dann das wir darinn zunemmind / unnd hilfft unns so wir fleißig 
+          <lb ed="#L" n="13"/>sind. Dann also spricht er selb im Evangelio / Welcher hatt / dem wirt geben / 
+          <lb ed="#L" n="14"/>damitt er uberflüßig habe.</p><p> Item / Wer da bittet dem wirt geben / wer sucht / 
+          <lb ed="#L" n="15"/>der findet / wer klopffet / dem wirt auffgethon. Dahar auch der heilig Apostel 
+          <lb ed="#L" n="16"/>Iacobus spricht / Manglet yemandt weißheyt under euch / der begaere sie von 
+          <lb ed="#L" n="17"/>dem der da gibt / namlich von Gott / der da einfaltigklich gibt / das ist gern 
+          <lb ed="#L" n="18"/>unnd nicht beschwerlich / unnd verweißts niemandts / so wirt sie ihm gegeben 
+          <lb ed="#L" n="19"/>werden.</p><p> Da wir an einem fürgang auch sehend was unser ampt syge / nam- 
+          <lb ed="#L" n="20"/>lich das wir bey dem laesen unnd hoeren deß worts Gottes fleißig unnd ernstlich 
+          <lb ed="#L" n="21"/>bittind / das wir das end erlangen moegind / zu dem und von deß wegen uns das 
+          <lb ed="#L" n="22"/>selbig gegeben unnd eroffnet ist.</p><p> Von dem wir aber hernach weytter re- 
+          <lb ed="#L" n="23"/>den woellend / nach dem wir anzeygt habend wie man das wort Gottes hoe- 
+          <lb ed="#L" n="24"/>ren soelle.</p><p>  
+          <lb ed="#L" n="25"/>Ietzund dieweyl wir gemeldet / das daß wort Gottes unns darzu syge geof- 
+          <lb ed="#L" n="26"/>fenbaret / das es uns berichte der wegen Gottes und unsers heils / so wil ich eu- 
+          <lb ed="#L" n="27"/>wer liebe mitt kurtzen wortten erklaeren / das in dem wort Gottes / so uns durch 
+          <lb ed="#L" n="28"/>die heiligen Propheten unnd Apostel angeben und fürgeschriben / alle Gott- 
+          <lb ed="#L" n="29"/>saeligkeyt / ja alles das / daß zu einem rechten gutten unnd saeligen laeben dienet 
+          <lb ed="#L" n="30"/>begriffen syge. Dann es volget ye das die leer inn allwaeg volkommen sein 
+          <lb ed="#L" n="31"/>muß / zu deren unnd von deren man nützit thun sol.</p><p> Also ist aber die leer deß 
+          <lb ed="#L" n="32"/>worts Gottes / wie Moses zeüget Deut. am vierten und zwoelfften / Unnd Sa- 
+          <lb ed="#L" n="33"/>lomon in Sprüchen am dreißigsten capitel. Wer wil deßhalben nit bekennen / 
+          <lb ed="#L" n="34"/>dann das alles so zu Gottsaeligem waesen dienet uns inn der heiligen geschrifft 
+          <lb ed="#L" n="35"/>sye fürgestellt. Darzu so kan niemand laugnen / dann das daß ein volkomne 
+          <lb ed="#L" n="36"/>leer sein muß / durch welche der mensch also vervolkommet wirt / das er inn di- 
+          <lb ed="#L" n="37"/>ser welt für ein frommen menschen gehalten / und nach diser zeyt zu der ewigen 
+          <lb ed="#L" n="38"/>gemeynschafft Gottes gezellt wirt. </p><p>Welcher aber dem wort Gottes das 
+          <lb ed="#L" n="39"/>durch die Propheten und Apostel der welt fürgelegt ist / glaubt / und nach dem 
+          <lb ed="#L" n="40"/>selben lebt / der wirt gerecht genennt unnd ist ein erb deß ewigen lebens.</p><p> So 
+          <lb ed="#L" n="41"/>volget ye darauß / das dise leer ein volkomne leer syge. Welches auch der hei- 
+          <lb ed="#L" n="42"/>lig Apostel Paulus weytloeuffiger und heyterer erklaert / da er spricht / Alle ge- 
+          <lb ed="#L" n="43"/>schrifft von Gott eingeistet / ist nütz zur leer / zur straff / zur besserung oder auff- 
+          <lb ed="#L" n="44"/>bauwung / zur züchtigung in der gerechtigkeyt / das ein mensch Gottes sye vol- 
+          <lb ed="#L" n="45"/>kommen / zu allem guten werck geschickt.</p><p> Da habend ihr ye lieben bruder ein  
+          <lb ed="#L" n="46"/>heyttere zeügknuß von der volkommenheyt deß worts Gottes / da habend ihr 
+          <lb ed="#L" n="47"/>alle stuck die zu einer volkomnen leer gehoerend. Da habend ir die volkommen 
+          <lb ed="#L" n="48"/>würckung deß worts Gottes / das namlich ein mensch oder diener Gottes / der 
+          <lb ed="#L" n="49"/>da recht Gottsfoerchtig ist / auß diser leer / gantz und volkommen mag werden / 
+          <lb ed="#L" n="50"/>nit nur zun etlichen / sonder zu allen guten wercken bereittet und geschickt. Wer 
+          <lb ed="#L" n="51"/>hat dann mangel daran:</p><p> Ich acht nitt das yemand so unverstaendig / der dise 
+          <!--108.xml-->
+          <pb ed="#L" n="8-v"/>
+          <lb ed="#L" n="1"/>wort Pauli allein von dem alten Testament verstande / so doch heytterer dann 
+          <lb ed="#L" n="2"/>der tag / das Paulus soellichs zeücht auff seinen Timotheum / der ein Prediger 
+          <lb ed="#L" n="3"/>unnd diener deß Neüwen Testaments was. So aber die leer deß alten Te- 
+          <lb ed="#L" n="4"/>staments volkommen ist / wie vil volkomner wirt sie dann sein so auch die bue- 
+          <lb ed="#L" n="5"/>cher deß Neüwen Testaments darzukoemmend:</p><p> 
+          <lb ed="#L" n="6"/>Ich weyß wol das unser Herr Iesus Christus vil thon und geredt hat / das 
+          <lb ed="#L" n="7"/>svon den Apostlen nit ist geschriben worden / darauß volget aber nicht / das da- 
+          <lb ed="#L" n="8"/>rumb die leer deß worts Gottes so durch die Apostel angeben nitt volkommen 
+          <lb ed="#L" n="9"/>sye. Dann der heilig Apostel und Evangelist Iohannes bekennt offenlich / das 
+          <lb ed="#L" n="10"/>der Herr noch vil gethon habe / das nicht in seinem buch geschriben sye. Dises 
+          <lb ed="#L" n="11"/>aber / spricht er / ist geschriben / das ihr glaubind das Iesus sye Christus der sun 
+          <lb ed="#L" n="12"/>Gottes / und das so irs glaubend das laeben habind durch seinen nammen. Da 
+          <lb ed="#L" n="13"/>zeigt er ye an / das in diser seiner leer / die er in geschrifft verfaßt / der glaub vol- 
+          <lb ed="#L" n="14"/>kommenlich geleert werde / und das durch den glauben daz ewig leben von Gott 
+          <lb ed="#L" n="15"/>werde geben / soellichs leben aber ist das end der volkomnen leer. Dieweyl nun 
+          <lb ed="#L" n="16"/>dises den menschen begegnet durch die leer deß heiligen Evangelii / wie die inn 
+          <lb ed="#L" n="17"/>geschrifft ist / so volget ye das sie on mangel und volkommen sye.</p><p>  
+          <lb ed="#L" n="18"/>Ich weyß auch wol / das der Herr im Evangelio gesprochen / Ich hab euch 
+          <lb ed="#L" n="19"/>noch vil zu sagen / aber ir moegends yetz nit tragen. Ich weiß aber auch das / das 
+          <lb ed="#L" n="20"/>er gleich darauff gesertzt / So aber der geist der waarheyt kommen wirt / so wirt 
+          <lb ed="#L" n="21"/>er euch in alle waarheyt fueren. Ich weiß auch das diser geist der waarheit also 
+          <lb ed="#L" n="22"/>kommen ist in die Apostel / und glaub deßhalb das sie nach der waarhafften ver- 
+          <lb ed="#L" n="23"/>heissung Christi gefuert sygind worden in alle waarheyt / also das offenbar ist 
+          <lb ed="#L" n="24"/>das inen nützit gemanglet.</p><p> Dieweyl und aber soellichs nit mag verlaugnet 
+          <lb ed="#L" n="25"/>werden / so woellend sich etlich mit dem behelffen / unnd werffend für / die Apostel 
+          <lb ed="#L" n="26"/>heyginds wol alles gewißt / und alles mundtlich geleert und angeben / sie habinds 
+          <lb ed="#L" n="27"/>aber nit alles in geschrifft verfasset / das zu waarer und volkomner Gottsaelig- 
+          <lb ed="#L" n="28"/>keit diene. Gleich als obs der warheit gleich sehe / daz die trüwen Apostel Christi 
+          <lb ed="#L" n="29"/>heigind woellen boßklich der nachkommenden welt etwaz verhalten / und als ob der  
+          <lb ed="#L" n="30"/>gelogen hab / der da spricht / Dises aber ist gschriben / auff daz so ir glaubind / ha- 
+          <lb ed="#L" n="31"/>bind daz ewig leben. Darumm so hat Ioannes nützit underlassen alles deß daz da hat 
+          <lb ed="#L" n="32"/>moegen zu volkomnen glauben dienen. Also hat auch Lucas nützit underlassen /  
+          <lb ed="#L" n="33"/>also auch die andern Apostel und iünger unsers Herren Iesu Christi. Paulus 
+          <lb ed="#L" n="34"/>hat vierzehen Episteln geschriben / die der merteyl all eins inhalts / darauß man 
+          <lb ed="#L" n="35"/>wol kan abnemen / daz die waar volkommen leer aller Gottsaeligkeit darinn begrif- 
+          <lb ed="#L" n="36"/>fen sye / dann sonst wurde er nit ein ding immerdar mit so vilen worten einbleüwen /  
+          <lb ed="#L" n="37"/>so neißwan andre stuck werind / die da noch nit gleert / und aber zum heyl von noeten 
+          <lb ed="#L" n="38"/>werind / Die wurde er on zweifel auch gschriben / und nit ein ding so offt wideraefe- 
+          <lb ed="#L" n="39"/>ret haben. Im dritten cap. der Epistel zun Ephesern zeüget er ye heiter / das er 
+          <lb ed="#L" n="40"/>inn den zwey ersten Capitlen der selben Epistel außgelegt habe / all sein wissen 
+          <lb ed="#L" n="41"/>das er habe vom Evangelio / dann er spricht / Mir ist kundt worden dise gheim- 
+          <lb ed="#L" n="42"/>nuß durch offenbarung / wie ich daoben geschriben hab auff das kürtzest / daran 
+          <lb ed="#L" n="43"/>ir / so ir es laesend mercken moegend meinen verstand in der geheymnuß Christi.  
+          <lb ed="#L" n="44"/>Sihe / das schreibt er nur von einer einigen Epistel / ja nur von den zwey ersten 
+          <lb ed="#L" n="45"/>Capitlen der selben Epistel. Unnd so erst zu deren koemmend so vil langer und 
+          <lb ed="#L" n="46"/>schoener Epistlen die er auch gmachet / Item auch andrer Apostlen Epistel &amp; send 
+          <lb ed="#L" n="47"/>brieff / wer wil (er hab dann kein vernunfft) koennen sagen / daz die H. Apostel in iren 
+          <lb ed="#L" n="48"/>gschrifften ein unvolkomne leer habind hinder inen verlassen. Aber die leüt die so 
+          <lb ed="#L" n="49"/>hefftig darumm zanckend / die Apostel habind allein muntlich aber nit gschrifft- 
+          <lb ed="#L" n="50"/>lich alles daz zur gotsaeligkeit dienet angeben / die gond darauff umb / daz sie ire / das 
+          <lb ed="#L" n="51"/>ist menschliche satzungen anstat deß worts Gottes moegind vkauffen und uff bringen.  
+          <!--109.xml-->
+          <pb ed="#L" n="9-r"/>
+          <lb ed="#L" n="1"/>Aber wider das gifft behaltend lieben brueder dise artzney / Namlichen / con- 
+          <lb ed="#L" n="2"/>ferierend unnd haltend allweg gegen anderen / die mundtlichen angebungen 
+          <lb ed="#L" n="3"/>die die Apostel muntlich aber nit geschrifftlich soltend angeben haben / und die 
+          <lb ed="#L" n="4"/>heitteren geschrifften der Apostlen / und so ir findend / das die angebungen iren 
+          <lb ed="#L" n="5"/>geschrifften ungleich unnd ungemaeß / so wissend gewißlich / das solliche men- 
+          <lb ed="#L" n="6"/>schen sünd und erdencken / nit Apostolische angebungen sind.</p><p> Dann dieweil 
+          <lb ed="#L" n="7"/>die heiligen Apostel ein einigen geyst der waarheyt gehept / so habend sie nicht 
+          <lb ed="#L" n="8"/>eins geschrifftlich hinder ihnen gelassen / ein anders aber mundtlich angeben.  
+          <lb ed="#L" n="9"/>Man muß auch eygentlich erduren / ob dise angebungen meer Gottes ehr su- 
+          <lb ed="#L" n="10"/>chind oder der menschen / Item ob sie mer dienind zu nutz unnd wolstand der  
+          <lb ed="#L" n="11"/>gloeubigen / oder zu eygnem nutz der Pfaffen.</p><p> Und sol man sich deßhalb wol 
+          <lb ed="#L" n="12"/>huetten vor den menschen satzungen / vorauß dieweyl der Herr selb spricht / Sie 
+          <lb ed="#L" n="13"/>ehrend mich vergeben / mitt dem das sie leerend / leeren die gebott der menschen 
+          <lb ed="#L" n="14"/>find. </p><p>Unnd ist deßhalb nichts sicherers unnd gewissers / dann dem wort deß 
+          <lb ed="#L" n="15"/>Herren das unns inn der geschrifft zu kommen ist / anhangen / woelches uber- 
+          <lb ed="#L" n="16"/>flüßig alles das leert und angibt / das zu waarer saeligkeyt dienstlich ist.</p><p>  
+          <lb ed="#L" n="17"/>Nun muessend wir aber auch von dem reden / wie dise volkomne leer deß heils 
+          <lb ed="#L" n="18"/>unnd aller Gottsaeligkeyt / ja das wort Gottes selb / von den gloeubigen soelle ge- 
+          <lb ed="#L" n="19"/>hoert werden / damitt es mit ettwas / ja mit grosser frucht gehoert werde / das wil 
+          <lb ed="#L" n="20"/>ich nun in einer summ anzeigen.</p><p> Das wort Gottes soll man hoeren mit grosser 
+          <lb ed="#L" n="21"/>andacht und reuerentz / die man dann billich Gott unnd allen Goettlichen din- 
+          <lb ed="#L" n="22"/>gen schuldig ist. Man sol es auch hoeren fleißig und empsig / und das mit ernst- 
+          <lb ed="#L" n="23"/>lichem und einbrünstigem gebaett / Man sol es hoeren mit verstand unnd nach- 
+          <lb ed="#L" n="24"/>trachtung / also das wir uns dardurch erbesserind / und Gott durch uns gepri- 
+          <lb ed="#L" n="25"/>sen werde. Nitt das wir fürwitzigklich die verborgnen rathschleg Gottes 
+          <lb ed="#L" n="26"/>durchforschen woellind / oder das wir gesehen werdind geleert sein / unnd viler 
+          <lb ed="#L" n="27"/>dingen erfaren. Es sol ein maß darinn und ein gwissz end gehalten werden / 
+          <lb ed="#L" n="28"/>darauff alles zuhoeren gange / namlich / waarer glaub / Gottes ehr und unser se- 
+          <lb ed="#L" n="29"/>ligkeyt. Dann im andern buch Mosis / heißt Gott den Mosen das volck hei- 
+          <lb ed="#L" n="30"/>ligen unnd vorbereitten zu der predig / die Gott deß nachgenden tags zu ihnen  
+          <lb ed="#L" n="31"/>thun wolt.</p><p> Darumb nam Moses das gantz volck vorhanden / hielt inen für 
+          <lb ed="#L" n="32"/>die gehorsamme die sie Gott unnd seinen dienern leysten soltind / und schuldig 
+          <lb ed="#L" n="33"/>werind.</p><p> Darnach gebot er inen / das sie ire kleyder wueschind / das sie sich auch 
+          <lb ed="#L" n="34"/>enthieltind von den wyberen / Er stackt inen auch zil uber die nieman bey seim 
+          <lb ed="#L" n="35"/>leben traetten soelte.</p><p> Auß welchem allem wir feyn sehend / was Gott für zuhoe- 
+          <lb ed="#L" n="36"/>rer haben woelle / soelliche namlich / die gehorsam und Gottsfoerchtig sygind inn 
+          <lb ed="#L" n="37"/>allen dingen.</p><p> Dann Gott redt mitt den menschen / wir sind aber Gott alle 
+          <lb ed="#L" n="38"/>forcht und ehr schuldig / wer sich nun nicht demuettigklich unnd bittender weyß 
+          <lb ed="#L" n="39"/>Gott underwirfft und im gehorsammet / der ist ein Gottloser. Darnach wirt 
+          <lb ed="#L" n="40"/>auch erfordert von rechten zuhoerern deß worts Gottes / das sie sich aller fleisch- 
+          <lb ed="#L" n="41"/>lichen gemeinschafft entziehind / woelches dann durch das waeschen der kleydern 
+          <lb ed="#L" n="42"/>bedeütet ward / namlich das wir hinleggind allen unflat / alle unreinigkeyt der 
+          <lb ed="#L" n="43"/>seelen unnd deß leibs / das wir uns enthaltind auch von nachgelaßnem wollust.  
+          <lb ed="#L" n="44"/>Der heilig geist liebet gereinigete hertzen / die doch nienerdurch anderst dann 
+          <lb ed="#L" n="45"/>durch in selbs moegend gereiniget werden. Da ist notwendig ein auffrichtiger 
+          <lb ed="#L" n="46"/>glaub zu Gott / und ein geneigter will / der da begirig syge zu leben nach allem 
+          <lb ed="#L" n="47"/>dem das in den wort Gottes gebotten wirt. Man sol auch nit zevil woellen wissen / 
+          <lb ed="#L" n="48"/>sonder hinlegen alle unnoetige fürwitzige fragen. Allein lernen das nutz unnd 
+          <lb ed="#L" n="49"/>gut.</p><p> Zum letsten sol man auch grossen fleiß anwenden inn hoeren unnd in ler- 
+          <lb ed="#L" n="50"/>nen / Dann Salomon spricht / wenn du der weißheyt wirst nachforschen wie dem 
+          <lb ed="#L" n="51"/>gold / so wirst sie erlangen.</p><p> Item / wer die Mayestet ergründen wil / der wirt 
+          <!--110.xml-->
+          <pb ed="#L" n="9-v"/>
+          <lb ed="#L" n="1"/>von der groesse der herzligkeyt nider getruckt. Item / die ding die dir zehoch und  
+          <lb ed="#L" n="2"/>zeschwaer sind / denen frag nit nach / und das deine krefft ubertrifft / das woellist 
+          <lb ed="#L" n="3"/>du nit erfüntelen / sonder was dir Gott gebeütet / dem tracht allweg nach / und  
+          <lb ed="#L" n="4"/>biß in seinen wercken nit zu fürwitzig / dann es ist dir nitt von noeten das du das  
+          <lb ed="#L" n="5"/>verborgen mit deinen augen ansehist. Item also auch Paulus / Halte nieman 
+          <lb ed="#L" n="6"/>hoch von ihm selb / vermaesse sich keiner mer zu wissen dann man wissen sol / son- 
+          <lb ed="#L" n="7"/>der ein yegklicher wisse also / das er bescheyden sye und vernünfftig / nach dem 
+          <lb ed="#L" n="8"/>und yedem Gott außgetheylt hat die maß deß glaubens. Daher auch das ge- 
+          <lb ed="#L" n="9"/>hoert / daz er an eim andern ort spricht / Daz wissen blaßt auff / die liebe aber buwet.</p><p>  
+          <lb ed="#L" n="10"/>Besonders aber sol man sich hie huetten vor denen üblen / die das wort Got- 
+          <lb ed="#L" n="11"/>tes ersteckend / und außloeschend in den hertzen der zuhoerern / das es one frucht 
+          <lb ed="#L" n="12"/>bleibt. Welche übel und praesten der Herr sein außtruckt hat in der Parabel deß 
+          <lb ed="#L" n="13"/>Saeymanns. Dann erstlich so verderbend das wort Gottes / die eytlen unnd 
+          <lb ed="#L" n="14"/>schweiffenden boesen gedancken / die da allweg offen stond den einblasungen 
+          <lb ed="#L" n="15"/>deß Teüffels / unnd dem boesen geschwaetz / unnützer menschen. Darnach so moe- 
+          <lb ed="#L" n="16"/>gend auch alle zaertling unnd die dem wollust ergeben / und deßhalb von Christi 
+          <lb ed="#L" n="17"/>und deß Evangelii wegen nichts leiden moegind / das wort Gottes nimmer mit 
+          <lb ed="#L" n="18"/>rechter frucht hoeren / ob sie gleich dergleichen thund als ob sie es mit froeuden hoe<lb ed="#L" n="19" break="no"/>rind 
+          und auffnemmind. Item die sorg diser welt / und betrugliche der reichthumm /  
+          <lb ed="#L" n="20"/>sind gantz verderbliche praesten an den zuhoerern deß worts Gottes. Dann sie 
+          <lb ed="#L" n="21"/>hinderend nitt nur den saamen deß worts in den hertzen das er nicht frucht 
+          <lb ed="#L" n="22"/>bringt / sonder sie machend auch / daz einer anfacht dem wort Gottes widersprae- 
+          <lb ed="#L" n="23"/>chen / und leyds zufuegen denen die sich deß worts Gottes fleissend unnd annem- 
+          <lb ed="#L" n="24"/>mend. Darumb wir hie fleißig wachen unnd auffsehen muessend / das wir nicht 
+          <lb ed="#L" n="25"/>durch semliche stuck verboeseret / vergebne und undanckbare zuhoerer deß worts 
+          <lb ed="#L" n="26"/>Gottes werdind. Wir muessend auch den guetigen und gnaedigen Gott allweg 
+          <lb ed="#L" n="27"/>empsigklich bitten / das er unns sein heiligen geist verleihe / durch welchen der 
+          <lb ed="#L" n="28"/>saamen deß worts Gottes in unsern herzen lebendig gemachet werde / auff das  
+          <lb ed="#L" n="29"/>wir als rechte unnd heilige zuhoerer deß worts Gottes vil frucht bringind / unnd 
+          <lb ed="#L" n="30"/>das zum preiß Gottes und unserer seelen ewigem heyl.</p><p>  
+          <lb ed="#L" n="31"/>Dann was nutzte es / das wort Gottes hoeren / on glauben / und so der heilig 
+          <lb ed="#L" n="32"/>geist Gottes nit innwendig inn unseren hertzen wurckte: Der heilig Apostel 
+          <lb ed="#L" n="33"/>spricht / weder der da waesseret noch der da pflantzet ist ettwas / sonder Gott der 
+          <lb ed="#L" n="34"/>das wachsen gibt / darumb so ist das gedyen Gottes von noetten / das daß wort 
+          <lb ed="#L" n="35"/>Gottes inn unseren hertzen wachse / zunemme / unnd zu rechter frucht koemme.  
+          <lb ed="#L" n="36"/>Es spricht auch gedachter Paulus weyter / Es ist uns auch verkündet daz wort 
+          <lb ed="#L" n="37"/>Gottes / gleich wie den vaettern. Aber das wort der predig halff inen nit / do der  
+          <lb ed="#L" n="38"/>glaub nit darzu gethon ward by denen die es hortend. Dann sie sind inn der wue- 
+          <lb ed="#L" n="39"/>ste gefallen. Und bald darauff / so lassend uns nun eylen einzekommen zu diser 
+          <lb ed="#L" n="40"/>ruw / uff das nit yemants falle mit gleichem exempel deß unglaubens. Darumm 
+          <lb ed="#L" n="41"/>wenn wir das wort ausserlich mit den oren hoerend / und mit hinzu der heilig geist 
+          <lb ed="#L" n="42"/>sein krafft uebt in unsern hertzen / das wirs mit waarem glauben annemmend / 
+          <lb ed="#L" n="43"/>so hat das wort Gottes grosse krafft und würckung in uns. Dann es vertreibt 
+          <lb ed="#L" n="44"/>die finsternuß der irrthumm / thut uns auff die augen / bekeert und erleüchtet un- 
+          <lb ed="#L" n="45"/>sere gmuet / und underrichtet die selben volkommenlich in aller warheyt und Gott- 
+          <lb ed="#L" n="46"/>saeligkeyt. Davon David der heilig Prophet singt und zeüget / spraechende / das 
+          <lb ed="#L" n="47"/>gsatzt Gottes ist vollkommen / bekeert die seelen. Die zeügknuß deß Herren ist 
+          <lb ed="#L" n="48"/>waarhafft / und leert die unberichteten weißheit / das gebott deß Herren ist rein  
+          <lb ed="#L" n="49"/>und lauter / erleuchtet die augen. Es speißt auch das wort Gottes / sterckt / kreff- 
+          <lb ed="#L" n="50"/>tiget / und troestet unsere seelen. Es widergebirt / reinigt / erfroewt uns / vereinbart 
+          <lb ed="#L" n="51"/>uns mit Gott / erlangets uns alles von Gott und macht uns saelig. Daz also keine 
+          <!--111.xml-->
+          <pb ed="#L" n="10-r"/>
+          <lb ed="#L" n="1"/>guetter noch schaetz der gantzen welt dem wort Gottes moegend verglichen wer- 
+          <lb ed="#L" n="2"/>den. Und soellichs gebend wir dem wort Gottes nit zu one grund und zeügnuß 
+          <lb ed="#L" n="3"/>der heiligen geschrifft. Dann im Propheten Amos troeuwet Gott als die hoech- 
+          <lb ed="#L" n="4"/>ste straff / den hunger und durst / nit deß brotts und wassers / sonder deß hoerens 
+          <lb ed="#L" n="5"/>deß worts Gottes.</p><p> Darumb stadt auch im gsatzt und im Evangelio / das der 
+          <lb ed="#L" n="6"/>mensch nit allein im brot laebe / sonder in einem yeden wort das auß dem mund 
+          <lb ed="#L" n="7"/>Gottes gadt.</p><p> Und der Apostel Paulus spricht / daß alles das uns fürgeschri- 
+          <lb ed="#L" n="8"/>ben / syge uns zur leer fürgeschriben / auff das wir durch gedullt unnd trost der  
+          <lb ed="#L" n="9"/>geschrifft hoffnung habind. Item Petrus / Ir sind widergeborn / nit auß sterb- 
+          <lb ed="#L" n="10"/>lichem / sonder auß unsterblichem saamen / namlichen durch das wort deß leben- 
+          <lb ed="#L" n="11"/>digen Gottes / und der do bleibt in ewigkeyt. Das ist aber das wort / das durch 
+          <lb ed="#L" n="12"/>das Evangelium zu euch gebracht ist. Es zeüget auch der Herr im Evangelio 
+          <lb ed="#L" n="13"/>und spricht / Ir sind yetz rein von deß worts wegen das ich mit euch geredt hab.</p><p>  
+          <lb ed="#L" n="14"/>Item er spricht auch / Welcher mich liebet / der wirt mein wort halten / und mein  
+          <lb ed="#L" n="15"/>vatter wirt in lieben / und wir werdend zu im kommen / und wonung by im ma- 
+          <lb ed="#L" n="16"/>chen. Also auch Ieremias / dein wort ist mir zur froeud worden. Und David / die 
+          <lb ed="#L" n="17"/>satzungen deß Herren sind billich / und erfroeuwend daz hertz. Darzu dienet auch daz 
+          <lb ed="#L" n="18"/>der Herr im Evangelio gesprochen / so ir inn mir bleibend / und meine wort inn 
+          <lb ed="#L" n="19"/>euch bleibend / was ir woellend / das werdend ir begern / und es wirt euch wider- 
+          <lb ed="#L" n="20"/>faren. An eim andern ort spricht der Prophet / wenn ir woellend und hoerend / so 
+          <lb ed="#L" n="21"/>werdend ir das best im land niessen / so ir aber mein wort nit woellend hoeren / so 
+          <lb ed="#L" n="22"/>werdend ir vom schwert gefressen werden. Es erzelt auch Moses nach der vile 
+          <lb ed="#L" n="23"/>und lenge Levit. xxvi. und Deut. xxxiii. cap. waz guts darauß entstande / so man 
+          <lb ed="#L" n="24"/>dem wort Gottes zuhoert und volget. Darumb haltet auch David daz wort Got- 
+          <lb ed="#L" n="25"/>tes hoeher dann alle wollust unnd schaetz diser welt / da er spricht / Die forcht deß 
+          <lb ed="#L" n="26"/>Herrn ist rein und steiff in ewigkeit / die urteil deß Herren sind warhafft unge- 
+          <lb ed="#L" n="27"/>recht / lustbarlicher dann die menge deß feinesten golds / und suesser dann honig oder  
+          <lb ed="#L" n="28"/>honigwaben. Die haltet dein diener / dann wer sie haltet / den wirt ein grosse wider- 
+          <lb ed="#L" n="29"/>geltung. Und daz gsatzt deines munds ist mir besser dann unzalbar gold und silber 
+          <lb ed="#L" n="30"/>Und so dein gsatz nit mein wollust were / so were ich verdorben in meinem ellend.  
+          <lb ed="#L" n="31"/>Dahar gehoert auch die Evangelisch gleichnuß von dem der ein kostlichs paerle 
+          <lb ed="#L" n="32"/>kaufft / Item von dem der da verkaufft alles das er hat / und ein acker darumm 
+          <lb ed="#L" n="33"/>kaufft / in dem er wußt ein schatz verborgen sein. Dann disers paerle und diser 
+          <lb ed="#L" n="34"/>schatz / ist daz Evangelium oder wort Gottes / woelches auch von seiner fürtraef- 
+          <lb ed="#L" n="35"/>fenliche wegen in der H. gschrifft etwan genent wirt ein liecht / fewr / schwert ein 
+          <lb ed="#L" n="36"/>hammer der die Felsen zerschlecht ein schilt / und waz dergleichen zunammen mer sind.</p><p>  
+          <lb ed="#L" n="37"/>Also hat nun euwer lieb auff diß mal gehoert / wie unser getreüwer Herr und 
+          <lb ed="#L" n="38"/>Gott / der da wil das alle menschen saelig werdind und zu erkantnuß der waar- 
+          <lb ed="#L" n="39"/>heyt koemmind / sein wort habe geoffnet allen menschen inn der gantzen welt / 
+          <lb ed="#L" n="40"/>und aber darzu und von deß wegen geoffnet / das mengklicher dardurch / er sye 
+          <lb ed="#L" n="41"/>was standts / alters oder waesens er woelle / die waarheit lerne erkennen / und be- 
+          <lb ed="#L" n="42"/>richtet werde der waaren saeligkeyt / unnd ein volkomne anzeigung habe / wie 
+          <lb ed="#L" n="43"/>man wol und saeligklich leben soelle / damit der mensch Gottes volkommen sye/ 
+          <lb ed="#L" n="44"/>zu allen gutten wercken bereittet. Dann es hatt der Herr im wort der waarheit 
+          <lb ed="#L" n="45"/>seiner kirchen alles das angeben / darinn das heil und alle Gottsaeligkeit stadt.  
+          <lb ed="#L" n="46"/>Ia alles das / das von noeten ist zewissen / von Gott / von seinen wercken / von 
+          <lb ed="#L" n="47"/>seinen gerichten / von seim willen und seinen gebotten / Auch von Christo / von glau- 
+          <lb ed="#L" n="48"/>ben in Christum / und von allem daz zu eim heiligen leben gehoert / daz ist alles voellig in  
+          <lb ed="#L" n="49"/>dem wort Gottes begriffen. Unnd darff die kirch Gottes nit anderßwo har 
+          <lb ed="#L" n="50"/>auß menschen satzungen zebaettlen / oder etwas zuhin zeflicken / als ob dem wort 
+          <lb ed="#L" n="51"/>Gottes etwaz mangle / dann der Herr hat nit nur muntlich unsere vordern durch 
+          <!--112.xml-->
+          <pb ed="#L" n="10-v"/>
+          <lb ed="#L" n="1"/>die Apostel geleert alle Gottsaeligkeyt und alles heyl / sonder hat auch verschaf- 
+          <lb ed="#L" n="2"/>fet das soellichs in gschrifft kaeme / welches offenbar ist das es von der nachkom- 
+          <lb ed="#L" n="3"/>men wegen geschehen / das ist von unser und unser nachkomnen wegen / damit 
+          <lb ed="#L" n="4"/>niemandt auß uns oder den unseren verfuert wurde / oder yemand falsche ange- 
+          <lb ed="#L" n="5"/>bungen für waarhaffte auffgeriben wurdind. Darumm sond wir uns alle hueten / 
+          <lb ed="#L" n="6"/>sollend wachen / unnd uns allein an das wort Gottes das uns durch die Pro- 
+          <lb ed="#L" n="7"/>pheten und Apostel in der heiligen geschrifft gelassen ist / halten. Sollend uns 
+          <lb ed="#L" n="8"/>auch nach allem unsern vermoegen fleissen / das wir mit glauben und frucht / waz 
+          <lb ed="#L" n="9"/>uns vom Herren verkündt wirt / hoerind. Lassend uns hinwerffen und under 
+          <lb ed="#L" n="10"/>die fueß trucken / alle hindernuß der Gottsaeligkeyt / die uns unser eygen fleisch /  
+          <lb ed="#L" n="11"/>die welt und der Teüffel einwerffen moechte / sittmalen wir wissend woelches die 
+          <lb ed="#L" n="12"/>hindernussen sind und die ubel / dardurch der saamen deß worts Gottes in den 
+          <lb ed="#L" n="13"/>hertzen der menschen verderbt wirt / auch darbey wissend / was krafft das wort 
+          <lb ed="#L" n="14"/>Gottes bey gloeubigen zuhoerern hat. Darumb lassend uns Gott unsern Her- 
+          <lb ed="#L" n="15"/>ren anrueffen unnd bitten / das er sein heiligen geist inn unsere hertzen giesse / da- 
+          <lb ed="#L" n="16"/>mit durch dessen krafft unnd würckung der saamen deß worts Gottes bey uns 
+          <lb ed="#L" n="17"/>laebendig gemacht werde / und vil fruchtsbringe zu unserer seelen heyl / und zum 
+          <lb ed="#L" n="18"/>preyß Gottes unsers vatters. Dem sye lob und ehr inn ewigkeyt / Amen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+  
+  <!-- Sermon 3
+          <lb ed="#L" n="19"/>Ch mercken geliebte brueder unnd verstan wol: das auß meiner 
+          <lb ed="#L" n="20"/>leer von dem wort Gottes mancherley gedancken inn ettlicher hertzen 
+          <lb ed="#L" n="21"/>entstond / ja das etliche auch gar unvernünfftige reden hiervon auß- 
+          <lb ed="#L" n="22"/>stossend. Dann es sind etlich die da meynend die geschrifft / das ist das wort Got- 
+          <lb ed="#L" n="23"/>tes / sye tünckler / dann das es von yeman mit frucht moege gelaesen werden. An- 
+          <lb ed="#L" n="24"/>dere dann kaempffend dargegen / das wort Gottes sye so einfalt von Gott dem 
+          <lb ed="#L" n="25"/>menschen fürgelegt / das es keiner außlegung bedoerffe / unnd darumb vermey -  
+          <lb ed="#L" n="26"/>nend sie / es soelle die geschrifft wol von yederman gelesen werden / es moege aber 
+          <lb ed="#L" n="27"/>ein yegklicher darbey im selbst ein verstand fassen und schoepffen / den er meyne 
+          <lb ed="#L" n="28"/>am rechtesten sein. Unnd verdammend also hiemit den gmeynen brauch der  
+          <lb ed="#L" n="29"/>kirchen / da ein diener der kirchen dem volck die geschrifft außlegt. Ich hoff aber 
+          <lb ed="#L" n="30"/>ich woelle mit der hilff Gottes / so ewer lieb den Herren treülich darumb bittet /  
+          <lb ed="#L" n="31"/>erzeigen / das die geschrifft den gloeubigen nit tunckel syge / unnd das gaentzlich 
+          <lb ed="#L" n="32"/>deß Herren will syge / das wir die verstandind / demnach auch das die geschrifft 
+          <lb ed="#L" n="33"/>muesse außgelegt werden / da ich auch anzeigen wil ein einfaltige weyß und maß /  
+          <lb ed="#L" n="34"/>wie die geschrifft soelle und moege außgelegt werden. Dadurch dann auffgehept 
+          <lb ed="#L" n="35"/>moegend werden die ding die uns von dem laesen deß worts Gottes abziehend.  
+          <lb ed="#L" n="36"/>Und wirt uns ob Gott wil also das lesen unnd das zuhoeren deß worts Gottes 
+          <lb ed="#L" n="37"/>dest heylsammer und dest fruchtbarer werden. Und erstlichen / das Gott woel- 
+          <lb ed="#L" n="38"/>le das sein wort von den menschen verstanden werde / moegend wir fürnemlich 
+          <lb ed="#L" n="39"/>darauß abnemmen / das er in dem / und er mit seinen dienern geredt ein gemey- 
+          <lb ed="#L" n="40"/>ne weiß wie auch die aller einfaltigesten gewon sind zureden / gebraucht hatt.  
+          <lb ed="#L" n="41"/>Es habend auch weder die Propheten noch die Apostel / die doch außleger ge- 
+          <lb ed="#L" n="42"/>wesen und redner der hoechsten und ewigen weißheyt / andre oder hoehere weyß 
+          <lb ed="#L" n="43"/>zu reden gebraucht / ja so gar nit / das under allen denen so ye ettwas geschriben 
+          <lb ed="#L" n="44"/>habend / keine funden werdend / die so einfaltig und verstaentlich gschriben als sie.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>-->
+
