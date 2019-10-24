@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 1, Sermo 2 [London 1587 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Charlotte Feidicker</editor>
+        <editor>Ema-Joanne Brauchler </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 1, Sermo 2 [Bern 1558 Transcription]</title>
+          <date when="2019-10-15">October 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-u2dgeg">London 1587</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="de">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="7-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-LCyGFj">
+   <p><!--14.xml-->
+      <pb ed="#L" n="14"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>these men, and namely the onely be 
+      <lb ed="#L" n="2"/>gotten Sonne of God, whom I pray 
+      <lb ed="#L" n="3"/>you will be beleeve: We have heer the 
+      <lb ed="#L" n="4"/>most holy, innocent, upright living,  
+      <lb ed="#L" n="5"/>most praise woorthy, most just, most  
+      <lb ed="#L" n="6"/>aunctient, most wise, and most divine  
+      <lb ed="#L" n="7"/>men of the whole world and compasse  
+      <lb ed="#L" n="8"/>of the earth, and briefly, such men as  
+      <lb ed="#L" n="9"/>are by all means without comparison.  
+      <lb ed="#L" n="10"/>All the world can not shew us the like 
+      <lb ed="#L" n="11"/>againe, although it should wholie a  
+      <lb ed="#L" n="12"/>thousand times be assembled in coun 
+      <lb ed="#L" n="13"/>cels. The holy Emperor Constantine  
+      <lb ed="#L" n="14"/>gathered a generall councell out of all  
+      <lb ed="#L" n="15"/>the compasse of the earth, thither came  
+      <lb ed="#L" n="16"/>there togither out of all the worlde,  
+      <lb ed="#L" n="17"/>three hundred and eighteene most ex 
+      <lb ed="#L" n="18"/>cellent Fathers. But they that are  
+      <!--14.xml-->
+      <pb ed="#L" n="14"/>
+      <cb ed="#U" n="b"/>"
+          <lb ed="#L" n="1"/>of the wisest fort will saie, that these  
+      <lb ed="#L" n="2"/>are not so much as shadowes, to be  
+      <lb ed="#L" n="3"/>compared to them of whom wee have  
+      <lb ed="#L" n="4"/>received the worde of God. Let us  
+      <lb ed="#L" n="5"/>therefore in all thinges beleeve the  
+      <lb ed="#L" n="6"/>worde of God, delivered to us by the  
+      <lb ed="#L" n="7"/>Scriptures. Let us thinke that the  
+      <lb ed="#L" n="8"/>Lorde himelfe, which is the verie  
+      <lb ed="#L" n="9"/>living and eternall God, doth speake  
+      <lb ed="#L" n="10"/>to us by the Scriptures. Let us for  
+      <lb ed="#L" n="11"/>evermore praise the name and good 
+      <lb ed="#L" n="12"/>nesse of him, who hath vouched safe so  
+      <lb ed="#L" n="13"/>faithfully, fully and plainely, to open 
+      <lb ed="#L" n="14"/>to us miserable mortall men, all  
+      <lb ed="#L" n="15"/>the meanes howe to live well and ho 
+      <lb ed="#L" n="16"/>lilie.  
+      <lb ed="#L" n="17"/>To him be praise, honour, and glo 
+      <lb ed="#L" n="18"/>rie, for evermore, Amen.  
+      <!--14.xml-->
+      <pb ed="#L" n="14"/>
+      <cb ed="#U" n="c"/>"
+          <lb ed="#L" n="1"/>Deerely beloved 
+      <lb ed="#L" n="2"/>in the last Ser 
+      <lb ed="#L" n="3"/>I mon you lear 
+      <lb ed="#L" n="4"/>ly ned what the 
+      <lb ed="#L" n="5"/>o word of God is,  
+      <lb ed="#L" n="6"/>I from whence it  
+      <lb ed="#L" n="7"/>came, by whom 
+      <lb ed="#L" n="8"/>it was chiefelie  
+      <lb ed="#L" n="9"/>revealed, what 
+      <lb ed="#L" n="10"/>proceedings it had, &amp; of what dignitie  
+      <lb ed="#L" n="11"/> certaintie it is. Nowe am I come a 
+      <lb ed="#L" n="12"/>gain, and by Gods favor and the hely  
+      <lb ed="#L" n="13"/>of your praters, I will declare unto  
+      <lb ed="#L" n="14"/>you (beloved) to whome and to what 
+      <lb ed="#L" n="15"/>ende the word of God is revealed: in  
+      <lb ed="#L" n="16"/>what maner it is to be hearde, &amp; what 
+      <lb ed="#L" n="17"/>the force thereof is or the effect.  
+      <lb ed="#L" n="18"/>Our God is the God of al men and  
+      <lb ed="#L" n="19"/>nations, who according to the saieng  
+      <lb ed="#L" n="20"/>of the Apostle, would have all men to  
+      <!--14.xml-->
+      <pb ed="#L" n="14"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>be saved, &amp; to come to the knowledge  
+      <lb ed="#L" n="2"/>of the truth : and therefore hath he for  
+      <lb ed="#L" n="3"/>the benefite, life and salvation of all  
+      <lb ed="#L" n="4"/>men, revealed his word, that so in deed  
+      <lb ed="#L" n="5"/>there might bee a rule and certaine  
+      <lb ed="#L" n="6"/>way, to lead men by the path of justice  
+      <lb ed="#L" n="7"/>into life everlasting. God verily in the  
+      <lb ed="#L" n="8"/>old time did shew himelfe to the Is 
+      <lb ed="#L" n="9"/>raelites, his holie and peculiar people,  
+      <lb ed="#L" n="10"/>more familiarly than to other nati 
+      <lb ed="#L" n="11"/>ons, as the Prophet saith: To Jaacob  
+      <lb ed="#L" n="12"/>hath he declared his statutes, and his  
+      <lb ed="#L" n="13"/>judgements to Israell: he hath not 
+      <lb ed="#L" n="14"/>dealt so with any nation, neyther 
+      <lb ed="#L" n="15"/>hath he shewed them his judgments:  
+      <lb ed="#L" n="16"/>and yet he hath not altogither been 
+      <lb ed="#L" n="17"/>carelesse of the Gentiles. For as to  
+      <lb ed="#L" n="18"/>the Ninivites he sent Jonas, so Esai 
+      <lb ed="#L" n="19"/>as, Jeremias, Daniell, and the other 
+      <lb ed="#L" n="20"/>Prophetes bestowed much labour in  
+      <!--15.xml-->
+      <pb ed="#L" n="15"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>teaching and admonishing the Gen 
+      <lb ed="#L" n="2"/>tiles. And those most ancient fathers.  
+      <lb ed="#L" n="3"/>Noe, Abraham, and the rest, did not  
+      <lb ed="#L" n="4"/>onelie instruct the Jewish people  
+      <lb ed="#L" n="5"/>which descended of them, but taught  
+      <lb ed="#L" n="6"/>their other sonnes also, the judge 
+      <lb ed="#L" n="7"/>mentes of God. Our Lorde Jesus  
+      <lb ed="#L" n="8"/>Christ verilie laieng open the whole  
+      <lb ed="#L" n="9"/>world before his disciples, said: Teach  
+      <lb ed="#L" n="10"/>all nations: Preach the Gospell to  
+      <lb ed="#L" n="11"/>all creatures. And when as saint  
+      <lb ed="#L" n="12"/>Peter did not yet fully understande,  
+      <lb ed="#L" n="13"/>that the Gentiles also did appertaine  
+      <lb ed="#L" n="14"/>to the fellowshippe of the Church of  
+      <lb ed="#L" n="15"/>Christ, and that to the Gentiles also  
+      <lb ed="#L" n="16"/>did belong the preaching of the glad 
+      <lb ed="#L" n="17"/>tydinges of salvation, purchased by  
+      <lb ed="#L" n="18"/>Christ for the faithfull, the Lorde doth  
+      <lb ed="#L" n="19"/>instrnct him by a heavenly vision, by  
+      <lb ed="#L" n="20"/>speaking to him out of heaven, and by  
+      <lb ed="#L" n="21"/>the message which came from Corne 
+      <lb ed="#L" n="22"/>lius, as you knowe (doerely beloved)  
+      <lb ed="#L" n="23"/>by the history of the Actes of the Apo 
+      <lb ed="#L" n="24"/>stles. Let us therefore thinke (my bre 
+      <lb ed="#L" n="25"/>thren) that the worde of God and the  
+      <lb ed="#L" n="26"/>holie Scriptures, are revealed to all  
+      <lb ed="#L" n="27"/>men, to all ages, kindes, degrees, and  
+      <lb ed="#L" n="28"/>states throughout the worlde. For  
+      <lb ed="#L" n="29"/>the Apostle Paul also confirming the  
+      <lb ed="#L" n="30"/>same, saieth: whatsoever things are  
+      <lb ed="#L" n="31"/>written, are written for our learning,  
+      <lb ed="#L" n="32"/>that through patience, and com 
+      <lb ed="#L" n="33"/>fort of the Scriptures, wee may have  
+      <lb ed="#L" n="34"/>hope.  
+      <lb ed="#L" n="35"/>Let none of us therefore heereafter  
+      <lb ed="#L" n="36"/>say, what need I to care what is writ 
+      <lb ed="#L" n="37"/>ten to the Jewes in the olde Testa 
+      <lb ed="#L" n="38"/>ment, or what the apostles have writ 
+      <lb ed="#L" n="39"/>ten to the Bomanes, to the Corinthi 
+      <lb ed="#L" n="40"/>ans, and to other nations : I am a  
+      <lb ed="#L" n="41"/>Christian. The Prophets to the men 
+      <lb ed="#L" n="42"/>of their time, and the apostles to those  
+      <lb ed="#L" n="43"/>that lived in the same age with them 
+      <lb ed="#L" n="44"/>did both preach and write. For if wee  
+      <lb ed="#L" n="45"/>thinke uprightlie of the matter, wee  
+      <lb ed="#L" n="46"/>shall see that the Scriptures of the  
+      <!--15.xml-->
+      <pb ed="#L" n="15"/>
+      <cb ed="#U" n="b"/>"
+          <lb ed="#L" n="1"/>olde and newe Testamentes, ought  
+      <lb ed="#L" n="2"/>therfore to be received of us, even bi 
+      <lb ed="#L" n="3"/>cause wee are Christians. For Christ  
+      <lb ed="#L" n="4"/>our savior and master, did referre  
+      <lb ed="#L" n="5"/>us to the written bookes of Moses and  
+      <lb ed="#L" n="6"/>the Prophetes. Saint Paule the very 
+      <lb ed="#L" n="7"/>elect instrument of Christ, doth ap 
+      <lb ed="#L" n="8"/>ply to us the Sacraments and exam 
+      <lb ed="#L" n="9"/>ples of the old Fathers, that is to saie,  
+      <lb ed="#L" n="10"/>Circumeision in Baptisme, Coloss2. 
+      <lb ed="#L" n="11"/>and the Paschall lambe in the supper 
+      <lb ed="#L" n="12"/>or sacrament 1. Cor. 5. In the tenth  
+      <lb ed="#L" n="13"/>Chapter of the same Epistle he appli 
+      <lb ed="#L" n="14"/>eth sundry examples of the fathers to  
+      <lb ed="#L" n="15"/>us. And in the fourth to the Bomanes  
+      <lb ed="#L" n="16"/>where hee reasoneth of faith, which  
+      <lb ed="#L" n="17"/>justifieth without the help of works,  
+      <lb ed="#L" n="18"/>and the lawe, hee bringeth in the ex 
+      <lb ed="#L" n="19"/>ample of Abraham. And therewithall  
+      <lb ed="#L" n="20"/>addeth, Neverthelesse it is not writ 
+      <lb ed="#L" n="21"/>ten for Abraham alone, that faith  
+      <lb ed="#L" n="22"/>was reckoned unto him for righte 
+      <lb ed="#L" n="23"/>ousnesse, but also for us to whom lit  
+      <lb ed="#L" n="24"/>shall be reckoned if we beleeve, Ec.  
+      <lb ed="#L" n="25"/>By that meanes say some, we shall 
+      <lb ed="#L" n="26"/>againe bee wrapped in the lawe, wee  
+      <lb ed="#L" n="27"/>shall be iuforced to be circumcised, to  
+      <lb ed="#L" n="28"/>sacrifice flesh and blood of beastes, to  
+      <lb ed="#L" n="29"/>admit againe the priesthood of Aaron,  
+      <lb ed="#L" n="30"/>togither with the temple, and the o 
+      <lb ed="#L" n="31"/>ther ceremonies,  
+      <lb ed="#L" n="32"/>There shall againe be allowed the  
+      <lb ed="#L" n="33"/>bill of divorcement, or putting awaie  
+      <lb ed="#L" n="34"/>of a mans wife, togither with suffe 
+      <lb ed="#L" n="35"/>raunce to marrie manie wives. To  
+      <lb ed="#L" n="36"/>these I answere, that in the old Testa 
+      <lb ed="#L" n="37"/>ment we must consider, that some  
+      <lb ed="#L" n="38"/>things ther are, which are for ever to  
+      <lb ed="#L" n="39"/>be obserued, and some thinges which  
+      <lb ed="#L" n="40"/>are ceremoniall and suffered onely til  
+      <lb ed="#L" n="41"/>time of amendment. That time of a 
+      <lb ed="#L" n="42"/>mendment is the time of Christ, who 
+      <lb ed="#L" n="43"/>fulsilled the lawe, and tooke away the  
+      <lb ed="#L" n="44"/>curse of the lawe.  
+      <lb ed="#L" n="45"/>The same Christ chaunged Cir 
+      <lb ed="#L" n="46"/>cumcision into Baptisme. Hee with  
+      <!--16.xml-->
+      <pb ed="#L" n="16"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>his owne onelie sacrifice made an end  
+      <lb ed="#L" n="2"/>of all sacrifices, so that now in steade  
+      <lb ed="#L" n="3"/>of all sacrifices, there is left to us  
+      <lb ed="#L" n="4"/>that onelie sacrifice of Christ, where 
+      <lb ed="#L" n="5"/>in also we learne to offer our own ve 
+      <lb ed="#L" n="6"/>rie bodies and praiers togither with  
+      <lb ed="#L" n="7"/>good deedes, as spirituall sacrifices un 
+      <lb ed="#L" n="8"/>to God: Christ changed the priesthood  
+      <lb ed="#L" n="9"/>of Aaron for his owne, and the priest 
+      <lb ed="#L" n="10"/>hood of all Christians. The temple of  
+      <lb ed="#L" n="11"/>God are wee in whom God by his spi 
+      <lb ed="#L" n="12"/>rite doth dwell. All ceremomes did  
+      <lb ed="#L" n="13"/>Christ make voide, who also in the  
+      <lb ed="#L" n="14"/>nineteenth of Matthew did abrogate  
+      <lb ed="#L" n="15"/>the bill of divorcement, togither with  
+      <lb ed="#L" n="16"/>the marriage of manie wives. But  
+      <lb ed="#L" n="17"/>although these ceremones, and some  
+      <lb ed="#L" n="18"/>externall actions were abrogated and  
+      <lb ed="#L" n="19"/>cleane taken away by Christ, that we  
+      <lb ed="#L" n="20"/>shuld not be bound unto themryet not,  
+      <lb ed="#L" n="21"/>withstanding, the Scripture which  
+      <lb ed="#L" n="22"/>was published touching them, was 
+      <lb ed="#L" n="23"/>not taken awaie or else made voide  
+      <lb ed="#L" n="24"/>by Christ. For there must for ever bee  
+      <lb ed="#L" n="25"/>in the church of Christ a certaine te 
+      <lb ed="#L" n="26"/>stimoniall, whereby we may learne  
+      <lb ed="#L" n="27"/>what manner of worshippings and fi 
+      <lb ed="#L" n="28"/>gures of Christ they of the olde time  
+      <lb ed="#L" n="29"/>had. Those worshippings and siguree  
+      <lb ed="#L" n="30"/>of Christ must we at this daie inter 
+      <lb ed="#L" n="31"/>pret to the church specially, and out of  
+      <lb ed="#L" n="32"/>them we must no lesse than out of the  
+      <lb ed="#L" n="33"/>writings of the newe Testament  
+      <lb ed="#L" n="34"/>preach Christ, forgivenes of sins, and  
+      <lb ed="#L" n="35"/>repentance. So then to all Christi 
+      <lb ed="#L" n="36"/>ans are the writings of the olde Te 
+      <lb ed="#L" n="37"/>stament given by God: in like maner 
+      <lb ed="#L" n="38"/>as the Apostles writ to all Churches  
+      <lb ed="#L" n="39"/>those things which bore the name or  
+      <lb ed="#L" n="40"/>title of some particular congrega 
+      <lb ed="#L" n="41"/>tions,  
+      <lb ed="#L" n="42"/>And to this end is the word of God 
+      <lb ed="#L" n="43"/>revealed to men, that it may teach  
+      <lb ed="#L" n="44"/>them what, and what maner one God 
+      <lb ed="#L" n="45"/>is towards men, that he woulde have  
+      <lb ed="#L" n="46"/>them to be saved, and that by faith in  
+      <!--16.xml-->
+      <pb ed="#L" n="16"/>
+      <cb ed="#U" n="b"/>"
+          <lb ed="#L" n="1"/>Christ: what Christ is, and by what 
+      <lb ed="#L" n="2"/>meanes salvation commeth: what be 
+      <lb ed="#L" n="3"/>cometh the true worshippers of God,  
+      <lb ed="#L" n="4"/>what they ought to flie, and what to  
+      <lb ed="#L" n="5"/>ensue. Neither is it susficient to know 
+      <lb ed="#L" n="6"/>the wil of God, unlesse we do the same  
+      <lb ed="#L" n="7"/>and be saved. And for that cause saide  
+      <lb ed="#L" n="8"/>Moses, Heare lsrael the statutes and  
+      <lb ed="#L" n="9"/>judgements which I teach you, that 
+      <lb ed="#L" n="10"/>ye may doe them and live.  And the  
+      <lb ed="#L" n="11"/>Lorde in the Gospell confirming the  
+      <lb ed="#L" n="12"/>same, crieth: Blessed are they which  
+      <lb ed="#L" n="13"/>heare the word of God and keepe it,  
+      <lb ed="#L" n="14"/>And heere is to bee praised the ex 
+      <lb ed="#L" n="15"/>ceeding great goodnesse of God, which  
+      <lb ed="#L" n="16"/>would have nothing hid from us, which  
+      <lb ed="#L" n="17"/>maketh any whit to live rightly, well  
+      <lb ed="#L" n="18"/>and holily. The wise and learned of  
+      <lb ed="#L" n="19"/>this world doe for the most part heare  
+      <lb ed="#L" n="20"/>envie or grudge, that other shoulde  
+      <lb ed="#L" n="21"/>attaine unto the true wisedome. But  
+      <lb ed="#L" n="22"/>our Lord doth gently, and of his owne  
+      <lb ed="#L" n="23"/>accorde offer to us, the whole know 
+      <lb ed="#L" n="24"/>ledge of heavenlie things, and is desi 
+      <lb ed="#L" n="25"/>rous that we go forward therein, yea,  
+      <lb ed="#L" n="26"/>and that more is, he doth further our  
+      <lb ed="#L" n="27"/>labour, and bring it to an ende. For  
+      <lb ed="#L" n="28"/>whosoever hath, saith the Lord him 
+      <lb ed="#L" n="29"/>selfe in the Gospell, to him shall bee  
+      <lb ed="#L" n="30"/>given, that he may have the more a 
+      <lb ed="#L" n="31"/>bundance. And everie one that as 
+      <lb ed="#L" n="32"/>keth receiveth, and he ghat seeketh  
+      <lb ed="#L" n="33"/>findeth, and to him that knocketh it  
+      <lb ed="#L" n="34"/>shal be opened. Wherupon S. James  
+      <lb ed="#L" n="35"/>the Apostle saith: Ifanie of you lacke  
+      <lb ed="#L" n="36"/>wisdom, let him aske of God, which  
+      <lb ed="#L" n="37"/>giveth to all men liberally, that is,  
+      <lb ed="#L" n="38"/>willingly not with grudging, nei 
+      <lb ed="#L" n="39"/>ther casteth anie man in the reeth, e  
+      <lb ed="#L" n="40"/>it shall be given him. There, by the  
+      <lb ed="#L" n="41"/>way we see our dutie, which is in rea 
+      <lb ed="#L" n="42"/>ding and hearing the word of God, to  
+      <lb ed="#L" n="43"/>pray earnestly ad zealously, that wee  
+      <lb ed="#L" n="44"/>may come to that ende, for the which  
+      <lb ed="#L" n="45"/>the worde of God was given and re 
+      <lb ed="#L" n="46"/>vealed unto us. But as touching that  
+      <!--17.xml-->
+      <pb ed="#L" n="17"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>matter, wee will say somewhat more,  
+      <lb ed="#L" n="2"/>when we come to declare in what ma 
+      <lb ed="#L" n="3"/>ner of forte, the worde of God ought to  
+      <lb ed="#L" n="4"/>be heard.  
+      <lb ed="#L" n="5"/>Nowe, because I have sayde, that 
+      <lb ed="#L" n="6"/>the worde of God is revealed, to the  
+      <lb ed="#L" n="7"/>intente that it may fully instructe us  
+      <lb ed="#L" n="8"/>in the wayes of God and our salvati 
+      <lb ed="#L" n="9"/>on, I will in fewe words declare un 
+      <lb ed="#L" n="10"/>to you (dearely beloved) that in the  
+      <lb ed="#L" n="11"/>worde of God delivered to us by the  
+      <lb ed="#L" n="12"/>Prophets, and Apostles, is abundant 
+      <lb ed="#L" n="13"/>ly contayned the whole effect of god 
+      <lb ed="#L" n="14"/>lynesse, and what things soever are  
+      <lb ed="#L" n="15"/>is full and in al pointes perfect, to 
+      <lb ed="#L" n="16"/>availeable to the leading of our lives 
+      <lb ed="#L" n="17"/>rightly, well, and holily. For verily,  
+      <lb ed="#L" n="18"/>which nothing ought eyther to be  
+      <lb ed="#L" n="19"/>added, or else to be taken awaie. But  
+      <lb ed="#L" n="20"/>it must needes be, that that doctrine 
+      <lb ed="#L" n="21"/>such a doctrine is the doetrine taught  
+      <lb ed="#L" n="22"/>in the worde of God, as witnesseth  
+      <lb ed="#L" n="23"/>Moses Deutr. 4. 6 12. And salomon 
+      <lb ed="#L" n="24"/>Proverb. 30. what is he therefore that 
+      <lb ed="#L" n="25"/>doth not confesse that al pointes of  
+      <lb ed="#L" n="26"/>true pietie, are taught us in the sacred  
+      <lb ed="#L" n="27"/>Scriptures. Furthermore, no man can 
+      <lb ed="#L" n="28"/>denie that to be a most absolute do 
+      <lb ed="#L" n="29"/>ctrin, by which a ma is so fully made  
+      <lb ed="#L" n="30"/>perfeet, that in this world he may be 
+      <lb ed="#L" n="31"/>taken for a just man, and in the world  
+      <lb ed="#L" n="32"/>to come, be called for ever to the co 
+      <lb ed="#L" n="33"/>panie of God. But he that beleeveth  
+      <lb ed="#L" n="34"/>the word of God uttered to the world  
+      <lb ed="#L" n="35"/>by the Prophetes and Apostles, and  
+      <lb ed="#L" n="36"/>liveth thereafter, is called a just man,  
+      <lb ed="#L" n="37"/>doetine therefore is an absolute do 
+      <lb ed="#L" n="38"/>ctrine. For Paul also declaring more  
+      <lb ed="#L" n="39"/>largely &amp; fully the same matter, saith:  
+      <lb ed="#L" n="40"/> 
+      <lb ed="#L" n="41"/>and heire of life everlasting. That 
+      <lb ed="#L" n="42"/>All Scripture given by inspiration of  
+      <lb ed="#L" n="43"/>God, is profitable to doctrine to re 
+      <lb ed="#L" n="44"/>prove, to correction, to instruction 
+      <lb ed="#L" n="45"/>which is in righteousnesse, that the man 
+      <lb ed="#L" n="46"/>of God may be perfect, instructed to  
+      <lb ed="#L" n="47"/>all good workes,  
+      <!--17.xml-->
+      <pb ed="#L" n="17"/>
+      <cb ed="#U" n="b"/>"
+          <lb ed="#L" n="1"/>Pe have (brethren) an evident testi 
+      <lb ed="#L" n="2"/>monie of the fulnesse of the worde of  
+      <lb ed="#L" n="3"/>God. He have a docrin absolutely per 
+      <lb ed="#L" n="4"/>fect in al points. Pe have a most per 
+      <lb ed="#L" n="5"/>fect effect of the word of God, because  
+      <lb ed="#L" n="6"/>by this doctrine the man of God, that 
+      <lb ed="#L" n="7"/>is, the godly ond devout worshipper of  
+      <lb ed="#L" n="8"/>God, is perfect being instructed, not to  
+      <lb ed="#L" n="9"/>a cereaine few good works, but unto a  
+      <lb ed="#L" n="10"/>and every good worke. Wherin the re 
+      <lb ed="#L" n="11"/>fore canst thou finde anye want: I do 
+      <lb ed="#L" n="12"/>not thinke that any one is such a sot, as  
+      <lb ed="#L" n="13"/>to interprete these wordes of Paul, to  
+      <lb ed="#L" n="14"/>be spoken onely touching the olde Te 
+      <lb ed="#L" n="15"/>stamenteseeing it is more manifest tha 
+      <lb ed="#L" n="16"/>the Gospell, and was a Minister of the  
+      <lb ed="#L" n="17"/>ye day light, that Paule applied them 
+      <lb ed="#L" n="18"/>to his scholer Timothy, who preached  
+      <lb ed="#L" n="19"/>newe Testament. If so be then, that 
+      <lb ed="#L" n="20"/>the doctrine of the olde Testament be  
+      <lb ed="#L" n="21"/>new Testament be added thereuntos  
+      <lb ed="#L" n="22"/>of it selfe ful, by how much more shall  
+      <lb ed="#L" n="23"/>it be the fuller if the Volume of the  
+      <lb ed="#L" n="24"/>I am not so ignorant, but that I know 
+      <lb ed="#L" n="25"/>that the Lorde Jesus both did &amp; spake  
+      <lb ed="#L" n="26"/>many things which were not written 
+      <lb ed="#L" n="27"/>by the Apostles. But it followeth not 
+      <lb ed="#L" n="28"/>therefore that the doctrin of the word  
+      <lb ed="#L" n="29"/>of God, taught by the Apostles, is not 
+      <lb ed="#L" n="30"/>absolutely perfect. For Iohn the Apo 
+      <lb ed="#L" n="31"/>stle and Evangelist dooth freely con 
+      <lb ed="#L" n="32"/>fesse, that the Lorde did many other 
+      <lb ed="#L" n="33"/>thinges also, which were not written 
+      <lb ed="#L" n="34"/>in his booke: But immediatly hee ad  
+      <lb ed="#L" n="35"/>deth this and saith: But these are writ 
+      <lb ed="#L" n="36"/>ten, that ye might beleeve, that lesus  
+      <lb ed="#L" n="37"/>is Christ the sonne of God, and that in  
+      <lb ed="#L" n="38"/>oeleeving ye might have life through  
+      <lb ed="#L" n="39"/>his name. He affirmeth by this doc 
+      <lb ed="#L" n="40"/>trine, which hee conteined in writing,  
+      <lb ed="#L" n="41"/>that faith is fully taught, and that  
+      <lb ed="#L" n="42"/>through faith there is granted by God 
+      <lb ed="#L" n="43"/>everlasting life,  
+      <lb ed="#L" n="44"/>But the ende of absolute doctrine 
+      <lb ed="#L" n="45"/>is to be happie and perfectly blessed.  
+      <lb ed="#L" n="46"/>Since the, that that cometh to man by  
+      <!--18.xml-->
+      <pb ed="#L" n="18"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>the written doctrine of the Gospel, un 
+      <lb ed="#L" n="2"/>doubtedly that doctrine of the Gospell,  
+      <lb ed="#L" n="3"/>is most absolutely perfect.  
+      <lb ed="#L" n="4"/>I knowe, that the Lorde in the Gos 
+      <lb ed="#L" n="5"/>pell said, I have manie thinges to tell  
+      <lb ed="#L" n="6"/>you: but at this time you can not 
+      <lb ed="#L" n="7"/>beare them: But there withal I know 
+      <lb ed="#L" n="8"/>too, that he immediatly added this say 
+      <lb ed="#L" n="9"/>ing, But when the spirite of trueth  
+      <lb ed="#L" n="10"/>shall come he shall leade you into all  
+      <lb ed="#L" n="11"/>truth. I knowe furthemmore, that the  
+      <lb ed="#L" n="12"/>spirite of truth did come uppon his dis 
+      <lb ed="#L" n="13"/>ciples, and therefore I beleeve, that 
+      <lb ed="#L" n="14"/>they according to the true promise of  
+      <lb ed="#L" n="15"/>Christ were led into all truth, so that 
+      <lb ed="#L" n="16"/>it is most alluredly certaine, that no 
+      <lb ed="#L" n="17"/>thing was wanting in them 
+      <lb ed="#L" n="18"/>But some there are, which when  
+      <lb ed="#L" n="19"/>they cannot denye this, do turne them 
+      <lb ed="#L" n="20"/>selves and say, that ye Apostles in deed  
+      <lb ed="#L" n="21"/>knewe all things, but yet taught them 
+      <lb ed="#L" n="22"/>not but by word of mouth onely, not 
+      <lb ed="#L" n="23"/>setting downe in writinge all those  
+      <lb ed="#L" n="24"/>thinges, which doe appertaine to true  
+      <lb ed="#L" n="25"/>godlinesse.  As though it were likely  
+      <lb ed="#L" n="26"/>that Christ his most faithfull Apostles,  
+      <lb ed="#L" n="27"/>would upo spite, have kept backe any  
+      <lb ed="#L" n="28"/>thing from their posteritie. As though  
+      <lb ed="#L" n="29"/>in deede, he had lyed which said, These  
+      <lb ed="#L" n="30"/>thinges are written, that in beleeving  
+      <lb ed="#L" n="31"/>ye might have life everlasting. John 
+      <lb ed="#L" n="32"/>therfore did let passe nothing which be 
+      <lb ed="#L" n="33"/>longeth to our full instructing in the  
+      <lb ed="#L" n="34"/>faith. Lnke did omit nothing. Neither  
+      <lb ed="#L" n="35"/>did the rest of the Apostles &amp; disciples  
+      <lb ed="#L" n="36"/>of our Lorde Jesus Christ suffer any  
+      <lb ed="#L" n="37"/>thing to over: slip them. Paul also  
+      <lb ed="#L" n="38"/>wrote fourteene sundrie Epistles: but  
+      <lb ed="#L" n="39"/>yet the most of them conteined one  
+      <lb ed="#L" n="40"/>and the selfe same matter 
+      <lb ed="#L" n="41"/>Whereby we may very well conec 
+      <lb ed="#L" n="42"/>ture, that in them is wholly compre 
+      <lb ed="#L" n="43"/>hended the absolute doctrine of godly 
+      <lb ed="#L" n="44"/>nesse.  For he would not have repea 
+      <lb ed="#L" n="45"/>ted one and the selfe same thing so of 
+      <lb ed="#L" n="46"/>ten, to so many sundrye men, if there  
+      <!--18.xml-->
+      <pb ed="#L" n="18"/>
+      <cb ed="#U" n="b"/>"
+          <lb ed="#L" n="1"/>had yet bene any thing else necessarie,  
+      <lb ed="#L" n="2"/>more fullie to be taught for the obtei 
+      <lb ed="#L" n="3"/>ning of salvation. Those things un 
+      <lb ed="#L" n="4"/>doubtedly would hee have taught, and  
+      <lb ed="#L" n="5"/>not have rehearsed one and the same  
+      <lb ed="#L" n="6"/>thing so many times. Verily in the  
+      <lb ed="#L" n="7"/>third chapter of his epistle to the E 
+      <lb ed="#L" n="8"/>phesians he doth affirme, that in the  
+      <lb ed="#L" n="9"/>two first Chapters of the same his e 
+      <lb ed="#L" n="10"/>pistle, hee did declare his knowledge in  
+      <lb ed="#L" n="11"/>the Gospell of Christ,  
+      <lb ed="#L" n="12"/>God ssayth he) by revelation she 
+      <lb ed="#L" n="13"/>wed the mysterie unto me as I wrote  
+      <lb ed="#L" n="14"/>before in sewe wordes, whereby when  
+      <lb ed="#L" n="15"/>ye read ye may understand my know 
+      <lb ed="#L" n="16"/>ledge in the mysterie of Christ. And  
+      <lb ed="#L" n="17"/>this spake he touching that one and  
+      <lb ed="#L" n="18"/>onely Epistle, yea, &amp; that too touching 
+      <lb ed="#L" n="19"/>the two first Chapters of that one E 
+      <lb ed="#L" n="20"/>pistle.  Thereunto when the most  
+      <lb ed="#L" n="21"/>large and lightsome Letters or Epi 
+      <lb ed="#L" n="22"/>stles of saint Paul himelfe, and al 
+      <lb ed="#L" n="23"/>so of the other Apostles are added, who 
+      <lb ed="#L" n="24"/>I pray you unlesse hee bee altogether 
+      <lb ed="#L" n="25"/>without sense, wil once thinke that the  
+      <lb ed="#L" n="26"/>apostles have lefte in writing to us  
+      <lb ed="#L" n="27"/>their posterity, a doctrine not absolute 
+      <lb ed="#L" n="28"/>ly perfect,  
+      <lb ed="#L" n="29"/>As for those which do earnestly af,  
+      <lb ed="#L" n="30"/>firme, that al points of godlines were  
+      <lb ed="#L" n="31"/>taught by the Apostles to the posterith  
+      <lb ed="#L" n="32"/>by word of mouth &amp; not by writing  
+      <lb ed="#L" n="33"/>their purpose is to set to sale their  
+      <lb ed="#L" n="34"/>own, that is, mens ordinances in steed  
+      <lb ed="#L" n="35"/>of the word of God.  
+      <lb ed="#L" n="36"/>But against this poyson (my bre 
+      <lb ed="#L" n="37"/>thren) take this unto you for a medi 
+      <lb ed="#L" n="38"/>cine to erpell it. Conferre the thinges 
+      <lb ed="#L" n="39"/>which these fellowes set to sale, un 
+      <lb ed="#L" n="40"/>der the colour of the Apostles Traditi 
+      <lb ed="#L" n="41"/>ons, taught by worde of mouth, and  
+      <lb ed="#L" n="42"/>not by writing, with the manifest  
+      <lb ed="#L" n="43"/>writinges of the Apostles, and if in a 
+      <lb ed="#L" n="44"/>nye place you shall perceyve those tra 
+      <lb ed="#L" n="45"/>ditions, to disagree with the Scrip 
+      <lb ed="#L" n="46"/>tures, the gather by &amp; by, that it is the  
+      <!--19.xml-->
+      <pb ed="#L" n="19"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>forged invention of men, and not the  
+      <lb ed="#L" n="2"/>Apostles tradition. For they, which  
+      <lb ed="#L" n="3"/>had one and the same Spirite of truth,  
+      <lb ed="#L" n="4"/>lefte not unto us one thing in writing,  
+      <lb ed="#L" n="5"/>and taught an other thing by worde of  
+      <lb ed="#L" n="6"/>mouth.  
+      <lb ed="#L" n="7"/>Furthermore, wee must diligently  
+      <lb ed="#L" n="8"/>search, whether those traditions do set 
+      <lb ed="#L" n="9"/>forwarde the glory of God, rather than 
+      <lb ed="#L" n="10"/>of men, or the safetie of the faithtull,  
+      <lb ed="#L" n="11"/>rather than the private aduauntage  
+      <lb ed="#L" n="12"/>of the Priestes. And wee must take  
+      <lb ed="#L" n="13"/>heede of mennes Traditions, especial 
+      <lb ed="#L" n="14"/>ly since the Lorde sayth, In vame doe  
+      <lb ed="#L" n="15"/>they worship me, teaching doctrines 
+      <lb ed="#L" n="16"/>the preceptes of men: So that nowe,  
+      <lb ed="#L" n="17"/>the surest way is to cleave to the word  
+      <lb ed="#L" n="18"/>of the Lorde lefte to us in the Scrip 
+      <lb ed="#L" n="19"/>tures, which teacheth aboundantlye  
+      <lb ed="#L" n="20"/>all thinges that belong to true godly,  
+      <lb ed="#L" n="21"/>nesse,  
+      <lb ed="#L" n="22"/>It remaineth now for me to tell, in  
+      <lb ed="#L" n="23"/>what manner of fort this perfect doct 
+      <lb ed="#L" n="24"/>ctrine of godlines &amp; salvatio, I meane,  
+      <lb ed="#L" n="25"/>the very word of god ought to be heard  
+      <lb ed="#L" n="26"/>of the faithtull, to the intent it may be  
+      <lb ed="#L" n="27"/>heard with some fruite to profit them 
+      <lb ed="#L" n="28"/>aboundantly. I will in few words co 
+      <lb ed="#L" n="29"/>teine it. Let the word of God be heard  
+      <lb ed="#L" n="30"/>with great reverece, which of right is  
+      <lb ed="#L" n="31"/>due to God himselfe and godly things.  
+      <lb ed="#L" n="32"/>Let it be heard very attentively: with  
+      <lb ed="#L" n="33"/>continuall prayers betweene and ear 
+      <lb ed="#L" n="34"/>nest requests. Let it be heard soderly to  
+      <lb ed="#L" n="35"/>our profit, that by it wee may become  
+      <lb ed="#L" n="36"/>the better, that God by us may be glo 
+      <lb ed="#L" n="37"/>rified, and not that we goe evriously a 
+      <lb ed="#L" n="38"/>bout to search out the hidden counsells  
+      <lb ed="#L" n="39"/>of God, or desire to be counted skilfull  
+      <lb ed="#L" n="40"/>and expert in many matters.  
+      <lb ed="#L" n="41"/>Let true faith, the glorie of God,  
+      <lb ed="#L" n="42"/>and our salvatio be appointed as the  
+      <lb ed="#L" n="43"/>measure and certayne ende of out  
+      <lb ed="#L" n="44"/>hearing and reading. For In 1520.  
+      <lb ed="#L" n="45"/>dus Moses the holy seruaunt of God 
+      <!--19.xml-->
+      <pb ed="#L" n="19"/>
+      <cb ed="#U" n="b"/>"
+          <lb ed="#L" n="1"/>is commaunded to sanetifie the peo 
+      <lb ed="#L" n="2"/>ple, and make them in a readinesse to  
+      <lb ed="#L" n="3"/>heare the sacred Sermon which God, 
+      <lb ed="#L" n="4"/>himselfe did minde to make the next 
+      <lb ed="#L" n="5"/>day after. Moses therefore commeth  
+      <lb ed="#L" n="6"/>and demaundeth of the whole people  
+      <lb ed="#L" n="7"/>due obedience to be shewed, as well  
+      <lb ed="#L" n="8"/>to God, as to his Ministers. Then com 
+      <lb ed="#L" n="9"/>mandeth he them to wash their gar 
+      <lb ed="#L" n="10"/>ments, to absteine from their wives.  
+      <lb ed="#L" n="11"/>After that hee appointeth certaine li 
+      <lb ed="#L" n="12"/>mites, beyond which it was not law 
+      <lb ed="#L" n="13"/>full upon paine of death for them to 
+      <lb ed="#L" n="14"/>passe,  
+      <lb ed="#L" n="15"/>By this we plainely learne, that the  
+      <lb ed="#L" n="16"/>Lord doth require such to be his Disci 
+      <lb ed="#L" n="17"/>ples to heare him, as do specially shew 
+      <lb ed="#L" n="18"/>obedience and reverence to him in all 
+      <lb ed="#L" n="19"/>things, For he being God speaketh to  
+      <lb ed="#L" n="20"/>us men, all we men owe unto God ho 
+      <lb ed="#L" n="21"/>nour and feare,  
+      <lb ed="#L" n="22"/>A man, unlesse hee become lowly,  
+      <lb ed="#L" n="23"/>humble, and obediet to God, is altoge 
+      <lb ed="#L" n="24"/>ther godlesse. Then is it required at the  
+      <lb ed="#L" n="25"/>handes of those which are meete hea 
+      <lb ed="#L" n="26"/>rers of the worde of God, that they lay 
+      <lb ed="#L" n="27"/>apart worldly affaires, which are sig 
+      <lb ed="#L" n="28"/>nified by the garments: to tread under 
+      <lb ed="#L" n="29"/>foote all filthinesse and uncleannesse of  
+      <lb ed="#L" n="30"/>soule and bodie: to refraive for a season 
+      <lb ed="#L" n="31"/>even from those pleasures which are  
+      <lb ed="#L" n="32"/>lawfull unto us.  
+      <lb ed="#L" n="33"/>The holye Ghoste dooth love the  
+      <lb ed="#L" n="34"/>mindes that are purely cleansed which  
+      <lb ed="#L" n="35"/>yet notwithstanding are not cleansed  
+      <lb ed="#L" n="36"/>but by the Spirite of God. Neede 
+      <lb ed="#L" n="37"/>full it is, to have a sincere beleefe in  
+      <lb ed="#L" n="38"/>God, and a readie good will and desire  
+      <lb ed="#L" n="39"/>to live according to that which is com 
+      <lb ed="#L" n="40"/>maunded in the word of God, Moreo 
+      <lb ed="#L" n="41"/>ver we must be wise to sobriety. Over 
+      <lb ed="#L" n="42"/>curious questions must bee set aside,  
+      <lb ed="#L" n="43"/>Let things profitable to salvation on 
+      <lb ed="#L" n="44"/>ly be learned.  
+      <lb ed="#L" n="45"/>Last of al let especiall heed be taken 
+      <!--20.xml-->
+      <pb ed="#L" n="20"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>in hearing and learning. For saith sa 
+      <lb ed="#L" n="2"/>clomon, If thou wilt secke after wise 
+      <lb ed="#L" n="3"/>dome as after gold, thou shalt obteine  
+      <lb ed="#L" n="4"/>it. Againe he saith: The searcher out of  
+      <lb ed="#L" n="5"/>Gods majestie shall be overwhelmed  
+      <lb ed="#L" n="6"/>by his wonderfull glorie. And againe  
+      <lb ed="#L" n="7"/>he saith: Seeke not things too high for  
+      <lb ed="#L" n="8"/>thee, neither goe about to search out  
+      <lb ed="#L" n="9"/>things above thy strength: but what 
+      <lb ed="#L" n="10"/>God hath comanded thee, that thinke  
+      <lb ed="#L" n="11"/>thou alwayes on: and bee not over  
+      <lb ed="#L" n="12"/>evrious to knowe his infinite workes,  
+      <lb ed="#L" n="13"/>for it is not erpedient for thee to see 
+      <lb ed="#L" n="14"/>his hidden secrets with thine eyes,  
+      <lb ed="#L" n="15"/>Whereupon the Apostle Paul saith,  
+      <lb ed="#L" n="16"/>Let no man thinke arrogantly of him 
+      <lb ed="#L" n="17"/>selfe, but so thinke that hee may bee  
+      <lb ed="#L" n="18"/>modest and sober, according as God 
+      <lb ed="#L" n="19"/>to everie one hath given the measure 
+      <lb ed="#L" n="20"/>of faith. And heereto belongeth that 
+      <lb ed="#L" n="21"/>which the same Apostle saith, Tnow 
+      <lb ed="#L" n="22"/>ledge puffeth up, and charitie dooth  
+      <lb ed="#L" n="23"/>edifie.  
+      <lb ed="#L" n="24"/>But chiefly we must beware of those  
+      <lb ed="#L" n="25"/>plagves, which choake the seede of the  
+      <lb ed="#L" n="26"/>word of God, and quenche it without  
+      <lb ed="#L" n="27"/>any fruite at all in the heartes of the  
+      <lb ed="#L" n="28"/>hearers. Those plagves and diseases  
+      <lb ed="#L" n="29"/>hathye Lord rehearsed or reckoned by 
+      <lb ed="#L" n="30"/>in the Parable of the Sower. For first  
+      <lb ed="#L" n="31"/>of all, wanton and vaine cogitations,  
+      <lb ed="#L" n="32"/>which alwaies lie wide open to the in 
+      <lb ed="#L" n="33"/>spirations of satan, &amp; talk of naughtie  
+      <lb ed="#L" n="34"/>men, are plagves to the word of God.  
+      <lb ed="#L" n="35"/>Also voluptuous and daintie lovers of  
+      <lb ed="#L" n="36"/>this world, who cannot abide to suffer 
+      <lb ed="#L" n="37"/>any affliction for Christ and his Gos 
+      <lb ed="#L" n="38"/>pel, doo without any fruite at al heare  
+      <lb ed="#L" n="39"/>Gods worde, although they seeme to  
+      <lb ed="#L" n="40"/>give eare unto it very ioyfully.  
+      <lb ed="#L" n="41"/>Furthermore, the care of this world,  
+      <lb ed="#L" n="42"/>and the deceipt of riches, are moste  
+      <lb ed="#L" n="43"/>pestilent diseases in the hearers of the  
+      <lb ed="#L" n="44"/>word of God. For they doo not onely  
+      <lb ed="#L" n="45"/>hinder the seede that it cannot bring 
+      <lb ed="#L" n="46"/>foorth the fruit in their hearts, but also  
+      <!--20.xml-->
+      <pb ed="#L" n="20"/>
+      <cb ed="#U" n="b"/>"
+          <lb ed="#L" n="1"/>they doo stirre up and egge men for 
+      <lb ed="#L" n="2"/>warde to gaine: say the worde of God,  
+      <lb ed="#L" n="3"/>and to afflict the earnest desires of  
+      <lb ed="#L" n="4"/>Gods worde. Heere therefore we must  
+      <lb ed="#L" n="5"/>take heede diligently, least being in 
+      <lb ed="#L" n="6"/>fected with these diseases, we become  
+      <lb ed="#L" n="7"/>vaine and unthankefull hearers of the  
+      <lb ed="#L" n="8"/>word of God.  
+      <lb ed="#L" n="9"/>Wee muste praye continuallye,  
+      <lb ed="#L" n="10"/>that the bountifull and liherall Lord  
+      <lb ed="#L" n="11"/>will vouchsafe to bestowe on us his  
+      <lb ed="#L" n="12"/>spirit, that by it the seede of Gods word  
+      <lb ed="#L" n="13"/>may be quickened in our heartes, and  
+      <lb ed="#L" n="14"/>that we as holy and right hearers of  
+      <lb ed="#L" n="15"/>his worde may beare fruite aboun 
+      <lb ed="#L" n="16"/>dantly to the glory of God, and the e 
+      <lb ed="#L" n="17"/>verlasting salvation of oure owne  
+      <lb ed="#L" n="18"/>soules.  
+      <lb ed="#L" n="19"/>For what will it avayle to heare  
+      <lb ed="#L" n="20"/>the word of God without faith, and  
+      <lb ed="#L" n="21"/>without the holy Spirite of God to  
+      <lb ed="#L" n="22"/>worke or stir inwardly in our hearts:  
+      <lb ed="#L" n="23"/>The Apostle Paul saith, Hee which  
+      <lb ed="#L" n="24"/>watereth is nothing, nor hee which  
+      <lb ed="#L" n="25"/>planteth, but it is God which giveth  
+      <lb ed="#L" n="26"/>increase. Vee have neede therefore of  
+      <lb ed="#L" n="27"/>Gods watering, that the word of God 
+      <lb ed="#L" n="28"/>may growe to a perfect age, may re 
+      <lb ed="#L" n="29"/>ceive increase, yea, and may come also  
+      <lb ed="#L" n="30"/>to the bringing foorth of ripe fruite  
+      <lb ed="#L" n="31"/>within our mindes. The same Apo 
+      <lb ed="#L" n="32"/>stle Paule sayth, To us also is the  
+      <lb ed="#L" n="33"/>worde of God declared, even as unto  
+      <lb ed="#L" n="34"/>our fathers. But it avayled them no 
+      <lb ed="#L" n="35"/>thing to heare the worde, because  
+      <lb ed="#L" n="36"/>it was not ioyned with Faythe in  
+      <lb ed="#L" n="37"/>them that heard it . For they dyed  
+      <lb ed="#L" n="38"/>in the desart. And immediatly after  
+      <lb ed="#L" n="39"/>hee sayth: Let us therefore doe our 
+      <lb ed="#L" n="40"/>best to enter into that rest, so that no 
+      <lb ed="#L" n="41"/>man die in the same erample of un 
+      <lb ed="#L" n="42"/>beleefe.  If therefore that the worde  
+      <lb ed="#L" n="43"/>of God doo sound in our eares, and  
+      <lb ed="#L" n="44"/>therewithall the Spirite of God doo 
+      <lb ed="#L" n="45"/>shewe foorth his polver in our hearts,  
+      <lb ed="#L" n="46"/>and that we in faith doo truely receive  
+      <!--21.xml-->
+      <pb ed="#L" n="21"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>have spoken unto you. Againe in the  
+      <lb ed="#L" n="2"/>gospell, hee cryeth, saying: lfanie man 
+      <lb ed="#L" n="3"/>loveth me, hee will keepe my saying,  
+      <lb ed="#L" n="4"/>and my father will love him, and wee 
+      <lb ed="#L" n="5"/>will come into him and make our 
+      <lb ed="#L" n="6"/>dwelling place in him. Jeremie saith  
+      <lb ed="#L" n="7"/>also, Thy worde became my comfort,  
+      <lb ed="#L" n="8"/>And the Prophet David saith, The  
+      <lb ed="#L" n="9"/>statutes of the Lord are right, and re 
+      <lb ed="#L" n="10"/>ioice the heart. Whereunto adde that 
+      <lb ed="#L" n="11"/>saying of the Lordes in the gospell, it  
+      <lb ed="#L" n="12"/>yee remaine in me, and my wordes re 
+      <lb ed="#L" n="13"/>maine in you, aske what yee will, and  
+      <lb ed="#L" n="14"/>it shall be done for you. In an other 
+      <lb ed="#L" n="15"/>place also the Prophet crieth, saying:  
+      <lb ed="#L" n="16"/>If yee be willing and will hearken, yee  
+      <lb ed="#L" n="17"/>shall cate the good of the land, but if  
+      <lb ed="#L" n="18"/>yee will not heare my worde, the sword  
+      <lb ed="#L" n="19"/>shall devoure you. Moreover Moses  
+      <lb ed="#L" n="20"/>doth very often and largelie reckon by 
+      <lb ed="#L" n="21"/>the good thinges that shall happen to  
+      <lb ed="#L" n="22"/>them which obey the worde of God,  
+      <lb ed="#L" n="23"/>Leviticus 26. Deutero. 28. Where 
+      <lb ed="#L" n="24"/>fore David durst boldely preferre the  
+      <lb ed="#L" n="25"/>worde of God before all the pleasures  
+      <lb ed="#L" n="26"/>and treasures of this world. The feare  
+      <lb ed="#L" n="27"/>of the Lorde is cleane and endureth  
+      <lb ed="#L" n="28"/>for ever, the judgementes of the Lorde  
+      <lb ed="#L" n="29"/>are true and righteous altogethers 
+      <lb ed="#L" n="30"/>more to be desired are they than gold, 
+      <lb ed="#L" n="31"/>yea, than much fine gold : sweeter al 
+      <lb ed="#L" n="32"/>so than honie, and the dropping honie  
+      <lb ed="#L" n="33"/>combes. For by them thy seruaunt is  
+      <lb ed="#L" n="34"/>plainely tanght, and in keeping of  
+      <lb ed="#L" n="35"/>them there is a great advantage. There 
+      <lb ed="#L" n="36"/>fore is the lawe of thy mouth more 
+      <lb ed="#L" n="37"/>precious unto mee, than thousandes of  
+      <lb ed="#L" n="38"/>silver and golde. wnlesse my deligh  
+      <lb ed="#L" n="39"/>had beene in thy lawe, I had perished  
+      <lb ed="#L" n="40"/>in my miserie. To this nowe doth ap 
+      <lb ed="#L" n="41"/>pertaine that parable in the gospell of  
+      <lb ed="#L" n="42"/>him which bought the precious pearle:  
+      <lb ed="#L" n="43"/>and of him also which solde all that hee  
+      <lb ed="#L" n="44"/>had, and bought the grounde wherein 
+      <lb ed="#L" n="45"/>hee knewe that treasure was hidde.  
+      <lb ed="#L" n="46"/>For, that precious pearle, and that 
+      <!--21.xml-->
+      <pb ed="#L" n="21"/>
+      <cb ed="#U" n="b"/>"
+          <lb ed="#L" n="1"/>the worde of God, then hath the word  
+      <lb ed="#L" n="2"/>of God a mightie force and wonderful  
+      <lb ed="#L" n="3"/>effect in us. For it driveth away the  
+      <lb ed="#L" n="4"/>mistie darkenesse of exrors, it openeth  
+      <lb ed="#L" n="5"/>our eies, it converteth and enlighte 
+      <lb ed="#L" n="6"/>neth our mindes, and instructeth us  
+      <lb ed="#L" n="7"/>most fully and absolutely in truth and  
+      <lb ed="#L" n="8"/>godlinesse. For the Prophet David in  
+      <lb ed="#L" n="9"/>his Psalmes beareth witnesse, &amp; saith:  
+      <lb ed="#L" n="10"/>The lawe of the Lorde is perfeet con 
+      <lb ed="#L" n="11"/>verting the foule, the testimonie of  
+      <lb ed="#L" n="12"/>God is true and giveth wisedome un 
+      <lb ed="#L" n="13"/>to the simple: The commaundement  
+      <lb ed="#L" n="14"/>of the Lord is pure, and giveth light  
+      <lb ed="#L" n="15"/>into the cies. Furthermore the worde  
+      <lb ed="#L" n="16"/>of God doth feede, strenthen, confirme  
+      <lb ed="#L" n="17"/>and comfort our soules, it doth rege 
+      <lb ed="#L" n="18"/>nerate, cleanse, make ioifull, and joyne  
+      <lb ed="#L" n="19"/>us to God, yea and obtaineth al things  
+      <lb ed="#L" n="20"/>for us at Gods handes, setting us in a  
+      <lb ed="#L" n="21"/>most happie state, in so much that no 
+      <lb ed="#L" n="22"/>goods or treasure of the whole worlde  
+      <lb ed="#L" n="23"/>are to be compared with the worde of  
+      <lb ed="#L" n="24"/>God. And thus much doe we attribute  
+      <lb ed="#L" n="25"/>to the worde of God, not without the  
+      <lb ed="#L" n="26"/>testimonie of Gods worde. For, the  
+      <lb ed="#L" n="27"/>Lord by ye Prophet Amos doth threa 
+      <lb ed="#L" n="28"/>ten hunger &amp; thirst, not to eate breade  
+      <lb ed="#L" n="29"/>and to drinke water, but to heare the  
+      <lb ed="#L" n="30"/>worde of God. For in the old and new 
+      <lb ed="#L" n="31"/>testamentes it is saide, that man doeth  
+      <lb ed="#L" n="32"/>not live by breade onelie, but by every 
+      <lb ed="#L" n="33"/>worde that proceedeth out of the  
+      <lb ed="#L" n="34"/>mouth of God. And the Apostle Paul  
+      <lb ed="#L" n="35"/>saith, that all thinges in the Scriptures  
+      <lb ed="#L" n="36"/>are written for our learning, that by  
+      <lb ed="#L" n="37"/>patience and comfort of the scriptures  
+      <lb ed="#L" n="38"/>we might have hope. Also Peter saith  
+      <lb ed="#L" n="39"/>y are borne anewe, not of corruptible  
+      <lb ed="#L" n="40"/>seede, but of incorruptible, by the  
+      <lb ed="#L" n="41"/>word of God which liveth and lasteth  
+      <lb ed="#L" n="42"/>for ever. And this is the worde which  
+      <lb ed="#L" n="43"/>by the gospell was preached unto you,  
+      <lb ed="#L" n="44"/>The Lorde also in the gospell beareth  
+      <lb ed="#L" n="45"/>witnesse to the same, and saith: Nowe  
+      <lb ed="#L" n="46"/>are yee cleane by the worde which I  
+      <!--22.xml-->
+      <pb ed="#L" n="22"/>
+      <cb ed="#U" n="a"/>"
+          <lb ed="#L" n="1"/>of the Apostles, teach our fathers the  
+      <lb ed="#L" n="2"/>whole summe of godlinesse and salva 
+      <lb ed="#L" n="3"/>tion, but did provide also, that it by the  
+      <lb ed="#L" n="4"/>meanes of the same Apostles, shoulde  
+      <lb ed="#L" n="5"/>be set down in writing. And that doth  
+      <lb ed="#L" n="6"/>manifestly appeare, that it was done  
+      <lb ed="#L" n="7"/>for the posterities sake, that is, for us,  
+      <lb ed="#L" n="8"/>and our successours, to the intent that 
+      <lb ed="#L" n="9"/>none of us nor ours should be seduced,  
+      <lb ed="#L" n="10"/>nor that false traditios should be popt 
+      <lb ed="#L" n="11"/>into anie of our mouthes in steede of  
+      <lb ed="#L" n="12"/>the trueth. Te must all therefore be 
+      <lb ed="#L" n="13"/>ware, we must all watch and sticke  
+      <lb ed="#L" n="14"/>fast unto the worde of God, which is  
+      <lb ed="#L" n="15"/>left to us in the scriptures by the Pro 
+      <lb ed="#L" n="16"/>phetes and Apostles. Finally, let our  
+      <lb ed="#L" n="17"/>care be wholie bent, with faith &amp; pro 
+      <lb ed="#L" n="18"/>fite to heare whatsoever the Lorde de 
+      <lb ed="#L" n="19"/>clareth unto us: Let us cast out and  
+      <lb ed="#L" n="20"/>treade under foote whatsoever by our  
+      <lb ed="#L" n="21"/>flesh, the worlde or the devill, is obiec 
+      <lb ed="#L" n="22"/>ted to be a let to godlinesse. Te know 
+      <lb ed="#L" n="23"/>what the deseases &amp; plagves of ye seede  
+      <lb ed="#L" n="24"/>of Gods worde sowed in the hearts of  
+      <lb ed="#L" n="25"/>tho faithfull are. We know how great 
+      <lb ed="#L" n="26"/>the polver of Gods worde is in them 
+      <lb ed="#L" n="27"/>which heare it devoutly. Let us there 
+      <lb ed="#L" n="28"/>fore beseech our Lorde God to powre  
+      <lb ed="#L" n="29"/>into our mindes his holie spirite, by  
+      <lb ed="#L" n="30"/>whose vertue the seede of Gods worde  
+      <lb ed="#L" n="31"/>may be quickened in our hearts, to the  
+      <lb ed="#L" n="32"/>bringing foorth of much fruite, to the  
+      <lb ed="#L" n="33"/>salvation of our soules, and the glorie  
+      <lb ed="#L" n="34"/>for ever,  
+      <lb ed="#L" n="35"/>of God our father. To whom be glorie  
+      <!--22.xml-->
+      <pb ed="#L" n="22"/>
+      <cb ed="#U" n="b"/>"
+          <lb ed="#L" n="1"/>treasure are the gospell or worde of  
+      <lb ed="#L" n="2"/>God: which for the excellencie of it is,  
+      <lb ed="#L" n="3"/>in the Scriptures called a light, a fire, a  
+      <lb ed="#L" n="4"/>sword, a maule which breaketh stones,  
+      <lb ed="#L" n="5"/>a buckler, and by manie other names  
+      <lb ed="#L" n="6"/>like uuto these,  
+      <lb ed="#L" n="7"/>Dearely beloved, this houre yee  
+      <lb ed="#L" n="8"/>have heard our bountifull Lorde and  
+      <lb ed="#L" n="9"/>God, who woulde have all men saved 
+      <lb ed="#L" n="10"/>and to come to the knowledge of the  
+      <lb ed="#L" n="11"/>truth, howe he hath revealed his word  
+      <lb ed="#L" n="12"/>to al men throughout ye whole worlde,  
+      <lb ed="#L" n="13"/>to the intent, that all men in al places,  
+      <lb ed="#L" n="14"/>of what kinde, age, or degree soever 
+      <lb ed="#L" n="15"/>they be may knowe the truth, and bee  
+      <lb ed="#L" n="16"/>instructed in the true salvation, and  
+      <lb ed="#L" n="17"/>may learne a perfect way howe to live  
+      <lb ed="#L" n="18"/>rightly, well, and holily, so that the ma 
+      <lb ed="#L" n="19"/>of God may be perfect, instructed to al  
+      <lb ed="#L" n="20"/>good workes. For the Lorde in the  
+      <lb ed="#L" n="21"/>worde of trueth hath delivered to his 
+      <lb ed="#L" n="22"/>Church all that is requisite to true  
+      <lb ed="#L" n="23"/>godlinesse and salvation. Whatsoever 
+      <lb ed="#L" n="24"/>things are necessarie to bee knowne,  
+      <lb ed="#L" n="25"/>touthing God, the works, judgemets,  
+      <lb ed="#L" n="26"/>will and commaundementes of God,  
+      <lb ed="#L" n="27"/>touthing Christ, our faith in Christ,  
+      <lb ed="#L" n="28"/>and the duties of an holie life, all those  
+      <lb ed="#L" n="29"/>things I saye, are fully taught in the  
+      <lb ed="#L" n="30"/>worde of God. Neither needeth the  
+      <lb ed="#L" n="31"/>Church to crave of anie other, or else  
+      <lb ed="#L" n="32"/>with mens supplies to patch up that 
+      <lb ed="#L" n="33"/>which seemeth to bee wanting in the  
+      <lb ed="#L" n="34"/>worde of the Lorde. For the Lorde did  
+      <lb ed="#L" n="35"/>not onely, by the lively expressed voice  
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
