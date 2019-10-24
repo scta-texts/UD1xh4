@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 1, Sermo 5 [Bern 1558 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Charlotte Feidicker</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 1, Sermo 5 [Bern 1558 Transcription]</title>
+          <date when="2019-10-15">October 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-U78DFf">Bern 1558</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="de">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="17-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-agrtvB">
+        <p>
+          <lb ed="#B" n="41"/>Iezeyt ist mir in nechst vergangner Predig zu kurtz gewesen- 
+          <lb ed="#B" n="42"/>auch der handel an im selb zu groß und zeschwaer / das ich nit hab moe- 
+          <lb ed="#B" n="43"/>gen von dem allem reden / wie ichs aber hat für mich genommen. Da- 
+          <lb ed="#B" n="44"/>rumb was mir von disem handel dozmal ist uber worden / das wil ich yetz mitt 
+          <lb ed="#B" n="45"/>der hilff Gottes vollfueren. Ihr aber bittend den Herren / das er mit seinem 
+          
+          <pb ed="#B" n="127"/>
+          <lb ed="#B" n="1"/>finger in eüwere hertzen schreiben woelle / das ich euch ausserlich in die oren reden.  
+          <lb ed="#B" n="2"/>So ist nun ein einiger waarer glaub / und der laßt sich nit teylen / Dann Pau- 
+          <lb ed="#B" n="3"/>lus spricht / Es ist ein Herr ein glaub ein Tauff ein Got und vatter unser aller / 
+          <lb ed="#B" n="4"/>und bleibt also von anfang der welt an biß ans end ein einiger glaub bey allen 
+          <lb ed="#B" n="5"/>außerwoelten Gottes. Dan es ist ein einiger Gott allwegen / der auch ein einiger 
+          <lb ed="#B" n="6"/>unerschoepffter brunn ist alles guten. Es ist auch ein einige Goettliche warheyt 
+          <lb ed="#B" n="7"/>von anfang aller dingen / die in den wort Gottes den menschen fürgestellt ist / und 
+          <lb ed="#B" n="8"/>namlich Gott und sein wort. Und also habend alle außerwoelten Gottes von an- 
+          <lb ed="#B" n="9"/>vest bestat / das allein ein einiger waarer glaub sye. Es sind wol vil Reli- 
+          <lb ed="#B" n="10"/>darumm so hat der glaub den einigen grund und daz einig fundament allwegen / 
+          <lb ed="#B" n="11"/>fang har mit uns disen gleichen glauben gehebt / daz uns namlich durch Christu 
+          <lb ed="#B" n="12"/>alle gueter uß gnaden geschenckt werdind / und daz uns in den wort deß Herren alle 
+          <lb ed="#B" n="13"/>waarheyt die man glauben sol / fürgestellt werde / Darumm habend sie iren glau- 
+          <lb ed="#B" n="14"/>ben allweg allein auff Gott und auff sein wort gerichtet / daz also ungezweifelt und 
+          <lb ed="#B" n="15"/>gionen / die man glauben nennt / in der waelt / Als wie man nennt den Indiani- 
+          <lb ed="#B" n="16"/>schen glauben / den Iüdischen glauben / den Machometischen glauben / den Georgia- 
+          <lb ed="#B" n="17"/>nischen glauben / Aber doch so ist allein ein warer glaub / namlich der Christen- 
+          <lb ed="#B" n="18"/>lich glaub / dessen summ und inhalt außtruckt wirt in den articklen deß glaubens /  
+          <lb ed="#B" n="19"/>aber sein voelle und alles was darzu gehoert in den geschrifften Alts und Nüws 
+          <lb ed="#B" n="20"/>Testaments. Es habend wol darnebend auch die leüt mengerley glaubens / die- 
+          <lb ed="#B" n="21"/>auff mancherley sachen sich lendend / da sie erwan glaubend soelliche ding die den  
+          <lb ed="#B" n="22"/>waaren glauben zu wider sind / noch nichts destminder so ist und bleibt hiezwü- 
+          <lb ed="#B" n="23"/>schend allweg allein ein einiger waarer glaub in Gott und in seim wort / der da 
+          <lb ed="#B" n="24"/>ist ein ungeweiflete berednuß unnd vertrauwen der ewig gwüssen und waaren 
+          <lb ed="#B" n="25"/>waarheyt Gottes.  
+          <lb ed="#B" n="26"/>Diser glaub hat auch sein zunemmen inn den hertzen der gloeubigen / darge- 
+          <lb ed="#B" n="27"/>gen kan er auch wol abnemmen und auffhoeren. Darumb dann die Apostel den 
+          <lb ed="#B" n="28"/>Herren batend / Herr meer uns den glauben. Und der heilig Paulus wün- 
+          <lb ed="#B" n="29"/>schet allenthalben in seinen geschrifften den gloeubigen / meerung deß geists und 
+          <lb ed="#B" n="30"/>deß glaubens. Dann also hat auch David vorhin baettet / D Gott schoepff inn 
+          <lb ed="#B" n="31"/>mir ein rein hertz / und nimm dein heiligen geist nit von mir. Dann er hat gesehen /  
+          <lb ed="#B" n="32"/>wie der gut geist vom Saul / auff den er ins Reych kam / gewichen / und an des- 
+          <lb ed="#B" n="33"/>sen statt ein boeser geist in sein gemuet kommen was / der in ubel vewiert und umm- 
+          <lb ed="#B" n="34"/>treib. Hiehar gehoert auch der Spruch auß dem Evangelio / Welcher hatt /  
+          <lb ed="#B" n="35"/>dem wirt gegeben / wer aber nichts hat / von dem wirt auch genommen das er 
+          <lb ed="#B" n="36"/>hat / aber sein nichts achtet unnd nienerfür haltet / und wirt geben werden dem 
+          <lb ed="#B" n="37"/>der nichts hatt. Also sagt auch der Herr zu S. Peter / Ich hab für dich gebaet- 
+          <lb ed="#B" n="38"/>ten Petre / das dein glaub nit abnemme. Und Paulus erzelt das etlich zu sei- 
+          <lb ed="#B" n="39"/>nen zeiten am glauben Schiff bruch erlitten habind und anderer glauben umm- 
+          <lb ed="#B" n="40"/>kerind. Unnd warzu dienet anders / das wir taeglich das wort Gottes hoerend 
+          <lb ed="#B" n="41"/>und Gott anrueffend / dann das wir hoffend inn aller Gottsaeligkeyt zu zenem- 
+          <lb ed="#B" n="42"/>men / und begaerend daz wir vom waaren glauben nit entfallind. Darumm spricht 
+          <lb ed="#B" n="43"/>Paulus zu den Thessalonichern / Wir bittend tag und nacht das wir sehen moe- 
+          <lb ed="#B" n="44"/>gind eüwer angesicht / und erfüllen wo eüch etwas manglete an eüwerem glau- 
+          <lb ed="#B" n="45"/>ben. Dann gleich darvor hat er auch gesprochen / Ich hab Timotheum auß- 
+          <lb ed="#B" n="46"/>gesent / das ich erfuere eüwern glauben / auff das eüch nit villeicht versucht hette 
+          <lb ed="#B" n="47"/>der versucher / und unser arbeyt vergaeblich wurde. Und zun Ephesern spricht 
+          <lb ed="#B" n="48"/>er auch / Christus hat etlich zu Apostlen gesertzt / etlich aber zu Propheten / etlich 
+          <lb ed="#B" n="49"/>zu Evangelisten / ettlich zu hirten unnd leerern / damit die heiligen zusammen 
+          <lb ed="#B" n="50"/>gefuegt wurdind / zu erbauwung deß leibs Christi / biß das wir alle hindan 
+          <lb ed="#B" n="51"/>kommind zu einerley glauben unnd erkanntnuß deß Suns Gottes / unnd 
+
+          <pb ed="#B" n="18-r"/>
+          <lb ed="#B" n="1"/>ein volkommner mann werdind / der da sye inn der maß deß volkomnen alters 
+          <lb ed="#B" n="2"/>Chrsti / auff das wir nit mer kinder sygind etc. Darumb so lang wir laebend /  
+          <lb ed="#B" n="3"/>so lernend wir / auff das unser glaub volkommen werde / und so er etwan durch 
+          <lb ed="#B" n="4"/>versuchungen schwach were worden / das er mit dem wort Gottes widerbracht 
+          <lb ed="#B" n="5"/>und bekrefftüget werde. Umb diser enderung willen aber / das ist von wegen 
+          <lb ed="#B" n="6"/>deß zunemmens oder abnemmens / und schwacheyt deß glaubens / wirt drumb 
+          <lb ed="#B" n="7"/>der glaub nit getheylt / dann es bleibt allweg die einig wurtzel / unnd substantz 
+          <lb ed="#B" n="8"/>deß glaubens / ob er wol ettwan groesser ettwan kleiner ist. Also wirt auch der  
+          <lb ed="#B" n="9"/>glaub darumb nit geaenderet oder zertheylt / das ettlicher genennt wirt ein ge- 
+          <lb ed="#B" n="10"/>meyner / ettlicher aber ein besonderer glaub / dann der gemeyn glaub / glaubt 
+          <lb ed="#B" n="11"/>nichts anders / dann das alle wort Gottes waar sygind / und das Gott den men- 
+          <lb ed="#B" n="12"/>schen wol woelle. Dises glaubt auch der besonder glaub / allein so vil meer / das 
+          <lb ed="#B" n="13"/>der gloeubig im selb besonders appliciert und auff sich zeucht / das / daß sonst al- 
+          <lb ed="#B" n="14"/>len anderen gemeyn ist / namlich da er glaubt das Gott nitt nur anderen / son- 
+          <lb ed="#B" n="15"/>der auch im besonders wol woelle. Zu dem / so theylt er auch ab das gemeyn in 
+          <lb ed="#B" n="16"/>besondere stuck / dann wie er mit dem gemeynen glauben glaubt / das alle wort 
+          <lb ed="#B" n="17"/>Gottes waarhafft sygind / also glaubt er auch mit dem besonderen glauben / 
+          <lb ed="#B" n="18"/>das die seelen untoedtlich / das unsere leyb wider aufferston / die gloeubigen faelig 
+          <lb ed="#B" n="19"/>werdind werden / die ungloeubigen verdampt / und was der dingen mer sind die  
+          <lb ed="#B" n="20"/>uns im wort Gottes zu glauben fürgestellt werdend.  
+          <lb ed="#B" n="21"/>Die Disputation aber die hie entstatMPe siele intusz Geacguisits: das ist von der  
+          <lb ed="#B" n="22"/>eingegoßnen / und dargegen dem selbst erlangeten glauben. Item Ie fiele infor.  
+          <lb ed="#B" n="23"/>mi Esorats. das ist von dem ungestalteten oder gestalteten glauben / &amp;die laß 
+          <lb ed="#B" n="24"/>ich die außleggen / die von inen selbs also dise neüwen fragen und disputationen 
+          <lb ed="#B" n="25"/>on not in die kirchen einfuerend. Derglaub wirt durch keine menschliche krefft 
+          <lb ed="#B" n="26"/>oder verdienst erlanget / sonder wirt von Gott eingegossen / unnd eingegeben / 
+          <lb ed="#B" n="27"/>wie ich das in vorgender predig erleüteret hab. Und ob er gleich erlanget wirt 
+          <lb ed="#B" n="28"/>so der mensch daz wort Gottes hoert / so wirt er doch billich allein der gnad Got- 
+          <lb ed="#B" n="29"/>tes zugeschriben / dann wenn die selbig innwendig inn deß zuhoerers hertz nicht 
+          <lb ed="#B" n="30"/>würckt / so schaffet der ausser Prediger und pflantzer nichts. Wir laesend bey 
+          <lb ed="#B" n="31"/>dem heiligen Augustino im buch He preelest. sauckorum cap z. das er erwan inn 
+          <lb ed="#B" n="32"/>dem irrthumb gestecket ist / das er gemeynt der glaub mitt dem wir inn Gott 
+          <lb ed="#B" n="33"/>vertrauwend / sye nit ein gaab Gottes / sonder sye inn uns von uns selbs / unnd 
+          <lb ed="#B" n="34"/>mit dem glauben erlangind wir die gaaben Gottes / durch woelche wir moegind 
+          <lb ed="#B" n="35"/>Gottsaeligklich und gerecht laeben in diser zeit. Aber dise meynung widerlegt er 
+          <lb ed="#B" n="36"/>selbst heytter und dapffer in yetzgemeltem buch. Und also ist auch der waar 
+          <lb ed="#B" n="37"/>glaub / der allein auff Gott gerichtet ist / und nach dem wort Gottes geregiert 
+          <lb ed="#B" n="38"/>wirt / gnüg geformiert oder gestaltet / Dann die sorm oder gestalt deß glau- 
+          <lb ed="#B" n="39"/>bens wirt inn die hertzen der gloeubigen eingetrukt durch den heiligen geist.  
+          <lb ed="#B" n="40"/>Und ob er schon noch klein / und nit biß auffs hoechst gewachsen / ist er doch nichts 
+          <lb ed="#B" n="41"/>destminder ein waarer glaub / und hat sein krafft gleich wie daz senff korn. Also 
+          <lb ed="#B" n="42"/>hat der moerder der mit dem Herren kreützget ward / in Herzen Iesum glaubt /  
+          <lb ed="#B" n="43"/>und ist saelig worden / ob schon der glaub ein kleine kurtze zeyt inn ihm gewesen / 
+          <lb ed="#B" n="44"/>und noch nit vil frucht guter wercken getragen hat. Es ist auch diser glaub deß 
+          <lb ed="#B" n="45"/>moerders kein anderer glaub gewesen / dann S. Peters oder S. Pauls glaub /  
+          <lb ed="#B" n="46"/>sonder eben der selbig / Allein / das er bey denen mer frücht und guter wercken 
+          <lb ed="#B" n="47"/>getragen hat. Dann S. Peter und S. Paul / ob sie schon vil gutter wercken ge- 
+          <lb ed="#B" n="48"/>thon / sind sie doch on verdienst auß gnaden grecht gmachet / also auch der moer- 
+          <lb ed="#B" n="49"/>der / ob schon wenig oder gar kein gute werck bey im funden. Darumb so las- 
+          <lb ed="#B" n="50"/>send uns auß disem allem mercken und behalten / das der waar glaub ein eini- 
+          <lb ed="#B" n="51"/>ger glaub sye / und das der selb auch sein wachsen und zunemmen hab / dargegen 
+
+          <pb ed="#B" n="18-v"/>
+          <lb ed="#B" n="1"/>auch moege abnemmen und gar erloeschen. Nun ist es yetz aber an dem das 
+          <lb ed="#B" n="2"/>wir auch erleütterind die krafft und würckung deß waaren glaubens. Welches 
+          <lb ed="#B" n="3"/>doch der heilig Apostel Paulus vor mir vil baß / eygetlicher und volkommenlicher 
+          <lb ed="#B" n="4"/>gethon hat. Und wiewol er im vi. cap. der Epistel zun Hebreern vil zusammen 
+          <lb ed="#B" n="5"/>gezogen / so bekennt er doch selbs / das ers nit alles moege erzellen / Darumb wil 
+          <lb ed="#B" n="6"/>auch ich allein etliche würckungen deß glaubens maelden / und die ubrigen ewer 
+          <lb ed="#B" n="7"/>lieb selb zu bedencken und zu erforschen geben.  
+          <lb ed="#B" n="8"/>So gibt und bringt nun der waar glaub dem menschn waares wüssen / und 
+          <lb ed="#B" n="9"/>macht in recht weiß. Dann durch den glauben erkennend wir Gott / und lernend 
+          <lb ed="#B" n="10"/>recht von seinen gerichten und urtheylen / auch von den tugenden und lasteren 
+          <lb ed="#B" n="11"/>urtheylen / welches wüssen aber einem soelliche ding gibt / daß muß ye on zweifel 
+          <lb ed="#B" n="12"/>ein rechte und waare weißheyt sein. Vil sind die vermeynend sie woellind waa- 
+          <lb ed="#B" n="13"/>re weißheyt erlangen auß uebung der Philosophy. Die faelend aber weyt / dann 
+          <lb ed="#B" n="14"/>die Philosophy urteylet und leert merteyls felschlich unnd unrecht / von Gott / 
+          <lb ed="#B" n="15"/>von den werchen Gottes / vom hoechsten gut / vom end der guten und boesen / von 
+          <lb ed="#B" n="16"/>denen dingen die man halten oder fliehen sol. Dise ding werdend aber alle im 
+          <lb ed="#B" n="17"/>wort Gottes waarhafftig und recht geleert / und mit dem glauben verstanden 
+          <lb ed="#B" n="18"/>und ergriffen / Darumb so ist der glaub die waare weißheyt / unnd machet auch 
+          <lb ed="#B" n="19"/>waarlich weiß. Darumb auch Ieremias spricht / Sihe / sie habend das wort 
+          <lb ed="#B" n="20"/>deß Herren verworffen / wie koendtend sie dann weißheyt haben: In aller waelt 
+          <lb ed="#B" n="21"/>ist hoch gehalten die weißheyt Salomons. Noch so laesend wir im Evangelio 
+          <lb ed="#B" n="22"/>Matthei daz der Herr wider die Iuden also spricht / Es wirt die Künigin von 
+          <lb ed="#B" n="23"/>mittag aufferston im gericht mit disem geschlecht / unnd wirt es verdammen / 
+          <lb ed="#B" n="24"/>dann sie kam vom end der erden zu hoeren die weißheyt Salomons / und sihe hie 
+          <lb ed="#B" n="25"/>ist mer dann Salomon. Da wirt Christus hoeher gehalten dann Salomon / und 
+          <lb ed="#B" n="26"/>Christi weißheyt hoeher dann die weißheyt Salomons. Nun mag aber die 
+          <lb ed="#B" n="27"/>weißheyt Christi deß suns Gottes nit anders dann mit glauben ergriffen werden /  
+          <lb ed="#B" n="28"/>darumb volgt daz der glaub die aller fürtraeffenlichest weißheyt mit im bringe.  
+          <lb ed="#B" n="29"/>Disere unsere weißheyt nun ist hohes lobs unnd rums waert / dann die / so ihren 
+          <lb ed="#B" n="30"/>nachstellend / werdend nit hin und wider inn andere ort und land mit grossem 
+          <lb ed="#B" n="31"/>kosten und schwaerer arbeyt gewisen / weder zu den Egyptischen pfaffen / noch 
+          <lb ed="#B" n="32"/>zu den Indischen gymnosophisten / oder zu den Philosophen der Griechen / 
+          <lb ed="#B" n="33"/>noch zun Rabinern der Iuden / sonder Gott hat sein wort durch die gantz welt 
+          <lb ed="#B" n="34"/>außgossen / das yetzund das wort deß glaubens ist inn aller gloeubigen hertzen / 
+          <lb ed="#B" n="35"/>Wie Paulus spricht / die geraechtigkyt auß dem glauben spricht also / Sprich 
+          <lb ed="#B" n="36"/>nit in deinem hertzen / wer wil hinauff steigen gehn himmel:das ist nichts an- 
+          <lb ed="#B" n="37"/>dersdann Christum herab ziehen / oder wer wil hinab steigen in die tieffe: das 
+          <lb ed="#B" n="38"/>ist nichts anders / dann Christum von den todten holen. Aber was sagt die ge- 
+          <lb ed="#B" n="39"/>schrifft: das wort ist dir nach / namlich in deinem mund und in deinem hertzen.  
+          <lb ed="#B" n="40"/>Und das ist das wort vom glauben das wir predigend / namlich / so du mit dei- 
+          <lb ed="#B" n="41"/>nem mund bekennst den Herren Iesum / und glaubst in deinem hertzen das in 
+          <lb ed="#B" n="42"/>Gott von den todten aufferweckt hab / so wirst du saelig. Deßhalben machet 
+          <lb ed="#B" n="43"/>uns der glaub nit nur weiß / sonder auch saelig / wie der Herr selb bezeüget / da er l 
+          <lb ed="#B" n="44"/>spricht zu seinen Iüngeren / Saelig sind die augen die da sehend das ihr sehend /  
+          <lb ed="#B" n="45"/>dann ich sag euch / vil Künig und Propheten habend begaert zu sehen das ir se- 
+          <lb ed="#B" n="46"/>hend und habends nit gesehen / und zu hoeren daz ir hoerend / und habends nit gehürt.  
+          <lb ed="#B" n="47"/>Darumb werdend wir auch im glauben sinden gwüssen entscheid der gemei- 
+          <lb ed="#B" n="48"/>nen und grossen frag / die von anfang der welt har allen geleerten und fürtref- 
+          <lb ed="#B" n="49"/>fenlichsten maennern zu schaffen geben hat / namlich / wie der mensch moege leben /  
+          <lb ed="#B" n="50"/>saelig werden / das hoechst gut erlangen / mit dem selben vereinbaret / unnd deß- 
+          <lb ed="#B" n="51"/>halb auch gerecht gmachet werden. Davon sind ye und ye zwyspaeltig und man- 
+
+          <pb ed="#B" n="19-r"/>
+          <lb ed="#B" n="1"/>cherley meynungen gewesen / und sinds noch auff den heüttigen tag. Da aber 
+          <lb ed="#B" n="2"/>wir yetz kurtz und mit der waarheyt moegend reden / das der mensch durch den 
+          <lb ed="#B" n="3"/>glauben laebe / saelig werde / das hoechst gut erlange / mit dem selbigen vereinba- 
+          <lb ed="#B" n="4"/>ret / deßgleich gerecht gmachet werde / also und dermaß / das Gott yetz in uns lae- 
+          <lb ed="#B" n="5"/>be und wir in im / und also durch den glauben gerecht und saelig sygind. Was 
+          <lb ed="#B" n="6"/>koendte nun von der krafft und würckung deß glaubens herzlichers / groessers und 
+          <lb ed="#B" n="7"/>Goettlichers geredt werden: Der glaub macht uns laebendig und saelig / verein- 
+          <lb ed="#B" n="8"/>baret uns mit dem hoechsten gut / also das Gott in uns lebt und wir in im / ma- 
+          <lb ed="#B" n="9"/>chet uns auch volkommenlich grecht. Davon woellend wir aber zeügknussen der 
+          <lb ed="#B" n="10"/>geschrifft hoeren. Das er saelig mache / sehend wir in der antwort Christi / die er 
+          <lb ed="#B" n="11"/>S. Petern gibt / als der in mit waarem glauben bekennet / da spricht er / Saelig 
+          <lb ed="#B" n="12"/>bist du Simon du sun Ione / fleisch und blut hat dir soellichs nit goffnet / sonder 
+          <lb ed="#B" n="13"/>mein vatter der in himmlen ist. So zeucht auch S. Paul den spruch Davids auff 
+          <lb ed="#B" n="14"/>den glauben / da er spricht / Saelig sind die / deren mißthat verzigen unnd deren 
+          <lb ed="#B" n="15"/>sünd bedeckt sind / saelig ist der man / dem Gott die sünd nit zurechnet.  
+          <lb ed="#B" n="16"/>Er machet auch laebendig / dann der geraecht lebt auß dem glauben / welchen 
+          <lb ed="#B" n="17"/>Spruch Paulus gar offt auß dem Propheten anzeücht. Er spricht auch / das 
+          <lb ed="#B" n="18"/>laeben das ich yetz im fleisch leben / das laeb ich in dem glauben deß suns Gottes / 
+          <lb ed="#B" n="19"/>der mich geliebt hat / und sich für mich dargeben. Derglaub vereinbaret uns 
+          <lb ed="#B" n="20"/>auch mit dem ewigen und hoechsten gut / unnd machet das wir dasselbig niessen 
+          <lb ed="#B" n="21"/>mögend / also das Gott inn uns lebe und wir inn Gott. Dann es spricht der 
+          <lb ed="#B" n="22"/>Herr Jesus im Evangelio / wer mein fleisch ißt und mein blut trinckt / der bleibt 
+          <lb ed="#B" n="23"/>in mir und ich in im / wie mich der lebendig vatter gesendt hat / also leb ich auch 
+          <lb ed="#B" n="24"/>umb deß vatters willen / und wer mich essen wirt / der wirt auch umm meinet wil- 
+          <lb ed="#B" n="25"/>lenleben. Essen aber den Herren und trincken / ist in in glauben / das er sich selbst 
+          <lb ed="#B" n="26"/>für uns in tod geben habe. Dahar auch Iohannes spricht / Wir habends gesehen 
+          <lb ed="#B" n="27"/>und bezeügends / das der vatter seinen sun den Heyland der welt gesendt hat / 
+          <lb ed="#B" n="28"/>und welcher bekennen wirt das Iesus syeder Sun Gottes / der bleibt in Gott / 
+          <lb ed="#B" n="29"/>und Gott in im. Wie auch Paulus sagt / Ich leben / doch yetz nit ich / sonder Chri- 
+          <lb ed="#B" n="30"/>stus lebt in mir. Der glaub machet auch gerecht / Von woelchem dieweyle es uns 
+          <lb ed="#B" n="31"/>auff dißmal zelang wurde / wir in der naechsten predig reden woellend.  
+          <lb ed="#B" n="32"/>Euwer liebe behalte yetz / das allein ein einiger waarer glaub sye / namlich 
+          <lb ed="#B" n="33"/>der Christenlich glaub / dann ob schon vil Religionen sind / die man glauben 
+          <lb ed="#B" n="34"/>nennt / so ist doch allein ein einiger waarer ungezweifleter glaub / der hat auch 
+          <lb ed="#B" n="35"/>sein zunemmen und abnemmen. Inn denen die in habend / und Gottfaeligklich 
+          <lb ed="#B" n="36"/>und wol brauchend / da würckt er traeffenliche krefft und tugenden / dann er gibt 
+          <lb ed="#B" n="37"/>und bringt inen waare weißheyt / macht sie lebendig und ewig saelig. Dem Her- 
+          <lb ed="#B" n="38"/>ren Gott unserem himmlischen vatter / von dem wir die saeligkeyt und alles guts 
+          <lb ed="#B" n="39"/>habend / sye durch Iesum Christum unseren Herren lob und ehr inn ewigkeyt / 
+          <lb ed="#B" n="40"/>Amen. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
