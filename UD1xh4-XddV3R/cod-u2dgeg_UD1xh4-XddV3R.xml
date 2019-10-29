@@ -48,8 +48,8 @@
       </div>
     </front>
     <body>
-      <div>
-        <p>
+      <div xml:id="UD1xh4-XddV3R">
+        <p xml:id="UD1xh4-XddV3R-d1e98">
           <!--1.xml-->
           <pb ed="#L" n="1"/>
           <cb ed="#L" n="a"/>
@@ -77,6 +77,8 @@
           <lb ed="#L" n="22"/>out wit, in the Temple of the Lord, in  
           <lb ed="#L" n="23"/>the schoole of Christ, and lastly, in the  
           <lb ed="#L" n="24"/>reading of the very sacred Scriptures.  
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e152">
           <lb ed="#L" n="25"/>But whereas some are nothing zealous,  
           <lb ed="#L" n="26"/>but very hardly drawn to the hearing 
           <lb ed="#L" n="27"/>of sermons in ye church, that springeth  
@@ -95,7 +97,9 @@
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="1"/>to you (deerely beloved) those things 
           <lb ed="#L" n="2"/>which a godly man ought to think, and  
-          <lb ed="#L" n="3"/>hold as concerning the word of God.  
+          <lb ed="#L" n="3"/>hold as concerning the word of God.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e175">
           <lb ed="#L" n="4"/>And pray ye earnestly ad continual 
           <lb ed="#L" n="5"/>ly to our bountiful God, that it may 
           <lb ed="#L" n="6"/>please him to give to me his holie and  
@@ -105,7 +109,7 @@
           <lb ed="#L" n="10"/>name may be praised, and your soules  
           <lb ed="#L" n="11"/>be profited abundantly.
         </p>
-        <p>
+        <p xml:id="UD1xh4-XddV3R-d1e188">
           <lb ed="#L" n="12"/>First I have to declare what the 
           <lb ed="#L" n="13"/>worde of God is. Verbum in the scrip 
           <lb ed="#L" n="14"/>tures, and according to the verie pro 
@@ -113,7 +117,10 @@
           <lb ed="#L" n="16"/>taken. For it signifieth what thing so 
           <lb ed="#L" n="17"/>ever a man will, even as among the
           <lb ed="#L" n="18"/>Germanes, the worde Ding, is most 
-          <lb ed="#L" n="19"/>largely used. In S. <name>Luke</name>, the Angell of  
+          <lb ed="#L" n="19"/>largely used.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e204">
+          In S. <name>Luke</name>, the Angell of  
           <lb ed="#L" n="20"/>God saith to the belessed virgine, With  
           <lb ed="#L" n="21"/>God shall no worde be unpossible,  
           <lb ed="#L" n="22"/>which is all one, as if he had saide, all  
@@ -148,7 +155,9 @@
           <lb ed="#L" n="10"/>vine Scriptures. The word doth shew 
           <lb ed="#L" n="11"/>the mind of him, out of whom it com 
           <lb ed="#L" n="12"/>meth : therefore the worde of God 
-          <lb ed="#L" n="13"/>doth make declaration of God. But  
+          <lb ed="#L" n="13"/>doth make declaration of God.</p> 
+          
+            <p xml:id="UD1xh4-XddV3R-d1e268"> But  
           <lb ed="#L" n="14"/>God of himselfe naturally speaketh  
           <lb ed="#L" n="15"/>truth, he is iust, good, pure, immortall,  
           <lb ed="#L" n="16"/>eternall, therefore it followeth, that 
@@ -171,17 +180,20 @@
           <lb ed="#L" n="33"/>sayings even as it were silver clensed  
           <lb ed="#L" n="34"/>in the fire, and seven times fined from  
           <lb ed="#L" n="35"/>the earth. 
-          </p>
-          <p>
+            </p>
+        <p xml:id="UD1xh4-XddV3R-d1e300">
           <lb ed="#L" n="36"/>This you shall more fully perceive  
           <lb ed="#L" n="37"/>(doerely beloeved) if I speake some 
-          <lb ed="#L" n="38"/>what more largely of hte cause, or be 
+          <lb ed="#L" n="38"/>what more largely of the cause, or be 
           <lb ed="#L" n="39"/>ginning and certaintie of the word of  
           <lb ed="#L" n="40"/>God. The word of God is truth: but  
           <lb ed="#L" n="41"/>God is the onlie welspring of truth :  
           <lb ed="#L" n="42"/>therefore God is the beginning and  
-          <lb ed="#L" n="43"/>cause of the word of God. And heere  
-          <lb ed="#L" n="44"/>indeede God, since hee hath not mem 
+          <lb ed="#L" n="43"/>cause of the word of God.
+          </p>
+        <p xml:id="UD1xh4-XddV3R-d1e313">
+          And heere  
+          <lb ed="#L" n="44"/>indeede God, since hee hath not mem
           <lb ed="#L" n="45"/>bers like to mortall men, wanteth  
           <lb ed="#L" n="46"/>also a bodilie mouth : yet neverthe 
           <!--2.xml-->
@@ -192,7 +204,10 @@
           <lb ed="#L" n="4"/>the voice of a man, that is, in a voice  
           <lb ed="#L" n="5"/>easily understood of men, and fashio 
           <lb ed="#L" n="6"/>ned according to the speech usually spo 
-          <lb ed="#L" n="7"/>ken among men. This is evidently to  
+          <lb ed="#L" n="7"/>ken among men.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e325">
+          This is evidently to  
           <lb ed="#L" n="8"/>be seene in the things wherein he dealt  
           <lb ed="#L" n="9"/>with the holie fathers, with whome,  
           <lb ed="#L" n="10"/>as with our parents <name>Adam</name> and <name>Eva</name>,  
