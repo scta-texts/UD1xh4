@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 1, Sermo 1 [London 1587 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Ema-Joanne M. Brauchler</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 1, Sermo 1 [London 1587 Transcription]</title>
+          <date when="2019-10-15">June 20, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-u2dgeg">London 1587</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="1"/>
+        <cb ed="#L" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div>
+        <p>
+          <!--1.xml-->
+          <pb ed="#L" n="1"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>Al the decrees of  
+          <lb ed="#L" n="2"/>Christian faith  
+          <lb ed="#L" n="3"/>withe everye  
+          <lb ed="#L" n="4"/>waye howe to  
+          <lb ed="#L" n="5"/>live rightlye,  
+          <lb ed="#L" n="6"/>well, and holi 
+          <lb ed="#L" n="7"/>ly, and finally,  
+          <lb ed="#L" n="8"/>al true and hea 
+          <lb ed="#L" n="9"/>venly wisdome, have alwaies been fet 
+          <lb ed="#L" n="10"/>ched out of the testimonies or deter 
+          <lb ed="#L" n="11"/>minate iudgements of the worde of  
+          <lb ed="#L" n="12"/>God : neither can they, by those which  
+          <lb ed="#L" n="13"/>are wise men indeed, or by the faithful  
+          <lb ed="#L" n="14"/>et those which are called by God to the 
+          <lb ed="#L" n="15"/>ministerie of the Churches, be drawn,  
+          <lb ed="#L" n="16"/>taught, or last of all, soundly confirmed  
+          <lb ed="#L" n="17"/>from elsewhere than out of the worde  
+          <lb ed="#L" n="18"/>of God. Therefore, whosoever is igno 
+          <lb ed="#L" n="19"/>rant what the worde of God, and the  
+          <lb ed="#L" n="20"/>meaning of the word of God is, he soe 
+          <lb ed="#L" n="21"/>meth to be as one blind, deafe, et with 
+          <lb ed="#L" n="22"/>out wit, in the Temple of the Lord, in  
+          <lb ed="#L" n="23"/>the schoole of Christ, and lastly, in the  
+          <lb ed="#L" n="24"/>reading of the very sacred Scriptures.  
+          <lb ed="#L" n="25"/>But whereas some are nothing zealous,  
+          <lb ed="#L" n="26"/>but very hardly drawn to the hearing 
+          <lb ed="#L" n="27"/>of sermons in ye church, that springeth  
+          <lb ed="#L" n="28"/>out of no other fountaine than this,  
+          <lb ed="#L" n="29"/>which is, bicause they do neither right 
+          <lb ed="#L" n="30"/>ly understand, nor diligently ynough 
+          <lb ed="#L" n="31"/>weigh the vertue, and true force of the  
+          <lb ed="#L" n="32"/>word of God. That nothing therefore  
+          <lb ed="#L" n="33"/>may cause the zealous desirers of the  
+          <lb ed="#L" n="34"/>truth, and the word of God to staie on  
+          <lb ed="#L" n="35"/>this point : but rather that that esti 
+          <lb ed="#L" n="36"/>mation of Gods word, which is due un 
+          <lb ed="#L" n="37"/>to it, may be laid up in al mens harts,  
+          <lb ed="#L" n="38"/>I wil (by Gods helpe) laie foorth un 
+          <!-- 1 -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>to you (deerely beloved) those things 
+          <lb ed="#L" n="2"/>which a godly man ought to think, and  
+          <lb ed="#L" n="3"/>hold as concerning the word of God.  
+          <lb ed="#L" n="4"/>And pray ye earnestly ad continual 
+          <lb ed="#L" n="5"/>ly to our bountiful God, that it may 
+          <lb ed="#L" n="6"/>please him to give to me his holie and  
+          <lb ed="#L" n="7"/>effectual polver to speake, and to you  
+          <lb ed="#L" n="8"/>the opening of your eares and minds,  
+          <lb ed="#L" n="9"/>so that in all that I shal say, the Lords  
+          <lb ed="#L" n="10"/>name may be praised, and your soules  
+          <lb ed="#L" n="11"/>be profited abundantly.
+        </p>
+        <p>
+          <lb ed="#L" n="12"/>First I have to declare what the 
+          <lb ed="#L" n="13"/>worde of God is. Verbum in the scrip 
+          <lb ed="#L" n="14"/>tures, and according to the verie pro 
+          <lb ed="#L" n="15"/>pertie of the Hebrew toong is diversly  
+          <lb ed="#L" n="16"/>taken. For it signifieth what thing so 
+          <lb ed="#L" n="17"/>ever a man will, even as among the
+          <lb ed="#L" n="18"/>Germanes, the worde Ding, is most 
+          <lb ed="#L" n="19"/>largely used. In S. <name>Luke</name>, the Angell of  
+          <lb ed="#L" n="20"/>God saith to the belessed virgine, With  
+          <lb ed="#L" n="21"/>God shall no worde be unpossible,  
+          <lb ed="#L" n="22"/>which is all one, as if he had saide, all  
+          <lb ed="#L" n="23"/>things are possible to God, or to God  
+          <lb ed="#L" n="24"/>is nothing unpossible. Verbum also sig 
+          <lb ed="#L" n="25"/>nifieth a word uttered by the mouth of  
+          <lb ed="#L" n="26"/>man. Somtime it is used for a charege,  
+          <lb ed="#L" n="27"/>sometime for a whole sentence or speech  
+          <lb ed="#L" n="28"/>or prophesie: whereof in the scriptures  
+          <lb ed="#L" n="29"/>there are manie examples. But when  
+          <lb ed="#L" n="30"/>Verbum is ioined with any thing else, 
+          <lb ed="#L" n="31"/>as in this place we call it Verbum Dei,  
+          <lb ed="#L" n="32"/>then it is not used in the same signifi 
+          <lb ed="#L" n="33"/>cation. For Verbum Dei, The word of  
+          <lb ed="#L" n="34"/>God, doth signifie the vertue and polver  
+          <lb ed="#L" n="35"/>of God : it is also put for the Sonne of  
+          <lb ed="#L" n="36"/>God, which is the second person in the  
+          <lb ed="#L" n="37"/>most reverend Trinite. For that say 
+          <lb ed="#L" n="38"/>ing of the holie Evangelist is evident 
+          <!--2.xml-->
+          <pb ed="#L" n="2"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>to all men, The word was mad flesh.  
+          <lb ed="#L" n="2"/>But in this treatise of ours, the word  
+          <lb ed="#L" n="3"/>of God doth properly signify the speech  
+          <lb ed="#L" n="4"/>of God, and the revealing of Gods  
+          <lb ed="#L" n="5"/>will, first of all uttered in a livelie ex 
+          <lb ed="#L" n="6"/>pressed voice by the mouth of Christ,  
+          <lb ed="#L" n="7"/>the Prophets and Apostles, and after  
+          <lb ed="#L" n="8"/>that againe registred in writinges,  
+          <lb ed="#L" n="9"/>which are rightly called holie and di 
+          <lb ed="#L" n="10"/>vine Scriptures. The word doth shew 
+          <lb ed="#L" n="11"/>the mind of him, out of whom it com 
+          <lb ed="#L" n="12"/>meth : therefore the worde of God 
+          <lb ed="#L" n="13"/>doth make declaration of God. But  
+          <lb ed="#L" n="14"/>God of himselfe naturally speaketh  
+          <lb ed="#L" n="15"/>truth, he is iust, good, pure, immortall,  
+          <lb ed="#L" n="16"/>eternall, therefore it followeth, that 
+          <lb ed="#L" n="17"/>the word of God also, which commeth  
+          <lb ed="#L" n="18"/>out of the mouth of God is true, iust,  
+          <lb ed="#L" n="19"/>without deceit and guile, without er 
+          <lb ed="#L" n="20"/>ror or evill affection, holie, pure, good,  
+          <lb ed="#L" n="21"/>immortall, and everlasting. For in  
+          <lb ed="#L" n="22"/>the Gospell, saith the Lord, Thy word  
+          <lb ed="#L" n="23"/>is truth. And the Apostle <name>Paule</name> saith,  
+          <lb ed="#L" n="24"/>The word of God is not tied. Againe,  
+          <lb ed="#L" n="25"/>the Scripture everie where crieth,  
+          <lb ed="#L" n="26"/>The word of the Lorde endureth for  
+          <lb ed="#L" n="27"/>ever. And <name>Salomon</name> saith: Everie  
+          <lb ed="#L" n="28"/>word of God is purely clensed. Adde  
+          <lb ed="#L" n="29"/>though nothing ot his words, least per 
+          <lb ed="#L" n="30"/>adventure he reproove thee, et thou  
+          <lb ed="#L" n="31"/>be founde a lier. <name>David</name> also saith :  
+          <lb ed="#L" n="32"/>The sayings of the Lord are pure 
+          <lb ed="#L" n="33"/>sayings even as it were silver clensed  
+          <lb ed="#L" n="34"/>in the fire, and seven times fined from  
+          <lb ed="#L" n="35"/>the earth. 
+          </p>
+          <p>
+          <lb ed="#L" n="36"/>This you shall more fully perceive  
+          <lb ed="#L" n="37"/>(doerely beloeved) if I speake some 
+          <lb ed="#L" n="38"/>what more largely of hte cause, or be 
+          <lb ed="#L" n="39"/>ginning and certaintie of the word of  
+          <lb ed="#L" n="40"/>God. The word of God is truth: but  
+          <lb ed="#L" n="41"/>God is the onlie welspring of truth :  
+          <lb ed="#L" n="42"/>therefore God is the beginning and  
+          <lb ed="#L" n="43"/>cause of the word of God. And heere  
+          <lb ed="#L" n="44"/>indeede God, since hee hath not mem 
+          <lb ed="#L" n="45"/>bers like to mortall men, wanteth  
+          <lb ed="#L" n="46"/>also a bodilie mouth : yet neverthe 
+          <!--2.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>lesse, bicause the mouth is the instru 
+          <lb ed="#L" n="2"/>ment of the voice, to God is a mouth  
+          <lb ed="#L" n="3"/>attributed. For he spake to men in  
+          <lb ed="#L" n="4"/>the voice of a man, that is, in a voice  
+          <lb ed="#L" n="5"/>easily understood of men, and fashio 
+          <lb ed="#L" n="6"/>ned according to the speech usually spo 
+          <lb ed="#L" n="7"/>ken among men. This is evidently to  
+          <lb ed="#L" n="8"/>be seene in the things wherein he dealt  
+          <lb ed="#L" n="9"/>with the holie fathers, with whome,  
+          <lb ed="#L" n="10"/>as with our parents <name>Adam</name> and <name>Eva</name>,  
+          <lb ed="#L" n="11"/><name>Noe</name>, and the rest of the fathers, he is  
+          <lb ed="#L" n="12"/>read to have talked manie and often 
+          <lb ed="#L" n="13"/>times. In the mount Sina the Lorde  
+          <lb ed="#L" n="14"/>hiselfe preached to the great congre 
+          <lb ed="#L" n="15"/>gation of Israel rehearsing so plainly,  
+          <lb ed="#L" n="16"/>that they might understand those ten 
+          <lb ed="#L" n="17"/>commandements, wherein is contai 
+          <lb ed="#L" n="18"/>ned eerie point of godlinesse.  For in  
+          <lb ed="#L" n="19"/>the fift of Deuteron. thus we read :  
+          <lb ed="#L" n="20"/>These wordes (meaning the ten com 
+          <lb ed="#L" n="21"/>mandements ) spake the Lorde with  
+          <lb ed="#L" n="22"/>a lowd voice, from out of the mids 
+          <lb ed="#L" n="23"/>of the fire, to the whole congrega 
+          <lb ed="#L" n="24"/>tion. And in the fourth chapter: A  
+          <lb ed="#L" n="25"/>voice of words you heard, but no si 
+          <lb ed="#L" n="26"/>militude did you see beside the voice.  
+          <lb ed="#L" n="27"/>God verily used oftentimes the means  
+          <lb ed="#L" n="28"/>of Angels, by whose ministerie he tal 
+          <lb ed="#L" n="29"/>ked with mortall men. And it is verie  
+          <lb ed="#L" n="30"/>well known to all men, that the sonne  
+          <lb ed="#L" n="31"/>of God the father being incarnate,  
+          <lb ed="#L" n="32"/>walked about in the earth, and being  
+          <lb ed="#L" n="33"/>verie God and man, taught the people  
+          <lb ed="#L" n="34"/>of Israell almost for the space of three  
+          <lb ed="#L" n="35"/>yeeres. But in times past, and before  
+          <lb ed="#L" n="36"/>that the sonne of God was born in the  
+          <lb ed="#L" n="37"/>world, God by little and little, made  
+          <lb ed="#L" n="38"/>himself acquainted with the harts of  
+          <lb ed="#L" n="39"/>the holie fathers, and after that with  
+          <lb ed="#L" n="40"/>the mindes of hte holie prophets, and  
+          <!--3.xml end delete-->
+          <pb ed="#L" n="3"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>knowen to all the world. And all these  
+          <lb ed="#L" n="2"/>seruants of God, as it were the elect  
+          <lb ed="#L" n="3"/>vessels of God, hauing with sincere  
+          <lb ed="#L" n="4"/>harts received the revelation of God,  
+          <lb ed="#L" n="5"/>from God hiself, first of all, in a live 
+          <lb ed="#L" n="6"/>ly expressed voice delivered to the  
+          <lb ed="#L" n="7"/>worlde the oracles, and worde of God 
+          <lb ed="#L" n="8"/>which they before had learned, and af,  
+          <lb ed="#L" n="9"/>terward, when the world drew more  
+          <lb ed="#L" n="10"/>to an end, some of them did put them 
+          <lb ed="#L" n="11"/>in writing for a memoriall to the po 
+          <lb ed="#L" n="12"/>steritie: and it is good to knowe how 
+          <lb ed="#L" n="13"/>and by whom all this was done. For  
+          <lb ed="#L" n="14"/>by this narration, the true cause, rer 
+          <lb ed="#L" n="15"/>taintie and dignitie of the worde of  
+          <lb ed="#L" n="16"/>God doth plainly appiere.  
+          </p>
+        <p>
+          <lb ed="#L" n="17"/>There are not extant to be seene  
+          <lb ed="#L" n="18"/>the writings of anie man from the be 
+          <lb ed="#L" n="19"/>ginning of the world, until the time of  
+          <lb ed="#L" n="20"/><name>Moses</name>, which are come to our know 
+          <lb ed="#L" n="21"/>ledge : although it be likely that that 
+          <lb ed="#L" n="22"/>same ancient and first world was not 
+          <lb ed="#L" n="23"/>altogither without all writings. For  
+          <lb ed="#L" n="24"/>by S. <name>Jude</name> the apostle and brother of  
+          <lb ed="#L" n="25"/>S. <name>James</name>, is cited the written prophe 
+          <lb ed="#L" n="26"/>sie of our holie father <name>Enoch</name>, which is  
+          <lb ed="#L" n="27"/>read to have been the seventh from out  
+          <lb ed="#L" n="28"/>father <name>Adam</name>. Furthermore, the wri 
+          <lb ed="#L" n="29"/>ting or historie of <name>Job</name>, seemeth to have  
+          <lb ed="#L" n="30"/>beene set foorth a great while before,  
+          <lb ed="#L" n="31"/>But howsoever it is, all the saints in  
+          <lb ed="#L" n="32"/>the church of God, give to Moses the  
+          <lb ed="#L" n="33"/>faithfull seruant of God, the first place  
+          <lb ed="#L" n="34"/>among the holie writers. 
+      </p>
+      <p>
+          <lb ed="#L" n="35"/>From the beginning therefore of  
+          <lb ed="#L" n="36"/>the world, God by his spirite, and the  
+          <lb ed="#L" n="37"/>ministerie of angels, spake to the ho 
+          <lb ed="#L" n="38"/>lie fathers: and they by word of mouth  
+          <lb ed="#L" n="39"/>taught their children, and childers  
+          <lb ed="#L" n="40"/>children, and all their posteritie, that 
+          <lb ed="#L" n="41"/>which they had learned at the mouth  
+          <lb ed="#L" n="42"/>of God: when they berilie had heard  
+          <lb ed="#L" n="43"/>it, not to the intent to keepe it close to  
+          <lb ed="#L" n="44"/>themselves, but also to make their po 
+          <lb ed="#L" n="45"/>steritie partakers of the same. For  
+          <lb ed="#L" n="46"/>God oftentimes witnesseth, that Hee  
+          <!-- 3 -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>wil be the God of the fathers and of  
+          <lb ed="#L" n="2"/>their seede for evermore. This is  
+          <lb ed="#L" n="3"/>most, plainly to be seene in the historie  
+          <lb ed="#L" n="4"/>of <name>Adam</name>. <name>Noe</name> and <name>Abraham</name>, the first  
+          <lb ed="#L" n="5"/>and great grandfathers. In the 19. of  
+          <lb ed="#L" n="6"/>Genesis, verily we read, that the an 
+          <lb ed="#L" n="7"/>gell of God, yea and that more is, that  
+          <lb ed="#L" n="8"/>even the Lorde himelfe did say to <name>A 
+          <lb ed="#L" n="9"/>braham</name>, and shall I hide from <name>Abra 
+          <lb ed="#L" n="10"/>ham</name> what I mind to do? since of <name>A 
+          <lb ed="#L" n="11"/>braham</name> shal come a great and migh 
+          <lb ed="#L" n="12"/>tie people, and all the nations of the  
+          <lb ed="#L" n="13"/>earth shall bee blessed in him? And  
+          <lb ed="#L" n="14"/>this I knowe, that he will command  
+          <lb ed="#L" n="15"/>his children, and his posteritie after  
+          <lb ed="#L" n="16"/>him, to keepe the waie of the Lorde,  
+          <lb ed="#L" n="17"/>and to doe justice, judgement, and  
+          <lb ed="#L" n="18"/>the rest.  <name>Abraham</name> therefore a faith,  
+          <lb ed="#L" n="19"/>full and zealous worshipper of God,  
+          <lb ed="#L" n="20"/>did not (even as also those olde fathers 
+          <lb ed="#L" n="21"/>of the first world did not) ware negli 
+          <lb ed="#L" n="22"/>gent at all heerein, but did diligently  
+          <lb ed="#L" n="23"/>teach men the will and judgements of  
+          <lb ed="#L" n="24"/>God : whereupon of <name>Moses</name>, yea and  
+          <lb ed="#L" n="25"/>of God himelfe, he is called a prophet,  
+          <lb ed="#L" n="26"/>That devout and livelie tradition of  
+          <lb ed="#L" n="27"/>the fathers from hande to hande, was 
+          <lb ed="#L" n="28"/>had in use continually, even from the  
+          <lb ed="#L" n="29"/>beginning of the world, until the time  
+          <lb ed="#L" n="30"/>of <name>Moses</name>. Moreover, God of his good 
+          <lb ed="#L" n="31"/>nesse did provide, that no age at anie  
+          <lb ed="#L" n="32"/>time should be without most excellent  
+          <lb ed="#L" n="33"/>lights, to be witnesses of the undoub 
+          <lb ed="#L" n="34"/>ted faith, and fathers of great authori 
+          <lb ed="#L" n="35"/>tie.  For the worlde before the deluge  
+          <lb ed="#L" n="36"/>had in it nine most excellent, most ho 
+          <lb ed="#L" n="37"/>lie and wise men, <name>Adam</name>, <name>Seth</name>, <name>Enos</name>,  
+          <lb ed="#L" n="38"/><name>Benam</name>, <name>Dalaleel</name>, <name>Jared</name>, <name>Enoch</name>, <name>Be 
+          <lb ed="#L" n="39"/>thusalem</name>, and <name>Lamech</name>. The chiefe of  
+          <lb ed="#L" n="40"/>these, <name>Adam</name> and <name>Methusalem</name> doe be 
+          <lb ed="#L" n="41"/>gin, and make an end of all the 1656. 
+          <lb ed="#L" n="42"/>yeeres of the world, before the deluge.  
+          <lb ed="#L" n="43"/>For <name>Adam</name> lived or 930. yeeres. Be dieth  
+          <lb ed="#L" n="44"/>therefore the 726. yeere before the  
+          <lb ed="#L" n="45"/>floud. And <name>Methusalem</name> lived 969. 
+          <lb ed="#L" n="46"/>yeeres. Be dieth in the bery sane yeere  
+          <!--4.xml-->
+          <pb ed="#L" n="4"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>that the Cloud did overflowe: and hee  
+          <lb ed="#L" n="2"/>lived togither with <name>Adam</name>, 243. yeers,  
+          <lb ed="#L" n="3"/>so that of <name>Adam</name> he might be aboun 
+          <lb ed="#L" n="4"/>dantly enough instructed as concer 
+          <lb ed="#L" n="5"/>ning the beginning of things, as con 
+          <lb ed="#L" n="6"/>cerning God, the falling and restoring  
+          <lb ed="#L" n="7"/>againe of mantind, and all things else  
+          <lb ed="#L" n="8"/>belonging to religion, even as he was 
+          <lb ed="#L" n="9"/>taught of God himselfe.  These two  
+          <lb ed="#L" n="10"/>fathers with the rest above named,  
+          <lb ed="#L" n="11"/>were able sufficiently inough, to in  
+          <lb ed="#L" n="12"/>struct the whole age in the true salva 
+          <lb ed="#L" n="13"/>tion and right waies of the Lorde,  
+          <lb ed="#L" n="14"/>After the deluge, God gave to the  
+          <lb ed="#L" n="15"/>world againe excellent men, and very  
+          <lb ed="#L" n="16"/>greate lights. The names of them 
+          <lb ed="#L" n="17"/>are, <name>Noe</name>, <name>Sem</name>, <name>Arpharad</name>, <name>Sale</name>, <name>He 
+          <lb ed="#L" n="18"/>ber</name>, <name>Paler</name>, <name>Reu</name>, <name>Saruch</name>, <name>Nachor</name>,  
+          <lb ed="#L" n="19"/><name>Thare</name>, <name>Abraham</name>, <name>Isaac</name>, and <name>Jacob</name>,  
+          <lb ed="#L" n="20"/>Here have we 13. most excellent Pa 
+          <lb ed="#L" n="21"/>triarches, among whom the first two,  
+          <lb ed="#L" n="22"/><name>Noe</name>, and <name>Sem</name>, are the chiefe, next to  
+          <lb ed="#L" n="23"/>whom <name>Abraham</name>, <name>Isaac</name>, and <name>Jacob</name>,  
+          <lb ed="#L" n="24"/>were more notalbe than the rest. <name>Noe</name>  
+          <lb ed="#L" n="25"/>lived 950. yeeres in all. He was 600.  
+          <lb ed="#L" n="26"/>yeeres olde, when the floud drowned 
+          <lb ed="#L" n="27"/>the worlde. He therefore sawe and  
+          <lb ed="#L" n="28"/>hearde all the holy Fathers of the  
+          <lb ed="#L" n="29"/>first world before the deluge, three on 
+          <lb ed="#L" n="30"/>ly excepted, <name>Adam</name>, <name>Seth</name>, and <name>Enos</name>.  
+          <lb ed="#L" n="31"/>And also he lived many yeeres togi 
+          <lb ed="#L" n="32"/>ther with the other, which had both  
+          <lb ed="#L" n="33"/>seene and heard them, so that he could  
+          <lb ed="#L" n="34"/>be ignorant in no point of those things  
+          <lb ed="#L" n="35"/>which <name>Adam</name> had taught. <name>Noe</name> dieth  
+          <lb ed="#L" n="36"/>(which is marvell to be tolde, and yet  
+          <lb ed="#L" n="37"/>very true) in the 59. yeer of <name>Abrahams</name>  
+          <lb ed="#L" n="38"/>age. <name>Sem</name> the sonne of <name>Noah</name>, lived 
+          <lb ed="#L" n="39"/>manie yeeres with his father. For he  
+          <lb ed="#L" n="40"/>lived in all 600. yeeres. He was borne  
+          <lb ed="#L" n="41"/>to <name>Noah</name> about 96. yeres before the de 
+          <lb ed="#L" n="42"/>luge. He sawe and heard therefore, not  
+          <lb ed="#L" n="43"/>only his father <name>Noe</name>, and his grandfa 
+          <lb ed="#L" n="44"/>ther <name>Lamech</name>, but also his great grand 
+          <lb ed="#L" n="45"/>sire <name>Methusalem</name>, with whome he li 
+          <lb ed="#L" n="46"/>ved those 96. yeeres before the deluge. 
+          <!--4.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>Of him he might be informed of all  
+          <lb ed="#L" n="2"/>those things which <name>Methusalem</name> had 
+          <lb ed="#L" n="3"/>heard and learned of <name>Adam</name>, and the 
+          <lb ed="#L" n="4"/>other Patriarches. <name>Sem</name> dieth after  
+          <lb ed="#L" n="5"/>the death of <name>Abraham</name>, in the 52. yeere  
+          <lb ed="#L" n="6"/>of <name>Jaacob</name>, which was 37. yeeres after  
+          <lb ed="#L" n="7"/>the death of <name>Abraham</name>, in the yeere  
+          <lb ed="#L" n="8"/>112. of <name>Isaac</name> his age : So that <name>Jacob</name>  
+          <lb ed="#L" n="9"/>the Patriarch might very well learne  
+          <lb ed="#L" n="10"/>all the true divinity of <name>Sem</name> himelfe,  
+          <lb ed="#L" n="11"/>even as hee had heard it of <name>Methusa 
+          <lb ed="#L" n="12"/>lem</name>, who was the third witnesse and  
+          <lb ed="#L" n="13"/>teacher from <name>Adam</name>. Furthermore,  
+          <lb ed="#L" n="14"/><name>Jaacob</name> he Patriarch, delivered to his 
+          <lb ed="#L" n="15"/>children that which he received of  
+          <lb ed="#L" n="16"/>God, to teach to his posterity. In Me 
+          <lb ed="#L" n="17"/>sopotamia there is borne to <name>Jacob</name> his  
+          <lb ed="#L" n="18"/>sonne <name>Levi</name>, and to him againe is born  
+          <lb ed="#L" n="19"/><name>Bahad</name>, which both sawe and heard  
+          <lb ed="#L" n="20"/><name>Jaacob</name>. For <name>Bahad</name> lived no small  
+          <lb ed="#L" n="21"/>number of yeeres with his grandfa 
+          <lb ed="#L" n="22"/>ther <name>Jaacob</name>. For he is rehearsed in  
+          <lb ed="#L" n="23"/>the roll of them, which went with <name>Ja 
+          <lb ed="#L" n="24"/>acob</name> downe into Egypt: but <name>Jaacob</name>  
+          <lb ed="#L" n="25"/>lived 17. yeeres with his children in  
+          <lb ed="#L" n="26"/>Egypt. This <name>Bahad</name> is the grandfa 
+          <lb ed="#L" n="27"/>ther of <name>Moses</name>, the father of <name>Amram</name> 
+          <lb ed="#L" n="28"/>from whom <name>Moses</name> did perfectly draw 
+          <lb ed="#L" n="29"/>that full  certaine tradition by hand,  
+          <lb ed="#L" n="30"/>as concerning the will, commande 
+          <lb ed="#L" n="31"/>ments and judgements of God, even 
+          <lb ed="#L" n="32"/>as <name>Amram</name> his father had learned the  
+          <lb ed="#L" n="33"/>of his father <name>Bahad</name>, <name>Bahad</name> of <name>Jaacob</name>,  
+          <lb ed="#L" n="34"/><name>Jaacob</name> of <name>Sem</name>, <name>Sem</name> of <name>Methusalem</name> 
+          <lb ed="#L" n="35"/>and of <name>Adam</name> the first father of us all:  
+          <lb ed="#L" n="36"/>so nowe that <name>Moses</name> is from <name>Adam</name> the  
+          <lb ed="#L" n="37"/>seventh witnesse in the world. And  
+          <lb ed="#L" n="38"/>from the beginning of the worlde to  
+          <lb ed="#L" n="39"/>the birth of <name>Moses</name>, are fully complete  
+          <lb ed="#L" n="40"/>2368. yeeres of the world. And whoso 
+          <lb ed="#L" n="41"/>ever shal diligently reckon the yeeres,  
+          <lb ed="#L" n="42"/>not in vaine set downe by <name>Moses</name> in  
+          <lb ed="#L" n="43"/>Genesis and Exodus, hee shall finde  
+          <lb ed="#L" n="44"/>this account to be true and right.  
+      </p>
+        <p>
+          <lb ed="#L" n="45"/>Now also, it behooueth us to know 
+          <lb ed="#L" n="46"/>those chiefe principles of that lively  
+          <!--5.xml-->
+          <pb ed="#L" n="5"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>tradition delivered by the holye fa 
+          <lb ed="#L" n="2"/>thers at the appointment of GOD, as 
+          <lb ed="#L" n="3"/>it were from hande to hand to all the  
+          <lb ed="#L" n="4"/>posteritie. The fathers taught their 
+          <lb ed="#L" n="5"/>children, that GOD of his naturall  
+          <lb ed="#L" n="6"/>goodnesse, wishing well to mankind,  
+          <lb ed="#L" n="7"/>woulde have all men to come to the  
+          <lb ed="#L" n="8"/>knowledge of the trueth, and to bee  
+          <lb ed="#L" n="9"/>like in nature to God himelfe, holie,  
+          <lb ed="#L" n="10"/>happie, and absolutely blessed. And  
+          <lb ed="#L" n="11"/>therefore that God in the beginning,  
+          <lb ed="#L" n="12"/>did create man to his owne similitude  
+          <lb ed="#L" n="13"/>and likenesse, to the intent that hee  
+          <lb ed="#L" n="14"/>should be good, holy, immortall, bles 
+          <lb ed="#L" n="15"/>sed, and partaker of all the good giftes 
+          <lb ed="#L" n="16"/>of God: but that man continued not 
+          <lb ed="#L" n="17"/>in that dignitie and happie state, but 
+          <lb ed="#L" n="18"/>by the meanes of the Divell, and his 
+          <lb ed="#L" n="19"/>owne proper faulte, fell into sinne, 
+          <lb ed="#L" n="20"/>miserie, and death, chaunging his like 
+          <lb ed="#L" n="21"/>nesse to God, into the similitude of 
+          <lb ed="#L" n="22"/>the divell. Moreover, that God here 
+          <lb ed="#L" n="23"/>againe, as it were of fresh, began the 
+          <lb ed="#L" n="24"/>worke of salvation, whereby mankind 
+          <lb ed="#L" n="25"/>beeing restored and set free from all 
+          <lb ed="#L" n="26"/>evill, might once againe be made like 
+          <lb ed="#L" n="27"/>into God: and that he meant to bring 
+          <lb ed="#L" n="28"/>this mightie, and divine woorke to 
+          <lb ed="#L" n="29"/>passe, by a certaine middle meane, that 
+          <lb ed="#L" n="30"/>is, by the worde incarnate. For as by  
+          <lb ed="#L" n="31"/>this taking of flesh, he joyned man to 
+          <lb ed="#L" n="32"/>God, so by dying in the fleshe, with 
+          <lb ed="#L" n="33"/>sacrifice hee cleansed, sanetified, and 
+          <lb ed="#L" n="34"/>delivered mankinde, and by givinge 
+          <lb ed="#L" n="35"/>him his holie spirite, he made him like 
+          <lb ed="#L" n="36"/>againe in nature to God, that is im 
+          <lb ed="#L" n="37"/>mortall, and absolutely blessed. And  
+          <lb ed="#L" n="38"/>last of all, hee worketh in us a willing  
+          <lb ed="#L" n="39"/>indevour, aptly to resemhle the pro 
+          <lb ed="#L" n="40"/>pertie, and conditions of him, to whose  
+          <lb ed="#L" n="41"/>likenesse we are created, so that wee 
+          <lb ed="#L" n="42"/>may be holie both bodie and soule.  
+          <lb ed="#L" n="43"/>They added moreover, that the word  
+          <lb ed="#L" n="44"/>should bee incarnate in his due time,  
+          <lb ed="#L" n="45"/>and appointed age. And also, that 
+          <lb ed="#L" n="46"/>there did remayne a greate daye for  
+          <!--5.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>judgement, wherein though all men 
+          <lb ed="#L" n="2"/>were gathered together, yet the righ 
+          <lb ed="#L" n="3"/>teous onelie shoulde receive that re 
+          <lb ed="#L" n="4"/>warde of heavenly immortalitle.  So  
+          <lb ed="#L" n="5"/>the, this is the briefe summe of ye holy  
+          <lb ed="#L" n="6"/>Fathers tradition, which it is best to  
+          <lb ed="#L" n="7"/>untwist more largely, and to speake of  
+          <lb ed="#L" n="8"/>it more diligently, as it were by parts,  
+          <lb ed="#L" n="9"/>First therefore, the Fathers taught,  
+          <lb ed="#L" n="10"/>that the Father, the Sonne, and the  
+          <lb ed="#L" n="11"/>holy Ghost, are one God in the most  
+          <lb ed="#L" n="12"/>reverend Trinitie, the maker and go 
+          <lb ed="#L" n="13"/>vernour of heaven and earth, and all  
+          <lb ed="#L" n="14"/>thinges which are therein, by whom 
+          <lb ed="#L" n="15"/>man was made, and who for man did  
+          <lb ed="#L" n="16"/>make all thinges, and put all thinges  
+          <lb ed="#L" n="17"/>under mankinde, to minister unto him 
+          <lb ed="#L" n="18"/>things necessarie , as a loving father  
+          <lb ed="#L" n="19"/>and most bountifull Lord. Then they  
+          <lb ed="#L" n="20"/>taught that man consisted of soule and  
+          <lb ed="#L" n="21"/>bodie, and that he indeede was made  
+          <lb ed="#L" n="22"/>good according to the image and like 
+          <lb ed="#L" n="23"/>nesse of GOD, but that by his owne  
+          <lb ed="#L" n="24"/>fault, and egging forwarde of the de 
+          <lb ed="#L" n="25"/>vill, falling into sinne, he brought into  
+          <lb ed="#L" n="26"/>the worlde death and damnation, to 
+          <lb ed="#L" n="27"/>gether with a webbe of miseries, out  
+          <lb ed="#L" n="28"/>of which it cannot ridde it selfe: So 
+          <lb ed="#L" n="29"/>that nowe all the children of <name>Adam</name>, 
+          <lb ed="#L" n="30"/>even from <name>Adam</name> are borne the sonnes  
+          <lb ed="#L" n="31"/>of wrath and wretchednes. But, that 
+          <lb ed="#L" n="32"/>God whose mercie aboundeth accor 
+          <lb ed="#L" n="33"/>ding to his incomprehensible good 
+          <lb ed="#L" n="34"/>nesse, taking pitie on the miserie of  
+          <lb ed="#L" n="35"/>mankinde, did even of his meere 
+          <lb ed="#L" n="36"/>grace, graunt pardon for the offence,  
+          <lb ed="#L" n="37"/>and did laye the weight of the punish 
+          <lb ed="#L" n="38"/>ment upon his only sonne, to the intent  
+          <lb ed="#L" n="39"/>that he, when his heele was crushed  
+          <lb ed="#L" n="40"/>by the Serpent, might himselfe breake  
+          <lb ed="#L" n="41"/>the Serpentes heade. That is to say,  
+          <lb ed="#L" n="42"/>God doth make a promise of seede, that 
+          <lb ed="#L" n="43"/>is, of a Sonne, who taking flesh of a  
+          <lb ed="#L" n="44"/>peerelesse woman, I meane, that Vir 
+          <lb ed="#L" n="45"/>gine most worthy of commendations,  
+          <lb ed="#L" n="46"/>shoulde by his death, vanquish death  
+          <!--6.xml-->
+          <pb ed="#L" n="6-"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>and Sathan the author of death, and  
+          <lb ed="#L" n="2"/>shoulde bring the faithfull Sonnes of  
+          <lb ed="#L" n="3"/><name>Adam</name> out of bondage: yea, and that 
+          <lb ed="#L" n="4"/>more is, should by adoption make them 
+          <lb ed="#L" n="5"/>the sonnes of God, and heires of life  
+          <lb ed="#L" n="6"/>everlasting. The holy fathers there 
+          <lb ed="#L" n="7"/>fore, taught to believe in God, and in  
+          <lb ed="#L" n="8"/>his son the redeemer of ye whole world:  
+          <lb ed="#L" n="9"/>when in their bery sacrifices they did  
+          <lb ed="#L" n="10"/>present his death, as it were an unspot  
+          <lb ed="#L" n="11"/>ted sacrifice, wherwith he met to wipe  
+          <lb ed="#L" n="12"/>away, and cleanse the sinnes of all the  
+          <lb ed="#L" n="13"/>worlde. And therefore had they a most  
+          <lb ed="#L" n="14"/>diligent eye to the flock and lineall des 
+          <lb ed="#L" n="15"/>cent of the Messias.  
+        </p>
+        <p>
+          <lb ed="#L" n="16"/>For, it is brought downe, as it were  
+          <lb ed="#L" n="17"/>by a line, from <name>Adam</name> to <name>Noe</name>, and from  
+          <lb ed="#L" n="18"/><name>Noe</name> by <name>Sem</name> even to <name>Abraham</name> him 
+          <lb ed="#L" n="19"/>selfe: and to him againe it was sayde,  
+          <lb ed="#L" n="20"/>In thy seede shall all the Nations of  
+          <lb ed="#L" n="21"/>the earth be blessed: in which wordes  
+          <lb ed="#L" n="22"/>the promise once made to Adam, as  
+          <lb ed="#L" n="23"/>touthing Christ the redeemer, and  
+          <lb ed="#L" n="24"/>chaunger of Gods curse into blessing,  
+          <lb ed="#L" n="25"/>is renewed and repeated againe. The  
+          <lb ed="#L" n="26"/>same line is brought downe from A 
+          <lb ed="#L" n="27"/>braham by <name>Isaac</name> unto <name>Jacob</name>, and <name>Ja 
+          <lb ed="#L" n="28"/>cob</name> being full of the spirit of God, poin 
+          <lb ed="#L" n="29"/>ted out his sonne <name>Juda</name> to be the roote  
+          <lb ed="#L" n="30"/>of the blessed seede, as it is to be seene  
+          <lb ed="#L" n="31"/>in 49. of Genesis. Lastly, in the tribe  
+          <lb ed="#L" n="32"/>of <name>Juda</name>, the house of <name>David</name> was no 
+          <lb ed="#L" n="33"/>ted, out of which that seede and branch  
+          <lb ed="#L" n="34"/>of life should come. Moreover, the ho 
+          <lb ed="#L" n="35"/>ly Fathers taught, that God by a cer 
+          <lb ed="#L" n="36"/>taine leagve hath ioyned himelfe to  
+          <lb ed="#L" n="37"/>mankind, and that he hath most strei 
+          <lb ed="#L" n="38"/>ghtly bounde himelfe to the faithtull,  
+          <lb ed="#L" n="39"/>and the faithfull likewise to himselfe  
+          <lb ed="#L" n="40"/>againe. Whereupon, they did teache  
+          <lb ed="#L" n="41"/>to be faithfull to God ward, to honour  
+          <lb ed="#L" n="42"/>God, to hate false Gods, to call upon 
+          <lb ed="#L" n="43"/>the onely God, and to worship him de 
+          <lb ed="#L" n="44"/>voutly. Furthemmore, they taught,  
+          <lb ed="#L" n="45"/>that the worshippe of God did conflict,  
+          <lb ed="#L" n="46"/>in thinges spirituall, as faith, hope,  
+          <!--6.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>charitie, obedience, upright dealing.  
+          <lb ed="#L" n="2"/>holinesse, innocencie, patience, truth,  
+          <lb ed="#L" n="3"/>judgement, and godlinesse.  And ther 
+          <lb ed="#L" n="4"/>fore did they reprehende naughtinesse,  
+          <lb ed="#L" n="5"/>and sinne, falshood, lacke of beliefe, des 
+          <lb ed="#L" n="6"/>paration, disodedience, unpatientnesse,  
+          <lb ed="#L" n="7"/>lying, hypocrisie , hatred, despitefull  
+          <lb ed="#L" n="8"/>tauntes, violence, wrong, unrighteous  
+          <lb ed="#L" n="9"/>dealing, uncleannes, riotousnes, surfet 
+          <lb ed="#L" n="10"/>ting, whoredome, unrighteousnes, and  
+          <lb ed="#L" n="11"/>ungodlines. They taught, that God 
+          <lb ed="#L" n="12"/>was a rewarder of good, but a punisher 
+          <lb ed="#L" n="13"/>&amp; revenger of evill. They taught, that 
+          <lb ed="#L" n="14"/>the foules of men were immortal, 
+          <lb ed="#L" n="15"/>that the bodies should rise again in the  
+          <lb ed="#L" n="16"/>day of judgement, therfore they exhor 
+          <lb ed="#L" n="17"/>ted us all, so to live in this temporall  
+          <lb ed="#L" n="18"/>life, that we doe not leese the life eter 
+          <lb ed="#L" n="19"/>nall.
+        </p>
+        <p>
+          <lb ed="#L" n="20"/>This is the summ of the word of god 
+          <lb ed="#L" n="21"/>revealed to the fathers, &amp; by them deli 
+          <lb ed="#L" n="22"/>vered to their posteritie. This is ye tra 
+          <lb ed="#L" n="23"/>dition of the holy fathers, which copre 
+          <lb ed="#L" n="24"/>hendeth all religio. Finally this is the  
+          <lb ed="#L" n="25"/>true, aunctient, undoubted, authenti 
+          <lb ed="#L" n="26"/>call, &amp; catholique faith of the fathers.  
+          <lb ed="#L" n="27"/>Besides this, the holy fathers taught  
+          <lb ed="#L" n="28"/>their children, and childers childre, the  
+          <lb ed="#L" n="29"/>account of the yeares from the begin 
+          <lb ed="#L" n="30"/>ning of the world, and also the true hi 
+          <lb ed="#L" n="31"/>storicall course, as well profitable as  
+          <lb ed="#L" n="32"/>necessarie, of things from the creation  
+          <lb ed="#L" n="33"/>of the world, eve unto their own times:  
+          <lb ed="#L" n="34"/>least peradventure their children shuld  
+          <lb ed="#L" n="35"/>be ignorant of the beginning and sue 
+          <lb ed="#L" n="36"/>cession of worldly thinges, and also of  
+          <lb ed="#L" n="37"/>the judgements of God, and examples  
+          <lb ed="#L" n="38"/>of them which lived, as well godly as  
+          <lb ed="#L" n="39"/>ungodly.
+        </p>
+        <p>
+          <lb ed="#L" n="40"/>I could declare unto you al this evi 
+          <lb ed="#L" n="41"/>dently, and in verie good order, out of  
+          <lb ed="#L" n="42"/>the first booke of <name>Moses</name> called Genesis  
+          <lb ed="#L" n="43"/>it it were not that therby the Sermon 
+          <lb ed="#L" n="44"/>should he drawn out somewhat longer 
+          <lb ed="#L" n="45"/>than the use is.
+      </p>
+      <p>
+          <lb ed="#L" n="46"/>But I suppose that there are fewe,  
+          <!--7.xml-->
+          <pb ed="#L" n="7-"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>or rather none at all herepreset which  
+          <lb ed="#L" n="2"/>do not perceive that I have rehearsed  
+          <lb ed="#L" n="3"/>this that I have saide, touching ye tra 
+          <lb ed="#L" n="4"/>ditio of the ancient fathers, as it were  
+          <lb ed="#L" n="5"/>word for word out of the booke of Ge 
+          <lb ed="#L" n="6"/>nesis, so that now, I may very wel go 
+          <lb ed="#L" n="7"/>forwarde in the narration which I 
+          <lb ed="#L" n="8"/>have begunne.
+      </p>
+      <p>
+          <lb ed="#L" n="9"/>So then, whatsoever hitherto was 
+          <lb ed="#L" n="10"/>of the fathers delivered to the worlde  
+          <lb ed="#L" n="11"/>by worde of mouth, &amp; as it were from  
+          <lb ed="#L" n="12"/>hand to hand, that was first of all put 
+          <lb ed="#L" n="13"/>into writing by the holy man <name>Moses</name>,  
+          <lb ed="#L" n="14"/>together with those thinges, which  
+          <lb ed="#L" n="15"/>were done in al the time of <name>Moses</name> life,  
+          <lb ed="#L" n="16"/>by the space of 120. yeeres. And y his e 
+          <lb ed="#L" n="17"/>stimation might be ye greater through  
+          <lb ed="#L" n="18"/>out all the world, among all men, and  
+          <lb ed="#L" n="19"/>in all ages, and that none shoulde but  
+          <lb ed="#L" n="20"/>know, that the writinges of <name>Moses</name>  
+          <lb ed="#L" n="21"/>were the very word of God it self, <name>Mo 
+          <lb ed="#L" n="22"/>ses</name> was furnished and as it were con 
+          <lb ed="#L" n="23"/>secrated, by God with signes, &amp; won 
+          <lb ed="#L" n="24"/>ders to bee marveiled at in deed, which  
+          <lb ed="#L" n="25"/>the almighty by the hande, that is, by  
+          <lb ed="#L" n="26"/>the ministerye of <name>Moses</name> did bring to  
+          <lb ed="#L" n="27"/>passe: &amp; verily, he wrought them not  
+          <lb ed="#L" n="28"/>in any corner of the world, or place un 
+          <lb ed="#L" n="29"/>knowen, but in Egypt, the mast flouri 
+          <lb ed="#L" n="30"/>shing and renowmed kingdom of that 
+          <lb ed="#L" n="31"/>age. 
+      </p>
+      <p>
+          <lb ed="#L" n="32"/>Those miracles were greater and  
+          <lb ed="#L" n="33"/>farre more by many, than that they ca  
+          <lb ed="#L" n="34"/>be here rehearsed in few wordes: ney,  
+          <lb ed="#L" n="35"/>ther is it needful to repeate the, because  
+          <lb ed="#L" n="36"/>you, deerely beloved, are not unskilfull  
+          <lb ed="#L" n="37"/>or ignorat of them at al. After that al 
+          <lb ed="#L" n="38"/>so, God by other meanes procured au 
+          <lb ed="#L" n="39"/>thoritie to <name>Moses</name>. For many and often 
+          <lb ed="#L" n="40"/>times, God had communication with  
+          <lb ed="#L" n="41"/><name>Moses</name>: &amp; amongst the rest of his talke  
+          <lb ed="#L" n="42"/>said he, Behold, I will come to thee in  
+          <lb ed="#L" n="43"/>a thicke cloude, that the people maye 
+          <lb ed="#L" n="44"/>heare me talking with thee, and may 
+          <lb ed="#L" n="45"/>beleeve thee for evermore.
+      </p>
+        <p>
+          <lb ed="#L" n="46"/>Neither was the Lorde there with  
+          <!--7.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>content, but commanded <name>Moses</name> to cal 
+          <lb ed="#L" n="2"/>together all the people, sire hundreth  
+          <lb ed="#L" n="3"/>thousand men, I say, with their wives 
+          <lb ed="#L" n="4"/>and children. They are called out to  
+          <lb ed="#L" n="5"/>the mount Sina, where God appea 
+          <lb ed="#L" n="6"/>reth in a wonderfull &amp; terrible fashis,  
+          <lb ed="#L" n="7"/>and he himelfe preaching to the con 
+          <lb ed="#L" n="8"/>gregation, doth rehearse uuto them the  
+          <lb ed="#L" n="9"/>ten commandements.
+      </p>
+        <p>
+          <lb ed="#L" n="10"/>But the people being terrified with  
+          <lb ed="#L" n="11"/>the majesty of God, doth pray and be 
+          <lb ed="#L" n="12"/>seech, that God himselfe would no more  
+          <lb ed="#L" n="13"/>afterward preach to the congregation 
+          <lb ed="#L" n="14"/>with his owne mouth, saying, that it  
+          <lb ed="#L" n="15"/>were enough if he would use <name>Moses</name> as  
+          <lb ed="#L" n="16"/>an interpreter to them, and by him  
+          <lb ed="#L" n="17"/>speake to the Church. The most high  
+          <lb ed="#L" n="18"/>God did like the offer, and after that,  
+          <lb ed="#L" n="19"/>he spake to the people by <name>Moses</name>, what 
+          <lb ed="#L" n="20"/>soever he woulde have done. And for  
+          <lb ed="#L" n="21"/>because that the people was a stifner 
+          <lb ed="#L" n="22"/>ked people, &amp; by keeping company with  
+          <lb ed="#L" n="23"/>Idolaters in Egypt, was not a little  
+          <lb ed="#L" n="24"/>corrupted. <name>Moses</name> now beganne to set 
+          <lb ed="#L" n="25"/>downe in writing, those things which  
+          <lb ed="#L" n="26"/>ye holy fathers by tradition had taught  
+          <lb ed="#L" n="27"/>&amp; the thing also which the Lord had re 
+          <lb ed="#L" n="28"/>vealed unto him. The cause why hee  
+          <lb ed="#L" n="29"/>wrote them was, least peradventure,  
+          <lb ed="#L" n="30"/>by oblivion, by continuance of time  
+          <lb ed="#L" n="31"/>and obstinacie of a people so slowe to  
+          <lb ed="#L" n="32"/>beleeve, they might either perishe, or  
+          <lb ed="#L" n="33"/>else be corrupted. The Lorde also set 
+          <lb ed="#L" n="34"/><name>Moses</name> an example to folow. For what 
+          <lb ed="#L" n="35"/>soever God hath spoken to the Church  
+          <lb ed="#L" n="36"/>in Mount Sina, ye same did he streight  
+          <lb ed="#L" n="37"/>way after, write with his own singer 
+          <lb ed="#L" n="38"/>in two tables of stone, as hee had with  
+          <lb ed="#L" n="39"/>his finger from the beginning of the  
+          <lb ed="#L" n="40"/>world writte the same in the hearts of  
+          <lb ed="#L" n="41"/>the fathers. Afterward also in plaine  
+          <lb ed="#L" n="42"/>words he commanded <name>Moses</name> to write  
+          <lb ed="#L" n="43"/>whatsoever the Lorde had revealed.  
+          <lb ed="#L" n="44"/><name>Moses</name> obeyed the Lordes commande 
+          <lb ed="#L" n="45"/>ment, &amp; wrote them. The holie Ghost  
+          <lb ed="#L" n="46"/>which was wholly in the monds 
+          <!--8.xml-->
+          <pb ed="#L" n="8"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>of <name>Moses</name> directed his hand as he writ.  
+          <lb ed="#L" n="2"/>There was no abilitie wanting in  
+          <lb ed="#L" n="3"/><name>Moses</name>, that was necessarie for a most  
+          <lb ed="#L" n="4"/>absolute writer. He was aboundantly  
+          <lb ed="#L" n="5"/>instructed by his auncestours. For hee  
+          <lb ed="#L" n="6"/>was borne of the holyest progenie of  
+          <lb ed="#L" n="7"/>those fathers, whom God appointed to  
+          <lb ed="#L" n="8"/>bee witnesses of his will, commaunde 
+          <lb ed="#L" n="9"/>ments, and judgements, suppose <name>Am 
+          <lb ed="#L" n="10"/>ram</name>, <name>Bahad</name>, <name>Jacob</name>, <name>Sem</name>, <name>Methusale</name>  
+          <lb ed="#L" n="11"/>and <name>Adam</name>. He was able therefore, to  
+          <lb ed="#L" n="12"/>write a true and certein historie, from  
+          <lb ed="#L" n="13"/>the beginning of the worlde, even un 
+          <lb ed="#L" n="14"/>till his owne time. Thereunto hee  
+          <lb ed="#L" n="15"/>added those thinges, which were done  
+          <lb ed="#L" n="16"/>among the people of God in his owne  
+          <lb ed="#L" n="17"/>life time, whereof hee was a very true  
+          <lb ed="#L" n="18"/>witnesse, as one that saw and heard  
+          <lb ed="#L" n="19"/>them.
+          </p>
+          <p>
+          <lb ed="#L" n="20"/>Pea and that more is, whatsoever 
+          <lb ed="#L" n="21"/>he did set foorth in his bookes, that did  
+          <lb ed="#L" n="22"/>he reade to his people, and amongst so  
+          <lb ed="#L" n="23"/>many thousandes, was there not one  
+          <lb ed="#L" n="24"/>found, which gainsaide that which he  
+          <lb ed="#L" n="25"/>rehearsed: so that the whole consent a  
+          <lb ed="#L" n="26"/>witnessebearing of the great congre 
+          <lb ed="#L" n="27"/>gation, did bring no small authoritie to  
+          <lb ed="#L" n="28"/>the writings of <name>Moses</name>.
+          </p>
+          <p>
+          <lb ed="#L" n="29"/><name>Moses</name> therefore contained in the  
+          <lb ed="#L" n="30"/>five bookes called the five books of <name>Mo 
+          <lb ed="#L" n="31"/>ses</name>, an history from the beginning of  
+          <lb ed="#L" n="32"/>the world, even unto his own death, by  
+          <lb ed="#L" n="33"/>the space of 2488. yeeres. In which hee  
+          <lb ed="#L" n="34"/>declared most largely, the Revelation  
+          <lb ed="#L" n="35"/>of the woorde of God made unto men,  
+          <lb ed="#L" n="36"/>and whatsoever the word of God doth  
+          <lb ed="#L" n="37"/>contein &amp; teach. In which as we have  
+          <lb ed="#L" n="38"/>the manifold Oracles of God himelf,  
+          <lb ed="#L" n="39"/>so have we most light som testimonies,  
+          <lb ed="#L" n="40"/>sentences, examples, &amp; decrees of the  
+          <lb ed="#L" n="41"/>most excellent, ancient, holy, wise, and  
+          <lb ed="#L" n="42"/>greatest men of the worlde, touching  
+          <lb ed="#L" n="43"/>all thinges, which seem to appertaine  
+          <lb ed="#L" n="44"/>to true godlinesse, and the way how  
+          <lb ed="#L" n="45"/>to live well and holily. These bookes  
+          <lb ed="#L" n="46"/>therefore, found a ready prepared en 
+          <!--8.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>trance of beleef among all the posteri 
+          <lb ed="#L" n="2"/>ty, as bookes which are authenticall,  
+          <lb ed="#L" n="3"/>and which of themselves have autho 
+          <lb ed="#L" n="4"/>rity susficient, &amp; which without gain 
+          <lb ed="#L" n="5"/>saying, ought to bee beleeved of all the  
+          <lb ed="#L" n="6"/>world. Pea, and that more is, our Lord  
+          <lb ed="#L" n="7"/>Jesus Christ the only begotten sonne  
+          <lb ed="#L" n="8"/>of God, doth referre the faithtull to  
+          <lb ed="#L" n="9"/>the reading of <name>Moses</name>, yea, and that in  
+          <lb ed="#L" n="10"/>deed in the cheefest points of our salva 
+          <lb ed="#L" n="11"/>tion: The places are to beeseene <name>John</name> 
+          <lb ed="#L" n="12"/>5.<name>Luke</name> 16. In the 5. of <name>Mathew</name> hee  
+          <lb ed="#L" n="13"/>saieth, Doe not thinke that l am come  
+          <lb ed="#L" n="14"/>to destroy the lawe and the Prophets,  
+          <lb ed="#L" n="15"/>for I am not come to destroy them, but  
+          <lb ed="#L" n="16"/>to fulsill them. For, verily l say unto  
+          <lb ed="#L" n="17"/>you, though heaven and earth doe  
+          <lb ed="#L" n="18"/>passe, one iot or title of the lawe shall 
+          <lb ed="#L" n="19"/>not passe till all bee fulsilled. who 
+          <lb ed="#L" n="20"/>soever therefore, shall undoe one of  
+          <lb ed="#L" n="21"/>the least of these commaundementes,  
+          <lb ed="#L" n="22"/>and shall teach men so, he shall be cal 
+          <lb ed="#L" n="23"/>led the least in the kingdome of hea 
+          <lb ed="#L" n="24"/>ven. There have verily some beene  
+          <lb ed="#L" n="25"/>found, that have spoken against <name>Mo 
+          <lb ed="#L" n="26"/>ses</name> the servant of God. But God hath  
+          <lb ed="#L" n="27"/>imputed that gainsaying as done a 
+          <lb ed="#L" n="28"/>gainst his divine maiestye, &amp; punished 
+          <lb ed="#L" n="29"/>it most sharply.
+          </p>
+          <p>
+          <lb ed="#L" n="30"/>The proofes heereof are to beeleene 
+          <lb ed="#L" n="31"/>in Erod. 16. and Numerie the 12. And  
+          <lb ed="#L" n="32"/>first of the people murmuring against  
+          <lb ed="#L" n="33"/><name>Moses</name>: the of <name>Mary</name> <name>Moses</name> sister, spea 
+          <lb ed="#L" n="34"/>king against her brother. But to the  
+          <lb ed="#L" n="35"/>people it was saide, Not against the  
+          <lb ed="#L" n="36"/>ministers, but against the Lord are  
+          <lb ed="#L" n="37"/>your complaintes. As for <name>Marie</name>, shee  
+          <lb ed="#L" n="38"/>was horribly stricken with a Leprosie,  
+          <lb ed="#L" n="39"/><name>Theotectus</name> was stricken blinde : and  
+          <lb ed="#L" n="40"/><name>Theotectus</name> fell to bee madde, because  
+          <lb ed="#L" n="41"/>he had unreverently touched the word  
+          <lb ed="#L" n="42"/>of God. For although the woorde of  
+          <lb ed="#L" n="43"/>God bee revealed, spoken, and written 
+          <lb ed="#L" n="44"/>by men, yet doth it not therefore cease  
+          <lb ed="#L" n="45"/>to bee that, which in deede it is, ney 
+          <lb ed="#L" n="46"/>ther doeth it therefore beginne to  
+          <!--9.xml-->
+          <pb ed="#L" n="9"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>be the word of men, because it is prea 
+          <lb ed="#L" n="2"/>cthed and heard of men, no more than 
+          <lb ed="#L" n="3"/>the king his commaundement, which  
+          <lb ed="#L" n="4"/>is proclaimed by the Cryar, is saide to  
+          <lb ed="#L" n="5"/>be the commandement of the cryar. He  
+          <lb ed="#L" n="6"/>despiseth God, &amp; with God all the holy  
+          <lb ed="#L" n="7"/>Patriarches, whosoever doth cotemne  
+          <lb ed="#L" n="8"/><name>Moses</name>, by whom God speaketh unto  
+          <lb ed="#L" n="9"/>us, and at whose hand we have recei 
+          <lb ed="#L" n="10"/>ved those thinges, which the Patri 
+          <lb ed="#L" n="11"/>arches fro the beginning of the world,  
+          <lb ed="#L" n="12"/>by tradition delivered to the posterity,  
+          <lb ed="#L" n="13"/>There is no difference betweene the  
+          <lb ed="#L" n="14"/>worde of God, which is taught by the  
+          <lb ed="#L" n="15"/>lively expressed voyce of man, and that  
+          <lb ed="#L" n="16"/>which is written by the penne of man,  
+          <lb ed="#L" n="17"/>but so farre foorth as the lively voyce  
+          <lb ed="#L" n="18"/>and writing doe differ betweene them 
+          <lb ed="#L" n="19"/>selves: the matter undoutedly, the sese  
+          <lb ed="#L" n="20"/>and meaning in the one and the other 
+          <lb ed="#L" n="21"/>is all one. By this (dearely beloved)  
+          <lb ed="#L" n="22"/>you have perceived the certeine histo  
+          <lb ed="#L" n="23"/>rie of the beginning of the worde of  
+          <lb ed="#L" n="24"/>God.
+          </p>
+        <p>
+          <lb ed="#L" n="25"/>Now let us goe forward to the rest,  
+          <lb ed="#L" n="26"/>that is to adde the historie of the pro 
+          <lb ed="#L" n="27"/>ceeding of the worde of God, &amp; by what 
+          <lb ed="#L" n="28"/>meanes it shined ever and anon very 
+          <lb ed="#L" n="29"/>cleare and brightly unto the worlde.  
+          <lb ed="#L" n="30"/>By and by after the departure, of the  
+          <lb ed="#L" n="31"/>holy man <name>Moses</name> out of this world into  
+          <lb ed="#L" n="32"/>heaven, the Lorde of his bountifulnes  
+          <lb ed="#L" n="33"/>gave most excellent Prophets unto his  
+          <lb ed="#L" n="34"/>Church, which he had chosen to the in 
+          <lb ed="#L" n="35"/>tent that by it hee might reveale his 
+          <lb ed="#L" n="36"/>worde unto the whole world. And the  
+          <lb ed="#L" n="37"/>Prophetes were to them of the olde  
+          <lb ed="#L" n="38"/>time, as at this day amongest us are  
+          <lb ed="#L" n="39"/>Prophets, Priests, wise men., Prea 
+          <lb ed="#L" n="40"/>chers, Pastors, Bishop,. Doctours, or  
+          <lb ed="#L" n="41"/>Divines, most skilfull in heavenlie  
+          <lb ed="#L" n="42"/>thinges, and given by God to guyde  
+          <lb ed="#L" n="43"/>the people in the faith. And he whoso  
+          <lb ed="#L" n="44"/>ever shall reade the holy historie, will  
+          <lb ed="#L" n="45"/>confesse, that there flourished of this  
+          <lb ed="#L" n="46"/>fort, no small number, and those not  
+          <!--9.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>obscure even till the captivitie of Ba 
+          <lb ed="#L" n="2"/>bylon. Amongest whom are reckoned  
+          <lb ed="#L" n="3"/>these singuler and excellent men, <name>Phi 
+          <lb ed="#L" n="4"/>nees</name>, <name>Samuel</name>, <name>Helias</name>, <name>Heliseus</name>, <name>E 
+          <lb ed="#L" n="5"/>saias</name>, and <name>Jeremias</name>, <name>David</name>, &amp; <name>Salo 
+          <lb ed="#L" n="6"/>mon</name> were both kings and Prophetes,  
+          <lb ed="#L" n="7"/>In time of the captivity at Babylon,  
+          <lb ed="#L" n="8"/><name>Daniel</name> and <name>Ezekiel</name> were notably  
+          <lb ed="#L" n="9"/>knowen. After the captivity flourished 
+          <lb ed="#L" n="10"/>ampog the rest, <name>Zacharias</name> the sonne of  
+          <lb ed="#L" n="11"/><name>Barachias</name>. Here have I reckoned by 
+          <lb ed="#L" n="12"/>a few amog many: who although they  
+          <lb ed="#L" n="13"/>flourished at sundry times, and that  
+          <lb ed="#L" n="14"/>the one a great while after the other, 
+          <lb ed="#L" n="15"/>yet did they all with one consent, ac 
+          <lb ed="#L" n="16"/>knowledge that GOD spake to the  
+          <lb ed="#L" n="17"/>worlde by <name>Moses</name>, who, God so appoyn 
+          <lb ed="#L" n="18"/>ted it, left to the church in the worlde.  
+          <lb ed="#L" n="19"/>a breviarie of true divinitie, &amp; a moste  
+          <lb ed="#L" n="20"/>absolute Summe of the worde of God 
+          <lb ed="#L" n="21"/>conteined in writing. Al these priests,  
+          <lb ed="#L" n="22"/>Divines &amp; Prophetes, in all that they  
+          <lb ed="#L" n="23"/>did, had an especiall cie to the doctrine 
+          <lb ed="#L" n="24"/>of <name>Moses</name>. They did also refer all men 
+          <lb ed="#L" n="25"/>in cases of faith and religion, to the  
+          <lb ed="#L" n="26"/>booke of <name>Moses</name>. The lawe of <name>Moses</name>,  
+          <lb ed="#L" n="27"/>which is in deede the lawe of God, and  
+          <lb ed="#L" n="28"/>is most properly called Thora, as it  
+          <lb ed="#L" n="29"/>were the guide and rule of faith, and  
+          <lb ed="#L" n="30"/>life, they did diligently beate into the  
+          <lb ed="#L" n="31"/>mindes of all men. This did they ac 
+          <lb ed="#L" n="32"/>cording to the time, persons and place,  
+          <lb ed="#L" n="33"/>expound to all men. For al the priestes  
+          <lb ed="#L" n="34"/>and Prophetes before the incarnation  
+          <lb ed="#L" n="35"/>of Christ, did by worde of mouth teache  
+          <lb ed="#L" n="36"/>the men of their time, godlinesse, and  
+          <lb ed="#L" n="37"/>true religion. Neither did they teache  
+          <lb ed="#L" n="38"/>any other thing, than that which the  
+          <lb ed="#L" n="39"/>Fathers had received of God, &amp; which  
+          <lb ed="#L" n="40"/><name>Moses</name> had received of God and the fa 
+          <lb ed="#L" n="41"/>thers, and straight wayes after com 
+          <lb ed="#L" n="42"/>mitting it to writing, did set it out to  
+          <lb ed="#L" n="43"/>all us which follow, even unto the end 
+          <lb ed="#L" n="44"/>of the world: so that now, in the Pro 
+          <lb ed="#L" n="45"/>phets, we have the docrine of <name>Moses</name>,  
+          <lb ed="#L" n="46"/>and tradition of the fathers, and them 
+          <!--10.xml-->
+          <pb ed="#L" n="10"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>in all and every point more fully and  
+          <lb ed="#L" n="2"/>plainely exounded and polished, being  
+          <lb ed="#L" n="3"/>moreover, to the places, times, and per 
+          <lb ed="#L" n="4"/>sons very fitly applied.
+          </p>
+          <p>
+          <lb ed="#L" n="5"/>Furthermore, the doctrine, and  
+          <lb ed="#L" n="6"/>writinges of the Prophetes have al 
+          <lb ed="#L" n="7"/>wayes been of great authority among  
+          <lb ed="#L" n="8"/>all wise men throughout the whole  
+          <lb ed="#L" n="9"/>worlde. For it is well perceived by ma 
+          <lb ed="#L" n="10"/>ny arguments, that they took not their 
+          <lb ed="#L" n="11"/>beginning of ye prophets theselves as  
+          <lb ed="#L" n="12"/>chiefe authors, but were inspired from  
+          <lb ed="#L" n="13"/>God out of heaven by the holy spirit of  
+          <lb ed="#L" n="14"/>God. For it is God, which dwelling by  
+          <lb ed="#L" n="15"/>his spirite in the mindes of the Pro 
+          <lb ed="#L" n="16"/>phets, speaketh to us by their mouths,  
+          <lb ed="#L" n="17"/>And for that cause have they a moste  
+          <lb ed="#L" n="18"/>large testimonie at the hads of Christ,  
+          <lb ed="#L" n="19"/>and his elect Apostles. What say ye to  
+          <lb ed="#L" n="20"/>this moreover, that God by their mini 
+          <lb ed="#L" n="21"/>stery hath wrought miracles and wo 
+          <lb ed="#L" n="22"/>ders to be marveiled at, and those not 
+          <lb ed="#L" n="23"/>a few: That at the least by mightye  
+          <lb ed="#L" n="24"/>signes we might learn that it is God,  
+          <lb ed="#L" n="25"/>by whose inspiration the prophets doe  
+          <lb ed="#L" n="26"/>teach, and write whatsoever they left  
+          <lb ed="#L" n="27"/>for us to rememder.
+          </p>
+          <p>
+          <lb ed="#L" n="28"/>Furthermore, so many common 
+          <lb ed="#L" n="29"/>weales, and congregations gathered 
+          <lb ed="#L" n="30"/>together, &amp; governed by the Prophetes  
+          <lb ed="#L" n="31"/>according to the word of God, do shew 
+          <lb ed="#L" n="32"/>most evident testimonies of God his  
+          <lb ed="#L" n="33"/>trueth in the Prophets. <name>Plato</name>, <name>Zeno</name>,  
+          <lb ed="#L" n="34"/><name>Aristotle</name>, &amp; other Philosophers of the  
+          <lb ed="#L" n="35"/>Gentiles, are praised as excellent me. 
+          <lb ed="#L" n="36"/>But which of them could ever yet ga 
+          <lb ed="#L" n="37"/>ther a church to live according to their  
+          <lb ed="#L" n="38"/>ordinaunces: And yet our Prophetes  
+          <lb ed="#L" n="39"/>have had the most ercellent and re 
+          <lb ed="#L" n="40"/>nowned common weales, or congre 
+          <lb ed="#L" n="41"/>gations, yea and that more is, the most  
+          <lb ed="#L" n="42"/>flourishing kingdomes in al the world  
+          <lb ed="#L" n="43"/>under their authoritie. All the wise  
+          <lb ed="#L" n="44"/>men in the whole worlde, I meane  
+          <lb ed="#L" n="45"/>those which lived in this time, did re 
+          <lb ed="#L" n="46"/>verence <name>Salomon</name>, a ling and so great 
+          <!--10.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>a Prophet, and came unto him from 
+          <lb ed="#L" n="2"/>the very outmost endes of the worlde.  
+          <lb ed="#L" n="3"/><name>Daniel</name> also had the preminence a 
+          <lb ed="#L" n="4"/>mong the wise men at Babylon, being  
+          <lb ed="#L" n="5"/>then the most renowned Monarchie  
+          <lb ed="#L" n="6"/>in all the worlde.
+          </p>
+          <p>
+          <lb ed="#L" n="7"/>He was moreover in great estima 
+          <lb ed="#L" n="8"/>tion with <name>Darius Medus</name>, the sonne of  
+          <lb ed="#L" n="9"/><name>Astiages</name> or <name>Assuerus</name>, and also with  
+          <lb ed="#L" n="10"/><name>Cyrus</name> that most excellent king. And  
+          <lb ed="#L" n="11"/>here it liketh me well to speake some 
+          <lb ed="#L" n="12"/>what of that divine forelnowledge in  
+          <lb ed="#L" n="13"/>our Prophetes, and most allured fore 
+          <lb ed="#L" n="14"/>shewing of things which were to come  
+          <lb ed="#L" n="15"/>after many yeeres passed. And now to  
+          <lb ed="#L" n="16"/>say nothing of others, did not <name>Claias</name> 
+          <lb ed="#L" n="17"/>most truely foretel those things which  
+          <lb ed="#L" n="18"/>were afterward fulsilled by the Jewes 
+          <lb ed="#L" n="19"/>in our Lord Christ: Not in vaine did  
+          <lb ed="#L" n="20"/>he seeme to them of old time to bee ra 
+          <lb ed="#L" n="21"/>ther an Evangelist than a Prophet 
+          <lb ed="#L" n="22"/>foretelling things to come. Hee did o 
+          <lb ed="#L" n="23"/>penly tell the name of king <name>Cyrus</name> one  
+          <lb ed="#L" n="24"/>hunored and threescore yeeres at the  
+          <lb ed="#L" n="25"/>least, before that <name>Cyrus</name> was borne.  
+          <lb ed="#L" n="26"/><name>Daniel</name> also, was called of them in the  
+          <lb ed="#L" n="27"/>olde time, by the name of one which  
+          <lb ed="#L" n="28"/>knewe much. For, hee did foretel  
+          <lb ed="#L" n="29"/>those things which are, and have been 
+          <lb ed="#L" n="30"/>done in all the kingooms of the world  
+          <lb ed="#L" n="31"/>almost, and among the people of God,  
+          <lb ed="#L" n="32"/>from his owne time untill the time of  
+          <lb ed="#L" n="33"/>Christ, and further untill the last day 
+          <lb ed="#L" n="34"/>of judgement, so plainely that hee may  
+          <lb ed="#L" n="35"/>seeme to have compiled an historie of  
+          <lb ed="#L" n="36"/>those thinges, which then were alrea 
+          <lb ed="#L" n="37"/>dy gone and past. All these thinges 
+          <lb ed="#L" n="38"/>I say, doe very evidently prove, that 
+          <lb ed="#L" n="39"/>the docrine, and writings of the Pro 
+          <lb ed="#L" n="40"/>phets are the very word of God: with  
+          <lb ed="#L" n="41"/>which name and title they are set 
+          <lb ed="#L" n="42"/>foorth in sundrie places of the Scrip 
+          <lb ed="#L" n="43"/>tures. Verily, <name>Peter</name> the Apostle say 
+          <lb ed="#L" n="44"/>eth, The prophecie came not in olde  
+          <lb ed="#L" n="45"/>time by the wil of man: but holy men 
+          <lb ed="#L" n="46"/>of God spake as they mere moved by 
+          <!--11.xml-->
+          <pb ed="#L" n="11"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>the holy Ghost.
+          </p>
+          <p>
+          <lb ed="#L" n="2"/>And although God did largely, clear 
+          <lb ed="#L" n="3"/>ly, plainely and simplie, reveale his 
+          <lb ed="#L" n="4"/>word to the world by the Patriarches,  
+          <lb ed="#L" n="5"/>by <name>Moses</name>, by the Priestes and Pro 
+          <lb ed="#L" n="6"/>phets, yet did hee in the last times of  
+          <lb ed="#L" n="7"/>all, by his Sonne, set it forth most 
+          <lb ed="#L" n="8"/>clearely, simply, and aboundantly to al  
+          <lb ed="#L" n="9"/>the worlde. For the verye and onely  
+          <lb ed="#L" n="10"/>begotten Sonne of God the father, as  
+          <lb ed="#L" n="11"/>the Prophetes had foretolde, descen 
+          <lb ed="#L" n="12"/>ding from heaven doth fulsill all what 
+          <lb ed="#L" n="13"/>soever they foretolde, and by the space  
+          <lb ed="#L" n="14"/>almost of three yeeres doeth teach all  
+          <lb ed="#L" n="15"/>pointes of godlines. For saith John,  
+          <lb ed="#L" n="16"/>No man at any time hath seene God,  
+          <lb ed="#L" n="17"/>the onely begotten sonne which is in  
+          <lb ed="#L" n="18"/>the bosome of the father, he hath de,  
+          <lb ed="#L" n="19"/>clared him. The Lord himselfe more 
+          <lb ed="#L" n="20"/>over, saith to his Disciples, Al things  
+          <lb ed="#L" n="21"/>which I have heard of my Father have  
+          <lb ed="#L" n="22"/>I made knowne to you. And againe he  
+          <lb ed="#L" n="23"/>saieth, I am the light of the worlde:  
+          <lb ed="#L" n="24"/>whosoever doth follow me doeth not 
+          <lb ed="#L" n="25"/>walke in darkenes, but shall have the  
+          <lb ed="#L" n="26"/>light of life.  Our Lorde also did teach,  
+          <lb ed="#L" n="27"/>that to him which woulde enter into  
+          <lb ed="#L" n="28"/>Heaven and be saved, the heavenly re 
+          <lb ed="#L" n="29"/>generation was needefull: because in  
+          <lb ed="#L" n="30"/>the first byrth man is borne to death,  
+          <lb ed="#L" n="31"/>in the second to life. But that that re 
+          <lb ed="#L" n="32"/>generation is made perfect in us by ye  
+          <lb ed="#L" n="33"/>spirite of God, which instructeth our  
+          <lb ed="#L" n="34"/>hearts in faith, I say in faith in Christ  
+          <lb ed="#L" n="35"/>who dyed for our sinnes, &amp; rose againe  
+          <lb ed="#L" n="36"/>for our justification. He taught that 
+          <lb ed="#L" n="37"/>by that faith they which believe are  
+          <lb ed="#L" n="38"/>justified: and that out of the same faith  
+          <lb ed="#L" n="39"/>doe growe sundry fruites of charitie  
+          <lb ed="#L" n="40"/>and innocencie, to the bringing foorth  
+          <lb ed="#L" n="41"/>whereof, he did most earnestly exhorte  
+          <lb ed="#L" n="42"/>them. He taught furthemmore, that he  
+          <lb ed="#L" n="43"/>was the fulfilling or fulnes of the law 
+          <lb ed="#L" n="44"/>and the Prophets, &amp; did also approve  
+          <lb ed="#L" n="45"/>and expound the doctrin of <name>Moses</name> and  
+          <lb ed="#L" n="46"/>the Prophetes. To doctrine he joyned  
+          <!--11.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>diverse miracles and benefits, where 
+          <lb ed="#L" n="2"/>by he declared that hee himselfe was 
+          <lb ed="#L" n="3"/>that light of the world, and the migh 
+          <lb ed="#L" n="4"/>ty &amp; bountiful redeemer of the worlde.  
+          <lb ed="#L" n="5"/>And, to the intent that his docrine &amp; 
+          <lb ed="#L" n="6"/>benefites might be knowen to all the  
+          <lb ed="#L" n="7"/>worlde, he chose to himselfe witnesses,  
+          <lb ed="#L" n="8"/>whom he called Apostles, because hee  
+          <lb ed="#L" n="9"/>purposed to sende them to Preache  
+          <lb ed="#L" n="10"/>throughout the worlde. Those witnes 
+          <lb ed="#L" n="11"/>ses were simple men, innocents, just,  
+          <lb ed="#L" n="12"/>tellers of trueth, without deceipt or  
+          <lb ed="#L" n="13"/>subtilties, and in al pointes holie and  
+          <lb ed="#L" n="14"/>good: whose names it is verie profita 
+          <lb ed="#L" n="15"/>ble often to repeate in the Congrega 
+          <lb ed="#L" n="16"/>tion. The names of the Apostles are  
+          <lb ed="#L" n="17"/>these, <name>Peter</name> and <name>Andrew</name>, <name>James</name> and  
+          <lb ed="#L" n="18"/><name>John</name>, <name>Philippe</name> and <name>Bartholomewe</name>,  
+          <lb ed="#L" n="19"/><name>Thomas</name> and <name>Mathew</name>, <name>James</name> the sonne  
+          <lb ed="#L" n="20"/>of <name>Alphe</name>, and <name>Judas</name> his brother, whose  
+          <lb ed="#L" n="21"/>surname was <name>Thaddeeus</name>, <name>Simon</name> and 
+          <lb ed="#L" n="22"/><name>Judas lscariot</name>, into whose roome (be 
+          <lb ed="#L" n="23"/>cause he had betrayed the Lord) came  
+          <lb ed="#L" n="24"/>Sainct <name>Matthias</name>. These had he by the  
+          <lb ed="#L" n="25"/>space almost of three yeares , hearers  
+          <lb ed="#L" n="26"/>of his heavenly doctrine, and beholders  
+          <lb ed="#L" n="27"/>of his divine workes. These after his  
+          <lb ed="#L" n="28"/>ascension into the Heavens, did he by  
+          <lb ed="#L" n="29"/>the holie ghost sent downe from hea 
+          <lb ed="#L" n="30"/>ven, instruct with all kinde of facul 
+          <lb ed="#L" n="31"/>ties. For, as they were in the Scrip 
+          <lb ed="#L" n="32"/>tures passing skilfull: so were they not  
+          <lb ed="#L" n="33"/>unskilfull or wanting eloquence in a 
+          <lb ed="#L" n="34"/>ny tongue. And being once after this  
+          <lb ed="#L" n="35"/>manner instructed, they departe out  
+          <lb ed="#L" n="36"/>of the Citie of Jerusalem, and passe  
+          <lb ed="#L" n="37"/>through the compasse of the earth,  
+          <lb ed="#L" n="38"/>preaching to all people and nations  
+          <lb ed="#L" n="39"/>that which they had received to preach  
+          <lb ed="#L" n="40"/>of the saviour of the world, &amp; the Lord  
+          <lb ed="#L" n="41"/>Jesus Christ. And when for certaine  
+          <lb ed="#L" n="42"/>yeares, they had preached by worde of  
+          <lb ed="#L" n="43"/>mouth, then did they also set downe in  
+          <lb ed="#L" n="44"/>writing that which they had prea 
+          <lb ed="#L" n="45"/>ched. For some, verily, write an hi 
+          <lb ed="#L" n="46"/>storie of the words and deeds of Christ,  
+          <!--12.xml-->
+          <pb ed="#L" n="12"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>and some of the wordes and deedes of  
+          <lb ed="#L" n="2"/>the Apostles. Other some sent sundry  
+          <lb ed="#L" n="3"/>Epistles to divers Nations. In all  
+          <lb ed="#L" n="4"/>which, to confirme the trueth, they use  
+          <lb ed="#L" n="5"/>the Scripture of the lawe and the pro 
+          <lb ed="#L" n="6"/>phetes, even as we read, that the Lord  
+          <lb ed="#L" n="7"/>oftentimes did. Moreover to the  
+          <lb ed="#L" n="8"/>twelve Apostles are ioyned two great 
+          <lb ed="#L" n="9"/>lights of the world, <name>John</name> Baptist then  
+          <lb ed="#L" n="10"/>whome there was never anye more 
+          <lb ed="#L" n="11"/>holy borne of women, and the cho 
+          <lb ed="#L" n="12"/>sen vessell <name>Paule</name>, the great teacher of  
+          <lb ed="#L" n="13"/>the Gentiles.
+          </p>
+          <p>
+          <lb ed="#L" n="14"/>Neyther is it to be merveyled at,  
+          <lb ed="#L" n="15"/>that the forerunner and Apostles of  
+          <lb ed="#L" n="16"/>Christ had alwayes verie great digni 
+          <lb ed="#L" n="17"/>tie, and authoritie in the Church. For,  
+          <lb ed="#L" n="18"/>even as they were the Embassadours  
+          <lb ed="#L" n="19"/>of the eternall king of all ages, and of  
+          <lb ed="#L" n="20"/>the whole world: so being indued with  
+          <lb ed="#L" n="21"/>the spirite of God, they did nothing ac 
+          <lb ed="#L" n="22"/>cording to the judgement of their own  
+          <lb ed="#L" n="23"/>minds. And the Lord by their ministe 
+          <lb ed="#L" n="24"/>rie wrought great miracles, therby to  
+          <lb ed="#L" n="25"/>garnish the ministerie of them, and to  
+          <lb ed="#L" n="26"/>commend their docrine unto us. And  
+          <lb ed="#L" n="27"/>what may be thought of that, moreo 
+          <lb ed="#L" n="28"/>ver, that by that word of God they did  
+          <lb ed="#L" n="29"/>convert the whole worlde gatheringe  
+          <lb ed="#L" n="30"/>together, and laying the foundations  
+          <lb ed="#L" n="31"/>of notalbe churches throughout the  
+          <lb ed="#L" n="32"/>compasse of the world: which verily by  
+          <lb ed="#L" n="33"/>mans counsell and wordes, they had 
+          <lb ed="#L" n="34"/>never bene able to have brought to  
+          <lb ed="#L" n="35"/>passe. To this is further added, that 
+          <lb ed="#L" n="36"/>they which once leaned to this doctrin, 
+          <lb ed="#L" n="37"/>as a doctrine giving life, did not refuse  
+          <lb ed="#L" n="38"/>to dye. Besides that howe many soe 
+          <lb ed="#L" n="39"/>ver had their beleefe in the doctrine of  
+          <lb ed="#L" n="40"/>the Gospel, they were not afraid tho 
+          <lb ed="#L" n="41"/>rough water, fire, &amp; swordes to cut off  
+          <lb ed="#L" n="42"/>this life, and to lay hand on the life to  
+          <lb ed="#L" n="43"/>come. The faithful saints could in no  
+          <lb ed="#L" n="44"/>wise have done these things, unles the  
+          <lb ed="#L" n="45"/>doctrine which they beloved had beene  
+          <lb ed="#L" n="46"/>of God.
+          </p>
+          <p>
+          <!--12.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>Although therfore, that the Apostles  
+          <lb ed="#L" n="2"/>were men, yet their docrine, first of all  
+          <lb ed="#L" n="3"/>taught by a lively expressed voice, and  
+          <lb ed="#L" n="4"/>after that, set downe in writing with  
+          <lb ed="#L" n="5"/>pen and yncke, is the docrine of God.  
+          <lb ed="#L" n="6"/>and the very true worde of God. For  
+          <lb ed="#L" n="7"/>therefore the Apostle left this saying in  
+          <lb ed="#L" n="8"/>writing, <quote>when ye did receive the word  
+          <lb ed="#L" n="9"/>of God which yee heard of us, yee re 
+          <lb ed="#L" n="10"/>ceived it not as the worde of men, but 
+          <lb ed="#L" n="11"/>as it is indeede, the worde of God, 
+          <lb ed="#L" n="12"/>which efteetually worketh in you that 
+          <lb ed="#L" n="13"/>beleeve.  </quote>
+          </p>
+          <p>
+          <lb ed="#L" n="14"/>But nowe, the matter it selfe and  
+          <lb ed="#L" n="15"/>place require that I gather also and  
+          <lb ed="#L" n="16"/>plainely reckon up those bookes, wher 
+          <lb ed="#L" n="17"/>in is conteyned the very word of God,  
+          <lb ed="#L" n="18"/>first of all declared of the Fathers, of  
+          <lb ed="#L" n="19"/>Christ himelfe, and the Apostles by  
+          <lb ed="#L" n="20"/>word of mouth, &amp; after that also writ 
+          <lb ed="#L" n="21"/>ten into bookes by the Prophetes and  
+          <lb ed="#L" n="22"/>Apostles. And in the first place veri 
+          <lb ed="#L" n="23"/>ly are set the five bookes of <name>Moses</name>,  
+          <lb ed="#L" n="24"/>Then followe the bookes of losue, of  
+          <lb ed="#L" n="25"/>Judges, of <name>Ruth</name>, two bookes of <name>Samu 
+          <lb ed="#L" n="26"/>el</name>, two of Kinges, two of Chronicles,  
+          <lb ed="#L" n="27"/>of <name>Esdras</name>, <name>Nehemias</name>, and <name>Hester</name> one a 
+          <lb ed="#L" n="28"/>piece. After these come <name>Job</name>, <name>David</name> or  
+          <lb ed="#L" n="29"/>the booke of Psalmes, Proverbes, Ec 
+          <lb ed="#L" n="30"/>clesiastes, and Cantica. With them are  
+          <lb ed="#L" n="31"/>numbred the foure greater Prophetes  
+          <lb ed="#L" n="32"/><name>Esaias</name>, <name>Jeremias</name>, <name>Ezechiel</name>, and <name>Da 
+          <lb ed="#L" n="33"/>niel</name>: then the twelve lesser Prophetes,  
+          <lb ed="#L" n="34"/>whose names are verie well knowen : 
+          <lb ed="#L" n="35"/>With these bookes the olde Testa 
+          <lb ed="#L" n="36"/>ment ended. The newe Testament  
+          <lb ed="#L" n="37"/>hath in the beginning the Evangeli 
+          <lb ed="#L" n="38"/>call historie of Christ the Lorde, writ 
+          <lb ed="#L" n="39"/>ten by foure Authours, that is, by two  
+          <lb ed="#L" n="40"/>Apostles, <name>Mathew</name> and <name>John</name>: and by  
+          <lb ed="#L" n="41"/>two Disciples, <name>Marke</name> and <name>Luke</name>: who 
+          <lb ed="#L" n="42"/>compiled a wonderfull goodlye and  
+          <lb ed="#L" n="43"/>profitable booke of the Actes of the  
+          <lb ed="#L" n="44"/>Apostles. <name>Paule</name> to sundrie Churthes  
+          <lb ed="#L" n="45"/>and persons published 14 Epistles.  
+          <lb ed="#L" n="46"/>The other Apostles wrote 7. which  
+          <!--13.xml-->
+          <pb ed="#L" n="13"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>are called both Canonical and Ca 
+          <lb ed="#L" n="2"/>tholike. And the books of the newe 
+          <lb ed="#L" n="3"/>Testament are ended with the reve 
+          <lb ed="#L" n="4"/>lation of Jesus Christ, which he ope 
+          <lb ed="#L" n="5"/>ned to the disciple whom he loved,  
+          <lb ed="#L" n="6"/><name>John</name> the Evangelist and Apostle,  
+          <lb ed="#L" n="7"/>shewing unto him &amp; so to the whole  
+          <lb ed="#L" n="8"/>church, the ordinance of God tou 
+          <lb ed="#L" n="9"/>ching the church, even until the day 
+          <lb ed="#L" n="10"/>of judgement. Therefore in these few 
+          <lb ed="#L" n="11"/>and mean, not unmeasurable: in these  
+          <lb ed="#L" n="12"/>plaine and simple, not darke and un 
+          <lb ed="#L" n="13"/>kemmed bookes: is comprehended the 
+          <lb ed="#L" n="14"/>ful doctrine of godlinesse, which is the  
+          <lb ed="#L" n="15"/>verie worde of the true, living and e 
+          <lb ed="#L" n="16"/>ternal God.
+          </p>
+          <p>
+          <lb ed="#L" n="17"/>Also the bookes of <name>Moses</name> and the  
+          <lb ed="#L" n="18"/>Prophetes through so many ages, pe 
+          <lb ed="#L" n="19"/>rils and captivities, came sounde and  
+          <lb ed="#L" n="20"/>uncorrupted even untill the time of  
+          <lb ed="#L" n="21"/>Christ and his Apostles. For the Lord  
+          <lb ed="#L" n="22"/>Jesus and the Apostles used those  
+          <lb ed="#L" n="23"/>bookes as true copies and authentical:  
+          <lb ed="#L" n="24"/>which undoubtedlye they neither  
+          <lb ed="#L" n="25"/>woulde, nor coulde have done, if so bee  
+          <lb ed="#L" n="26"/>that either they had beene corrupted,  
+          <lb ed="#L" n="27"/>or altogither perished. The bookes al 
+          <lb ed="#L" n="28"/>so, which the Apostles of Christ have  
+          <lb ed="#L" n="29"/>added, were throughout al persecuti 
+          <lb ed="#L" n="30"/>ons kept in the church safe and uncor  
+          <lb ed="#L" n="31"/>rupted, and are come sound and uncor 
+          <lb ed="#L" n="32"/>rupted into our handes, upon whom 
+          <lb ed="#L" n="33"/>the endes of the worlde are falne. For  
+          <lb ed="#L" n="34"/>by the vigilant care and unspeakeable  
+          <lb ed="#L" n="35"/>goodnesse of God our Father, it is  
+          <lb ed="#L" n="36"/>brought to passe, that no age at anie  
+          <lb ed="#L" n="37"/>time either hath or shal want so great 
+          <lb ed="#L" n="38"/>a treasure.
+          </p>
+          <p>
+          <lb ed="#L" n="39"/>Thus much hitherto have I decla 
+          <lb ed="#L" n="40"/>red unto you ( deerely beloved) what 
+          <lb ed="#L" n="41"/>the worde of God is, what the begin 
+          <lb ed="#L" n="42"/>ning of it in the church was, and what 
+          <lb ed="#L" n="43"/>proceeding, dignitie and certaintie it  
+          <lb ed="#L" n="44"/>had. The worde of God is the speech  
+          <lb ed="#L" n="45"/>of God, that is to say, the revealing of  
+          <lb ed="#L" n="46"/>his good will to mankind, which from  
+          <!--13.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>the beginning, one while by his owne  
+          <lb ed="#L" n="2"/>mouth, and an other while by the  
+          <lb ed="#L" n="3"/>speech of Aungels, hee did open to  
+          <lb ed="#L" n="4"/>those first, ancient, and most holie Fa 
+          <lb ed="#L" n="5"/>thers: who againe by tradition, did  
+          <lb ed="#L" n="6"/>faithfully deliver it to their posterity.  
+          <lb ed="#L" n="7"/>Heer are to be rememhred those great 
+          <lb ed="#L" n="8"/>lightes of the worlde, <name>Adam</name>, <name>Seth</name>,  
+          <lb ed="#L" n="9"/><name>Methusalem</name>, <name>Noe</name>, <name>Sem</name>, <name>Abraham</name>, 
+          <lb ed="#L" n="10"/><name>Isaac</name>, <name>Jaacob</name>, <name>Amram</name>, and his sonne  
+          <lb ed="#L" n="11"/><name>Moses</name>, who at Gods commaunde 
+          <lb ed="#L" n="12"/>ment, did in writing comprehend the  
+          <lb ed="#L" n="13"/>historie and traditions of the holie fa 
+          <lb ed="#L" n="14"/>thers, whereunto he joined the writ 
+          <lb ed="#L" n="15"/>ten lawe, and exposition of the lawe,  
+          <lb ed="#L" n="16"/>togither with a large and lightsome  
+          <lb ed="#L" n="17"/>historie of his owne life time. After  
+          <lb ed="#L" n="18"/><name>Moses</name>, God gave to his Church most  
+          <lb ed="#L" n="19"/>excellent men, Prophets and priests,  
+          <lb ed="#L" n="20"/>who also by worde of mouth and wri 
+          <lb ed="#L" n="21"/>tinges, did deliver to their posteritie  
+          <lb ed="#L" n="22"/>that which they had learned of the  
+          <lb ed="#L" n="23"/>Lorde. After them came the Onelie  
+          <lb ed="#L" n="24"/>begotten sonne of God himselfe  
+          <lb ed="#L" n="25"/>downe from heaven into the world,  
+          <lb ed="#L" n="26"/>and fulfilled all, whatsoever was 
+          <lb ed="#L" n="27"/>founde to be written of himselfe in  
+          <lb ed="#L" n="28"/>the Lawe, and the Prophetes. The  
+          <lb ed="#L" n="29"/>same also taught a most absolute  
+          <lb ed="#L" n="30"/>meane howe to live well and holily :  
+          <lb ed="#L" n="31"/>Hee made the Apostles his witnesses.  
+          <lb ed="#L" n="32"/>Which witnesses did afterwardes,  
+          <lb ed="#L" n="33"/>first of al with a lively expressed voice,  
+          <lb ed="#L" n="34"/>preach all thinges which the Lorde  
+          <lb ed="#L" n="35"/>had taught them, and then, to the in 
+          <lb ed="#L" n="36"/>tent that they shoulde not be corrup 
+          <lb ed="#L" n="37"/>ted, or cleane taken out of mans re 
+          <lb ed="#L" n="38"/>membrance, they did commt it to  
+          <lb ed="#L" n="39"/>writing : so that nowe we have from  
+          <lb ed="#L" n="40"/>the Fathers, the Prophets and Apo 
+          <lb ed="#L" n="41"/>stles, the word of God as it was prea 
+          <lb ed="#L" n="42"/>cthed and written. These things had 
+          <lb ed="#L" n="43"/>their beginning of one &amp; the same spi 
+          <lb ed="#L" n="44"/>rite of God, and doe tend to one ende,  
+          <lb ed="#L" n="45"/>that is, To teach us men how to live  
+          <lb ed="#L" n="46"/>well and holily. He that beleeveth not  
+          <!--14.xml-->
+          <pb ed="#L" n="14"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>these men, and namely the onely be 
+          <lb ed="#L" n="2"/>gotten Sonne of God, whom I pray 
+          <lb ed="#L" n="3"/>you will be beleeve: We have heer the 
+          <lb ed="#L" n="4"/>most holy, innocent, upright living,  
+          <lb ed="#L" n="5"/>most praise woorthy, most just, most  
+          <lb ed="#L" n="6"/>aunctient, most wise, and most divine  
+          <lb ed="#L" n="7"/>men of the whole world and compasse  
+          <lb ed="#L" n="8"/>of the earth, and briefly, such men as  
+          <lb ed="#L" n="9"/>are by all means without comparison.  
+          <lb ed="#L" n="10"/>All the world can not shew us the like 
+          <lb ed="#L" n="11"/>againe, although it should wholie a  
+          <lb ed="#L" n="12"/>thousand times be assembled in coun 
+          <lb ed="#L" n="13"/>cels. The holy Emperor Constantine  
+          <lb ed="#L" n="14"/>gathered a generall councell out of all  
+          <lb ed="#L" n="15"/>the compasse of the earth, thither came  
+          <lb ed="#L" n="16"/>there togither out of all the worlde,  
+          <lb ed="#L" n="17"/>three hundred and eighteene most ex 
+          <lb ed="#L" n="18"/>cellent Fathers. But they that are  
+          <!--14.xml-->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>of the wisest fort will saie, that these  
+          <lb ed="#L" n="2"/>are not so much as shadowes, to be  
+          <lb ed="#L" n="3"/>compared to them of whom wee have  
+          <lb ed="#L" n="4"/>received the worde of God. Let us  
+          <lb ed="#L" n="5"/>therefore in all thinges beleeve the  
+          <lb ed="#L" n="6"/>worde of God, delivered to us by the  
+          <lb ed="#L" n="7"/>Scriptures. Let us thinke that the  
+          <lb ed="#L" n="8"/>Lorde himelfe, which is the verie  
+          <lb ed="#L" n="9"/>living and eternall God, doth speake  
+          <lb ed="#L" n="10"/>to us by the Scriptures. Let us for  
+          <lb ed="#L" n="11"/>evermore praise the name and good 
+          <lb ed="#L" n="12"/>nesse of him, who hath vouched safe so  
+          <lb ed="#L" n="13"/>faithfully, fully and plainely, to open 
+          <lb ed="#L" n="14"/>to us miserable mortall men, all  
+          <lb ed="#L" n="15"/>the meanes howe to live well and ho 
+          <lb ed="#L" n="16"/>lilie.
+          </p>
+          <p>
+          <lb ed="#L" n="17"/>To him be praise, honour, and glo 
+          <lb ed="#L" n="18"/>rie, for evermore, Amen.
+          </p>
+</div>
+    </body>
+  </text>
+</TEI>
