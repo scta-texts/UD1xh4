@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 1, Sermo 6 [Bern 1558 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Charlotte Feidicker</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 1, Sermo 6 [Bern 1558 Transcription]</title>
+          <date when="2019-10-15">October 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-U78DFf">Bern 1558</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="de">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="19-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-2QvvyF">
+        <p>
+      <pb ed="#B" n="141"/> 
+      <lb ed="#B" n="1"/>ln den nechstvergangnen zweyen predigen han ich gredt vom 
+      <lb ed="#B" n="2"/>waaren glauben und seinen krefften oder würckungen / unnd hab un- 
+      <lb ed="#B" n="3"/>der anderem gemaeldet das die Artickel unsers Christlichen glau- 
+      <lb ed="#B" n="4"/>bens die gantze summ deß waaren glaubens begreiffind. Deßhalb mich nun für 
+      <lb ed="#B" n="5"/>gut ansicht / achten auch das mein ampt soellichs erfordere / das ich eüwer liebe 
+      <lb ed="#B" n="6"/>nun auch mit kurtzen worten die selben zwoelff artickel unsers glaubens erklae- 
+      <lb ed="#B" n="7"/>re / welche dann gleich sind als ein materi / darinnen der glaub stadt. Dann die- 
+      <lb ed="#B" n="8"/>weyl der glaub ein substantz ist deren dingen die man hoffet / so wirt inn disen 
+      <lb ed="#B" n="9"/>articklen außtruckt kurtz und einfaltig / welches die ding seyend die man hoffen 
+      <lb ed="#B" n="10"/>sol. Es sol aber niemandt meynen das ich von disen articklen neyßwan nach 
+      <lb ed="#B" n="11"/>der lenge unnd volkommenlich reden oder disputieren woelle / dann ich sie kurtz 
+      <lb ed="#B" n="12"/>uberlauffen unnd das notwendigest darauß anzeigen wil. Es wirt sonst offt 
+      <lb ed="#B" n="13"/>weytloeuffiger darvon geredt. Ir woellind aber den Herren mit mir anrueffen 
+      <lb ed="#B" n="14"/>und bitten / das er uns seine waeg eroffnen / auch darinn leiten und erhalten woel- 
+      <lb ed="#B" n="15"/>le / zum preyß seines nammens und unser seelen ewigem heyl.  
+      <lb ed="#B" n="16"/>Erstlichen muß ich eüwer lieb berichten von dem nammen / da man die ar- 
+      <lb ed="#B" n="17"/>tickel unsers glaubens gemeynlich nennt das Symbolum oder den glauben 
+      <lb ed="#B" n="18"/>der Apostlen. Symbolum heißt ein zusammen steürung oder vergleichung 
+      <lb ed="#B" n="19"/>und ein anzeigung. Also werdend aber die artickel deß glaubens ein Symbolum 
+      <lb ed="#B" n="20"/>das ist ein zusammensteürung genennt oder vergleichung / das sie geschriben 
+      <lb ed="#B" n="21"/>und gmachet sind auß der zusammensteürung unnd vergleichung der leer der  
+      <lb ed="#B" n="22"/>heiligen Apostlen / das sie seyend ein regel und ein kurtzer innhalt deß glaubens /  
+      <lb ed="#B" n="23"/>den die heiligen Apostel prediget / und den die heilig allgemeyn kirch hat ange- 
+      <lb ed="#B" n="24"/>nommen. Wer aber dise artickel also zum ersten habe geschriben unnd geord- 
+      <lb ed="#B" n="25"/>net / das ist nit offenbar und wirt inn der geschrifft nienen gemeldet. Ettliche 
+      <lb ed="#B" n="26"/>gebend soellichs den Apostlen selbs zu / und nennents darumb / das Symbolum 
+      <lb ed="#B" n="27"/>der Apostlen / das sie es selbst habind gemachet. Der heilig Marterer Cypria- 
+      <lb ed="#B" n="28"/>nus inn der außlegung die er uber die artickel deß glaubens geschriben hatt / 
+      <lb ed="#B" n="29"/>schreibt under anderem ein soelliche meynung. Unser alt vorderen / spricht er / ge- 
+      <lb ed="#B" n="30"/>bend uns ein soellichs an / das namlich nach der auffart deß Herren / als auff al- 
+      <lb ed="#B" n="31"/>len Aposteln fheürine zungen / durch die zukunfft deß heiligen geists gesaessen / 
+      <lb ed="#B" n="32"/>also das sie mitt zertheyltem und mancherley sprachen rettend / dadurch ihnen  
+      <lb ed="#B" n="33"/>alle voelcker / land / zungen und nationen als vil als auffgethan wurdend / Und 
+      <lb ed="#B" n="34"/>inen der Herz gebotten / daß sie das wort Gottes zu predigen in alle land unnd 
+      <lb ed="#B" n="35"/>Nationen zugind. Da habind sie nun als sie von ein andern ziehen woellen / ein 
+      <lb ed="#B" n="36"/>gmeyne regel irer leer unnd predig mit einanderen gestellt / damit sie nit / wenn 
+      <lb ed="#B" n="37"/>sie von ein anderen kaemind / ungleiche ding fürtruegind / denen die durch sie zum 
+      <lb ed="#B" n="38"/>glauben Christi beruefft wurdind. Und habind deßhalben einhaelligklich mit 
+      <lb ed="#B" n="39"/>ein anderen / erfüllt mit dem heiligen geist / dise kurtze regel und anzeigung irer 
+      <lb ed="#B" n="40"/>leer die sie der welt fürtragen / unnd den gloeubigen zuhalten angeben woeltind 
+      <lb ed="#B" n="41"/>gestellt und geordnet / und hierzu habe ein yegklicher was inn von noeten sein 
+      <lb ed="#B" n="42"/>bedunckt herfür bracht unnd anzeigt. Das schreibt Cyprianus. Nun / es ha- 
+      <lb ed="#B" n="43"/>bind aber die Apostel selbs oder andere Apostolischen maenner dises gmachet / 
+      <lb ed="#B" n="44"/>so ist doch offenbar / das nützit darinn ist / nach geleert wirt / dann die waar rein 
+      <lb ed="#B" n="45"/>Apostolisch leer. Anzeigungen aber werdend die zwoelff artickel unsers glau- 
+
+      <pb ed="#B" n="142"/>
+      <lb ed="#B" n="1"/>bens genennt darumb / das bey disem gmerck / als by einer gwissen anzeigung /  
+      <lb ed="#B" n="2"/>die waaren und falschen Christen voreinanderen erkennt werdend.  
+      <lb ed="#B" n="3"/>Was ordnung aber ich im außleggen diser articklen halten woelle / muß ich 
+      <lb ed="#B" n="4"/>eüwer lieb auch anzeigen. Sie moechtind wol inn vier teyle getheylt werden / als 
+      <lb ed="#B" n="5"/>das die drey ersten teyle begriffind die gheimnussen der dreyen personen der ei- 
+      <lb ed="#B" n="6"/>nigen Gottheyt / und der vierdte theyl / die frücht deß glaubens / was wir nam- 
+      <lb ed="#B" n="7"/>lich guts auß dem glauben zu erwarten habind / unnd was Gott seinen gloeubi- 
+      <lb ed="#B" n="8"/>gen schaencke und gaebe. Aber wir woellend uns der ordnung halten und vernue- 
+      <lb ed="#B" n="9"/>gen / wie die artickel all zwoelff ein anderen nach gesertzt und geordnet find.  
+      <lb ed="#B" n="10"/>So ist nun das der erst artickel deß Christenlichen glaubens / Ich glaub in  
+      <lb ed="#B" n="11"/>Gott) vatter den allmaechtigen Nschoepffer himmels unnd der erden.  
+      <lb ed="#B" n="12"/>Diser erst artickel begreifft zwey ding. Dann zum ersten so sagend wir inn ge- 
+      <lb ed="#B" n="13"/>meyn / Ich glaub in Gott / darnach gleich darauff sertzend wir auch den under- 
+      <lb ed="#B" n="14"/>scheyd der personen / namlich / vatter den allmaechtigen / dann es ist ein Gott im 
+      <lb ed="#B" n="15"/>waesen / aber dreypersonen. Die einigkeyt deß waesens truckend wir heitter auß /  
+      <lb ed="#B" n="16"/>so wir spraechend / Ich glaub inn Gott. Dargegen haltend wir auch den under- 
+      <lb ed="#B" n="17"/>scheyd der personen / und vermischend die nit / mit dem das wir gleich darauff 
+      <lb ed="#B" n="18"/>sezend / Inn den vatter allmaechtigen / Und in Iesum Christum seinen einge- 
+      <lb ed="#B" n="19"/>bornen sun / und in den heiligen geist. Darumb so soellend wir glauben das Gott 
+      <lb ed="#B" n="20"/>einfalt / einig und lauter sye an seinem waesen und substantz / der personen halb 
+      <lb ed="#B" n="21"/>aber dreyfalt / der vatter / sun unnd heilig geist. Dann im gsatzt stadt geschri- 
+      <lb ed="#B" n="22"/>ben / Hoer Israel / Der Herr unser Gott ist ein einiger Gott. Dargegen laesend 
+      <lb ed="#B" n="23"/>wir aber auch / daz der Herr im Evangelio gesprochen / Tauffend sie in den nam- 
+      <lb ed="#B" n="24"/>men deß vatters suns und heiligen geists.  
+      <lb ed="#B" n="25"/>Desonders ist aber hie zu mercken / daz wir im glauben nit spraechend / wir glau- 
+      <lb ed="#B" n="26"/>bend / als wie wir aber im vatter unser so wir baettend / spraechend / Vatter unser 
+      <lb ed="#B" n="27"/>der du bist in himmlen / Gib uns unser taeglich brot ect. sonder so wir den glauben 
+      <lb ed="#B" n="28"/>bekenen woelled / so spraechend wir / Ich glaube / und nit / Wir glaubend / dan es wirt 
+      <lb ed="#B" n="29"/>der glaub von eim yeden besonders erfordert / das er den vest im hertzen halte/ 
+      <lb ed="#B" n="30"/>und einfaltigklich mit dem mund bekenne. Abraham hat nitt moegen glauben 
+      <lb ed="#B" n="31"/>für alle seine nachkomnen. So nützt es auch dich nit wen schon ein andrer glaubt 
+      <lb ed="#B" n="32"/>und du aber nit glaubst / denn Gott erfordert von eim yeden besonder den glau- 
+      <lb ed="#B" n="33"/>ben. Darumb so wir den glauben bekennen woellend / sagend wir alle / Ich glau- 
+      <lb ed="#B" n="34"/>ben. Was aber glauben sey / hab ich doben in der vierten predig erleütteret.  
+      <lb ed="#B" n="35"/>Auff das volget inn der bekantnuß das wir spraechend / Ich glaub in Gott.  
+      <lb ed="#B" n="36"/>Gott ist der gegensatz und der grund unsers glaubens / als der da ist das ewig /  
+      <lb ed="#B" n="37"/>hoechst / unerschoepfft / und gnadreich gut. Darumb so glaubend wir in Gott / das 
+      <lb ed="#B" n="38"/>ist / wir setzend alle hoffnung hilff und trost auff inn / ja begebend uns selbs gar 
+      <lb ed="#B" n="39"/>auff inn / als auff den / der uns erhalten / und alles guts geben kan und mag.  
+      <lb ed="#B" n="40"/>Darumm volget auch / wer der Gott sye / auff den wir uns also vlassend und bege- 
+      <lb ed="#B" n="41"/>bed / namlich / der allmaechtig vatter. Ein vatter wirt unser Gott genent / von we 
+      <lb ed="#B" n="42"/>gen daz er von ewigkeit har geboren hat ein sun der im gleich / dann die gschrifft neünt 
+      <lb ed="#B" n="43"/>Gott ein vatter unsers Herren Jesu Christi. Diser / spricht Paulus / ist der glaetz 
+      <lb ed="#B" n="44"/>der herzligkeit / und ein außtruckt ebenbild deß waesens deßvatters / zu woelchem 
+      <lb ed="#B" n="45"/>er auch gesprochen / Du bist mein sun / hüt hab ich dich geboren. Und abermals / 
+      <lb ed="#B" n="46"/>Ich wird im ein vatter sein / und er wirt mir ein sun sein. Darnach so wirt auch 
+      <lb ed="#B" n="47"/>Gott ein vatter genennt / von wegen der gleicheit die da ist zwüschend im und 
+      <lb ed="#B" n="48"/>eim irrdischen vatter / das ist von wegen der schoepffung / deß gunsts / der liebe / 
+      <lb ed="#B" n="49"/>der fürsorg und sorgseltigkeyt die er zu uns tregt. Dann von Gott sind wir alle 
+      <lb ed="#B" n="50"/>erschaffen / Gott liebet uns / versorget all unsere sachen / ist sorgfaeltig für uns /  
+      <lb ed="#B" n="51"/>ja vil mer dann kein irrdischer vatter. Dann David spricht / wie früntlich ein  
+      <!--143.xml-->
+      <pb ed="#B" n="143"/>
+      <lb ed="#B" n="1"/>vatter ist gegen seinen kinden / also fründtlich ist auch Gott gegen denen die in 
+      <lb ed="#B" n="2"/>foerchtend / dann er weißt unser gschoepfft / und ist eingedenck das wir staub find.  
+      <lb ed="#B" n="3"/>Und Esaias am vliv. cap. Mag auch ein mutter ires kinds vergessen / das sie 
+      <lb ed="#B" n="4"/>sich seinen nicht erbarme / und ein hertzliche anmutung trage gegen dem das sie 
+      <lb ed="#B" n="5"/>auß irem leib geboren: Und ob schon müglich daz sie sein vergesse / so wil ich doch 
+      <lb ed="#B" n="6"/>deinen nit vergessen. Darinn gar eigentlich außtruckt wirt / der gut unnd ge- 
+      <lb ed="#B" n="7"/>neigt will gegen uns. Unnd so wir bekennend und spraechend / das Gott unser 
+      <lb ed="#B" n="8"/>vatter seye / bekennend und versaehend wir damitt auch das wir glaubind / das 
+      <lb ed="#B" n="9"/>Gott genaedig / guetig unnd barmhertzig gegen unns sey / der auch nützit dann 
+      <lb ed="#B" n="10"/>guts und heilsams gegen uns fürnemme / ja das wir von im habind alles guts 
+      <lb ed="#B" n="11"/>an leib und an seel.  
+      <lb ed="#B" n="12"/>Allmaechtig aber wirt Gott genennt / darumb das er alle ding vermag / al- 
+      <lb ed="#B" n="13"/>ler dingen Herr ist / und im alles underworffen ist. Darumb er auch ein Herr 
+      <lb ed="#B" n="14"/>der herrscharen genennt wirt / dann himmel und erden und was darinn ist / daz 
+      <lb ed="#B" n="15"/>gestirn / alle element / menschen / Engel / Teüffel / alle thier / alle geschoepfften /  
+      <lb ed="#B" n="16"/>sind in dem gwalt deß hoechsten und ewigen Gottes / was er heißt das mussend 
+      <lb ed="#B" n="17"/>sie thun / und nützit ist das seinem willen widerstan moege / was er wil das muß 
+      <lb ed="#B" n="18"/>sein. Er braucht auch dise ding alle nach seinem willen und gefallen / unnd ye 
+      <lb ed="#B" n="19"/>nach dem es sein gerechtigkeyt und der menschen heyl erforderet. Und wie wir 
+      <lb ed="#B" n="20"/>gleich hie vor bekennt / das uns Gott wol woelle / also bekennend wir hie / das er 
+      <lb ed="#B" n="21"/>auch moege das er wil / dann wir bekennend das Gott allmaechtig sey / das ist /  
+      <lb ed="#B" n="22"/>das im nützit unmüglich alles deß das den menschen nutzlich unnd notwendig 
+      <lb ed="#B" n="23"/>ist / ja das er aller dingen Herr und unser starcker helffer sey.  
+      <lb ed="#B" n="24"/>Das aber Gott unser Vatter / gut / genaedig und barmhertzig / auch starck /  
+      <lb ed="#B" n="25"/>allmaechtig / aller dingen Herr / unser schirmer unnd erretter sey / das wirt inn 
+      <lb ed="#B" n="26"/>seinen wunderbaren wercken erklaert / dann er ist ein schoepffer deß himmels 
+      <lb ed="#B" n="27"/>und der erden. Mit welcher schoepffung deß himmels unnd der erden / er gar 
+      <lb ed="#B" n="28"/>eigentlich erklaert hatt / wie er gegen den menschen gesinnet seye / Dann do sie 
+      <lb ed="#B" n="29"/>noch nit warend / unnd deßhalb mit keinen wercken noch verdiensten umb inn 
+      <lb ed="#B" n="30"/>beschulden mochtend / das er ihnen guts thete / da hatt er auß seiner lautteren 
+      <lb ed="#B" n="31"/>gnad / unnd natürlichen guete / himmel unnd erden erschaffen / ja den herzlichen 
+      <lb ed="#B" n="32"/>schoenen Pallast / und ihnen den zu bewonen eingeben / auch alle creaturen diser 
+      <lb ed="#B" n="33"/>gantzen welt dem menschen underworffen. Was grossen kraffts und gwalts 
+      <lb ed="#B" n="34"/>er aber erzeigt unnd geübt habe in der schoepffung aller dingen / das erscheint 
+      <lb ed="#B" n="35"/>auß dem / das er allein geredt / unnd es ist alles worden / er hatt allein gebotten / 
+      <lb ed="#B" n="36"/>und es ist alles erschaffen / welches so mans eygentlich besicht unnd bedenckt /  
+      <lb ed="#B" n="37"/>was ee die sechs tag einanderen nach erschaffen / wie ordenlich / wie zierlich al- 
+      <lb ed="#B" n="38"/>les / wie nutzlich den menschen / wie auch on alle arbeit / als dann soellichs nach 
+      <lb ed="#B" n="39"/>der lenge von Mose Gen. am ersten Capit. beschriben wirt / so muß man gantz 
+      <lb ed="#B" n="40"/>erstaunen ab der unsaglichen guete unnd krafft Gottes. Darbey muessend wir 
+      <lb ed="#B" n="41"/>aber von Gott dem schoepffer auch also halten / das er nit nur alles durch seinen 
+      <lb ed="#B" n="42"/>sun der die ewig weißheyt ist erschaffen habe sichtbars und unsichtbars / unnd 
+      <lb ed="#B" n="43"/>das auß nichts / sonder das er auch yetzund alles nichts weniger durch seinen 
+      <lb ed="#B" n="44"/>ewigen geist erhalte / schirme / treibe und regiere / on welchen geist es alles bald zer- 
+      <lb ed="#B" n="45"/>fallen und zu nichte wurde. Darumm so bekenend wir in disen worten auch die fürsich 
+      <lb ed="#B" n="46"/>tigkeyt und weißheyt deß ewigen Gottes / durch welche alle ding erhalten werdend.  
+      <lb ed="#B" n="47"/>Diß ist nun von dem ersten teyl / und von ersten artickel deß glaubens / in wel- 
+      <lb ed="#B" n="48"/>chem erklaert ist / was da antrifft die eigenschafft Gott deß vatters. Dann er ist 
+      <lb ed="#B" n="49"/>ein vatter / ja ein vatter unsers Herren Jesu Christi / und auch ein vatter und Herr 
+      <lb ed="#B" n="50"/>unser aller ein schoepffer deß himmels und der erden ein verwalter und erhalter 
+      <lb ed="#B" n="51"/>aller dingen / auß dem alle ding sind / und in den alle ding bestond. Auß dem wirt 
+      <!--144.xml-->
+      <pb ed="#B" n="144"/>
+      <lb ed="#B" n="1"/>von ewigkeit har geboren ein ewiger sun / der dem vatter gleich / eins waesens /  
+      <lb ed="#B" n="2"/>eines gwalts und einer herzligkeit mit Gott dem vatter / durch welchen er auch 
+      <lb ed="#B" n="3"/>die welt gemachet hat. Und von denen beyden gadbt auß der heilig geist / wie 
+      <lb ed="#B" n="4"/>der heilig David auch soellichs bezeüget / da er spricht / durch das wort deß Her- 
+      <lb ed="#B" n="5"/>ren sind die himmel erschaffen / und durch den geist seines munds all ire heerzüg.  
+      <lb ed="#B" n="6"/>Nun so volget der ander theyl deß glaubens / in welchem begriffen werdend 
+      <lb ed="#B" n="7"/>alle stuck und geheimnussen die do antraeffend den sun Gottes unseren Herren 
+      <lb ed="#B" n="8"/>Iesum Christum. Und lautet der selbig ander artickel unsers Christlichen 
+      <lb ed="#B" n="9"/>glaubens von wort zewort also. Und inn Iesum Christum seinen einigen 
+      <lb ed="#B" n="10"/>Sun unseren Herren. Diser artickel begreifft zwey ding / Eins / das wir 
+      <lb ed="#B" n="11"/>glaubind inn den Sun Gottes. Das ander / Wer der Sun Gottes sey. Dann 
+      <lb ed="#B" n="12"/>wir bekennend hiemit / das wir glaubind / das ist / alles vertrauwen unnd hoff- 
+      <lb ed="#B" n="13"/>nung deß lebens und der faeligkeyt inn den Sun setzind gleich wie inn den vat- 
+      <lb ed="#B" n="14"/>ter. Darumm spraechend wir außtruckenlich / Ich glaub in Iesum Christum / wie 
+      <lb ed="#B" n="15"/>wir doben gesprochen / Ich glaub inn Gott vatter etct. Dann also leert uns der 
+      <lb ed="#B" n="16"/>Herr Jesus selbs Iohan. viiii. da er spricht / Ewer hertz werde nit betruebt / Glau 
+      <lb ed="#B" n="17"/>bend ir in Gott / so glaubend auch in mich. Item / das ist das werck Gottes / das 
+      <lb ed="#B" n="18"/>ir glaubind in den / den er gesendt hat. Und / das ist das ewig leben / das sie er- 
+      <lb ed="#B" n="19"/>kennind dich vatter den einigen waaren Gott sein / unnd den du gesendt hast 
+      <lb ed="#B" n="20"/>Iesum Christum. So laesend wir auch im Evangelio Iohannis / das der Herr 
+      <lb ed="#B" n="21"/>zu dem blinden den er sehend gemachet hat gesprochen / Glaubst du inn den sun 
+      <lb ed="#B" n="22"/>Gottes: Do antwortet der blind der yetz sehend was worden / Herr / welcher 
+      <lb ed="#B" n="23"/>ists / auff das ich in inn glaube / Do sprach der Herr darauff / du hast in gesehen 
+      <lb ed="#B" n="24"/>und der mit dir redt der ists / Er aber sprach / Herr ich glaub / und baettet in an.-  
+      <lb ed="#B" n="25"/>Also lassend unns auch glauben unnd anbaetten / ja glauben das Iesus sey der  
+      <lb ed="#B" n="26"/>waar sun Gottes deß vatters / gleiches gwalts mit dem vatter / doch ein under- 
+      <lb ed="#B" n="27"/>scheidne person von Gott dem vatter / wie Daund soellichs außtruckt / da er 
+      <lb ed="#B" n="28"/>spricht / Der Herr hatt geredt zu meynem Herren / sitz zu meiner gerech- 
+      <lb ed="#B" n="29"/>ten etc.  
+      <lb ed="#B" n="30"/>Wer aber der Sun Gottes sey inn den wir also glaubend / das bekennend 
+      <lb ed="#B" n="31"/>wir weytloeuffig. Darinnen drey stuck zu mercken sind / Das erst ist / das wir 
+      <lb ed="#B" n="32"/>in nennend deneinigen Sun. Ist er nun ein Sun / und ein Sun Gotts deß vat- 
+      <lb ed="#B" n="33"/>ters / so volget deßhalb das sein natur unnd waesen / ein Goettliche natur / unnd 
+      <lb ed="#B" n="34"/>ein Goettlichs waesen sey. Dann darumb nennt ihn Sanct Paulus ein glantz 
+      <lb ed="#B" n="35"/>der herzligkeyt deß vatters / unnd ein außgetruckt ebenbild seines waesens. Da- 
+      <lb ed="#B" n="36"/>rumb wirt auch dem Sun von den heiligen vaetteren recht zugeben das er ei- 
+      <lb ed="#B" n="37"/>ner substantz unnd eines wesens mitt Gott dem vatter seye.  
+      <lb ed="#B" n="38"/>Dahar dann auch dienet das er genennt wirt der einig oder eingebornen / 
+      <lb ed="#B" n="39"/>unnd erstgeboren sun Gottes / dann wir menschen werdend auch kinder Got- 
+      <lb ed="#B" n="40"/>tes genent / aber nit von wegen der gemeynsamme der natur / oder das wir Gott 
+      <lb ed="#B" n="41"/>gleich sygind im wesen und inn der natur / sonder durch die auffnemmung der  
+      <lb ed="#B" n="42"/>gnaden. Und das ergeret die Iuden nit am Herren das er sich ein sun Gottes 
+      <lb ed="#B" n="43"/>nannt / wie dann alle gloeubigen kinder Gottes sind und genennt werdend / son- 
+      <lb ed="#B" n="44"/>der das sie wol verstundend / das er ettwas groessers von ihm selb fürgab /  
+      <lb ed="#B" n="45"/>Namlich das er waere der natürlich Sun Gottes / Gott gleich / ja Gott selbst.  
+      <lb ed="#B" n="46"/>Dann also stadt im fünfften capitel deß Evangelisten Iohannis / Darumb 
+      <lb ed="#B" n="47"/>trachtetend ihm die Iuden vil mer nach / das sie ihn toedetind / das er nitt allein 
+      <lb ed="#B" n="48"/>den Sabbath brach / sonder auch sagt Gott sey sein vatter / unnd sich selbs also 
+      <lb ed="#B" n="49"/>Gott gleich machet. Unnd im zehenden Capitel Iohannis / nach dem er ge- 
+      <lb ed="#B" n="50"/>sprochen / Ich und der vatter sind eins / do hubend die Iuden stein auff / das sie 
+      <lb ed="#B" n="51"/>inn versteinigetind. Iesus aber antwortet inen / vil guter wercken hab ich eüch 
+      <!--145.xml-->
+      <pb ed="#B" n="145"/>
+      <lb ed="#B" n="1"/>erzeigt von meinem vatter / umb welches willen under den selben versteini- 
+      <lb ed="#B" n="2"/>gend ihr mich: Do antwortend ihm die Iuden und sprachend / Wir versteini- 
+      <lb ed="#B" n="3"/>gend dich von keines gutten wercks wegen / sonder von wegen der Gottoleste- 
+      <lb ed="#B" n="4"/>rung / und das du der ein mensch bist / dich selbst einen Gott machist. Welches 
+      <lb ed="#B" n="5"/>gar heittere zeügnussen sind der natürlichen Gottheyt Christi / Wer denen 
+      <lb ed="#B" n="6"/>nun nicht glaubt / der hat auch den vatter nicht / Dann wer den Sun ehret / der 
+      <lb ed="#B" n="7"/>ehret auch den vatter / Unnd wer den Sun nicht hatt / der hatt auch den vatter 
+      <lb ed="#B" n="8"/>nicht / Und so der Sun nicht were natürlicher Gott / so moechte er nicht sein ein  
+      <lb ed="#B" n="9"/>Heyland der welt.  
+      <lb ed="#B" n="10"/>Demnach so wirt aber auch außtrukt der namm diß eingebornen Suns Got- 
+      <lb ed="#B" n="11"/>tes / und wirt genennt Iesus Christus. Dernamm wirt darumb gesertzt / damit 
+      <lb ed="#B" n="12"/>wir inn der person nicht irrind / unnd das wir auß dem nammen verstandind /  
+      <lb ed="#B" n="13"/>wer der sey inn den wir also glaubend / das ist Iesus. Welcher namm ihm durch 
+      <lb ed="#B" n="14"/>ein himmlische eroffnung ist geben worden / wie dessen auch ertliche vorbildun- 
+      <lb ed="#B" n="15"/>gen vorgangen sind im alten Testament / als am Hauptmann Iosue / und an 
+      <lb ed="#B" n="16"/>Iesu dem Dbersten Priester. Dann der Engel gibt soellichen nammen Io- 
+      <lb ed="#B" n="17"/>sephen an / wie Mattheus schreibt unnd spricht / Maria wirt einen Sun gebae- 
+      <lb ed="#B" n="18"/>ren / deß nammen solt du nennen / Iesus / dann er wirt sein volck saelig machen 
+      <lb ed="#B" n="19"/>von ihren sünden. Darumb ist diser Sun Gottes Jesus / der welt Heyland /  
+      <lb ed="#B" n="20"/>unnd der / der unns alle sünd verzeihet / unnd unns von allem widerwertigen 
+      <lb ed="#B" n="21"/>gewallt erloeßt / welches er aber keins wegs vermoechte / so er nicht waarer 
+      <lb ed="#B" n="22"/>Gott waere.  
+      <lb ed="#B" n="23"/>Er wirt demnach auch Christus genennt / das als vil heißt / als ein gesalbe- 
+      <lb ed="#B" n="24"/>ter. Die Hebreer heissends Meßiam / welches woertlin gemeyn ist nitt nur den 
+      <lb ed="#B" n="25"/>Künigen sonder auch den Priesteren. Dann im alten Testament wurdend 
+      <lb ed="#B" n="26"/>die Künig unnd die Priester gesalbet / mitt ausserem oel / welches sein bedeüt- 
+      <lb ed="#B" n="27"/>nuß hatt auff ein anders. Christus aber ist gesalbet mitt dem rechten waaren 
+      <lb ed="#B" n="28"/>oel unnd waaren salbung / namlich mitt der vollkommenheyt deß heiligen 
+      <lb ed="#B" n="29"/>geists / wie Ioan. am ersten und dritten Capitel anzeigt wirt. Darumb wirt 
+      <lb ed="#B" n="30"/>der namm Christus recht und eigentlich unserem Herzen Iesu Christo zugeben.  
+      <lb ed="#B" n="31"/>Dann erstlich so ist er ein Künig und Priester deß volck Gottes / Demnach 
+      <lb ed="#B" n="32"/>so ist auch der heilig geist vollkommen und uberflüßig auff ihn gegossen / unnd 
+      <lb ed="#B" n="33"/>fleüßt von ihm als auß einem lebenden brunnen und ursprung inn alle seine gli- 
+      <lb ed="#B" n="34"/>der. Dann er ist der waar recht Aaron / auff dessen haupt gegossen ist das oel / 
+      <lb ed="#B" n="35"/>das hernach herab rünt in seinen bart / und in die aussersten endt seines kleids.  
+      <lb ed="#B" n="36"/>Dann von seiner voelle habend wir alle genommen etc.  
+      <lb ed="#B" n="37"/>Zuletst ist auch in disem anderen artickel zemercken / das wir den Sun Got 
+      <lb ed="#B" n="38"/>tes nennend / Unseren Herren. Das geschicht fürnemlich von zweyer ursachen 
+      <lb ed="#B" n="39"/>wegen. Zum ersten von wegen der geheymnuß der erloesung / Dann Christus 
+      <lb ed="#B" n="40"/>ist ein Herr aller außerwoelten / die er errettet hatt von dem gewallt unnd von 
+      <lb ed="#B" n="41"/>der herrschafft deß Teüffels / der sünden und deß Tods / und hatt sie ihm gema- 
+      <lb ed="#B" n="42"/>chet zu einem volck deß eygenthumbs. Unnd wirt diß also gleichnußweiß ge- 
+      <lb ed="#B" n="43"/>redt / als so ein Herr diener mitt gelt erkauffte / oder so yemandt ettliche die im 
+      <lb ed="#B" n="44"/>krieg gefangen bey dem leben behielte / die er aber wol hette moegen toeden / oder 
+      <lb ed="#B" n="45"/>so sonst yemandt ettliche verurtheylete von dem Todt erloßte / der waere ye- 
+      <lb ed="#B" n="46"/>tzund deren allen Herr / erloeser / helffer unnd behalter. Darauff redt Sanct 
+      <lb ed="#B" n="47"/>Paulus da er spricht / Ihr sind theür erkaufft / werdend nicht knecht der men- 
+      <lb ed="#B" n="48"/>schen. Unnd Sanct Peter / da er sagt / Ihr sind nit mit silber oder golder- 
+      <lb ed="#B" n="49"/>loeßt / sonder mitt dem kostlichen blut deß unbefleckten Lambs. Darnach 
+      <lb ed="#B" n="50"/>wirt auch Christus genennt unser Herr / von wegen seiner Goettlichen krafft 
+      <lb ed="#B" n="51"/>unnd natur / nach welcher ihm alle ding underworffen find. Unnd dieweyl 
+      <!--146.xml-->
+      <pb ed="#B" n="146"/>
+      <lb ed="#B" n="1"/>das woertli / Herr / weit langet und vil begreifft / auch erlicher maß die Gottheyt 
+      <lb ed="#B" n="2"/>und Mayestet unsers Herzen Iesu Christi / so habend die heiligen Apostel soel- 
+      <lb ed="#B" n="3"/>lichs vil braucht und dem Herren Christo gemeynlich zuben. Als wie Pau- 
+      <lb ed="#B" n="4"/>lus zun Corintheren spricht / ob schon vil Herren sind / so habend wir doch nur 
+      <lb ed="#B" n="5"/>einen Herzen Iesum Christum / durch welchen alle ding sind / und wir durch in.  
+      <lb ed="#B" n="6"/>Derdritt artickel deß Christenlichen glaubens lautet also / Der empfan- 
+      <lb ed="#B" n="7"/>gen ist von dem heiligen geist / geboren auß Naria der Jungkfrauwen.  
+      <lb ed="#B" n="8"/>Inn anderen articklen habend wir bekennt / das wir glaubind inn Iesum 
+      <lb ed="#B" n="9"/>Christum den Sun Gottes unseren Herren / darinn wir zu verston gebend / 
+      <lb ed="#B" n="10"/>das wir vest glaubind / das Gott der Vatter uns unnd zu unserem heyle seinen 
+      <lb ed="#B" n="11"/>Sun der welt geben habe zum erloeser unnd Heyland / dann das zeigend an die  
+      <lb ed="#B" n="12"/>woertli / Iesus / unnd Herr. Nun aber in disem dritten artickel / da erklaerend 
+      <lb ed="#B" n="13"/>wir weiß und maß / wie er inn dise welt seykommen / namlich durch die mensch- 
+      <lb ed="#B" n="14"/>werdung / Und begreifft der artickel zwey ding / die empfaencknuß namlich und  
+      <lb ed="#B" n="15"/>auch die geburt Christi. Von denen stucken will ich ein ander nach reden / 
+      <lb ed="#B" n="16"/>doch vorhin kurtz erleüteren die ursachen der menschwerdung deß Herren.  
+      <lb ed="#B" n="17"/>Es stund umb die menschen also / das es auß mit ihnen was / unnd hette das 
+      <lb ed="#B" n="18"/>gantz menschlich geschlecht muessen verloren sein / vonn wegen der sündenn 
+      <lb ed="#B" n="19"/>die unns allen anhangend / von unserem ersten vatter Adamen / dann der sün- 
+      <lb ed="#B" n="20"/>den sold ist der Todt. Und darumb so hettind wir nimmer moegen gehn him- 
+      <lb ed="#B" n="21"/>mel kommen / sonder hettind muessen inn die hell verstossen werden / wann nicht 
+      <lb ed="#B" n="22"/>der Sun Gottes zu uns herab auff erden kommen und unser waarer Emanuel 
+      <lb ed="#B" n="23"/>worden waere / unnd uns also mit ihm gehn himmel zogen hette. Darumb so 
+      <lb ed="#B" n="24"/>ist die fürnemmst ursach der menschwerdung Christi / das mittlen zwüschend 
+      <lb ed="#B" n="25"/>Gott und dem menschen / und mitt soellichem mittlen / dise widerwertigen par- 
+      <lb ed="#B" n="26"/>theyen widerumb versuenen unnd vereinbaren / Dann wo ein mittler ist / da 
+      <lb ed="#B" n="27"/>mussend auch zweyspaltungen unnd partheyen sein. Die vartheyen aber 
+      <lb ed="#B" n="28"/>sind / Gott eines theyls / anders theyls wir menschen / ursach der zwispaltung 
+      <lb ed="#B" n="29"/>und uneinigkeyt ist die sünd. Eines mittlers ampt aber ist / die zwispaeltigen 
+      <lb ed="#B" n="30"/>partheyen widerumb vereinbaren. Diß hatt aber nicht moegen sein / es wurde 
+      <lb ed="#B" n="31"/>dann die sünd die ein ursach der zwispaltung was / auffgehebt. Die sünd mag 
+      <lb ed="#B" n="32"/>aber nit versuent noch auffgehebt werden / dann durch blut vergiessen / und vol- 
+      <lb ed="#B" n="33"/>gendem todt / Das zeüget Paulus zun Hebreern am neündten Capitel. Da- 
+      <lb ed="#B" n="34"/>rumb hat unser mittler muessen unser fleisch und blut an sich nemmen / damit er 
+      <lb ed="#B" n="35"/>sterben und auch sein blut vergiessen koendte. Darzu so ist auch von noeten das 
+      <lb ed="#B" n="36"/>einer der ein schidman und mittler inn einer sach sein wil / nit ein saecher sonder 
+      <lb ed="#B" n="37"/>beyden partheyen gemeyn sey / die er versuenen wil. Darumb so hat Christus 
+      <lb ed="#B" n="38"/>unser Herr muessen sein / waarer Gott unnd auch waarer mensch. So er allein 
+      <lb ed="#B" n="39"/>Gott gewesen were / were er dem menschen forchtsam und erschrockenlich / und 
+      <lb ed="#B" n="40"/>unfuüeglich gewesen. So er dann allein ein mensch gewesen were / so hette er zu 
+      <lb ed="#B" n="41"/>Gott nicht moegen kommen / der ein verzeerend fewr ist. Darumb so ist unser 
+      <lb ed="#B" n="42"/>Herr Jesus Christus die beyde / waarer Gott und waarer mensch / und deßhalb 
+      <lb ed="#B" n="43"/>für beyde partheyen ein füegklicher beguemer mittler. Darvon zeüget der hei- 
+      <lb ed="#B" n="44"/>lig Apostel Paulus und spricht / Es ist ein Gott / und ein mittler Gottes und 
+      <lb ed="#B" n="45"/>deß menschen / der mensch Christus Iesus / der sich selbst geben hatt zur versue- 
+      <lb ed="#B" n="46"/>nung für yederman. Und zun Hebr. am ii. und iv. Capitel erzellt er vil daz zu diser  
+      <lb ed="#B" n="47"/>handlung dienet. Und im andern Capitel gedachter Epistel sertzt er noch ein  
+      <lb ed="#B" n="48"/>andere ursach der menschwerdung Christi und spricht / Er hat inn allweg soel- 
+      <lb ed="#B" n="49"/>len seinen brudern gleich werden / auff das er were ein barmhertziger und treü- 
+      <lb ed="#B" n="50"/>wer hoher Priester vor Gott zu versuenen die sünd deß volcks / dann darinnen 
+      <lb ed="#B" n="51"/>er gelitten hat und versucht ist / mag er auch helffen denen die versucht werdend.  
+      <!--147.xml-->
+      <pb ed="#B" n="147"/>
+      <lb ed="#B" n="1"/>Es ist auch der Sun Gottes unser Herr Jesus Christus mensch worden / das 
+      <lb ed="#B" n="2"/>er die menschen larte alle Gottsaeligkeyt unnd geraechtigkeyt / auch das er were 
+      <lb ed="#B" n="3"/>ein liecht der welt / und ein exempel der heiligkeyt deßlebens. Dann Paulus &amp; 
+      <lb ed="#B" n="4"/>spricht / Es ist erschinen die heilsam gnad Gottes allen menschen / unnd leert 
+      <lb ed="#B" n="5"/>uns / das wir verlaugnind das ungoettlich waesen und heiligklich laebind etc. In 
+      <lb ed="#B" n="6"/>summa / damitt er uns die wir durch die sünd von Gott abgescheiden warend /  
+      <lb ed="#B" n="7"/>mit Gott wider vereinbarete / und braechte in die gemeynschafft sein selbs und 
+      <lb ed="#B" n="8"/>aller seiner guetteren / so hat er sich begeben in die gemeynschafft unserer natur /  
+      <lb ed="#B" n="9"/>und die menschhyt an sich genommen.  
+      <lb ed="#B" n="10"/>Nun woellend wir besehen wie soellichs beschehen sey / da lauttet nun das ein 
+      <lb ed="#B" n="11"/>stückli disers artickels wie gemaeldet also / Empfangen vom heiligen geist. Wir 
+      <lb ed="#B" n="12"/>andern menschen alle werdend empfangen von maennlichem und deßhalb von 
+      <lb ed="#B" n="13"/>unreinem saamen / und werdend darumb sünder geboren / ja wie Paulus sagt /  
+      <lb ed="#B" n="14"/>kinder deß zorns. Aber das fleisch Chrsti / ja Christus unser Herr wirt in der 
+      <lb ed="#B" n="15"/>heiligen Iungkfrauwen Maria nit empfangen von Iosephen / oder von an- 
+      <lb ed="#B" n="16"/>derem maennlichen saamen / sonder vom heiligen geist / Nit daz der geist anstatt 
+      <lb ed="#B" n="17"/>des saamens gewesen sey / dann auß geist wirt nützit geboren dann geist / unser 
+      <lb ed="#B" n="18"/>Herr Jesus aber hatt kein fantaestischen leib / sonder ein waaren leib / gleicher 
+      <lb ed="#B" n="19"/>substantz und waesens wie auch wir / Darumb so ist er empfangen von dem hei- 
+      <lb ed="#B" n="20"/>ligen geist inn dem leib der Jungkfrauwen / also das der heilig geist durch sein 
+      <lb ed="#B" n="21"/>ewige krafft verschaffet hat / das Maria on verletzung ihr iungkfrauwschafft 
+      <lb ed="#B" n="22"/>fruchtbar ist worden / und empfangen hat uß iren eigne gebluet / und also den sun Got- 
+      <lb ed="#B" n="23"/>tes ein reinen und doch waren menschlichen leib gegeben hat. Welchs mit vilen worten 
+      <lb ed="#B" n="24"/>vom Engel Gabriel erleütert wirt im i. cap. Luce / welches ort ich hie übergon 
+      <lb ed="#B" n="25"/>wil / dann ich willens von den selbigen ein andermal weitleüffiger zereden. Und das 
+      <lb ed="#B" n="26"/>es aber mit diser empfaencknuß also zugon wurde / das hat Gott gleich von an- 
+      <lb ed="#B" n="27"/>fang der welt vorgesagt / dann in d ersten verheissung sprach er nit / der saamen deß 
+      <lb ed="#B" n="28"/>manns wirt der schlangen den kopff zertraetten / sonder der saamen deß weibs.  
+      <lb ed="#B" n="29"/>So spricht auch Gott durch die Propheten / Ich wil dem David einen saamen 
+      <lb ed="#B" n="30"/>erwecken. Dann es weißt ein yeder wol das gsatzt Mosis von dem erwecken deß 
+      <lb ed="#B" n="31"/>saamens deß abgestorbnen bruders. Wenn einer starb on kind / so mußt deß ab- 
+      <lb ed="#B" n="32"/>gestorbnen bruder das verlassen weib seines bruders nemmen / und kinder von 
+      <lb ed="#B" n="33"/>ir zeügen / die wurdend gehalten und genennt nit als seine / sonder als seines ab- 
+      <lb ed="#B" n="34"/>gestorbnen bruders kinder. Dieweil nun von Daviden keiner geboren was / der 
+      <lb ed="#B" n="35"/>do koente von einer Jungkfrauwen gebaeren den Sun Gottes den Heiland der  
+      <lb ed="#B" n="36"/>welt / so erweckt Gott selb dem David einen saamen unnd machet durch seinen 
+      <lb ed="#B" n="37"/>geist die heilig Jungkfrauwen Mariam fruchtbar. Welche wiewol sie von keinen 
+      <lb ed="#B" n="38"/>man empfangen hat der vom stammen Davids were / so was doch sie von dem ge- 
+      <lb ed="#B" n="39"/>schlecht Davids / und also fuegt es Gott / das dieweil der Sun Gottes / die sub- 
+      <lb ed="#B" n="40"/>stantz seiner menscheyt von irer substandtz hat angenommen / das er also von deß- 
+      <lb ed="#B" n="41"/>wegen ist und genent wirt ein sun Davids. So weissagt auch David im cx. Psal.  
+      <lb ed="#B" n="42"/>unnd spricht / Inn der zierd der heiligkeyt ist auß dem leib der morgenroete das 
+      <lb ed="#B" n="43"/>tow deiner geburt / oder das tow deiner geburt ist uß dem leib der morgenroete / 
+      <lb ed="#B" n="44"/>in der zierd der heiligkeit / das ist du wirst mitt zierlicher heiligkeit / unnd wun- 
+      <lb ed="#B" n="45"/>derbarer weiß geboren werden / Dann es wirt umb dein geburt ein gestalt ha- 
+      <lb ed="#B" n="46"/>ben / gleich wie umb das touw / das von heitterer morgenroete / als auß einer ge- 
+      <lb ed="#B" n="47"/>baermuter geboren wirt. Dann under tagen so zeücht die Sunn die feüchte auß 
+      <lb ed="#B" n="48"/>der erden / und dieweils nit so vil hitz hat / das sie gar moege auffzogen werden / so 
+      <lb ed="#B" n="49"/>truckts die zimlich abendt unnd nachtkelte wider unndersich / unnd machets 
+      <lb ed="#B" n="50"/>zu wasser. Also hatt Gott die Sonnen der gerechtigkeyt / auß der erden / 
+      <lb ed="#B" n="51"/>das ist auß dem leib der unbefleckten und reinen Iunckfrauwen Marie / fuchte 
+      <!--148.xml-->
+      <pb ed="#B" n="148"/>
+      <lb ed="#B" n="1"/>das ist gebluet außzogen / und also wunderbarer weiß mit aller heiligkeyt unnd 
+      <lb ed="#B" n="2"/>reinigkeyt verschaffet und gewürckt / das der heilig sun Gottes von der reinen 
+      <lb ed="#B" n="3"/>gebaermuter Marie empfangen und geboren ist worden.  
+      <lb ed="#B" n="4"/>Das aber der Sun Gottes in soellicher reinigkeyt / inn dem leib der heiligen 
+      <lb ed="#B" n="5"/>Jungkfrauwen Marie auff dise weiß hatt woellen empfangen werden / ist die 
+      <lb ed="#B" n="6"/>ursach / Das er / der inn dem leib der Jungkfrauwen empfangen ist / waarer 
+      <lb ed="#B" n="7"/>Gott ist. Gott aber ist ein verzeerend fewr / das kein unreinigkeyt erleiden 
+      <lb ed="#B" n="8"/>mag. Item / dieweyle er / unser Gott / kommen ist zu reinigen unsere mensch- 
+      <lb ed="#B" n="9"/>liche anerborne unreinigkeyt / so hat er ye muessen unserer erbsucht ledig unnd  
+      <lb ed="#B" n="10"/>loß / unnd in allweg heilig sein / damitt er also moechte sich selbs geben zu einem 
+      <lb ed="#B" n="11"/>heiligen unnd unbefleckten opffer das da geopfferet wurde für die sünd der  
+      <lb ed="#B" n="12"/>gantzen welt / unnd auff ein mal hinnemme alle sünd der selbigen. Dann 
+      <lb ed="#B" n="13"/>was befleckt ist / das kan kein befleckts reinigen / sonder eines unreinigkeyt 
+      <lb ed="#B" n="14"/>unnd befleckung wirt nur dest groesser / so auch deß anderen unreinigkeit dar- 
+      <lb ed="#B" n="15"/>zu kompt.  
+      <lb ed="#B" n="16"/>Das ander stückli aber dises dritten artickels ist das / das wir spraechend /  
+      <lb ed="#B" n="17"/>Geboren vonn Maria der Jungkfrauwen. Dann der Herr ist geboren 
+      <lb ed="#B" n="18"/>von Maria / die also sein mutter / unnd dennocht ein Iungkfrauw bliben.  
+      <lb ed="#B" n="19"/>Dieweyl er dann von einem menschen geboren / so ist er auch ein waarer 
+      <lb ed="#B" n="20"/>mensch. Sein geburt aber ist rein / dann er ist von einer Jungkfrauwen gebo- 
+      <lb ed="#B" n="21"/>ren / die also mit ein anderen ein Muter und auch ein Iungkfrauw ist. Dann 
+      <lb ed="#B" n="22"/>also hat auch Esaias gesprochen / Nimm war ein JIungkfrauw wirt empfahen 
+      <lb ed="#B" n="23"/>unnd gebaeren einen Sun. Ein Iungkfrauw spricht er wirt die ding beyde 
+      <lb ed="#B" n="24"/>thun / empfahen namlich und auch gebaeren / unnd dennocht ein Iungkfrauw 
+      <lb ed="#B" n="25"/>bleiben. Darumb so ist die geburt deß Suns Gottes gantz rein / und darne- 
+      <lb ed="#B" n="26"/>bend auch waarhafft / dann sein fleisch nicht nur von dem leib der Jungkfrau- 
+      <lb ed="#B" n="27"/>wen geboren / sonder auch von der substandtz der Jungkfrauwen Marie an-  
+      <lb ed="#B" n="28"/>genommen ist . Darumb dann auch der Herr ein Sun Davids genennt 
+      <lb ed="#B" n="29"/>wirt / Soellichs reimpte sich nitt / wenn er nitt von der Jungkfrauwen Maria 
+      <lb ed="#B" n="30"/>die ein Tochter deß geschlechts Davids was / sein fleisch unnd sein menschlichs 
+      <lb ed="#B" n="31"/>waesen hette angenommen. Welches eigentlich außzutrucken der heilig Evan- 
+      <lb ed="#B" n="32"/>gelist Iohannes sagt / Das wort ist fleisch worden. Unnd der heilig Apostel 
+      <lb ed="#B" n="33"/>Paulus / Er nimpt keine Engel an sich / sonder den saamen Abrahe. Und am 
+      <lb ed="#B" n="34"/>selben ort spricht er weytter / das der Herr seinen bruedern inn allweg sey gleich 
+      <lb ed="#B" n="35"/>worden / außgenommen die sünd. Und zun Philipperen / Do er Gott gleich 
+      <lb ed="#B" n="36"/>was / hat er doch sich selbst ernideret unnd die gestallt eines knechts an sich ge- 
+      <lb ed="#B" n="37"/>nommen / und ist worden gleich wie ein anderer mensch / und an gestallt als ein 
+      <lb ed="#B" n="38"/>mensch erfunden. So zeuget auch der heilig Apostel Iohannes unnd spricht /  
+      <lb ed="#B" n="39"/>Welcher geist bekennt den Herzen Iesum Christum kommen sein inn das 
+      <lb ed="#B" n="40"/>fleisch / der ist auß Gott / Unnd welcher geist nicht bekennt das Iesus Chri- 
+      <lb ed="#B" n="41"/>stus kommen sey im fleisch / der ist nicht auß Gott. Wie aber soelliche geburt 
+      <lb ed="#B" n="42"/>geschehen / beschreibt der heilig Lucas weytloeuffig inn dem anderen Capitel 
+      <lb ed="#B" n="43"/>seiner Evangelischen Histori / von welchem ein ander mal weytter wirt ge- 
+      <lb ed="#B" n="44"/>redt werden. Wir soellend hie lernen also glauben unnd bekennen / das Iesus 
+      <lb ed="#B" n="45"/>Christus der Sun Gottes empfangen sey von dem heiligen geist / und geboren 
+      <lb ed="#B" n="46"/>von Maria der Jungkfrauwen.  
+      <lb ed="#B" n="47"/>Der viert artickel unsers Christenlichen glaubens ist der / Gelitten under 
+      <lb ed="#B" n="48"/>Pontio Pilato / Treütziget agestorben unnd begraben. Ist abgefa- 
+      <lb ed="#B" n="49"/>ren zu den Vellen. Inn disem vierdten artickel wirdt erklaeret / das 
+      <lb ed="#B" n="50"/>ende / auch die fürnemmeste / frucht unnd nutzbarkeyt der menschwerdung 
+      <!--149.xml-->
+      <pb ed="#B" n="149"/>
+      <lb ed="#B" n="1"/>deß Herren. Dann darumb ist er mensch worden / das er moechte leyden 
+      <lb ed="#B" n="2"/>unnd sterben / unnd mitt disem seinem leiden unnd sterben unns vom ewigen 
+      <lb ed="#B" n="3"/>tod und von der pein der hellen erloesen / unnd uns reinigen unnd zu erben deß 
+      <lb ed="#B" n="4"/>ewigen laebens machen. Dann von deßends wegen ist der Herz gestorben / wie 
+      <lb ed="#B" n="5"/>wir bald anzeigen woellend / unnd Paulus erklaert soelichs nach der lenge zun 
+      <lb ed="#B" n="6"/>Hebreern am ix. Capitel.  
+      <lb ed="#B" n="7"/>Es hatt aber diser artickel auch seine stuck / die wir kurtz ein anderen nach 
+      <lb ed="#B" n="8"/>bsehen woellend. Zum ersten so bekennen wir das der Herr gelitten habe / ja war- 
+      <lb ed="#B" n="9"/>hafftigklich und nit vermeinter weiß. Dann er hat gelitten ellend und truebsal 
+      <lb ed="#B" n="10"/>diser zeit / demnach auch die pein und marter von denen die in creützigtend / deß- 
+      <lb ed="#B" n="11"/>gleichden bitteren todt selb / hat deßhalb gelitten am leib und auch am gemuet / 
+      <lb ed="#B" n="12"/>und das vilfaltiglich. Dann auch Esaias spricht / er ist ein man der schmerzen 
+      <lb ed="#B" n="13"/>wol erfaren hatt / und er tregt unsere kranckheiten unnd duldet unsere schmer- 
+      <lb ed="#B" n="14"/>tzen. So spricht auch der Herr im Evangelio selbst / Mein seel ist bekümmeret 
+      <lb ed="#B" n="15"/>biß in tod. Das alles aber hat er gelitten von unseretwegen / dann in im was 
+      <lb ed="#B" n="16"/>kein sünd oder ützit darumb er leiden soelte.  
+      <lb ed="#B" n="17"/>Zum anderen so wirdt auch gemeldet die zeit und der Richter Pontius Pi- 
+      <lb ed="#B" n="18"/>latus under welchem unser Herr Jesus Christus gelitten unnd die waelt vonn 
+      <lb ed="#B" n="19"/>der sünd / vom tod / vom Teuffel unnd der hellen erloeßt hatt. Namlich so hatt 
+      <lb ed="#B" n="20"/>der Herr gelitten under der Monarchi der Roemeren / zun zeiten deß Reisers 
+      <lb ed="#B" n="21"/>Tiberii / als ietz das Iudisch volck nach der weißsagung deß Ertzvatters Ja- 
+      <lb ed="#B" n="22"/>cobs oder Israels frembden herren underworffen was / unnd keine eigne kü- 
+      <lb ed="#B" n="23"/>nig oder fürsten vom Iüdischen stammen mehr hatt. Dann also hatt Iacob 
+      <lb ed="#B" n="24"/>vor gesagt / das zu der selben zeit / der Meßias kommen würde. So hatt es auch 
+      <lb ed="#B" n="25"/>der Herr im Evangelio selb vor seinem leiden offt vorgesagt / er wurde in die  
+      <lb ed="#B" n="26"/>haend der Heiden uberantwortet und von inen getoedt werden.  
+      <lb ed="#B" n="27"/>Zum dritten so truckend wir auch uß die weiß seines leidens / dann wir setzend 
+      <lb ed="#B" n="28"/>druff / creützget / und am creütz gestorben. Der tod deß creützes was nit nun der 
+      <lb ed="#B" n="29"/>aller schmaechlichest / sonder auch der aller schmerzlichest todt. Den hatt aber 
+      <lb ed="#B" n="30"/>der Herr auff sich genommen / das er für die waelt gnüg thaete. Es warend auch 
+      <lb ed="#B" n="31"/>im alten testament dessen etliche vorbildungen vorgangen / das der Herr ans 
+      <lb ed="#B" n="32"/>holtz wurde auffgehenckt werden. Dann do Isaac solt auffgeopfferet werden / 
+      <lb ed="#B" n="33"/>do ward er auff die holtzbigen gelegt. Item der ehrin schlang ward von 
+      <lb ed="#B" n="34"/>Mose an einem pfal auffgericht und auffgehenckt. So spricht auch der Herr 
+      <lb ed="#B" n="35"/>selb / Nach dem ich erhoecht wird / wil ich es alles zu mir ziehen. Am creütz ist er 
+      <lb ed="#B" n="36"/>auch gestorben und hat Gott seinen geist auffgeben. Ist ja warlich gestorben 
+      <lb ed="#B" n="37"/>wie bald hernach volgen wirdt. Da ich nun kurtz auch muß anzeigen die 
+      <lb ed="#B" n="38"/>frucht deß tods Christi. Erstlichen so warend wir verfluecht von wegen der 
+      <lb ed="#B" n="39"/>sünden / den fluch hat er nun auff sich genommen / ist auffgehenckt ans creütz / 
+      <lb ed="#B" n="40"/>damit er den fluch hinnemme / und wir in ihm gebenedeyet und gesegnet wur- 
+      <lb ed="#B" n="41"/>dind. Demnach so hatt uns die erbschafft / so uns durch das testament Got- 
+      <lb ed="#B" n="42"/>tes verordnet / nit moegen werden / der sturbe dann vor / der das testament ver- 
+      <lb ed="#B" n="43"/>ordnet und auffgericht. Gott aber hat soelichs testament verordnet unnd auff- 
+      <lb ed="#B" n="44"/>gericht. Welcher / damit er sterben moechte / so hatt er die menschheit an sich ge- 
+      <lb ed="#B" n="45"/>nommen / und ist gestorben nach der menschlichen natur / damit wir die erb- 
+      <lb ed="#B" n="46"/>schafft erlangeten. So spricht auch Paulus / Den der von keiner sünd nicht 
+      <lb ed="#B" n="47"/>wüßt / den hat Gott für uns zur sünd gmachet / damit wir durch in wurdind 
+      <lb ed="#B" n="48"/>die gerechtigkeit Gottes. Also ist Christus unser Herr ein versuenlicher mensch 
+      <lb ed="#B" n="49"/>und ein sündopffer für uns worden. Auff welchen gleich wie im alten testament 
+      <lb ed="#B" n="50"/>auff den bock der die sünd trüg / alle sünd der gantzen welt gelegt und geladen 
+      <lb ed="#B" n="51"/>sind / welche er alle mit seinem sterben hingenommen unnd versuent hatt / 
+      <!--150.xml-->
+      <pb ed="#B" n="150"/>
+      <lb ed="#B" n="1"/>also / das daß einig opffer Christi gnüg thon hat für die sünd der gantzen welt / 
+      <lb ed="#B" n="2"/>welchs fürwar die hoechst nutzbarkeit und die groest frucht ist des tods Christi /  
+      <lb ed="#B" n="3"/>auff welche alle heiligen Apostel Christi allenthalben gar hefftig tringend. Dem- 
+      <lb ed="#B" n="4"/>nach so leert uns auch der todt Christi gedult / unnd absterbung unsers fleisch- 
+      <lb ed="#B" n="5"/>es / ja Christus mit seiner gemeinschafft würkt durch seinen heiligen geist inn 
+      <lb ed="#B" n="6"/>uns / das die sünd nit in uns regiere unnd uberhand nemme. Von welchem der 
+      <lb ed="#B" n="7"/>heilig Apostel Paulus vil geschriben hat / besonders zun Roemern am vi. cap.  
+      <lb ed="#B" n="8"/>und der Herr im Evangelio spricht / Math. xvi. wer mir nachvolgen wil / der 
+      <lb ed="#B" n="9"/>verlaugne sich selber und nemme sein creütz auff sich unnd volge mir nach. Das 
+      <lb ed="#B" n="10"/>sind under anderen / etliche frücht des leidens und sterbens unsers Herren / Ie- 
+      <lb ed="#B" n="11"/>su Christi.  
+      <lb ed="#B" n="12"/>Zum vierdten stat / unnd begraben. Dann Christus ist am creütz warhafft 
+      <lb ed="#B" n="13"/>gstorben / und die warheit seines tods ist bewert durch den kriegßman der im in  
+      <lb ed="#B" n="14"/>sein seiten stach. Demnach ist er vom creütz genommen / und glegt in ein grab /  
+      <lb ed="#B" n="15"/>und werdend im Evangelio / die gnamset / die in begraben / Ioseph nemlich und 
+      <lb ed="#B" n="16"/>Nicodemus. Es wirdt auch angezeigt / wie sie in begraben habend. Die frucht 
+      <lb ed="#B" n="17"/>aber seiner begrebt / legt der Herr selbs auß mit disen worten / Warlich warlich 
+      <lb ed="#B" n="18"/>sag ich euch / es seye dann das daß weitzenkoernlin in die erden falle unnd erster- 
+      <lb ed="#B" n="19"/>be / so bleibts allein / wo es aber erstirbt / so bringt es vil frucht. Es ermanet 
+      <lb ed="#B" n="20"/>uns auch der heilig Apostel Paulus / das wir mit Christo begraben werdind 
+      <lb ed="#B" n="21"/>in seinen todt / damit wir in einem newen leben wider aufferstandind / ja das 
+      <lb ed="#B" n="22"/>wir ewigklich mit im laebind und regierind. Darumb so unsere leichnam gleich 
+      <lb ed="#B" n="23"/>auch staerbend / sollend wir doch nicht sorgfeltig sein / dann die gloeubigen wer- 
+      <lb ed="#B" n="24"/>dend darumm begraben / das sie mit Christo wider aufferstandind. Das fünfft 
+      <lb ed="#B" n="25"/>stuck diß iiii. artickels setzend etlich für ein besonderen / und namlich für den fünff- 
+      <lb ed="#B" n="26"/>ten artickel des glaubens. Ich gsich aber kein rechtmaeßig ursachen / darumb 
+      <lb ed="#B" n="27"/>man das stückli von dem vorgenden absündere / unnd ein besonderen artickel 
+      <lb ed="#B" n="28"/>des glaubens darauß mache. Es lautet also / Ist abgefaren zu den hellen / von 
+      <lb ed="#B" n="29"/>disem sind mancherley meinungen der gelerten. S. Augustin inn dem buch de 
+      <lb ed="#B" n="30"/>side et symbolo / gedenkt der worten nit in der erzelung des glaubens / er legt sie 
+      <lb ed="#B" n="31"/>auch nicht auß. S. Cyprianus schreibt ein semmlichs. Man soll wissen das in der 
+      <lb ed="#B" n="32"/>bekantnuß des glaubens der Roemischen kirchen das nit stat / Ist abgefaren 
+      <lb ed="#B" n="33"/>zu den hellen. So werdend auch die wort nit braucht inn den Drientalischen 
+      <lb ed="#B" n="34"/>kirchen. Ich halt aber das die krafft diß woertlins vergriffen seye / inn dem da 
+      <lb ed="#B" n="35"/>manspricht / gstorben unnd begraben / das sagt Cyprianus. Welche wort sich 
+      <lb ed="#B" n="36"/>ansehen lassend als ob deß heiligen Cypriani meinung seye / das daß abfaren 
+      <lb ed="#B" n="37"/>Christi zur hellen nichts anders seye dann begraben werden / wie auch der hei- 
+      <lb ed="#B" n="38"/>lig Ertzvatter Iacob spricht / Ir werdend meine grawe har mit schmerzen 
+      <lb ed="#B" n="39"/>zur hellen bringen. Dargegen sind aber andere / die da meinend / es habe diser 
+      <lb ed="#B" n="40"/>verstand kein ansehen noch rechnung / dann es seye nit wol glaublich / das ein 
+      <lb ed="#B" n="41"/>ding / das man einest heiter rede / gleich durch ein duncklere red verfinstere / son- 
+      <lb ed="#B" n="42"/>der vil mehr / wenn zwen sententz zusamen gesertzt werdend / die ein ding heissen 
+      <lb ed="#B" n="43"/>und außtruckend / so sey allweg der nachgeender sententz heiterer dann der 
+      <lb ed="#B" n="44"/>vorgeend / und als vil als ein außlegung des vorgeenden. Das sey aber hie nit / 
+      <lb ed="#B" n="45"/>dann der vorgeende sententz / Er ist begraben / seye heitterer / dann der nachgend /  
+      <lb ed="#B" n="46"/>Ist abgefaren zur hellen / der etwas tünckler seye. S. Augustin in der 9.  
+      <lb ed="#B" n="47"/>epistel an Evodium bemuehet sich selb hierinn fast. Und acl Prrchnum Ie pr- 
+      <lb ed="#B" n="48"/>sent ja Peischreibt er / der Herr seye wol in die hell gangen / habe aber kein pein 
+      <lb ed="#B" n="49"/>noch schmerzen gelitten. Es ist aber vil das einfaltiger das wir den artickel 
+      <lb ed="#B" n="50"/>also verstandind / das wir glaubind / das die krafft des tods Christi / auch zu  
+      <lb ed="#B" n="51"/>den abgstorbnen kommen seye / und die genützt hab / Das ist / das alle heiligen 
+      <!--151.xml-->
+      <pb ed="#B" n="151"/>
+      <lb ed="#B" n="1"/>Ertzvaeter und gloeubige so vor der zukunfft Christi abgestorben erhalten sy- 
+      <lb ed="#B" n="2"/>gind worden vor dem ewigen todt / von wegen des tods Christi / wie dann 
+      <lb ed="#B" n="3"/>auch S. Peter meldet / das der Herr hingegangen seye / unnd geprediget habe 
+      <lb ed="#B" n="4"/>den geistern inn der gesencknuß die vor zeiten ungloeubig warend. Dann on 
+      <lb ed="#B" n="5"/>zweiffel so ist auch denen kund worden durch den todt Christi / die gerechtig- 
+      <lb ed="#B" n="6"/>keit und billigkeit irer verdamnuß / das dieweil sie gelebt / nicht glaubt habend 
+      <lb ed="#B" n="7"/>mit Noe und den seinen in den künfftigen Meßiam. Es möegend auch durch 
+      <lb ed="#B" n="8"/>die luferos wie es die latinischen nennend verstanden werden / nit die ort da die  
+      <lb ed="#B" n="9"/>gottlosen pynget werdend / sonder die abgstorbnen gloeubigen / wie wir dann 
+      <lb ed="#B" n="10"/>auch inn der selben sprach nennend süperos die / die noch auff erden laebend. Al- 
+      <lb ed="#B" n="11"/>so ist die seel Christi abgfaren ac inte ros zur hellen / oder zu den abgstorbnen / 
+      <lb ed="#B" n="12"/>das ist / sie ist genommen worden in die schoß Abrahe / dahin alle abgstorbnen 
+      <lb ed="#B" n="13"/>gloeubigen versamlet warend. Dann da der Herr zu dem moerder der mit ihm 
+      <lb ed="#B" n="14"/>gecreützigt ward / spricht / heüt wirst bey mir sein im Paradyß / da verheißt er 
+      <lb ed="#B" n="15"/>ihm die gemeinschafft deß laebens mit den außerwelten seelen. Vonn der schoß 
+      <lb ed="#B" n="16"/>Abrahe redt der Herr sonst beym heiligen Luca am xvi. Cap. Das aber hie 
+      <lb ed="#B" n="17"/>stat das der Herr abgefare sey / das ist nach bsonderer weyß zereden zu verston / 
+      <lb ed="#B" n="18"/>dann sonst so ist offenbar auß dem heiligen Luca / das die schoß Abrahe ein  
+      <lb ed="#B" n="19"/>ort ist / das von dem abgrund der hellen weit abgesoenderet und in der hoehe ist.  
+      <lb ed="#B" n="20"/>Denen dingen aber zu geferlich nachfragen / unnd eigentlich woellen darvon re- 
+      <lb ed="#B" n="21"/>den / ist mehr ein spitzfündigkeit dann ein gottseligkeit. Das ist die summ dessen 
+      <lb ed="#B" n="22"/>das wir hierinn bekennend / nemlich das die seelen untoedtlich seyend / unnd das 
+      <lb ed="#B" n="23"/>sie angehends vom leiblichen todt gehend in das leben. Das auch alle heiligen 
+      <lb ed="#B" n="24"/>vom anfang der welt an / durch Christum im glauben sigend geheiliget / und in  
+      <lb ed="#B" n="25"/>Christo und durch Christum empfahend die erbschafft des ewigen laebens.  
+      <lb ed="#B" n="26"/>Auff das volgete nun der x. artickel / aber die stund ist hin / darumb wir 2 
+      <lb ed="#B" n="27"/>den selbigen sparen woellend in die nechste predig. Ietz aber woellend wir mit 
+      <lb ed="#B" n="28"/>ein anderen Gott unseren himmlischen vatter bitten / das er durch seinen heili- 
+      <lb ed="#B" n="29"/>gen geist in unsere hertzen geben und einblasen woelle disen waren und laebend- 
+      <lb ed="#B" n="30"/>machenden glauben / der sich dann streckt unnd verlaßt auff Gott den vatter /  
+      <lb ed="#B" n="31"/>und den Sun / auff den vatter / als auff den schoepffer aller dingen / auff den 
+      <lb ed="#B" n="32"/>sun / als auff den heiland der gantzen welt. Welcher darumb von himmel kom- 
+      <lb ed="#B" n="33"/>men / und in dem leib der heiligen iunckfrawen Marie ist mensch worden / das er 
+      <lb ed="#B" n="34"/>were ein mittler zwüschend Gott und dem menschen / unnd die bede partheyen 
+      <lb ed="#B" n="35"/>mit ein anderen versuenete und vereinbarte. Auch das er hette / mit dem er der 
+      <lb ed="#B" n="36"/>gerechtigkeit Gottes gnüg thun und unsere sünd reinigen moechte / welche er 
+      <lb ed="#B" n="37"/>mit seinem leib tragen und hingenommen hat / und alle gloeubigen gemachet zu 
+      <lb ed="#B" n="38"/>erben deß ewigen laebens. Darumb lassend unsloben die gnad Got- 
+      <lb ed="#B" n="39"/>tes / und danck sagen seinem Sun / dem allein alle ehr 
+      <lb ed="#B" n="40"/>und glori zugehoert / Amen.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
