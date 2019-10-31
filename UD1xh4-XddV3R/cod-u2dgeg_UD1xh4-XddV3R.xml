@@ -737,8 +737,7 @@
           <lb ed="#L" n="29"/>knowen, but in Egypt, the mast flouri 
           <lb ed="#L" n="30"/>shing and renowmed kingdom of that 
           <lb ed="#L" n="31"/>age. 
-      </p>
-      <p> <!--Kein Paragraph-break im deutschen Text--> 
+          <!--Paragraph brake here--> 
           <lb ed="#L" n="32"/>Those miracles were greater and  
           <lb ed="#L" n="33"/>farre more by many, than that they ca  
           <lb ed="#L" n="34"/>be here rehearsed in few wordes: ney,  
@@ -755,8 +754,7 @@
           <lb ed="#L" n="43"/>a thicke cloude, that the people maye 
           <lb ed="#L" n="44"/>heare me talking with thee, and may 
           <lb ed="#L" n="45"/>beleeve thee for evermore.
-      </p>
-        <p> <!--kein Paragraph-Break im deutschen Text-->
+          <!--Paragraph break here-->
           <lb ed="#L" n="46"/>Neither was the Lorde there with  
           <!--7.xml-->
           <cb ed="#L" n="b"/>
@@ -900,8 +898,7 @@
           <lb ed="#L" n="27"/>imputed that gainsaying as done a 
           <lb ed="#L" n="28"/>gainst his divine maiestye, &amp; punished 
           <lb ed="#L" n="29"/>it most sharply.
-          </p>
-          <p><!--kein Paragraph-Break im deutschen Text-->
+          <!--Paragraph break here-->
           <lb ed="#L" n="30"/>The proofes heereof are to beeleene 
           <lb ed="#L" n="31"/>in Erod. 16. and Numerie the 12. And  
           <lb ed="#L" n="32"/>first of the people murmuring against  
@@ -1057,7 +1054,7 @@
           <lb ed="#L" n="26"/>teach, and write whatsoever they left  
           <lb ed="#L" n="27"/>for us to rememder.
           </p>
-          <p> <!--Kein paragraph-break im deutschen Text-->
+          <p> <!--Paragraph break here-->
           <lb ed="#L" n="28"/>Furthermore, so many common 
           <lb ed="#L" n="29"/>weales, and congregations gathered 
           <lb ed="#L" n="30"/>together, &amp; governed by the Prophetes  
@@ -1085,8 +1082,7 @@
           <lb ed="#L" n="4"/>mong the wise men at Babylon, being  
           <lb ed="#L" n="5"/>then the most renowned Monarchie  
           <lb ed="#L" n="6"/>in all the worlde.
-          </p>
-          <p><!--Kein Paragraph-Break im deutschen Text-->
+          <!--Paragraph break here-->
           <lb ed="#L" n="7"/>He was moreover in great estima 
           <lb ed="#L" n="8"/>tion with <name>Darius Medus</name>, the sonne of  
           <lb ed="#L" n="9"/><name>Astiages</name> or <name>Assuerus</name>, and also with  
@@ -1334,7 +1330,7 @@
           <lb ed="#L" n="29"/>the booke of Psalmes, Proverbes, Ec 
           <lb ed="#L" n="30"/>clesiastes, and Cantica.
           </p>
-        <!--Wher are the books of Salomon?-->
+        <!--The german text indicates that he might have mentioned the books of Salomon-->
         <p xml:id="UD1xh4-XddV3R-d1e2492">With them are  
           <lb ed="#L" n="31"/>numbred the foure greater Prophetes  
           <lb ed="#L" n="32"/><name>Esaias</name>, <name>Jeremias</name>, <name>Ezechiel</name>, and <name>Da 
@@ -1357,8 +1353,7 @@
           <!--13.xml-->
           <pb ed="#L" n="13"/>
           <cb ed="#L" n="a"/>
-          <lb ed="#L" n="1"/>are called both Canonical and Ca 
-          <lb ed="#L" n="2"/>tholike.
+          <lb ed="#L" n="1"/>are called both Canonical and Ca<lb ed="#L" n="2"/>tholike.
           </p>
         <p xml:id="UD1xh4-XddV3R-d1e2588">And the books of the newe 
           <lb ed="#L" n="3"/>Testament are ended with the reve 
