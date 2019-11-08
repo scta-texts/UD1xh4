@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 1, Sermo 4 [London 1587 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Charlotte Feidicker</editor>
+        <editor>Ema-Joanne M. Brauchler </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 1, Sermo 4 [London 1587 Transcription]</title>
+          <date when="2019-11-08">November 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-u2dgeg">London 1587</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="de">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="30"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-4TIzix">
+
+   <p><!--30.xml-->
+      <pb ed="#L" n="30"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>Of true faith, fromwhence it commeth, that it is an  
+      <lb ed="#L" n="2"/>aslured beleefe of the minde, whose onely stay 
+      <lb ed="#L" n="3"/>is upon God and his word  
+      <!--30.xml-->
+      <pb ed="#L" n="30"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>N my last sermon 
+      <lb ed="#L" n="2"/>I declared unto  
+      <lb ed="#L" n="3"/>you, how that the  
+      <lb ed="#L" n="4"/>perfect exposition of  
+      <lb ed="#L" n="5"/> Gods worde doth  
+      <lb ed="#L" n="6"/>differ nothing from 
+      <lb ed="#L" n="7"/>AdocFbye rule of true faith,  
+      <lb ed="#L" n="8"/>and the love of God and our neigh 
+      <lb ed="#L" n="9"/>bour. For undoubtedly, that sense of  
+      <lb ed="#L" n="10"/>Scripture is corrupted, which doth  
+      <lb ed="#L" n="11"/>square from faith, and the two poynts  
+      <lb ed="#L" n="12"/>of charitie. I have nowe therefore next 
+      <lb ed="#L" n="13"/>to treat of true faith and charitie to 
+      <lb ed="#L" n="14"/>wards God and our neighbour, to the  
+      <lb ed="#L" n="15"/>intent that no man may finde lacke of  
+      <lb ed="#L" n="16"/>any thing heerein. 
+      <lb ed="#L" n="17"/>And first therefore by Gods helpe, and  
+      <lb ed="#L" n="18"/>the good meanes of your prayers, I wil  
+      <lb ed="#L" n="19"/>speake of true faith,  
+      <lb ed="#L" n="20"/>This word Faith or beleefe, is di 
+      <lb ed="#L" n="21"/>versly used in the common talk of me 
+      <lb ed="#L" n="22"/>For it is taken for any kinde of Reli 
+      <lb ed="#L" n="23"/>gion or honour done to God. As we say 
+      <lb ed="#L" n="24"/>the Christian faith, the lewish faith,  
+      <lb ed="#L" n="25"/>and the Furkish faith. Faith or beleefe  
+      <lb ed="#L" n="26"/>also, is taken for a conceived opinion of  
+      <lb ed="#L" n="27"/>any thing that is told us, as when we  
+      <lb ed="#L" n="28"/>heare any thing rehearsed unto us out  
+      <lb ed="#L" n="29"/>of the Indian or Ethiopian hystorie,  
+      <lb ed="#L" n="30"/>we by and by say that wee beleeve it,  
+      <lb ed="#L" n="31"/>and yet notwithstanding wee put no  
+      <lb ed="#L" n="32"/>confidence in it nor hope to have any  
+      <lb ed="#L" n="33"/>commoditie thereby at all. This is that 
+      <lb ed="#L" n="34"/>faith, wherewith saint James sayeth  
+      <lb ed="#L" n="35"/>that the Devil beleeveth ec trembleth. 
+      <lb ed="#L" n="36"/>Last of all, faith is commonly put for  
+      <lb ed="#L" n="37"/>an allured and undoubted confidence  
+      <!--30.xml-->
+      <pb ed="#L" n="30"/>
+      <cb ed="#L" n="c"/>
+      <lb ed="#L" n="1"/>in God and his word. Among the He 
+      <lb ed="#L" n="2"/>brues faith taketh her name of truth,  
+      <lb ed="#L" n="3"/>certeintie and allured constancie. The  
+      <lb ed="#L" n="4"/>Latines call that faith, when that is,  
+      <lb ed="#L" n="5"/>done which is said. Whereuppon one  
+      <lb ed="#L" n="6"/>saith, I demaunde of thee whether 
+      <lb ed="#L" n="7"/>thou beleevest or no? Thou aunswe 
+      <lb ed="#L" n="8"/>rest, I beleeve: Doe then that which  
+      <lb ed="#L" n="9"/>thou saiest, and it is faith. Therefore in :  
+      <lb ed="#L" n="10"/>this treatise of ours, Faith is an un 
+      <lb ed="#L" n="11"/>doubted beleefe, most firmely groun 
+      <lb ed="#L" n="12"/>ded in the minde. This faith, which is  
+      <lb ed="#L" n="13"/>a settled and undoubted perswasion or  
+      <lb ed="#L" n="14"/>beleefe leaning upon God &amp; his word,  
+      <lb ed="#L" n="15"/>is diversly defined by ye perfecter Di 
+      <lb ed="#L" n="16"/>vines. S. Paul saith, Faith is the sub 
+      <lb ed="#L" n="17"/>stance of thinges hoped for, the evi 
+      <lb ed="#L" n="18"/>dence of thinges not seene. The sub 
+      <lb ed="#L" n="19"/>stance or hypostasis is the foundation.  
+      <lb ed="#L" n="20"/>or the unmoveable prop, which uphol 
+      <lb ed="#L" n="21"/>deth us, &amp; wheron we leane &amp; lye with  
+      <lb ed="#L" n="22"/>out peril or danger. The things hoped  
+      <lb ed="#L" n="23"/>for, are thinges celestiall, eternall, and  
+      <lb ed="#L" n="24"/>inuisible. And therefore Paul sayeth.  
+      <lb ed="#L" n="25"/>Faith is an unmoveable foundation,  
+      <lb ed="#L" n="26"/>and a most allured confidence of gods 
+      <lb ed="#L" n="27"/>promises, that is, of life everlasting and  
+      <lb ed="#L" n="28"/>all his good benefits. Moreover Paul  
+      <lb ed="#L" n="29"/>himelfe, making an erposition of that  
+      <lb ed="#L" n="30"/>which he had spoken, immediately af,  
+      <lb ed="#L" n="31"/>ter, saith: Faith is the argument of  
+      <lb ed="#L" n="32"/>thinges not seene. An argument or  
+      <lb ed="#L" n="33"/>proofe is an evident demoustration,  
+      <lb ed="#L" n="34"/>wherby we manifestly prove ye, which  
+      <lb ed="#L" n="35"/>otherwise should he doubtful, so that in  
+      <lb ed="#L" n="36"/>him whom we undertooke to instruct,  
+      <lb ed="#L" n="37"/>there may remaine no doubt at all,  
+      <!--31.xml-->
+      <pb ed="#L" n="31"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>But now touthing ye mysteries of god 
+      <lb ed="#L" n="2"/>revealed in Gods word, in theselves  
+      <lb ed="#L" n="3"/>or in their owne nature they can not 
+      <lb ed="#L" n="4"/>be seene with bodilie eyes : and there 
+      <lb ed="#L" n="5"/>fore are called thinges not seene. But,  
+      <lb ed="#L" n="6"/>this faith by giving light to the minde,  
+      <lb ed="#L" n="7"/>dooth in heart perceive them, even as  
+      <lb ed="#L" n="8"/>they are set foorth in the word of God.  
+      <lb ed="#L" n="9"/>Faith therefore according to the de 
+      <lb ed="#L" n="10"/>sinition of Paul, is in the minde a most  
+      <lb ed="#L" n="11"/>evident saying, and in the heart a most  
+      <lb ed="#L" n="12"/>certaine perceiving of thinges inuisi 
+      <lb ed="#L" n="13"/>ble, that is, of thinges eternall, of God 
+      <lb ed="#L" n="14"/>I say and all those thinges which hee  
+      <lb ed="#L" n="15"/>in his word setteth forth unto us con 
+      <lb ed="#L" n="16"/>cerning spirituall thinges. To this de 
+      <lb ed="#L" n="17"/>finition of Paules they had an eye,  
+      <lb ed="#L" n="18"/>which defined Faith in this forte.  
+      <lb ed="#L" n="19"/>Faith is a grounded persuasion of hea 
+      <lb ed="#L" n="20"/>venly thinges, in the meditation wher 
+      <lb ed="#L" n="21"/>of wee ought so to oecupie our selves 
+      <lb ed="#L" n="22"/>for the allured truthes sake of Gods 
+      <lb ed="#L" n="23"/>worde, thatwe may beleeve that in  
+      <lb ed="#L" n="24"/>minde we doe see those things as well  
+      <lb ed="#L" n="25"/>as with our eyes we do behold things 
+      <lb ed="#L" n="26"/>sensibly perceived, Zc easie to be seene, 
+      <lb ed="#L" n="27"/>This description doth not greatly dif 
+      <lb ed="#L" n="28"/>fer from this definition of an other 
+      <lb ed="#L" n="29"/>godly &amp; learned man who saith: Faith  
+      <lb ed="#L" n="30"/>is a fledfast perswasion of the minde, 
+      <lb ed="#L" n="31"/>whereby we doe fully decree with our  
+      <lb ed="#L" n="32"/>selves that gods truth is so sure, that 
+      <lb ed="#L" n="33"/>he can neither will nor choose but 
+      <lb ed="#L" n="34"/>performe that which he in his worde  
+      <lb ed="#L" n="35"/>hath promised to fulsill. Againe, Faith  
+      <lb ed="#L" n="36"/>is a stedfast allurednesse of conscience,  
+      <lb ed="#L" n="37"/>which dooth imbrace Christ in the  
+      <lb ed="#L" n="38"/>same fort, wherein he is offered unto  
+      <lb ed="#L" n="39"/>us by the Gospell. Another there is  
+      <lb ed="#L" n="40"/>which after the same manner almost  
+      <lb ed="#L" n="41"/>defineth faith in this forte: Faith is a  
+      <lb ed="#L" n="42"/>gift inspired by God into the mind of  
+      <lb ed="#L" n="43"/>man, wherby without any doubting at  
+      <lb ed="#L" n="44"/>all he doth beleeve that to bee most  
+      <lb ed="#L" n="45"/>true what so ever God hath either  
+      <lb ed="#L" n="46"/>taught or promised in the bookes of  
+      <!--31.xml-->
+      <pb ed="#L" n="31"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>both the Testaments. The very same  
+      <lb ed="#L" n="2"/>author of this definition therfore doth  
+      <lb ed="#L" n="3"/>ertend faith to three termes of time, to  
+      <lb ed="#L" n="4"/>the time past, the time present, and the  
+      <lb ed="#L" n="5"/>time to come: For he teacheth to be 
+      <lb ed="#L" n="6"/>lieve that the world was made by god,  
+      <lb ed="#L" n="7"/>and whatsoever the holy Scriptures  
+      <lb ed="#L" n="8"/>doe declare to have beene done in the  
+      <lb ed="#L" n="9"/>olde world: also that Christ dying for  
+      <lb ed="#L" n="10"/>us, is the only salvation of them which I 
+      <lb ed="#L" n="11"/>believe: and that by the same God at  
+      <lb ed="#L" n="12"/>this day also, the world and Church  
+      <lb ed="#L" n="13"/>are governed or preserved, aud that in  
+      <lb ed="#L" n="14"/>Christ the faithfull are saved : last of  
+      <lb ed="#L" n="15"/>all, that that shall most alluredly light  
+      <lb ed="#L" n="16"/>upon the ungodly and ye godly, whatso 
+      <lb ed="#L" n="17"/>ever the holy Scriptures doe either  
+      <lb ed="#L" n="18"/>threaten or promise,  
+      <lb ed="#L" n="19"/>Out of all these definitions therfore  
+      <lb ed="#L" n="20"/>being diligently considered, wee maye  
+      <lb ed="#L" n="21"/>according to ye Scriptures make this  
+      <lb ed="#L" n="22"/>description of faith. Faith is a gift of 
+      <lb ed="#L" n="23"/>God, powred into man from heaven,  
+      <lb ed="#L" n="24"/>whereby he is taught with an undou 
+      <lb ed="#L" n="25"/>ted perswasion, wholie to leane to 
+      <lb ed="#L" n="26"/>God and his worde, in which worde  
+      <lb ed="#L" n="27"/>God doth freely promise life and all 
+      <lb ed="#L" n="28"/>good thinges in Christ, and wherein 
+      <lb ed="#L" n="29"/>all truth necessarie to be beleeved, is  
+      <lb ed="#L" n="30"/>plainly declared. Which description 
+      <lb ed="#L" n="31"/>of faith, I will by Gods helpe in this  
+      <lb ed="#L" n="32"/>that followeth unfolde into parts, and  
+      <lb ed="#L" n="33"/>by assertion of places out of the Scrip 
+      <lb ed="#L" n="34"/>tures, will both confirme and make  
+      <lb ed="#L" n="35"/>manifest unto you, Pee, as hitherto  
+      <lb ed="#L" n="36"/>ye have done, so stil give diligent eare,  
+      <lb ed="#L" n="37"/>and in your heartes pray earnestly to  
+      <lb ed="#L" n="38"/>God.  
+      <lb ed="#L" n="39"/>Frst of al, the cause or beginning of  
+      <lb ed="#L" n="40"/>faith commeth not of any man, or any  
+      <lb ed="#L" n="41"/>strength of man, but of God himelfe,  
+      <lb ed="#L" n="42"/>who by his holy spirite, inspireth faith  
+      <lb ed="#L" n="43"/>into our heartes. For in the Gospell  
+      <lb ed="#L" n="44"/>the Lord saith, No man commeth to  
+      <lb ed="#L" n="45"/>me, unlesse my father draw him 
+      <lb ed="#L" n="46"/>And againe, Fleshe and bloude  
+      <!--32.xml-->
+      <pb ed="#L" n="32"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>ssaith the Lord to Peter, confessinge  
+      <lb ed="#L" n="2"/>Christ in true faith) hath not revealed  
+      <lb ed="#L" n="3"/>this to thee, but my father which is  
+      <lb ed="#L" n="4"/>in heaven. Whereunto the Apostle  
+      <lb ed="#L" n="5"/>Paul alludeth when he sayth, we are  
+      <lb ed="#L" n="6"/>not able of our selves to thinke any 
+      <lb ed="#L" n="7"/>thing as of our selves, but all our abili 
+      <lb ed="#L" n="8"/>tie is of God. And in an other place, To  
+      <lb ed="#L" n="9"/>you it is given for Chrisl, not onely to  
+      <lb ed="#L" n="10"/>beleeve in him, but also to suffer for  
+      <lb ed="#L" n="11"/>his sake. Faith therefore is powred in 
+      <lb ed="#L" n="12"/>to our hearts by God, who is the wel 
+      <lb ed="#L" n="13"/>spring and cause of all goodnesse,  
+      <lb ed="#L" n="14"/>And yet we have to consider heere,  
+      <lb ed="#L" n="15"/>that God in giving &amp; inspiring faith,  
+      <lb ed="#L" n="16"/>dooth not use his absolute polver, or  
+      <lb ed="#L" n="17"/>miracles in working, but a certaine  
+      <lb ed="#L" n="18"/>ordinarie meanes agreeable to mans  
+      <lb ed="#L" n="19"/>capacitie: although he can in deede give 
+      <lb ed="#L" n="20"/>faith without those meanes, to whom,  
+      <lb ed="#L" n="21"/>when, and how it pleaseth him? But  
+      <lb ed="#L" n="22"/>we read, that the Lord hath used this  
+      <lb ed="#L" n="23"/>ordinarie meanes, even from the first  
+      <lb ed="#L" n="24"/>creation of all things. Whom he mea 
+      <lb ed="#L" n="25"/>neth to bestowe knowledge and fayth  
+      <lb ed="#L" n="26"/>on: to them he sendeth teachers, by the  
+      <lb ed="#L" n="27"/>word of God to preach true faith unto  
+      <lb ed="#L" n="28"/>them. Not because it lieth in mans 
+      <lb ed="#L" n="29"/>polver, wil, or ministerie, to give faith,  
+      <lb ed="#L" n="30"/>nor because the outward word spoken 
+      <lb ed="#L" n="31"/>by mans mouth, is able of it selfe to  
+      <lb ed="#L" n="32"/>bring faith: but the voyce of man, and  
+      <lb ed="#L" n="33"/>the preaching of Gods word, doo teach  
+      <lb ed="#L" n="34"/>us what true faith is, or what God 
+      <lb ed="#L" n="35"/>dooth wil and commaund us to believe.  
+      <lb ed="#L" n="36"/>For God himselfe alone by sending his  
+      <lb ed="#L" n="37"/>holy spirite into the hearts and minds 
+      <lb ed="#L" n="38"/>of men, dooth open our heartes, per 
+      <lb ed="#L" n="39"/>swade our mindes, and cause us with  
+      <lb ed="#L" n="40"/>all our heart to believe that, which we  
+      <lb ed="#L" n="41"/>by his word and teaching have learned  
+      <lb ed="#L" n="42"/>to believe.  
+      <lb ed="#L" n="43"/>The Lord coulde by miracle from  
+      <lb ed="#L" n="44"/>heaven, without any preaching at all,  
+      <lb ed="#L" n="45"/>have bestowed faith in Christ upon 
+      <lb ed="#L" n="46"/>Cornelius the Centurion at Cesaria: 
+      <!--32.xml-->
+      <pb ed="#L" n="32"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>but yet by an Angel he dooth send him 
+      <lb ed="#L" n="2"/>to the preaching of Peter. And while.  
+      <lb ed="#L" n="3"/>Peter preacheth, God by his holy spis 
+      <lb ed="#L" n="4"/>rite worketh in the heart of Corneli 
+      <lb ed="#L" n="5"/>us, causing him to believe his prea 
+      <lb ed="#L" n="6"/>thing. Verily S. Paule saith, Now  
+      <lb ed="#L" n="7"/>shall they beleeve in him of whome  
+      <lb ed="#L" n="8"/>they have not heard: Now shall they  
+      <lb ed="#L" n="9"/>heare without a preacher: And howe  
+      <lb ed="#L" n="10"/>shall they preach if they bee not sent:  
+      <lb ed="#L" n="11"/>So then, faith commeth by hearing, E 
+      <lb ed="#L" n="12"/>hearing by the word of God. In ano 
+      <lb ed="#L" n="13"/>ther place also. who is Paule saith he,  
+      <lb ed="#L" n="14"/>or what is Apollos, but Ministers, by,  
+      <lb ed="#L" n="15"/>whom ye have beleeved, according as  
+      <lb ed="#L" n="16"/>God hath given to everie one) I have,  
+      <lb ed="#L" n="17"/>planted, Apollos watered, but God 
+      <lb ed="#L" n="18"/>hath given increase.  So then hee that 
+      <lb ed="#L" n="19"/>lanteth is nothing, nor hee that wa 
+      <lb ed="#L" n="20"/>treth, but God that giveth increase,  
+      <lb ed="#L" n="21"/>With this doctrine of saint Peter and  
+      <lb ed="#L" n="22"/>Saint Paule dooth that agree which  
+      <lb ed="#L" n="23"/>Augustine writeth in the Preface of  
+      <lb ed="#L" n="24"/>his booke of Christian doctrine, where  
+      <lb ed="#L" n="25"/>hee sayth: That which wee have to  
+      <lb ed="#L" n="26"/>learne at nsans hande, let everie one  
+      <lb ed="#L" n="27"/>learne at mans hand without disdaine,  
+      <lb ed="#L" n="28"/>And let us not goe about to tempt  
+      <lb ed="#L" n="29"/>him in whome wee beleeve, neither 
+      <lb ed="#L" n="30"/>being deceived let us thinke scorne 
+      <lb ed="#L" n="31"/>to goe to Churth, to heare or learne  
+      <lb ed="#L" n="32"/>out of bookes, looking still when we 
+      <lb ed="#L" n="33"/>shall bee rapt up into the third hea 
+      <lb ed="#L" n="34"/>ven. 
+      <lb ed="#L" n="35"/>Let us take heede of such like temp 
+      <lb ed="#L" n="36"/>tatios of pride, and let us rather have  
+      <lb ed="#L" n="37"/>this in our mindes, that even the Apo 
+      <lb ed="#L" n="38"/>stle Paule himelfe, although hee were  
+      <lb ed="#L" n="39"/>cast prostrate, &amp; instructed by the cal 
+      <lb ed="#L" n="40"/>ling of God from heaven, was never 
+      <lb ed="#L" n="41"/>thelesse sent to a man to be taught the  
+      <lb ed="#L" n="42"/>will of God : and that Cornelius, al 
+      <lb ed="#L" n="43"/>though god had heard his praiers, was 
+      <lb ed="#L" n="44"/>comitted to Peter to be instructed, by  
+      <lb ed="#L" n="45"/>whome he should not onely receive the  
+      <lb ed="#L" n="46"/>Sacraments: but should also heare  
+      <!--33.xml-->
+      <pb ed="#L" n="33"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>what he ought to believe, what to hope  
+      <lb ed="#L" n="2"/>for and what to love: all which things  
+      <lb ed="#L" n="3"/>notwithstanding might have been done  
+      <lb ed="#L" n="4"/>by the Angell, tc. The same Augu 
+      <lb ed="#L" n="5"/>stine also in his Epistle to the Circen 
+      <lb ed="#L" n="6"/>ses saith: Even he worketh conversi 
+      <lb ed="#L" n="7"/>on and bringeth it to passe, who by 
+      <lb ed="#L" n="8"/>his ministers doth warne us outward 
+      <lb ed="#L" n="9"/>ly with the signes of thinges, but in 
+      <lb ed="#L" n="10"/>wardly doth by himelfe teach us with  
+      <lb ed="#L" n="11"/>the verie thinges theselves. Also in his  
+      <lb ed="#L" n="12"/>treatise upon the 26. of Iohn: what 
+      <lb ed="#L" n="13"/>doe men (saith he) when they preach  
+      <lb ed="#L" n="14"/>outwardly: what doe I nowe while I 
+      <lb ed="#L" n="15"/>speake) I drive into your eares a noise  
+      <lb ed="#L" n="16"/>of wordes: but unlesse he which is with  
+      <lb ed="#L" n="17"/>in doe reveale it, what say l, or what 
+      <lb ed="#L" n="18"/>speake Iy he that is without doth hus 
+      <lb ed="#L" n="19"/>bande the tree, but hee within is the  
+      <lb ed="#L" n="20"/>creator of it. ete. This said he, 
+      <lb ed="#L" n="21"/>But, even as the Lorde his desire is,  
+      <lb ed="#L" n="22"/>to have us believe his worde, dfor the  
+      <lb ed="#L" n="23"/>Prophet cryeth out and saith: To day 
+      <lb ed="#L" n="24"/>if yee will heare his voice, harden not 
+      <lb ed="#L" n="25"/>your harts: ) So in like maner, he doth  
+      <lb ed="#L" n="26"/>require of us al which heare his word,  
+      <lb ed="#L" n="27"/>that we be not slacke in praying. For  
+      <lb ed="#L" n="28"/>in hearing the worde of God, we must  
+      <lb ed="#L" n="29"/>pray for the gift of faith, that the Lord  
+      <lb ed="#L" n="30"/>may open our harts, covert our soules,  
+      <lb ed="#L" n="31"/>breake and beate downe the hardnesse  
+      <lb ed="#L" n="32"/>of our mindes, and increase the mea 
+      <lb ed="#L" n="33"/>sure of faith bestowed uppon us. Of  
+      <lb ed="#L" n="34"/>this order of prayer, there are many  
+      <lb ed="#L" n="35"/>examples in the holy scriptures. Whe  
+      <lb ed="#L" n="36"/>the Lorde in the Gospell sayde to one,  
+      <lb ed="#L" n="37"/>Canst thou beleeve) to him that belee 
+      <lb ed="#L" n="38"/>veth all thinges are possible: He made  
+      <lb ed="#L" n="39"/>answere saying: I beleeve Lord, helpe  
+      <lb ed="#L" n="40"/>thon mine unbeliefe. The Apostles  
+      <lb ed="#L" n="41"/>also cry to the Lord and say: O Lorde  
+      <lb ed="#L" n="42"/>increase our faith. Moreover, this  
+      <lb ed="#L" n="43"/>prayer, wherin we desire to have faith  
+      <lb ed="#L" n="44"/>powred into us, is of the grace and gift  
+      <lb ed="#L" n="45"/>of GOD, and not of our owne righte 
+      <lb ed="#L" n="46"/>ousnesse, which before God is none at  
+      <!--33.xml-->
+      <pb ed="#L" n="33"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>all. This therefore is lefte unto us,  
+      <lb ed="#L" n="2"/>for a thing most certaine and undoub 
+      <lb ed="#L" n="3"/>tedly true, that true faith is the meere 
+      <lb ed="#L" n="4"/>gift of God, which is by the holy ghost  
+      <lb ed="#L" n="5"/>from heaven, bestowed uppon our 
+      <lb ed="#L" n="6"/>mindes, and is declared unto us in the  
+      <lb ed="#L" n="7"/>worde of trueth, by teachers sent of  
+      <lb ed="#L" n="8"/>God, and is obtained by earnest prai 
+      <lb ed="#L" n="9"/>ers which cannot be tyred. Whereby  
+      <lb ed="#L" n="10"/>we learne that wee ought often and  
+      <lb ed="#L" n="11"/>attentively to heare the word of God,  
+      <lb ed="#L" n="12"/>and never cease to pray to God for the  
+      <lb ed="#L" n="13"/>obtaining of true faith,  
+      <lb ed="#L" n="14"/>But that this faith inspired from  
+      <lb ed="#L" n="15"/>heaven, and learned out of the worde  
+      <lb ed="#L" n="16"/>of trueth, doeth put into mans minde  
+      <lb ed="#L" n="17"/>an undoubted perswasion, that is, that 
+      <lb ed="#L" n="18"/>whatsoever we believe in the worde  
+      <lb ed="#L" n="19"/>of God, we doe believe it most allured 
+      <lb ed="#L" n="20"/>ly without wavering or doubting, be 
+      <lb ed="#L" n="21"/>ing altogether as sure to have the  
+      <lb ed="#L" n="22"/>thing, as faith doth believe to have it  
+      <lb ed="#L" n="23"/>for I use this worde perswasion, not  
+      <lb ed="#L" n="24"/>as it is comonly taken, but for a firme  
+      <lb ed="#L" n="25"/>assent of minde inspired and perswa 
+      <lb ed="#L" n="26"/>ded by the holy ghost) that this faith a  
+      <lb ed="#L" n="27"/>saye, doth put into mans minde this  
+      <lb ed="#L" n="28"/>undoubted perswasion, I meane to de 
+      <lb ed="#L" n="29"/>clare by the example of Abrahams  
+      <lb ed="#L" n="30"/>faith, which Paule in the fourth chap 
+      <lb ed="#L" n="31"/>ter to the Romanes describeth in these  
+      <lb ed="#L" n="32"/>wordes. Abraham contrarie to hope  
+      <lb ed="#L" n="33"/>beleeved in hope: and he fainted not 
+      <lb ed="#L" n="34"/>in faith, neyther considered hee his 
+      <lb ed="#L" n="35"/>owne body now dead, when he was al 
+      <lb ed="#L" n="36"/>most an hundred yeares olde, nor the 
+      <lb ed="#L" n="37"/>deadnesse of saraes wombe, he stac 
+      <lb ed="#L" n="38"/>kered not at the promise of God tho 
+      <lb ed="#L" n="39"/>rowe unbeliefe, but became strong in  
+      <lb ed="#L" n="40"/>faith and gave the glorie to God, ha 
+      <lb ed="#L" n="41"/>vinge a sure perswasion that hee  
+      <lb ed="#L" n="42"/>which had promised, was able also to  
+      <lb ed="#L" n="43"/>performe. In these wordes of the  
+      <lb ed="#L" n="44"/>Apostle, there are certaine notes to  
+      <lb ed="#L" n="45"/>be obserued, which do prove to us that 
+      <lb ed="#L" n="46"/>Faith doth bring an allured perswa 
+      <!--34.xml-->
+      <pb ed="#L" n="34"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>deth not to tentation, neither is drow 
+      <lb ed="#L" n="2"/>ned nor sticketh in the mire of stacke 
+      <lb ed="#L" n="3"/>ring, but laying hold upon the promised  
+      <lb ed="#L" n="4"/>worde of truth, getteth up againe by  
+      <lb ed="#L" n="5"/>strugling, and is confirmed. So wee 
+      <lb ed="#L" n="6"/>reade, that at the promise of God, this  
+      <lb ed="#L" n="7"/>came into Abrahams minde. What,  
+      <lb ed="#L" n="8"/>shall there a Sonne bee borne to thee  
+      <lb ed="#L" n="9"/>that art an hunored yeares olde: This  
+      <lb ed="#L" n="10"/>was that infirmitie, and stackering or  
+      <lb ed="#L" n="11"/>weaknes of faith. But here thr Apostle  
+      <lb ed="#L" n="12"/>commending Abrahams faith, which  
+      <lb ed="#L" n="13"/>overcame and yeelded not, teaching us  
+      <lb ed="#L" n="14"/>also of what fort true faith ought to be,  
+      <lb ed="#L" n="15"/>that is, a firme and most allured per 
+      <lb ed="#L" n="16"/>swasion, saith: Abraham fainted not 
+      <lb ed="#L" n="17"/>in faith, neither considered his owne  
+      <lb ed="#L" n="18"/>bodie dead, when hee was almost an  
+      <lb ed="#L" n="19"/>hundred yeares olde, nor the dead 
+      <lb ed="#L" n="20"/>nesse of saraes wombe. Loe, this  
+      <lb ed="#L" n="21"/>thought came into Abrahams minde.  
+      <lb ed="#L" n="22"/>Shal a sonne be borne to mee that am  
+      <lb ed="#L" n="23"/>an hunored yeares old: But he fainted  
+      <lb ed="#L" n="24"/>not in faith. The faith of Abraham be 
+      <lb ed="#L" n="25"/>gan not to droope by reason of this tep 
+      <lb ed="#L" n="26"/>tation.  
+      <lb ed="#L" n="27"/>For, he considered not the weaknes  
+      <lb ed="#L" n="28"/>that was in himself, nothing answera 
+      <lb ed="#L" n="29"/>ble to the promise of God. What then 
+      <lb ed="#L" n="30"/>He stackered not at the promise of God 
+      <lb ed="#L" n="31"/>through unbeliefe. That is, he gave no 
+      <lb ed="#L" n="32"/>place to unbeliefe to be tempted of it:  
+      <lb ed="#L" n="33"/>he fell not to his owne reasons and  
+      <lb ed="#L" n="34"/>doubtfull inquisitions, as unbelievers  
+      <lb ed="#L" n="35"/>are wont to doe For Gods promise  
+      <lb ed="#L" n="36"/>being once set before the eyes of his  
+      <lb ed="#L" n="37"/>mind, so that I say he stucke unmove 
+      <lb ed="#L" n="38"/>ably, casting off all doubts and reasons  
+      <lb ed="#L" n="39"/>of his owne. For, faith hath no re 
+      <lb ed="#L" n="40"/>spect at all to the weakenesse, mise 
+      <lb ed="#L" n="41"/>rie, or lacke which is properly in man 
+      <lb ed="#L" n="42"/>kinde, but setteth her whole staye in  
+      <lb ed="#L" n="43"/>the polver of God. So then, I saye,  
+      <lb ed="#L" n="44"/>Abraham was strong in faith, that 
+      <lb ed="#L" n="45"/>is, he prevayled and gotte the upper 
+      <lb ed="#L" n="46"/>hande in his temptation. For, this  
+      <!--34.xml-->
+      <pb ed="#L" n="34"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>sion into the minde and heart of man 
+      <lb ed="#L" n="2"/>and so, that Faith is an undoubted co 
+      <lb ed="#L" n="3"/>fidence of things beleeved, whereto the  
+      <lb ed="#L" n="4"/>heart is made privie, that is, that true  
+      <lb ed="#L" n="5"/>Faith doeth not flye too and fro from 
+      <lb ed="#L" n="6"/>place to place in the heart of man, but 
+      <lb ed="#L" n="7"/>that beeing deepely rooted in Christ, it  
+      <lb ed="#L" n="8"/>sticketh in the hart which is enlighte 
+      <lb ed="#L" n="9"/>ned.  
+      <lb ed="#L" n="10"/>First, saieth the Apostle, Abraham 
+      <lb ed="#L" n="11"/>contrarie to hope, beleeved in hope:  
+      <lb ed="#L" n="12"/>that is to say, there he had a constant  
+      <lb ed="#L" n="13"/>hope, where notwithstanding hee had 
+      <lb ed="#L" n="14"/>nothing to hope after, if all things had 
+      <lb ed="#L" n="15"/>beene weighed according to the maner 
+      <lb ed="#L" n="16"/>of this worlde. But Hope is a most  
+      <lb ed="#L" n="17"/>firm and undoubted looking after those  
+      <lb ed="#L" n="18"/>thinges which we believe: So that we  
+      <lb ed="#L" n="19"/>see that the Apostle did make faith ma 
+      <lb ed="#L" n="20"/>nifest by hope, and by the certaine 
+      <lb ed="#L" n="21"/>tie of hope, did declare the allured con 
+      <lb ed="#L" n="22"/>stancie of faith. After that saith he,  
+      <lb ed="#L" n="23"/>Abraham fainted not in faith, nor 
+      <lb ed="#L" n="24"/>stackered at the promise of God tho 
+      <lb ed="#L" n="25"/>rouoh unbeliefe, but was stronge in  
+      <lb ed="#L" n="26"/>faith.  
+      <lb ed="#L" n="27"/>Ther are two kinds of ftackerings  
+      <lb ed="#L" n="28"/>in mankinde: The one is that which  
+      <lb ed="#L" n="29"/>being overcome by evill temptations,  
+      <lb ed="#L" n="30"/>doth bende to desperation, and the de 
+      <lb ed="#L" n="31"/>spising of Gods promises. Such was 
+      <lb ed="#L" n="32"/>the stackering of those ten spies of the  
+      <lb ed="#L" n="33"/>holy lande, of whom mention is made  
+      <lb ed="#L" n="34"/>in the thirteen and fourteene chapter of  
+      <lb ed="#L" n="35"/>Numbers.  
+      <lb ed="#L" n="36"/>The other stackering, is rather to be  
+      <lb ed="#L" n="37"/>called a weak infirmity of faith, which  
+      <lb ed="#L" n="38"/>also is tempted it selfe : that nowe I  
+      <lb ed="#L" n="39"/>may not make rehearsall to you, how  
+      <lb ed="#L" n="40"/>that in us all by the spot of originall  
+      <lb ed="#L" n="41"/>sin, is naturally grafted a certain kind  
+      <lb ed="#L" n="42"/>of unbeliefe, and that mans minde is  
+      <lb ed="#L" n="43"/>at no time so inlightened or confir 
+      <lb ed="#L" n="44"/>med, but that cloudie mystes of igno 
+      <lb ed="#L" n="45"/>raunce and doubtinges doe sometimes  
+      <lb ed="#L" n="46"/>arise: yet notwithstanding, faith yeel 
+      <!--35.xml-->
+      <pb ed="#L" n="35"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>is an argument to shewe that hee had 
+      <lb ed="#L" n="2"/>the upper hande: He fainted not, nor 
+      <lb ed="#L" n="3"/>wated meake in faith. It followeth  
+      <lb ed="#L" n="4"/>in the Apostle, Abraham gave GO) 
+      <lb ed="#L" n="5"/>the glorie, to witte, in beleeving that  
+      <lb ed="#L" n="6"/>GOD wisheth well to mankinde  
+      <lb ed="#L" n="7"/>and that hee is a true God and almigh 
+      <lb ed="#L" n="8"/>tie.  
+      <lb ed="#L" n="9"/>For he giveth God his glory, which  
+      <lb ed="#L" n="10"/>attributeth to God the properties of  
+      <lb ed="#L" n="11"/>God, &amp; doth not gainsay the word and  
+      <lb ed="#L" n="12"/>promise of God. For John the Apostle  
+      <lb ed="#L" n="13"/>saith: Te that beleeveth not in God, 
+      <lb ed="#L" n="14"/>maketh God a lyar, Abraham there 
+      <lb ed="#L" n="15"/>fore beleeved in God, and in belee 
+      <lb ed="#L" n="16"/>ving gave God the glorie. The Apo 
+      <lb ed="#L" n="17"/>stle Paul goeth forwarde and saieth,  
+      <lb ed="#L" n="18"/>Hee was throughly perswaded, or cer 
+      <lb ed="#L" n="19"/>tified, that hee which had promised  
+      <lb ed="#L" n="20"/>was alble also to performe, Paul u 
+      <lb ed="#L" n="21"/>sed the Ereeke woorde mwe durnseie,  
+      <lb ed="#L" n="22"/>which is all one as if you should saye,  
+      <lb ed="#L" n="23"/>beeing certified. For, wwerderis doeth  
+      <lb ed="#L" n="24"/>signifie fully to certifie : whereupon 
+      <lb ed="#L" n="25"/>Thnes tris is an allured faith given un 
+      <lb ed="#L" n="26"/>to us which is made by waye of ar 
+      <lb ed="#L" n="27"/>gnment, or by the thing it selfe.  And  
+      <lb ed="#L" n="28"/>they call that :wnreemus, which we call  
+      <lb ed="#L" n="29"/>a certification, as when a thing by  
+      <lb ed="#L" n="30"/>perswasiss is so beate into our minds,  
+      <lb ed="#L" n="31"/>that after that we never doubt anye  
+      <lb ed="#L" n="32"/>more.,  
+      <lb ed="#L" n="33"/>Therefore faith did certifie Abraham, 
+      <lb ed="#L" n="34"/>and with undoubted perswasions did  
+      <lb ed="#L" n="35"/>bring him to the point never to doubt,  
+      <lb ed="#L" n="36"/>but that GODwas able to performe  
+      <lb ed="#L" n="37"/>what he had promised, in faith therfore  
+      <lb ed="#L" n="38"/>he stuck unmoveable to the promise of  
+      <lb ed="#L" n="39"/>God, being alluredly certified that hee  
+      <lb ed="#L" n="40"/>should obtaine whatsoever God had 
+      <lb ed="#L" n="41"/>promised.  
+      <lb ed="#L" n="42"/>It is certaine therefore and plain 
+      <lb ed="#L" n="43"/>ly declared by the woordes of hte Apo 
+      <lb ed="#L" n="44"/>stle, that true Fayth is an undoubted  
+      <lb ed="#L" n="45"/>perswasion in the minde of the belee 
+      <!--35.xml-->
+      <pb ed="#L" n="35"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>ver : even so to have the thing as his  
+      <lb ed="#L" n="2"/>beleefe is, and as he is saide to have it  
+      <lb ed="#L" n="3"/>in the expresse worde of God. There 
+      <lb ed="#L" n="4"/>by also we learne, that faith is not the  
+      <lb ed="#L" n="5"/>unstable and unaduised confidence of  
+      <lb ed="#L" n="6"/>him which believeth every greate and  
+      <lb ed="#L" n="7"/>unpossible thing. For, faith is ruled &amp; 
+      <lb ed="#L" n="8"/>bound to the word of God, to the word  
+      <lb ed="#L" n="9"/>of God, I say, rightly and truly under 
+      <lb ed="#L" n="10"/>stoode,  
+      <lb ed="#L" n="11"/>The godly and faithfull therefore,  
+      <lb ed="#L" n="12"/>doe not by and by, out of the omnipo 
+      <lb ed="#L" n="13"/>tencie of God, gather what they list,  
+      <lb ed="#L" n="14"/>as though God therfore would do eve 
+      <lb ed="#L" n="15"/>ry thing beeause he ean do all thinges,  
+      <lb ed="#L" n="16"/>or that faith should therefore believe  
+      <lb ed="#L" n="17"/>every thing, because it is written: All  
+      <lb ed="#L" n="18"/>thinges are possible to him that belee 
+      <lb ed="#L" n="19"/>veth. For, his faith is therefore a  
+      <lb ed="#L" n="20"/>greate deale more, because that which  
+      <lb ed="#L" n="21"/>hee doth beleeve, is so set downe and  
+      <lb ed="#L" n="22"/>declared in the word of God, as he do 
+      <lb ed="#L" n="23"/>eth believe.  
+      <lb ed="#L" n="24"/>Furthermore, where the Lorde in  
+      <lb ed="#L" n="25"/>the Gospel saith. All thinges are pos 
+      <lb ed="#L" n="26"/>sible to him that beleeveth, wee must  
+      <lb ed="#L" n="27"/>not take that saying to bee absolutely  
+      <lb ed="#L" n="28"/>spoken, but to be ioyned to the worde,  
+      <lb ed="#L" n="29"/>will, and glory of God, &amp; the safetie of  
+      <lb ed="#L" n="30"/>our soules. For, all thinges which  
+      <lb ed="#L" n="31"/>GOD in his worde hath promised)  
+      <lb ed="#L" n="32"/>all thinges whiche GOD. will 
+      <lb ed="#L" n="33"/>have, and lastly, all thinges which I 
+      <lb ed="#L" n="34"/>make to the glorie of God, &amp; the fafe 
+      <lb ed="#L" n="35"/>garde of our soules, are possible to him 
+      <lb ed="#L" n="36"/>that beleeveth. And for that cause,  
+      <lb ed="#L" n="37"/>the Apostle both openly and plainely  
+      <lb ed="#L" n="38"/>saide: whatsoever God hath promi 
+      <lb ed="#L" n="39"/>sed, that same hee is, able also to 
+      <lb ed="#L" n="40"/>performe. For whatsoever he hath not 
+      <lb ed="#L" n="41"/>promised, &amp;: whatsoever pleaseth not 
+      <lb ed="#L" n="42"/>his divine maiesty, or is contrarie to  
+      <lb ed="#L" n="43"/>the will and expresse worde of God,  
+      <lb ed="#L" n="44"/>that cannot GOD doe, not because  
+      <lb ed="#L" n="45"/>hee can not, but because he will not.  
+      <!--36.xml-->
+      <pb ed="#L" n="36"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>God could make bread of stones, but 
+      <lb ed="#L" n="2"/>wee must not therefore believe that 
+      <lb ed="#L" n="3"/>stones are bread, neyther are they  
+      <lb ed="#L" n="4"/>bread therefore, because God can doe  
+      <lb ed="#L" n="5"/>all thinges. This yee shall understand  
+      <lb ed="#L" n="6"/>better and more fully, whereas a litle  
+      <lb ed="#L" n="7"/>hereafter I shall shew unto you, that 
+      <lb ed="#L" n="8"/>true faith strayeth not nor wavereth  
+      <lb ed="#L" n="9"/>wandring too and fro, but cleaveth  
+      <lb ed="#L" n="10"/>close and sticketh fast to God and his  
+      <lb ed="#L" n="11"/>worde,  
+      <lb ed="#L" n="12"/>In the meane season because wee  
+      <lb ed="#L" n="13"/>have shewed out of Paules wordes by  
+      <lb ed="#L" n="14"/>the example af Abraham, that faith is  
+      <lb ed="#L" n="15"/>a substance and undoubted perswasi 
+      <lb ed="#L" n="16"/>on in the hearte. And because many 
+      <lb ed="#L" n="17"/>doe stifly stande in it, that man is not 
+      <lb ed="#L" n="18"/>surely certeine of his salvation, I will  
+      <lb ed="#L" n="19"/>adde a fewe examples out of the Go 
+      <lb ed="#L" n="20"/>spell, whereby they may plainely per 
+      <lb ed="#L" n="21"/>ceive that faith is a more sure ground,  
+      <lb ed="#L" n="22"/>and setled opinion touthing God and  
+      <lb ed="#L" n="23"/>our salvation. And sirst verily the  
+      <lb ed="#L" n="24"/>Centurion, of whom mention is made  
+      <lb ed="#L" n="25"/>in the Gospel, had conceived a stedfast  
+      <lb ed="#L" n="26"/>hope that his seruant should be healed  
+      <lb ed="#L" n="27"/>of the Lorde. For he understoode howe  
+      <lb ed="#L" n="28"/>greate and mightie thinges hee promi 
+      <lb ed="#L" n="29"/>sed to them that believe. Hee gathered 
+      <lb ed="#L" n="30"/>also by the woorkes of Christ, that it  
+      <lb ed="#L" n="31"/>was an easie matter for him to restore  
+      <lb ed="#L" n="32"/>his seruant to health againe. There 
+      <lb ed="#L" n="33"/>fore hee commeth to the Lorde, and a 
+      <lb ed="#L" n="34"/>mong other talke sayeth. It is no rea 
+      <lb ed="#L" n="35"/>Ion that thou shouldest come under 
+      <lb ed="#L" n="36"/>my roofe, yea doe but saie the worde  
+      <lb ed="#L" n="37"/>and my seruaunt shall be made whole.  
+      <lb ed="#L" n="38"/>These wordes doe testifie, that in the  
+      <lb ed="#L" n="39"/>hearte and minde of the Centurion,  
+      <lb ed="#L" n="40"/>there was a sure perswasion of most  
+      <lb ed="#L" n="41"/>alssured health, which by a certeyne  
+      <lb ed="#L" n="42"/>comparison, hee doeth make manifest  
+      <lb ed="#L" n="43"/>and more fully expresse. For I my 
+      <lb ed="#L" n="44"/>selfe am a man under the authoritie of  
+      <lb ed="#L" n="45"/>an other, and undermee I have soul 
+      <lb ed="#L" n="46"/>diours, and Isay to one, goe, and he  
+      <!--36.xml-->
+      <pb ed="#L" n="36"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>goeth: and to an other, eome, and hee  
+      <lb ed="#L" n="2"/>commeth: and to my seruant doe this,  
+      <lb ed="#L" n="3"/>and he doeth it. Then the Lorde per 
+      <lb ed="#L" n="4"/>ceived this certificatio of his mind, by  
+      <lb ed="#L" n="5"/>his words most full of faith, he crieth  
+      <lb ed="#L" n="6"/>out, that in al Israel he hath not found  
+      <lb ed="#L" n="7"/>so great faith,  
+      <lb ed="#L" n="8"/>The same again in the Gospel, spea 
+      <lb ed="#L" n="9"/>keth notably of ye womas faith which  
+      <lb ed="#L" n="10"/>was sorely plagved with the bloudye  
+      <lb ed="#L" n="11"/>flure. And that faith was an undoub 
+      <lb ed="#L" n="12"/>ted perswasion in her hearte once illu 
+      <lb ed="#L" n="13"/>minated, we may thereby understand,  
+      <lb ed="#L" n="14"/>because she (being first in deede stirred  
+      <lb ed="#L" n="15"/>up by the works &amp; words of the Lord)  
+      <lb ed="#L" n="16"/>thought thus within her selfe, if Idoe  
+      <lb ed="#L" n="17"/>but touch his garment, I shalbe whole.  
+      <lb ed="#L" n="18"/>And therforepressing through the thic 
+      <lb ed="#L" n="19"/>kest of the throng, cometh to the Lord,  
+      <lb ed="#L" n="20"/>But why heape I together many ex 
+      <lb ed="#L" n="21"/>amples: doth not the onely faith of the  
+      <lb ed="#L" n="22"/>Chananitish or Syrophenissian wo 
+      <lb ed="#L" n="23"/>man, declare more plainly than that it  
+      <lb ed="#L" n="24"/>can be denied, how that faith is a most  
+      <lb ed="#L" n="25"/>allured perswasion of things believed:  
+      <lb ed="#L" n="26"/>For being over passed, and as it were  
+      <lb ed="#L" n="27"/>contemned of the Lord, shee wavereth  
+      <lb ed="#L" n="28"/>not in faith, but following him, &amp; hea 
+      <lb ed="#L" n="29"/>ring also that the Lord was sent to the  
+      <lb ed="#L" n="30"/>lost sheepe of the house of Israel, shee  
+      <lb ed="#L" n="31"/>goeth on to woorship him. Moreover,  
+      <lb ed="#L" n="32"/>being put backe, &amp; as it were touched  
+      <lb ed="#L" n="33"/>with the foule reproch of a dogge, shee  
+      <lb ed="#L" n="34"/>goeth forwarde yet humbly to cast her  
+      <lb ed="#L" n="35"/>selfe prostrate before the Lorde, reque 
+      <lb ed="#L" n="36"/>sting to obtaine the thing that she desi 
+      <lb ed="#L" n="37"/>red. She would not have persevered so  
+      <lb ed="#L" n="38"/>stiffely if faith had not beene a certifi 
+      <lb ed="#L" n="39"/>cation in her beleving mind and heart,  
+      <lb ed="#L" n="40"/>Wherefore, the Lord moved with that 
+      <lb ed="#L" n="41"/>faith of hirs, cryed: woman, great is  
+      <lb ed="#L" n="42"/>thy faith, bee it done to thee even as  
+      <lb ed="#L" n="43"/>thou wilt.  
+      <lb ed="#L" n="44"/>It is manifest therefore, by all these  
+      <lb ed="#L" n="45"/>testimonies of the holy Scripture, that 
+      <lb ed="#L" n="46"/>faith is a stedfast &amp; undouted persuasio  
+      <!--37.xml-->
+      <pb ed="#L" n="37"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>in the minde and heart of the believer,  
+      <lb ed="#L" n="2"/>This, being now brought to an end,  
+      <lb ed="#L" n="3"/>let us see what it is whereupon mans  
+      <lb ed="#L" n="4"/>faith doth leane, and also how we may 
+      <lb ed="#L" n="5"/>clearely perceive, that faith is not a  
+      <lb ed="#L" n="6"/>vayne and unstalbe opinion cas a litle  
+      <lb ed="#L" n="7"/>before wee were about to saye) of any  
+      <lb ed="#L" n="8"/>thinge whatsoever conceived in the  
+      <lb ed="#L" n="9"/>minde of man, but that it is tyed by  
+      <lb ed="#L" n="10"/>and contayned within bounds, and as  
+      <lb ed="#L" n="11"/>it were certaine conditions. In the  
+      <lb ed="#L" n="12"/>definition therefore of faith, we sayde  
+      <lb ed="#L" n="13"/>that faith bendeth to Godwarde, and  
+      <lb ed="#L" n="14"/>leaneth on his worde. God therefore  
+      <lb ed="#L" n="15"/>and the worde of God, is the obiect  
+      <lb ed="#L" n="16"/>2. 
+      <lb ed="#L" n="17"/>or foundation of true faith. The thing 
+      <lb ed="#L" n="18"/>whereon a man may leane safely, sure 
+      <lb ed="#L" n="19"/>ly, and without all manner doubting,  
+      <lb ed="#L" n="20"/>must needes be stedfast and altogether 
+      <lb ed="#L" n="21"/>unmoveable, which doeth give health,  
+      <lb ed="#L" n="22"/>which doth preserue, and which doth sil  
+      <lb ed="#L" n="23"/>up or minister all fulnes unto us.  
+      <lb ed="#L" n="24"/>For this doth faith seeke and request,  
+      <lb ed="#L" n="25"/>But this is not else where tha in God.  
+      <lb ed="#L" n="26"/>On God, alone therefore doeth true  
+      <lb ed="#L" n="27"/>faith bende and leane. God is everla 
+      <lb ed="#L" n="28"/>sting, chifely good, wise, iust, mightie  
+      <lb ed="#L" n="29"/>and true of worde. And that doeth he  
+      <lb ed="#L" n="30"/>testifie by his workes and word,  
+      <lb ed="#L" n="31"/>Wherefore in the Prophets he is cal 
+      <lb ed="#L" n="32"/>led a strong and unmoveable Rocke,  
+      <lb ed="#L" n="33"/>a castle, a wall, a tower, an inuincible  
+      <lb ed="#L" n="34"/>fortresse, a trealure, &amp; a wel that never 
+      <lb ed="#L" n="35"/>will be drawen drie. This everlasting  
+      <lb ed="#L" n="36"/>GOD can do all thinges, knoweth all  
+      <lb ed="#L" n="37"/>thinges, is present in all places, loveth  
+      <lb ed="#L" n="38"/>mankind exceedingly, doth provide for  
+      <lb ed="#L" n="39"/>al men, and also governeth or disposeth  
+      <lb ed="#L" n="40"/>al things. Faith therefore, which is a  
+      <lb ed="#L" n="41"/>confidence of Gods good will and of his  
+      <lb ed="#L" n="42"/>aide in al necessities, &amp; of the true sal 
+      <lb ed="#L" n="43"/>vation of mantinde, bendeth on god a 
+      <lb ed="#L" n="44"/>lone, &amp; cannot leane to any other crea 
+      <lb ed="#L" n="45"/>ture, in whom the things are not that 
+      <lb ed="#L" n="46"/>faith requireth,  
+      <lb ed="#L" n="47"/>And even as God is true of word, &amp;  
+      <!--37.xml-->
+      <pb ed="#L" n="37"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>can not lye, so is his word true and de 
+      <lb ed="#L" n="2"/>ceiveth no man. In the worde of  
+      <lb ed="#L" n="3"/>God is expressed the will and minde  
+      <lb ed="#L" n="4"/>of God: To the word of God therefore  
+      <lb ed="#L" n="5"/>hath faith an eye, &amp; layeth her ground  
+      <lb ed="#L" n="6"/>uppon Gods worde, touching which  
+      <lb ed="#L" n="7"/>worde the Lorde in the Gospell sayde:  
+      <lb ed="#L" n="8"/>Heaven and earth shall passe, but my 
+      <lb ed="#L" n="9"/>worde shall not passe.  The worde of  
+      <lb ed="#L" n="10"/>God here is compared with the most  
+      <lb ed="#L" n="11"/>excellent elementes. Ayre and Wa 
+      <lb ed="#L" n="12"/>ter are feeble and unstable Clements:  
+      <lb ed="#L" n="13"/>but Heaven, although it turne and  
+      <lb ed="#L" n="14"/>mone, doth keepe yet awonderfull and  
+      <lb ed="#L" n="15"/>most stedfast course in mouing, and  
+      <lb ed="#L" n="16"/>stedfast are all thinges therein. The  
+      <lb ed="#L" n="17"/>Earth is most stable and unmovea 
+      <lb ed="#L" n="18"/>ble. Therefore it it be easier for these  
+      <lb ed="#L" n="19"/>thinges to be loased, which cannot be  
+      <lb ed="#L" n="20"/>undone, than for the worde of God to  
+      <lb ed="#L" n="21"/>passe: it followeth that Gods word in  
+      <lb ed="#L" n="22"/>al pointes is most stable, unmonea 
+      <lb ed="#L" n="23"/>ble, and not possible to be loased. I  
+      <lb ed="#L" n="24"/>saith the Lorde in Jeremie) yee can 
+      <lb ed="#L" n="25"/>undoe the leagve that I have taken 
+      <lb ed="#L" n="26"/>with the day, or the covenant that l 
+      <lb ed="#L" n="27"/>have made with the night, so that it  
+      <lb ed="#L" n="28"/>neyther be day nor night at the ap 
+      <lb ed="#L" n="29"/>pointed time, then may my covenant  
+      <lb ed="#L" n="30"/>be of nene effect which I have made 
+      <lb ed="#L" n="31"/>with Daind. But not the whole  
+      <lb ed="#L" n="32"/>worlde laying all their strengthes to 
+      <lb ed="#L" n="33"/>gether, is able to make it day when it  
+      <lb ed="#L" n="34"/>is once night, nor cause the day to  
+      <lb ed="#L" n="35"/>breake one houre sooner than the course  
+      <lb ed="#L" n="36"/>of heaven doth commaunde. There 
+      <lb ed="#L" n="37"/>fore not all this worlde with all the  
+      <lb ed="#L" n="38"/>polver and pompe thereof, shall be able  
+      <lb ed="#L" n="39"/>once to weaken or breake, to chaunge  
+      <lb ed="#L" n="40"/>or abolish so much as one tittle in the  
+      <lb ed="#L" n="41"/>worde of God, and the trueth of gods  
+      <lb ed="#L" n="42"/>worde. Faith therefore, which re 
+      <lb ed="#L" n="43"/>steth upon a thing most firme or sure,  
+      <lb ed="#L" n="44"/>cannot choose but bee an undoubted  
+      <lb ed="#L" n="45"/>certification. And since Gods worde  
+      <lb ed="#L" n="46"/>is the foundation of Faith, Faith can 
+      <!--38.xml-->
+      <pb ed="#L" n="38"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>not wander to and fro, and leane to e 
+      <lb ed="#L" n="2"/>verie worde whatsoever. For every o 
+      <lb ed="#L" n="3"/>pinion conceived without the worde  
+      <lb ed="#L" n="4"/>of God, or against Gods worde, cannot  
+      <lb ed="#L" n="5"/>be called true faith. And for that cause  
+      <lb ed="#L" n="6"/>S. Paule the Apostle of Christ would  
+      <lb ed="#L" n="7"/>not ground the true or Christian faith  
+      <lb ed="#L" n="8"/>uppon any carnall proppes or opinions  
+      <lb ed="#L" n="9"/>of men, but upon the truth and polver  
+      <lb ed="#L" n="10"/>of God. With his wordes will I con 
+      <lb ed="#L" n="11"/>clude this place. Faith (saith he) com 
+      <lb ed="#L" n="12"/>meth of hearing, and hearing by the  
+      <lb ed="#L" n="13"/>worde of God. By the worde of God,  
+      <lb ed="#L" n="14"/>he saith, and not by the word of man,  
+      <lb ed="#L" n="15"/>Againe to the Corinthians: Ay  
+      <lb ed="#L" n="16"/>preaching (sayth he) was not in enti 
+      <lb ed="#L" n="17"/>sing wordes of mans wisedome, but in  
+      <lb ed="#L" n="18"/>the shewing foorth of the spirite, and  
+      <lb ed="#L" n="19"/>of polver, that your faith shoulde not 
+      <lb ed="#L" n="20"/>be in the wisedome of man, but in the 
+      <lb ed="#L" n="21"/>polver of God. Thereby also wee  
+      <lb ed="#L" n="22"/>learne, that some there are, which a 
+      <lb ed="#L" n="23"/>gainst all reason require faith at our  
+      <lb ed="#L" n="24"/>handes, that is, they would have us to  
+      <lb ed="#L" n="25"/>believe that, which they are not able  
+      <lb ed="#L" n="26"/>to shewe out of Gods worde, or that 
+      <lb ed="#L" n="27"/>which is cleane contrarie to the word  
+      <lb ed="#L" n="28"/>of GOD. To the better declaring of  
+      <lb ed="#L" n="29"/>this that I have saide, avayleth that 
+      <lb ed="#L" n="30"/>short abridgement of Gods worde and  
+      <lb ed="#L" n="31"/>of faith, which we in the definition of  
+      <lb ed="#L" n="32"/>faith have closely knit up together 
+      <lb ed="#L" n="33"/>Ther are there rehearsed two chiefe  
+      <lb ed="#L" n="34"/>pointes of faith and of the worde. And  
+      <lb ed="#L" n="35"/>first of all that God in Christ doth free 
+      <lb ed="#L" n="36"/>ly promise life and every good thing.  
+      <lb ed="#L" n="37"/>For God, who is the obiect or marke  
+      <lb ed="#L" n="38"/>and foundation of faith, being of his  
+      <lb ed="#L" n="39"/>owne proper nature everliving ever 
+      <lb ed="#L" n="40"/>lasting, &amp; good, doth of himself from be 
+      <lb ed="#L" n="41"/>ifore all beginning, beget the son like to  
+      <lb ed="#L" n="42"/>himselfe in al points, who because he is  
+      <lb ed="#L" n="43"/>of the same substance with the father, 
+      <lb ed="#L" n="44"/>is himselfe also by nature life and all  
+      <lb ed="#L" n="45"/>goodnesse.  And to the ende he might 
+      <lb ed="#L" n="46"/>communicate to us, his Sonnes and  
+      <!--38.xml-->
+      <pb ed="#L" n="38"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>brethren, both life and all goodnesse, he  
+      <lb ed="#L" n="2"/>became man, and being conversant be 
+      <lb ed="#L" n="3"/>rie God and man among men, he testi 
+      <lb ed="#L" n="4"/>fied that God the Father, through the  
+      <lb ed="#L" n="5"/>Sonne, doeth polvre himselfe wholy  
+      <lb ed="#L" n="6"/>with all good thinges into the faithtul,  
+      <lb ed="#L" n="7"/>whom hee quickneth and silleth with  
+      <lb ed="#L" n="8"/>all goodnesse, and last of all doth take  
+      <lb ed="#L" n="9"/>them uppe to himelfe into the bles 
+      <lb ed="#L" n="10"/>sed place of everlasting life.  And that  
+      <lb ed="#L" n="11"/>hee doth frankly and freely bestow this  
+      <lb ed="#L" n="12"/>benefite, to the ende that the glorie of  
+      <lb ed="#L" n="13"/>his grace may in all thinges be pray 
+      <lb ed="#L" n="14"/>sed. This doth true faith believe, and  
+      <lb ed="#L" n="15"/>hereunto belong no small parte of the  
+      <lb ed="#L" n="16"/>Scriptures, which testifie that God in  
+      <lb ed="#L" n="17"/>Christ doth communicate to the faith,  
+      <lb ed="#L" n="18"/>full, life and godlines. John the Apo 
+      <lb ed="#L" n="19"/>stle cryeth out and saith: In the be 
+      <lb ed="#L" n="20"/>ginning was the word, and the worde  
+      <lb ed="#L" n="21"/>was with God, et God was the worde,  
+      <lb ed="#L" n="22"/>And the worde becam flesh, et dwelt 
+      <lb ed="#L" n="23"/>among us. And we sawe the glorie of  
+      <lb ed="#L" n="24"/>God as the glorie of the onely begot 
+      <lb ed="#L" n="25"/>ten sonne of the Father, full of grace  
+      <lb ed="#L" n="26"/>and trueth. And of his fulnes have all  
+      <lb ed="#L" n="27"/>we received, Ec. For the Lorde him 
+      <lb ed="#L" n="28"/>selfe in the Gospell after sainct John,  
+      <lb ed="#L" n="29"/>sayde: Verily l say unto you, whatso 
+      <lb ed="#L" n="30"/>ever thinges the father doth, the same  
+      <lb ed="#L" n="31"/>also doeth the sonne. For even as the  
+      <lb ed="#L" n="32"/>Father doth raife the dead to life and  
+      <lb ed="#L" n="33"/>duickneth them, so also doth the sonne  
+      <lb ed="#L" n="34"/>duicken whom he will: for, neyther 
+      <lb ed="#L" n="35"/>judgeth the father any man, but hath  
+      <lb ed="#L" n="36"/>committed all judgment to the sonne,  
+      <lb ed="#L" n="37"/>that all men may honour the sonne  
+      <lb ed="#L" n="38"/>even as they honour the Father. Hee  
+      <lb ed="#L" n="39"/>that honoureth not the sonne, the 
+      <lb ed="#L" n="40"/>same honoureth not the father which  
+      <lb ed="#L" n="41"/>hath sent him. Verily verily l say un 
+      <lb ed="#L" n="42"/>to you, he that heareth my worde, and  
+      <lb ed="#L" n="43"/>beleeveth on him that sant mee, hath  
+      <lb ed="#L" n="44"/>life everlasting, and shall not come in 
+      <lb ed="#L" n="45"/>to judgement, but is escaped from  
+      <lb ed="#L" n="46"/>death uuto life,  
+      <!--39.xml-->
+      <pb ed="#L" n="39"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>ith these wordes of hte Gospell,  
+      <lb ed="#L" n="2"/>agreeth that saying of s. Paul, in Christ  
+      <lb ed="#L" n="3"/>are laide up all the treasures of wise 
+      <lb ed="#L" n="4"/>dome and knowledge. Because in  
+      <lb ed="#L" n="5"/>him dwelleth all fulnesse of the God 
+      <lb ed="#L" n="6"/>head bodily, and yee in him are fulsil 
+      <lb ed="#L" n="7"/>led. But that these great benefites of  
+      <lb ed="#L" n="8"/>God are freely bestowed upo the faith,  
+      <lb ed="#L" n="9"/>ful, Paul that Vessell of election decla 
+      <lb ed="#L" n="10"/>reth in these wordes. Blessed be God,  
+      <lb ed="#L" n="11"/>who hath thosen us in Christ before  
+      <lb ed="#L" n="12"/>the foundatios of the world were laid,  
+      <lb ed="#L" n="13"/>and hath predestinated us into the a 
+      <lb ed="#L" n="14"/>doption of children through lesus  
+      <lb ed="#L" n="15"/>Christ into himelfe, according to the  
+      <lb ed="#L" n="16"/>good pleasure of his will, to the prayse  
+      <lb ed="#L" n="17"/>of the glorie of his grace, wherein hee  
+      <lb ed="#L" n="18"/>in his bloud, Ec. And againe. All have  
+      <lb ed="#L" n="19"/>hath made us accepted in the beloved,  
+      <lb ed="#L" n="20"/>through whom wee have redemption 
+      <lb ed="#L" n="21"/>sinned and have neede of Gods glorie,  
+      <lb ed="#L" n="22"/>but are justified freely through his 
+      <lb ed="#L" n="23"/>grace, by the redemption which is in  
+      <lb ed="#L" n="24"/>Christ: And so forwarde. True faith  
+      <lb ed="#L" n="25"/>therfore doth believe that life and eve 
+      <lb ed="#L" n="26"/>ry good thing doth freely come to it from  
+      <lb ed="#L" n="27"/>God through Christ: which is the  
+      <lb ed="#L" n="28"/>chief Article of our faith, as in the Ar 
+      <lb ed="#L" n="29"/>forth,  
+      <lb ed="#L" n="30"/>ticles of the beleef is more largely laid  
+      <lb ed="#L" n="31"/>worde and faith is, that in the word of  
+      <lb ed="#L" n="32"/>The second principal point of Gods  
+      <lb ed="#L" n="33"/>God, there is set downe all trueth ne 
+      <lb ed="#L" n="34"/>cessary to bee beleeved : and that true  
+      <lb ed="#L" n="35"/>faith doth believe all that is declared  
+      <lb ed="#L" n="36"/>in the Scriptures For, it telleth us  
+      <lb ed="#L" n="37"/>that God is, what manner one hee is,  
+      <lb ed="#L" n="38"/>ments, his will, his commandementes,  
+      <lb ed="#L" n="39"/>what Gods workes are, what his judg 
+      <lb ed="#L" n="40"/>his promises, et what his threatninges  
+      <lb ed="#L" n="41"/>are, finally whatsoever is profitable  
+      <lb ed="#L" n="42"/>are necessarie to bee beleeved, that 
+      <lb ed="#L" n="43"/>doth Gods word wholly set down un 
+      <lb ed="#L" n="44"/>to us, et that doeth true faith receyve,  
+      <!--39.xml-->
+      <pb ed="#L" n="39"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>beleeving all thinges that are written 
+      <lb ed="#L" n="2"/>in the Lawe and the Prophetes, in the  
+      <lb ed="#L" n="3"/>Gospell and writings of the Apostles.  
+      <lb ed="#L" n="4"/>But, whatsoever can not be fetched or  
+      <lb ed="#L" n="5"/>proved out of these writings or what 
+      <lb ed="#L" n="6"/>soever is contrarie unto them, that do  
+      <lb ed="#L" n="7"/>the faithfull not believe at all. For,  
+      <lb ed="#L" n="8"/>the very nature of true faith is, not to  
+      <lb ed="#L" n="9"/>beleve that which sauareth from the  
+      <lb ed="#L" n="10"/>worde of God. Whosoever therefore  
+      <lb ed="#L" n="11"/>believeth not the fables and opinions  
+      <lb ed="#L" n="12"/>of me, hee alone beleeveth as he should:  
+      <lb ed="#L" n="13"/>for he dependeth onely upon the worde  
+      <lb ed="#L" n="14"/>of God, and so upon God himelfe, the  
+      <lb ed="#L" n="15"/>onely fountaine of al trueth. The mat 
+      <lb ed="#L" n="16"/>ter, the argument, and the whole sum 
+      <lb ed="#L" n="17"/>of faith, is briefly set out unto us in  
+      <lb ed="#L" n="18"/>the Articles of the Christian faith :  
+      <lb ed="#L" n="19"/>whereof I wil speake at another time,  
+      <lb ed="#L" n="20"/>I have this houre declared unto you  
+      <lb ed="#L" n="21"/>(doerely beloved, and reverend brethre  
+      <lb ed="#L" n="22"/>in the Lorde) the definition of faith,  
+      <lb ed="#L" n="23"/>which to the end that I may surely fa 
+      <lb ed="#L" n="24"/>sten in every ones minde, and that all  
+      <lb ed="#L" n="25"/>may understande what faith is, I re 
+      <lb ed="#L" n="26"/>peate it here againe, and therewithall  
+      <lb ed="#L" n="27"/>conclude this Sermon. Faith is a gifte  
+      <lb ed="#L" n="28"/>of God, powred into man from Hea 
+      <lb ed="#L" n="29"/>ven, whereby hee is tauoht with an un 
+      <lb ed="#L" n="30"/>God in Christ doth freely promise life  
+      <lb ed="#L" n="31"/>doubted perswasion wnolly to leane  
+      <lb ed="#L" n="32"/>to God e his worde, in which worde,  
+      <lb ed="#L" n="33"/>and every good thing, et wherein all  
+      <lb ed="#L" n="34"/>trueth necessary to be beleved is plain 
+      <lb ed="#L" n="35"/>father through his onely begotte sonne  
+      <lb ed="#L" n="36"/>our Lorde Jesus Christ, that hee wil  
+      <lb ed="#L" n="37"/>ly declared. Let us al pray to God our  
+      <lb ed="#L" n="38"/>vouchsafe from Heaven, to bestowe  
+      <lb ed="#L" n="39"/>true faith upon us all, that we  
+      <lb ed="#L" n="40"/>by it knowng him aright,  
+      <lb ed="#L" n="41"/>may at the last obteine  
+      <lb ed="#L" n="42"/>life everlasting.  
+      <lb ed="#L" n="43"/>Amen.  
+      <!--40.xml-->
+      <pb ed="#L" n="40"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>That there is one onely true Faith, and what 
+      <lb ed="#L" n="2"/>the vertue thereof is.  
+      <!--40.xml-->
+      <pb ed="#L" n="40"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>Eing cut off with the  
+      <lb ed="#L" n="2"/>shortnesse of time, &amp; de 
+      <lb ed="#L" n="3"/>teined by the excellencie  
+      <lb ed="#L" n="4"/>of the matter, I coulde  
+      <lb ed="#L" n="5"/>Inot in my last Sermon 
+      <lb ed="#L" n="6"/>make an end of al that I had determi 
+      <lb ed="#L" n="7"/>ned to speake touching faith now ther 
+      <lb ed="#L" n="8"/>fore, by the grace of the holy spirite, I  
+      <lb ed="#L" n="9"/>will adde the rest of the argument  
+      <lb ed="#L" n="10"/>which seemeth yet to be behinde. Pray 
+      <lb ed="#L" n="11"/>to the Lorde, that that which by mans  
+      <lb ed="#L" n="12"/>voice is brought to our eares, may by ye  
+      <lb ed="#L" n="13"/>finger of God be writte in our hearts,  
+      <lb ed="#L" n="14"/>True faith is ignoraunt of all divi 
+      <lb ed="#L" n="15"/>sion, for there is, saith the Apostle, one  
+      <lb ed="#L" n="16"/>Lorde, one Faith, one Baptisme, God 
+      <lb ed="#L" n="17"/>&amp; Father of all. For, there remayneth  
+      <lb ed="#L" n="18"/>from the beginning of the world even 
+      <lb ed="#L" n="19"/>unto the end thereof, one and the same  
+      <lb ed="#L" n="20"/>faith in al the elect of God. God is one  
+      <lb ed="#L" n="21"/>&amp; the same for ever, the only Wel of al  
+      <lb ed="#L" n="22"/>goodnesse, that can never bee drawne  
+      <lb ed="#L" n="23"/>dry. The trueth of God, fro the begin 
+      <lb ed="#L" n="24"/>ning of the world, is one &amp; the same, set 
+      <lb ed="#L" n="25"/>forth to me in the word of God. Ther 
+      <lb ed="#L" n="26"/>fore the obiect and foundation of faith,  
+      <lb ed="#L" n="27"/>that is God &amp; the word of God, remain  
+      <lb ed="#L" n="28"/>for ever one and the selfe same.  
+      <lb ed="#L" n="29"/>In one and the self same faith with  
+      <lb ed="#L" n="30"/>us have all the elect ever since the first  
+      <lb ed="#L" n="31"/>creation of the world beleeved, that un 
+      <lb ed="#L" n="32"/>to us through Christ al good things are  
+      <lb ed="#L" n="33"/>freely given, and that all trueth neces 
+      <lb ed="#L" n="34"/>sarie to bee beleeved is declared in the  
+      <lb ed="#L" n="35"/>word of the Lord: wherefore, the faith,  
+      <lb ed="#L" n="36"/>ful of ye old worlde, have alwaies setled  
+      <lb ed="#L" n="37"/>their faith on God and his worde : so  
+      <lb ed="#L" n="38"/>that now without all doubt, there can 
+      <lb ed="#L" n="39"/>not be any more than one true faith,  
+      <lb ed="#L" n="40"/>I know very well, that in the world  
+      <lb ed="#L" n="41"/>there are sowed manie and sundrye  
+      <lb ed="#L" n="42"/>faithes, that is to say, religions. For  
+      <lb ed="#L" n="43"/>there is the Indian faith, the Jewish  
+      <!--40.xml-->
+      <pb ed="#L" n="40"/>
+      <cb ed="#L" n="c"/>
+      <lb ed="#L" n="1"/>faith, the faith of the Mahometistes, &amp;  
+      <lb ed="#L" n="2"/>the faith of the Gregorias, and yet not  
+      <lb ed="#L" n="3"/>withstading there is but one true chri 
+      <lb ed="#L" n="4"/>stian faith, the abridgement whereof  
+      <lb ed="#L" n="5"/>is contained in the articles of our be 
+      <lb ed="#L" n="6"/>leefe, and is taught at the ful in the sa 
+      <lb ed="#L" n="7"/>cred Scriptures of both the Testa 
+      <lb ed="#L" n="8"/>ments. I know also that there are sun 
+      <lb ed="#L" n="9"/>dry beleefes of men, resting upon sun 
+      <lb ed="#L" n="10"/>dry thinges, and beleeving that which  
+      <lb ed="#L" n="11"/>is contrarie to true faith: but yet ne 
+      <lb ed="#L" n="12"/>verthelesse there remaineth but one  
+      <lb ed="#L" n="13"/>true beleefe in God &amp; his word, (which  
+      <lb ed="#L" n="14"/>is) an undoubted persuasion and confi 
+      <lb ed="#L" n="15"/>dence of things most true, and allured 
+      <lb ed="#L" n="16"/>ly certeine.  
+      <lb ed="#L" n="17"/>This confidence doth growe with  
+      <lb ed="#L" n="18"/>increase in the mindes of hte faithtul, &amp;  
+      <lb ed="#L" n="19"/>contrarily decreaseth againe and ut 
+      <lb ed="#L" n="20"/>terly faileth. And for that cause the A 
+      <lb ed="#L" n="21"/>postles besought the Lord saying: Lord  
+      <lb ed="#L" n="22"/>increase our saith. And Paul the Apo 
+      <lb ed="#L" n="23"/>stle doth in his writinges every where 
+      <lb ed="#L" n="24"/>wish to the faithful the increase of the  
+      <lb ed="#L" n="25"/>spirit &amp; faith. David also, before him 
+      <lb ed="#L" n="26"/>prayed, saying: G God create a cleane  
+      <lb ed="#L" n="27"/>heart within mee, and take not thy  
+      <lb ed="#L" n="28"/>holy spirite from mee. For hee had 
+      <lb ed="#L" n="29"/>seene how that from saul, whome hee  
+      <lb ed="#L" n="30"/>succeeded in the kingdome, the good spi 
+      <lb ed="#L" n="31"/>rite of God was departed, and that in  
+      <lb ed="#L" n="32"/>steade therof the wicked spirit had en 
+      <lb ed="#L" n="33"/>tred into his minde which tormented  
+      <lb ed="#L" n="34"/>him verie pitifully. Hereunto belon 
+      <lb ed="#L" n="35"/>geth that faying in the gospel, To eve 
+      <lb ed="#L" n="36"/>rie one that hath shalbe given, and 
+      <lb ed="#L" n="37"/>from him that hath not shalbe taken 
+      <lb ed="#L" n="38"/>away that which he hath not, or that 
+      <lb ed="#L" n="39"/>he maketh no account of, and shalbee  
+      <lb ed="#L" n="40"/>given to him that hath. Neither was 
+      <lb ed="#L" n="41"/>it in vain, that the Lord said to Peter,  
+      <lb ed="#L" n="42"/>I have prayed for thee Peter, that 
+      <lb ed="#L" n="43"/>thy faith taile not. For Paul spea 
+      <!--41.xml-->
+      <pb ed="#L" n="41"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>keth of some in his time that made  
+      <lb ed="#L" n="2"/>shipwracke of their owne faith, and  
+      <lb ed="#L" n="3"/>overthrew the faith of other. And to  
+      <lb ed="#L" n="4"/>what ende I pray you, doe wee daily  
+      <lb ed="#L" n="5"/>heare the word of God, and make our  
+      <lb ed="#L" n="6"/>humble petitions to the Lorde, but be 
+      <lb ed="#L" n="7"/>cause we looke for increase of godlines,  
+      <lb ed="#L" n="8"/>&amp; his aide to keepe us that we fall not 
+      <lb ed="#L" n="9"/>from true faith: Verily Paul to the  
+      <lb ed="#L" n="10"/>Thessalonians, saith:r wee pray ear 
+      <lb ed="#L" n="11"/>nestly day and night to see yousper 
+      <lb ed="#L" n="12"/>sonally, and to supply that which is  
+      <lb ed="#L" n="13"/>wanting in your taith. And a little  
+      <lb ed="#L" n="14"/>before, he said: For this cause I sent F 
+      <lb ed="#L" n="15"/>motheus, that I might be certified of  
+      <lb ed="#L" n="16"/>your faith, least by any meanes the  
+      <lb ed="#L" n="17"/>tempter had tempted you, and so our  
+      <lb ed="#L" n="18"/>Jabour had beene of no effect. The  
+      <lb ed="#L" n="19"/>same Apostle also in his Epistle to the  
+      <lb ed="#L" n="20"/>Ephesians saith: Christ gave some  
+      <lb ed="#L" n="21"/>Apostles, some Prophets, some Pa 
+      <lb ed="#L" n="22"/>stours ft teachers to the restoring of  
+      <lb ed="#L" n="23"/>the saintes unto the building of the  
+      <lb ed="#L" n="24"/>body of Christ, untill we all meete to 
+      <lb ed="#L" n="25"/>gether in the unitie of faith, and the  
+      <lb ed="#L" n="26"/>acknowledging of the sonne of God, 
+      <lb ed="#L" n="27"/>unto a perfect man, unto the measure 
+      <lb ed="#L" n="28"/>of age of the fulnesse of Christ, so that 
+      <lb ed="#L" n="29"/>now we be no longer children: Ther 
+      <lb ed="#L" n="30"/>fore so long as we live, we learne that 
+      <lb ed="#L" n="31"/>our faith may not be perfect, &amp; if so be  
+      <lb ed="#L" n="32"/>at any time it shall bee weakened by  
+      <lb ed="#L" n="33"/>temptations, that then it may bee re 
+      <lb ed="#L" n="34"/>paired, and againe confirmed. And  
+      <lb ed="#L" n="35"/>in this diversitie(I meane) in this in 
+      <lb ed="#L" n="36"/>crease and weakenesse of faith, there  
+      <lb ed="#L" n="37"/>is no partition or division, for the felfe  
+      <lb ed="#L" n="38"/>roote and substance of faith doeth al 
+      <lb ed="#L" n="39"/>wayes remaine, although it bee at  
+      <lb ed="#L" n="40"/>some time more, &amp; at sometime lesse,  
+      <lb ed="#L" n="41"/>In like manner, faith is not therefore  
+      <lb ed="#L" n="42"/>changed or cut in sunder, because one  
+      <lb ed="#L" n="43"/>is called generall faith, and another 
+      <lb ed="#L" n="44"/>particular faith. For generall faith is  
+      <lb ed="#L" n="45"/>no other than that, which believeth  
+      <lb ed="#L" n="46"/>that al the words of God are true, and  
+      <!--41.xml-->
+      <pb ed="#L" n="41"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>that God hath a good will to mankind.  
+      <lb ed="#L" n="2"/>Particular faith believeth nothing  
+      <lb ed="#L" n="3"/>contrarie to this, onely that which is  
+      <lb ed="#L" n="4"/>common to all, the faithfull applyeth  
+      <lb ed="#L" n="5"/>particularly to himself, helieving that  
+      <lb ed="#L" n="6"/>God is not well minded towarde o 
+      <lb ed="#L" n="7"/>thers alone, but even unto him also. 
+      <lb ed="#L" n="8"/>So then, it bringeth the whole into  
+      <lb ed="#L" n="9"/>partes, and that which is generall in 
+      <lb ed="#L" n="10"/>to particularities. For whereas by  
+      <lb ed="#L" n="11"/>generall faith he believeth that all the  
+      <lb ed="#L" n="12"/>wordes of God are true: in the same  
+      <lb ed="#L" n="13"/>fort by particular faith he doth believe  
+      <lb ed="#L" n="14"/>that the foule is immortall, that our  
+      <lb ed="#L" n="15"/>bodies rise againe, that the faithfull  
+      <lb ed="#L" n="16"/>shalbe saved, the unbelivers destroied,  
+      <lb ed="#L" n="17"/>and whatsoever else is of this forte,  
+      <lb ed="#L" n="18"/>taught to bee believed in the worde of  
+      <lb ed="#L" n="19"/>God. Moreover, the disputation tou 
+      <lb ed="#L" n="20"/>ching faith powvred into us, and faitl  
+      <lb ed="#L" n="21"/>that we our selves get, touching for 
+      <lb ed="#L" n="22"/>mall faith, and faith without fashion,  
+      <lb ed="#L" n="23"/>I believe to bee beaten out of them 
+      <lb ed="#L" n="24"/>which of them selves doe bring these  
+      <lb ed="#L" n="25"/>new disputations into the Church.  
+      <lb ed="#L" n="26"/>True faith is obteined by no stregth  
+      <lb ed="#L" n="27"/>or merite of man, but is poured ints  
+      <lb ed="#L" n="28"/>him of God, as I declared in my last  
+      <lb ed="#L" n="29"/>Sermon: and though man obtaine it  
+      <lb ed="#L" n="30"/>by harkning unto the word of God, yet  
+      <lb ed="#L" n="31"/>neverthelesse, it is wholy imputed to  
+      <lb ed="#L" n="32"/>ye grace of god. For unlesse this grace  
+      <lb ed="#L" n="33"/>do worke in wardly in the heart of the  
+      <lb ed="#L" n="34"/>hearer, ye preacher that laboureth outs  
+      <lb ed="#L" n="35"/>wardly doth bring no profit at all. We  
+      <lb ed="#L" n="36"/>reade in the third chapter of S. Augu 
+      <lb ed="#L" n="37"/>stines booke, De preedestinatione Sanfto  
+      <lb ed="#L" n="38"/>rum. That once he was in an error be 
+      <lb ed="#L" n="39"/>cause hee thought that that faith,  
+      <lb ed="#L" n="40"/>wherewith wee believe in God, is not 
+      <lb ed="#L" n="41"/>the gift of God, but that it was in us as  
+      <lb ed="#L" n="42"/>of out selves, et that by it wee doe ob 
+      <lb ed="#L" n="43"/>tein the gifts of God, wherby we may 
+      <lb ed="#L" n="44"/>in this worlde live rightly ad holilie.  
+      <lb ed="#L" n="45"/>But this he confuteth in that booke at  
+      <lb ed="#L" n="46"/>large &amp; that substantially. So then,  
+      <!--42.xml-->
+      <pb ed="#L" n="42"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>true faith which bedeth on God alone  
+      <lb ed="#L" n="2"/>and is directed by the worde of God, is  
+      <lb ed="#L" n="3"/>formal enough or susficiently in fashis,  
+      <lb ed="#L" n="4"/>Verily the forme of faith is ingraven 
+      <lb ed="#L" n="5"/>in the heart ofthe faithtull, by the holy  
+      <lb ed="#L" n="6"/>Ghost. And although it bee small and  
+      <lb ed="#L" n="7"/>doth not grow up to the highest degree, 
+      <lb ed="#L" n="8"/>yet notwithstanding, it is true fayth  
+      <lb ed="#L" n="9"/>having force in it as it were a grayne  
+      <lb ed="#L" n="10"/>of mustardseede.  
+      <lb ed="#L" n="11"/>The theefe that was crucified with  
+      <lb ed="#L" n="12"/>our Lorde, beleeved in the Lord Jesus,  
+      <lb ed="#L" n="13"/>and was saved, although the force of  
+      <lb ed="#L" n="14"/>faith was strong in him but a verye  
+      <lb ed="#L" n="15"/>small season, and brought not forth a 
+      <lb ed="#L" n="16"/>ny great store of fruite of good workes:  
+      <lb ed="#L" n="17"/>finally, that faith of the theefe was not 
+      <lb ed="#L" n="18"/>any whit divers or contrarie from the  
+      <lb ed="#L" n="19"/>faith of saint Peter and sint Paul,  
+      <lb ed="#L" n="20"/>but was altogether ye very same with  
+      <lb ed="#L" n="21"/>theirs, although their faith brought  
+      <lb ed="#L" n="22"/>forth somwhat more aboundantly the  
+      <lb ed="#L" n="23"/>fruite of good workes. Peter and Paul 
+      <lb ed="#L" n="24"/>were frankly and freely justified, al 
+      <lb ed="#L" n="25"/>though they had manye good workes:  
+      <lb ed="#L" n="26"/>freely was the theef justified, although  
+      <lb ed="#L" n="27"/>his good works were very few or none  
+      <lb ed="#L" n="28"/>at all. Let us hold therefore, that true  
+      <lb ed="#L" n="29"/>faith is one alone, which notwithstan 
+      <lb ed="#L" n="30"/>ding doth increase &amp; is augmented, and  
+      <lb ed="#L" n="31"/>again, may decrease &amp; be ertinguished.  
+      <lb ed="#L" n="32"/>There remaineth now for mee to de 
+      <lb ed="#L" n="33"/>clare, the vertue &amp; effect of true faith,  
+      <lb ed="#L" n="34"/>This hath the holy Apostle Paul done  
+      <lb ed="#L" n="35"/>very excellently well, yea and that 
+      <lb ed="#L" n="36"/>most absolutely too. But although in  
+      <lb ed="#L" n="37"/>the eleventh chapter to the Hebrewes 
+      <lb ed="#L" n="38"/>he had saide very much, he is conspel 
+      <lb ed="#L" n="39"/>led notwithstanding to confesse that he  
+      <lb ed="#L" n="40"/>cannot reckon up all: therefore at this  
+      <lb ed="#L" n="41"/>time I meane to rehearse a fewe ver 
+      <lb ed="#L" n="42"/>tues of faith, leaving the rest (deerely  
+      <lb ed="#L" n="43"/>beloved) to bee sought out &amp; confidered  
+      <lb ed="#L" n="44"/>of your selves.  
+      <lb ed="#L" n="45"/>True faith before al thinges bring 
+      <lb ed="#L" n="46"/>eth with it true knowledge and ma 
+      <!--42.xml-->
+      <pb ed="#L" n="42"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>keth us wise indeede. For by faith wee  
+      <lb ed="#L" n="2"/>knowe God, and judge aright of the  
+      <lb ed="#L" n="3"/>judgementes and woorkes of God, of  
+      <lb ed="#L" n="4"/>vertues and vices. The wisedome that  
+      <lb ed="#L" n="5"/>it bringeth with it, is without doubt ye  
+      <lb ed="#L" n="6"/>true wisedome. Many men hope that  
+      <lb ed="#L" n="7"/>they can attaine to true wisedome by  
+      <lb ed="#L" n="8"/>the ftudie of Philosophie: but they are  
+      <lb ed="#L" n="9"/>deceived as farre as heaven is broade.  
+      <lb ed="#L" n="10"/>For Philosophie doth falsly judge, and  
+      <lb ed="#L" n="11"/>faultily teach many thinges touching  
+      <lb ed="#L" n="12"/>God, the workes of GOD, the chiefe  
+      <lb ed="#L" n="13"/>goodnesse, the ende of good and evil, and  
+      <lb ed="#L" n="14"/>touthing thinges to bee desired and es 
+      <lb ed="#L" n="15"/>chewed. But the verie same thinges  
+      <lb ed="#L" n="16"/>are rightly and truely taught in the  
+      <lb ed="#L" n="17"/>word of God, and understoode and per 
+      <lb ed="#L" n="18"/>ceived by faith. Faith therefore is the  
+      <lb ed="#L" n="19"/>true wisedome, and maketh us wise in  
+      <lb ed="#L" n="20"/>deede. For Jereme also saith. Beholde  
+      <lb ed="#L" n="21"/>they have cast away the worde of the  
+      <lb ed="#L" n="22"/>Lorde, what wisedome therefore can 
+      <lb ed="#L" n="23"/>there be left in them? The wisedome  
+      <lb ed="#L" n="24"/>of salomon, is worshipfully thought  
+      <lb ed="#L" n="25"/>of throughout the whole compasse of  
+      <lb ed="#L" n="26"/>the world. And yet we reade that the  
+      <lb ed="#L" n="27"/>Lord in the Gospell after S. Math, ut 
+      <lb ed="#L" n="28"/>tered this sentence against the Jewes.  
+      <lb ed="#L" n="29"/>The Egeene of the South shall rise in  
+      <lb ed="#L" n="30"/>judgement with this generation and 
+      <lb ed="#L" n="31"/>shall condemne it, because shee came  
+      <lb ed="#L" n="32"/>from the endes of the worlde to heare  
+      <lb ed="#L" n="33"/>the wisedome of salomon: et beholde  
+      <lb ed="#L" n="34"/>there is one in this place greater than 
+      <lb ed="#L" n="35"/>Salomon. Christ is preferred before  
+      <lb ed="#L" n="36"/>Salomon, and the wisedome of Christ  
+      <lb ed="#L" n="37"/>before the wisedome of salomon. But  
+      <lb ed="#L" n="38"/>it is well knowne that the wisedom of  
+      <lb ed="#L" n="39"/>Christ the sonne of God can not bee at 
+      <lb ed="#L" n="40"/>teyned too without faith. Faith there 
+      <lb ed="#L" n="41"/>fore bringeth with it the most ercellet  
+      <lb ed="#L" n="42"/>wisedom. But herein, this wisedom of  
+      <lb ed="#L" n="43"/>ours deserueth a singular prayse, be 
+      <lb ed="#L" n="44"/>cause they that desire it are not sent to  
+      <lb ed="#L" n="45"/>forreine nations, with great cost &amp; la 
+      <lb ed="#L" n="46"/>bour to learne it, as to the priest of  
+      <!--43.xml-->
+      <pb ed="#L" n="43"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>Egypt, the Gymnosophistes of lndia, 
+      <lb ed="#L" n="2"/>the Philosophers of Ereece, or to the  
+      <lb ed="#L" n="3"/>Babines of the lewes. God hath dis 
+      <lb ed="#L" n="4"/>persed the worde of God throughout  
+      <lb ed="#L" n="5"/>the whole world, so that now the word  
+      <lb ed="#L" n="6"/>of faith is in the hearts of all the faith,  
+      <lb ed="#L" n="7"/>full. For Paule the Apostle saith. Thus 
+      <lb ed="#L" n="8"/>saith the justice that is of faith, saye  
+      <lb ed="#L" n="9"/>not in thy heart who shal descend into  
+      <lb ed="#L" n="10"/>heavenr that is, to fetch Christ downe  
+      <lb ed="#L" n="11"/>from above. Or who shall descend in 
+      <lb ed="#L" n="12"/>to the deepe) that is to bring Christ  
+      <lb ed="#L" n="13"/>from the dead againe. But what saith,  
+      <lb ed="#L" n="14"/>he) The worde is nigh unto thee even 
+      <lb ed="#L" n="15"/>in thy heart: this same is the worde of  
+      <lb ed="#L" n="16"/>faith which we preach, for if thou co 
+      <lb ed="#L" n="17"/>fesse with thy mouth the Lord lesus,  
+      <lb ed="#L" n="18"/>and doest beleeve with thy heart that 
+      <lb ed="#L" n="19"/>God hath raised him from the dead 
+      <lb ed="#L" n="20"/>thou shalt be saved. Faith therefore  
+      <lb ed="#L" n="21"/>doth not onely make us wise but hap 
+      <lb ed="#L" n="22"/>pie also, the Lord himself bearing wit 
+      <lb ed="#L" n="23"/>nes thereunto &amp; saying to his disciples.  
+      <lb ed="#L" n="24"/>Nappie are the eyes that see the things  
+      <lb ed="#L" n="25"/>that ye see. For l say unto you that ma 
+      <lb ed="#L" n="26"/>nie prophetes and kinges have desired  
+      <lb ed="#L" n="27"/>to see the things that ye seeret to heare  
+      <lb ed="#L" n="28"/>the thinges that ye heare, et heard the  
+      <lb ed="#L" n="29"/>not. We shall therfore finde in faith, a  
+      <lb ed="#L" n="30"/>most certaine determination of ye most  
+      <lb ed="#L" n="31"/>notalbequestion stirred in, since the be 
+      <lb ed="#L" n="32"/>ginning of the world, of learned &amp; most  
+      <lb ed="#L" n="33"/>excellent wits, which is: by what mea 
+      <lb ed="#L" n="34"/>nes a man may live, be happy, attaine  
+      <lb ed="#L" n="35"/>to the chiefe goodnes, be ioyned to the  
+      <lb ed="#L" n="36"/>chiefe goodnes, &amp; so be justified: There  
+      <lb ed="#L" n="37"/>have been, yea &amp; yet are, divers opinios  
+      <lb ed="#L" n="38"/>touthing this matter, cotrarie the one  
+      <lb ed="#L" n="39"/>to the other. But we do briefely &amp; truly  
+      <lb ed="#L" n="40"/>affirme, that by true faith a man doth  
+      <lb ed="#L" n="41"/>live, is happy, attaineth to ye chief good 
+      <lb ed="#L" n="42"/>nes, is conioyned to the chief goodnes, &amp;  
+      <lb ed="#L" n="43"/>also justified: so ye god dwelleth in us, &amp; 
+      <lb ed="#L" n="44"/>we in him, &amp; that by faith we are both  
+      <lb ed="#L" n="45"/>happy and blessed. What I pray you  
+      <lb ed="#L" n="46"/>could have beene spoke more excellently  
+      <!--43.xml-->
+      <pb ed="#L" n="43"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>worthily or divinely, touching true  
+      <lb ed="#L" n="2"/>faith: for se, faith quikneth us, maketh  
+      <lb ed="#L" n="3"/>us happy, ioineth us to the chiefe good 
+      <lb ed="#L" n="4"/>nes, so ye he in us &amp; we in him may live,  
+      <lb ed="#L" n="5"/>&amp; faith doth also fully justifie us. But  
+      <lb ed="#L" n="6"/>now it is best to heare the testimonies  
+      <lb ed="#L" n="7"/>out of the scriptures. Faith maketh us  
+      <lb ed="#L" n="8"/>happy. For to S. Pet, confessing ye lord  
+      <lb ed="#L" n="9"/>Jesus by true faith it is sayde. Bappie 
+      <lb ed="#L" n="10"/>art thou simon the son of Jonas. Vlesh  
+      <lb ed="#L" n="11"/>and bloud hath not revealed this to  
+      <lb ed="#L" n="12"/>thee, but my father which is in heave.  
+      <lb ed="#L" n="13"/>S. Paul for the proofe of faith bringeth  
+      <lb ed="#L" n="14"/>in that sentence of David. Happi are  
+      <lb ed="#L" n="15"/>they whose iniduities are forgiven and 
+      <lb ed="#L" n="16"/>whose sinnes are covered. Plessed is  
+      <lb ed="#L" n="17"/>the man to who the Lord shall impute  
+      <lb ed="#L" n="18"/>no sinne. Faith dquickneth or maketh a  
+      <lb ed="#L" n="19"/>live. For the just liveth by faith. This  
+      <lb ed="#L" n="20"/>doth Paule very often in his writings  
+      <lb ed="#L" n="21"/>alledge out of the prophets. The same  
+      <lb ed="#L" n="22"/>Paul also saith: The life which nowI 
+      <lb ed="#L" n="23"/>live in flesh, I live by faith in the sonne  
+      <lb ed="#L" n="24"/>of God, who lovedmee and gave him  
+      <lb ed="#L" n="25"/>selfe for me. Faith ioineth us to ye eter 
+      <lb ed="#L" n="26"/>nall &amp; chiefe goodnes, &amp; so maketh us to  
+      <lb ed="#L" n="27"/>inioy ye chief goodnes, ye god may dwell  
+      <lb ed="#L" n="28"/>in us &amp; we in God. For the Lord Jesus  
+      <lb ed="#L" n="29"/>himselfe in the gospell saith. He which  
+      <lb ed="#L" n="30"/>eateth my flesh, &amp;t drinketh my bloud  
+      <lb ed="#L" n="31"/>dwelleth in me, et I in him. As the ly 
+      <lb ed="#L" n="32"/>ving father sent me, so also l live by the  
+      <lb ed="#L" n="33"/>father, et he that eateth me shal live by  
+      <lb ed="#L" n="34"/>me. But to eate &amp; drinkye Lord is to be 
+      <lb ed="#L" n="35"/>lieve in ye Lord, ye he hath given himself  
+      <lb ed="#L" n="36"/>to death for us. Wherupon Johnye A 
+      <lb ed="#L" n="37"/>postle saith. we have seene et do wit 
+      <lb ed="#L" n="38"/>nesse, that the father hath sent the son 
+      <lb ed="#L" n="39"/>the saviour of the worlde. whosoever 
+      <lb ed="#L" n="40"/>shall confesse that lesus is the sonne of  
+      <lb ed="#L" n="41"/>God, God dwelleth in him and he in  
+      <lb ed="#L" n="42"/>God. Wherefore also Paul said: I live  
+      <lb ed="#L" n="43"/>now, not l, but Christ liveth in me, 
+      <lb ed="#L" n="44"/>Moreover faith doth justifie,  
+      <lb ed="#L" n="45"/>But for because the treatise therof can 
+      <lb ed="#L" n="46"/>no  
+      <!--44.xml-->
+      <pb ed="#L" n="44"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>ende of this houre, I meane to deferre  
+      <lb ed="#L" n="2"/>it till the next Sermon that shall bee,  
+      <lb ed="#L" n="3"/>At this present (dearely beloeved) yee  
+      <lb ed="#L" n="4"/>must rememder, that there is but one  
+      <lb ed="#L" n="5"/>true faith that is the Christian faith,  
+      <lb ed="#L" n="6"/>For although there be said to be many  
+      <lb ed="#L" n="7"/>faithes, that is religions, yet notwith 
+      <lb ed="#L" n="8"/>standing there is onely but one true  
+      <lb ed="#L" n="9"/>and undoubted faith. And that doth  
+      <lb ed="#L" n="10"/>increase and againe decrease in some  
+      <!--44.xml-->
+      <pb ed="#L" n="44"/>
+      <cb ed="#L" n="b"/>
+      <lb ed="#L" n="1"/>men. As for those in whom it is right 
+      <lb ed="#L" n="2"/>ly and godly obserued, in them it shew 
+      <lb ed="#L" n="3"/>eth foorth sundrie vertues. For it  
+      <lb ed="#L" n="4"/>bringeth with it true wisedome, final 
+      <lb ed="#L" n="5"/>ly, it quickneth and maketh us blessed  
+      <lb ed="#L" n="6"/>and happy in deede. To God the father  
+      <lb ed="#L" n="7"/>the author of all goodnesse, and of our  
+      <lb ed="#L" n="8"/>felicitie, be al praise and glorie through  
+      <lb ed="#L" n="9"/>Jesus Christ our Lord, for ever and e 
+      <lb ed="#L" n="10"/>ver. Amen  
+      <!--44.xml-->
+      <pb ed="#L" n="44"/>
+      <cb ed="#L" n="c"/>
+      <lb ed="#L" n="1"/>That the faithfull are justified by faith withoist  
+      <lb ed="#L" n="2"/>the lawe and workes.  
+      <!--44.xml-->
+      <pb ed="#L" n="44"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>h Eing readye here  
+      <lb ed="#L" n="2"/>y (dearely beloved) to  
+      <lb ed="#L" n="3"/>speake unto you of  
+      <lb ed="#L" n="4"/>faith, which with 
+      <lb ed="#L" n="5"/>out workes doeth  
+      <lb ed="#L" n="6"/>justifie them that 
+      <lb ed="#L" n="7"/> believe, I call upon 
+      <lb ed="#L" n="8"/>the Father, which is in heaven, tho 
+      <lb ed="#L" n="9"/>rough his onely begotten sonne Jesus  
+      <lb ed="#L" n="10"/>Christ our Lorde, beseeching him to  
+      <lb ed="#L" n="11"/>open my mouth and lippes to the set 
+      <lb ed="#L" n="12"/>ting foorth of his prayse, and to illu 
+      <lb ed="#L" n="13"/>minate your heartes, that ye acknow 
+      <lb ed="#L" n="14"/>ledging the great benefite of God, may  
+      <lb ed="#L" n="15"/>become thankefull for it and holy in  
+      <lb ed="#L" n="16"/>deede.  
+      <lb ed="#L" n="17"/>And first of all, I will speake cer 
+      <lb ed="#L" n="18"/>taine things chiefely necessarie to this  
+      <lb ed="#L" n="19"/>argument or treatise, touching this  
+      <lb ed="#L" n="20"/>terme of justification. The terme of  
+      <lb ed="#L" n="21"/>justifying, very usuall and common a 
+      <lb ed="#L" n="22"/>mong the Hebrews, and of a large sig 
+      <lb ed="#L" n="23"/>nification, is not at this day so wel un 
+      <lb ed="#L" n="24"/>quite from judgement, and from the  
+      <lb ed="#L" n="25"/>denounced and uttered sentence of  
+      <lb ed="#L" n="26"/>condemnation. It signifieth to remit  
+      <lb ed="#L" n="27"/>derstoode of all men, as it ought to be,  
+      <lb ed="#L" n="28"/>To justifie, is as much to saye as to  
+      <lb ed="#L" n="29"/>offences, to cleanse, to sanctifie, and to  
+      <lb ed="#L" n="30"/>give utterance of life everlasting. For  
+      <!--44.xml-->
+      <pb ed="#L" n="44"/>
+      <cb ed="#L" n="a"/>
+      <lb ed="#L" n="1"/>it is a lawe terme belonging to courts  
+      <lb ed="#L" n="2"/>where judgement is exercised. Ima 
+      <lb ed="#L" n="3"/>gine therefore, that man is set before  
+      <lb ed="#L" n="4"/>the judgement seate of God, and that  
+      <lb ed="#L" n="5"/>there he is pleaded guiltie, to wit, that 
+      <lb ed="#L" n="6"/>he is accused and conuinced of heinous  
+      <lb ed="#L" n="7"/>offences, and therefore sued to punish 
+      <lb ed="#L" n="8"/>ment or to the sentence of condemna 
+      <lb ed="#L" n="9"/>tion. Imagine also that the son of God 
+      <lb ed="#L" n="10"/>maketh intercession, and commeth in  
+      <lb ed="#L" n="11"/>as a meane, desiring that uppon him 
+      <lb ed="#L" n="12"/>may be layde the whole fault and pu 
+      <lb ed="#L" n="13"/>nishment due unto us men, that he by  
+      <lb ed="#L" n="14"/>his death may cleanse them and take  
+      <lb ed="#L" n="15"/>them away, setting us free from death  
+      <lb ed="#L" n="16"/>and giving us life everlasting. Ima 
+      <lb ed="#L" n="17"/>gine too, that God the most high and  
+      <lb ed="#L" n="18"/>just judge, receiveth the offer, &amp; tran 
+      <lb ed="#L" n="19"/>slateth the punishment together with  
+      <lb ed="#L" n="20"/>the fault from us unto the necke of his  
+      <lb ed="#L" n="21"/>sonne, making therewiehall a statute  
+      <lb ed="#L" n="22"/>that whosoever beleeveth that ye sonne  
+      <lb ed="#L" n="23"/>of God suffered for the sinnes of the  
+      <lb ed="#L" n="24"/>worlde, brake the polver of death, and  
+      <lb ed="#L" n="25"/>delivered us from damnation, shoulde  
+      <lb ed="#L" n="26"/>be cleansed from his sinnes, and made  
+      <lb ed="#L" n="27"/>heire of life everlasting. Who there 
+      <lb ed="#L" n="28"/>fore can be so dul of understanding, but  
+      <lb ed="#L" n="29"/>may perceive that mankind is iustify 
+      <lb ed="#L" n="30"/>ed by faithe  
+      </p>
+    
+      </div>
+    </body>
+  </text>
+</TEI>
