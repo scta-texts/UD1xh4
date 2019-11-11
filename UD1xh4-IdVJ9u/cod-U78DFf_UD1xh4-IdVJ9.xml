@@ -90,7 +90,7 @@
           <lb ed="#B" n="7"/>fleiß / uebung / treüw und wolgeübte der außlegeren.
         </p>
         <p xml:id="UD1xh4-IdVJ9u-d1e176"> Es spricht zwar auch der  
-          <lb ed="#B" n="8"/>heilig Apostel <name>Petrus</name> / <quote>das in den <title>Epistlen S. <name>Pauli</name></title> etliche ding schwers ver<lb ed="#B" n="9" break="no"/>stands syend</quote> / 
+          <lb ed="#B" n="8"/>heilig Apostel <name>Petrus</name> / das in den <title>Epistlen S. <name>Pauli</name></title> <quote>etliche ding schwers ver<lb ed="#B" n="9" break="no"/>stands syend /</quote> 
           er sertzt aber auch gleich hinzu / <quote>woelche die ungeleerten / und leicht<lb ed="#B" n="10" break="no"/>fertigen felschend / 
           und biegend / wie auch die andern geschrifften zu irer eignen 
           <lb ed="#B" n="11"/>verdammnuß</quote>. Darauß wir sein sehend / das die heilig geschrifft / den ungelerten / 
@@ -111,8 +111,8 @@
           <lb ed="#B" n="23"/>die sinsternuß mer geliebet dann das liecht</quote>. Wir laesend sonst niendert das die 
           <lb ed="#B" n="24"/>heiligen Propheten oder Apostel Gottes das wort Gottes oder die heilig ge<lb ed="#B" n="25" break="no"/>schrifft sinsternuß / 
           und dünckle genennt habind / sonder vil mer ein heytere und 
-          <lb ed="#B" n="26"/>ein liecht. <name>David</name> spricht ye / dein wort ist ein kertzen meinen fuessen / und ein liecht 
-          <lb ed="#B" n="27"/>meinen waegen. Was ist nun offenbarers / dann das man in duncklen zweifel<lb ed="#B" n="28" break="no"/>hafftigen sachen / 
+          <lb ed="#B" n="26"/>ein liecht. <name>David</name> spricht ye / <quote>dein wort ist ein kertzen meinen fuessen / und ein liecht 
+          <lb ed="#B" n="27"/>meinen waegen</quote>. Was ist nun offenbarers / dann das man in duncklen zweifel<lb ed="#B" n="28" break="no"/>hafftigen sachen / 
           die selben zu erklaeren / niemand weißt zu finsteren ungwissen 
           <lb ed="#B" n="29"/>dingen / sonder waz ungwiß und unverstaendtlich ist / das erleütteret man durch 
           <lb ed="#B" n="30"/>das / das heyterer / klaerer und verstaendtlicher ist. Wenn dann nun in glaubens 
@@ -147,26 +147,28 @@
           <lb ed="#B" n="2"/>das es auffs gsatz merckte / und das volck syge gestanden auff seiner statt. Also 
           <lb ed="#B" n="3"/>habend sie gelesen im buch deß gsatzts Gottes offenlich / und mithin zu naebend 
           <lb ed="#B" n="4"/>dem laesen auch den verstand außgelegt und erklaert.</quote> Das zeüget <ref><name>Nehemias</name></ref>.
-        </p>
-        <p xml:id="UD1xh4-IdVJ9u-d1e349">
           <lb ed="#B" n="5"/>Da besich / wie die heiligen und treüwen diener Gottes / das wort Gottes nicht 
-          <lb ed="#B" n="6"/>nur gelaesen / sonder auch außgelegt habind. Disen brauch deß laesens unnd 
+          <lb ed="#B" n="6"/>nur gelaesen / sonder auch außgelegt habind.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e349"> Disen brauch deß laesens unnd 
           <lb ed="#B" n="7"/>außlegens der heiligen geschrifft deß worts Gottes / hat auch unser Herr Jesus 
           <lb ed="#B" n="8"/>Christus als er in dise welt ist kommen / und yetzund als ein waarer Prophet / 
           <lb ed="#B" n="9"/>und himlischer leerer / ja ein leerer deß <title>Nüwen Testaments</title> und deß Christen<lb ed="#B" n="10" break="no"/>thums 
-          sein volck leeret / weder abthon noch selbs underlassen / <quote>Dann wie er gehn 
+          sein volck leeret / weder abthon noch selbs underlassen / <!--quote-->Dann wie er gehn 
           <lb ed="#B" n="11"/><placeName>Nazareth</placeName> in die versamlung kam / stund er auff das er laese / und es ward ihm 
           <lb ed="#B" n="12"/>geben das <title>buch Esaie deß Propheten</title> / Do thet er das buch auff / unnd laß ein  
           <lb ed="#B" n="13"/>seer schoens ort auß dem <ref>lvi. capitel</ref> / thet do das buch wider zu / gabs dem diener 
           <lb ed="#B" n="14"/>wider / und legte das auß / das er vor gelaesen hat / und zeygt an / das dise weyssa<lb ed="#B" n="15" break="no"/>gung 
-          yetzund in im erfült were.</quote> Deßgleich nach dem er <quote>wider von todten auff<lb ed="#B" n="16" break="no"/>erstanden / 
-          unnd sich fuegt zu den zweyen Iungern die gehn Emaus giengend</quote> /
+          yetzund in im erfült were.<!--/quote-->
         </p>
-        <p xml:id="UD1xh4-IdVJ9u-d1e395">
-          <lb ed="#B" n="17"/><quote>Nach dem er vil und mancherley mit inen geredt / hub er zeletst an von <name>Mose</name> 
-          <lb ed="#B" n="18"/>und allen Propheten / und legt inen auß inn allen geschrifften die von im wa<lb ed="#B" n="19" break="no"/>rend</quote>. 
+        <p xml:id="UD1xh4-IdVJ9u-d1e395"> Deßgleich nach dem er <!--quote-->wider von todten auff<lb ed="#B" n="16" break="no"/>erstanden / 
+          unnd sich fuegt zu den zweyen Iungern die gehn Emaus giengend<!--/quote--> /
+          <lb ed="#B" n="17"/><!--quote-->Nach dem er vil und mancherley mit inen geredt / hub er zeletst an von <name>Mose</name> 
+          <lb ed="#B" n="18"/>und allen Propheten / und legt inen auß inn allen geschrifften die von im wa<lb ed="#B" n="19" break="no"/>rend<!--/quote-->. 
           Dem exempel deß Herren habend auch die heiligen Apostel gefolget / und 
-          <lb ed="#B" n="20"/>habend auch sie das wort Gottes außgelegt. Dann <name>Petrus</name> legt <ref>im buch der  
+          <lb ed="#B" n="20"/>habend auch sie das wort Gottes außgelegt.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e396">Dann <name>Petrus</name> legt <ref>im buch der  
           <lb ed="#B" n="21"/>geschichten der Apostlen am andern capitel</ref> / den <ref>sechtzehenden Psalmen</ref> auß 
           <lb ed="#B" n="22"/>von der urstaende Christi von Todten. Also erklaert auch <name>Philippus</name> dem <name>für<lb ed="#B" n="23" break="no"/>sten 
           auß Ethyopia</name> gantz eygentlich die <ref>weissagung <name>Esaie</name></ref> / und fürt in mit der 
@@ -230,9 +232,9 @@
           <lb ed="#B" n="16"/>das es außleggens begarff / das soellend wir doch nicht außleggen nach dem 
           <lb ed="#B" n="17"/>verstand unsers gemuets / sonder nach dem verstand / sinn unnd meynung / des<lb ed="#B" n="18" break="no"/>sen 
           von dem die geschrifft har kompt. Dann Sanct <name>Peter</name> spricht / <quote>daß die  
-          <lb ed="#B" n="19"/>Prophetisch geschrifft nitt syge eygner außlegung</quote> / Dann die Prophecey sye 
+          <lb ed="#B" n="19"/>Prophetisch geschrifft nitt syge eygner außlegung / Dann die Prophecey sye 
           <lb ed="#B" n="20"/>nitt auß menschlichem willen herfür bracht / sonder die heiligen menschen Got<lb ed="#B" n="21" break="no"/>tes habinds geredt / 
-          getriben von dem heiligen geist. 
+          getriben von dem heiligen geist.</quote> 
         </p>
         <p xml:id="UD1xh4-IdVJ9u-d1e587"> Darumb so muß man 
           <lb ed="#B" n="22"/>den sinn unnd verstand deß worts Gottes auß der geschrifft selbst schoepffen /  
@@ -242,32 +244,32 @@
         <p xml:id="UD1xh4-IdVJ9u-d1e596">
           <lb ed="#B" n="25"/>Erstlichen / dieweyle der heylig Apostel <name>Paulus</name> wil / <quote>das die Prophecey ab<lb ed="#B" n="26" break="no"/>gange 
           nach der gleichmaeßige deß glaubens</quote> / wie stadt zun <ref>Roemern am zwoelff<lb ed="#B" n="27" break="no"/>ten </ref>/ 
-          unnd auch weytter spricht inn der anderen zun <ref>Torintheren</ref> / Dieweyl wir 
+          unnd auch weytter spricht inn der anderen zun <ref>Torintheren</ref> / <quote>Dieweyl wir 
           <lb ed="#B" n="28"/>den selbigen geist deß glaubens habend / wie dann geschriben stadt / ich hab 
           <lb ed="#B" n="29"/>glaubt / darumb hab ich geredt / so habend wir auch glaubt / darumb so redend 
-          <lb ed="#B" n="30"/>wir auch / So sol uns deßhalb das ein allgemeyne regel sein / das wir im auß<lb ed="#B" n="31" break="no"/>leggen 
+          <lb ed="#B" n="30"/>wir auch</quote> / So sol uns deßhalb das ein allgemeyne regel sein / das wir im auß<lb ed="#B" n="31" break="no"/>leggen 
           der geschrifft nichtsbringind noch einfurind / oder von anderen einge<lb ed="#B" n="32" break="no"/>fuert annemmind / 
           das den articklen unsers waaren Apostolischen glaubens 
           <lb ed="#B" n="33"/>oder anderen alten Symbolen oder bekanntnussen ungemeß und zu wider sye.
         </p>
         <p xml:id="UD1xh4-IdVJ9u-d1e630">
-          <lb ed="#B" n="34"/>Dann wie auch der Apostel sagt / so vermoegend wir nichts wider die waar<lb ed="#B" n="35" break="no"/>heyt / 
-          aber wol für der waarheyt. Als so wir lesend im <ref>Evangelio <name>Iohannis</name></ref> den 
-          <lb ed="#B" n="36"/>spruch deß Herren / <quote>Der vatter ist groesser dann ich / dasoellend wir gedencken daz 
+          <lb ed="#B" n="34"/>Dann wie auch der Apostel sagt / <quote>so vermoegend wir nichts wider die waar<lb ed="#B" n="35" break="no"/>heyt / 
+          aber wol für der waarheyt</quote>. Als so wir lesend im <ref>Evangelio <name>Iohannis</name></ref> den 
+          <lb ed="#B" n="36"/>spruch deß Herren / <quote>Der vatter ist groesser dann ich</quote> / dasoellend wir gedencken daz 
           <lb ed="#B" n="37"/>es den articklen deß glaubens zu wider ist / ein ungleicheyt halten und zulassen / 
           <lb ed="#B" n="38"/>zwischend der Gottheyt deß vatters und deß Suns / und das deßhalb der Herr 
           <lb ed="#B" n="39"/>inn denen worten ein anders verstanden habe / dann die wort so man sie ploß 
-          <lb ed="#B" n="40"/>ansicht lautend.</quote> Item als da wir bey dem Apostel laesend / <quote>Es ist unmüglich /  
-          <lb ed="#B" n="41"/>das die so einmal erleüchtet sind / wo sie entfallend / das sie widerumb erneüwe<lb ed="#B" n="42" break="no"/>ret werdind zur buß / 
+          <lb ed="#B" n="40"/>ansicht lautend. Item als da wir bey dem Apostel laesend / <quote>Es ist unmüglich /  
+          <lb ed="#B" n="41"/>das die so einmal erleüchtet sind / wo sie entfallend / das sie widerumb erneüwe<lb ed="#B" n="42" break="no"/>ret werdind zur buß </quote>/ 
           da soellend wir nicht meynen / das denen so fallend die buß 
           <lb ed="#B" n="43"/>unnd besserung werde gantz abgeschlagen unnd versagt / dann der allgemeyn 
           <lb ed="#B" n="44"/>glaub haltet / das allen menschen an allen orten und zu allen zeyten / so lang die  
-          <lb ed="#B" n="45"/>auff erden lebend / die sich zu Gott bekeerend / verzeyhung aller sünden zu ge<lb ed="#B" n="46" break="no"/>sagt sye</quote>. 
+          <lb ed="#B" n="45"/>auff erden lebend / die sich zu Gott bekeerend / verzeyhung aller sünden zu ge<lb ed="#B" n="46" break="no"/>sagt sye. 
           Also auch so wir hoerend / das der Herr brot genommen / und von dem 
-          <lb ed="#B" n="47"/>geredt / <quote>Das ist mein leib. Da sollend wir eingedenck sein der articklen deß glau<lb ed="#B" n="48" break="no"/>bens / 
-          die dem Herren zugebend ein waren menschlichen leib / welcher auffgefaren 
+          <lb ed="#B" n="47"/>geredt / <quote>Das ist mein leib.</quote> Da sollend wir eingedenck sein <ref>der articklen deß glau<lb ed="#B" n="48" break="no"/>bens </ref>/ 
+          <!--quote-->die dem Herren zugebend ein waren menschlichen leib / welcher auffgefaren 
           <lb ed="#B" n="49"/>zun himlen / sitzt zu der grechten deß vatters / dannenhar er kommen wirt zu richten 
-          <lb ed="#B" n="50"/>die lebenden und die todte /</quote>
+          <lb ed="#B" n="50"/>die lebenden und die todte /<!--/quote-->
         </p>
         <p xml:id="UD1xh4-IdVJ9u-d1e683"> Und soellend deßhalb gedencken / daz &amp; Herr von Sacramet 
           <lb ed="#B" n="51"/>geredt / und daz er wil daz man die Sacramentlichen wort / sacrametlich ußlege / nit 
@@ -319,7 +321,9 @@
           <lb ed="#B" n="36"/>Item auß vorgenden und nachgenden sprüchen werdend gmeynlich die exem<lb ed="#B" n="37" break="no"/>pel und gleichnussen außgelegt. 
           Und wenn einer nit eygentlich allweg in allen 
           <lb ed="#B" n="38"/>orten der geschrifft wol und fleißig acht hat / wie die wort geordnet sygind unnd 
-          <lb ed="#B" n="39"/>wie sie standind / so ist nit müglich das er nit weit vom rechten zweck irre. Also 
+          <lb ed="#B" n="39"/>wie sie standind / so ist nit müglich das er nit weit vom rechten zweck irre.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e805"> Also 
           <lb ed="#B" n="40"/>hat <name>Paulus</name> gar eygentlich gemerckt auff die umbstaend der zeyt / dann darauß 
           <lb ed="#B" n="41"/>hat er geschlossen unnd bewaert / <quote>das <name>Abraham</name> weder durch die beschneidung /  
           <lb ed="#B" n="42"/>noch durch das fsatzt syge gerecht gmachet</quote>. Davon stadt <ref>Roma. am iiii.</ref> und  
@@ -334,10 +338,10 @@
           <lb ed="#B" n="48"/>Zu dem allem dienet auch das wort Gottes außzuleggen / das man fleißig 
           <lb ed="#B" n="49"/>ein ort gegen dem anderen halte / es syge die ort die ein anderen gleich oder un<lb ed="#B" n="50" break="no"/>gleich sind / 
           und da allweg die tüncklern durch die heittern / die wenigern durch 
-          <lb ed="#B" n="51"/>die merern außlege. Als da der Herr spricht / <quote>Der vatter ist groesser dann ich / da 
+          <lb ed="#B" n="51"/>die merern außlege. Als da der Herr spricht / <quote>Der vatter ist groesser dann ich </quote>/ da 
         
           <pb ed="#B" n="13-r"/>
-          <lb ed="#B" n="1"/>sollend wir gleich gedencken / das er an eim andern ort spricht / Ich und der vat<lb ed="#B" n="2" break="no"/>ter sind eins.</quote> 
+          <lb ed="#B" n="1"/>sollend wir gleich gedencken / das er an eim andern ort spricht / <quote>Ich und der vat<lb ed="#B" n="2" break="no"/>ter sind eins.</quote> 
         </p>
         <p xml:id="UD1xh4-IdVJ9u-d1e882">
           Item da der heilig Apostel <name>Iacobus</name> spricht / <quote>das Abraham und 
@@ -346,23 +350,26 @@
           <lb ed="#B" n="5"/>außzeleggen lobt S. <ref><name>Peter</name></ref> da er spricht / <quote>Wir habend ein vestet Prophetisch 
           <lb ed="#B" n="6"/>wort / und ir thund wol das ir darauff achtend / als auff ein liecht / das da schei<lb ed="#B" n="7" break="no"/>ner 
           in einem tuncklen ort / biß der tag anbraeche / und der morgenstern auffgan<lb ed="#B" n="8" break="no"/>ge 
-          in euwern herzen.</quote> Und der <ref>alt leerer <name>Tertullianus</name></ref> schreibt / das der kaetzern 
+          in euwern herzen.</quote>
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e883">
+        Und der <ref>alt leerer <name>Tertullianus</name></ref> schreibt /<quote> das der kaetzern 
           <lb ed="#B" n="9"/>und abtrünnigen / und nicht der rechtgloeubigen art und gwonheyt sye / etliche 
           <lb ed="#B" n="10"/>ort auß der geschrifft außklauben / und auff iren verstand und sinn ziehen / dar<lb ed="#B" n="11" break="no"/>naebend das 
           ander lassen ston und nit ansehen / Also ziehind sie inen auß ettliche 
           <lb ed="#B" n="12"/>zeügknussen / denen man glauben soelle nach ihr meynung / so gleich darnebend 
           <lb ed="#B" n="13"/>die gantz geschrifft darwider / und allwegen die wenigern ort nach den merern 
-          <lb ed="#B" n="14"/>soellind verstanden werden.  
+          <lb ed="#B" n="14"/>soellind verstanden werden.</quote>  
         </p>
         <p xml:id="UD1xh4-IdVJ9u-d1e932">
           <lb ed="#B" n="15"/>Zum letsten so gehoert auch das zu einem außlegger deß worts Gottes / unnd 
           <lb ed="#B" n="16"/>ist das aller best / ein hertz das Gott und Gottes ehr lieb habe / daß nit hoffertig 
           <lb ed="#B" n="17"/>und auff blasen / spaltungen und falschen meynungen auch boesen anfechtunge 
           <lb ed="#B" n="18"/>ergeben sye / sonder das unablaeßlich Gott anrueffe umm den heiligen geist / durch 
-          <lb ed="#B" n="19"/>welchen die geschrifft angeben und eingeistet ist / 
-        </p>
-        <p xml:id="UD1xh4-IdVJ9u-d1e946"> Das auch der gebe rechte auß<lb ed="#B" n="20" break="no"/>legung 
-          und verstand zum preiß Gottes unnd wolfart der gloebigen. Es sol 
+          <lb ed="#B" n="19"/>welchen die geschrifft angeben und eingeistet ist / Das auch der gebe rechte auß<lb ed="#B" n="20" break="no"/>legung 
+          und verstand zum preiß Gottes unnd wolfart der gloebigen.
+          </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e946"> Es sol 
           <lb ed="#B" n="21"/>auch deß außleggers hertz brünnen von fleiß die tugenden zu pflantzen / und alle 
           <lb ed="#B" n="22"/>laster zu hassen und under zetrucken. Und besonders sol sich sein hertz vor deß 
           <lb ed="#B" n="23"/>arglistigen Teüffels rathschlegen hueten / und die nienen zulassen / damit er noch 
@@ -372,9 +379,7 @@
           <lb ed="#B" n="27"/>getreüwer außleger deß worts Gottes soellichs thut unnd soelichen reglen nach<lb ed="#B" n="28" break="no"/>gadt / 
           ob er schon etwan nit gar zum zwaeck scheüßt / und zum eygentlichsten den 
           <lb ed="#B" n="29"/>verborgnen sinn der geschrifft trifft / so wirt doch sein faeler weder verdammlich 
-          <lb ed="#B" n="30"/>noch schaedlich sein oder gehalten werden. 
-        </p>
-        <p xml:id="UD1xh4-IdVJ9u-d1e972"> Dann ob gleich ein anderer dem ver<lb ed="#B" n="31" break="no"/>borgneren / 
+          <lb ed="#B" n="30"/>noch schaedlich sein oder gehalten werden. Dann ob gleich ein anderer dem ver<lb ed="#B" n="31" break="no"/>borgneren / 
           und eygentlichern verstand der geschrifft herfür braechte / so wirt er 
           <lb ed="#B" n="32"/>doch den unvolkomnern verstand deß andern nit verdammen. Gleich wie auch 
           <lb ed="#B" n="33"/>der / der den unvolkomnern verstand hat / nicht verwerffen wirt / den volkom<lb ed="#B" n="34" break="no"/>nern 
