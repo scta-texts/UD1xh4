@@ -158,7 +158,7 @@
           <lb ed="#L" n="10"/>lous and godlie readers or hearers  
           <lb ed="#L" n="11"/>thereof.
         </p>
-        <p xml:id="UD1xh4-IdVJ9u-d1e206"> Therefore, when saint <name>Paul</name>  
+        <p xml:id="UD1xh4-IdVJ9u-d1e206"> Therefore, when saint <ref><name>Paul</name></ref>  
           <lb ed="#L" n="12"/>saith, <quote>If as yet our Gospell be hidde:  
           <lb ed="#L" n="13"/>from them it is hidde which perish, in  
           <lb ed="#L" n="14"/>whome the Prince of this worlde hath  
@@ -184,7 +184,7 @@
           <lb ed="#L" n="32"/>not call the worde of God or the scrip 
           <lb ed="#L" n="33"/>tures darkenesse, obscurenesse, or mi 
           <lb ed="#L" n="34"/>stinesse, but a certaine brightnesse and  
-          <lb ed="#L" n="35"/>lightsomnesse. <name>David</name> saith, <quote>Thy word  
+          <lb ed="#L" n="35"/>lightsomnesse. <ref><name>David</name></ref> saith, <quote>Thy word  
           <lb ed="#L" n="36"/>is a lanterne unto my feete, and a 
           <lb ed="#L" n="37"/>light unto my pathes</quote>. And what I  
           <lb ed="#L" n="38"/>pray you is more evident than that 
@@ -225,7 +225,7 @@
           <lb ed="#L" n="23"/>which he spake in mount Sina to the  
           <lb ed="#L" n="24"/>whole congregation of Israel, wri 
           <lb ed="#L" n="25"/>ting them in two tables, which <name>Moses</name>  
-          <lb ed="#L" n="26"/>left to us, the Deuteronomie and cer 
+          <lb ed="#L" n="26"/>left to us, the <title>Deuteronomie</title> and cer 
           <lb ed="#L" n="27"/>taine other bookes as commentaries  
           <lb ed="#L" n="28"/>upon Gods commaundements.
         </p>
@@ -235,8 +235,8 @@
           <lb ed="#L" n="31"/><name>Moses</name> did applie it to the times, pla 
           <lb ed="#L" n="32"/>ces, and men of their age, and left to  
           <lb ed="#L" n="33"/>us that follow, their sermons as plaine  
-          <lb ed="#L" n="34"/>expositions of Gods law. In the eight  
-          <lb ed="#L" n="35"/>Chapter of Nehemias we reade these  
+          <lb ed="#L" n="34"/>expositions of Gods law. <ref xml:id="UD1xh4-IdVJ9u-Rd1e320">In the eight  
+          <lb ed="#L" n="35"/>Chapter of Nehemias</ref> we reade these  
           <lb ed="#L" n="36"/>wordes. <quote><name>Esdras</name> the Priell brought in  
           <lb ed="#L" n="37"/>the Lawe, the booke of <name>Moses</name>, and  
           <lb ed="#L" n="38"/>stoode upon a turret made of woode  
@@ -255,7 +255,7 @@
           <lb ed="#L" n="2"/>lawe distinetly, expounding the sense  
           <lb ed="#L" n="3"/>and causing them to understande the  
           <lb ed="#L" n="4"/>reading.</quote> Thus much in the booke of  
-          <lb ed="#L" n="5"/><ref><name>Nehemias</name></ref>. <!--Charlotte: I don't thing thats a name--><name>Marke</name> heare by the way 
+            <lb ed="#L" n="5"/><ref xml:id="UD1xh4-IdVJ9u-Rd1e347"><name>Nehemias</name></ref>. <!--Charlotte: I don't thing thats a name--><name>Marke</name> heare by the way 
           <lb ed="#L" n="6"/>(my brethren) that the lawfull and  
           <lb ed="#L" n="7"/>holy ministers of the Church of God,  
           <lb ed="#L" n="8"/>did not onely reade the worde of God,  
@@ -275,7 +275,7 @@
           <lb ed="#L" n="20"/>there was delivered to him the booke  
           <lb ed="#L" n="21"/>of the prophet <name>Elaye</name>. So hee opened  
           <lb ed="#L" n="22"/>the booke, and reade a certaine notalbe  
-          <lb ed="#L" n="23"/>place out of the <ref>lxi. Chapter</ref>. Then  
+          <lb ed="#L" n="23"/>place out of the <ref xml:id="UD1xh4-IdVJ9u-Rd1e383">lxi. Chapter</ref>. Then  
           <lb ed="#L" n="24"/>shutting the booke, hee gave it to the  
           <lb ed="#L" n="25"/>Minister againe, and expounded that 
           <lb ed="#L" n="26"/>which he had read, declaring how that 
@@ -297,15 +297,15 @@
           <lb ed="#L" n="40"/>of God.  
         </p>
         <p xml:id="UD1xh4-IdVJ9u-d1e396">
-          <lb ed="#L" n="41"/>For <name>Peter</name> in the <ref>seconde Chap 
+          <lb ed="#L" n="41"/>For <name>Peter</name> in the <ref xml:id="UD1xh4-IdVJ9u-Rd1e423">seconde Chap 
           <lb ed="#L" n="42"/>ter of the Actes of the Apostles</ref>, doth  
-          <lb ed="#L" n="43"/>expounde the rui. Psalme of Christ  
+          <lb ed="#L" n="43"/>expounde <ref xml:id="UD1xh4-IdVJ9u-Rd1e428">the rui. <!-- the german sais 16. chapter!-->Psalme</ref> of Christ  
           <lb ed="#L" n="44"/>his resurrection from the dead. And  
           <lb ed="#L" n="45"/><name>Philip</name> also doeth plainely exounde to  
           <lb ed="#L" n="46"/>the noble man of Ethiope the prophe 
           <!--25.xml-->
           <cb ed="#L" n="b"/>
-          <lb ed="#L" n="1"/>sie of Clay, wherby he bringeth him to  
+          <lb ed="#L" n="1"/>sie of <name>Clay</name>, wherby he bringeth him to  
           <lb ed="#L" n="2"/>the faith of Christ, and fellowship of  
           <lb ed="#L" n="3"/>the Church. Whosoever doth say that 
           <lb ed="#L" n="4"/><name>Paul</name> doth not every where interpret  
@@ -370,7 +370,7 @@
           <lb ed="#L" n="8"/>God. Some such like offence it seemeth  
           <lb ed="#L" n="9"/>that the teachers of the auncient peo 
           <lb ed="#L" n="10"/>ple in olde time did commit, because  
-          <lb ed="#L" n="11"/>the Lord in <name>Ezekiell</name> accuseth them 
+          <lb ed="#L" n="11"/>the Lord <ref xml:id="UD1xh4-IdVJ9u-Rd1e517">in <name>Ezekiell</name></ref> accuseth them 
           <lb ed="#L" n="12"/>saying: <quote>Seemeth it a smal thing to you  
           <lb ed="#L" n="13"/>to have eaten up the good pasture, but 
           <lb ed="#L" n="14"/>that ye must also tread the residue of 
@@ -452,8 +452,8 @@
           <lb ed="#L" n="30"/>have the exposition of the Scriptures  
           <lb ed="#L" n="31"/>to agree fitly, and in everie point pro 
           <lb ed="#L" n="32"/>portionally with our faith:</quote> as it is to  
-          <lb ed="#L" n="33"/>bee seene in the <ref>twelfch to the Ro 
-          <lb ed="#L" n="34"/>manes</ref>: And because againe in the <ref>la 
+          <lb ed="#L" n="33"/>bee seene in the <ref xml:id="UD1xh4-IdVJ9u-Rd1e617">twelfch to the Ro 
+            <lb ed="#L" n="34"/>manes</ref>: And because againe in the <ref xml:id="UD1xh4-IdVJ9u-Rd1e622">la 
           <lb ed="#L" n="35"/>ter epistle to the Corinthians</ref> he saith,  
           <lb ed="#L" n="36"/><quote>Seeing then that we have the same spi 
           <lb ed="#L" n="37"/>rite of faith saccording as it is writ 
@@ -475,7 +475,7 @@
           <lb ed="#L" n="2"/><quote>In defence of the trueth we can saie  
           <lb ed="#L" n="3"/>somwhat, but against the trueth we  
           <lb ed="#L" n="4"/>are able to say nothing.</quote> When there 
-          <lb ed="#L" n="5"/>fore in the <ref>Gospell after S. <name>John</name></ref> wee 
+          <lb ed="#L" n="5"/>fore in the <ref xml:id="UD1xh4-IdVJ9u-Rd1e651">Gospell after S. <name>John</name></ref> wee 
           <lb ed="#L" n="6"/>read ye saying of ye Lorde, <quote>The father is  
           <lb ed="#L" n="7"/>greater than l</quote>, we must thinke that it  
           <lb ed="#L" n="8"/>is against the articles of our fayth  
@@ -498,7 +498,7 @@
           <lb ed="#L" n="25"/>like manner when we reade that the  
           <lb ed="#L" n="26"/>Lorde tooke breade, and sayde of the  
           <lb ed="#L" n="27"/>breade, <quote>This is my bodie,</quote> let us pre 
-          <lb ed="#L" n="28"/>sently rememder that <ref>the articles of  
+          <lb ed="#L" n="28"/>sently rememder that <ref xml:id="UD1xh4-IdVJ9u-Rd1e691">the articles of  
           <lb ed="#L" n="29"/>our faith</ref> <!--quote-->doe attribute to our Lorde  
           <lb ed="#L" n="30"/>the verie body of a ma, which ascended  
           <lb ed="#L" n="31"/>into heaven, and fitteth at the right 
@@ -535,11 +535,11 @@
           <lb ed="#L" n="10"/>second is like unto it, <quote>Thou shalt love  
           <lb ed="#L" n="11"/>thy neighbour as thy solfe In these two  
           <lb ed="#L" n="12"/>commaundements.</quote> keigeth the whole  
-          <lb ed="#L" n="13"/>lawe and the Prophets, <ref>Matth. 22.</ref> Ap 
+          <lb ed="#L" n="13"/>lawe and the Prophets, <ref xml:id="UD1xh4-IdVJ9u-Rd1e757">Matth. 22.</ref> Ap 
           <lb ed="#L" n="14"/>on these wordes of hte Lord, that holy  
-          <lb ed="#L" n="15"/>man <name>Aurelius Augustinus</name> in the 16. 
+          <lb ed="#L" n="15"/>man <ref xml:id="UD1xh4-IdVJ9u-Rd1e762"><name>Aurelius Augustinus</name> in the 16. 
           <lb ed="#L" n="16"/>Chapter of his first booke De dostrins 
-          <lb ed="#L" n="17"/>Cbrist, saieth: <quote>whosoever doth seeme  
+          <lb ed="#L" n="17"/>Cbrist</ref>, saieth: <quote>whosoever doth seeme  
           <lb ed="#L" n="18"/>to himself to understad the holy scri 
           <lb ed="#L" n="19"/>ptures, or any part thereof, so that that 
           <lb ed="#L" n="20"/>understanding he doeth not worke  
@@ -607,8 +607,8 @@
           <lb ed="#L" n="25"/>clude that <quote><name>Abraham</name> was justified nei 
           <lb ed="#L" n="26"/>ther by Circumcision, nor yet by the  
           <lb ed="#L" n="27"/>Lawe.</quote> The places are to be seene in  
-          <lb ed="#L" n="28"/>the <ref>fourth to the Romanes</ref>, and the  
-          <lb ed="#L" n="29"/><ref>thirde to the Galathians:</ref>
+          <lb ed="#L" n="28"/>the <ref xml:id="UD1xh4-IdVJ9u-Rd1e855">fourth to the Romanes</ref>, and the  
+          <lb ed="#L" n="29"/><ref xml:id="UD1xh4-IdVJ9u-Rd1e861">thirde to the Galathians:</ref>
         </p>
         <p xml:id="UD1xh4-IdVJ9u-d1e839">Againe,  
           <lb ed="#L" n="30"/>when it is sayde to <name>Peter</name>, <quote>Put up thy  
