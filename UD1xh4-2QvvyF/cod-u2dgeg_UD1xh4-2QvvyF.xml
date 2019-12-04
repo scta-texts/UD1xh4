@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Decimas 1, Sermo 6 [London 1587 Transcription]</title>
+      <author ref="#HenrichBullinger">Henrich Bullinger</author>
+      <editor>Charlotte Feidicker</editor>
+      <editor>Ema-Joanne M. Brauchler </editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+        <title>Decimas 1, Sermo 6 [London 1587 Transcription]</title>
+        <date when="2019-11-08">December 04, 2019</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+        <witness xml:id="L" n="cod-u2dgeg">London 1587</witness>
+      </listWit>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+        guidelines for a diplomatic edition.
+      </p>
+    </editorialDecl>
+  </encodingDesc>
+  <revisionDesc status="draft">
+    <listChange>
+      <change when="2019-06-20" status="draft" n="0.0.0">
+        <p>Created file for the first time.</p>  
+      </change>
+    </listChange>
+  </revisionDesc>
+</teiHeader>
+<text xml:lang="de">
+  <front>
+    <div xml:id="starts-on">
+      <pb ed="#L" n="30"/>
+    </div>
+  </front>
+  <body>
+    <div xml:id="UD1xh4-2QvvyF">
+        <p><!--44.xml-->
+          <pb ed="#L" n="44"/>
+          <cb ed="#L" n="c"/>
+          <lb ed="#L" n="1"/>That the faithfull are justified by faith withoist  
+          <lb ed="#L" n="2"/>the lawe and workes.  
+          <!--44.xml-->
+          <pb ed="#L" n="44"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>h Eing readye here  
+          <lb ed="#L" n="2"/>y (dearely beloved) to  
+          <lb ed="#L" n="3"/>speake unto you of  
+          <lb ed="#L" n="4"/>faith, which with 
+          <lb ed="#L" n="5"/>out workes doeth  
+          <lb ed="#L" n="6"/>justifie them that 
+          <lb ed="#L" n="7"/> believe, I call upon 
+          <lb ed="#L" n="8"/>the Father, which is in heaven, tho 
+          <lb ed="#L" n="9"/>rough his onely begotten sonne Jesus  
+          <lb ed="#L" n="10"/>Christ our Lorde, beseeching him to  
+          <lb ed="#L" n="11"/>open my mouth and lippes to the set 
+          <lb ed="#L" n="12"/>ting foorth of his prayse, and to illu 
+          <lb ed="#L" n="13"/>minate your heartes, that ye acknow 
+          <lb ed="#L" n="14"/>ledging the great benefite of God, may  
+          <lb ed="#L" n="15"/>become thankefull for it and holy in  
+          <lb ed="#L" n="16"/>deede.  
+          <lb ed="#L" n="17"/>And first of all, I will speake cer 
+          <lb ed="#L" n="18"/>taine things chiefely necessarie to this  
+          <lb ed="#L" n="19"/>argument or treatise, touching this  
+          <lb ed="#L" n="20"/>terme of justification. The terme of  
+          <lb ed="#L" n="21"/>justifying, very usuall and common a 
+          <lb ed="#L" n="22"/>mong the Hebrews, and of a large sig 
+          <lb ed="#L" n="23"/>nification, is not at this day so wel un 
+          <lb ed="#L" n="24"/>quite from judgement, and from the  
+          <lb ed="#L" n="25"/>denounced and uttered sentence of  
+          <lb ed="#L" n="26"/>condemnation. It signifieth to remit  
+          <lb ed="#L" n="27"/>derstoode of all men, as it ought to be,  
+          <lb ed="#L" n="28"/>To justifie, is as much to saye as to  
+          <lb ed="#L" n="29"/>offences, to cleanse, to sanctifie, and to  
+          <lb ed="#L" n="30"/>give utterance of life everlasting. For  
+          <!--44.xml-->
+          <pb ed="#L" n="44"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>it is a lawe terme belonging to courts  
+          <lb ed="#L" n="2"/>where judgement is exercised. Ima 
+          <lb ed="#L" n="3"/>gine therefore, that man is set before  
+          <lb ed="#L" n="4"/>the judgement seate of God, and that  
+          <lb ed="#L" n="5"/>there he is pleaded guiltie, to wit, that 
+          <lb ed="#L" n="6"/>he is accused and conuinced of heinous  
+          <lb ed="#L" n="7"/>offences, and therefore sued to punish 
+          <lb ed="#L" n="8"/>ment or to the sentence of condemna 
+          <lb ed="#L" n="9"/>tion. Imagine also that the son of God 
+          <lb ed="#L" n="10"/>maketh intercession, and commeth in  
+          <lb ed="#L" n="11"/>as a meane, desiring that uppon him 
+          <lb ed="#L" n="12"/>may be layde the whole fault and pu 
+          <lb ed="#L" n="13"/>nishment due unto us men, that he by  
+          <lb ed="#L" n="14"/>his death may cleanse them and take  
+          <lb ed="#L" n="15"/>them away, setting us free from death  
+          <lb ed="#L" n="16"/>and giving us life everlasting. Ima 
+          <lb ed="#L" n="17"/>gine too, that God the most high and  
+          <lb ed="#L" n="18"/>just judge, receiveth the offer, &amp; tran 
+          <lb ed="#L" n="19"/>slateth the punishment together with  
+          <lb ed="#L" n="20"/>the fault from us unto the necke of his  
+          <lb ed="#L" n="21"/>sonne, making therewiehall a statute  
+          <lb ed="#L" n="22"/>that whosoever beleeveth that ye sonne  
+          <lb ed="#L" n="23"/>of God suffered for the sinnes of the  
+          <lb ed="#L" n="24"/>worlde, brake the polver of death, and  
+          <lb ed="#L" n="25"/>delivered us from damnation, shoulde  
+          <lb ed="#L" n="26"/>be cleansed from his sinnes, and made  
+          <lb ed="#L" n="27"/>heire of life everlasting. Who there 
+          <lb ed="#L" n="28"/>fore can be so dul of understanding, but  
+          <lb ed="#L" n="29"/>may perceive that mankind is iustify 
+          <lb ed="#L" n="30"/>ed by faithe  
+          <!--45.xml-->
+          <pb ed="#L" n="45"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>But that there may be no cause of  
+          <lb ed="#L" n="2"/>doubt of darknesse left in the minde of  
+          <lb ed="#L" n="3"/>any man, that which I have alreadye  
+          <lb ed="#L" n="4"/>spoken generally, by the parable and  
+          <lb ed="#L" n="5"/>similitude fetched from our common 
+          <lb ed="#L" n="6"/>lawe. I wil here particularly bring in 
+          <lb ed="#L" n="7"/>to certaine partes confirming and ma 
+          <lb ed="#L" n="8"/>nifestly proving every one of them se 
+          <lb ed="#L" n="9"/>verally, out of the holy Scriptures, so  
+          <lb ed="#L" n="10"/>that even to the stoutest wits the po 
+          <lb ed="#L" n="11"/>wer of faith and worke of justification,  
+          <lb ed="#L" n="12"/>may be most evident.  
+          <lb ed="#L" n="13"/>And first I wil shew unto you that 
+          <lb ed="#L" n="14"/>this terme of justification, is taken in  
+          <lb ed="#L" n="15"/>this present treatise for the absolution  
+          <lb ed="#L" n="16"/>and remission of sinnes, for sanctificati 
+          <lb ed="#L" n="17"/>on &amp; adoption into the number of the  
+          <lb ed="#L" n="18"/>sonnes of God. In the riii. of the Actes,  
+          <lb ed="#L" n="19"/>the Apostle Paul saith: Be it knowne  
+          <lb ed="#L" n="20"/>into you men and brethren, that 
+          <lb ed="#L" n="21"/>through this Lord lesus Christe, is  
+          <lb ed="#L" n="22"/>preached unto you the foreivenesse of  
+          <lb ed="#L" n="23"/>sinnes, and by him, all that beleeve are  
+          <lb ed="#L" n="24"/>justified from all thinges, from which  
+          <lb ed="#L" n="25"/>they coulde not bee justified by the  
+          <lb ed="#L" n="26"/>lawe of Moses. See, in Christ is prea 
+          <lb ed="#L" n="27"/>ched unto us the forgivenesse of sinnes,  
+          <lb ed="#L" n="28"/>and he that believeth that, Christ prea 
+          <lb ed="#L" n="29"/>ched, and forgiveth sinnes, is also justi 
+          <lb ed="#L" n="30"/>fied. It followeth therfore, that justifi 
+          <lb ed="#L" n="31"/>cation is the remission of sins. In the  
+          <lb ed="#L" n="32"/>fifth Chapter to the Romaines sayeth  
+          <lb ed="#L" n="33"/>the same Apostle. Being justified by 
+          <lb ed="#L" n="34"/>the bloud of Christ, we shal be saved  
+          <lb ed="#L" n="35"/>from wrath through him. But the  
+          <lb ed="#L" n="36"/>bloud of Christ washeth away sinnes,  
+          <lb ed="#L" n="37"/>Justification therefore is the washing  
+          <lb ed="#L" n="38"/>away or forgivenesse of sinnes. And a 
+          <lb ed="#L" n="39"/>gaine, in the second Chapter sayth hee  
+          <lb ed="#L" n="40"/>more plainely, Iudgement entered by  
+          <lb ed="#L" n="41"/>one offence unto condemnation, but 
+          <lb ed="#L" n="42"/>the gift of many sinnes unto justificati 
+          <lb ed="#L" n="43"/>ou. He maketh justificatio the contra 
+          <lb ed="#L" n="44"/>ry to condemnation : therefore, justifi 
+          <lb ed="#L" n="45"/>cation is the absolution and deliverie  
+          <lb ed="#L" n="46"/>from condemnation. What say yee to  
+          <!--45.xml-->
+          <pb ed="#L" n="45"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>this moreover, that hee doeth plainely  
+          <lb ed="#L" n="2"/>call Justification a gift, that is, the for 
+          <lb ed="#L" n="3"/>givenesse of sinnes. Hereunto also be 
+          <lb ed="#L" n="4"/>long those wordes of his, Even as by  
+          <lb ed="#L" n="5"/>the sinne of one, condemnation came  
+          <lb ed="#L" n="6"/>on all men: so by the righteousnesse of  
+          <lb ed="#L" n="7"/>one, good came upon all men to the  
+          <lb ed="#L" n="8"/>justification of lite. Heere againe is  
+          <lb ed="#L" n="9"/>the justification of life made the con 
+          <lb ed="#L" n="10"/>trary of condemnation unto death set 
+          <lb ed="#L" n="11"/>as a peine upon our heades, because of  
+          <lb ed="#L" n="12"/>the transgression: justification of life  
+          <lb ed="#L" n="13"/>therefore is an absolution from sinnes,  
+          <lb ed="#L" n="14"/>a deliverie from death, a quickening  
+          <lb ed="#L" n="15"/>or translating from death to life.  For  
+          <lb ed="#L" n="16"/>in the fourth to the Romains, ye same  
+          <lb ed="#L" n="17"/>Apostle expouudeth justification by sa 
+          <lb ed="#L" n="18"/>ctification, and sanctification by the re 
+          <lb ed="#L" n="19"/>mission of sinnes. For intreating of  
+          <lb ed="#L" n="20"/>faith, whereby wee are iustified, or  
+          <lb ed="#L" n="21"/>which God imputeth to us for righte 
+          <lb ed="#L" n="22"/>ousnesse without workes, he saith, E 
+          <lb ed="#L" n="23"/>ven as David also doeth expounde the  
+          <lb ed="#L" n="24"/>blessednesse of that man to whom the  
+          <lb ed="#L" n="25"/>Lord imputeth righteousnes without  
+          <lb ed="#L" n="26"/>works, sayingrblessed are they whose  
+          <lb ed="#L" n="27"/>iniduities are forgiven, and whose sins  
+          <lb ed="#L" n="28"/>are covered.  
+          <lb ed="#L" n="29"/>What coulde bee more plainely  
+          <lb ed="#L" n="30"/>spoken than this: For he doth evident 
+          <lb ed="#L" n="31"/>ly exound justification by sanctificati 
+          <lb ed="#L" n="32"/>on, and sanctification by remission of  
+          <lb ed="#L" n="33"/>sinnes. Furthermore, what else is san 
+          <lb ed="#L" n="34"/>ctification but the adoption whereby  
+          <lb ed="#L" n="35"/>wee are received into the grace and  
+          <lb ed="#L" n="36"/>number of the sonnes of God: What 
+          <lb ed="#L" n="37"/>is hee therefore that seeth not that in  
+          <lb ed="#L" n="38"/>this treatise of saint Paule, justifi 
+          <lb ed="#L" n="39"/>cation is taken for adoption : especial 
+          <lb ed="#L" n="40"/>ly, since in the very same fourth chap 
+          <lb ed="#L" n="41"/>ter to the Bomaines: hee goeth about  
+          <lb ed="#L" n="42"/>to prove, that an inheritance is due to  
+          <lb ed="#L" n="43"/>faith, whereunto also hee doeth attri 
+          <lb ed="#L" n="44"/>bute iustification. By all this it is  
+          <lb ed="#L" n="45"/>made manifest, that the question of  
+          <lb ed="#L" n="46"/>justification containeth nothing else, 
+          <!--46.xml-->
+          <pb ed="#L" n="46"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>but the manner and reason of sanctifi 
+          <lb ed="#L" n="2"/>cation, that is to say, wherby and how 
+          <lb ed="#L" n="3"/>men have their sinnes forgiven, and  
+          <lb ed="#L" n="4"/>are received into the grace &amp; number 
+          <lb ed="#L" n="5"/>of the sonnes of God, and being justifi 
+          <lb ed="#L" n="6"/>ed are made heires of the kingdome of  
+          <lb ed="#L" n="7"/>God.  
+          <lb ed="#L" n="8"/>And now, let us try whether that 
+          <lb ed="#L" n="9"/>which we have saide be taught in the  
+          <lb ed="#L" n="10"/>scriptures, that Christ before the judg 
+          <lb ed="#L" n="11"/>ment seate of God, when sentence of  
+          <lb ed="#L" n="12"/>condemnation was to bee pronounced  
+          <lb ed="#L" n="13"/>against us for our offences, tooke, our  
+          <lb ed="#L" n="14"/>sinnes upon his owne necke, and pur 
+          <lb ed="#L" n="15"/>ged them by the sacrifice of his death  
+          <lb ed="#L" n="16"/>upon the crosse, and that God also laid  
+          <lb ed="#L" n="17"/>upon Christ our fault and punishment,  
+          <lb ed="#L" n="18"/>so that Christ alone is the onely satis 
+          <lb ed="#L" n="19"/>faction and purging of the faithtull,  
+          <lb ed="#L" n="20"/>This doth ye Apostle Paul teach most  
+          <lb ed="#L" n="21"/>expresly, where hee saith: who shall 
+          <lb ed="#L" n="22"/>lay any thing to the charge of Gods 
+          <lb ed="#L" n="23"/>elect) It is God that justifieth. who 
+          <lb ed="#L" n="24"/>shall condemne) It is Christ that dy 
+          <lb ed="#L" n="25"/>ed yea rather it is hee which is raysed  
+          <lb ed="#L" n="26"/>up, and is at the right hande of the fa 
+          <lb ed="#L" n="27"/>ther making intercession for us. And  
+          <lb ed="#L" n="28"/>agayne hee saieth, Christ redeemed us 
+          <lb ed="#L" n="29"/>from the curse of the law, while he was 
+          <lb ed="#L" n="30"/>made the curse for us, For it is written,  
+          <lb ed="#L" n="31"/>cursed be every one that hangeth on 
+          <lb ed="#L" n="32"/>the tree, that upon the Gentiles might 
+          <lb ed="#L" n="33"/>come the blessing of Abraha through  
+          <lb ed="#L" n="34"/>Jesus Christ, &amp;ce, This did the Apostle  
+          <lb ed="#L" n="35"/>teache out of the writinges of Moses,  
+          <lb ed="#L" n="36"/>And Moses in his bookes doeth often 
+          <lb ed="#L" n="37"/>times make mention, that the sins are  
+          <lb ed="#L" n="38"/>laid upo the heads of the beasts which  
+          <lb ed="#L" n="39"/>were facrificed. But those sacrifices  
+          <lb ed="#L" n="40"/>bare the tipe or figure of the death and  
+          <lb ed="#L" n="41"/>facrifice of Christ. Claias also in his g:  
+          <lb ed="#L" n="42"/>chapter saith erpresly, He verily hath  
+          <lb ed="#L" n="43"/>taken on him our insirmities, &amp;t borne  
+          <lb ed="#L" n="44"/>our paines. He was wounded for our  
+          <lb ed="#L" n="45"/>iniduities, and smitten for our sinnes,  
+          <lb ed="#L" n="46"/>For the paine of our punishment was 
+          <!--46.xml-->
+          <pb ed="#L" n="46"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>laid upon him, and with his stripes are  
+          <lb ed="#L" n="2"/>we healed wee all went astray like 
+          <lb ed="#L" n="3"/>sheepe, everie one turned his owne  
+          <lb ed="#L" n="4"/>way, but the Lord hath throwne upon 
+          <lb ed="#L" n="5"/>him all our sinnes. And immediately  
+          <lb ed="#L" n="6"/>after, He hath taken away the sinnes of  
+          <lb ed="#L" n="7"/>the multitude, and made intercession 
+          <lb ed="#L" n="8"/>for the transgressours. Than these  
+          <lb ed="#L" n="9"/>wordes I thinke, nothing canne bee  
+          <lb ed="#L" n="10"/>brought more to the matter, or more  
+          <lb ed="#L" n="11"/>fit for our present purpose. To this al 
+          <lb ed="#L" n="12"/>ludeth S. Peter when hee saieth, The  
+          <lb ed="#L" n="13"/>Lorde himelfe bare our sinnes in his 
+          <lb ed="#L" n="14"/>body uppon the crosse, that we being  
+          <lb ed="#L" n="15"/>dead to sin may live to righteousnesses  
+          <lb ed="#L" n="16"/>by the signe of whose stripes we are  
+          <lb ed="#L" n="17"/>made whole. Hereunto alluded saint  
+          <lb ed="#L" n="18"/>John the forerunner of the Lord, whe  
+          <lb ed="#L" n="19"/>he saide: Behold the Lambe of GOD 
+          <lb ed="#L" n="20"/>that taketh away the sins of the world  
+          <lb ed="#L" n="21"/>Moreover the Apostle Paul heareth  
+          <lb ed="#L" n="22"/>witnesse heereto, saying: Tim that 
+          <lb ed="#L" n="23"/>knewe not sinne, he made sinne for us,  
+          <lb ed="#L" n="24"/>that we through him might be made  
+          <lb ed="#L" n="25"/>the righteousnesse of God. Also in his  
+          <lb ed="#L" n="26"/>Epistle to the Colossians hee sayeth,  
+          <lb ed="#L" n="27"/>It pleased the father that in Christ all  
+          <lb ed="#L" n="28"/>fulnesse shoulde dwell, and by him to  
+          <lb ed="#L" n="29"/>reconcile al thinges unto himelfe, ha 
+          <lb ed="#L" n="30"/>ving set peace through the bloud of his  
+          <lb ed="#L" n="31"/>crosse by him, both things in earth and  
+          <lb ed="#L" n="32"/>thinges in heaven. These I suppose,  
+          <lb ed="#L" n="33"/>are testimonies fufficiently evident,  
+          <lb ed="#L" n="34"/>to prove that upon Christ are laide our  
+          <lb ed="#L" n="35"/>sinnes, with the curse or condemnati 
+          <lb ed="#L" n="36"/>on due unto our offences , and that  
+          <lb ed="#L" n="37"/>Christ by his bloud hath cleansed our  
+          <lb ed="#L" n="38"/>sinnes, and by his death hath vanqui 
+          <lb ed="#L" n="39"/>shed death, and the divel the author of  
+          <lb ed="#L" n="40"/>death, &amp; taken away the punishment  
+          <lb ed="#L" n="41"/>due unto us.  
+          <lb ed="#L" n="42"/>Pet because there be some, and those  
+          <lb ed="#L" n="43"/>not a fewe, which denie that Christ  
+          <lb ed="#L" n="44"/>ners, both fault and punishment, and  
+          <lb ed="#L" n="45"/>that he  
+          <lb ed="#L" n="46"/>by his death hath taken from us sin  
+          <!--47.xml-->
+          <pb ed="#L" n="47"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>of the whole worlde, I will therefore  
+          <lb ed="#L" n="2"/>nowe alledge certaine other testimo 
+          <lb ed="#L" n="3"/>nies and repeat somewhat of that that 
+          <lb ed="#L" n="4"/>I have before recited, thereby to make  
+          <lb ed="#L" n="5"/>it manifest, that Christ the only satis 
+          <lb ed="#L" n="6"/>faction of the worlde, hath made satis 
+          <lb ed="#L" n="7"/>faction both for our fault and punish 
+          <lb ed="#L" n="8"/>ment. Claias verily witnessed, that 
+          <lb ed="#L" n="9"/>both the fault of our offence &amp; the pu 
+          <lb ed="#L" n="10"/>nishment were taken away, when he  
+          <lb ed="#L" n="11"/>saith: Hee hare our infirmities, and  
+          <lb ed="#L" n="12"/>was wounded for our mniduities : fi 
+          <lb ed="#L" n="13"/>nally the discipline of peace, that is, ye  
+          <lb ed="#L" n="14"/>discipline or chastising or punishment  
+          <lb ed="#L" n="15"/>bringing peace, or the penaltie of our  
+          <lb ed="#L" n="16"/>correction, that is, the punishment due  
+          <lb ed="#L" n="17"/>to us for our offences, was layd on his  
+          <lb ed="#L" n="18"/>necke. Marke also what followeth: and  
+          <lb ed="#L" n="19"/>with the blewnesse of his stripes are  
+          <lb ed="#L" n="20"/>we healed.  
+          <lb ed="#L" n="21"/>This doth evidently teach, that by  
+          <lb ed="#L" n="22"/>the paine of Christ our punishment is  
+          <lb ed="#L" n="23"/>taken away. For looke what pain, pe 
+          <lb ed="#L" n="24"/>naltie, punishment, or correction was 
+          <lb ed="#L" n="25"/>due to us, &amp; the same was laide on the  
+          <lb ed="#L" n="26"/>Lord himelfe: and for that cause was 
+          <lb ed="#L" n="27"/>the lord wounded and received stripes.  
+          <lb ed="#L" n="28"/>And with them he healed us. But hee  
+          <lb ed="#L" n="29"/>had not yet healed us at all, if wee  
+          <lb ed="#L" n="30"/>should yet looke for woundes, stripes  
+          <lb ed="#L" n="31"/>and stroakes, that is to say, punishmet 
+          <lb ed="#L" n="32"/>for our sinnes.  
+          <lb ed="#L" n="33"/>The death of Christ therefore is a  
+          <lb ed="#L" n="34"/>full satisfaction for our sinnes. But  
+          <lb ed="#L" n="35"/>what I pray you shoulde Christe a 
+          <lb ed="#L" n="36"/>vayle us, if yet wee shoulde be puni 
+          <lb ed="#L" n="37"/>shed for our offences. Therefore  
+          <lb ed="#L" n="38"/>when we say, that he did beare all our  
+          <lb ed="#L" n="39"/>sinnes in his bodye uppon the Crosse,  
+          <lb ed="#L" n="40"/>what else do wee meane I pray you,  
+          <lb ed="#L" n="41"/>but that the Lorde by death, that was 
+          <lb ed="#L" n="42"/>not due unto him, tooke from us Gods  
+          <lb ed="#L" n="43"/>vengeance, that it might not light on  
+          <lb ed="#L" n="44"/>us to our punishment: Paul, as of 
+          <lb ed="#L" n="45"/>ten as hee maketh mention of our re 
+          <lb ed="#L" n="46"/>demption made by Christ, is wont to  
+          <!--47.xml-->
+          <pb ed="#L" n="47"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>name it arwritmn, by which worde he  
+          <lb ed="#L" n="2"/>understandeth not, as the common 
+          <lb ed="#L" n="3"/>fort do, redemption barely ad simply,  
+          <lb ed="#L" n="4"/>but the verie price and satisfaction of  
+          <lb ed="#L" n="5"/>redemption. Wherefore also hee wri 
+          <lb ed="#L" n="6"/>teth that Christ himelfe did give him 
+          <lb ed="#L" n="7"/>selfe to be the arouren, for us : that is  
+          <lb ed="#L" n="8"/>to say, the price wherewith captives 
+          <lb ed="#L" n="9"/>are redeemed from their enimies in  
+          <lb ed="#L" n="10"/>the warre. For that which we do com 
+          <lb ed="#L" n="11"/>monly call ransomes, the Ereekes do  
+          <lb ed="#L" n="12"/>name wurea. So then that is arrdurni 
+          <lb ed="#L" n="13"/>when man for man and life for life is  
+          <lb ed="#L" n="14"/>redeemed. But upon them that are  
+          <lb ed="#L" n="15"/>thus raunsomed &amp; set at libertie, there  
+          <lb ed="#L" n="16"/>is no punishment afterwarde layd, by  
+          <lb ed="#L" n="17"/>reason of the translation thereof from  
+          <lb ed="#L" n="18"/>one to another. Furthermore, this is  
+          <lb ed="#L" n="19"/>the new covenant ye God in his Christ  
+          <lb ed="#L" n="20"/>hath made with us that he wil not re 
+          <lb ed="#L" n="21"/>memder our iniduities.  
+          <lb ed="#L" n="22"/>But how could he chose but remem 
+          <lb ed="#L" n="23"/>ber our iniquities, if he ceased not to  
+          <lb ed="#L" n="24"/>punish them : So then, this remai 
+          <lb ed="#L" n="25"/>neth not to be doubted of, that Christ  
+          <lb ed="#L" n="26"/>our Lord is the ful portion, satisfacti 
+          <lb ed="#L" n="27"/>on, oblation and sacrifice for the sinnes  
+          <lb ed="#L" n="28"/>I say for the punishment &amp; the fault  
+          <lb ed="#L" n="29"/>of all the worlde, yea and by himelfe  
+          <lb ed="#L" n="30"/>alone : for in none other is any salva 
+          <lb ed="#L" n="31"/>tion: neither is there any other name  
+          <lb ed="#L" n="32"/>given unto men whereby they must  
+          <lb ed="#L" n="33"/>be saved.  
+          <lb ed="#L" n="34"/>I denye not, but that because of dis 
+          <lb ed="#L" n="35"/>cipline, chastisement &amp; erercise, divers  
+          <lb ed="#L" n="36"/>fortes of punishments are layde upon 
+          <lb ed="#L" n="37"/>mens neckes, &amp; that they are diversly  
+          <lb ed="#L" n="38"/>affected &amp; vered, because of their offen 
+          <lb ed="#L" n="39"/>ces. But those afflictions, how soever 
+          <lb ed="#L" n="40"/>they be patiently suffered of the faith,  
+          <lb ed="#L" n="41"/>full, do not yet wash sinnes away, nor  
+          <lb ed="#L" n="42"/>make satisfaction for misdeedes.  
+          <lb ed="#L" n="43"/>S. Peter sayth, Marveyle not that 
+          <lb ed="#L" n="44"/>y are, tryed by fire, which thing is 
+          <lb ed="#L" n="45"/>done for your tryall, as if any newe  
+          <lb ed="#L" n="46"/>thing shoulde happen unto you :  
+          <!--48.xml-->
+          <pb ed="#L" n="48"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>our saviour, God so loved the worlde,  
+          <lb ed="#L" n="2"/>that he gave his only begotten sonne:  
+          <lb ed="#L" n="3"/>that whosoever beleeveth should not 
+          <lb ed="#L" n="4"/>perish, but have life everlasting. For  
+          <lb ed="#L" n="5"/>God sent not his sonne into the world  
+          <lb ed="#L" n="6"/>to condemne the worlde, but that the 
+          <lb ed="#L" n="7"/>worlde through him might be saved.  
+          <lb ed="#L" n="8"/>He that beleeveth on him is not con 
+          <lb ed="#L" n="9"/>demned: but he that beleeveth not, is  
+          <lb ed="#L" n="10"/>condemned alreadie, because he bele 
+          <lb ed="#L" n="11"/>veth not in the name of the onely be 
+          <lb ed="#L" n="12"/>gotten sonne of God. By these words  
+          <lb ed="#L" n="13"/>nowe the thirde time is faith beaten 
+          <lb ed="#L" n="14"/>into our heads, by which we are made  
+          <lb ed="#L" n="15"/>partakers of the sonne of God, of his 
+          <lb ed="#L" n="16"/>life, salvation, redemption, and all good 
+          <lb ed="#L" n="17"/>thinges beside. In the sirt Chapter of  
+          <lb ed="#L" n="18"/>the Gospell after John, our Lorde a 
+          <lb ed="#L" n="19"/>gaine saith: This is the will of the fa 
+          <lb ed="#L" n="20"/>ther which sent mee, that everie one 
+          <lb ed="#L" n="21"/>that seeth the sonne, and beleeveth in  
+          <lb ed="#L" n="22"/>him should have life everlasting, and  
+          <lb ed="#L" n="23"/>I will raise him up at the last day 
+          <lb ed="#L" n="24"/>Nothing can be alledged to make more  
+          <lb ed="#L" n="25"/>for our present argument than these  
+          <lb ed="#L" n="26"/>wordes of his. For he sayth plainely,  
+          <lb ed="#L" n="27"/>that the will of God the father is, that 
+          <lb ed="#L" n="28"/>we should beleeve in the sonne, and  
+          <lb ed="#L" n="29"/>by this beliefe have our salvation. 
+          <lb ed="#L" n="30"/>Whereupon John the Evangelist and  
+          <lb ed="#L" n="31"/>Apostle in his Canonicall Epistle da 
+          <lb ed="#L" n="32"/>reth burst forth into these wordes: He  
+          <lb ed="#L" n="33"/>that beleeveth not God, maketh him  
+          <lb ed="#L" n="34"/>a lyer, because he beleeved not the re 
+          <lb ed="#L" n="35"/>cord that God gave of his sonne. And  
+          <lb ed="#L" n="36"/>this is the recorde, that God hath gi 
+          <lb ed="#L" n="37"/>ven unto us eternall life, and this 
+          <lb ed="#L" n="38"/>life is in his sonne. He that hath the  
+          <lb ed="#L" n="39"/>sonne, hath life: and he that hath not 
+          <lb ed="#L" n="40"/>the sonne of God, hath not life. Deare 
+          <lb ed="#L" n="41"/>ly beloved, note this. The eternall and  
+          <lb ed="#L" n="42"/>unchangeable wil of god is, that he wit  
+          <lb ed="#L" n="43"/>give eternal life unto the worlde. But  
+          <lb ed="#L" n="44"/>he will give the life through Christ,  
+          <lb ed="#L" n="45"/>who is naturally life it selfe, and can 
+          <lb ed="#L" n="46"/>give life. The very same God also wil  
+          <!--48.xml-->
+          <pb ed="#L" n="48"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>yea, rather reioyce herein that ye are  
+          <lb ed="#L" n="2"/>partakers of the afflietions of Christ,  
+          <lb ed="#L" n="3"/>that in the revelation also of his glorie  
+          <lb ed="#L" n="4"/>ye may reioyce and be glad. This I  
+          <lb ed="#L" n="5"/>say, is the ende and use of afflictions.  
+          <lb ed="#L" n="6"/>And by this means the glory of Christ  
+          <lb ed="#L" n="7"/>indureth pure and uncorrupted.  
+          <lb ed="#L" n="8"/>It remaineth now for me to prove  
+          <lb ed="#L" n="9"/>out of the holy Scriptures, that God 
+          <lb ed="#L" n="10"/>the father hath ordeined that he who 
+          <lb ed="#L" n="11"/>soever doth believe in the onely begot 
+          <lb ed="#L" n="12"/>ten sonne of God, shall be made parta 
+          <lb ed="#L" n="13"/>ker of Christ his righteousnesse, that 
+          <lb ed="#L" n="14"/>is, shal be justified by him, be absolved 
+          <lb ed="#L" n="15"/>from his sinnes, and bee made heire of  
+          <lb ed="#L" n="16"/>life everlasting. Claias therfore saith,  
+          <lb ed="#L" n="17"/>In the acknowledging of him, or in  
+          <lb ed="#L" n="18"/>his knowledge shall my righteous ser 
+          <lb ed="#L" n="19"/>vaunt justifie the mulritude, whose  
+          <lb ed="#L" n="20"/>sinnes he himelfe shall beare. But  
+          <lb ed="#L" n="21"/>what else is the acknowledging or  
+          <lb ed="#L" n="22"/>knowledge of Christ, but true faith,  
+          <lb ed="#L" n="23"/>Moreover, the Lord Jesus himselfe  
+          <lb ed="#L" n="24"/>in the Gospell after saint John, saith:  
+          <lb ed="#L" n="25"/>And as Moses lifte up the Serpent in  
+          <lb ed="#L" n="26"/>the wildernes, even so must the sonne  
+          <lb ed="#L" n="27"/>of man be lift up, that whosoever be 
+          <lb ed="#L" n="28"/>leeveth in him, should not perish but  
+          <lb ed="#L" n="29"/>have life everlasting. There was 
+          <lb ed="#L" n="30"/>none other remedy in ye desart, against  
+          <lb ed="#L" n="31"/>the envenomed bytinges of the Ser 
+          <lb ed="#L" n="32"/>pents, but the contemplation or behol 
+          <lb ed="#L" n="33"/>ding of the Serpent lift up and hanged 
+          <lb ed="#L" n="34"/>aloft. No plaster did cure them that 
+          <lb ed="#L" n="35"/>were poysoned, no oblatio made to god,  
+          <lb ed="#L" n="36"/>not praier it selfe offered to God, not a 
+          <lb ed="#L" n="37"/>ny worke, nor any way else : the onely  
+          <lb ed="#L" n="38"/>beholding of the serpent made the poy 
+          <lb ed="#L" n="39"/>son harmlesse, that then had crept into  
+          <lb ed="#L" n="40"/>al their lims. In likemaner, nothing at  
+          <lb ed="#L" n="41"/>all doth save us from death but onelie  
+          <lb ed="#L" n="42"/>faith in Christ.  
+          <lb ed="#L" n="43"/>For by faith we behold and see Christ  
+          <lb ed="#L" n="44"/>lifted up upon the stake of the Crosse,  
+          <lb ed="#L" n="45"/>as it is to beeseene in the sirte chapter 
+          <lb ed="#L" n="46"/>of John. It followeth in the words of  
+          <!--49.xml-->
+          <pb ed="#L" n="49"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>that we obtaine and have life in us,  
+          <lb ed="#L" n="2"/>and that wee have it no other wayes  
+          <lb ed="#L" n="3"/>than by faith. For the Apostle Paule  
+          <lb ed="#L" n="4"/> 
+          <lb ed="#L" n="5"/>taught, that Christ doeth dwell in our  
+          <lb ed="#L" n="6"/>hearts by faith. Moreover, the Lorde  
+          <lb ed="#L" n="7"/>hiself also witnesseth &amp; saith: He that 
+          <lb ed="#L" n="8"/>eateth me shall live by mnee. But yee  
+          <lb ed="#L" n="9"/>knowe (dearely beloved) that to eate  
+          <lb ed="#L" n="10"/>Christ is to believe in him. And there 
+          <lb ed="#L" n="11"/>fore we knit up this place with these  
+          <lb ed="#L" n="12"/>wordes of sainct Peter. To this 
+          <lb ed="#L" n="13"/>Christe doe all the Prophetes beare  
+          <lb ed="#L" n="14"/>witnesse, that whosoever beleeveth in  
+          <lb ed="#L" n="15"/>him, shall receive forgivenes of sinnes  
+          <lb ed="#L" n="16"/>through his name. We have in these  
+          <lb ed="#L" n="17"/>a most ample testimonie of the whole  
+          <lb ed="#L" n="18"/>sacred Scriptures. By these I have  
+          <lb ed="#L" n="19"/>evidently enough declared, that God 
+          <lb ed="#L" n="20"/>hath appointed, that whosoever doth  
+          <lb ed="#L" n="21"/>believe in Christ, being clensed from his 
+          <lb ed="#L" n="22"/>sins, shall be made heire of life everla 
+          <lb ed="#L" n="23"/>sting. This will I make more evident 
+          <lb ed="#L" n="24"/>yet, by declaring how that faith alone  
+          <lb ed="#L" n="25"/>that is, that faith for it selfe, and not  
+          <lb ed="#L" n="26"/>for any workes of ours doeth justifie  
+          <lb ed="#L" n="27"/>the faithtull. For it selfe I saye, not  
+          <lb ed="#L" n="28"/>in respect that it is in us a qualitie of  
+          <lb ed="#L" n="29"/>the minde, or our owne worke in our  
+          <lb ed="#L" n="30"/>selves, but in respecte that faith is  
+          <lb ed="#L" n="31"/>the gift of Gods grace, having in it a  
+          <lb ed="#L" n="32"/>promise of righteousnesse and life : and  
+          <lb ed="#L" n="33"/>in respect, that naturally of it selfe, it  
+          <lb ed="#L" n="34"/>is a certaine and undoubted perswa 
+          <lb ed="#L" n="35"/>sion resting upon GOD, and beleeving  
+          <lb ed="#L" n="36"/>that GOD being pacified by Christ,  
+          <lb ed="#L" n="37"/>hath through Christe bestowed life  
+          <lb ed="#L" n="38"/>and all good things on us. Therefore  
+          <lb ed="#L" n="39"/>faith for Christ, and by the grace and  
+          <lb ed="#L" n="40"/>promise of God doth justifie. and so  
+          <lb ed="#L" n="41"/>faith, that is that, which we believe  
+          <lb ed="#L" n="42"/>and wherein our confidence is setled,  
+          <lb ed="#L" n="43"/>God I say himselfe by the grace of god 
+          <lb ed="#L" n="44"/>doth justifie us through our redempti 
+          <lb ed="#L" n="45"/>on in Christ : so that nowe, our owne  
+          <lb ed="#L" n="46"/>workes or merites have no place lefte  
+          <lb ed="#L" n="47"/>to them at al, I mean, in justification,  
+          <!--49.xml-->
+          <pb ed="#L" n="49"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>For otherwise good workes have their  
+          <lb ed="#L" n="2"/>place in the faithtul, as we in place co 
+          <lb ed="#L" n="3"/>venient do meane to shew. For Paul ye  
+          <lb ed="#L" n="4"/>teacher of the Gentils, doth in the way 
+          <lb ed="#L" n="5"/>of opposition compare Christ with A 
+          <lb ed="#L" n="6"/>dam, and sheweth, that of Adam and so  
+          <lb ed="#L" n="7"/>of our owne nature and strength, wee  
+          <lb ed="#L" n="8"/>have nothing but sinne, the wrath of  
+          <lb ed="#L" n="9"/>God, and death,  
+          <lb ed="#L" n="10"/>And this doth hee shewe under the  
+          <lb ed="#L" n="11"/>name of Adam to the intent that no 
+          <lb ed="#L" n="12"/>man should seeke for righteousnes and  
+          <lb ed="#L" n="13"/>life in the fleshe. And againe, on the  
+          <lb ed="#L" n="14"/>other side he declareth, ye we by Christ  
+          <lb ed="#L" n="15"/>have righteousnesse, the grace of God,  
+          <lb ed="#L" n="16"/>life and the forgivenesse of all our sins,  
+          <lb ed="#L" n="17"/>In this opposition, hee doth earnestly  
+          <lb ed="#L" n="18"/>urge and often repeate this worde, of  
+          <lb ed="#L" n="19"/>one, to no other ende verily, but ye we  
+          <lb ed="#L" n="20"/>shuld understand, that faith alone doth  
+          <lb ed="#L" n="21"/>justifie,  
+          <lb ed="#L" n="22"/>To the Galathians hee doth verie  
+          <lb ed="#L" n="23"/>evidently use this kinde of argument,  
+          <lb ed="#L" n="24"/>To the last will and testament of a  
+          <lb ed="#L" n="25"/>man, it it once be proved, no bodie doth  
+          <lb ed="#L" n="26"/>adde or take any thing away. Reason 
+          <lb ed="#L" n="27"/>therefore doth rightly require that no  
+          <lb ed="#L" n="28"/>man put too, or take away any thing  
+          <lb ed="#L" n="29"/>from the testament of God. But this  
+          <lb ed="#L" n="30"/>is the testament which God confirmed  
+          <lb ed="#L" n="31"/>that his will is to bestowe the belessing  
+          <lb ed="#L" n="32"/>upon Abrahams seede, not in many, or  
+          <lb ed="#L" n="33"/>by manie, but through one. For hee  
+          <lb ed="#L" n="34"/>saith not, and to the seedes, as though  
+          <lb ed="#L" n="35"/>he spake of manie, but as speaking of  
+          <lb ed="#L" n="36"/>one he saith, And to thy seede, that is  
+          <lb ed="#L" n="37"/>Christ.  Therefore it is a detestalbe  
+          <lb ed="#L" n="38"/>thing to augmet or diminish any thing  
+          <lb ed="#L" n="39"/>in this testament of God: Christ alone  
+          <lb ed="#L" n="40"/>is the onely savour still: men can nei 
+          <lb ed="#L" n="41"/>ther save themselves nor other 
+          <lb ed="#L" n="42"/>Againe, in the same Epistle to the  
+          <lb ed="#L" n="43"/>Galathians he saith: we knowe that 
+          <lb ed="#L" n="44"/>man is not iustified by the workes of  
+          <lb ed="#L" n="45"/>the lawe, but by faith in lesus Christ :  
+          <lb ed="#L" n="46"/>in so muth as no flesh shall be justifi 
+          <!--50.xml-->
+          <pb ed="#L" n="50"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>self, doth digge up the knowledge of of 
+          <lb ed="#L" n="2"/>fences, that is, doth apply them, bring  
+          <lb ed="#L" n="3"/>them to light, and make them mani 
+          <lb ed="#L" n="4"/>fest, but doth not take them away, blot  
+          <lb ed="#L" n="5"/>them out, or utterly extinguish them 
+          <lb ed="#L" n="6"/>and that therefore, GOD for his own  
+          <lb ed="#L" n="7"/>goodnes sake, to the end that the worke  
+          <lb ed="#L" n="8"/>that he hath made, should not altoge 
+          <lb ed="#L" n="9"/>ther perish, doth justifie the faithfull  
+          <lb ed="#L" n="10"/>freely by faith in Jesus Christ. I will  
+          <lb ed="#L" n="11"/>rehearse a fewe of the Apostles owne  
+          <lb ed="#L" n="12"/>wordes. The righteousnesse of God 
+          <lb ed="#L" n="13"/>saith he )is declared without the law, 
+          <lb ed="#L" n="14"/>being witnessed notwithstanding by  
+          <lb ed="#L" n="15"/>the lawe and the Prophets, the righte 
+          <lb ed="#L" n="16"/>ousnesse of God, I saye, commeth by  
+          <lb ed="#L" n="17"/>faith in lesus Christ unto all, et uppon 
+          <lb ed="#L" n="18"/>all them that beleeve. For there is no 
+          <lb ed="#L" n="19"/>difference. For all have sinned et have  
+          <lb ed="#L" n="20"/>neede of the glorie of God: but are iu 
+          <lb ed="#L" n="21"/>stified freely by his grace through the  
+          <lb ed="#L" n="22"/>redemption that is in Christ lesu, who 
+          <lb ed="#L" n="23"/>God hath set forth to be a propitiation 
+          <lb ed="#L" n="24"/>through faith in his bloud. These  
+          <lb ed="#L" n="25"/>words of ye Apostle, I suppose, are most  
+          <lb ed="#L" n="26"/>manifest to them that believe. He plue 
+          <lb ed="#L" n="27"/>keth justification from our owne me 
+          <lb ed="#L" n="28"/>rites &amp; strength, and attributeth it to  
+          <lb ed="#L" n="29"/>grace, wherby the sonne of God is give 
+          <lb ed="#L" n="30"/>to the worlde, unto the punishment of  
+          <lb ed="#L" n="31"/>the Crosse, that all they ye believe that 
+          <lb ed="#L" n="32"/>they are redeemed by the bloud of the  
+          <lb ed="#L" n="33"/>sonne of God, may be justified. Againe  
+          <lb ed="#L" n="34"/>the Apostle immediatly after, addeth:  
+          <lb ed="#L" n="35"/>Therefore we holde that man is iustifi 
+          <lb ed="#L" n="36"/>ed by faith without the workes of the  
+          <lb ed="#L" n="37"/>law. Apon the necke of this againe, he  
+          <lb ed="#L" n="38"/>argueth this. Is he the God of the le 
+          <lb ed="#L" n="39"/>wes onlyy Is he not also of the centilsy  
+          <lb ed="#L" n="40"/>Tes even of the gentiles also. For it is  
+          <lb ed="#L" n="41"/>one God that shall justifie Circumci 
+          <lb ed="#L" n="42"/>sion by faith, and uncireumeision 
+          <lb ed="#L" n="43"/>through faith. To be God, is nothing  
+          <lb ed="#L" n="44"/>else but to be life &amp; salvation. But God 
+          <lb ed="#L" n="45"/>is the God of the Gentiles also, &amp; not of  
+          <lb ed="#L" n="46"/>the Jewes alone: therefore God is the  
+          <!--50.xml-->
+          <pb ed="#L" n="50"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>ed by the workes of the lawe. This is  
+          <lb ed="#L" n="2"/>nowe the thiroe time that Paule saith  
+          <lb ed="#L" n="3"/>that men are not justified by the works  
+          <lb ed="#L" n="4"/>of the lawe. In the which clause hee  
+          <lb ed="#L" n="5"/>comprehendeth all maner of works of  
+          <lb ed="#L" n="6"/>what fort soever. So then, no kinde  
+          <lb ed="#L" n="7"/>of workes doe justifie.  But what is it  
+          <lb ed="#L" n="8"/>then that justifieth: Faith in Christ,  
+          <lb ed="#L" n="9"/>and that verily alone. For what else  
+          <lb ed="#L" n="10"/>can these wordes import, we knowe  
+          <lb ed="#L" n="11"/>that man is not iustified but by faith  
+          <lb ed="#L" n="12"/>in Christ. For the force of these two  
+          <lb ed="#L" n="13"/>speeches is all one, Faith alone doeth  
+          <lb ed="#L" n="14"/>justifie: And, it is certaine that we are  
+          <lb ed="#L" n="15"/>not iustified but by faith in lesus  
+          <lb ed="#L" n="16"/>Christ. Je addeth the example of the  
+          <lb ed="#L" n="17"/>Apostles, And we have beleeved in le 
+          <lb ed="#L" n="18"/>sus Christ, that we mioht be justified  
+          <lb ed="#L" n="19"/>by faith in Jesus Christ : and not by  
+          <lb ed="#L" n="20"/>the workes of the lawe. In like man 
+          <lb ed="#L" n="21"/>ner also, Peter argueth by an erample  
+          <lb ed="#L" n="22"/>in the Actes of the Apostles, and saith,  
+          <lb ed="#L" n="23"/>wee beleeve that through the grace  
+          <lb ed="#L" n="24"/>of our Lord lesus Christ wee shall be  
+          <lb ed="#L" n="25"/>saved, even as they. Aets. 15. 
+          <lb ed="#L" n="26"/>Moreover, in the very same chapter 
+          <lb ed="#L" n="27"/>to the Gala. he saith: I despise not the  
+          <lb ed="#L" n="28"/>grace of God: for if righteousnesse  
+          <lb ed="#L" n="29"/>come of the lawe then Christ is dead 
+          <lb ed="#L" n="30"/>in vaine. For if we in our selves had 
+          <lb ed="#L" n="31"/>had any thing whereby we might bee  
+          <lb ed="#L" n="32"/>saved, what needed the sonne of God to  
+          <lb ed="#L" n="33"/>take our flesh, to suffer and to die: But  
+          <lb ed="#L" n="34"/>for because the sonne of God being in 
+          <lb ed="#L" n="35"/>carnate, did suffer and die, and died not  
+          <lb ed="#L" n="36"/>in vaine : therefore in our flesh there  
+          <lb ed="#L" n="37"/>was nothing that could obtaine salva 
+          <lb ed="#L" n="38"/>tion for mankinde. Wherefore the on 
+          <lb ed="#L" n="39"/>ly sonne of God is our saviour for e 
+          <lb ed="#L" n="40"/>ver: and by true faith maketh us par 
+          <lb ed="#L" n="41"/>takers of his salvation.  
+          <lb ed="#L" n="42"/>Paule in the very beginning of his  
+          <lb ed="#L" n="43"/>Epistle to the Bom, doth prove that al  
+          <lb ed="#L" n="44"/>men are sinners, that in men there re 
+          <lb ed="#L" n="45"/>maineth no strength for them to bee  
+          <lb ed="#L" n="46"/>saved by, and that the lawe of God it  
+          <!--51.xml-->
+          <pb ed="#L" n="51"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>life and salvation of the Gentils. This  
+          <lb ed="#L" n="2"/>life and salvation hee doth communi 
+          <lb ed="#L" n="3"/>cate to us, not by the lawe or through  
+          <lb ed="#L" n="4"/>circumcision: but by faith in Christ,  
+          <lb ed="#L" n="5"/>Therefore faith alone doth justifie,  
+          <lb ed="#L" n="6"/>This may be proved by the example of  
+          <lb ed="#L" n="7"/>Cornelius the Centuris, who as soone  
+          <lb ed="#L" n="8"/>as S. Peter had preached unto him, &amp;  
+          <lb ed="#L" n="9"/>he once beleeved, was by &amp; by justified  
+          <lb ed="#L" n="10"/>when as yet he had not received ciresi 
+          <lb ed="#L" n="11"/>cision, or the law, when as yet hee had 
+          <lb ed="#L" n="12"/>not satrificed, nor merited righteous 
+          <lb ed="#L" n="13"/>nes by any worke ye he did: For he was 
+          <lb ed="#L" n="14"/>freely justified in faith through Jesus  
+          <lb ed="#L" n="15"/>Christ. For Peter concluded his Ser 
+          <lb ed="#L" n="16"/>mon to him in these wordes. To this 
+          <lb ed="#L" n="17"/>Christ doe all the Prophetes give wit 
+          <lb ed="#L" n="18"/>nesse, that through his name whosoe, 
+          <lb ed="#L" n="19"/>ver beleeveth in him shall receive re 
+          <lb ed="#L" n="20"/>mission of sinnes. After all this, the A 
+          <lb ed="#L" n="21"/>ostle Paul bringeth foorth in that no 
+          <lb ed="#L" n="22"/>table and singular example of our fa 
+          <lb ed="#L" n="23"/>ther Abraha, teaching by what means  
+          <lb ed="#L" n="24"/>our father Abraham was justified. For  
+          <lb ed="#L" n="25"/>this being once truely declared, it can 
+          <lb ed="#L" n="26"/>not chose but be plaine &amp; manifest to e 
+          <lb ed="#L" n="27"/>verie one, by what means Gods wil is  
+          <lb ed="#L" n="28"/>to justifie all men. For the sonnes can 
+          <lb ed="#L" n="29"/>not be justified any other way than the  
+          <lb ed="#L" n="30"/>father before them was justified. Abra 
+          <lb ed="#L" n="31"/>ham therfore was not iustified by cir 
+          <lb ed="#L" n="32"/>cumcision or receiving of the sacra 
+          <lb ed="#L" n="33"/>ment. For it is said that he was justi 
+          <lb ed="#L" n="34"/>fied before he was circumcised.  
+          <lb ed="#L" n="35"/>Afterward was added the signe of  
+          <lb ed="#L" n="36"/>circumcision, as the seale of the righte 
+          <lb ed="#L" n="37"/>ousnesse of faith, that is the signe or  
+          <lb ed="#L" n="38"/>sealing, that al the seed of Abraham is  
+          <lb ed="#L" n="39"/>justified by faith. The same our father  
+          <lb ed="#L" n="40"/>Abraham was not iustified by ye lawe,  
+          <lb ed="#L" n="41"/>For the law was ar30. yeeres added to  
+          <lb ed="#L" n="42"/>the promise, not to take away sinne or  
+          <lb ed="#L" n="43"/>to worke justification, but to make sin  
+          <lb ed="#L" n="44"/>appeare, &amp; to make us altogether emp 
+          <lb ed="#L" n="45"/>ty, &amp; when we are once made empty, to  
+          <lb ed="#L" n="46"/>send and as it were compell us to flye  
+          <!--51.xml-->
+          <pb ed="#L" n="51"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>to Christ. Againe, Abraham was not 
+          <lb ed="#L" n="2"/>justified by his works, And yet in that  
+          <lb ed="#L" n="3"/>most excellent Patriarch are found to  
+          <lb ed="#L" n="4"/>be good workes, yea and those too good 
+          <lb ed="#L" n="5"/>workes of true faith, which are both  
+          <lb ed="#L" n="6"/>notalbe and many in number, such and  
+          <lb ed="#L" n="7"/>so many as you shall scarcely finde in  
+          <lb ed="#L" n="8"/>any other 
+          <lb ed="#L" n="9"/>Neverthelesse yet the Apostle saith,  
+          <lb ed="#L" n="10"/>what shall we say then that Abraham 
+          <lb ed="#L" n="11"/>our father as perteyning to the flesh, 
+          <lb ed="#L" n="12"/>who l say is our father touthing the  
+          <lb ed="#L" n="13"/>flesh, did merit or finde, for both those  
+          <lb ed="#L" n="14"/>significations hath the Ereeke word  
+          <lb ed="#L" n="15"/>jvmmthia. For, if Abraham were justi 
+          <lb ed="#L" n="16"/>fied by workes, then hath he to boast  
+          <lb ed="#L" n="17"/>but not before God. For God is onely  
+          <lb ed="#L" n="18"/>just et he that onely justifieth. All men 
+          <lb ed="#L" n="19"/>are corrupt yea eve Abraham is a sin 
+          <lb ed="#L" n="20"/>ner &amp; every man stadeth in need of the  
+          <lb ed="#L" n="21"/>glory of God. For which cause also the  
+          <lb ed="#L" n="22"/>Prophet did plainely forbid to boast in  
+          <lb ed="#L" n="23"/>any thing but in the mercy of God.  
+          <lb ed="#L" n="24"/>Wherefore, Abraham boasted not a 
+          <lb ed="#L" n="25"/>gainst God: he acknowledged himelfe  
+          <lb ed="#L" n="26"/>to be a sinner, and that he was to be  
+          <lb ed="#L" n="27"/>justified freely, and not for his owne  
+          <lb ed="#L" n="28"/>merits sake. The Apostle goeth forth  
+          <lb ed="#L" n="29"/>and saith. For what saith the Scrip 
+          <lb ed="#L" n="30"/>ture. Abraham beleeved in God, 
+          <lb ed="#L" n="31"/>and it was reckoned unto him for  
+          <lb ed="#L" n="32"/>righteousnesse.  Two thinges are  
+          <lb ed="#L" n="33"/>here affirmed. First that Abraham 
+          <lb ed="#L" n="34"/>beleeved in God, Secondly that that 
+          <lb ed="#L" n="35"/>was imputed to him for righteousnes,  
+          <lb ed="#L" n="36"/>By this it followeth that Abraham 
+          <lb ed="#L" n="37"/>was justified by fayth, and not by  
+          <lb ed="#L" n="38"/>works. And that doth the apostle prove  
+          <lb ed="#L" n="39"/>after this manner. To him that by  
+          <lb ed="#L" n="40"/>works doth merite righteousnes, righ 
+          <lb ed="#L" n="41"/>teousnesse is not imputed. But to A 
+          <lb ed="#L" n="42"/>braham is righteousnesse imputed :  
+          <lb ed="#L" n="43"/>therefore hee merited not righteous 
+          <lb ed="#L" n="44"/>nesse by workes,  
+          <lb ed="#L" n="45"/>Agayne, To him verily that 
+          <lb ed="#L" n="46"/>woorketh not, but beleeveth, his.  
+          <!--52.xml-->
+          <pb ed="#L" n="52"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>faith is counted for righteousnesse,  
+          <lb ed="#L" n="2"/>But Abraham beleeved in God, there 
+          <lb ed="#L" n="3"/>fore his faith was reckoned for righte 
+          <lb ed="#L" n="4"/>ousnesse,  
+          <lb ed="#L" n="5"/>In the same chapter, the same Apo 
+          <lb ed="#L" n="6"/>stle bringeth foorth other argumentes,  
+          <lb ed="#L" n="7"/>altogether as strong as these, to prove  
+          <lb ed="#L" n="8"/>that faith iustifieth without woorkes.  
+          <lb ed="#L" n="9"/>If they (saith he) which are of the law 
+          <lb ed="#L" n="10"/>be heires, then is faith but vaine, et the  
+          <lb ed="#L" n="11"/>promise made of none effeet,  
+          <lb ed="#L" n="12"/>They are of the law which seeke to  
+          <lb ed="#L" n="13"/>be justified by the workes of the lawe.  
+          <lb ed="#L" n="14"/>But faith resteth uppon the mercie of  
+          <lb ed="#L" n="15"/>God. What place then shall grace and  
+          <lb ed="#L" n="16"/>the mercy of God have left unto them,  
+          <lb ed="#L" n="17"/>it we by workes doe merite iustificati 
+          <lb ed="#L" n="18"/>on: What shall I neede to believe that 
+          <lb ed="#L" n="19"/>by the bloude of Christ I shalbe justi 
+          <lb ed="#L" n="20"/>fied, if God by my woorkes bee at one  
+          <lb ed="#L" n="21"/>with me againe, who for my sins was 
+          <lb ed="#L" n="22"/>angrie with mee: Finally salvation  
+          <lb ed="#L" n="23"/>and righteousnesse are promised of  
+          <lb ed="#L" n="24"/>God. But then the promise endeth,  
+          <lb ed="#L" n="25"/>when our own merites begin to come  
+          <lb ed="#L" n="26"/>in place. For the Apostle to the Ga 
+          <lb ed="#L" n="27"/>lathians sayeth: Ffinheritaunce bee  
+          <lb ed="#L" n="28"/>of the lawe, then it is not now of the  
+          <lb ed="#L" n="29"/>promise. Fut God gave the inheri 
+          <lb ed="#L" n="30"/>tance to Abraham by promise : there 
+          <lb ed="#L" n="31"/>fore that the promise might remayne  
+          <lb ed="#L" n="32"/>stable, fayth justifieth and not me 
+          <lb ed="#L" n="33"/>rits.  
+          <lb ed="#L" n="34"/>Agayne, in the fourth Chapter to  
+          <lb ed="#L" n="35"/>the Romaines hee sayeth: Therefore  
+          <lb ed="#L" n="36"/>by faith is the inheritance given, that 
+          <lb ed="#L" n="37"/>it might be by grace, that the promise  
+          <lb ed="#L" n="38"/>might be sure to all the seede, not to  
+          <lb ed="#L" n="39"/>that onely that is of the law, but to that 
+          <lb ed="#L" n="40"/>also that is of the faith of Abraham. He  
+          <lb ed="#L" n="41"/>rehearseth here two causes, for which  
+          <lb ed="#L" n="42"/>he attributeth justification to faith, &amp;  
+          <lb ed="#L" n="43"/>not to workes,  
+          <lb ed="#L" n="44"/>God may be praised. The latter is,  
+          <lb ed="#L" n="45"/>The first is, that justification may  
+          <lb ed="#L" n="46"/>bee of free gift, and that the grace of  
+          <!--52.xml-->
+          <pb ed="#L" n="52"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>that the promise and salvatio may re 
+          <lb ed="#L" n="2"/>maine stedfast, and that it may come  
+          <lb ed="#L" n="3"/>upon the Gentiles also. But it should  
+          <lb ed="#L" n="4"/>not be given to the Gentiles, if it were  
+          <lb ed="#L" n="5"/>due onely to the lawe &amp; Circumcision,  
+          <lb ed="#L" n="6"/>because the Gentiles lacke them both,  
+          <lb ed="#L" n="7"/>Finally, ye hope of our salvation ought  
+          <lb ed="#L" n="8"/>to bee stedfastly established. But it  
+          <lb ed="#L" n="9"/>shoulde never bee surely grounded, or  
+          <lb ed="#L" n="10"/>safely preserved, it it were attributed  
+          <lb ed="#L" n="11"/>to our owne workes or merits. For in  
+          <lb ed="#L" n="12"/>them is alwayes something wanting,.  
+          <lb ed="#L" n="13"/>But in God, and in the merite of the  
+          <lb ed="#L" n="14"/>sonne of God can nothing bee lacking.  
+          <lb ed="#L" n="15"/>Therefore our salvation is surely con 
+          <lb ed="#L" n="16"/>firmed, not to be doubted of, &amp; allured 
+          <lb ed="#L" n="17"/>ly certeine, if that wee seeke for it by  
+          <lb ed="#L" n="18"/>faith in the sonne of God, who is our  
+          <lb ed="#L" n="19"/>righteousnesse and salvation. 
+          <lb ed="#L" n="20"/>To all these I will yet adde an o 
+          <lb ed="#L" n="21"/>ther testimonie out of saynt Paul,  
+          <lb ed="#L" n="22"/>which is indeed, both most evident and  
+          <lb ed="#L" n="23"/>easie to be perceived. In his Epistle to  
+          <lb ed="#L" n="24"/>the Ephesians hee saith: By grac are  
+          <lb ed="#L" n="25"/>ye saved through faith, and that not of  
+          <lb ed="#L" n="26"/>your selves, it is the gift of God, not 
+          <lb ed="#L" n="27"/>of workes, least any man should boast  
+          <lb ed="#L" n="28"/>him selfe.  For wee are the workman 
+          <lb ed="#L" n="29"/>shippe of GOD, created in Christ Je 
+          <lb ed="#L" n="30"/>sus into good workes, which God hath  
+          <lb ed="#L" n="31"/>before ordeined that we should walke 
+          <lb ed="#L" n="32"/>in them 
+          <lb ed="#L" n="33"/>More then this I will not saye,  
+          <lb ed="#L" n="34"/>neyther will I at large expounde the  
+          <lb ed="#L" n="35"/>woordes of Paul. For these testimonies  
+          <lb ed="#L" n="36"/>are more cleere than the noone daye, &amp;  
+          <lb ed="#L" n="37"/>doe most evidently teslifie, that wee  
+          <lb ed="#L" n="38"/>are iustified by fayth, and not by anie  
+          <lb ed="#L" n="39"/>workes.  
+          <lb ed="#L" n="40"/>But (reverend brethren in th  
+          <lb ed="#L" n="41"/>we not teach so toor  
+          <lb ed="#L" n="42"/>Lerd) good woorkes here come into no  
+          <lb ed="#L" n="43"/>ieopardy to bee little set by, because of  
+          <lb ed="#L" n="44"/>this docrine, which teacheth ye faith,  
+          <lb ed="#L" n="45"/>alone doth justifie. Thus did the Apo 
+          <lb ed="#L" n="46"/>stles of Christ teach, why then shoulde  
+          <!--53.xml-->
+          <pb ed="#L" n="53"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>As for them that thinke this docrine,  
+          <lb ed="#L" n="2"/>wherby we do constantly affirm, that 
+          <lb ed="#L" n="3"/>faith alone without workes doeth ju 
+          <lb ed="#L" n="4"/>stifie, to be contrarie to religion, let 
+          <lb ed="#L" n="5"/>them blame ye Apostles of Christ, &amp; not  
+          <lb ed="#L" n="6"/>find fault with us. Moreover, whereas 
+          <lb ed="#L" n="7"/>we say, that the faithfull are iustified  
+          <lb ed="#L" n="8"/>by faith alone, or else by faith with 
+          <lb ed="#L" n="9"/>out workes, we doe not say, as many  
+          <lb ed="#L" n="10"/>thinke we doe, that faith is poast a 
+          <lb ed="#L" n="11"/>lone, or utterlye destitute of good 
+          <lb ed="#L" n="12"/>workes. For whersoever faith is, there  
+          <lb ed="#L" n="13"/>also it sheweth it selfe by good works:  
+          <lb ed="#L" n="14"/>because the righteous can not but 
+          <lb ed="#L" n="15"/>worke righteousnesse. But before he  
+          <lb ed="#L" n="16"/>doeth worke righteousnesse, that is to  
+          <lb ed="#L" n="17"/>say, good workes, he must of necessitie  
+          <lb ed="#L" n="18"/>be righteous : therefore the righteous  
+          <lb ed="#L" n="19"/>doth not attaine to righteousnes that 
+          <lb ed="#L" n="20"/>goeth before by workes that followe  
+          <lb ed="#L" n="21"/>after. Therefore that righteonsnesse  
+          <lb ed="#L" n="22"/>is attributed to grace. For the faith,  
+          <lb ed="#L" n="23"/>full are freely by grace iustified in  
+          <lb ed="#L" n="24"/>faith, according to that saying: The  
+          <lb ed="#L" n="25"/>just shall live by his faith, and after  
+          <lb ed="#L" n="26"/>that they are iustified they beginne to  
+          <lb ed="#L" n="27"/>bring foorth the workes of righteous 
+          <lb ed="#L" n="28"/>nesse.  Therefore, in this discourse I  
+          <lb ed="#L" n="29"/>meane not to overthrow good workes,  
+          <lb ed="#L" n="30"/>which have their due place and digni 
+          <lb ed="#L" n="31"/>tie in the Church among the faithtull,  
+          <lb ed="#L" n="32"/>before the face of God: but my minde  
+          <lb ed="#L" n="33"/>is, by all the meanes I may, to proove  
+          <lb ed="#L" n="34"/>that the grace of God, and increase of  
+          <lb ed="#L" n="35"/>the sonne of God is overthrowne and  
+          <lb ed="#L" n="36"/>troden under foote, when we ioine our  
+          <lb ed="#L" n="37"/>merites and workes to the merite of  
+          <lb ed="#L" n="38"/>Christ, and to faith: by which we take  
+          <lb ed="#L" n="39"/>holde on Christe. For what can bee  
+          <lb ed="#L" n="40"/>more manifest than this saying, of the  
+          <lb ed="#L" n="41"/>blessed Apostle: If wee be saved by 
+          <lb ed="#L" n="42"/>grace, then not nowe workes. For then  
+          <lb ed="#L" n="43"/>grace is no more grace. But if we be  
+          <lb ed="#L" n="44"/>saved by workes, then it it nowe no  
+          <lb ed="#L" n="45"/>grace, for the worke is no more worke.  
+          <lb ed="#L" n="46"/>Bom 
+          <!--53.xml-->
+          <pb ed="#L" n="53"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>and merite or worke, cannot stande to 
+          <lb ed="#L" n="2"/>gether. Therefore least we should o 
+          <lb ed="#L" n="3"/>verthrowe the grace of God, and wic 
+          <lb ed="#L" n="4"/>kedly deny the fruite of Christe his  
+          <lb ed="#L" n="5"/>passion, wee doe attribute iustification  
+          <lb ed="#L" n="6"/>unto faith onely, because that faith at 
+          <lb ed="#L" n="7"/>23. . 17. 2e t9 the meere grace of 
+          <lb ed="#L" n="8"/>Iyunty 14 46 690. 
+          <lb ed="#L" n="9"/>GOD in the death of the Sonne of  
+          <lb ed="#L" n="10"/>God.  
+          <lb ed="#L" n="11"/>And yet for all this, we acknowledg  
+          <lb ed="#L" n="12"/>that wee are created according to the  
+          <lb ed="#L" n="13"/>doctrine of Paule, unto good workes,  
+          <lb ed="#L" n="14"/>to those good workes I saye, which  
+          <lb ed="#L" n="15"/>God hath before ordeined, which hee  
+          <lb ed="#L" n="16"/>in his worde hath appointed, and doth  
+          <lb ed="#L" n="17"/>require us to walke in the same. In  
+          <lb ed="#L" n="18"/>which although we walke and are be 
+          <lb ed="#L" n="19"/>come rich in good workes, yet notwith 
+          <lb ed="#L" n="20"/>standing, we do not attribute to them 
+          <lb ed="#L" n="21"/>our justification: but according to the  
+          <lb ed="#L" n="22"/>doctrine of the Gospell, we humble our  
+          <lb ed="#L" n="23"/>selves under the hande of him that 
+          <lb ed="#L" n="24"/>sayeth: so ye also, when ye have done  
+          <lb ed="#L" n="25"/>all thinges that are commaunded you,  
+          <lb ed="#L" n="26"/>yet saie, we are unprofitable seruants:  
+          <lb ed="#L" n="27"/>we have done no more than we ought  
+          <lb ed="#L" n="28"/>to doe. So then, as often as the godly  
+          <lb ed="#L" n="29"/>doth reade, that our owne workes doe  
+          <lb ed="#L" n="30"/>justifie us, that our owne workes are  
+          <lb ed="#L" n="31"/>called righteousnesse, that unto our  
+          <lb ed="#L" n="32"/>owne workes is given a rewarde and  
+          <lb ed="#L" n="33"/>life everlasting, he doth not by and by  
+          <lb ed="#L" n="34"/>swell with pride, nor yet forget the  
+          <lb ed="#L" n="35"/>merite of Christ, but setting a godlie  
+          <lb ed="#L" n="36"/>and apte interpretation uppon such I 
+          <lb ed="#L" n="37"/>like places , hee doth consider that all  
+          <lb ed="#L" n="38"/>thifiges are of the grace of God, and  
+          <lb ed="#L" n="39"/>that so great thinges are attributed to  
+          <lb ed="#L" n="40"/>the workes of men, because they are  
+          <lb ed="#L" n="41"/>received into grace, and are nowe be 
+          <lb ed="#L" n="42"/>come the sonnes of God for Christ his  
+          <lb ed="#L" n="43"/>sake: so that at the last, all things may 
+          <lb ed="#L" n="44"/>be turned uppon Christ himelfe, for  
+          <lb ed="#L" n="45"/>whose sake the godlye knowe, that 
+          <lb ed="#L" n="46"/>they ad all theirs are in favour, and  
+          <lb ed="#L" n="47"/> 
+          <!--54.xml-->
+          <pb ed="#L" n="54"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>In this that I have said which is a  
+          <lb ed="#L" n="2"/>little indeede in respect of the largenes  
+          <lb ed="#L" n="3"/>of the matter, but sufficiently long y 
+          <lb ed="#L" n="4"/>nough in respect of one houres space  
+          <lb ed="#L" n="5"/>appointed me to speake in, I have de 
+          <lb ed="#L" n="6"/>clared unto you (dearely beloved) ) the 
+          <lb ed="#L" n="7"/>great effrct of faith, that is to say, that 
+          <lb ed="#L" n="8"/>it iustifieth the faithtull, where by the  
+          <lb ed="#L" n="9"/>way I have rather briefely touched,  
+          <lb ed="#L" n="10"/>than at large discoursed upon ye whole  
+          <lb ed="#L" n="11"/>worke of Justification both profitable  
+          <lb ed="#L" n="12"/>and necessarie for all men to knowe.  
+          <lb ed="#L" n="13"/>Nowe therefore I passe over this, and  
+          <lb ed="#L" n="14"/>come to the rest,  
+          <lb ed="#L" n="15"/>True faith is the welspring and  
+          <lb ed="#L" n="16"/>roote of all vertues, and good workes,  
+          <lb ed="#L" n="17"/>and first of all it satisfieth the minde  
+          <lb ed="#L" n="18"/>and desire of man, and maketh it quiet  
+          <lb ed="#L" n="19"/>and joytull,  
+          <lb ed="#L" n="20"/>For the Lorde in the Gospell saith:  
+          <lb ed="#L" n="21"/>I am the bread of life: he that com 
+          <lb ed="#L" n="22"/>meth to mee, shall not hunger: and he  
+          <lb ed="#L" n="23"/>that beleeveth in me, shall not thirst at  
+          <lb ed="#L" n="24"/>anie time For what can hee desire  
+          <lb ed="#L" n="25"/>more, which doth alreadie feele that 
+          <lb ed="#L" n="26"/>by true faith hee possesseth the verie  
+          <lb ed="#L" n="27"/>sonne of God, in whome are all the  
+          <lb ed="#L" n="28"/>heavenly treasures, and in whome  
+          <lb ed="#L" n="29"/>is all fulnesse and grace: Our con 
+          <lb ed="#L" n="30"/>sciences are made cleare and quiet,  
+          <lb ed="#L" n="31"/>so soone as we perceive, that by true  
+          <lb ed="#L" n="32"/>faith Christ the sonne of God, is al 
+          <lb ed="#L" n="33"/>together ours, that he hath appeased  
+          <lb ed="#L" n="34"/>the father in our behalfe, that he doth  
+          <lb ed="#L" n="35"/>nowe stande in the presence of the fa 
+          <lb ed="#L" n="36"/>ther, and maketh intercession to him 
+          <lb ed="#L" n="37"/>for us And for that cause saith Paul:  
+          <lb ed="#L" n="38"/>Beeing justified by faith wee have  
+          <lb ed="#L" n="39"/>peace with God through our Lorde  
+          <lb ed="#L" n="40"/>Jesus Christ. Through the same  
+          <lb ed="#L" n="41"/>Christ also by faith wee have a free  
+          <lb ed="#L" n="42"/>passage unto the Father There 
+          <lb ed="#L" n="43"/>fore wee praye to the Father in this 
+          <lb ed="#L" n="44"/>Sonnes name, and at his hande wee 
+          <lb ed="#L" n="45"/>obtaine al things that are availeable  
+          <lb ed="#L" n="46"/>to our behoofe. Verie well therefore  
+          <!--54.xml-->
+          <pb ed="#L" n="54"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>saide the Apostle John. And this is the  
+          <lb ed="#L" n="2"/>confidence that we have in him, that 
+          <lb ed="#L" n="3"/>if we aske anie thing according o his  
+          <lb ed="#L" n="4"/>will hee heareth us. And if we knowe  
+          <lb ed="#L" n="5"/>that hee heareth us whatsoever wee  
+          <lb ed="#L" n="6"/>aske, wee knowe also that wee have  
+          <lb ed="#L" n="7"/>the petitions that we requested at his  
+          <lb ed="#L" n="8"/>hands,  
+          <lb ed="#L" n="9"/>They that want faith, doe neither  
+          <lb ed="#L" n="10"/>pray to God, nor yet receive of him 
+          <lb ed="#L" n="11"/>the things that are for their welfare,  
+          <lb ed="#L" n="12"/>Moreover, faith maketh us acceptable  
+          <lb ed="#L" n="13"/>to God, and doth command us to have  
+          <lb ed="#L" n="14"/>an cie to the well using of Gods goo 
+          <lb ed="#L" n="15"/>gifts. Faith causeth us not to faynt in  
+          <lb ed="#L" n="16"/>tribulations: yea also by fayth wee o 
+          <lb ed="#L" n="17"/>vercome the world, the flesh, the divel,  
+          <lb ed="#L" n="18"/>and all adversities.  
+          <lb ed="#L" n="19"/>As the Apostle Iohn sayth, For all  
+          <lb ed="#L" n="20"/>that is borne of God, overcommeth  
+          <lb ed="#L" n="21"/>the worlde. And this is the vetorie  
+          <lb ed="#L" n="22"/>that vanduisheth the worlde even 
+          <lb ed="#L" n="23"/>your faith. who is hee that over 
+          <lb ed="#L" n="24"/>commeth the worlde, but hee that be 
+          <lb ed="#L" n="25"/>leeveth, that lesus is the sonne of  
+          <lb ed="#L" n="26"/>God) 
+          <lb ed="#L" n="27"/>Paul saith, Some were racked, not 
+          <lb ed="#L" n="28"/>caring by faith to be set at libertie, that 
+          <lb ed="#L" n="29"/>they might obtaine a better resurrecti 
+          <lb ed="#L" n="30"/>on. Other some were tried with mocks  
+          <lb ed="#L" n="31"/>and stripes, with fetters and imprison 
+          <lb ed="#L" n="32"/>mentes, were stoned, were hewed in  
+          <lb ed="#L" n="33"/>peeces, were slaine with the edge of 
+          <lb ed="#L" n="34"/>the sworde: they wandred in sheepes 
+          <lb ed="#L" n="35"/>gkinnes and goates akinnes, comfort 
+          <lb ed="#L" n="36"/>lesse, oppressed, aftlicted of whome  
+          <lb ed="#L" n="37"/>the worlde was not worthie wande 
+          <lb ed="#L" n="38"/>ring in deserts and mountames, and in  
+          <lb ed="#L" n="39"/>the dennes and caves of the earth. For,  
+          <lb ed="#L" n="40"/>the Lorde him selfe in the Gospell  
+          <lb ed="#L" n="41"/>sayde: This spake I unto you, that yee  
+          <lb ed="#L" n="42"/>might have peace in me. In the world  
+          <lb ed="#L" n="43"/>yee have afllietion, but be of good 
+          <lb ed="#L" n="44"/>confidence, I have overcome the  
+          <lb ed="#L" n="45"/>worlde.  
+          <lb ed="#L" n="46"/>Faith therefore both shall be, and  
+          <!--55.xml-->
+          <pb ed="#L" n="55"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>is the force and strength of patience.  
+          <lb ed="#L" n="2"/>Patience is the proppe, uplifting and  
+          <lb ed="#L" n="3"/>preseruation of hope, Of faith spring 
+          <lb ed="#L" n="4"/>eth charitie. Charitie is the fulfilling  
+          <lb ed="#L" n="5"/>of the lawe, which contayneth in it  
+          <lb ed="#L" n="6"/>the summe of all good workes. But  
+          <lb ed="#L" n="7"/>unlesse wee have a true fayth in God,  
+          <lb ed="#L" n="8"/>there is no charitie in us. Everie one  
+          <lb ed="#L" n="9"/>that loveth him that begate, sayth  
+          <lb ed="#L" n="10"/>John the Apostle, loveth him also that 
+          <lb ed="#L" n="11"/>is borne of him. The houre is past a  
+          <lb ed="#L" n="12"/>good while since, and no man is able  
+          <lb ed="#L" n="13"/>in many houres, so substantially as it  
+          <lb ed="#L" n="14"/>requireth, to declare the whole effect  
+          <lb ed="#L" n="15"/>of faith,  
+          <lb ed="#L" n="16"/>Hee have heard (dearely beloved)  
+          <lb ed="#L" n="17"/>that true faith is the justification of  
+          <!--55.xml-->
+          <pb ed="#L" n="55"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>the Church or faithfull of God, that it  
+          <lb ed="#L" n="2"/>is I say the forgivenesse of al sinnes, a  
+          <lb ed="#L" n="3"/>receiving into the grace of God, a ta 
+          <lb ed="#L" n="4"/>king by adoption into the number of  
+          <lb ed="#L" n="5"/>the Sonnes of God, an allured and  
+          <lb ed="#L" n="6"/>blessed sanctification, and finally the  
+          <lb ed="#L" n="7"/>welspring of all good workes. Let us  
+          <lb ed="#L" n="8"/>therefore in true faith pray to God the  
+          <lb ed="#L" n="9"/>father in the name of our Lorde Jesus  
+          <lb ed="#L" n="10"/>Christ, that he will vouchafe to sil our  
+          <lb ed="#L" n="11"/>harts with this true faith, that in this  
+          <lb ed="#L" n="12"/>present worlde being ioyned to him in  
+          <lb ed="#L" n="13"/>faith we may serve him as we ought,  
+          <lb ed="#L" n="14"/>and after our departure out of this life,  
+          <lb ed="#L" n="15"/>we may for ever live with him in who  
+          <lb ed="#L" n="16"/>we believe. To him be praise and glo 
+          <lb ed="#L" n="17"/>rie for ever. Amen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
+
+
