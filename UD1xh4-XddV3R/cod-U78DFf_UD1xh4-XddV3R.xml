@@ -68,7 +68,7 @@
           <lb ed="#B" n="15"/>gruntlich geleert und bewaert 
           <lb ed="#B" n="16"/>werden / dann auß dem wort 
           <lb ed="#B" n="17"/>Gottes. Darumb woelcher nicht weißt was das wort Gottes ist / und wie es 
-          <lb ed="#B" n="18"/>ein gstalt darumb hat / der wirt in der gmeynd Gottes / und under den zuhoere<lb ed="#B" n="19" break="no"/>rern <name>Chrsti</name> / 
+          <lb ed="#B" n="18"/>ein gstalt darumb hat / der wirt in der gmeynd Gottes / und under den zuhoere<lb ed="#B" n="19" break="no"/>rern Chrsti / 
           ja auch in allem laesen der <title>heilgen gschrifft</title> nicht anders sein / dann 
           <lb ed="#B" n="20"/>wie ein blinder und unsinniger mensch. 
         </p>
@@ -80,7 +80,7 @@
           <lb ed="#B" n="24"/>Darumb damit alle die / so der waarheyt / und deß worts Gottes sonst begirig 
           <lb ed="#B" n="25"/>und geflissen sind / hieran nit gehindert werdind / sonder mengklicher in seinem 
           <lb ed="#B" n="26"/>herzen lerne / was und wie er von dem wort Gottes recht halten soelle / so wil ich 
-          <lb ed="#B" n="27"/>mitt Gottes hilff <ref>E. L.</ref> soemlichs erklaeren / was namlich ein rechtgloeubiger 
+          <lb ed="#B" n="27"/>mitt Gottes hilff <!-- Charlotte: Might be ar reference to Evangelio Luce. But it is not mentioned in the english text. Therefore, not "ref-tag" in the english text"ref xml:id="UD1xh4-XddV3R-Rd1e169"-->E. L.<!--/ref--> soemlichs erklaeren / was namlich ein rechtgloeubiger 
           <lb ed="#B" n="28"/>mensch vom wort Gottes glauben und halten soelle.
         </p>
         <p xml:id="UD1xh4-XddV3R-d1e175">
@@ -97,10 +97,10 @@
           <lb ed="#B" n="36"/>gleich wie wir Teütschen das wörtli / Ding / brauchend / damit wir vil begreif<lb ed="#B" n="37" break="no"/>fend.
         </p>
         <p xml:id="UD1xh4-XddV3R-d1e204">
-          Also spricht der Engel deß Herren im <title>Evangelio Luce</title> zu der <name>heilgen 
-          <lb ed="#B" n="38"/>Jungkfrauwen Maria</name> / Es ist bey Gott kein wort unmüglich. Das ist so vil 
+          Also spricht <name>der Engel deß Herren</name> im <title>Evangelio Luce</title> zu der <name>heilgen 
+          <lb ed="#B" n="38"/>Jungkfrauwen Maria</name> / <quote xml:id="UD1xh4-XddV3R-Qd1e214">Es ist bey Gott kein wort unmüglich. Das ist so vil 
           <lb ed="#B" n="39"/>geredt / als hette er gesprochen / Gott sind alle ding müglich / oder / es ist Gott 
-          <lb ed="#B" n="40"/>kein ding unmüglich / <abbr>etc.</abbr> Es heißt auch erwann das woertli / Wort ein wort 
+          <lb ed="#B" n="40"/>kein ding unmüglich / <abbr>etc.</abbr></quote> Es heißt auch erwann das woertli / Wort ein wort 
           <lb ed="#B" n="41"/>das ein mensch mitt feinem mund redt. Etwann wirt es braucht für ein be<lb ed="#B" n="42" break="no"/>faelch. 
           Etwan für ein gantzen spruch / sententz / red / oder für ein Prophecey. Als 
         
@@ -109,11 +109,11 @@
           <lb ed="#B" n="2"/>anderen woertli gsertzt wirt / und nit allein gebraucht / so hat es auch nit einerley 
           <lb ed="#B" n="3"/>oder gleichen verstand. Dann so manspricht / das wort Gottes / so heißt es et<lb ed="#B" n="4" break="no"/>wan die 
           krafft und macht Gottes. Etwan heißt es / und wirt genommen für den 
-          <lb ed="#B" n="5"/><name>sun Gottes</name> / der die ander person ist in der <name>H. dreyfaltigkeyt</name>. Wie dann meng<lb ed="#B" n="6" break="no"/>klichem 
-          bewißt der spruch deß <name>heilgen Evangelisten Iohannis</name>: der da lutet / Das 
-          <lb ed="#B" n="7"/>wort ist fleisch worden etc. Eigenlich aber so heißt das wort Gottes / wie wir hie 
+          <lb ed="#B" n="5"/>sun Gottes / der die ander person ist in der H. dreyfaltigkeyt. Wie dann meng<lb ed="#B" n="6" break="no"/>klichem 
+          bewißt der spruch deß <ref><name>heilgen Evangelisten Iohannis</name></ref>: der da lutet / <quote xml:id="UD1xh4-XddV3R-Qd1e251">Das 
+          <lb ed="#B" n="7"/>wort ist fleisch worden etc.</quote> Eigenlich aber so heißt das wort Gottes / wie wir hie 
           <lb ed="#B" n="8"/>darvon handlend / Gottes red / und offenbarung seines Goettlichen willens / so 
-          <lb ed="#B" n="9"/>erstlich durch den mund <name>Christi</name> unsers Herren / auch der heiligen Propheten 
+          <lb ed="#B" n="9"/>erstlich durch den mund Christi unsers Herren / auch der heiligen Propheten 
           <lb ed="#B" n="10"/>und Apostlen mundtlich herfür bracht / und demnach auch in die gschrifft ver<lb ed="#B" n="11" break="no"/>fasset /
           woelchem an recht nennt die heilig und die Goettlich gschrifft. Dann ein  
           <lb ed="#B" n="12"/>yedes wort gleichet dem gmuet dessen / von dem es geredt wirt / unnd auß dem es 
@@ -124,12 +124,12 @@
           <lb ed="#B" n="15"/>volget das auch das wort Gottes / das auß seinem mund gabt / waarhafft seye/ 
           <lb ed="#B" n="16"/>gerecht / on list unnd falsch / one irrthumb unnd boeß anfechtungen / heilig / rein / 
           <lb ed="#B" n="17"/>gut / untoedlich / ewig. Dann es spricht der Herr im Evangelio / dein wort ist 
-          <lb ed="#B" n="18"/>die waarheit. Und der <name>heilig Apostel Paulus</name> / Das wort Gottes ist nit ange<lb ed="#B" n="19" break="no"/>bunden. 
-          So zeuget die ganz gschrifft / das wort Gottes bleibe in ewigkeyt.  
-          <lb ed="#B" n="20"/>Und <name>Salomon</name> spricht / Alle reden Gottes sind geleütteret. Thu nichts zusei<lb ed="#B" n="21" break="no"/>nen worten / 
-          damit er dich nit straffe / und lugenhafftig erfunden werdist. Und  
-          <lb ed="#B" n="22"/><name>David</name> / Die reden deß Herren sind lauttere reden / wie das silber das im fewr ge<lb ed="#B" n="23" break="no"/>schmelzt / 
-          und siben mal von der erden geleüttert wirt.
+          <lb ed="#B" n="18"/>die waarheit. Und der <ref><name>heilig Apostel Paulus</name></ref> / <quote xml:id="UD1xh4-XddV3R-Qd1e289">Das wort Gottes ist nit ange<lb ed="#B" n="19" break="no"/>bunden. 
+          So zeuget die ganz gschrifft / das wort Gottes bleibe in ewigkeyt.</quote>  
+          <lb ed="#B" n="20"/>Und <ref><name>Salomon</name></ref> spricht / <quote xml:id="UD1xh4-XddV3R-Qd1e299">Alle reden Gottes sind geleütteret. Thu nichts zusei<lb ed="#B" n="21" break="no"/>nen worten / 
+          damit er dich nit straffe / und lugenhafftig erfunden werdist.</quote> Und  
+          <lb ed="#B" n="22"/><name>David</name> / <quote xml:id="UD1xh4-XddV3R-Qd1e309">Die reden deß Herren sind lauttere reden / wie das silber das im fewr ge<lb ed="#B" n="23" break="no"/>schmelzt / 
+          und siben mal von der erden geleüttert wirt.</quote>
         </p>
         <p xml:id="UD1xh4-XddV3R-d1e300"> 
           <lb ed="#B" n="24"/>Dises wirt aber eüwer liebe baß verstan / so ich etwas weitloeüffiger vom ur<lb ed="#B" n="25" break="no"/>sprung 
@@ -204,12 +204,12 @@
           <lb ed="#B" n="22"/>mitteyltind. Dann Gott zeüget immerdar / das er nit nur der Vaetteren Gott 
           <lb ed="#B" n="23"/>sein woelle / sonder auch ires saamens in ewigkeyt. Das erscheint sonderlich in  
           <lb ed="#B" n="24"/>der Histori <name>Adams</name> / <name>Noes</name> und <name>Abrahams</name> der ersten gschlechtvaettern. Dann 
-          <lb ed="#B" n="25"/><quote xml:id="UD1xh4-XddV3R-Qd1e534">Gen. vviii. laesend wir / das der Engel deß Herren / und deßhalbend der Herr selb 
+          <lb ed="#B" n="25"/><ref xml:id="UD1xh4-XddV3R-Rd1e554"><!-- The english sermon refers to the 19th chapter. "VVIII" is not a correct roman number-->Gen. vviii.</ref> laesend wir / <quote xml:id="UD1xh4-XddV3R-Qd1e534">das der Engel deß Herren / und deßhalbend der Herr selb 
           <lb ed="#B" n="26"/>zum Abraham geredt / solt ich Abrahamen verbergen das ich thun wil / sittmal 
-          <lb ed="#B" n="27"/>er ein groß und maechtigs volck sol werden</quote> / unnd alle voelcker in im gebenedyet 
+          <lb ed="#B" n="27"/>er ein groß und maechtigs volck sol werden / unnd alle voelcker in im gebenedyet 
           <lb ed="#B" n="28"/>soellend werden: Dann ich kenn inn dermassen / das er wirt befelhen seinen kin<lb ed="#B" n="29" break="no"/>den / 
           und seinem hauß nach im / daßs sie deß Herren weg haltind / unnd thuegind 
-          <lb ed="#B" n="30"/>das recht und gericht ect. 
+          <lb ed="#B" n="30"/>das recht und gericht ect.</quote> 
         </p>
         <p xml:id="UD1xh4-XddV3R-d1e547">Deßhalb hat <name>Abraham</name> als ein trüwer gottsaeliger 
           <lb ed="#B" n="31"/>liebhaber Gottes (wie auch die <name>uralten Vaetter</name> der ersten Welt) hierinn nützit 
@@ -296,7 +296,7 @@
           sy gind der angebung / die von den <name>heiligen vaettern</name> auß Gottes 
           <lb ed="#B" n="44"/>ordnung und schickung also den nachkommenden allen ist ubergeben / und als vil 
           <lb ed="#B" n="45"/>als von hand dargreicht worden. So habend sie nun iren nachkommen dises an<lb ed="#B" n="46" break="no"/>geben / 
-          Namlich / <quote xml:id="UD1xh4-XddV3R-Qd1e1042">daz Gott auß seiner natürlichen guete den menschen wol woelle/ 
+          Namlich / daz Gott auß seiner natürlichen guete den menschen wol woelle/ 
           <lb ed="#B" n="47"/>und woelle das alle menschen zu erkantnuß der warheit koemmind / und gnoß wer<lb ed="#B" n="48" break="no"/>dind 
           der Goettlichen natur / auch fromm / heilig /gerecht und saelig werdind. Und 
           <lb ed="#B" n="49"/>darumb habe Gott von anfang den menschen erschaffen nach seiner bildtnuß 
@@ -314,7 +314,7 @@
           <lb ed="#B" n="8"/>er mit der menschwerdung desselben den menschen Gotte vereinbart / also hat er 
           <lb ed="#B" n="9"/>auch durch das sterben im fleisch den menschen gereiniget / geheiliget und erloeßt /  
           <lb ed="#B" n="10"/>und im geschenkt den <name>heiligen geist</name> / und hiemit inn Goetlicher natur widerumm 
-          <lb ed="#B" n="11"/>theilhafft / auch untoedtlich und saelig gemachet</quote>. 
+          <lb ed="#B" n="11"/>theilhafft / auch untoedtlich und saelig gemachet. 
         </p>
         <p xml:id="UD1xh4-XddV3R-d1e1093">Er verschaffet auch / das wir 
           <lb ed="#B" n="12"/>yetz ringind und faechtind außzutrucken die art und eigenschafft dessen / nach des<lb ed="#B" n="13" break="no"/>sen 
@@ -325,14 +325,14 @@
           <lb ed="#B" n="17"/>und Gottheyt empfahen werdind. Diß ist allein ein kurtze summ der angaebung 
           <lb ed="#B" n="18"/>der <name>H. vaettern</name> / die wir nun etwas wytloeuffiger und eygentlicher erklaeren woel<lb ed="#B" n="19" break="no"/>lend. 
           Zum ersten / so habend die <name>heiligen vaetter</name> den iren angeben und sie geleert /  
-          <lb ed="#B" n="20"/><quote xml:id="UD1xh4-XddV3R-Qd1e1120">das allein ein Gott syge in der unzertrennten <name>heiligen dreyheyt</name> / <name>der Vatter</name> /  
+          <lb ed="#B" n="20"/>das allein ein Gott syge in der unzertrennten <name>heiligen dreyheyt</name> / <name>der Vatter</name> /  
           <lb ed="#B" n="21"/><name>Sun</name> und <name>heilig Geist</name>. Diser syge auch ein Schoepffer und regierer deß himels 
           <lb ed="#B" n="22"/>und der erden / unnd alles dessen das darinnen. Von dem syge der mensch be<lb ed="#B" n="23" break="no"/>schaffen / 
           und alles anders umb deß menschen willen: der hab es auch alles dem 
           <lb ed="#B" n="24"/>menschen underworffen / und diene im alle noturfft zu als ein trüwer / freygeber 
-          <lb ed="#B" n="25"/>vatter.</quote>
+          <lb ed="#B" n="25"/>vatter.
         </p>
-        <p xml:id="UD1xh4-XddV3R-d1e1144"><quote xml:id="UD1xh4-XddV3R-Qd1e1145"> Item der mensch syge erschaffen von seel und leib / gut / nach der bildt<lb ed="#B" n="26" break="no"/>nuß 
+        <p xml:id="UD1xh4-XddV3R-d1e1144">Item der mensch syge erschaffen von seel und leib / gut / nach der bildt<lb ed="#B" n="26" break="no"/>nuß 
           und gleichnuß Gottes / aber auß eigner schuld durch trib deß <name>Teüffels</name> syge 
           <lb ed="#B" n="27"/>er gefallen in sünd / unnd damit habe er den tod und die verdamnuß und alles 
           <lb ed="#B" n="28"/>ander ubel / das unzalbar ist / in die welt bracht / also das yetz alle kinder <name>Ade</name> /  
@@ -342,7 +342,7 @@
           <lb ed="#B" n="32"/>seiner lautteren gnad verheissen verzyhung der schuld / unnd die schwaere der  
           <lb ed="#B" n="33"/>buß / oder der straaff der selben / seinem einigen Sun auffgelegt / das der nach 
           <lb ed="#B" n="34"/>dem ihm von der Schlangen die versen zertraetten / auch er der Schlangen den 
-          <lb ed="#B" n="35"/>kopff zertraette.</quote> 
+          <lb ed="#B" n="35"/>kopff zertraette. 
         </p>
         <p xml:id="UD1xh4-XddV3R-d1e1176">Das ist / Gott habe verheissen ein saamen / oder ein Sun / 
           <lb ed="#B" n="36"/>der da von einem besonderen weyb / das ist auß <name>der hochgelopten Iunckfrau</name><lb ed="#B" n="37" break="no"/>wen 
@@ -372,39 +372,39 @@
         
         <pb ed="#B" n="3-v"/>
           <lb ed="#B" n="1"/>mitt dem Geyst Gottes erfüllt / anzeygt das <name>Iudas</name> unnder seinen Sünen inn 
-          <lb ed="#B" n="2"/>der linien deß gebenedeyeten saamens sein werde / wie man sicht <title>Genes am  
-          <lb ed="#B" n="3"/>neün und vierzigsten capittel</title>. 
+          <lb ed="#B" n="2"/>der linien deß gebenedeyeten saamens sein werde / wie man sicht <ref xml:id="UD1xh4-XddV3R-Rd1e1308">Genes am  
+          <lb ed="#B" n="3"/>neün und vierzigsten capittel</ref>. 
         </p>
-        <p xml:id="UD1xh4-XddV3R-d1e1287"><quote xml:id="UD1xh4-XddV3R-Qd1e1288">Im stammen <name>Iuda</name> aber wirt das hauß <name>Da<lb ed="#B" n="4" break="no"/>vids</name> 
+        <p xml:id="UD1xh4-XddV3R-d1e1287">Im stammen <name>Iuda</name> aber wirt das hauß <name>Da<lb ed="#B" n="4" break="no"/>vids</name> 
           aßgesünderet / das der heilig saamen unnd pflantz deß laebens darauß 
-          <lb ed="#B" n="5"/>herfür kommen werde. </quote>
+          <lb ed="#B" n="5"/>herfür kommen werde.
         </p>
         <p xml:id="UD1xh4-XddV3R-d1e1300">Darüber habend die <name>heiligen Vaetter</name> weytter ange<lb ed="#B" n="6" break="no"/>ben / 
-          <quote xml:id="UD1xh4-XddV3R-Qd1e1307">wie das Gott mit dem menschlichen geschlecht ein pundt gemachet / und 
+          <!-- "isRelatedTo"? or "target"? quote xml:id="UD1xh4-XddV3R-Qd1e1307"-->wie das Gott mit dem menschlichen geschlecht ein pundt gemachet / und 
           <lb ed="#B" n="7"/>sie sich ihm / und er sich ihnen vestigklich verpflicht und verbunden. Darauß sie 
           <lb ed="#B" n="8"/>dann die ihren geleert auff Gott vertrauwen / den pundt unnd glauben halten / 
           <lb ed="#B" n="9"/>Gott anbaetten / andere unnd falsche Goetter verachten / Gott allein anrueffen /  
           <lb ed="#B" n="10"/>und andaechtigklich verehren. Item / das der dienst und die verehrung Got<lb ed="#B" n="11" break="no"/>tes 
           in geistlichen dingen stande / in glauben / hoffnung / liebe / gehorsamme / ge<lb ed="#B" n="12" break="no"/>raechtigkeyt / 
           heiligung / unschuld / gedult / waarheyt / haltung deß rechten / und 
-          <lb ed="#B" n="13"/>Gottsforcht. Derhalben warend sie den lastern fyend / schultend und hasserend 
           <lb ed="#B" n="14"/>sie / namlich unglauben / treüwlose / verzweiflung / ungehorsame / undultigkeit / 
           <lb ed="#B" n="15"/>luginen / gleißnerey / hassz / lesterung / unbill und gewalt / ungeraechtigkeyt / un<lb ed="#B" n="16" break="no"/>reinigkeit / 
           uberflussz / mutwillen / füllerey / hurey und eebruch / boßheyt / und un<lb ed="#B" n="17" break="no"/>gottsforcht. 
           Sie lartend auch Gott ein beloner sein alles guten / und ein raecher 
-          <lb ed="#B" n="18"/>und straffer deß boesen.</quote>
+          <lb ed="#B" n="18"/>und straffer deß boesen.<!--/quote-->
         </p>
-        <p xml:id="UD1xh4-XddV3R-d1e1335"> <quote xml:id="UD1xh4-XddV3R-Qd1e1337">Item das dermenschen seelen untoedlich / das auch die  
+        <p xml:id="UD1xh4-XddV3R-d1e1335"> <!-- another "isRelatedTo"-Relationship? <quote xml:id="UD1xh4-XddV3R-Qd1e1337">-->Item das dermenschen seelen untoedlich / das auch die  
           <lb ed="#B" n="19"/>leib am gericht wider aufferston wurdind / vermantend deßhalb mengklichen / 
-          <lb ed="#B" n="20"/>das man in diser zeyt also lebte / das man das ewig leben nit verlure.</quote> Das ist 
+          <lb ed="#B" n="20"/>das man in diser zeyt also lebte / das man das ewig leben nit verlure.<!--/quote--> 
+          </p>
+        <p xml:id="UD1xh4-XddV3R-d1e1353">Das ist 
           <lb ed="#B" n="21"/>die summ deß worts Gottes / das den <name>Vaetteren</name> geoffenbart / und von ihnen den 
           <lb ed="#B" n="22"/>nachkommenden menschen immerdar von einem an andern ist angeben wor<lb ed="#B" n="23" break="no"/>den.
+          Ia das ist die heylig angaebung der <name>Vaetteren</name> / darinn alle Gottfaelig<lb ed="#B" n="24" break="no"/>keyt 
+          begriffen ist. 
         </p>
-        <p xml:id="UD1xh4-XddV3R-d1e1353"> Ia das ist die heylig angaebung der <name>Vaetteren</name> / darinn alle Gottfaelig<lb ed="#B" n="24" break="no"/>keyt 
-          begriffen ist. Das ist auch der alt ungezweyflet / waarhafft / allgemeyn 
+        <p xml:id="UD1xh4-XddV3R-d1e1365"> Das ist auch der alt ungezweyflet / waarhafft / allgemeyn 
           <lb ed="#B" n="25"/>glaub der <name>heiligen Vaettern</name>.
-        </p>
-        <p xml:id="UD1xh4-XddV3R-d1e1365">  
           <lb ed="#B" n="26"/>Uber das alles / habend auch gedachte vaetter iren kinden / und nachkommen 
           <lb ed="#B" n="27"/>angegeben die gwisse zaal unnd rechnung der jaren von erschaffung der welt 
           <lb ed="#B" n="28"/>an / auch die nutzbar und gwissz Histori deren dingen / die <time>von der welt anfang</time> 
@@ -448,13 +448,13 @@
           <lb ed="#B" n="1"/>so hatt auch Gott <name>Mosi</name> sein ansehen mit anderen dingen gemeeret / Namlich /  
           <lb ed="#B" n="2"/>das er gantz vil gespraech mit im gehalten / und under anderem zu im gesprochen /  
           <lb ed="#B" n="3"/><quote xml:id="UD1xh4-XddV3R-Qd1e1484">Sihe ich wil zu dir kommen inn einem dicken wolcken / das daß volck mich hoere 
-          <lb ed="#B" n="4"/>mit dir reden / und dir glauben ewigklich. Dessen vernuegt sich der Herr ouch nit / 
+          <lb ed="#B" n="4"/>mit dir reden / und dir glauben ewigklich.</quote> <!-- Text is related to -->Dessen vernuegt sich der Herr ouch nit / 
           <lb ed="#B" n="5"/>sonder heißt <name>Mosen</name> das gantz volck besamlen / namlich auff die sechs hundert 
           <lb ed="#B" n="6"/>tausent man / mit sampt weyb und kinden. Als nun die besamler bey dem <placeName>berg 
           <lb ed="#B" n="7"/>Sinai</placeName> / da ist Gott erschinen in wunderbarer und erschrocklicher gestallt / und 
-          <lb ed="#B" n="8"/>hat selb zu dem gantzen volck geredt / und inen erzellet die Zehen gebott.</quote>
+          <lb ed="#B" n="8"/>hat selb zu dem gantzen volck geredt / und inen erzellet die Zehen gebott.<!-- end of relation -->
         </p>
-        <p xml:id="UD1xh4-XddV3R-d1e1503"><quote xml:id="UD1xh4-XddV3R-Qd1e1504"> Das 
+        <p xml:id="UD1xh4-XddV3R-d1e1503"><!-- or another "isRelatedTo-Relation"?<quote xml:id="UD1xh4-XddV3R-Qd1e1504">--> Das 
           <lb ed="#B" n="9"/>volck erschrack aber ab der herzligkeyt Gottes / unnd begaert das der Herr für<lb ed="#B" n="10" break="no"/>hin 
           nit mer selbs mit der gemeynd redte / sonder sie woeltind sich vernuegen / so er 
           <lb ed="#B" n="11"/>durch <name>Mosen</name> mit inen handlete. Woelchs begaeren der Herr vom volck angenom<lb ed="#B" n="12" break="no"/>men / 
@@ -470,12 +470,12 @@
           <lb ed="#B" n="21"/>inn zwo steine taflen / der eben dasselbig auch vorhin von anfang der welt mitt 
           <lb ed="#B" n="22"/>seinen finger in die hertzen der <name>heiligen vaettern</name> geschriben hat. Darzu so gab er 
           <lb ed="#B" n="23"/>auch <name>Mosi</name> ein heittern befaelch / das er auffschribe was er im eroffnet hat. Di<lb ed="#B" n="24" break="no"/>sem 
-          gebott was <name>Moses</name> gehorsam und schreyb.</quote>
+          gebott was <name>Moses</name> gehorsam und schreyb.<!--end of other relation</quote>-->
         </p>
-        <p xml:id="UD1xh4-XddV3R-d1e1568"> <quote xml:id="UD1xh4-XddV3R-Qd1e1570"><name>Derheilig geyst</name> aber / der das 
+        <p xml:id="UD1xh4-XddV3R-d1e1568"> <!-- or target reference? <quote xml:id="UD1xh4-XddV3R-Qd1e1570">--><name>Derheilig geyst</name> aber / der das 
           <lb ed="#B" n="25"/>gantz gemuet <name>Mosis</name> besessen hat / leyttet ihm auch sein hand zu schreiben. Im 
           <lb ed="#B" n="26"/>manlet auch sonst nützit alles dessen / das zu einem volkomnen außpündig<lb ed="#B" n="27" break="no"/>gen 
-          Scribenten hoert.</quote>
+          Scribenten hoert.<!-- end </quote>-->
         </p>
         <p xml:id="UD1xh4-XddV3R-d1e1583"> Er was von seinen vordern gantz wol aller dingen be<lb ed="#B" n="28" break="no"/>richtet: 
           dann er auch geboren was von dem heiligen geschlecht der <name>vaettern</name> / die 
@@ -510,9 +510,9 @@
           sind worden. Ia auch <name>unser Herr Jesus Christus / &amp; eingeborn sun Gottes</name> / 
         
         <pb ed="#B" n="4-v"/>
-          <lb ed="#B" n="1"/>weißt seine gloebigen dahin / das sie <title>die gschrifften <name>Mosis</name></title> laesind: und thut das 
-          <lb ed="#B" n="2"/>inn sachen / die die fürnemmsten hauptstuck deß heils antraffend. Als wir sehend 
-          <lb ed="#B" n="3"/><title>Ioan. am v.</title> <title>Luc. am xvi.</title> und <title>Matth. am v. cap.</title> Da er spricht / <quote xml:id="UD1xh4-XddV3R-Qd1e1714">ir sond nit mey<lb ed="#B" n="4" break="no"/>nen 
+          <lb ed="#B" n="1"/>weißt seine gloebigen dahin / das sie <title>die gschrifften <name>Mosis</name></title> laesind: <quote xml:id="UD1xh4-XddV3R-Qd1e1747">und thut das 
+          <lb ed="#B" n="2"/>inn sachen / die die fürnemmsten hauptstuck deß heils antraffend.</quote> Als wir sehend 
+          <lb ed="#B" n="3"/><ref xml:id="UD1xh4-XddV3R-Rd1e1753">Ioan. am v.</ref> <ref xml:id="UD1xh4-XddV3R-Rd1e1756">Luc. am xvi.</ref> und <ref xml:id="UD1xh4-XddV3R-Rd1e1760">Matth. am v. cap.</ref> Da er spricht / <quote xml:id="UD1xh4-XddV3R-Qd1e1714">ir sond nit mey<lb ed="#B" n="4" break="no"/>nen 
           das ich kommen sye das fsatzt usszuloesen oder die Propheten: Ich bin nitt 
           <lb ed="#B" n="5"/>kommen das ichs auff loese / sonder erfülle. Dann waarlich sag ich euch / biß das  
           <lb ed="#B" n="6"/>himmel und erden zergadt / wirt nit zergon der kleinest buchstab / noch ein tit<lb ed="#B" n="7" break="no"/>tel 
@@ -524,7 +524,7 @@
           <lb ed="#B" n="10"/>ettlich funden worden / die <name>Mosi dem diener Gottes</name> widersprochen habend /  
           <lb ed="#B" n="11"/>aber Gott hatt soellichs widerspraechen / als ob es seiner Mayestat selb beschae<lb ed="#B" n="12" break="no"/>hen / 
           auffgenommen / unnd greülich gestrafft. Wie wir dessen exempel unnd 
-          <lb ed="#B" n="13"/>kundtschafften habend <title>E xod. xvi.</title> und <title>Nume xii</title> Erstlichen deß volcks Got<lb ed="#B" n="14" break="no"/>tes 
+          <lb ed="#B" n="13"/>kundtschafften habend <ref xml:id="UD1xh4-XddV3R-Rd1e1797">E xod. xvi.</ref> und <ref xml:id="UD1xh4-XddV3R-Rd1e1800">Nume xii</ref> Erstlichen deß volcks Got<lb ed="#B" n="14" break="no"/>tes 
           / das wider <name>Mosen</name> murret / Demnach <name>Marie der schwester <name>Mosis</name></name> die im 
           <lb ed="#B" n="15"/>irem eignen bruder widerbaefftzet.
         </p>
@@ -633,9 +633,9 @@
           <lb ed="#B" n="1"/>Das / sprich ich / bezeüget alles heiter / das die leeren und gschrifften der heiligen 
           <lb ed="#B" n="2"/>Propheten das waar wort Gottes selb sind / wie dann auch die heilig gschrifft 
           <lb ed="#B" n="3"/>selbs inen den tittel und nammen allenthalben gibt. Dann ye der <name>heilig Apostel 
-          <lb ed="#B" n="4"/>Petrus</name> spricht / das die Prophecey nitt auß menschlichem willen herfür bracht 
+          <lb ed="#B" n="4"/>Petrus</name> spricht / <quote xml:id="UD1xh4-XddV3R-Qd1e2172">das die Prophecey nitt auß menschlichem willen herfür bracht 
           <lb ed="#B" n="5"/>seye / sonder die heiligen menschen Gottes habinds geredt / getriben von dem  
-          <lb ed="#B" n="6"/>heiligen geist.
+          <lb ed="#B" n="6"/>heiligen geist.</quote>
         </p>
         <p xml:id="UD1xh4-XddV3R-d1e2123"> 
           <lb ed="#B" n="7"/>Wiewol nun aber Gott sein wort uberflüßig / heiter / klar und einfalt der welt 
