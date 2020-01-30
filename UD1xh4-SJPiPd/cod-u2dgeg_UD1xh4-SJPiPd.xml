@@ -5,7 +5,6 @@
       <title>Decimas 1, Sermo 9 [London 1587 Transcription]</title>
       <author ref="#HenrichBullinger">Henrich Bullinger</author>
       <editor>Patrick McGinnis</editor>
-     
     </titleStmt>
     <editionStmt>
       <edition n="0.0.0-dev">
@@ -41,7 +40,7 @@
     </listChange>
   </revisionDesc>
 </teiHeader>
-<text xml:lang="de">
+<text xml:lang="en">
   <front>
     <div xml:id="starts-on">
       <pb ed="#L" n="30"/>
@@ -49,7 +48,7 @@
   </front>
   <body>
     <div xml:id="UD1xh4-SJPiPd">
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e95">
         <lb ed="#L" n="1"/>LEt us call to our  
         <lb ed="#L" n="2"/>Father in heaven 
         <lb ed="#L" n="3"/>through our Lord  
@@ -61,7 +60,7 @@
         <lb ed="#L" n="9"/>and expound the last part of the Arti 
         <lb ed="#L" n="10"/>cles of Christian beliefe.
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e119">
         <lb ed="#L" n="11"/>The ninth Article of faith is this,  
         <lb ed="#L" n="12"/>The holie Catholique Churth, the  
         <lb ed="#L" n="13"/>communion of saintes. After the con 
@@ -124,10 +123,10 @@
         <lb ed="#L" n="68"/>trarie one to the other 
       </p>
       
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e258">
         <lb ed="#L" n="69"/>Moreover, Saint Cyprian in his  
         <lb ed="#L" n="70"/>exposition of the Apostles Creede,  
-        <lb ed="#L" n="71"/>sayth: <quote>He sayd not in the holy churth,  
+        <lb ed="#L" n="71"/>sayth: <quote xml:id="UD1xh4-SJPiPd-Qd1e266">He sayd not in the holy churth,  
         <lb ed="#L" n="72"/>nor in the remission of sinnes, nor 
         <lb ed="#L" n="73"/>in the resurrection of the bodie. For  
         <lb ed="#L" n="74"/>if hee had added the preposition, In,  
@@ -153,30 +152,30 @@
         <!--79.xml-->
         <pb ed="#L" n="79"/>
         <cb ed="#L" n="a"/>
-        <lb ed="#L" n="1"/><quote>>be beleeved, not that we ought to be-
+        <lb ed="#L" n="1"/><quote xml:id="UD1xh4-SJPiPd-Qd1e322">&gt;be beleeved, not that we ought to be-
         <lb ed="#L" n="2"/>leeve in the resurreetion of the fleshe.  
         <lb ed="#L" n="3"/>So then by this syllable, In, the Creator  
         <lb ed="#L" n="4"/>is discerned from the Creatures, and  
         <lb ed="#L" n="5"/>that that is Gods fro that that is mans,</quote>  
         <lb ed="#L" n="6"/>This saith Cyprian.
       </p>
-      <p>
-        <lb ed="#L" n="7"/><ref><name>S. Augustine</name> in his booke <title>De Fide 
-        <lb ed="#L" n="8"/>&amp; Symbolo</title></ref> hath, <quote>I beleeve <del rend="strikethrough">in</del> the holie  
+      <p xml:id="UD1xh4-SJPiPd-d1e336">
+        <lb ed="#L" n="7"/><ref xml:id="UD1xh4-SJPiPd-Rd1e339" corresp="#UD1xh4-SJPiPd-Qd1e348"><name>S. Augustine</name> in his booke <title>De Fide 
+        <lb ed="#L" n="8"/>&amp; Symbolo</title></ref> hath, <quote xml:id="UD1xh4-SJPiPd-Qd1e348">I beleeve <del rend="strikethrough">in</del> the holie  
         <lb ed="#L" n="9"/>Churche, not l beleeve in the holie  
         <lb ed="#L" n="10"/>Church</quote>. There are alledged also his 
-        <lb ed="#L" n="11"/>wordes in his <ref>Epistle ad Neohhytos,  
-        <lb ed="#L" n="12"/>touching consecration Distinct.4. cap. 
-        <lb ed="#L" n="13"/>1.<quote>We said not that ye had to beleeve  
+        <lb ed="#L" n="11"/>wordes in his <ref xml:id="UD1xh4-SJPiPd-Rd1e360">Epistle ad Neohhytos,  
+        <lb ed="#L" n="12"/>touching consecration Distinct. 4. cap. 
+        <lb ed="#L" n="13"/>1</ref>. <quote xml:id="UD1xh4-SJPiPd-Qd1e367">We said not that ye had to beleeve  
         <lb ed="#L" n="14"/>in the Church as in God, but under 
         <lb ed="#L" n="15"/>stand how we said, y ye being conver 
         <lb ed="#L" n="16"/>saunt in the holie Catholique Churth  
-        <lb ed="#L" n="17"/>should beleeve in God. </quote></ref>
+        <lb ed="#L" n="17"/>should beleeve in God.</quote>
       </p>
-      <p>
-        <lb ed="#L" n="18"/><ref>Much more evidently doth Pascha 
+      <p xml:id="UD1xh4-SJPiPd-d1e379">
+        <lb ed="#L" n="18"/>Much more evidently doth <ref xml:id="UD1xh4-SJPiPd-Rd1e383" corresp="#UD1xh4-SJPiPd-Qd1e391">Pascha 
         <lb ed="#L" n="19"/>sius in the first Chap. of his first booke  
-        <lb ed="#L" n="20"/><title>De Spiritu Sancto</title> say, <quote>we beleeve the  
+        <lb ed="#L" n="20"/><title>De Spiritu Sancto</title></ref> say, <quote xml:id="UD1xh4-SJPiPd-Qd1e391">we beleeve the  
         <lb ed="#L" n="21"/>Church as the mother of regenerati 
         <lb ed="#L" n="22"/>on: we do not beleeve in the Church  
         <lb ed="#L" n="23"/>as the authour of salvation. Hee that 
@@ -194,16 +193,16 @@
         <lb ed="#L" n="35"/>next before. and put it to that that 
         <lb ed="#L" n="36"/>followeth, adding thereto also too  
         <lb ed="#L" n="37"/>too shamelesly somewhat more than 
-        <lb ed="#L" n="38"/>needed.</quote></ref> <ref>This hath Paschasius in  
+        <lb ed="#L" n="38"/>needed.</quote> This hath Paschasius in  
         <lb ed="#L" n="39"/>that booke of his which saint Grego 
         <lb ed="#L" n="40"/>rie the great Bishoppe of Bome liked 
-        <lb ed="#L" n="41"/>verie well of.</ref>
+        <lb ed="#L" n="41"/>verie well of.
       </p>
-      <p>
-        <lb ed="#L" n="42"/><ref>What say ye to that moreover that 
-        <lb ed="#L" n="43"/><name>Thomas of Aquine</name> <title>reasoning of faith,  
-        <lb ed="#L" n="44"/>in the seconde booke Part 2.</title> Artie, o  
-        <lb ed="#L" n="45"/>dueest, 1, sayth: If we say, I beleeve in  
+      <p xml:id="UD1xh4-SJPiPd-d1e442">
+        <lb ed="#L" n="42"/>What say ye to that moreover that 
+        <lb ed="#L" n="43"/><ref xml:id="UD1xh4-SJPiPd-Rd1e447"><name>Thomas of Aquine</name> <title>reasoning of faith,  
+        <lb ed="#L" n="44"/>in the seconde booke Part 2.</title> <unclear>Artie</unclear>, <unclear>o</unclear>  
+        <lb ed="#L" n="45"/><unclear>dueest</unclear>, 1</ref>, sayth: <quote xml:id="UD1xh4-SJPiPd-Qd1e467">If we say, I beleeve in  
         <lb ed="#L" n="46"/>the holie Churth, wee must under 
         <!--79.xml-->
         <pb ed="#L" n="79-"/>
@@ -211,12 +210,12 @@
         <lb ed="#L" n="47"/>stande that our faith is referred to 
         <lb ed="#L" n="48"/>the holie Ghost which sanctifieth the  
         <lb ed="#L" n="49"/>Churth: and so make the sense to be  
-        <lb ed="#L" n="50"/>thus: I beleeve in theholie spirite that 
-        <lb ed="#L" n="51"/>sanctifieth the Churth.But it is better  
+        <lb ed="#L" n="50"/>thus: I beleeve in the holie spirite that 
+        <lb ed="#L" n="51"/>sanctifieth the Churth. But it is better  
         <lb ed="#L" n="52"/>and according to the common use not 
         <lb ed="#L" n="53"/>to adde at all the syllable, In, but sim 
         <lb ed="#L" n="54"/>ply to say the holy Catholique churth  
-        <lb ed="#L" n="55"/>even as also Pope Leo sayeth.</ref> Thus  
+        <lb ed="#L" n="55"/>even as also Pope Leo sayeth.</quote> Thus  
         <lb ed="#L" n="56"/>hath Thomas,  
         <lb ed="#L" n="57"/>So nowe ye have hearde the opi 
         <lb ed="#L" n="58"/>nions of the auncient Doctours of  
@@ -255,11 +254,10 @@
         <lb ed="#L" n="91"/>rie last Saint that shall be remaining  
         <lb ed="#L" n="92"/>before the end of the worlde.  
       </p>
-      
+      <p xml:id="UD1xh4-SJPiPd-d1e579">
         <!--80.xml-->
-        <pb ed="#L" n="80-"/>
+        <pb ed="#L" n="80"/>
         <cb ed="#L" n="a"/>
-      <p>
         <lb ed="#L" n="1"/>This universall Church hath her 
         <lb ed="#L" n="2"/>particular Churches, I meane the  
         <lb ed="#L" n="3"/>Church of Adam &amp; of the patriarches,  
@@ -289,7 +287,7 @@
         <lb ed="#L" n="27"/>Church of God is neither anie trueth,  
         <lb ed="#L" n="28"/>nor yet salvation,
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e649">
         <lb ed="#L" n="29"/>So then in this article wee confesse  
         <lb ed="#L" n="30"/>that all the faithful dispersed through 
         <lb ed="#L" n="31"/>out the whole compasse of the earth,  
@@ -309,17 +307,16 @@
         <lb ed="#L" n="45"/>Sonne, and the gift of the holy Ghoste,  
         <lb ed="#L" n="46"/>We have hearde testimonies enough 
         <!--80.xml-->
-        <pb ed="#L" n="80-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="47"/>in the former Sermons. Therefore  
-        <lb ed="#L" n="48"/>this one of Paule shall bee sufficient  
-        <lb ed="#L" n="49"/>which he writeth to the Ephesians,  
-        <lb ed="#L" n="50"/><ref><quote>Christe loved the Church and gave  
+        <lb ed="#L" n="48"/>this one of <ref xml:id="UD1xh4-SJPiPd-Rd1e698"><name>Paule</name> shall bee sufficient  
+        <lb ed="#L" n="49"/>which he writeth to the <title>Ephesians</title></ref>,  
+        <lb ed="#L" n="50"/><quote xml:id="UD1xh4-SJPiPd-Qd1e709" source="http://scta.info/resource/eph5_25">Christe loved the Church and gave  
         <lb ed="#L" n="51"/>him selfe for it, to sanetifye, and to  
         <lb ed="#L" n="52"/>cleanse it in the fountaine of Water 
         <lb ed="#L" n="53"/>through the worde, to make it unto  
         <lb ed="#L" n="54"/>him selfe a glorious Church not ha 
-        <lb ed="#L" n="55"/>ving spot or wrinekle. &amp; </quote></ref> By which  
+        <lb ed="#L" n="55"/>ving spot or wrinekle. &amp; </quote> By which  
         <lb ed="#L" n="56"/>words we understand that the church  
         <lb ed="#L" n="57"/>is called undefiled &amp; altogether clean, 
         <lb ed="#L" n="58"/>not in respect of it selfe, but because of  
@@ -331,7 +328,7 @@
         <lb ed="#L" n="64"/>the holinesse of it is moste absolutely  
         <lb ed="#L" n="65"/>perfect in Christe. Whereunto verilie  
         <lb ed="#L" n="66"/>belongeth that notalbe saying of the  
-        <lb ed="#L" n="67"/>Lord. <quote>He that is washed, hath no need  
+        <lb ed="#L" n="67"/>Lord. <quote xml:id="UD1xh4-SJPiPd-Qd1e748">He that is washed, hath no need  
         <lb ed="#L" n="68"/>but to wash his feete onely, for hee is  
         <lb ed="#L" n="69"/>wholy cleane.</quote> For the faithfull are  
         <lb ed="#L" n="70"/>purely cleansed by Christe, who wa 
@@ -345,7 +342,7 @@
         <lb ed="#L" n="78"/>disteined by their daily conversation  
         <lb ed="#L" n="79"/>in this worlde.  
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e778">
         <lb ed="#L" n="80"/>But nowe whereunto belongeth  
         <lb ed="#L" n="81"/>this that is added: The Commumion 
         <lb ed="#L" n="82"/>of saintes: These wordes are neither  
@@ -377,7 +374,7 @@
         <lb ed="#L" n="58"/>Saincts that are living either in hea 
         <lb ed="#L" n="59"/>ven or on earth. For we are members 
         <lb ed="#L" n="60"/>of the under one heade Christ. For the  
-        <lb ed="#L" n="61"/>Apostle John saith:<quote> That which wee 
+        <lb ed="#L" n="61"/>Apostle John saith:<quote xml:id="UD1xh4-SJPiPd-Qd1e847"> That which wee 
         <lb ed="#L" n="62"/>have seene and heard we declare unto  
         <lb ed="#L" n="63"/>you, that yee also may have fellow ship  
         <lb ed="#L" n="64"/>with us, and that your fellowship may 
@@ -409,15 +406,13 @@
         <lb ed="#L" n="90"/>faith in the father, the sonne, &amp; the holy  
         <lb ed="#L" n="91"/>ghost, to wit, ye we have participation 
         <lb ed="#L" n="92"/>with God, and al the saints, and that  
-        
         <!--81.xml-->
-        <pb ed="#L" n="81-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="1"/>in this fellowship we are sanctlfied from  
         <lb ed="#L" n="2"/>al filth or uncleannesse, being cleansed,  
         <lb ed="#L" n="3"/>and holie in Christ our Lorde,
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e928">
         <lb ed="#L" n="4"/>Now followeth the tenth article of  
         <lb ed="#L" n="5"/>our beleefe, which is: The forgivenesse  
         <lb ed="#L" n="6"/>of sinnes. The second fruit or commo 
@@ -435,7 +430,7 @@
         <lb ed="#L" n="18"/>this may be the better understoode I  
         <lb ed="#L" n="19"/>will divide it into some partes.
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e965">
         <lb ed="#L" n="20"/>First of al it is needeful to acknow 
         <lb ed="#L" n="21"/>ledge &amp; confesse, that we are sinners, &amp;  
         <lb ed="#L" n="22"/>that by nature, and our owne proper 
@@ -456,16 +451,15 @@
         <lb ed="#L" n="37"/>ved in the first chap, to the Romanes, &amp;  
         <lb ed="#L" n="38"/>let us freely confesse to God our sinnes 
         <lb ed="#L" n="39"/>with David in the 32. &amp; 52. Psal, say 
-        <lb ed="#L" n="40"/>ing:  <ref><quote>My sinne have I made knowen to  
+        <lb ed="#L" n="40"/>ing:  <quote xml:id="UD1xh4-SJPiPd-Qd1e1012">My sinne have I made knowen to  
         <lb ed="#L" n="41"/>thee, &amp; mine iniquitie I have not hid.  
         <lb ed="#L" n="42"/>I have saide: I will confesse mine un 
         <lb ed="#L" n="43"/>righteousues against my selfe, &amp; thou  
         <lb ed="#L" n="44"/>hast forgiven the iniquitie of mine 
         <lb ed="#L" n="45"/>offence, Have mercie on me O God,  
-        <lb ed="#L" n="46"/>accordingto thy great merey,</quote></ref> Ze. The
-        
+        <lb ed="#L" n="46"/>accordingto thy great merey,</quote> Ze. The
         <!--82.xml-->
-        <pb ed="#L" n="82-"/>
+        <pb ed="#L" n="82"/>
         <cb ed="#L" n="a"/>
         <lb ed="#L" n="1"/>Secondarily, let us believe that all  
         <lb ed="#L" n="2"/>these sins of ours are pardoned &amp; for 
@@ -486,15 +480,15 @@
         <lb ed="#L" n="17"/>ditor forgiveth the debitor, when hee  
         <lb ed="#L" n="18"/>is not able to paye : therefore remissi 
         <lb ed="#L" n="19"/>on is a forgiving according to the say 
-        <lb ed="#L" n="20"/>in of our saviour in the Gospell: <ref><quote>A  
+        <lb ed="#L" n="20"/>in of our saviour in the Gospell: <quote xml:id="UD1xh4-SJPiPd-Qd1e1078">A  
         <lb ed="#L" n="21"/>certaine lender had two debitors: and  
         <lb ed="#L" n="22"/>when they were not able to paie, he  
-        <lb ed="#L" n="23"/>forgave them both.</quote></ref> Hereunto belong 
-        <lb ed="#L" n="24"/>eth that also in the Lords prayer: <ref><quote>And  
-        <lb ed="#L" n="25"/>forgive us our debtes.</quote></ref> For our debtes  
+        <lb ed="#L" n="23"/>forgave them both.</quote> Hereunto belong 
+        <lb ed="#L" n="24"/>eth that also in the Lords prayer: <quote xml:id="UD1xh4-SJPiPd-Qd1e1090">And  
+        <lb ed="#L" n="25"/>forgive us our debtes.</quote> For our debtes  
         <lb ed="#L" n="26"/>are our sinnes, them doe we request to  
         <lb ed="#L" n="27"/>be remitted, that is, to be forgiven us.  
-        <lb ed="#L" n="28"/>In this sense also, saith S. Paul: <ref><quote>To  
+        <lb ed="#L" n="28"/>In this sense also, saith S. Paul: <quote xml:id="UD1xh4-SJPiPd-Qd1e1101">To  
         <lb ed="#L" n="29"/>him that worketh is the reward recko 
         <lb ed="#L" n="30"/>ned, not of grace, but of due debt: But  
         <lb ed="#L" n="31"/>to him that worketh not, but belee 
@@ -507,14 +501,12 @@
         <lb ed="#L" n="38"/>unrighteousnesse are forgiven, and 
         <lb ed="#L" n="39"/>whose sinnes are covered. Blossed is  
         <lb ed="#L" n="40"/>that man to whom the Lorde will not 
-        <lb ed="#L" n="41"/>impute sinne.</quote></ref> Wherefore in respect of  
+        <lb ed="#L" n="41"/>impute sinne.</quote> Wherefore in respect of  
         <lb ed="#L" n="42"/>us which have not wherewithall to  
         <lb ed="#L" n="43"/>repaie, our sinnes are freely forgiven,  
         <lb ed="#L" n="44"/>but in respect of Gods justice they are  
         <lb ed="#L" n="45"/>forgiven for the merit and satistaction  
-        
         <!--82.xml-->
-        <pb ed="#L" n="82-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="46"/>Moreover, it is not the sinnes of a  
         <lb ed="#L" n="47"/>few men, of one or two ages, or a fewe  
@@ -539,30 +531,30 @@
         <lb ed="#L" n="66"/>hande of the father, is the Lambe of  
         <lb ed="#L" n="67"/>God that taketh away the fins of the  
         <lb ed="#L" n="68"/>worlde. And in the Creede verily it is  
-        <lb ed="#L" n="69"/>expresly sayde: <ref><quote>I believe the forgive 
-        <lb ed="#L" n="70"/>nesse of sinnes, and not of sinne.</quote></ref> For  
+        <lb ed="#L" n="69"/>expresly sayde: <quote xml:id="UD1xh4-SJPiPd-Qd1e1197">I believe the forgive 
+        <lb ed="#L" n="70"/>nesse of sinnes, and not of sinne.</quote> For  
         <lb ed="#L" n="71"/>when we say of sinnes, we acknow 
         <lb ed="#L" n="72"/>ledge that God forgiveth all finnes.  
         <lb ed="#L" n="73"/>For to let passe the proofes hereof out  
         <lb ed="#L" n="74"/>of the 3, &amp; 5. of Paul to the Romanes,  
         <lb ed="#L" n="75"/>those out of S. John the Apostle &amp; Ev 
         <lb ed="#L" n="76"/>nangelist shall be susficent, who in his 
-        <lb ed="#L" n="77"/>Epistle testifieth and sayth: <ref><quote>The bloud  
+        <lb ed="#L" n="77"/>Epistle testifieth and sayth: <quote xml:id="UD1xh4-SJPiPd-Qd1e1218">The bloud  
         <lb ed="#L" n="78"/>of Jesus Christ clenseth us from everie  
-        <lb ed="#L" n="79"/>sinne.</quote></ref> Loe, he saith from everie sinne, 
+        <lb ed="#L" n="79"/>sinne.</quote> Loe, he saith from everie sinne, 
         <lb ed="#L" n="80"/>Hee, I say, that saith from everie one,  
         <lb ed="#L" n="81"/>excepteth none, unlesse it be ye which ye  
         <lb ed="#L" n="82"/>Lorde himelfe excepted, I meane the  
         <lb ed="#L" n="83"/>sinne against the holy ghost, for which  
         <lb ed="#L" n="84"/>the very same S. John forbiddeth us  
-        <lb ed="#L" n="85"/>to pray. Againe also he saith: <ref><quote>If we ac 
+        <lb ed="#L" n="85"/>to pray. Againe also he saith: <quote xml:id="UD1xh4-SJPiPd-Qd1e1238">If we ac 
         <lb ed="#L" n="86"/>knowledge our sinnes, God is faithfull  
         <lb ed="#L" n="87"/>and just, to forgive us our sinnes, and  
-        <lb ed="#L" n="88"/>to clense us fro all our unrighteousnes, </quote></ref> 
+        <lb ed="#L" n="88"/>to clense us fro all our unrighteousnes, </quote> 
         <lb ed="#L" n="89"/>The Apostle thought it not enough to  
         <lb ed="#L" n="90"/>say barely, To forgive us our sinnes,  
         <!--83.xml-->
-        <pb ed="#L" n="83-"/>
+        <pb ed="#L" n="83"/>
         <cb ed="#L" n="a"/>
         <lb ed="#L" n="1"/>but that he might declare the thing as  
         <lb ed="#L" n="2"/>it is indeede so plainely, that it might  
@@ -577,18 +569,18 @@
         <lb ed="#L" n="11"/>For men under the pretence of Gods  
         <lb ed="#L" n="12"/>grace will not cease to sinne : therfore  
         <lb ed="#L" n="13"/>John in his 2. chap, auntwereth their  
-        <lb ed="#L" n="14"/>obiection and saith: <ref><quote>Babes, these things  
+        <lb ed="#L" n="14"/>obiection and saith: <quote xml:id="UD1xh4-SJPiPd-Qd1e1288">Babes, these things  
         <lb ed="#L" n="15"/>write I to you that yee sinne not: and  
         <lb ed="#L" n="16"/>if anie man sinne, we have an advocate  
         <lb ed="#L" n="17"/>with the father Jesus Christ the righ 
         <lb ed="#L" n="18"/>teous. And he is the attonemet for our  
         <lb ed="#L" n="19"/>sins: and not for our sins onely, but also  
-        <lb ed="#L" n="20"/>for the sinnes of al the worlde.</quote></ref> Wher 
+        <lb ed="#L" n="20"/>for the sinnes of al the worlde.</quote> Wher 
         <lb ed="#L" n="21"/>fore it is assuredly true, that by the  
         <lb ed="#L" n="22"/>death of Christ all sinnes are forgiven 
         <lb ed="#L" n="23"/>them that believe.  
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e1313">
         <lb ed="#L" n="24"/>Moreover, the Lord alone forgiveth  
         <lb ed="#L" n="25"/>sins. For it is the glorie of God alone  
         <lb ed="#L" n="26"/>to forgive sinnes, and of unrighteous,  
@@ -601,9 +593,9 @@
         <lb ed="#L" n="33"/>given : and in so saying hee deceyueth  
         <lb ed="#L" n="34"/>them not: For God in deede forgi 
         <lb ed="#L" n="35"/>veth the sins of them that beleeve:ac 
-        <lb ed="#L" n="36"/>cording to that saying: <ref><quote>whose sinnes 
+        <lb ed="#L" n="36"/>cording to that saying: <quote xml:id="UD1xh4-SJPiPd-Qd1e1343">whose sinnes 
         <lb ed="#L" n="37"/>so we reade not that ye Apostles heard  
-        <lb ed="#L" n="38"/>yee forgive, they are forgiven them</quote></ref> 
+        <lb ed="#L" n="38"/>yee forgive, they are forgiven them</quote> 
         <lb ed="#L" n="39"/>And this is done so often as the worde  
         <lb ed="#L" n="40"/>of the Gospel is preached, so that there  
         <lb ed="#L" n="41"/>be no neede to faine that auricular con 
@@ -614,7 +606,6 @@
         <lb ed="#L" n="46"/>Saints before the comming of Christ,  
         <unclear>So we reade not that &amp; Apostles heard</unclear>
         <!--83.xml-->
-        <pb ed="#L" n="83-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="47"/>private confession, or used private ab 
         <lb ed="#L" n="48"/>solution in the Church of Christ. It  
@@ -639,7 +630,7 @@
         <lb ed="#L" n="67"/>sinnes: &amp; as they were, so are they un 
         <lb ed="#L" n="68"/>doubtedly at this day sufficient too, 
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e1423">
         <lb ed="#L" n="69"/>Furthermore, the Lord doth so par 
         <lb ed="#L" n="70"/>don our sinnes, not that they shoulde  
         <lb ed="#L" n="71"/>not be any more in us, nor leave their  
@@ -701,7 +692,7 @@
         <lb ed="#L" n="32"/>my sermon of faith that justifieth: and  
         <lb ed="#L" n="33"/>elsewhere.  
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e1556">
         <lb ed="#L" n="34"/>The eleventh Article is this, The  
         <lb ed="#L" n="35"/>resurrection of the fleshe. These two  
         <lb ed="#L" n="36"/>Articles, this and the twelfth shutte  
@@ -731,7 +722,7 @@
         <lb ed="#L" n="57"/>rise agayne, and enter into life everla 
         <lb ed="#L" n="58"/>sting.  
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e1619">
         <lb ed="#L" n="59"/>Of this word Resurrection or ri 
         <lb ed="#L" n="60"/>sing againe, I have spoken in the ex 
         <lb ed="#L" n="61"/>position of that article, The third day 
@@ -742,10 +733,10 @@
         <lb ed="#L" n="66"/>should say the resurrection of the body  
         <lb ed="#L" n="67"/>Verily Cyprian sayth, that in some  
         <lb ed="#L" n="68"/>churches of the East, this article was 
-        <lb ed="#L" n="69"/>thus pronounced: <ref><quote>I befeeve the resur 
-        <lb ed="#L" n="70"/>reetion of this fleshe.</quote></ref>  And Augustine  
+        <lb ed="#L" n="69"/>thus pronounced: <quote xml:id="UD1xh4-SJPiPd-Qd1e1645">I befeeve the resur 
+        <lb ed="#L" n="70"/>reetion of this fleshe.</quote>  And <ref xml:id="UD1xh4-SJPiPd-Rd1e1650"><name>Augustine</name>  
         <lb ed="#L" n="71"/>also in the tenth chapter of his booke  
-        <lb ed="#L" n="72"/><name><title>De fide &amp; Symbolo</title></name>, sayth: <ref><quote>Wee must  
+        <lb ed="#L" n="72"/><title>De fide &amp; Symbolo</title></ref>, sayth: <quote xml:id="UD1xh4-SJPiPd-Qd1e1660">Wee must  
         <lb ed="#L" n="73"/>without doubting beleeve, that this  
         <lb ed="#L" n="74"/>visible, which is properly called flesh,  
         <lb ed="#L" n="75"/>shall rise againe. The Apostle Paul  
@@ -754,7 +745,7 @@
         <lb ed="#L" n="78"/>This corruptible must put on incor 
         <lb ed="#L" n="79"/>ruption. when hee saieth: This, hee  
         <lb ed="#L" n="80"/>doth, as it were, put out his finger un 
-        <lb ed="#L" n="81"/>to this flesh.</quote></ref> This hath Augustine.  
+        <lb ed="#L" n="81"/>to this flesh.</quote> This hath Augustine.  
         <lb ed="#L" n="82"/>Moreover, Saynt Hierome compel 
         <lb ed="#L" n="83"/>leth John, Bishoppe of Jierusalem 
         <lb ed="#L" n="84"/>openly to confesse the resurrectiou of  
@@ -782,7 +773,7 @@
         <lb ed="#L" n="11"/>and ashes, That those bodies (I saie)  
         <lb ed="#L" n="12"/>are quickened and live againe.
       </p>
-      <p>
+      <p xml:id="UD1xh4-SJPiPd-d1e1739">
         <lb ed="#L" n="13"/>But thou demaundest howe this  
         <lb ed="#L" n="14"/>flesh being once resolved into dust and  
         <lb ed="#L" n="15"/>ashes, and so into nothing, can rise a 
@@ -868,7 +859,7 @@
         <lb ed="#L" n="92"/>our death, but in our maner and order  
         <lb ed="#L" n="93"/>shall wee rise at the last day, yea and  
         <!--86.xml-->
-        <pb ed="#L" n="86-"/>
+        <pb ed="#L" n="86"/>
         <cb ed="#L" n="a"/>
         <lb ed="#L" n="1"/>that too in the verie same body where 
         <lb ed="#L" n="2"/>in now we live.  
@@ -917,7 +908,6 @@
         <lb ed="#L" n="45"/>gaine in the day of judgement.  
         <lb ed="#L" n="46"/>And nowe (dearely beloved) I have to  
         <!--86.xml-->
-        <pb ed="#L" n="86-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="47"/>declare unto you in what manner our  
         <lb ed="#L" n="48"/>bodies shall rise againe, and of what 
@@ -966,7 +956,7 @@
         <lb ed="#L" n="91"/>shall rise againe incorruptible, which  
         <lb ed="#L" n="92"/>was corruptible : that shal kise againe  
         <!--87.xml-->
-        <pb ed="#L" n="87-"/>
+        <pb ed="#L" n="87"/>
         <cb ed="#L" n="a"/>
         <lb ed="#L" n="1"/>immortall, which before the resur 
         <lb ed="#L" n="2"/>rection was mortall. So then this  
@@ -1015,7 +1005,6 @@
         <lb ed="#L" n="45"/>knowne by the poynt of the nayles  
         <lb ed="#L" n="46"/>wherewith hee was crucified, he said:  
         <!--87.xml-->
-        <pb ed="#L" n="87-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="47"/>Sce, for I ameven hee, to wit, cladde  
         <lb ed="#L" n="48"/>againe with the same body wherein I  
@@ -1064,7 +1053,7 @@
         <lb ed="#L" n="91"/>ned to the eleven, the Lord himelfe at  
         <lb ed="#L" n="92"/>evening is present with them: He  
         <!--88.xml-->
-        <pb ed="#L" n="88-"/>
+        <pb ed="#L" n="88"/>
         <cb ed="#L" n="a"/>
         <lb ed="#L" n="1"/>goeth before his Disciples into Gali 
         <lb ed="#L" n="2"/>le : presently after hee commeth into  
@@ -1113,7 +1102,6 @@
         <lb ed="#L" n="45"/>Lord did within those 40. daies, wher 
         <lb ed="#L" n="46"/>in h  
         <!--88.xml-->
-        <pb ed="#L" n="88-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="47"/>his Disciples, make manifest &amp; spread 
         <lb ed="#L" n="48"/>abroade the brightnesse which it had,  
@@ -1162,7 +1150,7 @@
         <lb ed="#L" n="91"/>rious &amp; clarified bodies are very great 
         <lb ed="#L" n="92"/>and manye, as incorruption, glorie,  
         <!--89.xml-->
-        <pb ed="#L" n="89-"/>
+        <pb ed="#L" n="89"/>
         <cb ed="#L" n="a"/>
         <lb ed="#L" n="1"/>polver and the quickening spirite. For  
         <lb ed="#L" n="2"/>the Apostle himselfe shewing what he  
@@ -1211,7 +1199,6 @@
         <lb ed="#L" n="45"/>of marriages in Heaven, or rather by  
         <lb ed="#L" n="46"/>that absurditie, made a mocke of the  
         <!--89.xml-->
-        <pb ed="#L" n="89-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="47"/>resurrection, where hee sayeth: The  
         <lb ed="#L" n="48"/>sonnes, of this worlde marrie wives,  
@@ -1260,7 +1247,7 @@
         <lb ed="#L" n="91"/>on, dishonour and miserie : for even 
         <lb ed="#L" n="92"/>then that very body rising againe and  
         <!--90.xml-->
-        <pb ed="#L" n="90-"/>
+        <pb ed="#L" n="90"/>
         <cb ed="#L" n="a"/>
         <lb ed="#L" n="1"/>dishonour, shall by the judgement and  
         <lb ed="#L" n="2"/>polver of God be surely shut in disho 
@@ -1309,7 +1296,6 @@
         <lb ed="#L" n="45"/>ther it is, that the immortal soule, and  
         <lb ed="#L" n="46"/>body raised up again shal come. Ther 
         <!--90.xml-->
-        <pb ed="#L" n="90-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="47"/>fore in our confession we say: And life)  
         <lb ed="#L" n="48"/>everlasting, that is, I believe that :  
@@ -1358,7 +1344,7 @@
         <lb ed="#L" n="91"/>ever were or shall be, yet that scarcely  
         <lb ed="#L" n="92"/>the very least part therof hath or shall 
         <!--91.xml-->
-        <pb ed="#L" n="91-"/>
+        <pb ed="#L" n="91"/>
         <cb ed="#L" n="a"/>
         <lb ed="#L" n="1"/>For how so ever the Scripture doeth  
         <lb ed="#L" n="2"/>witheloquent and sigurative speches,  
@@ -1392,7 +1378,6 @@
         <lb ed="#L" n="30"/>face, we shall be silled with the com 
         <lb ed="#L" n="31"/>panie of God, and yet be never wearie  
         <!--91.xml-->
-        <pb ed="#L" n="91-"/>
         <cb ed="#L" n="b"/>
         <lb ed="#L" n="32"/>of him. And the face of God is not that  
         <lb ed="#L" n="33"/>countonaunce that appeareth in us,  
