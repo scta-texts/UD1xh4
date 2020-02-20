@@ -49,13 +49,17 @@
   </front>
   <body>
     <div xml:id="UD1xh4-2QvvyF">
-        <p><!--44.xml-->
+      <head>Sermon 6</head>
+        <!--<p>
+          <!-\-44.xml-\->
           <pb ed="#L" n="44"/>
           <cb ed="#L" n="c"/>
           <lb ed="#L" n="1"/>That the faithfull are justified by faith without  
           <lb ed="#L" n="2"/>the lawe and workes.  
         </p>
-        <p>
+        This falls just above title for start of sermon six 
+        -->
+      <p xml:id="UD1xh4-2QvvyF-d1e95">
           <!--44.xml-->
           <cb ed="#L" n="d"/>
           <lb ed="#L" n="1"/>Being readye here  
@@ -75,7 +79,7 @@
           <lb ed="#L" n="15"/>become thankefull for it and holy in  
           <lb ed="#L" n="16"/>deede.  
         </p>
-        <p>
+      <p xml:id="UD1xh4-2QvvyF-d1e115">
           <lb ed="#L" n="17"/>And first of all, I will speake cer 
           <lb ed="#L" n="18"/>taine things chiefely necessarie to this  
           <lb ed="#L" n="19"/>argument or treatise, touching this  
@@ -140,7 +144,7 @@
           <lb ed="#L" n="11"/>wer of faith and worke of justification,  
           <lb ed="#L" n="12"/>may be most evident.  
         </p>
-        <p>
+        <p xml:id="UD1xh4-2QvvyF-d1e183"> 
           <lb ed="#L" n="13"/>And first I wil shew unto you that 
           <lb ed="#L" n="14"/>this terme of justification, is taken in  
           <lb ed="#L" n="15"/>this present treatise for the absolution  
