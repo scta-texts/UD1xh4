@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Decimas 1, Sermo 8 [London 1587 Transcription]</title>
+      <author ref="#HenrichBullinger">Henrich Bullinger</author>
+      <editor>Ema-Joanne M. Brauchler </editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+        <title>Decimas 1, Sermo 8 [London 1587 Transcription]</title>
+        <date when="2019-11-08">March 1, 2020</date>
+      </edition>
+    </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+        <witness xml:id="L" n="cod-u2dgeg">London 1587</witness>
+      </listWit>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+         guidelines for a diplomatic edition.
+      </p>
+    </editorialDecl>
+  </encodingDesc>
+  <revisionDesc status="draft">
+    <listChange>
+      <change when="2019-06-20" status="draft" n="0.0.0">
+        <p>Created file for the first time.</p>  
+      </change>
+        </listChange>
+    </revisionDesc>
+</teiHeader>
+<text xml:lang="de">
+    <front>
+    <div xml:id="starts-on">
+      <pb ed="#L" n="30"/>
+   </div>
+  </front>
+  <body>
+    <div xml:id="UD1xh4-GFKe50">
+      <p>
+          <!-- 67.xml -->
+          <pb ed="#L" n="67"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>Let us first of all 
+          <lb ed="#L" n="2"/> pray to our God 
+          <lb ed="#L" n="3"/> ye he will vouch 
+          <lb ed="#L" n="4"/> safe to graunt us 
+          <lb ed="#L" n="5"/> an happy, speedie, 
+          <lb ed="#L" n="6"/>and verie fruite
+          <lb ed="#L" n="7"/> full proceeding in 
+          <lb ed="#L" n="8"/>the declaratio of
+          <lb ed="#L" n="9"/> the otehr Articles of Christian be
+          <lb ed="#L" n="10"/> leefe.
+      </p>
+      <p>
+          <lb ed="#L" n="11"/> the fift Article of our beleefe is:
+          <lb ed="#L" n="12"/><quote>The third day he rose againe from the 
+          <lb ed="#L" n="13"/>dead.</quote> And this Article verily of 
+          <lb ed="#L" n="14"/>our beleefe is in a manner the chiefe 
+          <lb ed="#L" n="15"/> of all the rest. Neither are the A
+          <lb ed="#L" n="16"/>postles so busily occupied in delcaring 
+          <lb ed="#L" n="17"/>and confirming the other, as they
+          <lb ed="#L" n="18"/>are in this one. For it had not been 
+          <lb ed="#L" n="19"/>ynough, if our Lord had died onely,
+          <lb ed="#L" n="20"/> unlesse he had also risen from the dead 
+          <lb ed="#L" n="21"/> againe. For if hee had not risen from 
+          <lb ed="#L" n="22"/> the dead, but had remained still in 
+          <lb ed="#L" n="23"/>death, who shoulde have perswaded 
+          <lb ed="#L" n="24"/> us men, that sinne was purged by 
+          <lb ed="#L" n="25"/> the death of Christ, that death was 
+          <lb ed="#L" n="26"/>vanquished, Sathan overcome, and 
+          <lb ed="#L" n="27"/>Hell broken uppe for the faithfull by 
+          <lb ed="#L" n="28"/>the death of Christ? Yea verily wee 
+          <lb ed="#L" n="29"/>have foolish fellowes that woulde 
+          <lb ed="#L" n="30"/>never cease to blaspheme the verie 
+          <lb ed="#L" n="31"/>God, to make a mocked of our hope, 
+          <lb ed="#L" n="32"/>and to say: Tush, who did ever re
+          <lb ed="#L" n="33"/>turne from the dead, to tell us whe
+          <lb ed="#L" n="34"/>ther there be a life in an other worlde 
+          <lb ed="#L" n="35"/>after this or no, and what kind of life 
+          <lb ed="#L" n="36"/>it is? 
+      </p>
+      <p>
+          <lb ed="#L" n="37"/>Because therefore we cannot finde
+          <cb ed="#L" n="c"/>
+          <lb ed="#L" n="1"/>that anie man did ever returne from 
+          <lb ed="#L" n="2"/>the dead, that is to bee doubted of 
+          <lb ed="#L" n="3"/>which these bablers do tatle touching 
+          <lb ed="#L" n="4"/>the life of the worlde to come.
+      </p>
+      <p>
+          <lb ed="#L" n="5"/>That the Lorde therefore might de
+          <lb ed="#L" n="6"/>clare to the whole worlde, taht after
+          <lb ed="#L" n="7"/>this life there is an other, and that the 
+          <lb ed="#L" n="8"/>soule dieth not with the bodie, but 
+          <lb ed="#L" n="9"/>remaineth alive, hee returned the 
+          <lb ed="#L" n="10"/>third day alive againe to his Disci
+          <lb ed="#L" n="11"/>ples: and at that instant shewed them, 
+          <lb ed="#L" n="12"/>that sinne was purged, death disar
+          <lb ed="#L" n="13"/>med, the divell vanquished, and hell 
+          <lb ed="#L" n="14"/>destroyed.
+      </p>
+      <p>
+          <lb ed="#L" n="15"/>For the sting of death is sinne. Or 
+          <lb ed="#L" n="16"/>the reward of sinne is death. The di
+          <lb ed="#L" n="17"/>vil hath the power of death, and shut
+          <lb ed="#L" n="18"/>teth in hell for sinnes. Now therefore, 
+          <lb ed="#L" n="19"/>in that Christ riseth alive againe from 
+          <lb ed="#L" n="20"/>the dead. Death could have no domi
+          <lb ed="#L" n="21"/>nion over him: and because Death by 
+          <lb ed="#L" n="22"/>suffering the Lord to passe, is broken, 
+          <lb ed="#L" n="23"/>It must needes followe, that the Di
+          <lb ed="#L" n="24"/>vell, and Hell, are vanquished by 
+          <lb ed="#L" n="25"/>Christ. And lastly, that Sinne, the 
+          <lb ed="#L" n="26"/>strength and power of them all is 
+          <lb ed="#L" n="27"/>purely purged.
+      </p>
+      <p>
+          <lb ed="#L" n="28"/>It is evident therefore, that the 
+          <lb ed="#L" n="29"/>resurrection of our Lord Jesus Christ 
+          <lb ed="#L" n="30"/>doth as it were, certifie and by seale 
+          <lb ed="#L" n="31"/>assure us of our salvation and Re
+          <lb ed="#L" n="32"/>demption, so that now wee can not
+          <lb ed="#L" n="33"/>anie longer doubt of it. Wee con 
+          <lb ed="#L" n="34"/>fesse therefore in this Article, that 
+          <lb ed="#L" n="35"/>our Lorde Jesus Christ is risen a
+          <lb ed="#L" n="36"/>gaine, and that he is risen againe
+          <!-- 68.xml -->
+          <pb ed="#L" n="68"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>for our behoofe, that is to saie, that 
+          <lb ed="#L" n="2"/>he hath wipte away our sinnes, and 
+          <lb ed="#L" n="3"/>that for us he hath conquered death, ye 
+          <lb ed="#L" n="4"/>devill and hell, according to the saying 
+          <lb ed="#L" n="5"/>of the Apostle. 
+      </p>
+      <p>
+          <lb ed="#L" n="6"/><quote>God hath saved us, and hath called us
+          <lb ed="#L" n="7"/>with an holie calling, not according 
+          <lb ed="#L" n="8"/>to our workes, but according to his
+          <lb ed="#L" n="9"/>owne purpose and favour which was 
+          <lb ed="#L" n="10"/>given unto us through Jesus Christ be
+          <lb ed="#L" n="11"/>fore all beginning, but is declared 
+          <lb ed="#L" n="12"/>openly now by the appearing of our 
+          <lb ed="#L" n="13"/>Saviour Jesus Christ who hath verily 
+          <lb ed="#L" n="14"/>put out death, and brought foorth 
+          <lb ed="#L" n="15"/>life, light, and immortalitie by the 
+          <lb ed="#L" n="16"/>Gospell.</quote> There are manie more like 
+          <lb ed="#L" n="17"/>this in the 4. of his epistle to the Ro
+          <lb ed="#L" n="18"/>mans, and in the 15 of his first to the 
+          <lb ed="#L" n="19"/>Corinthians. For the Lord also in the 
+          <lb ed="#L" n="20"/>Gospell after <name>S. John</name> saith, <quote>I am the 
+          <lb ed="#L" n="21"/>resurrection and the life: hee that be
+          <lb ed="#L" n="22"/>leeveth in mee, although he be dead 
+          <lb ed="#L" n="23"/>shall live: and everie one that liveth 
+          <lb ed="#L" n="24"/>and beleeveth in me, shall not die for 
+          <lb ed="#L" n="25"/>ever.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="26"/>Nowe also let us throughly consi
+          <lb ed="#L" n="27"/>der everie worde of this article seve
+          <lb ed="#L" n="28"/>rally by it selfe, Wee confesse ye Lorde, 
+          <lb ed="#L" n="29"/>his resurrection. But a resurrection is 
+          <lb ed="#L" n="30"/>to rise againe. That riseth which fal
+          <lb ed="#L" n="31"/>leth. The bodie of Christ fell, therefore 
+          <lb ed="#L" n="32"/>the bodie of Christ riseth, yea it riseth 
+          <lb ed="#L" n="33"/>againe, that is to say, the verie same 
+          <lb ed="#L" n="34"/>bodie of Christ, which before it fell did 
+          <lb ed="#L" n="35"/>both live and stirre, doth nowe rise a
+          <lb ed="#L" n="36"/>gaine, it doth I say both live and stirre
+          <lb ed="#L" n="37"/>againe. For truely sayde <name>Tertullian</name>
+          <lb ed="#L" n="38"/><quote>of the resurrection of ye flesh, that this 
+          <lb ed="#L" n="39"/>word Resurrectio is ot properly spo
+          <lb ed="#L" n="40"/>ken of any thing, save of ye which first 
+          <lb ed="#L" n="41"/>fell. For nothing can rise againe but ye 
+          <lb ed="#L" n="42"/>that fell. For by rising againe, because 
+          <lb ed="#L" n="43"/>itsel, we say the resurrection is made.</quote>
+          <lb ed="#L" n="44"/>Because this sillable Re, is never ad
+          <lb ed="#L" n="45"/>ded, but when a thing is done againe. 
+          <lb ed="#L" n="46"/>Wherefore the women in the Gos
+          <!-- 68.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>pell, when they went to annoint the 
+          <lb ed="#L" n="2"/>bodie of the Lorde, which hoong upon 
+          <lb ed="#L" n="3"/>the crosse, did heare the Angell of the 
+          <lb ed="#L" n="4"/>Lorde say, <quote>Whie seeke ye the living 
+          <lb ed="#L" n="5"/>among the dead? He is not here, but is 
+          <lb ed="#L" n="6"/>risen, &amp; c.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="7"/>This historie of the Lordes resur
+          <lb ed="#L" n="8"/>rectio is set forth in ye 24. after <name>Luke</name>, 
+          <lb ed="#L" n="9"/>and the 16. after <name>Marke</name>. <name>Peter the A
+          <lb ed="#L" n="10"/>postle</name>, also in the seonc of the acts, af
+          <lb ed="#L" n="11"/>firming the Lordsresurrection by the 
+          <lb ed="#L" n="12"/>testimonie of <name>David</name>, doeth expresly 
+          <lb ed="#L" n="13"/>shewe, that the Lord is verilie risen a
+          <lb ed="#L" n="14"/>gaine. 
+      </p>
+      <p>
+          <lb ed="#L" n="15"/>After this we say againe, that hee 
+          <lb ed="#L" n="16"/>is risen out of, or from ye dead. Which 
+          <lb ed="#L" n="17"/>member doth expresse the trueth, both 
+          <lb ed="#L" n="18"/>of his death and resurrection For the 
+          <lb ed="#L" n="19"/>bodie or flesh dieth or is destroied: but 
+          <lb ed="#L" n="20"/>being dead is raised up againe: this bo
+          <lb ed="#L" n="21"/>dy therfore, or flesh is raised up again: 
+          <lb ed="#L" n="22"/>as though hee that maketh confession 
+          <lb ed="#L" n="23"/>of his beleefe should say, Our Lord di
+          <lb ed="#L" n="24"/>ed even in the verie same condition of 
+          <lb ed="#L" n="25"/>nature that other mortall men doe die 
+          <lb ed="#L" n="26"/>in, but he carried not, nor yet stacke 
+          <lb ed="#L" n="27"/>fast among the dead. For the verie 
+          <lb ed="#L" n="28"/>same mortall flesh which hee had ta
+          <lb ed="#L" n="29"/>ken unto him, and by dying had laid 
+          <lb ed="#L" n="30"/>aside, hee nowe taketh againe immor
+          <lb ed="#L" n="31"/>talitie. As <name>David</name> had foretolde before 
+          <lb ed="#L" n="32"/>saying, <quote>Because thou shalt not leave 
+          <lb ed="#L" n="33"/>my soule in hel, nor suffer thy holy one 
+          <lb ed="#L" n="34"/>to see corruption.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="35"/>For Christ is the first begotten of 
+          <lb ed="#L" n="36"/>them that rise againe, in whome as in 
+          <lb ed="#L" n="37"/>the head there ought to be declared in 
+          <lb ed="#L" n="38"/>what fort the resurrection of al Christ 
+          <lb ed="#L" n="39"/>his meber, shalbe in the day of judge
+          <lb ed="#L" n="40"/>ment. 
+      </p>
+      <p>
+          <lb ed="#L" n="41"/>And we confesse that this resurrec
+          <lb ed="#L" n="42"/>tion was made the third day, I meane 
+          <lb ed="#L" n="43"/>the third daie after his death. For 
+          <lb ed="#L" n="44"/>uppon the day of Preparation hee is 
+          <lb ed="#L" n="45"/>taken downe from the crosse, and ca
+          <lb ed="#L" n="47"/>ried into a sepulchre, where <quote>his bodie</quote>
+          <!-- 69.xml -->
+          <pb ed="#L" n="69"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>resteth the whole Sabboth day, and 
+          <lb ed="#L" n="2"/>about the beginning of the first day of 
+          <lb ed="#L" n="3"/>sabboths, which I say, is th first daye 
+          <lb ed="#L" n="4"/>of teh weeke, and among us at this 
+          <lb ed="#L" n="5"/>day is called Sunday, in the morning 
+          <lb ed="#L" n="6"/>he arose again from the dead. Wher
+          <lb ed="#L" n="7"/>as therefore in the twelth chapter of 
+          <lb ed="#L" n="8"/>the Gospel after <name>Saint Matthewe</name> we 
+          <lb ed="#L" n="9"/>reade that the Lord saide: <quote>As Jonas 
+          <lb ed="#L" n="10"/>was three daies and three nights, in 
+          <lb ed="#L" n="11"/>the bellie of the Whale: So shall the 
+          <lb ed="#L" n="12"/>sonne of man bee in the heart of the 
+          <lb ed="#L" n="13"/>earth three dayes and three nights:</quote>
+          <lb ed="#L" n="14"/>Yet notwithstanding in the fifteenth, 
+          <lb ed="#L" n="15"/>and twentie xhapiters expounding 
+          <lb ed="#L" n="16"/>himselfe, as having spoken that by 
+          <lb ed="#L" n="17"/><name>Synechdoche</name>, hee sayth: <quote>I must goe to 
+          <lb ed="#L" n="18"/>Hierusalem, and suffer manie things 
+          <lb ed="#L" n="19"/>of the Scribes and Elders, and be kil
+          <lb ed="#L" n="20"/>led, and raised up againe the thirde 
+          <lb ed="#L" n="21"/>day.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="22"/>The sixt article of our faith is: <quote>He 
+          <lb ed="#L" n="23"/>ascended into Heaven, and sitteth at 
+          <lb ed="#L" n="24"/>the right hand of God the father al
+          <lb ed="#L" n="25"/>mightie.</quote> That bodie which is of the 
+          <lb ed="#L" n="26"/>same substance with our bodies, ta
+          <lb ed="#L" n="27"/>ken out of the Virgine Marie, and 
+          <lb ed="#L" n="28"/>taken verily of the substaunce of the 
+          <lb ed="#L" n="29"/>Virgin, which hoong upon the crosse, 
+          <lb ed="#L" n="30"/>and died, and was buried, and rose a
+          <lb ed="#L" n="31"/>gaine, the verie same bodie, I say, as
+          <lb ed="#L" n="32"/>scended into the heavens, and sitteth at 
+          <lb ed="#L" n="33"/>the right hand of God the father. For, 
+          <lb ed="#L" n="34"/>after that by the space of fortie dayes 
+          <lb ed="#L" n="35"/>our Lord had aboundantly inough in
+          <lb ed="#L" n="36"/>structed his Disciples touching the 
+          <lb ed="#L" n="37"/>trueth of his resurrection &amp; the king
+          <lb ed="#L" n="38"/>dome of God, hee was taken up into 
+          <lb ed="#L" n="39"/>heaven.
+      </p>
+      <p>
+          <lb ed="#L" n="40"/>By that ascension of his, hee decla
+          <lb ed="#L" n="41"/>reth to the whole compasse of the 
+          <lb ed="#L" n="42"/>earth, that he is Lord of all things, &amp; 
+          <lb ed="#L" n="43"/>that to him are subject all things that 
+          <lb ed="#L" n="44"/>are in heaven and in earth, that he is 
+          <lb ed="#L" n="45"/>our strength, the power of ye faithfull, 
+          <lb ed="#L" n="46"/>and he of whom they have to boast a
+          <!-- 69.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>gainst the gates of Hel. For hee ascen 
+          <lb ed="#L" n="2"/>ding into heaven hath lead Captivitie 
+          <lb ed="#L" n="3"/>captive, and by spoiling his enemies 
+          <lb ed="#L" n="4"/>hath enriched his people, on whom hee 
+          <lb ed="#L" n="5"/>dayly heapeth his spirituall giftes. 
+          <lb ed="#L" n="6"/>For hee fitteth above, that by pow
+          <lb ed="#L" n="7"/>ring his vertue from thence into us, 
+          <lb ed="#L" n="8"/>hee may quicken us with the spiri
+          <lb ed="#L" n="9"/>tuall life, and decke us with sun 
+          <lb ed="#L" n="10"/>drie giftes and graces, and lastly, de
+          <lb ed="#L" n="11"/>fend the Church agains all evils. For 
+          <lb ed="#L" n="12"/>God is a our saviour, king, and Bi
+          <lb ed="#L" n="13"/>shop.
+      </p>
+      <p>
+          <lb ed="#L" n="14"/>Whereupon when as once the 
+          <lb ed="#L" n="15"/>Capernaites were offended, because 
+          <lb ed="#L" n="16"/>the Lord had called him selfe the bread 
+          <lb ed="#L" n="17"/>of life, that came downe from Hea
+          <lb ed="#L" n="18"/>ven, to give life unto the Worlde, 
+          <lb ed="#L" n="19"/>he saith: <quote>Doth this offend you? What 
+          <lb ed="#L" n="20"/>therefore if you shall see the sonne of 
+          <lb ed="#L" n="21"/>man ascende thither where hee was 
+          <lb ed="#L" n="22"/>before?</quote> As if hee shoulde say, then 
+          <lb ed="#L" n="23"/>verily yee will gather by my quicke
+          <lb ed="#L" n="24"/>ning, resurrection, and glorious as
+          <lb ed="#L" n="25"/>cension into the heavens, that I am 
+          <lb ed="#L" n="26"/>the bread of Life brought downe from 
+          <lb ed="#L" n="27"/>heaven, and now againe taken up in
+          <lb ed="#L" n="28"/>to the heavens, there to remaine the 
+          <lb ed="#L" n="29"/>saviour, life, and Lord of heaven and 
+          <lb ed="#L" n="30"/>earth. 
+      </p>
+      <p>
+          <lb ed="#L" n="31"/>Moreover, <name>S. Peter the Apostle</name> in 
+          <lb ed="#L" n="32"/>the ACtes saith: <quote>Let all the house of Is
+          <lb ed="#L" n="33"/>rael know for a suretie, that God hath 
+          <lb ed="#L" n="34"/>made the same Jesus whome yee have 
+          <lb ed="#L" n="35"/>crucified Lord and Christ.</quote>
+        </p>
+        <p>
+          <lb ed="#L" n="36"/>Furthermore, he did not onely rise 
+          <lb ed="#L" n="37"/>againe from death, and come to his 
+          <lb ed="#L" n="38"/>Disciples, but also ascended into hea
+          <lb ed="#L" n="39"/>ven as they beheld and looked on him, 
+          <lb ed="#L" n="40"/>to the ende, that we thereby might bee 
+          <lb ed="#L" n="41"/>assuredly certified of eternall salvati
+          <lb ed="#L" n="42"/>on. for by ascending hee prepared a 
+          <lb ed="#L" n="43"/>place for us, he made readie the way, 
+          <lb ed="#L" n="44"/>that is, he opened the verie heavens to 
+          <lb ed="#L" n="45"/>the faithfull.
+        </p>
+        <p>
+          <lb ed="#L" n="46"/>God hath placed in heaven the ve
+          <!-- 70.xml -->
+          <pb ed="#L" n="70"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>rie humanitie that hee tooke of us: 
+          <lb ed="#L" n="2"/>which is in deede a lively and unre
+          <lb ed="#L" n="3"/>proveable testimonie that all man
+          <lb ed="#L" n="4"/>kinde shall at the last be translated in 
+          <lb ed="#L" n="5"/>to heaven also. For the members must 
+          <lb ed="#L" n="6"/>needes bee made conformable to the 
+          <lb ed="#L" n="7"/>head.
+        </p>
+        <p>
+          <lb ed="#L" n="8"/>Christ our heade is risen againe 
+          <lb ed="#L" n="9"/>from the dead: therefore Wee his 
+          <lb ed="#L" n="10"/>members shall also rise againe. And 
+          <lb ed="#L" n="11"/>even as a cloude tooke away the Lord 
+          <lb ed="#L" n="12"/>from the sight of his Discilpes: So 
+          <lb ed="#L" n="13"/>shall we that beleeve be carried in the 
+          <lb ed="#L" n="14"/>cloudes to meete the Lorde, and shall 
+          <lb ed="#L" n="15"/>wholie in soule and bodie bee, and for 
+          <lb ed="#L" n="16"/>ever dwell in heaven with our head 
+          <lb ed="#L" n="17"/>and Lord Christ Jesus.
+        </p>
+        <p>
+          <lb ed="#L" n="18"/>And this doth <name>John</name> evidently teach 
+          <lb ed="#L" n="19"/>him that readeth his fourteene chap
+          <lb ed="#L" n="20"/>ter, where the Lord saith: <quote>I go to pre
+          <lb ed="#L" n="21"/>pare a place for you, and will come 
+          <lb ed="#L" n="22"/>againe to you, and take you unto my
+          <lb ed="#L" n="23"/>selfe, that wheresoever i am, ye may 
+          <lb ed="#L" n="24"/>also be.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="25"/><name>Paul the Apostle</name> also witnesseth, 
+          <lb ed="#L" n="26"/>and saith: <quote>Wee that live and shall be 
+          <lb ed="#L" n="27"/>remaining in the comming of the 
+          <lb ed="#L" n="28"/>Lorde, shall be carried in the clouds 
+          <lb ed="#L" n="29"/>together with them that are raised up 
+          <lb ed="#L" n="30"/>from the dead to meete the Lorde in 
+          <lb ed="#L" n="31"/>the aire.</quote> We confesse therefore in 
+          <lb ed="#L" n="32"/>this article, that Jesus Christ being 
+          <lb ed="#L" n="33"/>taken up into Heaven is Lorde of all 
+          <lb ed="#L" n="34"/>things, the king and BIshoppe, the 
+          <lb ed="#L" n="35"/>deliverer and saviour of all the faith 
+          <lb ed="#L" n="36"/>full in the whole worlde. Wee con
+          <lb ed="#L" n="37"/>fesse, that in Christ, and for Christ 
+          <lb ed="#L" n="38"/>we believe the life everlasting, which 
+          <lb ed="#L" n="39"/>we shall have in this bodie at the end 
+          <lb ed="#L" n="40"/>of the worlde, and in soule so soone 
+          <lb ed="#L" n="41"/>as wee are once departed out of this 
+          <lb ed="#L" n="42"/>world.
+      </p>
+      <p>
+          <lb ed="#L" n="43"/>But nowe by the way wee must 
+          <lb ed="#L" n="44"/>weigh the verie wordes of this arti
+          <lb ed="#L" n="45"/>cle. <quote>Hee ascended,</quote> we saie. Who 
+          <lb ed="#L" n="46"/>ascended I pray you? Hee that was 
+          <!-- 70.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>borne of the <name>virgine Marie</name>, that was 
+          <lb ed="#L" n="2"/>crucified, dead and buried, that rose 
+          <lb ed="#L" n="3"/>againe from the dead: Hee (I say) 
+          <lb ed="#L" n="4"/>ascended verily both bodie and soule. 
+          <lb ed="#L" n="5"/>But whither ascended hee? Into 
+          <lb ed="#L" n="6"/>Heaven. Heaven in the Scriptures 
+          <lb ed="#L" n="7"/>is not taken alwayes in one significa
+          <lb ed="#L" n="8"/>tion
+      </p>
+      <p>
+          <lb ed="#L" n="9"/>First it is put for the firmament, 
+          <lb ed="#L" n="10"/>and that large compasse that is over 
+          <lb ed="#L" n="11"/>our heades, wherein the birds flie too 
+          <lb ed="#L" n="12"/>and fro, and in which the Starres are 
+          <lb ed="#L" n="13"/>placced that are called the furniture 
+          <lb ed="#L" n="14"/>and hoast of Heaven. For saith <name>Da
+          <lb ed="#L" n="15"/>vid:</name> <quote>God is clothed with light as 
+          <lb ed="#L" n="16"/>with a garment, he spreadeth foorth 
+          <lb ed="#L" n="17"/>the Heaven as it were a Curtaine.</quote>
+          <lb ed="#L" n="18"/>Hee saith also, <quote>I shall, see thy Hea
+          <lb ed="#L" n="19"/>vens the worke of thy fingers, and 
+          <lb ed="#L" n="20"/>the Moone and STarres which thou 
+          <lb ed="#L" n="21"/>hast laide.</quote> And againe: <quote>Which co
+          <lb ed="#L" n="22"/>vereth the Heaven with cloudes, and 
+          <lb ed="#L" n="23"/>prepareth raine for the earth.</quote> And 
+          <lb ed="#L" n="24"/>againe, <quote>The Heavens declare the glo
+          <lb ed="#L" n="25"/>rie of God, and the firmament she
+          <lb ed="#L" n="26"/>weth foorth the workes of his handes.</quote>
+          <lb ed="#L" n="27"/>Then also, Heaven is taken for the 
+          <lb ed="#L" n="28"/>throne and habitation of God. And 
+          <lb ed="#L" n="29"/>lastly for the place, seate, and recepta
+          <lb ed="#L" n="30"/>cle of them that are saved, where God 
+          <lb ed="#L" n="31"/>giveth himself to be seene and enjoyed 
+          <lb ed="#L" n="32"/>of them that be his. 
+      </p>
+      <p>
+          <lb ed="#L" n="33"/>For <name>David</name> witnessing againe, 
+          <lb ed="#L" n="34"/>saith, <quote>The Lorde hath prepared his 
+          <lb ed="#L" n="35"/>seate in Heaven:</quote> Whereuppon the 
+          <lb ed="#L" n="36"/>Lorde in the Gospel saith: <quote>Sweare not 
+          <lb ed="#L" n="37"/>by Heaven for it is Gods seate.</quote> And 
+          <lb ed="#L" n="38"/>the Apostle Paul saith; <quote>We knowe if 
+          <lb ed="#L" n="39"/>our earthly mansion of this tabernacle 
+          <lb ed="#L" n="40"/>be destroyed, that we have a dwelling 
+          <lb ed="#L" n="41"/>place for ever in Heaven, builded by 
+          <lb ed="#L" n="42"/>God, not made by handes.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="43"/>And therefore in this signification 
+          <lb ed="#L" n="44"/>Heaven is called the kingdome of 
+          <lb ed="#L" n="45"/>God, the kingdome of the father, joy, 
+          <lb ed="#L" n="46"/>happinesse, and felicitie, eternall life,
+          <!-- 71.xml -->
+          <pb ed="#L" n="71"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>peace and quietnesse. 
+      </p>
+      <p>
+          <lb ed="#L" n="2"/>And althought God in deede be not 
+          <lb ed="#L" n="3"/>shut up in any place. For hee saith: 
+          <lb ed="#L" n="4"/><quote>Heaven is my seate, and the Earth the 
+          <lb ed="#L" n="5"/>footestoole of my feete:</quote> Yet because 
+          <lb ed="#L" n="6"/>the glorie of God doth most of all shine 
+          <lb ed="#L" n="7"/>in the Heavens, and because that in 
+          <lb ed="#L" n="8"/>heaven he giveth himselfe to be seene 
+          <lb ed="#L" n="9"/>and enjoyed of them that are his, ac
+          <lb ed="#L" n="10"/>cording to that saying: <quote>We shall 
+          <lb ed="#L" n="11"/>see him even as he is.</quote> And againe, 
+          <lb ed="#L" n="12"/><quote>No man shall see me,</quote> saith the Lord,
+          <lb ed="#L" n="13"/><quote>and live.</quote> Therefore God is saide to 
+          <lb ed="#L" n="14"/>dwell in Heaven.
+      </p>
+      <p>
+          <lb ed="#L" n="15"/>kMoreover, Christ our Lorde tou
+          <lb ed="#L" n="16"/>ching his divinitie, is not shnt uppe 
+          <lb ed="#L" n="17"/>in any place, but according to his hu
+          <lb ed="#L" n="18"/>manitie once taken, which he drew up 
+          <lb ed="#L" n="19"/>into heaven, hee is in the verie locall 
+          <lb ed="#L" n="20"/>place of heaven, neither is he in the 
+          <lb ed="#L" n="21"/>meane time here in earth and everie 
+          <lb ed="#L" n="22"/>where bodilie, but being severed from 
+          <lb ed="#L" n="23"/>us in bodie, remaineth in heaven. For 
+          <lb ed="#L" n="24"/>hee ascendeth, which leaving that 
+          <lb ed="#L" n="25"/>which is belowe, doth goe to that a
+          <lb ed="#L" n="26"/>bove. 
+      </p>
+      <p>
+          <lb ed="#L" n="27"/>Christ therefore leaving the earth, 
+          <lb ed="#L" n="28"/>hath placed a seate for his bodie above 
+          <lb ed="#L" n="29"/>all Heavens. Not that hee is carried 
+          <lb ed="#L" n="30"/>up beyond all Heavens, but because 
+          <lb ed="#L" n="31"/>ascending up above all the cirles into 
+          <lb ed="#L" n="32"/>the utmoseand highest Heaven, hee 
+          <lb ed="#L" n="33"/>is taken (I say) into the place appoin
+          <lb ed="#L" n="34"/>ted for those that are saved. For <name>Paul 
+          <lb ed="#L" n="35"/>the Apostle</name> speaking plainely ynough 
+          <lb ed="#L" n="36"/>to be understoode, saith: <quote>Our conver
+          <lb ed="#L" n="37"/>sation is in Heaven, from whence 
+          <lb ed="#L" n="38"/>we looke for kthe Savior to come, 
+          <lb ed="#L" n="39"/>&amp;c. </quote>
+      </p>
+      <p>
+          <lb ed="#L" n="40"/>In the same manner also <name>Luke the 
+          <lb ed="#L" n="41"/>Evangelist</name> saith: <quote>And blessing them, 
+          <lb ed="#L" n="42"/>he departed from them, and was caried 
+          <lb ed="#L" n="43"/>into Heaven.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="44"/>But whie doe I make so much adoe 
+          <lb ed="#L" n="45"/>about expounding that which is most 
+          <!-- 71.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>evidently declared in the verie Creede 
+          <lb ed="#L" n="2"/>by that which followeth? For the next 
+          <lb ed="#L" n="3"/>is: <quote>He sitteth at the right hand of God 
+          <lb ed="#L" n="4"/>the father almightie.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="5"/>For by this we understande what 
+          <lb ed="#L" n="6"/>kind of place Heaven is, and what our 
+          <lb ed="#L" n="7"/>Lord doth in heaven.
+      </p>
+      <p>
+          <lb ed="#L" n="8"/>It is surely for our frailtie o
+          <lb ed="#L" n="9"/>ver narrowly to seeke out or discusse 
+          <lb ed="#L" n="10"/>the secretes of heaven, and yet it is 
+          <lb ed="#L" n="11"/>not against Religion to enquire after 
+          <lb ed="#L" n="12"/>that that is taught us in the Scrip
+          <lb ed="#L" n="13"/>tures, and so perfectly to remember 
+          <lb ed="#L" n="14"/>it as it is taught us. Our Lord is 
+          <lb ed="#L" n="15"/>simplie said to sit, and taht too, to 
+          <lb ed="#L" n="16"/>sit at the right hande of the father al
+          <lb ed="#L" n="17"/>mightie.
+      </p>
+      <p>
+          <lb ed="#L" n="18"/>Let us therefore see what the right 
+          <lb ed="#L" n="19"/>hand of the father is, and what it is 
+          <lb ed="#L" n="20"/>to sitte at the right hande of the Fa
+          <lb ed="#L" n="21"/>ther.
+      </p>
+      <p>
+          <lb ed="#L" n="22"/>The right hande of the father in 
+          <lb ed="#L" n="23"/>the Scripture hath two significati
+          <lb ed="#L" n="24"/>ons. First the right hand of God is 
+          <lb ed="#L" n="25"/>the place appointed for them that are 
+          <lb ed="#L" n="26"/>saed, and the everlasting felicitie in 
+          <lb ed="#L" n="27"/>heaven. 
+      </p>
+      <p>
+          <lb ed="#L" n="28"/>This did <name>S. Augustine</name> set down to 
+          <lb ed="#L" n="29"/>be marked long before us, who in the 
+          <lb ed="#L" n="30"/>twentie and sixt chapter of his booke 
+          <lb ed="#L" n="31"/>De Agone Christiano writeth, <quote>That 
+          <lb ed="#L" n="32"/>the right hand of the father, is the 
+          <lb ed="#L" n="33"/>everlasting felicitie given to the 
+          <lb ed="#L" n="34"/>Saintes: even as also the left hande 
+          <lb ed="#L" n="35"/>is most rightlie called the continuall 
+          <lb ed="#L" n="36"/>miserie allotted to the ungodlie: not 
+          <lb ed="#L" n="37"/>so that by this meanes that I have 
+          <lb ed="#L" n="38"/>saide the right or lefte hande is to be 
+          <lb ed="#L" n="39"/>understoode in respect of GOD him
+          <lb ed="#L" n="40"/>selfe, but in respect of his creatures 
+          <lb ed="#L" n="41"/>capacitie.</quote> And this did <name>Saint Augu
+          <lb ed="#L" n="42"/>stine</name> speake according to the Scrip
+          <lb ed="#L" n="43"/>tures. For <name>David</name> sayth: <quote>The path 
+          <lb ed="#L" n="44"/>of life shalt thou make knowne 
+          <lb ed="#L" n="45"/>to me the fulnesse of joyes is in thy </quote>
+          <!-- 72.xml -->
+          <pb ed="#L" n="72"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>sight, and at thy right hand is gladnes, 
+          <lb ed="#L" n="2"/>for ever.
+      </p>
+      <p>
+          <lb ed="#L" n="3"/>What else is this than if hee had 
+          <lb ed="#L" n="4"/>saide, <quote>Thou shalt bring me into life, 
+          <lb ed="#L" n="5"/>I say into the verie heavens, where 
+          <lb ed="#L" n="6"/>I shalbe filled with joyes, both by see
+          <lb ed="#L" n="7"/>ing and beholding thee, and also by 
+          <lb ed="#L" n="8"/>enjoying thee. At thy right hand in e
+          <lb ed="#L" n="9"/>ternall blessednsse are joyes everla
+          <lb ed="#L" n="10"/>sting.</quote> In the gospell also wee reade, 
+          <lb ed="#L" n="11"/>that the Sheepe are placed by the 
+          <lb ed="#L" n="12"/>Judge at the right hand and the 
+          <lb ed="#L" n="13"/>Goats at the left. And when the right 
+          <lb ed="#L" n="14"/>hand is taken in this sense, then To 
+          <lb ed="#L" n="15"/>sitte dooth signifie to rest from all la
+          <lb ed="#L" n="16"/>bours, and to live quietly and in hap
+          <lb ed="#L" n="17"/>pie state. For that saying in the Pro
+          <lb ed="#L" n="18"/>phet is verie well knowne: <quote>A man 
+          <lb ed="#L" n="19"/>shall sitte under his Vine.</quote> As if hee 
+          <lb ed="#L" n="20"/>should have said all thinges shall be at 
+          <lb ed="#L" n="21"/>peace, in safetie, and at quiet. So then 
+          <lb ed="#L" n="22"/>this that I have said, is meant by the 
+          <lb ed="#L" n="23"/>right hand of the father: and where 
+          <lb ed="#L" n="24"/>we confesse, that the sonne doth sitte 
+          <lb ed="#L" n="25"/>at the right hand of the father almigh
+          <lb ed="#L" n="26"/>tie, we doe acknowledge, that our 
+          <lb ed="#L" n="27"/>Lorde being delivered from all trou
+          <lb ed="#L" n="28"/>ble and mortall infirmities, doth now 
+          <lb ed="#L" n="29"/>in his humanitie, both rest and re
+          <lb ed="#L" n="30"/>joice in the verie locall place of hea
+          <lb ed="#L" n="31"/>ven, where we beleeve, that both our 
+          <lb ed="#L" n="32"/>soules and bodies shall be, and live for
+          <lb ed="#L" n="33"/>ever.
+      </p>
+      <p>
+          <lb ed="#L" n="34"/>For the Lord himselfe in the Gos
+          <lb ed="#L" n="35"/>pell witnesseth, that in his fathers 
+          <lb ed="#L" n="36"/>house there are many mansions, which 
+          <lb ed="#L" n="37"/>he goeth to prepare, that they may 
+          <lb ed="#L" n="38"/>have a place, and although hee did de
+          <lb ed="#L" n="39"/>part, yet that he woulde returne to 
+          <lb ed="#L" n="40"/>them againe, and take them unto him
+          <lb ed="#L" n="41"/>selfe, that where he is, they also might 
+          <lb ed="#L" n="42"/>be in the same place with him. 
+          <lb ed="#L" n="43"/>Wherefore we belleve, that Christ is 
+          <lb ed="#L" n="44"/>at rest in Heaven where he hath pre
+          <lb ed="#L" n="45"/>pared a place of rest for us also, to re
+          <lb ed="#L" n="46"/>maine in joies everlasting. And for 
+          <!-- 72.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>because our bodies shall not be everie 
+          <lb ed="#L" n="2"/>where in felicitie, but in the onelie 
+          <lb ed="#L" n="3"/>appointed place, therefore said <name>Saint 
+          <lb ed="#L" n="4"/>Augustine</name> truly, that Christ our Lord 
+          <lb ed="#L" n="5"/>according to the measure of his verie 
+          <lb ed="#L" n="6"/>bodie is in some one place of heaven. 
+          <lb ed="#L" n="7"/>And <name>Saint Cyprian</name> saith: <quote>To sit at the 
+          <lb ed="#L" n="8"/>right hand of the father is the myste
+          <lb ed="#L" n="9"/>rie of his fleshe taken uppe into Hea
+          <lb ed="#L" n="10"/>ven.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="11"/>Secondarilie the right hand of God 
+          <lb ed="#L" n="12"/>is put for the vertue, kingdome, pro
+          <lb ed="#L" n="13"/>tection, deliveraunce and power of 
+          <lb ed="#L" n="14"/>God. For <name>David</name> saith: <quote>The Lordes 
+          <lb ed="#L" n="15"/>right hand is hight, the Lordes right 
+          <lb ed="#L" n="16"/>hand doth mightie thinges.</quote> And <name>Mo
+          <lb ed="#L" n="17"/>ses</name> saide, <quote>Thy right hand (O Lorde) 
+          <lb ed="#L" n="18"/>is mgnified in power, they right hand 
+          <lb ed="#L" n="19"/>(O Lord) hath broken the enemie</quote> And 
+          <lb ed="#L" n="20"/>when the right hand is put in this 
+          <lb ed="#L" n="21"/>sense, then To sit doth signifie to raign, 
+          <lb ed="#L" n="22"/>to deliver, to use power, and do the of
+          <lb ed="#L" n="23"/>fice of a Prince.
+      </p>
+      <p>
+          <lb ed="#L" n="24"/>For, saith <name>David</name>: <quote>The Lorde saide 
+          <lb ed="#L" n="25"/>into my Lorde, sit thou at my right 
+          <lb ed="#L" n="26"/>hand, till I make thine enemies thy 
+          <lb ed="#L" n="27"/>footestoole.</quote> And the <name>Prophet Za
+          <lb ed="#L" n="28"/>charie</name> saith. <quote>Beholde the man, that 
+          <lb ed="#L" n="29"/>is called the braunch, he shall budde 
+          <lb ed="#L" n="30"/>out of his place, and builde the Temple 
+          <lb ed="#L" n="31"/>of the Lorde, and sitte and rule upon 
+          <lb ed="#L" n="32"/>his throne, and be a Priest uppon his 
+          <lb ed="#L" n="33"/>seate.</quote> In this sense the right hand of 
+          <lb ed="#L" n="34"/>God is infinite and contained in no 
+          <lb ed="#L" n="35"/>measure of place: whereas wee con
+          <lb ed="#L" n="36"/>fesse, that our Lorde doeth sitte at the 
+          <lb ed="#L" n="37"/>right hand of the father, wee doe pro
+          <lb ed="#L" n="38"/>fesse, that the sonne is exalted above 
+          <lb ed="#L" n="39"/>all thinges, having all things subject 
+          <lb ed="#L" n="40"/>under him selfe, as <ref>Paule in his 
+          <lb ed="#L" n="41"/>first chapter to the Ephesians</ref> saith: 
+          <lb ed="#L" n="42"/><quote>and finally, that the sonne being so 
+          <lb ed="#L" n="43"/>exalted can doe all things, doth raign 
+          <lb ed="#L" n="44"/>in the universall Church doth deli
+          <lb ed="#L" n="45"/>ver them that are his, doth make 
+          <lb ed="#L" n="46"/>intercession to the father in Heaven, 
+          <!-- 73.xml -->
+          <pb ed="#L" n="73"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>and in the power of his Godhead is 
+          <lb ed="#L" n="2"/>present in all places.</quote> For therefore did 
+          <lb ed="#L" n="3"/>the Creede adde Almightinesse to this 
+          <lb ed="#L" n="4"/>sitting of his, where it is saide, He 
+          <lb ed="#L" n="5"/>sitteth at the right hande of the father 
+          <lb ed="#L" n="6"/>almightie. And in <name>Saint Matthew</name> the 
+          <lb ed="#L" n="7"/>Lorde sayth, <quote>To me is given all might 
+          <lb ed="#L" n="8"/>in heaven, and in earth, goe therefore 
+          <lb ed="#L" n="9"/>and bring al nations unto me.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="10"/>So then I suppose that briefly thus 
+          <lb ed="#L" n="11"/>I have well declared what manner of 
+          <lb ed="#L" n="12"/>place heaven is, to wit, a place of qui
+          <lb ed="#L" n="13"/>etnesse, joy, and everlasting felicitie, 
+          <lb ed="#L" n="14"/>wherein the sonne of God doth sit, doth 
+          <lb ed="#L" n="15"/>dwell, and is in his humanitie, as we 
+          <lb ed="#L" n="16"/>also, that are the members of Christ, 
+          <lb ed="#L" n="17"/>shalbe in the verie same place without 
+          <lb ed="#L" n="18"/>all dolour and griefe in joye for ever 
+          <lb ed="#L" n="19"/>more. And although our Lorde be de
+          <lb ed="#L" n="20"/>livered from all grievous businesse, 
+          <lb ed="#L" n="21"/>yet we meane not that he sitteth idel
+          <lb ed="#L" n="22"/>ly leaning on his elbowes. For he is a 
+          <lb ed="#L" n="23"/>king, a Priest, and verie God in the 
+          <lb ed="#L" n="24"/>verie temple of God: he cannot choose 
+          <lb ed="#L" n="25"/>therefore of his naturall propertie and 
+          <lb ed="#L" n="26"/>office but work salvation in the elect, 
+          <lb ed="#L" n="27"/>and do all things, that lie God a king, 
+          <lb ed="#L" n="28"/>and Priest in hande to doe. So then 
+          <lb ed="#L" n="29"/>nowe we all knowe what our Lorde 
+          <lb ed="#L" n="30"/>doth as he sitteth in heaven. Neither 
+          <lb ed="#L" n="31"/>is it any trouble to him at al to do and 
+          <lb ed="#L" n="32"/>worke that which he doth, for he wor
+          <lb ed="#L" n="33"/>keth not of compulsion, but naturally 
+          <lb ed="#L" n="34"/>and of his owne accorde. 
+      </p>
+      <p>
+          <lb ed="#L" n="35"/>Thus and no otherwise did the an
+          <lb ed="#L" n="36"/>cient interpreters of the holie Scrip
+          <lb ed="#L" n="37"/>tures handle this article of our belief. 
+          <lb ed="#L" n="38"/>Some of whose testimonies I will 
+          <lb ed="#L" n="39"/>here alledge. <name>Saint Hierome</name> in his 
+          <lb ed="#L" n="40"/>exposition of <name>Paules</name> first Chapter to 
+          <lb ed="#L" n="41"/>the Ephesians, saith: <quote>he hath decla
+          <lb ed="#L" n="42"/>red the power of God by the simili
+          <lb ed="#L" n="43"/>tude of a man: not because a seate is 
+          <lb ed="#L" n="44"/>placed and God the father sitteth ther 
+          <lb ed="#L" n="45"/>on, having his sonne sitting there with 
+          <lb ed="#L" n="46"/>him: but because we cannot other
+          <!-- 73.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>wise conceive howe the sonne dooth 
+          <lb ed="#L" n="2"/>judge and reigne, but by such wordes 
+          <lb ed="#L" n="3"/>applyed to our capacitie. As therefore 
+          <lb ed="#L" n="4"/>to be next to God, or to depart farre 
+          <lb ed="#L" n="5"/>from him is not to be understood ac
+          <lb ed="#L" n="6"/>cording to the distance of places, but 
+          <lb ed="#L" n="7"/>after mens merites, because the saints 
+          <lb ed="#L" n="8"/>are heard by him, but the sinnes (of
+          <lb ed="#L" n="9"/>whome the Prophete saieth, Beholde 
+          <lb ed="#L" n="10"/>they that gette themselves from thee 
+          <lb ed="#L" n="11"/>shall perish) are removed farre enough 
+          <lb ed="#L" n="12"/>for comming neare him at all. Even so 
+          <lb ed="#L" n="13"/>likewise to bee eyther at the right of 
+          <lb ed="#L" n="14"/>left hande of God is to bee taken so, 
+          <lb ed="#L" n="15"/>that the saints are at his right hand and 
+          <lb ed="#L" n="16"/>sinners at his left. As our saviour 
+          <lb ed="#L" n="17"/>him selfe also in the Gospell affirming 
+          <lb ed="#L" n="18"/>the same doeth say, that at the right 
+          <lb ed="#L" n="19"/>hand are the sheepe, and the goates 
+          <lb ed="#L" n="20"/>at the left. Moreover this verie word 
+          <lb ed="#L" n="21"/>(to Sit) doeth argue the power of a 
+          <lb ed="#L" n="22"/>kingdome, by which God is benefici
+          <lb ed="#L" n="23"/>all to them on whom he doeth vouch
+          <lb ed="#L" n="24"/>safe to sit, in so much as verilie he doth 
+          <lb ed="#L" n="25"/>rule them, and hath them alwayes in 
+          <lb ed="#L" n="26"/>his guiding, &amp; doth turne to his owne 
+          <lb ed="#L" n="27"/>becke or government, the necks of the 
+          <lb ed="#L" n="28"/>that before ran out of the way at ran
+          <lb ed="#L" n="29"/>don, and at libertie.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="30"/><name>Saint Augustine</name> in his booke De 
+          <lb ed="#L" n="31"/>Fide &amp; Symbolo sayth, <quote>We beleeve that 
+          <lb ed="#L" n="32"/>sitteth at the right hande of God 
+          <lb ed="#L" n="33"/>the Father. Yet not so therefore as 
+          <lb ed="#L" n="34"/>though we shoulde thinke that God 
+          <lb ed="#L" n="35"/>the Father is comprehended within 
+          <lb ed="#L" n="36"/>the limittes of a mans bodie: so that 
+          <lb ed="#L" n="37"/>they that thinke of him shoulde ima
+          <lb ed="#L" n="38"/>gine that hee hath both a right and a 
+          <lb ed="#L" n="39"/>left side: And whereas it is sayde that 
+          <lb ed="#L" n="40"/>the Father sitteth, we must not sup
+          <lb ed="#L" n="41"/>pose that he doeth sitte with bended 
+          <lb ed="#L" n="42"/>hammes, least peradventure wee fall 
+          <lb ed="#L" n="43"/>into the same sacriledge for which the 
+          <lb ed="#L" n="44"/>Apostle accurseth them that have 
+          <lb ed="#L" n="45"/>chaunged the glorie of the Incorrup
+          <lb ed="#L" n="46"/>tible God, into the similitude of a cor
+          <!-- 74.xml -->
+          <pb ed="#L" n="74"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>ruptible man. For a detestable thing 
+          <lb ed="#L" n="2"/>it is to place God in such a likenesse in 
+          <lb ed="#L" n="3"/>a Christian Church: and much more 
+          <lb ed="#L" n="4"/>wicked is it to place it in the heart, 
+          <lb ed="#L" n="5"/>where the temple of God is verily and 
+          <lb ed="#L" n="6"/>in deede, if it be cleansed from earth
+          <lb ed="#L" n="7"/>ly desires and errour. We must there
+          <lb ed="#L" n="8"/>fore understand that at the right hand 
+          <lb ed="#L" n="9"/>is as much to say as in greatest happi
+          <lb ed="#L" n="10"/>nesse, where righteousnesse and peace 
+          <lb ed="#L" n="11"/>gladnes is: even as also the Goats 
+          <lb ed="#L" n="12"/>are placed at the left hand, that is in 
+          <lb ed="#L" n="13"/>miserie for their iniquities to their 
+          <lb ed="#L" n="14"/>paine and torment. Whereas God 
+          <lb ed="#L" n="15"/>therefore is said to sit thereby is not 
+          <lb ed="#L" n="16"/>meant the placing of his lims, but his 
+          <lb ed="#L" n="17"/>judicial power, which his majesty ne
+          <lb ed="#L" n="18"/>ver wanteth in bestowing worthie re
+          <lb ed="#L" n="19"/>wardes on those that are worthy of 
+          <lb ed="#L" n="20"/>them.</quote> And so foorth.
+      </p>
+      <p>
+          <lb ed="#L" n="21"/>The blessed Bishop <name>Fulgentius</name> in 
+          <lb ed="#L" n="22"/>his second booke to <name>king Trasimun
+          <lb ed="#L" n="23"/>dus</name>, sayth: <quote>The Lorde, to shewe that 
+          <lb ed="#L" n="24"/>his humanitie is locall, sayth to his 
+          <lb ed="#L" n="25"/>Disciples, I ascended to my father and 
+          <lb ed="#L" n="26"/>to your father, my God and your God. 
+          <lb ed="#L" n="27"/>And by and by after declaring the in
+          <lb ed="#L" n="28"/>comprehensibilitie of his Godhead, he 
+          <lb ed="#L" n="29"/>sayeth to his Disciples: Behold I am 
+          <lb ed="#L" n="30"/>with you alwayes even unto the end of 
+          <lb ed="#L" n="31"/>the world.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="32"/><name>The blessed Martyr and Bishoppe 
+          <lb ed="#L" n="33"/>of Trent Vigilius</name> in his first booke a
+          <lb ed="#L" n="34"/>gainst heresies, sayth: <quote>This was to go 
+          <lb ed="#L" n="35"/>to the Father, and to depart from us, 
+          <lb ed="#L" n="36"/>to take away out of this world the na
+          <lb ed="#L" n="37"/>ture which he tooke of us Thou 
+          <lb ed="#L" n="38"/>seest therefore that it was proper to 
+          <lb ed="#L" n="39"/>the same nature to be taken away, and 
+          <lb ed="#L" n="40"/>to depart from us, according to the 
+          <lb ed="#L" n="41"/>wordes of the Angels which sayd, 
+          <lb ed="#L" n="42"/>This Jesus who is taken up from you, 
+          <lb ed="#L" n="43"/>shall come againe even as yee see him 
+          <lb ed="#L" n="44"/>goe into heaven. For see the myracle, 
+          <lb ed="#L" n="45"/>See the mysterie of both his proper
+          <lb ed="#L" n="46"/>ties: The Sonne of God in his huma
+          <!-- 74.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>nitie is departed from us according to 
+          <lb ed="#L" n="2"/>his divinitie he sayth to us, Behold I 
+          <lb ed="#L" n="3"/>am with you alwaies even unto the end 
+          <lb ed="#L" n="4"/>of the world. If he be with us howe 
+          <lb ed="#L" n="5"/>sayth he? The time shal come when ye 
+          <lb ed="#L" n="6"/>shall desire to see one of the dayes of 
+          <lb ed="#L" n="7"/>the sonne of man and ye shal not see it, 
+          <lb ed="#L" n="8"/>Both he is with us, and not with us. Be
+          <lb ed="#L" n="9"/>cause them, whom he hath left and de
+          <lb ed="#L" n="10"/>parted from in his Godhead, he hath not 
+          <lb ed="#L" n="11"/>left norforsaken in his manhood.</quote> This 
+          <lb ed="#L" n="12"/>sayth he.
+      </p>
+      <p>
+          <lb ed="#L" n="13"/>The seventh Article of our fayth is 
+          <lb ed="#L" n="14"/>this. <quote>From thence he shall come to 
+          <lb ed="#L" n="15"/>judge the quicke and the dead.</quote> In 
+          <lb ed="#L" n="16"/>the former ARticles there is set foorth 
+          <lb ed="#L" n="17"/>and confessed the divine goodnesse, 
+          <lb ed="#L" n="18"/>bountifulnesse and grace in Christ: 
+          <lb ed="#L" n="19"/>nowe also shall be declared the divine 
+          <lb ed="#L" n="20"/>justice, severitie and vengeaunce that 
+          <lb ed="#L" n="21"/>is in him. for there are two comings 
+          <lb ed="#L" n="22"/>of our Lorde Jesus Christ. First he 
+          <lb ed="#L" n="23"/>came basely in the fleshe to bee the re
+          <lb ed="#L" n="24"/>deemer and saviour of the worlde. At 
+          <lb ed="#L" n="25"/>the second time he shall come glorious
+          <lb ed="#L" n="26"/>ly to judgement to be a judge and re
+          <lb ed="#L" n="27"/>venger that will not be inttreated a
+          <lb ed="#L" n="28"/>gainst all unrepentaunt sinners and 
+          <lb ed="#L" n="29"/>wicked doers. And he shall come out of 
+          <lb ed="#L" n="30"/>heaven from the right hand of the FA
+          <lb ed="#L" n="31"/>ther in his visible and verie humane 
+          <lb ed="#L" n="32"/>bodie, to be seene of all flesh, with the 
+          <lb ed="#L" n="33"/>incomprehensible power of his God 
+          <lb ed="#L" n="34"/>head, and being attended on by all the 
+          <lb ed="#L" n="35"/>Angels. For the Lord himselfe in the 
+          <lb ed="#L" n="36"/>Gospell sayth: <quote>They shall see the sonne 
+          <lb ed="#L" n="37"/>of man coming in the cloudes of hea
+          <lb ed="#L" n="38"/>ven with great power and glory, &amp; he 
+          <lb ed="#L" n="39"/>shal send his angels with ye great sound 
+          <lb ed="#L" n="40"/>of a trump. &amp;c</quote> But now to judge is to 
+          <lb ed="#L" n="41"/>sit in the tribunal seate, to heare and dis
+          <lb ed="#L" n="42"/>cusse matters, to take up strifes to de
+          <lb ed="#L" n="43"/>termine and give sentence, and lastly 
+          <lb ed="#L" n="44"/>to defend &amp; deliver, and againe to cha
+          <lb ed="#L" n="45"/>stise and punish, &amp; by ye meanes to keep 
+          <lb ed="#L" n="46"/>under &amp; suppresse injurie and malice.
+          <!-- 75.xml -->
+          <pb ed="#L" n="75"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>We beleeve therefore that our Lorde 
+          <lb ed="#L" n="2"/>Jesus Christ in that day shall deliver 
+          <lb ed="#L" n="3"/>all the godly and destroy al ye wicked: 
+          <lb ed="#L" n="4"/>according to the wordes of <name>the Apostle</name>
+          <lb ed="#L" n="5"/>who sayth: <quote>Our Lord shall be revealed 
+          <lb ed="#L" n="6"/>fro heaven with the Angels of hs peo
+          <lb ed="#L" n="7"/>wer, with a burning flame, and shall 
+          <lb ed="#L" n="8"/>lay vengeance on them that have not 
+          <lb ed="#L" n="9"/>knowne God:</quote> And againe, the same 
+          <lb ed="#L" n="10"/>just judge shall give a crowne of righ
+          <lb ed="#L" n="11"/>teousnesse to all them that love his fco
+          <lb ed="#L" n="12"/>ming. The manner of this judgement 
+          <lb ed="#L" n="13"/>the writings of the Evangelistes &amp; A
+          <lb ed="#L" n="14"/>postles doe tell us, shall be in this fort. 
+          <lb ed="#L" n="15"/>When once the wickednesse of this 
+          <lb ed="#L" n="16"/>world shall come to the full, &amp; that An
+          <lb ed="#L" n="17"/>tichrist shall have deceived the world, 
+          <lb ed="#L" n="18"/>so that there is but little faith remai
+          <lb ed="#L" n="19"/>ning, &amp; that the wicked shall say peace 
+          <lb ed="#L" n="20"/>and quitnesse, then shall a sodaine de
+          <lb ed="#L" n="21"/>structio come. For our Lord the judge 
+          <lb ed="#L" n="22"/>shall sende his Archangel, to blowe the 
+          <lb ed="#L" n="23"/>trump &amp; to gather together from the 
+          <lb ed="#L" n="24"/>foure winds al flesh to judgemet: by &amp; 
+          <lb ed="#L" n="25"/>by after shall the judge him selfe our 
+          <lb ed="#L" n="26"/>Lord Jesus Christ follow with all the 
+          <lb ed="#L" n="27"/>hoast of heaven: &amp; he shall descend out 
+          <lb ed="#L" n="28"/>of heaven into the cloudes: and fitting 
+          <lb ed="#L" n="29"/>aloft in the cloudes as in a judgement 
+          <lb ed="#L" n="30"/>seate, shalbe easilie seene of al flesh For 
+          <lb ed="#L" n="31"/>they that shall bee then living at the 
+          <lb ed="#L" n="32"/>day of judgement shall in a very prick 
+          <lb ed="#L" n="33"/>of time by changed, &amp; stande before the 
+          <lb ed="#L" n="34"/>indge: and all the deade shall in a mo
+          <lb ed="#L" n="35"/>ment rise up againe. Then shall the 
+          <lb ed="#L" n="36"/>judge divide the sheepe from the goats: 
+          <lb ed="#L" n="37"/>&amp; according to justice shal give judge
+          <lb ed="#L" n="38"/>met with the sheep &amp;against the goats 
+          <lb ed="#L" n="39"/>saying. <quote>Come ye blessed &amp;c.</quote> And, <quote>Goe 
+          <lb ed="#L" n="40"/>ye cursed. &amp;c.</quote> Presently after shall fol
+          <lb ed="#L" n="41"/>lowe execution. For the sheepe shall by 
+          <lb ed="#L" n="42"/>and by be caught up into the clouds to 
+          <lb ed="#L" n="43"/>meete ye Lord in the ayre, &amp; shal ascend 
+          <lb ed="#L" n="44"/>with him joyfully into heaven to the 
+          <lb ed="#L" n="45"/>right hand of God the father, there to 
+          <lb ed="#L" n="46"/>live for ever in glorie &amp; gladnesse. The 
+          <!-- 75.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>bottome of the earth shall gape for the 
+          <lb ed="#L" n="2"/>wicked, &amp; shall sucke them all by hor
+          <lb ed="#L" n="3"/>ribly, &amp; send them downe to hell, there 
+          <lb ed="#L" n="4"/>to be tormented for ever with Satan 
+          <lb ed="#L" n="5"/>and his angels. All this shall be done 
+          <lb ed="#L" n="6"/>not by any long, troublesom or chage
+          <lb ed="#L" n="7"/>able processe, as is used in our Courts 
+          <lb ed="#L" n="8"/>of lawe, but even in the twinckling of 
+          <lb ed="#L" n="9"/>an eye. For then shall all mens hearts 
+          <lb ed="#L" n="10"/>be laide open &amp; everie mans own con
+          <lb ed="#L" n="11"/>science shall accurse himselfe. This is 
+          <lb ed="#L" n="12"/>more at lage set out in Mat. 24. &amp;25.
+          <lb ed="#L" n="13"/>Wis. 3. &amp; 5.1. Cor. 15.2. Cor.5.1. The 
+          <lb ed="#L" n="14"/>4.5. Rom. 2.2. Yet. 3.&amp;c. Nower we doe 
+          <lb ed="#L" n="15"/>simply confesse that the quicke and the 
+          <lb ed="#L" n="16"/>dead shalbe judged. This doe some ex
+          <lb ed="#L" n="17"/>pound of the godly &amp; ungodly. But the 
+          <lb ed="#L" n="18"/>/>Symbole or Creede, was ordeyned for 
+          <lb ed="#L" n="19"/>the most simple of understanding. And 
+          <lb ed="#L" n="20"/>simple thinges are fittest for to teach 
+          <lb ed="#L" n="21"/>simple men. Therefore we say simply ye 
+          <lb ed="#L" n="22"/>the dead are all they, that from the be
+          <lb ed="#L" n="23"/>ginning of the worlde even until the 
+          <lb ed="#L" n="24"/>last day are departed out of this mor
+          <lb ed="#L" n="25"/>tall life. And the living are they which 
+          <lb ed="#L" n="26"/>at that day shalbe alive in this world. 
+          <lb ed="#L" n="27"/>For the Apostle saith: <quote>Behold I tell you 
+          <lb ed="#L" n="28"/>a mysterie, we shall not all sleepe, but 
+          <lb ed="#L" n="29"/>wee shall all be channged by the last 
+          <lb ed="#L" n="30"/>trump in a moment of time and in the 
+          <lb ed="#L" n="31"/>twinckling of an eye. For the trumpe 
+          <lb ed="#L" n="31"/>shal sounde, and the dead shall rise a
+          <lb ed="#L" n="32"/>shal sounde, and the dead shall rise a
+          <lb ed="#L" n="33"/>gaine incorruptible, and wee shall bee
+          <lb ed="#L" n="34"/>chaunged.</quote>
+      </p>
+      <p>
+          <lb ed="#L" n="35"/>And again in another place the same 
+          <lb ed="#L" n="36"/>Apostle sayth: <quote>This I say unto you in 
+          <lb ed="#L" n="37"/>the worde of the Lord, that we, which 
+          <lb ed="#L" n="38"/>shal live and be remaining at the com
+          <lb ed="#L" n="39"/>ming of the Lorde, shall not prevent 
+          <lb ed="#L" n="40"/>them which are a sleepe. Because the 
+          <lb ed="#L" n="41"/>Lorde himselfe shall come downe out 
+          <lb ed="#L" n="42"/>of heaven with a great noyse, and the 
+          <lb ed="#L" n="43"/>voice of an Archangell and the trump 
+          <lb ed="#L" n="44"/>of God, and first shall the deade in 
+          <lb ed="#L" n="45"/>Christ rise, up againe, then shall we 
+          <lb ed="#L" n="46"/>which shall be alive and be remaining,
+          <!-- 76.xml -->
+          <pb ed="#L" n="76"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>be caught up together with them in 
+          <lb ed="#L" n="2"/>the cloudes into the ayre to meete the 
+          <lb ed="#L" n="3"/>Lorde: and so shall we be with the 
+          <lb ed="#L" n="4"/>Lord for evermore.</quote>
+      </p>
+     <p>
+          <lb ed="#L" n="5"/>Wee confesse therefore in this se
+          <lb ed="#L" n="6"/>veth Article that wee beleeve there 
+          <lb ed="#L" n="7"/>shall bee an ende of all thinges in 
+          <lb ed="#L" n="8"/>this world, and that the felicitie of the 
+          <lb ed="#L" n="9"/>wicked shall not endure for ever. For 
+          <lb ed="#L" n="10"/>we beleve that God is a just God who 
+          <lb ed="#L" n="11"/>hath given all judgement unto his 
+          <lb ed="#L" n="12"/>Son, to repay to everie one in that day 
+          <lb ed="#L" n="13"/>according to his works, paines to the 
+          <lb ed="#L" n="14"/>wicked that never shall be ended, and 
+          <lb ed="#L" n="15"/>to the godly joyes everlasting. And so 
+          <lb ed="#L" n="16"/>in this Article wee professe that wee 
+          <lb ed="#L" n="17"/>looke for a deliverance, a ceasing from 
+          <lb ed="#L" n="18"/>troubbles, and the reward of life ever
+          <lb ed="#L" n="19"/>lasting. For nowe shoulde hee destroy 
+          <lb ed="#L" n="20"/>them that beleeve in him, his people, 
+          <lb ed="#L" n="21"/>and his servauntes, who in the most 
+          <lb ed="#L" n="22"/>true Gospell sayeth: <quote>Verily I say unto 
+          <lb ed="#L" n="23"/>you that ye, which have followed me 
+          <lb ed="#L" n="24"/>in the regeneration, when the Sonne 
+          <lb ed="#L" n="25"/>of man shall sit on the seate of his ma
+          <lb ed="#L" n="26"/>jestie, yee also shall sit upon twleve 
+          <lb ed="#L" n="27"/>seates judging the twelve tribes of Is
+          <lb ed="#L" n="28"/>raell.</quote> There are most certaine re
+          <lb ed="#L" n="29"/>wardes and penalties appointed for 
+          <lb ed="#L" n="30"/>the godly and ungodly in the worde of 
+          <lb ed="#L" n="31"/>trueth. He can not lie that saide to E
+          <lb ed="#L" n="32"/>say, <quote>Say to the righteous that it shall 
+          <lb ed="#L" n="33"/>goe well with him, for he shall injoy 
+          <lb ed="#L" n="34"/>the fruite of his studie. But woe be to 
+          <lb ed="#L" n="35"/>the wicked, it shall be evill with him, 
+          <lb ed="#L" n="36"/>for he shall be rewarded according to 
+          <lb ed="#L" n="37"/>the workes of his owne handes.</quote> And 
+          <lb ed="#L" n="38"/>thus much touching the seconde part 
+          <lb ed="#L" n="39"/>of the Creede. Nowe are wee come to 
+          <lb ed="#L" n="40"/>the thirde part.
+     </p>
+     <p>
+          <lb ed="#L" n="41"/>The eight Article of our beleife is 
+          <lb ed="#L" n="42"/>this, I beleeve in the holy Ghost. This 
+          <lb ed="#L" n="43"/>thirde part of the Creede contayneth 
+          <lb ed="#L" n="44"/>the propertie of the third person in the 
+          <lb ed="#L" n="45"/>reverend Trinitie. And we doe right
+          <lb ed="#L" n="46"/>ly beleeve in the holy Ghost, as wel as 
+          <!-- 76.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>in the father and the son. For the ho
+          <lb ed="#L" n="2"/>ly Ghost is one God with the Father 
+          <lb ed="#L" n="3"/>and the Sonne: and rightly is faith in 
+          <lb ed="#L" n="4"/>the holy Ghost joyned to faith in the 
+          <lb ed="#L" n="5"/>Father and the Sonne. For by him 
+          <lb ed="#L" n="6"/>the fruite of Gods salvation fulfilles 
+          <lb ed="#L" n="7"/>in the sonne is sealed to us, and our 
+          <lb ed="#L" n="8"/>sanctification and cleansing is besto
+          <lb ed="#L" n="9"/>wed on us, and derived from him to 
+          <lb ed="#L" n="10"/>us by the holy Ghost. For the Apo
+          <lb ed="#L" n="11"/>stle sayth: <quote>God which annointed us, is 
+          <lb ed="#L" n="12"/>he also which hath sealed us, and hath 
+          <lb ed="#L" n="13"/>given the earnest of the spirite in our 
+          <lb ed="#L" n="14"/>hearts.</quote> And againe, <quote>Ye were in deede 
+          <lb ed="#L" n="15"/>defiled with naughtinesse, but nowe 
+          <lb ed="#L" n="16"/> yee are cleansed and sanctified, and 
+          <lb ed="#L" n="17"/>lastlie justified through the name of 
+          <lb ed="#L" n="18"/>the Lorde Jesus, and by the spirite of 
+          <lb ed="#L" n="19"/>our God.</quote> The Father in deede doeth
+          <lb ed="#L" n="20"/>sanctifie too, but by the bloud of Jesus 
+          <lb ed="#L" n="21"/>Christ, and powreth the same sanctifi
+          <lb ed="#L" n="22"/>cation out of him into us by the holy 
+          <lb ed="#L" n="23"/>Ghost: so that it is as it were the pro
+          <lb ed="#L" n="24"/>pertie of the holie Ghost to sanctifie
+          <lb ed="#L" n="25"/>whereupon hee is called Holy or the 
+          <lb ed="#L" n="26"/>sanctifier. Therefore so often as wee 
+          <lb ed="#L" n="27"/>heare the holie Ghost named, we must 
+          <lb ed="#L" n="28"/>by and by thinke of the power in wor
+          <lb ed="#L" n="29"/>king, which the Scripture attributeth 
+          <lb ed="#L" n="30"/>to him, and we must looke after the be
+          <lb ed="#L" n="31"/>nefites that from him doe flowe to us. 
+          <lb ed="#L" n="32"/>For the power, operation, or action of 
+          <lb ed="#L" n="33"/>the spirite is that, what so ever the 
+          <lb ed="#L" n="34"/>grace of God doth work in us through 
+          <lb ed="#L" n="35"/>the Sonne: so that of necessitie wee 
+          <lb ed="#L" n="36"/>must beleeve in the holie Ghost. And 
+          <lb ed="#L" n="37"/>in this eight Article we doe professe, 
+          <lb ed="#L" n="38"/>that we doe verily beleeve that all the 
+          <lb ed="#L" n="39"/>faithfull are cleansed, washed regene
+          <lb ed="#L" n="40"/>rated, sanctified, inlightned, and inri
+          <lb ed="#L" n="41"/>ched of God with divers gifts of grace 
+          <lb ed="#L" n="42"/>for Christ his sake, but yet through ye 
+          <lb ed="#L" n="43"/>holy Ghost. For without him there is 
+          <lb ed="#L" n="44"/>no true sanctification: wherefore we 
+          <lb ed="#L" n="45"/>ought not to attribute these giftes of 
+          <lb ed="#L" n="46"/>grace to any other meanes: this glory 
+          <!-- 77.xml -->
+          <pb ed="#L" n="77"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>belongeth to the holie Ghost onely Of 
+          <lb ed="#L" n="2"/>whome I will more largely and fully 
+          <lb ed="#L" n="3"/>discourse in my other Sermons.
+     </p>
+     <p>
+          <lb ed="#L" n="4"/>The houre is spent which warneth 
+          <lb ed="#L" n="5"/>me to wrappe up briefly and make an 
+          <lb ed="#L" n="6"/>end, therefore I exhort you all to have 
+          <lb ed="#L" n="7"/>your faith religiously bent uppon the 
+          <lb ed="#L" n="8"/>Lord Jesus: for him hath the heaven
+          <lb ed="#L" n="9"/>ly father sent to us, in him that hee 
+          <lb ed="#L" n="10"/>wholely expressed and shewed himselfe 
+          <lb ed="#L" n="11"/>to us, and him doeth the holie Ghost 
+          <lb ed="#L" n="12"/>print in our heartes and keepe in our 
+          <lb ed="#L" n="13"/>mindes. And in Christ is all mans sal
+          <lb ed="#L" n="14"/>vation and everie part thereof contai
+          <lb ed="#L" n="15"/>ned: Wherefore we must beware that 
+          <lb ed="#L" n="16"/>we derive it not from anie thing else.
+          <lb ed="#L" n="17"/><quote>It pleased the father</quote> (saith the Apostle) 
+          <lb ed="#L" n="18"/><quote>that all fulnesse shoulde dwell in the 
+          <lb ed="#L" n="19"/>Sonne,</quote> and in him to recapitulate and 
+          <lb ed="#L" n="20"/>as it were to bring into a summe all 
+          <lb ed="#L" n="21"/>points of salvation, that in him all the 
+          <lb ed="#L" n="22"/>faithfull may be fulfilled. For it sal
+          <lb ed="#L" n="23"/>vation be sought, then even by his ve
+          <lb ed="#L" n="24"/>ry name are we taught that salvation 
+          <lb ed="#L" n="25"/>is in his power. For hee is called Je
+          <lb ed="#L" n="26"/>sus, that is a saviour. If we desire the 
+          <lb ed="#L" n="27"/>holy spirite of God &amp; his sundry gifts, 
+          <lb ed="#L" n="28"/>we shall finde them also in the annoin
+          <lb ed="#L" n="29"/>ting of Christ. For he is called Christ, 
+          <lb ed="#L" n="30"/>the annoynted I saye, the holie of 
+          <lb ed="#L" n="31"/>holies, and the sanctifier, or else the an
+          <lb ed="#L" n="32"/>noynter of us with his spirite. If any 
+          <lb ed="#L" n="33"/>man have need of strength and might, 
+          <lb ed="#L" n="34"/>of power and deliveraunce, well hee 
+          <lb ed="#L" n="35"/>hath to looke for it in Christ his domi
+          <lb ed="#L" n="36"/>nion. For Christ is Lorde of all. In 
+          <lb ed="#L" n="37"/>the same Christ we finde redemption. 
+          <lb ed="#L" n="38"/>For he hath redeemed us that were 
+          <!-- 77.xml -->
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="1"/>solde under Sathans yoake. In his 
+          <lb ed="#L" n="2"/>conception we have puritie, in his na
+          <lb ed="#L" n="3"/>tivitie we have sufferance. For he be 
+          <lb ed="#L" n="4"/>came like to us, that hee might suffer 
+          <lb ed="#L" n="5"/>griefe as well as wee. For in his pas
+          <lb ed="#L" n="6"/>sion we have forgivenesse of sinnes, in 
+          <lb ed="#L" n="7"/>his condemnation wee have absoluti
+          <lb ed="#L" n="8"/>on, satisfactio in his offering or clean
+          <lb ed="#L" n="9"/>sing sacrifice, cleansing in his bloud, 
+          <lb ed="#L" n="10"/>and an universal reconciliation in his 
+          <lb ed="#L" n="11"/>descending into hell. In his buriall 
+          <lb ed="#L" n="12"/>we have the mortification of our flesh, 
+          <lb ed="#L" n="13"/>the newnesse of life, yea rather the im
+          <lb ed="#L" n="14"/>mortalitie of the soule, and resurrectio
+          <lb ed="#L" n="15"/>on of our bodies in his glorious resur
+          <lb ed="#L" n="16"/>rection. He have also the inheritance 
+          <lb ed="#L" n="17"/>of the heavenly kingdome, with the 
+          <lb ed="#L" n="18"/>allured sealing thereof in his ascension 
+          <lb ed="#L" n="19"/>and sitting at the right hand of the fa
+          <lb ed="#L" n="20"/>ther. And there is hee our mediatour, 
+          <lb ed="#L" n="21"/>priest and king, our safegarde and our 
+          <lb ed="#L" n="22"/>heade, our defender and most sure 
+          <lb ed="#L" n="23"/>rest. 
+     </p>
+    <p>
+          <lb ed="#L" n="24"/>From thence he poureth into us his 
+          <lb ed="#L" n="25"/>holy spirite, the fulnesse of all good 
+          <lb ed="#L" n="26"/>thinges: and doeth communicate him
+          <lb ed="#L" n="27"/>selfe wholy to us, joyning us unto him
+          <lb ed="#L" n="28"/>selfe with an indissoluble knot. From 
+          <lb ed="#L" n="29"/>thence we doe with confidence and joy 
+          <lb ed="#L" n="30"/>looke for him to be our judge, to bee I 
+          <lb ed="#L" n="31"/>say our patron and deliverer, which 
+          <lb ed="#L" n="32"/>shall condemne and sende downe hed 
+          <lb ed="#L" n="33"/>long into hell all our enemies with sa
+          <lb ed="#L" n="34"/>than: but shall take us and al the faith, 
+          <lb ed="#L" n="35"/>full of everie age up into heaven with 
+          <lb ed="#L" n="36"/>himselfe, there to sing a new song, and 
+          <lb ed="#L" n="37"/>to rejoyce in him forever and ever. 
+          <lb ed="#L" n="38"/>To him be glorie for ever. Amen. 
+          <!-- 77.xml -->
+          <cb ed="#L" n="c"/>
+          <lb ed="#L" n="1"/>Of the latter Articles of Christian faith contained
+          <lb ed="#L" n="2"/>in the Apostles Creede.
+      </p>
+    </div>
+  </body>
+</text>
+</TEI>
+          
