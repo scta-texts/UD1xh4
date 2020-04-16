@@ -4,7 +4,7 @@
       <titleStmt>
         <title>Decimas 5, Sermo 10 [London 1587 Transcription]</title>
         <author ref="#HenrichBullinger">Henrich Bullinger</author>
-        <editor>Charlotte Feidicker</editor>
+        <editor>Dr. Jeffrey C. Witt</editor>
         <editor>Ema-Joanne M. Brauchler </editor>
       </titleStmt>
       <editionStmt>
@@ -50,6 +50,8 @@
     <body>
       <div xml:id="UD1xh4-7yMcbW">
         <p><!--1112.xml-->
+          <!-- 1082.xml for me -->
+          <cb ed="#L" n="a"/>
           <lb ed="#L" n="11"/>There remaine certaine 
           <lb ed="#L" n="12"/>things but a few true 
           <lb ed="#L" n="13"/>ly, which are to bee ex 
@@ -65,6 +67,8 @@
           <lb ed="#L" n="23"/>as the Lorde shall give mee grace to 
           <lb ed="#L" n="24"/>speake, I intende as briefly as I can 
           <lb ed="#L" n="25"/>to intreate. 
+        </p>
+        <p>
           <lb ed="#L" n="26"/>First of all we must know that the 
           <lb ed="#L" n="27"/>Lorde our God hath not burdened his 
           <lb ed="#L" n="28"/>church with over manie lawes &amp; in 
@@ -72,6 +76,8 @@
           <lb ed="#L" n="30"/>easily to be numbered, &amp; those not costly,  
           <lb ed="#L" n="31"/>nor intricate, nor long, but profitable, 
           <lb ed="#L" n="32"/>simple, plaine and short. 
+        </p>
+        <p>
           <lb ed="#L" n="33"/>In time past, when as under the law 
           <lb ed="#L" n="34"/>the Lord appointed unto the people a 
           <lb ed="#L" n="35"/>costly and sumptuous worshipping of  
@@ -81,9 +87,10 @@
           <lb ed="#L" n="39"/>thing added to, or taken from it at the 
           <lb ed="#L" n="40"/>pleasure of men, or to bee otherwise b 
           <lb ed="#L" n="41"/>led than he had appointed. 
+        </p>
+        <p>
           <!--1112.xml-->
-          <pb ed="#L" n="1112-"/>
-          <cb ed="#L" n="a"/>
+          <cb ed="#L" n="b"/>
           <lb ed="#L" n="42"/>Who then will thinke, that after 
           <lb ed="#L" n="43"/>the abrogating of the Lawe, the Lord 
           <lb ed="#L" n="44"/>would deliver unto the Church of his 
@@ -106,6 +113,8 @@
           <lb ed="#L" n="61"/>decked and furnished, if she retaine and 
           <lb ed="#L" n="62"/>keep the institutions of her God and 
           <lb ed="#L" n="63"/>Lorde. 
+        </p>
+        <p>
           <lb ed="#L" n="64"/>The chiefe and principall poyntes 
           <lb ed="#L" n="65"/>of the Godlinesse of the Church of  
           <lb ed="#L" n="66"/>GOD, are the sincere teaching of  
@@ -116,7 +125,7 @@
           <lb ed="#L" n="71"/>administration &amp; receiving of Christes 
           <lb ed="#L" n="72"/>sacramets wehreof we have intreated 
           <!--1113.xml-->
-          <pb ed="#L" n="1113-"/>
+          <pb ed="#L" n="1113"/>
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>hitherto through the Decades. Here 
           <lb ed="#L" n="2"/>unto belongeth Charitie also, which 
@@ -125,16 +134,18 @@
           <lb ed="#L" n="5"/>what alreadie in the first Decade, and 
           <lb ed="#L" n="6"/>will have somewhat else in this Ser 
           <lb ed="#L" n="7"/>mon. 
-          <lb ed="#L" n="8"/>Neyther doeth Luke in the Actes 
+        </p>
+        <p>
+          <lb ed="#L" n="8"/>Neyther doeth <name>Luke</name> in the Actes 
           <lb ed="#L" n="9"/>make mention of any other things, de 
           <lb ed="#L" n="10"/>scribing what manner of Church the 
           <lb ed="#L" n="11"/>faithfull primitive Church of Christe 
           <lb ed="#L" n="12"/>was, being founded by the Apostles, &amp; 
           <lb ed="#L" n="13"/>what were the principal points thereof. 
-          <lb ed="#L" n="14"/>They were continuing, sayeth he, in 
+          <lb ed="#L" n="14"/><quote>They were continuing,</quote> sayeth he, <quote>in 
           <lb ed="#L" n="15"/>the doctrine of the Apostles, and in 
           <lb ed="#L" n="16"/>communicating, and in breaking of 
-          <lb ed="#L" n="17"/>bread and in prayer. Under these few 
+          <lb ed="#L" n="17"/>bread and in prayer.</quote> Under these few 
           <lb ed="#L" n="18"/>points all godlinesse is comprised. Un 
           <lb ed="#L" n="19"/>to the Ecclesiastical ministery are joy 
           <lb ed="#L" n="20"/>ned these that folow. Christian schooles 
@@ -145,33 +156,36 @@
           <lb ed="#L" n="25"/>have understoode that without schooles 
           <lb ed="#L" n="26"/>no kingdomes or common weales can 
           <lb ed="#L" n="27"/>happily be maintained. And therefore 
-          <lb ed="#L" n="28"/>not onely Moses in the book of Ge 
-          <lb ed="#L" n="29"/>nesis, but also Strabo in the 17. booke 
-          <lb ed="#L" n="30"/>of his Geographie, reporteth how that 
+          <lb ed="#L" n="28"/>not onely <name>Moses</name> in the book of <ref>Ge 
+          <lb ed="#L" n="29"/>nesis</ref>, but also <name>Strabo</name> in the <ref>17. booke 
+            <lb ed="#L" n="30"/>of his <title>Geographie</title></ref>, reporteth how that 
           <lb ed="#L" n="31"/>among the Egyptians were instituted 
           <lb ed="#L" n="32"/>most famous Colledges for Priestes &amp; 
           <lb ed="#L" n="33"/>Philosophers. Histories also make 
           <lb ed="#L" n="34"/>mention, that the most noble men of al 
           <lb ed="#L" n="35"/>the worlde, travayled into Egypt to 
           <lb ed="#L" n="36"/>obtaine wisedome, in which number 
-          <lb ed="#L" n="37"/>Plato also is saide to be the first of the 
+          <lb ed="#L" n="37"/><name>Plato</name> also is saide to be the first of the 
           <lb ed="#L" n="38"/>chiefe and principall among the Phil 
           <lb ed="#L" n="39"/>losophers. 
+        </p>
+        <p>
           <lb ed="#L" n="40"/>Neither is it unadvisedly written 
-          <lb ed="#L" n="41"/>in the booke of the Kinges, that Salo 
-          <lb ed="#L" n="42"/>mon excelled the wise men of the E 
-          <lb ed="#L" n="43"/>gyptians in wisedome. And not onely  
+          <lb ed="#L" n="41"/>in the <ref>booke of the Kinges</ref>, that <name>Salo<lb ed="#L" n="42" break="no"/>mon</name> 
+          excelled the wise men of the E<lb ed="#L" n="43"/>gyptians 
+          in wisedome. And not onely  
           <lb ed="#L" n="44"/>the Egyptians, but also the Pale 
           <lb ed="#L" n="45"/>stines, a Nation more famous for 
           <!--1113.xml-->
-          <pb ed="#L" n="1113-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="46"/>warres than for learning, are sayde  
           <lb ed="#L" n="47"/>to have had their Priests, of whom  
           <lb ed="#L" n="48"/>they asked cousell in matters of doubt,  
-          <lb ed="#L" n="49"/>as writeth Samuel in his holie Hi 
+          <lb ed="#L" n="49"/>as writeth <name>Samuel</name> in his holie Hi 
           <lb ed="#L" n="50"/>storie. 
-          <lb ed="#L" n="51"/>And Daniel also witnesseth, that  
+        </p>
+        <p>
+          <lb ed="#L" n="51"/>And <name>Daniel</name> also witnesseth, that  
           <lb ed="#L" n="52"/>the Babylonians had moste famous  
           <lb ed="#L" n="53"/>Schooles, as also had the Medes and  
           <lb ed="#L" n="54"/>Persians, from whence sprang foorth 
@@ -187,6 +201,8 @@
           <lb ed="#L" n="64"/>mitting foreine examples, let us al 
           <lb ed="#L" n="65"/>ledge our owne or such as are Ecclesi 
           <lb ed="#L" n="66"/>asticall. 
+        </p>
+        <p>
           <lb ed="#L" n="67"/>God, who gave unto his people, a 
           <lb ed="#L" n="68"/>moste absolute fourme of an happie  
           <lb ed="#L" n="69"/>Common weale and kingdome, distri 
@@ -196,13 +212,15 @@
           <lb ed="#L" n="73"/>were called Leviticall. For hee had 
           <lb ed="#L" n="74"/>consecrated all the Leviticall Tribe,  
           <lb ed="#L" n="75"/>unto the Priesthood and to studies: 
-          <lb ed="#L" n="76"/>not for that it was not also lawful for  
+          <lb ed="#L" n="76"/>Not for that it was not also lawful for  
           <lb ed="#L" n="77"/>Gentlemen of other Tribes to studie 
           <lb ed="#L" n="78"/>Philosophie or wisedome: but because  
           <lb ed="#L" n="79"/>the Levites were peculiarlie appoin 
           <lb ed="#L" n="80"/>ted unto holy studies.  
-          <lb ed="#L" n="81"/>For it is evident, that Clay and Da 
-          <lb ed="#L" n="82"/>niel, two of the most bright lights of  
+        </p>
+        <p>
+          <lb ed="#L" n="81"/>For it is evident, that <name>Clay</name> and <name>Da 
+          <lb ed="#L" n="82"/>niel</name>, two of the most bright lights of  
           <lb ed="#L" n="83"/>them that prophecied were of the tribe 
           <lb ed="#L" n="84"/>of Juda. Other Tribes also have 
           <lb ed="#L" n="85"/>brought foorth mi right singular in all 
@@ -211,6 +229,8 @@
           <lb ed="#L" n="88"/>Priestly, not that Preists onely dwelt 
           <lb ed="#L" n="89"/>in them, but because they had Syna 
           <lb ed="#L" n="90"/>gogues in them.  
+        </p>
+        <p>.
           <!--1114.xml-->
           <pb ed="#L" n="1114-"/>
           <cb ed="#L" n="a"/>
@@ -219,25 +239,29 @@
           <lb ed="#L" n="3"/>a schoole surpassing all other, &amp; in ma 
           <lb ed="#L" n="4"/>ner of an universitie, as they call them  
           <lb ed="#L" n="5"/>now adaies.  
+        </p>
+        <p>
           <lb ed="#L" n="6"/>And the same holie historie witnes 
           <lb ed="#L" n="7"/>seth that most famous men had the go 
           <lb ed="#L" n="8"/>vernment of those schooles. For wee 
-          <lb ed="#L" n="9"/>read in Kama that samuel, who was 
+          <lb ed="#L" n="9"/>read in <ref>Kama</ref> that <name>Samuel</name>, who was 
           <lb ed="#L" n="10"/>the verie chiefest in all wisedome, god 
           <lb ed="#L" n="11"/>lines, and learning, was governour 
           <lb ed="#L" n="12"/>and principal of Naioth, that is to say, 
           <lb ed="#L" n="13"/>ye Burse (as they terme it) or Colledge 
-          <lb ed="#L" n="14"/>of Prophetes. Helias and Heliieus 
+          <lb ed="#L" n="14"/>of Prophetes. <name>Helias</name> and <name>Heliieus</name> 
           <lb ed="#L" n="15"/>the most cleare lightes of the Church 
           <lb ed="#L" n="16"/>of Israel, were rules over the schoole 
-          <lb ed="#L" n="17"/>of Hierico and Gilgal. That naugh 
-          <lb ed="#L" n="18"/>tie Jeroboam did pul downe ye schooles 
+          <lb ed="#L" n="17"/>of <name>Hierico</name> and <name>Gilgal</name>. That naugh 
+          <lb ed="#L" n="18"/>tie <name>Jeroboam</name> did pul downe ye schooles 
           <lb ed="#L" n="19"/>and tread under foote the order of the 
           <lb ed="#L" n="20"/>Priests, and places without all choice 
           <lb ed="#L" n="21"/>some that were of the refuse of the 
           <lb ed="#L" n="22"/>people in their places. 
-          <lb ed="#L" n="23"/>But the men of God Helias and He 
-          <lb ed="#L" n="24"/>liseus knew wel, that without schooles 
+        </p>
+        <p>
+          <lb ed="#L" n="23"/>But the men of God Helias and <name>He 
+          <lb ed="#L" n="24"/>liseus</name> knew wel, that without schooles 
           <lb ed="#L" n="25"/>the sound docrine could not flourish or 
           <lb ed="#L" n="26"/>be preserved: and therefore they ap 
           <lb ed="#L" n="27"/>plyed their selves wholly to the renu 
@@ -245,7 +269,7 @@
           <lb ed="#L" n="29"/>butes were denied them, being by wic 
           <lb ed="#L" n="30"/>ked Princes bestowed upon flatterers 
           <lb ed="#L" n="31"/>and bellies, that is to say, priests of the  
-          <lb ed="#L" n="32"/>Tools of calves &amp; of Baal: yet it came  
+          <lb ed="#L" n="32"/>Tools of calves &amp; of <name>Baal</name>: yet it came  
           <lb ed="#L" n="33"/>to passe by the goodnes of the Lord, that 
           <lb ed="#L" n="34"/>some good men bestowed somewhat 
           <lb ed="#L" n="35"/>upo such as were desirous of learning, 
@@ -258,20 +282,21 @@
           <lb ed="#L" n="42"/>whereuppon also their disciples and  
           <lb ed="#L" n="43"/>scholers were termed the sonnes of the  
           <lb ed="#L" n="44"/>prophetes.  
-          <lb ed="#L" n="45"/>Amos and Jeremiei call them Para 
-          <lb ed="#L" n="46"/>sites. for, saith Amos, I am no pro 
+        </p>
+        <p>
+          <lb ed="#L" n="45"/><name>Amos</name> and <name>Jeremiei</name> call them Para 
+          <lb ed="#L" n="46"/>sites. for, saith <name>Amos</name>, <quote>I am no pro 
           <!--1114.xml-->
-          <pb ed="#L" n="1114-"/>
           <cb ed="#L" n="b"/>
-          <lb ed="#L" n="47"/>phet, neither the sonne of a Prophet, 
+          <lb ed="#L" n="47"/>phet, neither the sonne of a Prophet,</quote> 
           <lb ed="#L" n="48"/>to wit, not brought up in the know 
           <lb ed="#L" n="49"/>ledge of liberall artes. And the same  
-          <lb ed="#L" n="50"/>man saieth againe: I have raysed up  
+          <lb ed="#L" n="50"/>man saieth againe: <quote>I have raysed up  
           <lb ed="#L" n="51"/>of your sonnes for Prophetes, and of  
-          <lb ed="#L" n="52"/>your young me for Nazarites. But Je 
-          <lb ed="#L" n="53"/>remie commandeth also the manner of  
+          <lb ed="#L" n="52"/>your young me for Nazarites.</quote> But <name>Je 
+          <lb ed="#L" n="53"/>remie</name> commandeth also the manner of  
           <lb ed="#L" n="54"/>them that studied, which in his lamen 
-          <lb ed="#L" n="55"/>tations he bewayleth to be altogether 
+          <lb ed="#L" n="55"/>tations he be wayleth to be altogether 
           <lb ed="#L" n="56"/>perished in the captivitie. Further 
           <lb ed="#L" n="57"/>more, they are called the sonnes of the   
           <lb ed="#L" n="58"/>Prophets, for the affection which they  
@@ -279,32 +304,36 @@
           <lb ed="#L" n="60"/>if they had beene their parents, and for  
           <lb ed="#L" n="61"/>their obedience and daylie studie to 
           <lb ed="#L" n="62"/>wardes them.  
+        </p>
+        <p>
           <lb ed="#L" n="63"/>But how much the more noble and  
           <lb ed="#L" n="64"/>wise the Princes were, so much the  
           <lb ed="#L" n="65"/>more diligence they imployed in repai 
           <lb ed="#L" n="66"/>ring schooles, and restoring Ecclesiasti 
           <lb ed="#L" n="67"/>ciall order. Which a man may see, not  
-          <lb ed="#L" n="68"/>in David and Salomon onely, but al 
-          <lb ed="#L" n="69"/>so in Jolaphat, Ezechias, and Josias,  
+          <lb ed="#L" n="68"/>in <name>David</name> and <name>Salomon</name> onely, but al 
+          <lb ed="#L" n="69"/>so in <name>Jolaphat</name>, <name>Ezechias</name>, and <name>Josias</name>,  
           <lb ed="#L" n="70"/>who were most vertuous and most  
           <lb ed="#L" n="71"/>happie Princes. In the captivitie and  
           <lb ed="#L" n="72"/>after the captivitie of Babylon, the  
           <lb ed="#L" n="73"/>Lordes people was dispersed and scat 
           <lb ed="#L" n="74"/>tered into many kingdomes farre and  
-          <lb ed="#L" n="75"/>wide.But whither to ever they were  
+          <lb ed="#L" n="75"/>wide. But whither to ever they were  
           <lb ed="#L" n="76"/>carried, they erected scholes or synago 
           <lb ed="#L" n="77"/>gues. and when the citie of Jerusalem  
           <lb ed="#L" n="78"/>was restored, then they often came un 
           <lb ed="#L" n="79"/>to the same. For therefore the Actes  
           <lb ed="#L" n="80"/>of the Apostles make mention, that at  
-          <lb ed="#L" n="81"/>what time Saint Paul preached the  
+          <lb ed="#L" n="81"/>what time <name>Saint Paul</name> preached the  
           <lb ed="#L" n="82"/>worde of God among the Gentiles,  
           <lb ed="#L" n="83"/>hee went into the Synagogues and  
           <lb ed="#L" n="84"/>taught.  
-          <lb ed="#L" n="85"/>And Saint James the Apostle  
-          <lb ed="#L" n="86"/>sayeth, Moses in olde time hath in  
+        </p>
+        <p>
+          <lb ed="#L" n="85"/>And Saint <name>James the Apostle</name>  
+          <lb ed="#L" n="86"/>sayeth, <quote><name>Moses</name> in olde time hath in  
           <lb ed="#L" n="87"/>everie citie them that preach him in  
-          <lb ed="#L" n="88"/>the synagogues. Where he speaketh  
+          <lb ed="#L" n="88"/>the synagogues.</quote> Where he speaketh  
           <lb ed="#L" n="89"/>not of the cities of Judea and Galilee,  
           <lb ed="#L" n="90"/>but of the cities of the Gentiles, in Sy 
           <lb ed="#L" n="91"/>ria, Cilicia and Asia. But that which  
@@ -314,26 +343,30 @@
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>they being dispersed and scattered a 
           <lb ed="#L" n="2"/>broad, did sometime come unto the holy  
-          <lb ed="#L" n="3"/>citie of Jerusalem. There were dwel 
-          <lb ed="#L" n="4"/>ling at lerusalem certaine lewes reli 
+          <lb ed="#L" n="3"/>citie of Jerusalem. <quote>There were dwel 
+          <lb ed="#L" n="4"/>ling at Jerusalem certaine Jewes reli 
           <lb ed="#L" n="5"/>ious men, of all nations that are un 
-          <lb ed="#L" n="6"/>der heaven. And that also which saint  
+          <lb ed="#L" n="6"/>der heaven.</quote> And that also which saint  
           <lb ed="#L" n="7"/>Paule reciteth of him selfe confirmeth  
           <lb ed="#L" n="8"/>the same, that being born free in the ci 
           <lb ed="#L" n="9"/>tie of Tharsus, he travelled to Jerusa 
           <lb ed="#L" n="10"/>lem unto Gamaliels feete, that is to  
           <lb ed="#L" n="11"/>say, to the intent to heare the instructi 
-          <lb ed="#L" n="12"/>on, and to be a scholer under Gamaliel,  
+          <lb ed="#L" n="12"/>on, and to be a scholer under <name>Gamaliel</name>,  
           <lb ed="#L" n="13"/>So likewise we read that at Jerusa 
           <lb ed="#L" n="14"/>lem there were Colledges or Synago 
           <lb ed="#L" n="15"/>gues of the Livertines, Cyrenians, A 
           <lb ed="#L" n="16"/>lerandrines, Cilicians, and Asians.  
+        </p>
+        <p>
           <lb ed="#L" n="17"/>This use of scholes continued until  
           <lb ed="#L" n="18"/>Christes time, yea, and after his as 
           <lb ed="#L" n="19"/>cension into the heavens, almost until  
           <lb ed="#L" n="20"/>the destruction of the citie, although in  
           <lb ed="#L" n="21"/>the mean time it may appeare to have  
           <lb ed="#L" n="22"/>beene sundrie times depraved.  
+        </p>
+        <p>
           <lb ed="#L" n="23"/>Christ also the sonne of God, our  
           <lb ed="#L" n="24"/>king and high Bishoppe, he himelfe  
           <lb ed="#L" n="25"/>instituted the most famous schole of al  
@@ -342,66 +375,73 @@
           <lb ed="#L" n="28"/>sen men, I say, to the number of foure 
           <lb ed="#L" n="29"/>score and two. Pea, the Apostles them 
           <lb ed="#L" n="30"/>selves drew unto them very many dis 
-          <lb ed="#L" n="31"/>ciples, and first of all saint Paul the  
+          <lb ed="#L" n="31"/>ciples, and first of all <name>Saint Paul</name> the  
           <lb ed="#L" n="32"/>most chosen instrument of God to con 
           <lb ed="#L" n="33"/>vert the Gentiles, is read to have had 
-          <lb ed="#L" n="34"/>in his companie, Sopater of Berrhee,  
-          <lb ed="#L" n="35"/>Luke of Antioch, Marke of Jerusalem, 
-          <lb ed="#L" n="36"/>Barnabas, Eylua or bylvanus, Caius  
-          <lb ed="#L" n="37"/>and Timothie, Aristarchus and Secun 
-          <lb ed="#L" n="38"/>dus, Tychicus and Prophimus, Fitus  
-          <lb ed="#L" n="39"/>and Linus, Erescens and Epaphras, Ar 
-          <lb ed="#L" n="40"/>chippus and Philemon, Epaphroditus  
-          <lb ed="#L" n="41"/>and Artemas, and many other 
+          <lb ed="#L" n="34"/>in his companie, <name>Sopater of Berrhee</name>,  
+          <lb ed="#L" n="35"/><name>Luke of Antioch</name>, <name>Marke of Jerusalem</name>, 
+          <lb ed="#L" n="36"/><name>Barnabas</name>, <name>Eylua</name> or <name>Sylvanus</name>, <name>Caius</name>  
+          <lb ed="#L" n="37"/>and <name>Timothie</name>, <name>Aristarchus</name> and <name>Secun
+            <lb ed="#L" n="38"/>dus</name> , <name>Tychicus</name> and <name>Prophimus</name>, <name>Fitus</name>  
+          <lb ed="#L" n="39"/>and <name>Linus</name>, <name>Erescens</name> and <name>Epaphras</name>, <name>Ar 
+          <lb ed="#L" n="40"/>chippus</name> and <name>Philemon</name>, <name>Epaphroditus</name>  
+          <lb ed="#L" n="41"/>and <name>Artemas</name>, and many other. 
+        </p>
+        <p>
           <lb ed="#L" n="42"/>He hath also commended most dili 
           <lb ed="#L" n="43"/>gently unto good men, the studious, and  
           <lb ed="#L" n="44"/>the ministers of the Churches, exhor 
           <lb ed="#L" n="45"/>ting all men unto liberalitie, that they  
           <lb ed="#L" n="46"/>may want nothing. Aud writing unto  
           <!--1115.xml-->
-          <pb ed="#L" n="1115-"/>
           <cb ed="#L" n="b"/>
-          <lb ed="#L" n="47"/>Iitus: Bring diligentlye sayeth hee,  
-          <lb ed="#L" n="48"/>Zenas the Lawyer and Apollo, upon 
+          <lb ed="#L" n="47"/><quote><name>Titus</name>: Bring diligentlye sayeth hee,  
+          <lb ed="#L" n="48"/><name>Zenas the Lawyer</name> and <name>Apollo</name>, upon 
           <lb ed="#L" n="49"/>their waye, that they may want no 
-          <lb ed="#L" n="50"/>thing.  
+          <lb ed="#L" n="50"/>thing.  </quote>
+        </p>
+        <p>
           <lb ed="#L" n="51"/>Moreover it may bee gathered by  
           <lb ed="#L" n="52"/>plaine and manifest proofes out of the  
-          <lb ed="#L" n="53"/>thirteenth chapter of the Actes, that 
+          <lb ed="#L" n="53"/><ref>thirteenth chapter of the Actes</ref>, that 
           <lb ed="#L" n="54"/>there was a verie famous and that an  
           <lb ed="#L" n="55"/>Apostolique schoole at Antioch in Sy 
-          <lb ed="#L" n="56"/>ria. Eusebius also of Cesarea aboun 
+          <lb ed="#L" n="56"/>ria. <name>Eusebius</name> also of <name>Cesarea</name> aboun 
           <lb ed="#L" n="57"/>dantly witnesseth what noble schooles  
-          <lb ed="#L" n="58"/>were at Alerandria in Egypt, and in  
-          <lb ed="#L" n="59"/>other renoumed churches. And wee  
+          <lb ed="#L" n="58"/>were at Alexandria in Egypt, and in  
+          <lb ed="#L" n="59"/>other renouned churches. And wee  
           <lb ed="#L" n="60"/>have also declared the same more at  
-          <lb ed="#L" n="61"/>large, when time serued, in a booke  
+          <lb ed="#L" n="61"/>large, when time served, in a booke  
           <lb ed="#L" n="62"/>which we have written of the institu 
           <lb ed="#L" n="63"/>tion of Bishops.  
+        </p>
+        <p>
           <lb ed="#L" n="64"/>But in processe of time when all  
           <lb ed="#L" n="65"/>things appertaining to the Church be 
           <lb ed="#L" n="66"/>ganne to decline to the worsse, Ecclesi 
           <lb ed="#L" n="67"/>asticall schooles also degenerated into  
           <lb ed="#L" n="68"/>Abbaies, or into Colledges of Canons  
           <lb ed="#L" n="69"/>and Monkes.  
+        </p>
+        <p>
           <lb ed="#L" n="70"/>But of all these thinges whereof  
           <lb ed="#L" n="71"/>wee have spoken, I thinke it not un 
           <lb ed="#L" n="72"/>knowen unto any man, that schooles  
-          <lb ed="#L" n="73"/>doe printipally belong to the preser 
+          <lb ed="#L" n="73"/>doe principally belong to the preser 
           <lb ed="#L" n="74"/>vation of the Church, and the main 
           <lb ed="#L" n="75"/>tenance of the holie ministerie, in  
           <lb ed="#L" n="76"/>which schooles good artes might be ex 
           <lb ed="#L" n="77"/>ercised, verie profitable for the fur 
           <lb ed="#L" n="78"/>theraunce of the studie of the holie  
           <lb ed="#L" n="79"/>Scriptures: of which forte chiefest of  
-          <lb ed="#L" n="80"/>all are the Cludies and knowledge of 
+          <lb ed="#L" n="80"/>all are the studies and knowledge of 
           <lb ed="#L" n="81"/>holy tongues, of Logick, naturall Phi 
           <lb ed="#L" n="82"/>losophie, and the Mathematicks, and  
           <lb ed="#L" n="83"/>these moderately knowen, and directed  
           <lb ed="#L" n="84"/>unto the certaine scope and ende of  
           <lb ed="#L" n="85"/>Godlinesse.  For a man may some 
           <lb ed="#L" n="86"/>time finde wittes worne and wared  
-          <lb ed="#L" n="87"/>olde in diverfe Artes and disciplines,  
+          <lb ed="#L" n="87"/>olde in diverse Artes and disciplines,  
           <lb ed="#L" n="88"/>howbeit not once medling or inured  
           <lb ed="#L" n="89"/>with holy exercises and studies. But  
           <lb ed="#L" n="90"/>I would to God that the wicked be 
@@ -411,16 +451,18 @@
           <pb ed="#L" n="1116-"/>
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>holy Scriptures as things plaine bar 
-          <lb ed="#L" n="2"/>barous,  
+          <lb ed="#L" n="2"/>barous.  
+        </p>
+        <p>
           <lb ed="#L" n="3"/>A man also may finde some wits  
           <lb ed="#L" n="4"/>so busied in the studie of the Mathema 
           <lb ed="#L" n="5"/>tickes, that they are more meete to be  
           <lb ed="#L" n="6"/>masters of buildings, then governours  
-          <lb ed="#L" n="7"/>or pastours of Churches. Pea they  
+          <lb ed="#L" n="7"/>or pastours of Churches. Yea they  
           <lb ed="#L" n="8"/>are so farre crept into the studie of A 
           <lb ed="#L" n="9"/>stronome, and the Astronomers hea 
-          <lb ed="#L" n="10"/>ven, that they quite forget the belessed  
-          <lb ed="#L" n="11"/>heaven, which is the seat of the belessed  
+          <lb ed="#L" n="10"/>ven, that they quite forget the blessed  
+          <lb ed="#L" n="11"/>heaven, which is the seat of the blessed  
           <lb ed="#L" n="12"/>Saintes, any thing to pertaine unto  
           <lb ed="#L" n="13"/>them, and that they should be suffici 
           <lb ed="#L" n="14"/>ently happy if they can but once attein 
@@ -429,24 +471,26 @@
           <lb ed="#L" n="17"/>the Starres. As for those that meddle  
           <lb ed="#L" n="18"/>overmuch with the studie of Philoso 
           <lb ed="#L" n="19"/>phie, and the trifles of Logicke, and  
-          <lb ed="#L" n="20"/>the rules of Thetorick, never atteine  
+          <lb ed="#L" n="20"/>the rules of Rhetorick, never atteine  
           <lb ed="#L" n="21"/>unto anie ende, nor earnestly thinke  
           <lb ed="#L" n="22"/>upon the bestowing of their travels to  
           <lb ed="#L" n="23"/>the edifying of the Church : common 
           <lb ed="#L" n="24"/>ly they become contentious and braw 
           <lb ed="#L" n="25"/>ling disputers for the most part, and  
           <lb ed="#L" n="26"/>arrogant controllers: unto whome  
-          <lb ed="#L" n="27"/>nothing seemeth to be neately ad apt 
+          <lb ed="#L" n="27"/>nothing seemeth to be neately and apt 
           <lb ed="#L" n="28"/>ly enough, eyther spoken or doone of  
-          <lb ed="#L" n="29"/>others, but thatwhich is tempered and  
+          <lb ed="#L" n="29"/>others, but that which is tempered and  
           <lb ed="#L" n="30"/>as it were tuned to their great con 
-          <lb ed="#L" n="31"/>ceyuing heades, and so agreeing with  
+          <lb ed="#L" n="31"/>ceyving heades, and so agreeing with  
           <lb ed="#L" n="32"/>prescript rules, that they swarve not  
           <lb ed="#L" n="33"/>therefrom, no not so much as a haires  
-          <lb ed="#L" n="34"/>bredth,  
+          <lb ed="#L" n="34"/>bredth.  
+        </p>
+        <p>
           <lb ed="#L" n="35"/>These men snarle and intangle all  
           <lb ed="#L" n="36"/>things with their doltish disputations  
-          <lb ed="#L" n="37"/>pusting out nothing else but auarrel 
+          <lb ed="#L" n="37"/>pusting out nothing else but quarrel 
           <lb ed="#L" n="38"/>ling controversies, taking upon them 
           <lb ed="#L" n="39"/>most arrogantly to judge all mens do 
           <lb ed="#L" n="40"/>inges and sayinges what soever, yea,  
@@ -454,47 +498,52 @@
           <lb ed="#L" n="42"/>snappe at them, and maliciously cavill  
           <lb ed="#L" n="43"/>against them, being rather vaine bab 
           <lb ed="#L" n="44"/>lers, than Philosophers, yea, the very  
-          <lb ed="#L" n="45"/>plagves of scholes and churches: who 
-          <lb ed="#L" n="46"/>spit out the poyson of dehates, conten 
+          <lb ed="#L" n="45"/>plagues of scholes and churches: who 
+          <lb ed="#L" n="46"/>spit out the poyson of debates, conten 
           <!--1116.xml-->
-          <pb ed="#L" n="1116-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>tions, variances, strifes and divisions,  
           <lb ed="#L" n="48"/>at and into the Church. Against these  
-          <lb ed="#L" n="49"/>S. Paul the Apostle to Timothie soe 
+          <lb ed="#L" n="49"/><name>S. Paul the Apostle</name> to <name>Timothie</name> see 
           <lb ed="#L" n="50"/>meth to speake.  
+        </p>
+        <p>
           <lb ed="#L" n="51"/>For after hee had briefly set downe  
-          <lb ed="#L" n="52"/>the summe of sound docrine, he addeth  
-          <lb ed="#L" n="53"/>thereupon. This zeach and ethort,  
+          <lb ed="#L" n="52"/>the summe of sound doctrine, he addeth  
+          <lb ed="#L" n="53"/>thereupon. <quote>This teach and exhort,  
           <lb ed="#L" n="54"/>whosoever teacheth otherwise, and  
           <lb ed="#L" n="55"/>holdeth not him selfe contented  
           <lb ed="#L" n="56"/>with the healthfull woorde of our  
           <lb ed="#L" n="57"/>Lord lesus Christ, and the doctrine 
           <lb ed="#L" n="58"/>which is according unto godlinesse,  
           <lb ed="#L" n="59"/>he is puffed uppe, knowing nothing,  
-          <lb ed="#L" n="60"/>but spending his time about due 
+          <lb ed="#L" n="60"/>but spending his time about que 
           <lb ed="#L" n="61"/>stions and contention, in woordes,  
-          <lb ed="#L" n="62"/>whereof groweth hakred, strife, ssan 
-          <lb ed="#L" n="63"/>der, evill suspicions, vaine conslictes,  
+          <lb ed="#L" n="62"/>whereof groweth hakred, strife, slan 
+          <lb ed="#L" n="63"/>der, evill suspicions, vaine conflictes,  
           <lb ed="#L" n="64"/>of men corrupt in heart, and destitute  
           <lb ed="#L" n="65"/>of the trueth, which suppose gaine, to  
           <lb ed="#L" n="66"/>be godlinesse.  Avoyde the companie  
-          <lb ed="#L" n="67"/>of suth. 
+          <lb ed="#L" n="67"/>of such. </quote>
+        </p>
+        <p>
           <lb ed="#L" n="68"/>Truely it never went well with  
           <lb ed="#L" n="69"/>the church, when learned and studious  
           <lb ed="#L" n="70"/>men forsaking the plainenesse and  
           <lb ed="#L" n="71"/>purenesse of the worde of God, turned  
           <lb ed="#L" n="72"/>their eyes another way, and aimed  
           <lb ed="#L" n="73"/>not at the worde of God alone. They  
-          <lb ed="#L" n="74"/>in aunctient time, did not contemne the  
+          <lb ed="#L" n="74"/>in auncient time, did not contemne the  
           <lb ed="#L" n="75"/>worde of God: but in the meane while  
           <lb ed="#L" n="76"/>they attributed more to traditions tha 
           <lb ed="#L" n="77"/>was convenient.  
+        </p>
+        <p>
           <lb ed="#L" n="78"/>But by that meanes they both gave  
           <lb ed="#L" n="79"/>occasion unto errours, and confirmed  
           <lb ed="#L" n="80"/>such abuses as were alreadie brought  
           <lb ed="#L" n="81"/>in. Certaine yeares past and gone,  
-          <lb ed="#L" n="82"/>ratian and Lombarde, with other 
+          <lb ed="#L" n="82"/><name>Gratian</name> and <name>Lombarde</name>, with other 
           <lb ed="#L" n="83"/>ecclesiasticall writers, went about to  
           <lb ed="#L" n="84"/>make an agreement of opinions, and to  
           <lb ed="#L" n="85"/>gather together a perfect and certaine  
@@ -502,8 +551,10 @@
           <lb ed="#L" n="87"/>not only carrie the schooles away from  
           <lb ed="#L" n="88"/>the scriptures, but also intruded strage  
           <lb ed="#L" n="89"/>doctrines into the Church.  
-          <lb ed="#L" n="90"/>After these there followed Aler 
-          <lb ed="#L" n="91"/>ander, Albertus, and Thomas, who 
+        </p>
+        <p>
+          <lb ed="#L" n="90"/>After these there followed <name>Alex 
+          <lb ed="#L" n="91"/>ander</name>, <name>Albertus</name>, and <name>Thomas</name>, who 
           <lb ed="#L" n="92"/>not onely depended upon those senten 
           <!--1117.xml-->
           <pb ed="#L" n="1117-"/>
@@ -516,16 +567,18 @@
           <lb ed="#L" n="6"/>many wayes and sectes, so many pud 
           <lb ed="#L" n="7"/>dles crauling full of frogges, so many 
           <lb ed="#L" n="8"/>schooles, so many Abbayes, so manie  
-          <lb ed="#L" n="9"/>sophisters,  
+          <lb ed="#L" n="9"/>sophisters.
+        </p>
+        <p>
           <lb ed="#L" n="10"/>And if at this day likewise we con 
           <lb ed="#L" n="11"/>tinue unhappily to couple Philosophie  
           <lb ed="#L" n="12"/>with the holie scriptures, and super 
           <lb ed="#L" n="13"/>stitiously tall them into disputation,  
-          <lb ed="#L" n="14"/>and to call them unto eramination by,  
+          <lb ed="#L" n="14"/>and to call them unto examination by,  
           <lb ed="#L" n="15"/>humane rules, or to the handling by  
-          <lb ed="#L" n="16"/>artes, then shallwe also corrupt them 
+          <lb ed="#L" n="16"/>artes, then shall we also corrupt them 
           <lb ed="#L" n="17"/>in the scholes, perverting the integri 
-          <lb ed="#L" n="18"/>tie of the Apostoliave docrine, to the  
+          <lb ed="#L" n="18"/>tie of the Apostolique doctrine, to the  
           <lb ed="#L" n="19"/>great detriment of the church. In the  
           <lb ed="#L" n="20"/>meane while, certaine it is that good 
           <lb ed="#L" n="21"/>Artes and learning do make much un 
@@ -534,13 +587,15 @@
           <lb ed="#L" n="24"/>judgement, so that the scriptures may  
           <lb ed="#L" n="25"/>have the upper hande, and all other  
           <lb ed="#L" n="26"/>Artes obey the same.  
+        </p>
+        <p>
           <lb ed="#L" n="27"/>Wherefore, let pure godlinesse bee  
           <lb ed="#L" n="28"/>taught in Ecclesiasticall schooles, yea,  
           <lb ed="#L" n="29"/>let godlinesse bee the ende of all our  
-          <lb ed="#L" n="30"/>studies : at the first let the ftudious be  
+          <lb ed="#L" n="30"/>studies : at the first let the studious be  
           <lb ed="#L" n="31"/>diligently taught the Catechisme, and  
           <lb ed="#L" n="32"/>let them never rest untill such time  
-          <lb ed="#L" n="33"/>as they have learned it perfectly ad  
+          <lb ed="#L" n="33"/>as they have learned it perfectly and  
           <lb ed="#L" n="34"/>made it familiar unto theselves: the  
           <lb ed="#L" n="35"/>let this young begunne godlinesse bee  
           <lb ed="#L" n="36"/>daily increased with Lectures and ho 
@@ -550,12 +605,13 @@
           <lb ed="#L" n="40"/>may become perfecte in them in due  
           <lb ed="#L" n="41"/>season : let them also commodiously  
           <lb ed="#L" n="42"/>learne the tongues and good Arts, and  
-          <lb ed="#L" n="43"/>let them be erercised in writing and  
+          <lb ed="#L" n="43"/>let them be exercised in writing and  
           <lb ed="#L" n="44"/>reasoning.  
+        </p>
+        <p>
           <lb ed="#L" n="45"/>But above all, let dissolutenesse  
           <lb ed="#L" n="46"/>and wantonnesse hee banished out of  
           <!--1117.xml-->
-          <pb ed="#L" n="1117-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>the godly instituted and Christian 
           <lb ed="#L" n="48"/>schooles. Let discipline, yea, though  
@@ -564,16 +620,16 @@
           <lb ed="#L" n="51"/>and grow up in that corruption, what 
           <lb ed="#L" n="52"/>I pray you shall wee looke for at their  
           <lb ed="#L" n="53"/>handes, when they be set in autoritie  
-          <lb ed="#L" n="54"/>over the Church: Let us not believe  
+          <lb ed="#L" n="54"/>over the Church? Let us not believe  
           <lb ed="#L" n="55"/>that they will be the salt of the church,  
           <lb ed="#L" n="56"/>who as they are most dissolute &amp; bloc 
           <lb ed="#L" n="57"/>kish, so can they not abide sharpenesse  
-          <lb ed="#L" n="58"/>in other, Shall we thinke that they  
+          <lb ed="#L" n="58"/>in other. Shall we thinke that they  
           <lb ed="#L" n="59"/>will become lightes of the church, who 
           <lb ed="#L" n="60"/>doe themselves hate the light, and are  
           <lb ed="#L" n="61"/>delighted in darkenesse, and in the  
-          <lb ed="#L" n="62"/>workes of darknesse: Wherefore, that 
-          <lb ed="#L" n="63"/>which the sonnes of Helie were in the  
+          <lb ed="#L" n="62"/>workes of darknesse? Wherefore, that 
+          <lb ed="#L" n="63"/>which the sonnes of <name>Helie</name> were in the  
           <lb ed="#L" n="64"/>church of Israel, the same shall be and  
           <lb ed="#L" n="65"/>are the corrupt sons of the Prophetes  
           <lb ed="#L" n="66"/>in the church of Christ. They therfore  
@@ -587,7 +643,9 @@
           <lb ed="#L" n="74"/>where he shall thinke he seeth so many 
           <lb ed="#L" n="75"/>souldiers and rustians, no scholers and  
           <lb ed="#L" n="76"/>students, whom they commonly call  
-          <lb ed="#L" n="77"/>clearkes,  
+          <lb ed="#L" n="77"/>clearkes.
+        </p>
+        <p>
           <lb ed="#L" n="78"/>Neyther their fare, neyther their  
           <lb ed="#L" n="79"/>apparell, neyther their manners, ney,  
           <lb ed="#L" n="80"/>ther their woordes, neyther their  
@@ -601,6 +659,8 @@
           <lb ed="#L" n="88"/>there are great offences committed  
           <lb ed="#L" n="89"/>through the negligence and fonde gen 
           <lb ed="#L" n="90"/>tlenesse of them that are in authoritie.  
+        </p>
+        <p>
           <lb ed="#L" n="91"/>But for as much as the welfare of  
           <lb ed="#L" n="92"/>the Church consisteth of schooles well  
           <!--1118.xml-->
@@ -610,19 +670,25 @@
           <lb ed="#L" n="2"/>diligence, that in this behalf there may  
           <lb ed="#L" n="3"/>no offence bee committed through our  
           <lb ed="#L" n="4"/>carelesnesse and negligence.  
+        </p>
+        <p>
           <lb ed="#L" n="5"/>This much have I saide concer 
           <lb ed="#L" n="6"/>ning Ecclesiasticall schooles, in as few 
           <lb ed="#L" n="7"/>woordes as might conveniently: of  
           <lb ed="#L" n="8"/>which I have intreated more at large  
           <lb ed="#L" n="9"/>in my booke of the institution of By 
           <lb ed="#L" n="10"/>shops.  
+        </p>
+        <p>
           <lb ed="#L" n="11"/>Furthermore, to the end that schooles  
-          <lb ed="#L" n="12"/>with ye whole ministery may be main,  
+          <lb ed="#L" n="12"/>with ye whole ministery may be main  
           <lb ed="#L" n="13"/>tained, togither with al holy buildings  
-          <lb ed="#L" n="14"/>and Ecclesiasticall chareges, there nee 
+          <lb ed="#L" n="14"/>and Ecclesiasticall charges, there nee 
           <lb ed="#L" n="15"/>deth to be some good wealth and abili 
           <lb ed="#L" n="16"/>tie correspondent.  
-          <lb ed="#L" n="17"/>This place therfore ad monisheth us  
+        </p>
+        <p>
+          <lb ed="#L" n="17"/>This place therfore admonisheth us  
           <lb ed="#L" n="18"/>to say somewhat concerning Ecclesi 
           <lb ed="#L" n="19"/>asticall goods. God in that common 
           <lb ed="#L" n="20"/>welth which he would have to ercell al  
@@ -632,15 +698,17 @@
           <lb ed="#L" n="24"/>common charege, to wit, the tithes, the  
           <lb ed="#L" n="25"/>first fruites, and sundrie other kinds of  
           <lb ed="#L" n="26"/>offeringes.  
+        </p>
+        <p>
           <lb ed="#L" n="27"/>These thinges are in the lawe ex 
-          <lb ed="#L" n="28"/>pressed by Moses the man of God in  
+          <lb ed="#L" n="28"/>pressed by <name>Moses</name> the man of God in  
           <lb ed="#L" n="29"/>many wordes: who nothing feared,  
           <lb ed="#L" n="30"/>least for handling of that matter hee  
           <lb ed="#L" n="31"/>should be accused of greedie desire, or  
           <lb ed="#L" n="32"/>covetousnesse. For those thinges 
           <lb ed="#L" n="33"/>which God commaunded him to de 
           <lb ed="#L" n="34"/>clare plainely to the people, hee utte 
-          <lb ed="#L" n="35"/>red unto them faithfully. Pea, the 
+          <lb ed="#L" n="35"/>red unto them faithfully. Yea, the 
           <lb ed="#L" n="36"/>lawe of nature commaundeth to re 
           <lb ed="#L" n="37"/>warde him that taketh paine, and to  
           <lb ed="#L" n="38"/>maintaine common chareges by com 
@@ -649,36 +717,43 @@
           <lb ed="#L" n="41"/>lie gathered, were not bestowed but  
           <lb ed="#L" n="42"/>to publique uses. For they were partly  
           <lb ed="#L" n="43"/>give to the ministers for their ministe 
-          <lb ed="#L" n="44"/>ry &amp; seruice, partly they were disbursed 
+          <lb ed="#L" n="44"/>ry &amp; service, partly they were disbursed 
           <lb ed="#L" n="45"/>upon publique buildinges &amp; holy char 
           <lb ed="#L" n="46"/>ges, and part was imployed to the re 
           <!--1118.xml-->
-          <pb ed="#L" n="1118-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>liefe of the poore.  
+        </p>
+        <p>
           <lb ed="#L" n="48"/>And although by the newe Testa 
           <lb ed="#L" n="49"/>ment the Levitical law with ye whole  
           <lb ed="#L" n="50"/>Priesthood be abrogated, notwithstan 
           <lb ed="#L" n="51"/>ding it is certaine that ye same univer 
           <lb ed="#L" n="52"/>sall law, which commandeth that pub 
-          <lb ed="#L" n="53"/>lique chareges should bee levied by pub 
+          <lb ed="#L" n="53"/>lique charges should bee levied by pub 
           <lb ed="#L" n="54"/>lique contributions, is not abolished.  
+        </p>
+        <p>
           <lb ed="#L" n="55"/>For we read that our Lorde Jesus  
           <lb ed="#L" n="56"/>Christe, although hee lived not of the  
           <lb ed="#L" n="57"/>tenths &amp; revenves of the Priestes, yet  
           <lb ed="#L" n="58"/>lived he of the cotributions of the god 
           <lb ed="#L" n="59"/>ly. For hee executed a publique functi 
           <lb ed="#L" n="60"/>on. And sending his disciples abroade  
-          <lb ed="#L" n="61"/>to preach, expressely saith unto themg  
+          <lb ed="#L" n="61"/>to preach, expressely saith unto them: <quote>I  
           <lb ed="#L" n="62"/>would not have you to be carefull for  
           <lb ed="#L" n="63"/>foode and apparell: for the labourer is  
-          <lb ed="#L" n="64"/>worthie of his hire.  
-          <lb ed="#L" n="65"/>Therefore the primitive Church  
+          <lb ed="#L" n="64"/>worthie of his hire.</quote>  
+        </p>
+        <p>
+          <lb ed="#L" n="65"/>Wherefore the primitive Church  
           <lb ed="#L" n="66"/>which the Apostles have gathered to  
           <lb ed="#L" n="67"/>Christ, bestowed their houses, landes  
-          <lb ed="#L" n="68"/>and money for the preseruation of the  
+          <lb ed="#L" n="68"/>and money for the preservation of the  
           <lb ed="#L" n="69"/>ministerie, and other things necessarie  
-          <lb ed="#L" n="70"/>for the Church,  
+          <lb ed="#L" n="70"/>for the Church.  
+        </p>
+        <p>
           <lb ed="#L" n="71"/>The Priestes and Levites at that 
           <lb ed="#L" n="72"/>time possessed the holy revenves, not  
           <lb ed="#L" n="73"/>giving one iote to the Apostolique  
@@ -686,12 +761,16 @@
           <lb ed="#L" n="75"/>might sterve for hunger. But the godly  
           <lb ed="#L" n="76"/>and faithfull people knewe very well,  
           <lb ed="#L" n="77"/>that earthly substance and riches were  
-          <lb ed="#L" n="78"/>very necessarie for the preseruation of  
-          <lb ed="#L" n="79"/>the Church,  
+          <lb ed="#L" n="78"/>very necessarie for the preservation of  
+          <lb ed="#L" n="79"/>the Church.  
+        </p>
+        <p>
           <lb ed="#L" n="80"/>For God hath appointed men &amp; not 
           <lb ed="#L" n="81"/>Angels to be ministers of the Church:  
           <lb ed="#L" n="82"/>and hath recommended poore men un 
           <lb ed="#L" n="83"/>to the Church to stande in his stead.  
+        </p>
+        <p>
           <lb ed="#L" n="84"/>But they as men are wout to doe,  
           <lb ed="#L" n="85"/>lacke &amp; are destitute of many thinges,  
           <lb ed="#L" n="86"/>wherefore good men through the moti 
@@ -700,9 +779,11 @@
           <lb ed="#L" n="89"/>and other goods, wherby both the poore  
           <lb ed="#L" n="90"/>and also the holy ministerie may bee  
           <lb ed="#L" n="91"/>maintained.  
+        </p>
+        <p>
           <lb ed="#L" n="92"/>And hereupon also it is evident that  
           <!--1119.xml-->
-          <pb ed="#L" n="1119-"/>
+          <pb ed="#L" n="1119"/>
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>the Church of the people of the new te 
           <lb ed="#L" n="2"/>stament, had ever since ye time of Christ  
@@ -711,29 +792,37 @@
           <lb ed="#L" n="5"/>also layde out and bestowed them a 
           <lb ed="#L" n="6"/>gaine for publique and common com 
           <lb ed="#L" n="7"/>moditie.  
-          <lb ed="#L" n="8"/>Gregorie the first of that name, bi 
+        </p>
+        <p>
+          <lb ed="#L" n="8"/><name>Gregorie</name> the first of that name, bi 
           <lb ed="#L" n="9"/>shoppe of Rome, sayth that it was the  
           <lb ed="#L" n="10"/>custome in his time and also before his  
           <lb ed="#L" n="11"/>time, that there ought to be foure por 
           <lb ed="#L" n="12"/>tions or parts of the church of God.  
+        </p>
+        <p>
           <lb ed="#L" n="13"/>One for the bishop and his familie,  
           <lb ed="#L" n="14"/>another for the clergy, the third for the  
           <lb ed="#L" n="15"/>poore, and the fourth for the repayring  
-          <lb ed="#L" n="16"/>of Churches,  
+          <lb ed="#L" n="16"/>of Churches.  
+        </p>
+        <p>
           <lb ed="#L" n="17"/>But there are a great many that say 
           <lb ed="#L" n="18"/>that a bishoppe ought not to receive  
           <lb ed="#L" n="19"/>wages of ye church. Let us therfore ex 
           <lb ed="#L" n="20"/>amine what Christ and his Apostles do  
           <lb ed="#L" n="21"/>teach us touching that matter. Christ  
           <lb ed="#L" n="22"/>our Lorde, who never committed anie  
-          <lb ed="#L" n="23"/>uniust thing, received, as it is reade,  
+          <lb ed="#L" n="23"/>unjust thing, received, as it is reade,  
           <lb ed="#L" n="24"/>maintenance from such women as he  
           <lb ed="#L" n="25"/>taught, who ministred unto him of  
           <lb ed="#L" n="26"/>their substace. He also sending his dis 
           <lb ed="#L" n="27"/>ciples abroad, and willing them not to  
           <lb ed="#L" n="28"/>be carefull for meate and drinke, and  
-          <lb ed="#L" n="29"/>raiment, saith further, The labourer is  
-          <lb ed="#L" n="30"/>worthie of his hire.  
+          <lb ed="#L" n="29"/>raiment, saith further, <quote>The labourer is  
+          <lb ed="#L" n="30"/>worthie of his hire.</quote>  
+        </p>
+        <p>
           <lb ed="#L" n="31"/>The Lord judgeth it to be worthie,  
           <lb ed="#L" n="32"/>meete, &amp; right, to minister necessaries  
           <lb ed="#L" n="33"/>unto preachers. Wherefore they do no  
@@ -745,50 +834,49 @@
           <lb ed="#L" n="39"/>neither to beggers, but to laborers. For  
           <lb ed="#L" n="40"/>as ye Lord setteth down in ye law, how 
           <lb ed="#L" n="41"/>that it is a great offence to deny labo 
-          <lb ed="#L" n="42"/>rers their hireeven so their offence is  
+          <lb ed="#L" n="42"/>rers their hire: even so their offence is  
           <lb ed="#L" n="43"/>not small ye suffer such as are faithfull  
           <lb ed="#L" n="44"/>feeders of the flocke, to perish and decay 
           <lb ed="#L" n="45"/>through need. For in another place the  
-          <lb ed="#L" n="46"/>Lord speketh to his disciples saying, Te  
+          <lb ed="#L" n="46"/>Lord speketh to his disciples saying, <quote>Ye  
           <!--1119.xml-->
-          <pb ed="#L" n="1119-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>have freely received it, and therefore  
-          <lb ed="#L" n="48"/>give it freely. But he speaketh of ye gift 
+          <lb ed="#L" n="48"/>give it freely.</quote> But he speaketh of ye gift 
           <lb ed="#L" n="49"/>of working miracles, &amp; of the benefite  
-          <lb ed="#L" n="50"/>of health to be bestowed upon the fick,  
+          <lb ed="#L" n="50"/>of health to be bestowed upon the sick,  
           <lb ed="#L" n="51"/>diseased, and oppressed. For thus it is  
-          <lb ed="#L" n="52"/>written: Heale the sicke, cleanse the  
+          <lb ed="#L" n="52"/>written: <quote>Heale the sicke, cleanse the  
           <lb ed="#L" n="53"/>leaprous, raise the dead, cast out de, 
-          <lb ed="#L" n="54"/>vils. And to these words he added this,  
-          <lb ed="#L" n="55"/>saying: Te have received it freely, and  
-          <lb ed="#L" n="56"/>therefore bestowe it freely. Therefore  
+          <lb ed="#L" n="54"/>vils.</quote> And to these words he added this,  
+          <lb ed="#L" n="55"/>saying: <quote>Ye have received it freely, and  
+          <lb ed="#L" n="56"/>therefore bestowe it freely.</quote> Therefore  
           <lb ed="#L" n="57"/>though ye Apostles received rewarde of  
           <lb ed="#L" n="58"/>the to whom they preached: yet never 
           <lb ed="#L" n="59"/>any man read that ever they tooke any  
           <lb ed="#L" n="60"/>thing for the gift of healing which they  
-          <lb ed="#L" n="61"/>received in ye Lords name. Like as He 
-          <lb ed="#L" n="62"/>liseus would not take any thing at all  
+          <lb ed="#L" n="61"/>received in ye Lords name. Like as <name>He 
+          <lb ed="#L" n="62"/>liseus</name> would not take any thing at all  
           <lb ed="#L" n="63"/>though it were freely offered him by  
-          <lb ed="#L" n="64"/>Naaman the Syrian captaine, for that 
+          <lb ed="#L" n="64"/><name>Naaman the Syrian captaine</name>, for that 
           <lb ed="#L" n="65"/>by his counsel he was healed of the le 
-          <lb ed="#L" n="66"/>prosie. Pet the self same Heliseus refu 
+          <lb ed="#L" n="66"/>prosie. Yet the self same <name>Heliseus</name> refu
           <lb ed="#L" n="67"/>sed not the gift of the man that came  
-          <lb ed="#L" n="68"/>unto him from Baalsalisa. Out of the  
-          <lb ed="#L" n="69"/>selfe same Gospell of Christ our Lord,  
+          <lb ed="#L" n="68"/>unto him from Baal-salisa. Out of the  
+          <lb ed="#L" n="69"/>selfe same <ref>Gospell of Christ our Lord</ref>,  
           <lb ed="#L" n="70"/>Ministers have to learne to what use  
           <lb ed="#L" n="71"/>they ought to put ye wages they have  
           <lb ed="#L" n="72"/>of the church. For what time the Lord  
-          <lb ed="#L" n="73"/>commaunded Judas who carried the  
+          <lb ed="#L" n="73"/>commaunded <name>Judas</name> who carried the  
           <lb ed="#L" n="74"/>purse, to depart, the residue of the disci 
           <lb ed="#L" n="75"/>ples thought that he had beene coman 
           <lb ed="#L" n="76"/>ded to go and buy such necessaries as  
           <lb ed="#L" n="77"/>should serue for the holy day, or else to  
-          <lb ed="#L" n="78"/>bestowsomething on the poore. There 
+          <lb ed="#L" n="78"/>bestow something on the poore. There 
           <lb ed="#L" n="79"/>fore it is plain that the Lord used with  
           <lb ed="#L" n="80"/>ye stipend which he received, to provide  
           <lb ed="#L" n="81"/>necessaries for him and his, and also  
-          <lb ed="#L" n="82"/>to give almes therof, Marke well then  
+          <lb ed="#L" n="82"/>to give almes therof, <name>Marke</name> well then  
           <lb ed="#L" n="83"/>that the ministers of the Church may 
           <lb ed="#L" n="84"/>provide thinges necessarie for their li 
           <lb ed="#L" n="85"/>ving, function, and maintenance of  
@@ -800,7 +888,7 @@
           <lb ed="#L" n="91"/>saith plainly in the law, that the sacri 
           <lb ed="#L" n="92"/>fice of the Levites made of tythes, and  
           <!--1120.xml-->
-          <pb ed="#L" n="1120-"/>
+          <pb ed="#L" n="1120"/>
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>other oblations or holy revenves, shall  
           <lb ed="#L" n="2"/>be as acceptable unto him, as their sa 
@@ -808,7 +896,7 @@
           <lb ed="#L" n="4"/>owne chest, store, or possessions. Truly  
           <lb ed="#L" n="5"/>if a labourer doe offer unto God any  
           <lb ed="#L" n="6"/>thing of his hire or wages (that is to  
-          <lb ed="#L" n="7"/>say)ifhe give unto the poore, doth it not  
+          <lb ed="#L" n="7"/>say) if he give unto the poore, doth it not  
           <lb ed="#L" n="8"/>seeme a verie acceptable sacrifice unto  
           <lb ed="#L" n="9"/>God: Very acceptable then is ye almes  
           <lb ed="#L" n="10"/>that the minister of the church doth be 
@@ -819,11 +907,11 @@
           <lb ed="#L" n="15"/>therfore say that the labourer tooke an  
           <lb ed="#L" n="16"/>almes and y one almes ought not to be  
           <lb ed="#L" n="17"/>given out of an other? He received wa 
-          <lb ed="#L" n="18"/>ges for his worke. For hee did labour,  
+          <lb ed="#L" n="18"/>ges for his worke. For hee did labour.  
           <lb ed="#L" n="19"/>Therefore he giveth almes of his wa 
           <lb ed="#L" n="20"/>ges &amp; of his own, lawful &amp; proper goods.  
           <lb ed="#L" n="21"/>Therefore then should the minister of  
-          <lb ed="#L" n="22"/>the church seeme to live by almes, and y  
+          <lb ed="#L" n="22"/>the church seeme to live by almes, and ye  
           <lb ed="#L" n="23"/>he ought not to give almes of almes,  
           <lb ed="#L" n="24"/>who notwithstanding doth labour for  
           <lb ed="#L" n="25"/>his wages, &amp; therfore receiveth the re 
@@ -831,28 +919,28 @@
           <lb ed="#L" n="27"/>unto whom the Lord himselfe compa 
           <lb ed="#L" n="28"/>reth the minister: If any man be so far 
           <lb ed="#L" n="29"/>past honestie to thinke so, he shal heare  
-          <lb ed="#L" n="30"/>not what I say, but what Paul the A 
-          <lb ed="#L" n="31"/>postle sayth. lf we sowe unto you spiri 
+          <lb ed="#L" n="30"/>not what I say, but what <name>Paul the A 
+          <lb ed="#L" n="31"/>postle</name> sayth. <quote>lf we sowe unto you spiri 
           <lb ed="#L" n="32"/>tuall thinges, is it a great matter if we  
-          <lb ed="#L" n="33"/>mowe your carnal things: And againe,  
-          <lb ed="#L" n="34"/>Such elders as governe well, are wor 
+          <lb ed="#L" n="33"/>mowe your carnal things?</quote> And againe,  
+          <lb ed="#L" n="34"/><quote>Such elders as governe well, are wor 
           <lb ed="#L" n="35"/>thie of double honor, and chiefly that 
-          <lb ed="#L" n="36"/>travell in preaching and teaching. For  
-          <lb ed="#L" n="37"/>the Scripture sayeth, Thou shalt not 
-          <lb ed="#L" n="38"/>mousell the mouth of the Oze trea 
-          <lb ed="#L" n="39"/>ding out the corne. And The labou 
-          <lb ed="#L" n="40"/>rer is worthie of his hire. Beholde  
-          <lb ed="#L" n="41"/>therefore, the Apostle doth not thinke ye 
+          <lb ed="#L" n="36"/>travell in preaching and teaching.</quote> For  
+          <lb ed="#L" n="37"/>the <ref>Scripture</ref> sayeth, <quote>Thou shalt not 
+          <lb ed="#L" n="38"/>mousell the mouth of the Oxe trea 
+          <lb ed="#L" n="39"/>ding out the corne.</quote> <quote>And The labou 
+          <lb ed="#L" n="40"/>rer is worthie of his hire.</quote> Beholde  
+          <lb ed="#L" n="41"/>therefore, <name>the Apostle</name> doth not thinke ye 
           <lb ed="#L" n="42"/>that inestimable goodnesse of the mi 
           <lb ed="#L" n="43"/>nisterie can by any meanes be recom 
           <lb ed="#L" n="44"/>pensed with a vile thing, I mean with  
-          <lb ed="#L" n="45"/>earthly wages. Againe, They that la 
-          <lb ed="#L" n="46"/>boyr, saieth he: They that labour say 
+          <lb ed="#L" n="45"/>earthly wages. Againe, <quote>They that la 
+          <lb ed="#L" n="46"/>boyr,</quote> saieth he: They that labour say 
           <!--1120.xml-->
           <pb ed="#L" n="1120-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>I, not they saith he, that loyter in tea 
-          <lb ed="#L" n="48"/>thing. These doeth hee compare unto  
+          <lb ed="#L" n="48"/>ching. These doeth hee compare unto  
           <lb ed="#L" n="49"/>an ore that is a toyling beast, and a  
           <lb ed="#L" n="50"/>thresher out of corne, &amp; also to a labou 
           <lb ed="#L" n="51"/>ring man. That whereof I do so greatly  
@@ -862,94 +950,96 @@
           <lb ed="#L" n="55"/>thankfull are to be found out, that are  
           <lb ed="#L" n="56"/>perswaded, that ministers do nothing  
           <lb ed="#L" n="57"/>at all, yea, even such as most faithfully  
-          <lb ed="#L" n="58"/>doe their duetie. For they cry out say 
-          <lb ed="#L" n="59"/>ing, They eate their bread as beggers  
-          <lb ed="#L" n="60"/>doe, and it costeth them nought. By  
+          <lb ed="#L" n="58"/>doe their duetie. For they cry out say
+          <lb ed="#L" n="59"/>ing, <quote>They eate their bread as beggers  
+          <lb ed="#L" n="60"/>doe, and it costeth them nought.</quote> By  
           <lb ed="#L" n="61"/>which name and infamie they terrifie  
-          <lb ed="#L" n="62"/>nity, so that they utterly abhor the mi 
-          <lb ed="#L" n="63"/>nistery, as it were a thing most begger 
-          <lb ed="#L" n="64"/>ly &amp; unhonest. For in such fort the di 
-          <lb ed="#L" n="65"/>abusing, or rather fitlie using to his  
-          <lb ed="#L" n="66"/>purpose our ingratitude &amp; malice. But  
-          <lb ed="#L" n="67"/>why do they not suffer them selves to  
-          <lb ed="#L" n="68"/>be numbred with Christ &amp; the holy A 
-          <lb ed="#L" n="69"/>postles, who were fed &amp; maintained by  
-          <lb ed="#L" n="70"/>many fine wits, and make them to for 
-          <lb ed="#L" n="71"/>sake the studie of good learning &amp; divi 
-          <lb ed="#L" n="72"/>the churches stipend, then to be recko 
+          <lb ed="#L" n="62"/>many fine wits, and make them to for
+          <lb ed="#L" n="63"/>sake the studie of good learning &amp; divi
+          <lb ed="#L" n="64"/>nity, so that they utterly abhor the m
+          <lb ed="#L" n="65"/>inistery, as it were a thing most begger
+          <lb ed="#L" n="66"/>ly &amp; unhonest. For in such fort the di
+          <lb ed="#L" n="67"/>vel can decise to enlarge his kingdom,
+          <lb ed="#L" n="68"/>abusing, or rather fitlie using to his 
+          <lb ed="#L" n="69"/>purpose our ingratitude &amp; malice. But 
+          <lb ed="#L" n="70"/>why do they not suffer them selves to 
+          <lb ed="#L" n="71"/>be numbred with Christ and the holy A
+          <lb ed="#L" n="72"/>postles, who were fed &amp;maintained by 
           <lb ed="#L" n="73"/>ned up among those unthakful &amp; proud 
           <lb ed="#L" n="74"/>people, who have scraped and gathered 
-          <lb ed="#L" n="75"/>vel can devise to enlarge his kingdom, 
-          <lb ed="#L" n="76"/>all their goods together for the most  
-          <lb ed="#L" n="77"/>part, by usury &amp; other wicked means: or  
-          <lb ed="#L" n="78"/>at ye least if they have not gotten their  
-          <lb ed="#L" n="79"/>goods by sinister meanes, they have re 
-          <lb ed="#L" n="80"/>ceived them through the liberalitie &amp;  
-          <lb ed="#L" n="81"/>meere goodnesse of God, for the which  
-          <lb ed="#L" n="82"/>they never sweate or tooke paines:  
-          <lb ed="#L" n="83"/>S. Paule prooveth by strong and  
-          <lb ed="#L" n="84"/>many arguments the right to receive  
-          <lb ed="#L" n="85"/>a stipend for the holy ministerie. Have  
-          <lb ed="#L" n="86"/>we not (saieth he) polver and auto 
-          <lb ed="#L" n="87"/>ritie to eate and drinke, or may we  
-          <lb ed="#L" n="88"/>not carrie about with us a woman 
-          <lb ed="#L" n="89"/>sister: for he meaneth the lawfulnesse  
-          <lb ed="#L" n="90"/>and authoritie to receive anie thing  
-          <lb ed="#L" n="91"/>necessarie for him elfe, his wife, and  
-          <lb ed="#L" n="92"/>his whole housholde. And for that 
+          <lb ed="#L" n="75"/>all their goods together for the most  
+          <lb ed="#L" n="76"/>part, by usury &amp; other wicked means: or  
+          <lb ed="#L" n="77"/>at ye least if they have not gotten their  
+          <lb ed="#L" n="78"/>goods by sinister meanes, they have re 
+          <lb ed="#L" n="70"/>ceived them through the liberalitie &amp;  
+          <lb ed="#L" n="80"/>meere goodnesse of God, for the which  
+          <lb ed="#L" n="81"/>they never sweate or tooke paines?
+        </p>
+        <p>
+          <lb ed="#L" n="82"/><name>S. Paule</name> prooveth by strong and  
+          <lb ed="#L" n="83"/>many arguments the right to receive  
+          <lb ed="#L" n="84"/>a stipend for the holy ministerie. <quote>Have  
+          <lb ed="#L" n="85"/>we not</quote> (saieth he) <quote>power and auto 
+          <lb ed="#L" n="86"/>ritie to eate and drinke, or may we  
+          <lb ed="#L" n="87"/>not carrie about with us a woman 
+          <lb ed="#L" n="88"/>sister?</quote> for he meaneth the lawfulnesse  
+          <lb ed="#L" n="89"/>and authoritie to receive anie thing  
+          <lb ed="#L" n="90"/>necessarie for him selfe, his wife, and  
+          <lb ed="#L" n="91"/>his whole housholde. And for that 
           <!--1121.xml-->
-          <pb ed="#L" n="1121-"/>
+          <pb ed="#L" n="1121"/>
           <cb ed="#L" n="a"/>
-          <lb ed="#L" n="1"/>he alketh a question, he sheweth what 
+          <lb ed="#L" n="1"/>he asketh a question, he sheweth what 
           <lb ed="#L" n="2"/>he meaneth, that thereby hee may de 
           <lb ed="#L" n="3"/>clare a plaine trueth and equitie a 
           <lb ed="#L" n="4"/>mongest all men, and thereto addeth  
-          <lb ed="#L" n="5"/>examples, not of every man severally,  
+          <lb ed="#L" n="5"/>examples, not of every man senerally,  
           <lb ed="#L" n="6"/>but of all generally, and specially of  
           <lb ed="#L" n="7"/>the chiefest Apostles of Christ, and of  
           <lb ed="#L" n="8"/>them that were kinne unto Christ by  
-          <lb ed="#L" n="9"/>bloude, saying: Even as the other A 
+          <lb ed="#L" n="9"/>bloude, saying: <quote>Even as the other A 
           <lb ed="#L" n="10"/>postles and brothers of our Lorde,  
-          <lb ed="#L" n="11"/>and Cephas? And who is that Ce 
-          <lb ed="#L" n="12"/>phas, but Peter: To this Cephas the  
-          <lb ed="#L" n="13"/>Lorde saide in the first chapter of S. 
-          <lb ed="#L" n="14"/>John: Thou shalt be called Cephas,  
+          <lb ed="#L" n="11"/>and <name>Cephas</name>? And who is that Ce 
+            <lb ed="#L" n="12"/>phas, but Peter?</quote> To this <name>Cephas</name> the  
+          <lb ed="#L" n="13"/>Lorde saide in the <ref>first chapter of <name>S. 
+          <lb ed="#L" n="14"/>John</name></ref>: <quote>Thou shalt be called <name>Cephas</name>,  
           <lb ed="#L" n="15"/>which if a man interpret it, signifieth  
-          <lb ed="#L" n="16"/>a stone. But Peter also was so sir 
+          <lb ed="#L" n="16"/>a stone.</quote> But <name>Peter</name> also was so sir 
           <lb ed="#L" n="17"/>named of a rocke, to the intent the in 
           <lb ed="#L" n="18"/>terpretation of the name may alwaies  
           <lb ed="#L" n="19"/>fall upon the same.  
+        </p>
+        <p>
           <lb ed="#L" n="20"/>And who, I pray you are the Lords  
-          <lb ed="#L" n="21"/>brethren, but Iohn and James, and  
-          <lb ed="#L" n="22"/>James the brother of Judas, and Ju 
-          <lb ed="#L" n="23"/>das &amp; Simon the brethren of James:  
-          <lb ed="#L" n="24"/>All these, saith saint Paule, lived of  
+          <lb ed="#L" n="21"/>brethren, but <name>John</name> and <name>James</name>, and  
+          <lb ed="#L" n="22"/><name>James</name> the brother of <name>Judas</name>, and <name>Ju 
+          <lb ed="#L" n="23"/>das</name> &amp; <name>Simon</name> the brethren of <name>James</name>:  
+          <lb ed="#L" n="24"/><quote>All these,</quote> saith <name>Saint Paule</name>, <quote>lived of  
           <lb ed="#L" n="25"/>the stipende they had, beeing gathe 
           <lb ed="#L" n="26"/>red of the common assemhlie of the  
-          <lb ed="#L" n="27"/>Church. Fnto these eramples he ad 
+          <lb ed="#L" n="27"/>Church. Unto these examples he ad 
           <lb ed="#L" n="28"/>deth other also like unto them, com 
-          <lb ed="#L" n="29"/>monly put in practise. who (sayeth  
-          <lb ed="#L" n="30"/>hee) doeth goe to warre at his owne  
+          <lb ed="#L" n="29"/>monly put in practise. who</quote> (sayeth  
+          <lb ed="#L" n="30"/>hee) <quote>doeth goe to warre at his owne  
           <lb ed="#L" n="31"/>costes and chargesy Or who planteth  
           <lb ed="#L" n="32"/>a vineyearde, and eateth not of the  
           <lb ed="#L" n="33"/>fruite thereof? Or who feedeth a  
-          <lb ed="#L" n="34"/>focke and eateth not of the milke 
-          <lb ed="#L" n="35"/>there of? Surely hee bringeth foorth  
-          <lb ed="#L" n="36"/>these similitudes verie sinely ad pro 
+          <lb ed="#L" n="34"/>flocke and eateth not of the milke 
+          <lb ed="#L" n="35"/>there of?</quote> Surely hee bringeth foorth  
+          <lb ed="#L" n="36"/>these similitudes verie sinely and pro 
           <lb ed="#L" n="37"/>perly applyed unto them, and not un 
           <lb ed="#L" n="38"/>to anie other. For the ministers of  
           <lb ed="#L" n="39"/>the Church are sometime called soul 
           <lb ed="#L" n="40"/>diers or vineyard. keepers, sometime  
-          <lb ed="#L" n="41"/>hushandmen and shepeheardes. And  
+          <lb ed="#L" n="41"/>husbandmen and shepeheardes. And  
           <lb ed="#L" n="42"/>who I pray you, is so farre from rea 
           <lb ed="#L" n="43"/>son : that he would denie unto souldi 
           <lb ed="#L" n="44"/>ers hushandmen, &amp; shepeheards meate  
           <lb ed="#L" n="45"/>and clothing, for the paines they take  
-          <lb ed="#L" n="46"/>in warfare, hushandrie, and about cat 
+          <lb ed="#L" n="46"/>in warfare, husbandrie, and about cat 
           <!--1121.xml-->
-          <pb ed="#L" n="1121-"/>
           <cb ed="#L" n="b"/>
-          <lb ed="#L" n="47"/>tell: The true hearted men therefore,  
+          <lb ed="#L" n="47"/>tell? The true hearted men therefore,  
           <lb ed="#L" n="48"/>and such as are of an indifferent judg,  
           <lb ed="#L" n="49"/>ment, do acknowledge that the mi 
           <lb ed="#L" n="50"/>nisters of the Church may live by the  
@@ -958,54 +1048,54 @@
           <lb ed="#L" n="53"/>humane parables and similitudes ta 
           <lb ed="#L" n="54"/>ken from the common use, doe proove  
           <lb ed="#L" n="55"/>nothing in an Ecclesiasticall cause,  
-          <lb ed="#L" n="56"/>hee addeth presently: Doe I speake,  
-          <lb ed="#L" n="57"/>these thinges according to manPDoth  
+          <lb ed="#L" n="56"/>hee addeth presently: <quote>Doe I speake,  
+          <lb ed="#L" n="57"/>these thinges according to man? Doth  
           <lb ed="#L" n="58"/>not the lawe saye also the samer For  
-          <lb ed="#L" n="59"/>it is written in the lawe of Moses,  
-          <lb ed="#L" n="60"/>Thou shalt not mossell the Ore that 
-          <lb ed="#L" n="61"/>treadeth out the corne. As though  
+          <lb ed="#L" n="59"/>it is written in the lawe of <name>Moses</name>,  
+          <lb ed="#L" n="60"/>Thou shalt not mossell the Oxe that 
+          <lb ed="#L" n="61"/>treadeth out the corne.</quote> As though  
           <lb ed="#L" n="62"/>hee should say, I have in a readinesse  
           <lb ed="#L" n="63"/>for the confirmation of our right, not 
           <lb ed="#L" n="64"/>onely humane similitudes, but also te 
           <lb ed="#L" n="65"/>stimonies of the holy Scripture. And  
-          <lb ed="#L" n="66"/>he alledgeth a place out of the 2, chap,  
-          <lb ed="#L" n="67"/>of Deuteronomie, concerning the nou 
-          <lb ed="#L" n="68"/>rishing of labouring oren. Againe,  
+          <lb ed="#L" n="66"/>he alledgeth a place out of the <ref>2, chap,  
+          <lb ed="#L" n="67"/>of Deuteronomie</ref>, concerning the nou 
+          <lb ed="#L" n="68"/>rishing of labouring oxen. Againe,  
           <lb ed="#L" n="69"/>least any man shoulde say that place  
           <lb ed="#L" n="70"/>is not to be understoode of preachers,  
-          <lb ed="#L" n="71"/>but simplie of oren, hee addeth, Doth  
-          <lb ed="#L" n="72"/>GOD take care for oreny Or doth  
+          <lb ed="#L" n="71"/>but simplie of oxen, hee addeth, <quote>Doth  
+          <lb ed="#L" n="72"/>GOD take care for oxen? Or doth  
           <lb ed="#L" n="73"/>not hee speake it altogether for our  
-          <lb ed="#L" n="74"/>sakes: Doubtlesse he hath written it  
+          <lb ed="#L" n="74"/>sakes? Doubtlesse he hath written it  
           <lb ed="#L" n="75"/>for our sakes, that he which ploweth  
           <lb ed="#L" n="76"/>may plowe in hope, and he that thre 
           <lb ed="#L" n="77"/>sheth in hope may be partaker of his  
-          <lb ed="#L" n="78"/>hope. The Lorde sayde, hee in his  
+          <lb ed="#L" n="78"/>hope.</quote> The Lorde sayde, <quote>hee in his  
           <lb ed="#L" n="79"/>lawe woulde provide for us. For hee,  
-          <lb ed="#L" n="80"/>would have the eavalitie gathered by  
-          <lb ed="#L" n="81"/>a certaine fpllogisme or kinde of  
+          <lb ed="#L" n="80"/>would have the equalitie gathered by  
+          <lb ed="#L" n="81"/>a certaine sullogisme or kinde of  
           <lb ed="#L" n="82"/>argument , after this or such like 
-          <lb ed="#L" n="83"/>manner: If the Lorde provided for  
+          <lb ed="#L" n="83"/>manner:</quote> If the Lorde provided for  
           <lb ed="#L" n="84"/>beastes and cattell, and would have  
           <lb ed="#L" n="85"/>consideration to bee had of them, how  
           <lb ed="#L" n="86"/>much more of men: It were truely a  
-          <lb ed="#L" n="87"/>verie uniust thing that an hushandma 
-          <lb ed="#L" n="88"/>shoulde labour with his ore without  
+          <lb ed="#L" n="87"/>verie unjust thing that an husbandma 
+          <lb ed="#L" n="88"/>shoulde labour with his oxe without  
           <lb ed="#L" n="89"/>hope, that is to say in vaine, and with  
           <lb ed="#L" n="90"/>out commoditie. Therefore were it  
-          <lb ed="#L" n="91"/>also a most uniust thing, for the mini 
-          <lb ed="#L" n="92"/>ster to erercise Ecclesiasticall hushan 
+          <lb ed="#L" n="91"/>also a most unjust thing, for the mini 
+          <lb ed="#L" n="92"/>ster to exercise Ecclesiasticall husban 
           <!--1122.xml-->
           <pb ed="#L" n="1122-"/>
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>drie in the church without hope or due  
           <lb ed="#L" n="2"/>stipend. Moreover, where it is againe  
-          <lb ed="#L" n="3"/>obiected here against, that unto the spi 
+          <lb ed="#L" n="3"/>objected here against, that unto the spi 
           <lb ed="#L" n="4"/>rituall ministery, belongeth no corpo 
           <lb ed="#L" n="5"/>rall but a spiritual rewarde, the Apo 
-          <lb ed="#L" n="6"/>stle answeareth, lf wee sow unto you  
+          <lb ed="#L" n="6"/>stle answeareth, <quote>lf wee sow unto you  
           <lb ed="#L" n="7"/>spirituall thinges, is it a greate mat 
-          <lb ed="#L" n="8"/>ter if we reape your temporall things)  
+          <lb ed="#L" n="8"/>ter if we reape your temporall things?</quote>  
           <lb ed="#L" n="9"/>Hee therfore thinketh that the Corin 
           <lb ed="#L" n="10"/>thians give nothing when they give  
           <lb ed="#L" n="11"/>their temporall things, namely, if they  
@@ -1023,29 +1113,28 @@
           <lb ed="#L" n="23"/>and reape the woorse. Because men 
           <lb ed="#L" n="24"/>set light by God and the divine mini 
           <lb ed="#L" n="25"/>sterie, therefore they thinke that the  
-          <lb ed="#L" n="26"/>ministers doe nething. S. Paule a 
+          <lb ed="#L" n="26"/>ministers doe nothing. <name>S. Paule</name> a 
           <lb ed="#L" n="27"/>gaine confirmeth his own right by the  
-          <lb ed="#L" n="28"/>erample of others, saying: If others 
-          <lb ed="#L" n="29"/>bee partakers of the poler towardes  
-          <lb ed="#L" n="30"/>you, why rather are not weer For  
+          <lb ed="#L" n="28"/>example of others, saying: <quote>If others 
+          <lb ed="#L" n="29"/>bee partakers of the power towardes  
+          <lb ed="#L" n="30"/>you, why rather are not wee?</quote> For  
           <lb ed="#L" n="31"/>seeing none had taken more paines a 
-          <lb ed="#L" n="32"/>mong the Corinthians than S. Paul,  
+          <lb ed="#L" n="32"/>mong the <ref>Corinthians</ref> than <name>S. Paul</name>,  
           <lb ed="#L" n="33"/>no man was more worthy of reward.  
           <lb ed="#L" n="34"/>Moreover hee confirmeth his right,  
           <lb ed="#L" n="35"/>by the example, commandement and  
           <lb ed="#L" n="36"/>ordinaunce of the Lorde , saying :  
-          <lb ed="#L" n="37"/>Tnowe yee not that they which take  
+          <lb ed="#L" n="37"/><quote>Knowe yee not that they which take  
           <lb ed="#L" n="38"/>paines in the holy thinges, doe eate  
           <lb ed="#L" n="39"/>of the holy things, and they that mini 
           <lb ed="#L" n="40"/>ster at the altar are partakers of the al 
-          <lb ed="#L" n="41"/>ear) Even so hath the Lord ordeyned,  
+          <lb ed="#L" n="41"/>tar? Even so hath the Lord ordeyned,  
           <lb ed="#L" n="42"/>that they that doe preach the Gospel,  
-          <lb ed="#L" n="43"/>should live of the Gospel. Where hath  
-          <lb ed="#L" n="44"/>the Lorde ordeyned this: Forsooth whe  
+          <lb ed="#L" n="43"/>should live of the Gospel.</quote> Where hath  
+          <lb ed="#L" n="44"/>the Lorde ordeyned this? Forsooth whe  
           <lb ed="#L" n="45"/>he said in the Gospel, that the laborer  
           <lb ed="#L" n="46"/>is worthy of his hire. But. I judge this  
           <!--1122.xml-->
-          <pb ed="#L" n="1122-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>especially to be observed which the A 
           <lb ed="#L" n="48"/>postle speaketh in plaine wordes, that 
@@ -1057,28 +1146,30 @@
           <lb ed="#L" n="54"/>not much the marke, if in this &amp; suche  
           <lb ed="#L" n="55"/>like cases wee doe not utterly reiect the  
           <lb ed="#L" n="56"/>aunctient institutions of the fathers.  
-          <lb ed="#L" n="57"/>But in that S. Paul the Apostle  
+        </p>
+        <p>
+          <lb ed="#L" n="57"/>But in that <name>S. Paul the Apostle</name>  
           <lb ed="#L" n="58"/>used not his authoritie as hee might  
           <lb ed="#L" n="59"/>have done, it maketh nothing against  
           <lb ed="#L" n="60"/>these thinges. For one question is of  
           <lb ed="#L" n="61"/>the deede, and another of the right of ye,  
           <lb ed="#L" n="62"/>thing. In very deede, hee tooke no 
-          <lb ed="#L" n="63"/>thing of the Corinthians for diverse  
+          <lb ed="#L" n="63"/>thing of the <ref>Corinthians</ref> for diverse  
           <lb ed="#L" n="64"/>causes, yet not withstanding he took of  
           <lb ed="#L" n="65"/>other Churches. Neither received hee  
           <lb ed="#L" n="66"/>any thing of the Church of Thessalo 
           <lb ed="#L" n="67"/>nica : yet for al that this doing is not 
           <lb ed="#L" n="68"/>prejudiciall to the equity of the right 
-          <lb ed="#L" n="69"/>For he saith unto the Corinthians : :  
-          <lb ed="#L" n="70"/>have robbed other churthes, having  
+          <lb ed="#L" n="69"/>For he saith unto the <ref>Corinthians</ref>: <quote>I 
+          <lb ed="#L" n="70"/>have robbed other churches, having  
           <lb ed="#L" n="71"/>received wages of them, to the intent  
-          <lb ed="#L" n="72"/>I might doe you seruice. And when  
+          <lb ed="#L" n="72"/>I might doe you service. And when  
           <lb ed="#L" n="73"/>I was with you and wanted, I was 
           <lb ed="#L" n="74"/>not burthensome unto any man. For  
           <lb ed="#L" n="75"/>the thinges that were lacking unto  
           <lb ed="#L" n="76"/>mee, were given mee by the brethren 
-          <lb ed="#L" n="77"/>that came from Macedonia. And un 
-          <lb ed="#L" n="78"/>to the Thessalonians he saith, we be 
+          <lb ed="#L" n="77"/>that came from Macedonia.</quote> And un 
+          <lb ed="#L" n="78"/>to the Thessalonians he saith, <quote>We be 
           <lb ed="#L" n="79"/>haved not our selves inordinately a 
           <lb ed="#L" n="80"/>mongst you, neither did wee take our  
           <lb ed="#L" n="81"/>bread for nothing. But with labour  
@@ -1088,28 +1179,30 @@
           <lb ed="#L" n="85"/>that it is not lawfull for us to doe it,  
           <lb ed="#L" n="86"/>but because we woulde set downe our  
           <lb ed="#L" n="87"/>selves as a patterne for you to follow 
-          <lb ed="#L" n="88"/>after. And agayne the same S. Paul  
-          <lb ed="#L" n="89"/>saieth unto the Thessalonians, I be 
+          <lb ed="#L" n="88"/>after.</quote> And agayne the same <name>S. Paul</name>  
+          <lb ed="#L" n="89"/>saieth unto the <ref>Thessalonians</ref>, <quote>I be 
           <lb ed="#L" n="90"/>seeche you that you acknowledge the  
           <lb ed="#L" n="91"/>that labour among you, and are over 
           <lb ed="#L" n="92"/>you in the Lorde, and admonish you,  
           <!--1123.xml-->
-          <pb ed="#L" n="1123-"/>
+          <pb ed="#L" n="1123"/>
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>that you have them in singular love  
           <lb ed="#L" n="2"/>through love for their worke sake. Be  
-          <lb ed="#L" n="3"/>at peace with them. Let so much ther 
+          <lb ed="#L" n="3"/>at peace with them.</quote> Let so much ther 
           <lb ed="#L" n="4"/>fore of the church goods as is sufficient  
           <lb ed="#L" n="5"/>be given unto the ministers &amp; teachers,  
           <lb ed="#L" n="6"/>so farre forth as honest necessity requi 
           <lb ed="#L" n="7"/>reth. And thus much have we spoken 
           <lb ed="#L" n="8"/>concerning the proportion that is due  
-          <lb ed="#L" n="9"/>unto pastors,  
+          <lb ed="#L" n="9"/>unto pastors.  
+        </p>
+        <p>
           <lb ed="#L" n="10"/>In times past the seconde parte of  
           <lb ed="#L" n="11"/>ecclesiasticall goods was allotted unto  
           <lb ed="#L" n="12"/>clearkes. And clearkes are the harvest  
-          <lb ed="#L" n="13"/>of Pastors, studlous of divinity , and  
-          <lb ed="#L" n="14"/>wholly disposed to the holy ministery,  
+          <lb ed="#L" n="13"/>of Pastors, studious of divinity , and  
+          <lb ed="#L" n="14"/>wholly disposed to the holy ministery.  
           <lb ed="#L" n="15"/>And forasmuch as these have dedica 
           <lb ed="#L" n="16"/>ted theselves and all that they have  
           <lb ed="#L" n="17"/>wholly to the Church &amp; the ministerie  
@@ -1117,12 +1210,14 @@
           <lb ed="#L" n="19"/>be nourished &amp; mainteined by the costs  
           <lb ed="#L" n="20"/>of the Church. But it is convenient  
           <lb ed="#L" n="21"/>they be nourished meanly, who ought  
-          <lb ed="#L" n="22"/>to be an erample of meave and thrifty  
-          <lb ed="#L" n="23"/>living to other 
+          <lb ed="#L" n="22"/>to be an example of meave and thrifty  
+          <lb ed="#L" n="23"/>living to other. 
+        </p>
+        <p>
           <lb ed="#L" n="24"/>For to bee brought up delicately,  
           <lb ed="#L" n="25"/>doth nothing agree with the ministe 
-          <lb ed="#L" n="26"/>ries of the Church. And therefore, A 
-          <lb ed="#L" n="27"/>mos founde fault that the Nararites  
+          <lb ed="#L" n="26"/>ries of the Church. And therefore, <name>A 
+          <lb ed="#L" n="27"/>mos</name> founde fault that the Nazarites  
           <lb ed="#L" n="28"/>dranke wine, for that he meant that 
           <lb ed="#L" n="29"/>drunkardes did not mainteine the  
           <lb ed="#L" n="30"/>church, but utterly destroy it. Of which  
@@ -1130,20 +1225,21 @@
           <lb ed="#L" n="32"/>Moreover, it is fit that due portions be  
           <lb ed="#L" n="33"/>payde to Priests, schoolemaisters, scho 
           <lb ed="#L" n="34"/>lers, and to all other ecclesiasticall per 
-          <lb ed="#L" n="35"/>sons whatsoever 
+          <lb ed="#L" n="35"/>sons whatsoever. 
+        </p>
+        <p>
           <lb ed="#L" n="36"/>Finally the third part of ecclesiasti 
           <lb ed="#L" n="37"/>call goodes are appoynted for the poore,  
-          <lb ed="#L" n="38"/>And ther are divers fortes of poore  
+          <lb ed="#L" n="38"/>And there are divers fortes of poore  
           <lb ed="#L" n="39"/>folke: as widowes, pupils, orphanes, &amp;  
           <lb ed="#L" n="40"/>infantes cast out (whose parentes are  
           <lb ed="#L" n="41"/>not known. Also they that are worne  
           <lb ed="#L" n="42"/>with old age, and spent with diseases,  
-          <lb ed="#L" n="43"/>Ther are insinite kindes of diseases,  
-          <lb ed="#L" n="44"/>whereof the most grievous are theser  
+          <lb ed="#L" n="43"/>There are insinite kindes of diseases,  
+          <lb ed="#L" n="44"/>whereof the most grievous are these:  
           <lb ed="#L" n="45"/>leprosie, furie, and madnes, the french  
           <lb ed="#L" n="46"/>pockes, or the scabbe of India or Na 
           <!--1123.xml-->
-          <pb ed="#L" n="1123-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>ples, the palsey, the goute, and a great 
           <lb ed="#L" n="48"/>many moe. Ther are not onely poore  
@@ -1151,7 +1247,7 @@
           <lb ed="#L" n="50"/>straungers that are banished their  
           <lb ed="#L" n="51"/>countrey and home for righteousnesse  
           <lb ed="#L" n="52"/>sake, and for the worde of God. There  
-          <lb ed="#L" n="53"/>are other who are not yet come to er 
+          <lb ed="#L" n="53"/>are other who are not yet come to ex 
           <lb ed="#L" n="54"/>treme poverty, but are even now rea 
           <lb ed="#L" n="55"/>dy to fall into it, so that if they be not 
           <lb ed="#L" n="56"/>holpen a litle with ready money, they  
@@ -1161,16 +1257,18 @@
           <lb ed="#L" n="60"/>by great Clouds of waters, by fire, and  
           <lb ed="#L" n="61"/>divers other mishappes, as by hayle,  
           <lb ed="#L" n="62"/>frostes, &amp; other stormes and distempe 
-          <lb ed="#L" n="63"/>ratures of the ayre,  
+          <lb ed="#L" n="63"/>ratures of the ayre.  
+        </p>
+        <p>
           <lb ed="#L" n="64"/>Of all whose health and safegard  
-          <lb ed="#L" n="65"/>the Lorde willed us to bee mindetul,  
+          <lb ed="#L" n="65"/>the Lorde willed us to bee mindeful,  
           <lb ed="#L" n="66"/>whereas hee saith, that whatsoever 
           <lb ed="#L" n="67"/>wee bestowe uppon the poore, wee 
           <lb ed="#L" n="68"/>bestowe it uppon him. Therefore if  
           <lb ed="#L" n="69"/>wee despise and regarde not the poore,  
           <lb ed="#L" n="70"/>without al doubt wee despise and neg 
           <lb ed="#L" n="71"/>lect even our Lorde God himelfe in  
-          <lb ed="#L" n="72"/>the poore. Wee ought of duety to sue 
+          <lb ed="#L" n="72"/>the poore. Wee ought of duety to suc 
           <lb ed="#L" n="73"/>cour the poore of our owne good will, 
           <lb ed="#L" n="74"/>by counsell, comfort, medicines, cures,  
           <lb ed="#L" n="75"/>money, meate, drink, clothes, lodging.  
@@ -1178,7 +1276,7 @@
           <lb ed="#L" n="77"/>that wee may, and in all such matters  
           <lb ed="#L" n="78"/>and cases, as they sh all have neede of  
           <lb ed="#L" n="79"/>our helpe. It so bee the Church goodes  
-          <lb ed="#L" n="80"/>are not susficient to performe all this  
+          <lb ed="#L" n="80"/>are not sufficient to performe all this  
           <lb ed="#L" n="81"/>at the full, then let the aboundance of  
           <lb ed="#L" n="82"/>all other good faithfull people supplye  
           <lb ed="#L" n="83"/>their want. But if there bee goods suf 
@@ -1192,25 +1290,29 @@
           <lb ed="#L" n="91"/>shary tempests of infelicities are pow 
           <lb ed="#L" n="92"/>red forth both upon common wealths  
           <!--1124.xml-->
-          <pb ed="#L" n="1124-"/>
+          <pb ed="#L" n="1124"/>
           <cb ed="#L" n="a"/>
-          <lb ed="#L" n="1"/>and kingdomes,  
+          <lb ed="#L" n="1"/>and kingdomes.  
+        </p>
+        <p>
           <lb ed="#L" n="2"/>For why, they are very sharply pu 
           <lb ed="#L" n="3"/>nished which do not give unto ye poore  
           <lb ed="#L" n="4"/>of their owne private goods if they bee  
           <lb ed="#L" n="5"/>able: with how much more grievous  
           <lb ed="#L" n="6"/>calamities may wee think they shalbe  
-          <lb ed="#L" n="7"/>plagved, which wickedly, sacrilegious 
+          <lb ed="#L" n="7"/>plagued, which wickedly, sacrilegious 
           <lb ed="#L" n="8"/>ly &amp; forcibly take away to their owne  
           <lb ed="#L" n="9"/>private uses, those riches which were  
           <lb ed="#L" n="10"/>given by others to the common use of  
-          <lb ed="#L" n="11"/>the poore: Hee that hath this worlds  
+          <lb ed="#L" n="11"/>the poore? Hee that hath this worlds  
           <lb ed="#L" n="12"/>substance and seeth his brother want,  
           <lb ed="#L" n="13"/>and shutteth up his affectio from him, 
           <lb ed="#L" n="14"/>is cruell : therfore he that taketh from  
           <lb ed="#L" n="15"/>the poore that which is already given 
           <lb ed="#L" n="16"/>them is more cruel, and committeth sa 
           <lb ed="#L" n="17"/>criledge.  
+        </p>
+        <p>
           <lb ed="#L" n="18"/>It is read that the Sodomites with  
           <lb ed="#L" n="19"/>their fellow cities were burned, be 
           <lb ed="#L" n="20"/>cause they strengthened not the hand 
@@ -1218,12 +1320,12 @@
           <lb ed="#L" n="22"/>Moabits &amp; Chanaanites are destroied  
           <lb ed="#L" n="23"/>for disdaining straungers, &amp; for having  
           <lb ed="#L" n="24"/>no care of the poore. But why do wee  
-          <lb ed="#L" n="25"/>fetch examples so farre off:why do we  
+          <lb ed="#L" n="25"/>fetch examples so farre off? why do we  
           <lb ed="#L" n="26"/>not call to mind the last sentence of the  
           <lb ed="#L" n="27"/>high Judge uttered from his heaven 
           <lb ed="#L" n="28"/>ly judgement seate which is stablished 
           <lb ed="#L" n="29"/>in the cloudes, pronounced in this 
-          <lb ed="#L" n="30"/>manner, Gome ye blessed of my fa 
+          <lb ed="#L" n="30"/>manner, <quote>Come ye blessed of my fa 
           <lb ed="#L" n="31"/>ther, possesse the kingdome which  
           <lb ed="#L" n="32"/>was prepared for you from the begin 
           <lb ed="#L" n="33"/>ning of the world. I have byn hungry  
@@ -1231,25 +1333,24 @@
           <lb ed="#L" n="35"/>byn a thirsty and you have given me 
           <lb ed="#L" n="36"/>drinke. I was a straunger and you har 
           <lb ed="#L" n="37"/>boured me, l was naked and you clo 
-          <lb ed="#L" n="38"/>thed me, I was sick, bt you visited me. 
-          <lb ed="#L" n="39"/>I was in prison, St you came unto me. 
+          <lb ed="#L" n="38"/>thed me, I was sick, &amp; you visited me. 
+          <lb ed="#L" n="39"/>I was in prison, &amp; you came unto me. </quote>
           <lb ed="#L" n="40"/>The evangelist also addeth that which  
           <lb ed="#L" n="41"/>agreeth verye muche to our purpose:  
-          <lb ed="#L" n="42"/>Then shall the just aunsweare and say,  
+          <lb ed="#L" n="42"/><quote>Then shall the just aunsweare and say,  
           <lb ed="#L" n="43"/>Lord, when saw we thee hungry and  
-          <lb ed="#L" n="44"/>gave thee meate: thirsly et gave thee  
+          <lb ed="#L" n="44"/>gave thee meate: thirsly &amp; gave thee  
           <lb ed="#L" n="45"/>drinke: when saw we thee harbour, 
           <lb ed="#L" n="46"/>lesse and lodged thee : or naked and 
           <!--1124.xml-->
-          <pb ed="#L" n="1124-"/>
           <cb ed="#L" n="b"/>
-          <lb ed="#L" n="47"/>cloathed theer Or when saw we thee  
-          <lb ed="#L" n="48"/>sick or in prison, &amp; came unto thee a 
+          <lb ed="#L" n="47"/>cloathed thee? Or when saw we thee  
+          <lb ed="#L" n="48"/>sick or in prison, &amp; came unto thee? 
           <lb ed="#L" n="49"/>The king aunswearing, shall say unto  
           <lb ed="#L" n="50"/>them, Verily l say unt o you, in that 
           <lb ed="#L" n="51"/>you did it unto one of the least of  
           <lb ed="#L" n="52"/>these my brethren, you did it unto  
-          <lb ed="#L" n="53"/>me. Then shal he tay also unto them 
+          <lb ed="#L" n="53"/>me. Then shal he say also unto them 
           <lb ed="#L" n="54"/>that are on his lese hand, Depart from  
           <lb ed="#L" n="55"/>me ye cursed, into everlasting fire, 
           <lb ed="#L" n="56"/>which is prepared for the divel and his 
@@ -1257,103 +1358,110 @@
           <lb ed="#L" n="58"/>gave me no meate. I was thirsty and  
           <lb ed="#L" n="59"/>you gave me no drinke, I was a straun 
           <lb ed="#L" n="60"/>ger and you harboured me not. I was 
-          <lb ed="#L" n="61"/>naked etyou cloathed me not. I was 
+          <lb ed="#L" n="61"/>naked &amp; you cloathed me not. I was 
           <lb ed="#L" n="62"/>sick and in prison, and you visited me 
-          <lb ed="#L" n="63"/>not. Then shal they answere et say un 
+          <lb ed="#L" n="63"/>not. Then shal they answere &amp; say un 
           <lb ed="#L" n="64"/>to him, Lord, when saw we thee hun 
           <lb ed="#L" n="65"/>gry, or thirsty, or a straunger, or na 
-          <lb ed="#L" n="66"/>ked, or sick, or in prison, &amp;t ministred.  
-          <lb ed="#L" n="67"/>not unto thee) Then shall he answere  
+          <lb ed="#L" n="66"/>ked, or sick, or in prison, &amp; ministred.  
+          <lb ed="#L" n="67"/>not unto thee? Then shall he answere  
           <lb ed="#L" n="68"/>them, saying: Verily l say unto you,  
           <lb ed="#L" n="69"/>in as much as you did it not unto one  
           <lb ed="#L" n="70"/>of the least of these, neither did you  
-          <lb ed="#L" n="71"/>it unto me. It foloweth after, And they  
+            <lb ed="#L" n="71"/>it unto me.</quote> It foloweth after, <quote>And they  
           <lb ed="#L" n="72"/>shal goe into everlasting punishment,  
           <lb ed="#L" n="73"/>but the righteous into everlasting  
-          <lb ed="#L" n="74"/>life. The Lord also in an other place in  
+          <lb ed="#L" n="74"/>life.</quote> The Lord also in an other place in  
           <lb ed="#L" n="75"/>the Gospell substituting the poore in  
-          <lb ed="#L" n="76"/>his steed, saithrye have the poore withl  
-          <lb ed="#L" n="77"/>you alwaies, &amp;t when ye wil ye may do 
+          <lb ed="#L" n="76"/>his steed, saith: <quote>Ye have the poore with  
+          <lb ed="#L" n="77"/>you alwaies, &amp; when ye wil ye may do 
           <lb ed="#L" n="78"/>them good: but me ye shal not have al 
-          <lb ed="#L" n="79"/>waies. And therfore we reade that the  
+          <lb ed="#L" n="79"/>waies.</quote> And therfore we reade that the  
           <lb ed="#L" n="80"/>Primitive Church was careful in pro 
           <lb ed="#L" n="81"/>viding for the poore, even to the woor 
-          <lb ed="#L" n="82"/>king of miracles,  
-          <lb ed="#L" n="83"/>S. Paul in all places commendeth  
+          <lb ed="#L" n="82"/>king of miracles.  
+        </p>
+        <p>
+          <lb ed="#L" n="83"/><name>S. Paul</name> in all places commendeth  
           <lb ed="#L" n="84"/>the poore to the Church of GOD: hee  
           <lb ed="#L" n="85"/>made collections for the poore almost in  
           <lb ed="#L" n="86"/>al Churches, and the blessings: which  
           <lb ed="#L" n="87"/>hee had gathered, hee distributed with  
           <lb ed="#L" n="88"/>great judgement, faith and diligence.  
           <lb ed="#L" n="89"/>As it will appeare almost in all his e 
-          <lb ed="#L" n="90"/>pistles, specially in the 15. to the Ro 
-          <lb ed="#L" n="91"/>maines, in the first to the Corinthians  
-          <lb ed="#L" n="92"/>the sirteenth Chapter, in the second to  
+          <lb ed="#L" n="90"/>pistles, specially in the <ref>15. to the Ro 
+          <lb ed="#L" n="91"/>maines</ref>, in the first to the <ref>Corinthians  
+          <lb ed="#L" n="92"/>the sirteenth Chapter</ref>, in the second to  
           <!--1125.xml-->
-          <pb ed="#L" n="1125-"/>
+          <pb ed="#L" n="1125"/>
           <cb ed="#L" n="a"/>
-          <lb ed="#L" n="1"/>the Corinthians the eight and ninth  
-          <lb ed="#L" n="2"/>Chapters. And to the Galathians,  
-          <lb ed="#L" n="3"/>while wee haverime (saith hee) let us  
+          <lb ed="#L" n="1"/>the <ref>Corinthians the eight and ninth  
+          <lb ed="#L" n="2"/>Chapters</ref>. And to the Galathians,  
+          <lb ed="#L" n="3"/><quote>While wee have time</quote> (saith hee) <quote>let us  
           <lb ed="#L" n="4"/>doe good towardes all men, especial 
-          <lb ed="#L" n="5"/>ly towardes the housholde of faith. In 
-          <lb ed="#L" n="6"/>the first Epistle to Timothie, hee war 
+          <lb ed="#L" n="5"/>ly towardes the housholde of faith.</quote> In 
+          <lb ed="#L" n="6"/>the <ref>first Epistle to Timothie</ref>, hee war 
           <lb ed="#L" n="7"/>neth that there bee consideration had 
           <lb ed="#L" n="8"/>who should be holpen, and who not to  
           <lb ed="#L" n="9"/>be holpen. In ye same Epistle he giveth  
-          <lb ed="#L" n="10"/>charege to Timothie, and to al the Bi 
+          <lb ed="#L" n="10"/>charge to <name>Timothie</name>, and to al the Bi 
           <lb ed="#L" n="11"/>shops how to deale with the richer fort  
-          <lb ed="#L" n="12"/>in the Church saying: Commaunde  
-          <lb ed="#L" n="13"/>ehem that are rich in this wotlde, that 
+          <lb ed="#L" n="12"/>in the Church saying: <quote>Commaunde  
+          <lb ed="#L" n="13"/>them that are rich in this worlde, that 
           <lb ed="#L" n="14"/>they be not high minded, neither put 
-          <lb ed="#L" n="15"/>their trust in uncertaine rithes, but in  
+          <lb ed="#L" n="15"/>their trust in uncertaine riches, but in  
           <lb ed="#L" n="16"/>the living GOD, who giveth us all  
-          <lb ed="#L" n="17"/>things abundantly to enioy, that they  
+          <lb ed="#L" n="17"/>things abundantly to enjoy, that they  
           <lb ed="#L" n="18"/>may doe good, that they may bee rich  
           <lb ed="#L" n="19"/>in good workes, that they may be rea 
           <lb ed="#L" n="20"/>die to give and bestow willingly, lay 
-          <lb ed="#L" n="21"/>ing up unto theselves a good fosida 
+          <lb ed="#L" n="21"/>ing up unto theselves a good fouda 
           <lb ed="#L" n="22"/>tio against the time to come, that they  
-          <lb ed="#L" n="23"/>may take holde of life everlasting. And  
-          <lb ed="#L" n="24"/>unto the Hebrewes, To do good et to 
+          <lb ed="#L" n="23"/>may take holde of life everlasting.</quote> And  
+          <lb ed="#L" n="24"/>unto the Hebrewes, <quote>To do good et to 
           <lb ed="#L" n="25"/>distribute forget not: for with such sa 
-          <lb ed="#L" n="26"/>crifice God is pleased.  
+          <lb ed="#L" n="26"/>crifice God is pleased.</quote>  
+        </p>
+        <p>
           <lb ed="#L" n="27"/>Wherefore, riches were gathered even 
-          <lb ed="#L" n="28"/>in the time of the Apostles to suecour  
+          <lb ed="#L" n="28"/>in the time of the Apostles to succour  
           <lb ed="#L" n="29"/>ye necessity of the poore withal. Deacos  
           <lb ed="#L" n="30"/>were appointed by the Church as pro 
           <lb ed="#L" n="31"/>viders and stewardes: among whom 
           <lb ed="#L" n="32"/>those first Deacons were moste fa 
-          <lb ed="#L" n="33"/>mous, of whom the Actes of the Apo 
-          <lb ed="#L" n="34"/>stles make mention, and also the no 
-          <lb ed="#L" n="35"/>table martyr of Christ Laurence. And  
+          <lb ed="#L" n="33"/>mous, of whom the <ref>Actes of the Apo 
+          <lb ed="#L" n="34"/>stles</ref> make mention, and also the no 
+          <lb ed="#L" n="35"/>table martyr of Christ <name>Laurence</name>. And  
           <lb ed="#L" n="36"/>the writings of the ancient fathers do 
           <lb ed="#L" n="37"/>testifie that with those ecclesiasticall  
           <lb ed="#L" n="38"/>goods, prisoners were redeemed out of  
           <lb ed="#L" n="39"/>captivity, poore maides of lawful yeres  
-          <lb ed="#L" n="40"/>manried, finally hospitals, almeries,  
+          <lb ed="#L" n="40"/>married, finally hospitals, almeries,  
           <lb ed="#L" n="41"/>spittels, harbours, hostles, and nourse 
           <lb ed="#L" n="42"/>ries were builded, namely to entertain 
-          <lb ed="#L" n="43"/>pooretravellers, for the maintenaunce  
-          <lb ed="#L" n="44"/>of the poore that were born in that cosi 
-          <lb ed="#L" n="45"/>trie, for the reliefe of the ficke and dis 
+          <lb ed="#L" n="43"/>poore travellers, for the maintenaunce  
+          <lb ed="#L" n="44"/>of the poore that were born in that cou 
+          <lb ed="#L" n="45"/>trie, for the reliefe of the sicke and dis 
           <lb ed="#L" n="46"/>eased, for the necessitie of old men, and  
           <!--1125.xml-->
-          <pb ed="#L" n="1125-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>for the honest bringing up of puplis &amp;  
           <lb ed="#L" n="48"/>orphans. Concerning these matters  
-          <lb ed="#L" n="49"/>there are yet ertant certaine imper ial  
+          <lb ed="#L" n="49"/>there are yet extant certaine imperial  
           <lb ed="#L" n="50"/>lawes.  
-          <lb ed="#L" n="51"/>Therefore in reforming of Churs  
+        </p>
+        <p>
+          <lb ed="#L" n="51"/>Wherefore in reforming of Chur
           <lb ed="#L" n="52"/>ches, very diligent heede must be take  
           <lb ed="#L" n="53"/>that there be no offence committed in  
           <lb ed="#L" n="54"/>this behalf through oversight or of pur 
           <lb ed="#L" n="55"/>pose, that the poore be not defrauded, &amp;  
           <lb ed="#L" n="56"/>that in taking away ons abuse, wee 
           <lb ed="#L" n="57"/>bring not in many.  
+        </p>
+        <p>
           <lb ed="#L" n="58"/>If there be plenty of goods, let them 
-          <lb ed="#L" n="59"/>be keptrif there be none, let the be ga 
+          <lb ed="#L" n="59"/>be kept: if there be none, let the be ga 
           <lb ed="#L" n="60"/>thered of the rich. The let the state of  
           <lb ed="#L" n="61"/>the poore be searched, and what every 
           <lb ed="#L" n="62"/>man needeth most, or howe provision 
@@ -1364,7 +1472,9 @@
           <lb ed="#L" n="67"/>any of the common goods remaine, let  
           <lb ed="#L" n="68"/>them be kept against such calamities  
           <lb ed="#L" n="69"/>as may ensue. Let nothing bee consu 
-          <lb ed="#L" n="70"/>med unprofitably or ungodlily,  
+          <lb ed="#L" n="70"/>med unprofitably or ungodlily.  
+        </p>
+        <p>
           <lb ed="#L" n="71"/>Again, let not the treasure of the poore  
           <lb ed="#L" n="72"/>unhappily be detained from them by  
           <lb ed="#L" n="73"/>fraude, and to the increasing of their  
@@ -1375,20 +1485,22 @@
           <lb ed="#L" n="78"/>have intreated in an other place in  
           <lb ed="#L" n="79"/>these our Decades : and of providing  
           <lb ed="#L" n="80"/>for the poore, in other of our woorkes.  
-          <lb ed="#L" n="81"/>And Lewis Vives hath written very 
+          <lb ed="#L" n="81"/>And <name>Lewis Viues</name> hath written very 
           <lb ed="#L" n="82"/>wel of releeving the poore.  
+        </p>
+        <p>
           <lb ed="#L" n="83"/>The fourth and last part of the  
           <lb ed="#L" n="84"/>goods of the Church, apperteineth un 
           <lb ed="#L" n="85"/>to holy buildings, as churches, scholes,  
           <lb ed="#L" n="86"/>and houses belonging to churches, and  
-          <lb ed="#L" n="87"/>fchooles. Churches which because of  
-          <lb ed="#L" n="88"/>the companies gathered together in :  
+          <lb ed="#L" n="87"/>schooles. Churches which because of  
+          <lb ed="#L" n="88"/>the companies gathered together in  
           <lb ed="#L" n="89"/>them are also called cogregations, are  
           <lb ed="#L" n="90"/>the houses of the Lorde our God. Not  
           <lb ed="#L" n="91"/>that God whom the wide compasse of  
           <lb ed="#L" n="92"/>the heavens cannot comprehend, doth  
           <!--1126.xml-->
-          <pb ed="#L" n="1126-"/>
+          <pb ed="#L" n="1126"/>
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>dwell in suche manner of houses, but  
           <lb ed="#L" n="2"/>because the congregation and people  
@@ -1401,18 +1513,20 @@
           <lb ed="#L" n="9"/>very necessary for the Church &amp; people  
           <lb ed="#L" n="10"/>of God. Touching holy assemblies, I  
           <lb ed="#L" n="11"/>have said somewhat in the disputati 
-          <lb ed="#L" n="12"/>ons of prayer 
+          <lb ed="#L" n="12"/>ons of prayer. 
+        </p>
+        <p>
           <lb ed="#L" n="13"/>And although that at the comman 
-          <lb ed="#L" n="14"/>demet of God. Moses builded a move 
+          <lb ed="#L" n="14"/>demet of God, <name>Moses</name> builded a move 
           <lb ed="#L" n="15"/>able Churche, and afterward the most  
-          <lb ed="#L" n="16"/>wise king Solomon founded a stan 
+          <lb ed="#L" n="16"/><name>wise king Solomon</name> founded a stan 
           <lb ed="#L" n="17"/>ding Church not without great cost,  
           <lb ed="#L" n="18"/>notwithstanding we must not thinke  
           <lb ed="#L" n="19"/>therfore that God liketh of such great 
           <lb ed="#L" n="20"/>chareges after that he had sent Christ,  
-          <lb ed="#L" n="21"/>and fulsilled the figures. For as before  
-          <lb ed="#L" n="22"/>the law was made, it is not to be fosid  
-          <lb ed="#L" n="23"/>that the Patriarches did ever bvild a 
+          <lb ed="#L" n="21"/>and fulfilled the figures. For as before  
+          <lb ed="#L" n="22"/>the law was made, it is not to be foud  
+          <lb ed="#L" n="23"/>that the Patriarches did ever build a 
           <lb ed="#L" n="24"/>ny Minsters and great Churches, e 
           <lb ed="#L" n="25"/>ven so after the disanulling of the law 
           <lb ed="#L" n="26"/>in the Church of Christ, a meane and  
@@ -1420,7 +1534,7 @@
           <lb ed="#L" n="28"/>For God misliketh that foolish &amp; mad 
           <lb ed="#L" n="29"/>kinde of buildinges, not much unlike 
           <lb ed="#L" n="30"/>to that unwise building of Babylon,  
-          <lb ed="#L" n="31"/>enter prising to set up the toppe of the  
+          <lb ed="#L" n="31"/>enterprising to set up the toppe of the  
           <lb ed="#L" n="32"/>tower above the cloudes. For God li 
           <lb ed="#L" n="33"/>keth not the riotousnesse of Churches,  
           <lb ed="#L" n="34"/>who without all riot doth gather his 
@@ -1434,27 +1548,28 @@
           <lb ed="#L" n="42"/>God. But above all thinges let that 
           <lb ed="#L" n="43"/>place be cleane and holy. A Church is  
           <lb ed="#L" n="44"/>hallowed or consecrated, not (as some  
-          <lb ed="#L" n="45"/>doe supeestitiously thinke) with the re 
+          <lb ed="#L" n="45"/>doe superstitiously thinke) with the re 
           <lb ed="#L" n="46"/>hearsing of certeyne wordes or ma 
           <!--1126.xml-->
-          <pb ed="#L" n="1126-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>king signes and Characters, or with  
           <lb ed="#L" n="48"/>oyle, or purging fire, but with the wil  
           <lb ed="#L" n="49"/>of God and his commandement, bid 
-          <lb ed="#L" n="50"/>ding us to assemhle and come together, 
+          <lb ed="#L" n="50"/>ding us to assemble and come together, 
           <lb ed="#L" n="51"/>promising his presence amongst us : &amp;  
-          <lb ed="#L" n="52"/>also, it is allowed by the holy use of it,  
+          <lb ed="#L" n="52"/>also, it is allowed by the holy use of it.  
           <lb ed="#L" n="53"/>For in the temple the holy Churche of  
           <lb ed="#L" n="54"/>God is gathered together:the true and  
           <lb ed="#L" n="55"/>most blessed word of God is also decla 
-          <lb ed="#L" n="56"/>red in the temple: the holy sacramets  
+          <lb ed="#L" n="56"/>red in the temple: the holy Sacramets  
           <lb ed="#L" n="57"/>of God are received in the temple: and  
           <lb ed="#L" n="58"/>also in the temple prayers are powred  
           <lb ed="#L" n="59"/>foorth to God which are most accepta 
-          <lb ed="#L" n="60"/>ble unto him 
+          <lb ed="#L" n="60"/>ble unto him.
+        </p>
+        <p>
           <lb ed="#L" n="61"/>Verily the place of it selfe is no 
-          <lb ed="#L" n="62"/>thing holy, but because these holye  
+          <lb ed="#L" n="62"/>thing holy, but because these holy,  
           <lb ed="#L" n="63"/>things are done in that place in respect  
           <lb ed="#L" n="64"/>that they are done there, the place it  
           <lb ed="#L" n="65"/>selfe is called holy. Therefore not with 
@@ -1467,7 +1582,7 @@
           <lb ed="#L" n="72"/>rently towardes it, should be accused  
           <lb ed="#L" n="73"/>of treason. And yet in this court the  
           <lb ed="#L" n="74"/>Senators onely are gathered and as 
-          <lb ed="#L" n="75"/>semhled together, to heare the matters  
+          <lb ed="#L" n="75"/>sembled together, to heare the matters  
           <lb ed="#L" n="76"/>of suiters in thinges transitory that  
           <lb ed="#L" n="77"/>shall passe away and perish. By how  
           <lb ed="#L" n="78"/>much the more then ought reverence  
@@ -1484,27 +1599,29 @@
           <lb ed="#L" n="89"/>temples to rehearse and search out of  
           <lb ed="#L" n="90"/>pen and plaine superstitios. Of which  
           <lb ed="#L" n="91"/>matter wee have spoken in another 
-          <lb ed="#L" n="92"/>place,  
+          <lb ed="#L" n="92"/>place.
+        </p>
+        <p>
           <!--1127.xml-->
-          <pb ed="#L" n="1127-"/>
+          <pb ed="#L" n="1127"/>
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>I finde it a matter of controversie  
-          <lb ed="#L" n="2"/>ampog the fathers of old time, to what 
+          <lb ed="#L" n="2"/>amog the fathers of old time, to what 
           <lb ed="#L" n="3"/>part of the worlde we ought to turne  
           <lb ed="#L" n="4"/>when we pray. Socrates the historio 
-          <lb ed="#L" n="5"/>grapher in his fifth booke cap.2a, spea 
+          <lb ed="#L" n="5"/>grapher in his <ref>fifth booke cap.2a</ref>, spea 
           <lb ed="#L" n="6"/>king of the most, aunctient Apostolique  
-          <lb ed="#L" n="7"/>Church of the whole worlde at. Anti 
-          <lb ed="#L" n="8"/>oche, saith: At Antiothe, which is  
-          <lb ed="#L" n="9"/>in Syria, the Churthe is set contrarie  
+          <lb ed="#L" n="7"/>Church of the whole worlde at. <name>Anti 
+          <lb ed="#L" n="8"/>oche</name>, saith: <quote>At Antioche, which is  
+          <lb ed="#L" n="9"/>in Syria, the Churche is set contrarie  
           <lb ed="#L" n="10"/>to other, for the altar, looketh not ro 
-          <lb ed="#L" n="11"/>wards the East, bue towards the West,  
+          <lb ed="#L" n="11"/>wards the East, but towards the West.</quote>  
           <lb ed="#L" n="12"/>It may bee they, did imitate, the fa 
           <lb ed="#L" n="13"/>shion of the old people in building and  
           <lb ed="#L" n="14"/>setting their tabernacle, and in the fa 
           <lb ed="#L" n="15"/>shion of their temple. For they woor 
           <lb ed="#L" n="16"/>shipped God turning towardes the  
-          <lb ed="#L" n="17"/>Wlest, without doubt because of the  
+          <lb ed="#L" n="17"/>West, without doubt because of the  
           <lb ed="#L" n="18"/>comming of Christ in the latter time,  
           <lb ed="#L" n="19"/>and at the ende of the worlde. Other 
           <lb ed="#L" n="20"/>wise it is comonly used that men wor 
@@ -1513,6 +1630,8 @@
           <lb ed="#L" n="23"/>superstition, dissention, licentiousnes  
           <lb ed="#L" n="24"/>and offence, a man may doe what him 
           <lb ed="#L" n="25"/>lusteth.  
+        </p>
+        <p>
           <lb ed="#L" n="26"/>But there ought no temple to bee  
           <lb ed="#L" n="27"/>built for the worshipping of saintes,  
           <lb ed="#L" n="28"/>For unto God onely, to whom all ho 
@@ -1524,26 +1643,25 @@
           <lb ed="#L" n="34"/>laters built temples unto creatures,  
           <lb ed="#L" n="35"/>sinning against the true and eternall  
           <lb ed="#L" n="36"/>God in committing a grievous offece,  
-          <lb ed="#L" n="37"/>S. Augustine in his booke, De civita 
-          <lb ed="#L" n="38"/>te Dei, saith plainely. we builde not 
-          <lb ed="#L" n="39"/>temples unto our Martyres. And again  
-          <lb ed="#L" n="40"/>in his first booke against Mariminus  
-          <lb ed="#L" n="41"/>a bishoppe of the Arians, Ifwe should  
-          <lb ed="#L" n="42"/>(saith he) builde a Churth of timber  
+          <lb ed="#L" n="37"/><name>S. Augustine</name> in his booke, <foreign>De civita 
+          <lb ed="#L" n="38"/>te Dei</foreign>, saith plainely. <quote>We builde not 
+          <lb ed="#L" n="39"/>temples unto our Martyres.</quote> And again  
+          <lb ed="#L" n="40"/>in his first booke against <name>Maximinus  
+            <lb ed="#L" n="41"/>a bishoppe of the Arians</name>, <quote>If we should</quote>  
+          <lb ed="#L" n="42"/>(saith he) <quote>builde a Church of timber  
           <lb ed="#L" n="43"/>and stones unto some excellent holye  
           <lb ed="#L" n="44"/>Angel, should we not bee accursed by 
-          <lb ed="#L" n="45"/>the truth of Christ, and the Churth of  
-          <lb ed="#L" n="46"/>Godr Jecause we should do that ser 
+          <lb ed="#L" n="45"/>the truth of Christ, and the Church of  
+          <lb ed="#L" n="46"/>God? Because we should do that ser 
           <!--1127.xml-->
-          <pb ed="#L" n="1127-"/>
           <cb ed="#L" n="b"/>
-          <lb ed="#L" n="47"/>vrer unto a cteature, that is due onely  
+          <lb ed="#L" n="47"/>vice unto a cteature, that is due onely  
           <lb ed="#L" n="48"/>to God? Therefore if we should com 
           <lb ed="#L" n="49"/>mit sacriledge in making a temple, to  
-          <lb ed="#L" n="50"/>every creaeure whatsoever, how may 
-          <lb ed="#L" n="51"/>ie be that God is not crue unto, whom 
+          <lb ed="#L" n="50"/>every creature whatsoever, how may 
+          <lb ed="#L" n="51"/>it be that God is not true unto, whom 
           <lb ed="#L" n="52"/>we make no temple, but we our selves  
-          <lb ed="#L" n="53"/>are actemple far him Thus much sai 
+          <lb ed="#L" n="53"/>are actemple for him?</quote> Thus much sai 
           <lb ed="#L" n="54"/>eth he. Againe, they are to be counted  
           <lb ed="#L" n="55"/>lyars, wo affirm ye temples were built  
           <lb ed="#L" n="56"/>by certaine religious men in the woor 
@@ -1552,8 +1670,10 @@
           <lb ed="#L" n="59"/>in times past, as we have both against  
           <lb ed="#L" n="60"/>the riotousnes of the Church, &amp; the un 
           <lb ed="#L" n="61"/>profitable expenses there of, in the first  
-          <lb ed="#L" n="62"/>booke intituled, De origine excoris, the  
-          <lb ed="#L" n="63"/>23, chay.  
+          <lb ed="#L" n="62"/>booke intituled, <ref><foreign>De origine erroris</foreign>, the  
+          <lb ed="#L" n="63"/>23. chap.  </ref>
+        </p>
+        <p>
           <lb ed="#L" n="64"/>Instrumentes belonging to the  
           <lb ed="#L" n="65"/>church, ought to be holy, cleane, and  
           <lb ed="#L" n="66"/>voyde of all riot, and farre from any  
@@ -1573,73 +1693,78 @@
           <lb ed="#L" n="80"/>tivity, and fedde such as were like to  
           <lb ed="#L" n="81"/>perish for hunger. Many examples of  
           <lb ed="#L" n="82"/>this fort have I gathered in my booke  
-          <lb ed="#L" n="83"/>of the Institution of Bishoppes, the 9. 
-          <lb ed="#L" n="84"/>Chapter. As for candles, whereof wee  
+          <lb ed="#L" n="83"/>of the <ref>Institution of Bishoppes, the 9. 
+          <lb ed="#L" n="84"/>Chapter.</ref> As for candles, whereof wee  
           <lb ed="#L" n="85"/>made mention even nowe, sure it is  
           <lb ed="#L" n="86"/>that the ancient fathers used them in  
           <lb ed="#L" n="87"/>the Churches to drive away the dark 
           <lb ed="#L" n="88"/>nes of the night, as it appeareth in the  
-          <lb ed="#L" n="89"/>twentie Chapter of the Actes of the A 
-          <lb ed="#L" n="90"/>postles. But it is, a foolish matter and  
+          <lb ed="#L" n="89"/><ref>twentie Chapter of the Actes of the A 
+          <lb ed="#L" n="90"/>postles</ref>. But it is, a foolish matter and  
           <lb ed="#L" n="91"/>nothing religious to use lightes in the  
-          <lb ed="#L" n="92"/>worshipping of God, Lactantius criech  
+          <lb ed="#L" n="92"/>worshipping of God, <name>Lactantius</name> crieth  
           <!--1128.xml-->
-          <pb ed="#L" n="1128-"/>
+          <pb ed="#L" n="1128"/>
           <cb ed="#L" n="a"/>
-          <lb ed="#L" n="1"/>out, shal we judge him to be wel in his 
+          <lb ed="#L" n="1"/>out, <quote>shal we judge him to be wel in his 
           <lb ed="#L" n="2"/>wits which offereth the light of a bur 
           <lb ed="#L" n="3"/>ning wato, candle or taper for a pre 
-          <lb ed="#L" n="4"/>sen tto the authour and giver of light :  
+          <lb ed="#L" n="4"/>sent to the authour and giver of light?  
           <lb ed="#L" n="5"/>Hee requireth other manner of light 
           <lb ed="#L" n="6"/>at our handes, and that not smoakie,  
           <lb ed="#L" n="7"/>but cleare and bright, to wit the light  
-          <lb ed="#L" n="8"/>of the minde. But a man may com 
+          <lb ed="#L" n="8"/>of the minde.</quote> But a man may com 
           <lb ed="#L" n="9"/>monly see in these dayes, a great part 
           <lb ed="#L" n="10"/>of the worshipping of God to be repo 
           <lb ed="#L" n="11"/>sed in the offering of candels, which  
           <lb ed="#L" n="12"/>thing is cleane against the manifest  
-          <lb ed="#L" n="13"/>truth,  
+          <lb ed="#L" n="13"/>truth.  
+          </p>
+          <p>
           <lb ed="#L" n="14"/>Amongst other instruments of the  
           <lb ed="#L" n="15"/>Church, bels are reckoned uppe, which  
           <lb ed="#L" n="16"/>at these dayes are unto us, as in olde  
           <lb ed="#L" n="17"/>time trumpets were unto the people of  
-          <lb ed="#L" n="18"/>God For they serue to cal the congre 
-          <lb ed="#L" n="19"/>gation together, and they are numbred 
+          <lb ed="#L" n="18"/>God For they serve to cal the congre
+          <lb ed="#L" n="19"/>gatio together, and they are numbred 
           <lb ed="#L" n="20"/>among tokens and warnings. About  
-          <lb ed="#L" n="21"/>bels there is a wonderful superstition,  
+          <lb ed="#L" n="21"/>bels there is a wonderful superstition.  
           <lb ed="#L" n="22"/>They are christened by bishops: and it  
-          <lb ed="#L" n="23"/>is thought ye they have polver to put 
+          <lb ed="#L" n="23"/>is thought ye they have power to put 
           <lb ed="#L" n="24"/>away any great tempest. In the olde  
-          <lb ed="#L" n="25"/>time men were slirred up to prayer by  
-          <lb ed="#L" n="26"/>theringing of them, what time any  
-          <lb ed="#L" n="27"/>fore tempest did riserbut now the very 
-          <lb ed="#L" n="28"/>ringing of bels, byreason of their cose 
+          <lb ed="#L" n="25"/>time men were stirred up to prayer by  
+          <lb ed="#L" n="26"/>the ringing of them, what time any  
+          <lb ed="#L" n="27"/>fore tempest did rise: but now the very 
+          <lb ed="#L" n="28"/>ringing of bels, by reason of their cose 
           <lb ed="#L" n="29"/>cratio seemeth to have a peculiar kind  
-          <lb ed="#L" n="30"/>of vertue in it. Tho ean but marvel 
+          <lb ed="#L" n="30"/>of vertue in it. Who can but marvel 
           <lb ed="#L" n="31"/>and be astonied at this extreme blind 
-          <lb ed="#L" n="32"/>nesse: Moreover they use belles to be 
+          <lb ed="#L" n="32"/>nesse? Moreover they use belles to be 
           <lb ed="#L" n="33"/>wayle the dead. Al which things are  
           <lb ed="#L" n="34"/>superstitious, and , utterly to bee con 
-          <lb ed="#L" n="35"/>temned: ymum or id124s 1: Tmmar  
-          <lb ed="#L" n="36"/>For somuch as thetrue use of the  
+          <lb ed="#L" n="35"/>temned. 
+        </p>
+        <p>
+          <lb ed="#L" n="36"/>For so much as the true use of the  
           <lb ed="#L" n="37"/>church goods consisteth in those things  
           <lb ed="#L" n="38"/>which we reckoned up before, it follo 
           <lb ed="#L" n="39"/>weth that the abuse therof must needs  
-          <lb ed="#L" n="40"/>be in the rftraries, whether we do of 
-          <lb ed="#L" n="41"/>fend in dne kind or im many. Justice &amp;  
+          <lb ed="#L" n="40"/>be in the rotraries, whether we do of 
+          <lb ed="#L" n="41"/>fend in one kind or in many. Justice &amp;  
           <lb ed="#L" n="42"/>equity is to be kept in these as well as  
-          <lb ed="#L" n="43"/>in all other things,  
-          <lb ed="#L" n="44"/>Te ought not to take from one ma 
+          <lb ed="#L" n="43"/>in all other things.  
+        </p>
+        <p>
+          <lb ed="#L" n="44"/>We ought not to take from one ma 
           <lb ed="#L" n="45"/>&amp; give to another, but wee must give  
-          <lb ed="#L" n="46"/>untoevery one that which is his own.  
+          <lb ed="#L" n="46"/>unto every one that which is his own.  
           <!--1128.xml-->
-          <pb ed="#L" n="1128-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>Therefore we may not take any thing  
           <lb ed="#L" n="48"/>from the poore and give it to the mini 
           <lb ed="#L" n="49"/>sters of ye church : neither is their por 
           <lb ed="#L" n="50"/>tion and necessaries to be taken from 
-          <lb ed="#L" n="51"/>them, that the poore may live thereof,  
+          <lb ed="#L" n="51"/>them, that the poore may live thereof.  
           <lb ed="#L" n="52"/>The holy scripture giveth one portion  
           <lb ed="#L" n="53"/>of the church goods to the ministers of  
           <lb ed="#L" n="54"/>the Church : and the same Churche  
@@ -1650,22 +1775,26 @@
           <lb ed="#L" n="59"/>unto the poore their partes due unto  
           <lb ed="#L" n="60"/>them, they defile themselves with sa 
           <lb ed="#L" n="61"/>criledge.  
+        </p>
+        <p>
           <lb ed="#L" n="62"/>If the ministers do not challege un 
-          <lb ed="#L" n="63"/>to thefelves al the goods of the Church,  
+          <lb ed="#L" n="63"/>to theselves al the goods of the Church,  
           <lb ed="#L" n="64"/>&amp; yet doe take unjustly more than ey 
           <lb ed="#L" n="65"/>ther it becommeth them, or than neede  
           <lb ed="#L" n="66"/>requireth, or otherwise than the decree  
-          <lb ed="#L" n="67"/>of God and the Apostles doth allower  
+          <lb ed="#L" n="67"/>of God and the Apostles doth allowe:  
           <lb ed="#L" n="68"/>or else if they spende unthriftily that  
           <lb ed="#L" n="69"/>portion due unto the, they grievously  
           <lb ed="#L" n="70"/>offende. But they sinne greatly, yea, 
           <lb ed="#L" n="71"/>most horribly if they wast the goodes  
           <lb ed="#L" n="72"/>of the poore, in hunting, dicing, drin 
           <lb ed="#L" n="73"/>king and ryoting, whore hunting, or  
-          <lb ed="#L" n="74"/>else in warrefare, :and in the meane  
+          <lb ed="#L" n="74"/>else in warrefare, and in the meane  
           <lb ed="#L" n="75"/>time: have no regarde of the Church,  
           <lb ed="#L" n="76"/>neyther care whut is done there, or  
           <lb ed="#L" n="77"/>how.  
+        </p>
+        <p>
           <lb ed="#L" n="78"/>But if a just and good portion fall  
           <lb ed="#L" n="79"/>unto the poore, perhaps there will bee  
           <lb ed="#L" n="80"/>a fault in this poynt, in the Steward 
@@ -1680,31 +1809,33 @@
           <lb ed="#L" n="89"/>monly used. Wee bestow great costes  
           <lb ed="#L" n="90"/>and chareges upon stones and stockes,  
           <lb ed="#L" n="91"/>that is to say uppon idols voyde of all  
-          <lb ed="#L" n="92"/>understandingbut there is no regard 
+          <lb ed="#L" n="92"/>understanding: but there is no regard 
           <!--1129.xml-->
-          <pb ed="#L" n="1129-"/>
+          <pb ed="#L" n="1129"/>
           <cb ed="#L" n="a"/>
           <lb ed="#L" n="1"/>had unto the poore who are the perfect  
           <lb ed="#L" n="2"/>images of God. Which kinde of mad 
-          <lb ed="#L" n="3"/>nes is heathenish &amp; ertreme folly. But  
+          <lb ed="#L" n="3"/>nes is heathenish &amp; extreme folly. But  
           <lb ed="#L" n="4"/>forsomuch as other have already very,  
           <lb ed="#L" n="5"/>largely spoke of the abuse of the church  
           <lb ed="#L" n="6"/>goods, &amp; we also have set down certain, 
           <lb ed="#L" n="7"/>matters concerning the same else 
           <lb ed="#L" n="8"/>where, I will for this time make an  
-          <lb ed="#L" n="9"/>end of speaking thereof,  
+          <lb ed="#L" n="9"/>end of speaking thereof.  
+        </p>
+        <p>
           <lb ed="#L" n="10"/>I would also now intreate of the ho 
           <lb ed="#L" n="11"/>ly time, which treatise is altogether 
           <lb ed="#L" n="12"/>like that of the holy place, whereof we  
           <lb ed="#L" n="13"/>disputed elsewhere, but that we have  
-          <lb ed="#L" n="14"/>also discoursed therof in the expoiiding  
+          <lb ed="#L" n="14"/>also discoursed therof in the expouiding  
           <lb ed="#L" n="15"/>of the tenne commaundements. This,  
           <lb ed="#L" n="16"/>onely I doe adde at this present time,  
           <lb ed="#L" n="17"/>that there ought to bee no odious con 
           <lb ed="#L" n="18"/>tention in the church concerning that  
           <lb ed="#L" n="19"/>matter, but that in this and other such  
           <lb ed="#L" n="20"/>like cases, discipline with charitie is  
-          <lb ed="#L" n="21"/>constantly to bee obserued. For it be 
+          <lb ed="#L" n="21"/>constantly to bee observed. For it be 
           <lb ed="#L" n="22"/>houeth us to bee mindfull of the most  
           <lb ed="#L" n="23"/>pernicious contention about the kee 
           <lb ed="#L" n="24"/>ping of Easter, which with much dan 
@@ -1712,47 +1843,48 @@
           <lb ed="#L" n="26"/>long time troubled the churches of the  
           <lb ed="#L" n="27"/>East and West: and beware in anye  
           <lb ed="#L" n="28"/>case that through contention there bee  
-          <lb ed="#L" n="29"/>not a gappeleft open uuto Sathan to  
+          <lb ed="#L" n="29"/>not a gappe left open unto Sathan to  
           <lb ed="#L" n="30"/>enter in. It were profitable in mine  
           <lb ed="#L" n="31"/>opinion both in this case and in suche  
-          <lb ed="#L" n="32"/>like, to rememder the counsell which  
-          <lb ed="#L" n="33"/>S, Augustine giveth, That that which  
-          <lb ed="#L" n="34"/>is emoyned us, and is neither against  
+          <lb ed="#L" n="32"/>like, to remember the counsell which  
+          <lb ed="#L" n="33"/><name>S. Augustine</name> giveth, <quote>That that which  
+          <lb ed="#L" n="34"/>is enjoyned us, and is neither against  
           <lb ed="#L" n="35"/>faith, nor good manners, is to be ac 
           <lb ed="#L" n="36"/>counted indifferent, and to be obser 
           <lb ed="#L" n="37"/>ved according to the societie of them 
-          <lb ed="#L" n="38"/>with whom we live. In the 1s. Epi 
-          <lb ed="#L" n="39"/>stle to Januarius,  
-          <lb ed="#L" n="40"/>Anto the holy ministery belongeth  
+          <lb ed="#L" n="38"/>with whom we live.</quote> In the <ref>118. Epi 
+          <lb ed="#L" n="39"/>stle to <name>Januarius</name></ref>.  
+        </p>
+        <p>
+          <lb ed="#L" n="40"/>Unto the holy ministery belongeth  
           <lb ed="#L" n="41"/>also discipline and correction of the  
           <lb ed="#L" n="42"/>ministers. How necessary this is, it  
           <lb ed="#L" n="43"/>may bee gathered by these woordes of  
-          <lb ed="#L" n="44"/>our Lorde Christ, Lou are the salt of  
+          <lb ed="#L" n="44"/>our Lorde Christ, <quote>You are the salt of  
           <lb ed="#L" n="45"/>the earth. If the salt hath lost her salt 
-          <lb ed="#L" n="46"/>nesse, what shall bee salted therewiths  
+          <lb ed="#L" n="46"/>nesse, what shall bee salted therewith?  
           <!--1129.xml-->
-          <pb ed="#L" n="1129-"/>
           <cb ed="#L" n="b"/>
           <lb ed="#L" n="47"/>It is good for nothing else but to bee  
-          <lb ed="#L" n="48"/>thrown out of the doores, et to be tro 
-          <lb ed="#L" n="49"/>den uuder foote of men. I know there 
+          <lb ed="#L" n="48"/>thrown out of the doores, &amp; to be tro 
+          <lb ed="#L" n="49"/>den uuder foote of men.</quote> I know there 
           <lb ed="#L" n="50"/>bee some that doe boast them selves of  
           <lb ed="#L" n="51"/>certaine priviledges wherby they are  
-          <lb ed="#L" n="52"/>erempted from all discipline. But  
+          <lb ed="#L" n="52"/>exempted from all discipline. But  
           <lb ed="#L" n="53"/>they are deceived for the Lorde hath  
           <lb ed="#L" n="54"/>made all the ministers of his Church  
-          <lb ed="#L" n="55"/>subiect unto discipline. Tho so ther 
+          <lb ed="#L" n="55"/>subject unto discipline. Tho so ther 
           <lb ed="#L" n="56"/>fore will bee exempted from discipline.  
-          <lb ed="#L" n="57"/>are not Christes ministers, Or, whoI 
+          <lb ed="#L" n="57"/>are not Christes ministers, Or, who I 
           <lb ed="#L" n="58"/>pray you will say that hee is free from  
           <lb ed="#L" n="59"/>discipline, whom the Lord would have  
-          <lb ed="#L" n="60"/>altogether subiect and bounde unto its  
+          <lb ed="#L" n="60"/>altogether subject and bounde unto it?  
           <lb ed="#L" n="61"/>Against the commaundement of God 
           <lb ed="#L" n="62"/>there is no Popes lawe, no priviledge  
           <lb ed="#L" n="63"/>of king or Emperour of force. For no  
           <lb ed="#L" n="64"/>man can abrogate the decree of the  
           <lb ed="#L" n="65"/>high God. And the Lord commandeth  
-          <lb ed="#L" n="66"/>to warne and correct eveny brother 
+          <lb ed="#L" n="66"/>to warne and correct every brother 
           <lb ed="#L" n="67"/>that doth amisse : therefore would hee  
           <lb ed="#L" n="68"/>have us also sharpely to admonishe  
           <lb ed="#L" n="69"/>the ministers of the churches that are  
@@ -1766,18 +1898,18 @@
           <lb ed="#L" n="77"/>discipline. Wee reade howe the pro 
           <lb ed="#L" n="78"/>phets of the Lord blamed very bitter 
           <lb ed="#L" n="79"/>ly all the Colledges of Priests, and the  
-          <lb ed="#L" n="80"/>high Priests also. Eramples are to bee  
+          <lb ed="#L" n="80"/>high Priests also. Examples are to bee  
           <lb ed="#L" n="81"/>founde in every place throughout the  
           <lb ed="#L" n="82"/>holy history, and in the writings of the  
-          <lb ed="#L" n="83"/>Prophets. Pea, Saynt Paul repro 
-          <lb ed="#L" n="84"/>ved the most holy Apostle saint Pe 
-          <lb ed="#L" n="85"/>ter at Antioch in byria in the sight of  
+          <lb ed="#L" n="83"/>Prophets. Yea, <name>Saynt Paul</name> repro 
+          <lb ed="#L" n="84"/>ved <name>the most holy Apostle saint Pe 
+          <lb ed="#L" n="85"/>ter</name> at Antioch in Syria in the sight of  
           <lb ed="#L" n="86"/>the whole Congregation, for that hee  
           <lb ed="#L" n="87"/>taught not directly according to ye pre 
           <lb ed="#L" n="88"/>script rule of the Gospell. And to bee  
-          <lb ed="#L" n="89"/>short, Christ hiself in the revelation  
-          <lb ed="#L" n="90"/>which was made to S. John the Apo 
-          <lb ed="#L" n="91"/>stle, doth very sharply admonish and  
+          <lb ed="#L" n="89"/>short, Christ himself in the revelation  
+          <lb ed="#L" n="90"/>which was made to <name>S. John the Apo 
+          <lb ed="#L" n="91"/>stle</name>, doth very sharply admonish and  
           <lb ed="#L" n="92"/>reprove the Angels, that is to say, the  
           </p>
       </div>
