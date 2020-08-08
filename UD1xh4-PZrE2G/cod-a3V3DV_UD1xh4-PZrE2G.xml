@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 8</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 8</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="66-v"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-PZrE2G"><!-- d2s8 --> 
+        <head xml:id="UD1xh4-PZrE2G-Hd1e106">Sermo 8</head>
+        <head xml:id="UD1xh4-PZrE2G-Hd1e109" type="question-title">
+       De Iudicio et officio Iudicis. Iudicia non esse Christianis prohibita. De uindicta et poena. 
+       An liceat magistratui caedere sentes? Quare, quando, quomodo, &amp; quid puniat? An propter 
+       religionem punire possit?
+      </head>
+        <p xml:id="UD1xh4-PZrE2G-d1e112">
+          <lb ed="#Z" n="15"/><pc type="indent"/> De Iudicio &amp; officio Iudicis. Iudicia non esse Christianis prohibita. De uindicta &amp; poena. 
+          <lb ed="#Z" n="16"/>An liceat magistratui caedere sentes? Quare, quando, quomodo, &amp; quid puniat? An propter 
+          <lb ed="#Z" n="17"/>religionem punire possit? SERMO VIII 
+          <lb ed="#Z" n="18"/>DIXI heri de ordinatione magistratus, restant duo reliqua huius officia 
+          <lb ed="#Z" n="19"/>Iudicium &amp; Poena siue ultio, de quibus, pro gratia a deo concessa, bre- 
+          <lb ed="#Z" n="20"/>uitate succincta dicam: uos intentis animis attendite, &amp; domino pro 
+          gra<lb ed="#Z" n="21" break="no"/>tia supplicate. 
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e131">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Iudicium uarie accipitur, sed in praesenti est sententia iudicum interposita 
+          in<lb ed="#Z" n="23" break="no"/>ter litigantes, desumpta autem ex legibus secundum aequum &amp; bonum, prout 
+          <lb ed="#Z" n="24"/>causa proposita a partibus requisiuit, pronunciata in hoc, ut dirimat litigantes, &amp;  
+          <lb ed="#Z" n="25"/>ut suum cuique cedat. Prodeunt enim in iudicum consessum partes, litigant de 
+          hae<lb ed="#Z" n="26" break="no"/>reditate aut possessione aliqua, quam partium quaelibet ad se iure pertinere 
+          con<lb ed="#Z" n="27" break="no"/>tendit, proposits in medium argumentis, quibus suum ius probant atque 
+          demon<lb ed="#Z" n="28" break="no"/>strant. Ea diligenter audiunt &amp; colligunt iudices, deinde eadem comferunt inter 
+          <lb ed="#Z" n="29"/>se &amp; cum legibus, postremo ferunt sententiam, qua possessionem alterae parti 
+          de<lb ed="#Z" n="30" break="no"/>cernunt, alterae adimunt. Similis ratio est &amp; in alijs causis. Hoc uero iudicium est,  
+          <lb ed="#Z" n="31"/>ipsa inquam iustitiae executio. Est autem haec ratio dirimendi &amp; coponendi 
+          par<lb ed="#Z" n="32" break="no"/>tes lenior, consequente nimirum poena atque uindicta, cum iam non tantum 
+          uer<lb ed="#Z" n="33" break="no"/>bis res agitur &amp; sententijs, sed uerberibus &amp; gladio. Et sunt quidem caussae 
+          diuer<lb ed="#Z" n="34" break="no"/>sae, quarum aliae non possunt nisi gladio finiri, aliae sententijs &amp; mitius longe tran 
+          <lb ed="#Z" n="35"/>siguntur. Caeterum in his est salus &amp; incolumitas regni uel reipub. Sunt itaque 
+          iu<lb ed="#Z" n="36" break="no"/>dicium &amp; poena in officijs magistratus longe praestantissima, etsi uideantur dura 
+          <lb ed="#Z" n="37"/>ac crudelia. Verum nisi exerceatur haec (ut uidetur) crudelitas, omnes aetates, or- 
+          <lb ed="#Z" n="38"/>dines &amp; sexus experientur longe crudeliora &amp; reuera crudelissima. Nam 
+          crude<lb ed="#Z" n="39" break="no"/>litas non est, quae iubente domino, ad seruandos innoxios, &amp; ad tranquillitatem in 
+          <lb ed="#Z" n="40"/>regno seruandam, exercetur, iusta magis est seueritas. Finge autem rempublicam  
+          <lb ed="#Z" n="41"/>esse quae absolutissimis instructa sit legibus, quod religionem attinet &amp; mores 
+          po<lb ed="#Z" n="42" break="no"/>liticos: finge praeterea nullum esse in republica illa magistratum qui leges illas ex 
+          <lb ed="#Z" n="43"/>erceat &amp; tueatur, qui omnia dicta &amp; facta hominum ad illas leges redigat atque 
+          re<lb ed="#Z" n="44" break="no"/>ducat: &amp; iccirco quemlibet pro sua libidine perrumpere &amp; quidlibet agere, quid 
+          <lb ed="#Z" n="45"/>oro leges illae scriptae prosunt ciuibus? Nihil prorsus. Praestantissima ergo 
+          officio<lb ed="#Z" n="46" break="no"/>rum pars in iudicio &amp; ultione consistit. Et requirunt illa uirum siue iudicem prae¬ 
+          <!--156.xml-->
+          <pb ed="#Z" n="67-r"/>
+          <lb ed="#Z" n="1"/>stantem &amp; heroicum: quem ipse dominus in lege sua qualem esse cupit ac officium 
+          <lb ed="#Z" n="2"/>quod agat graphice describit: quam descriptionem recitabimus atque 
+          explicabi<lb ed="#Z" n="3" break="no"/>mus, quando in hac re iudicis persona primas tenet.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e200">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Moses praecipiente domino ad iudices ait, Audite causam fratrum uestrorum 
+          <lb ed="#Z" n="5"/>&amp; iudicate iuste inter uirum &amp; fratrem eius &amp; inter peregrinum eius. Non reci 
+          <lb ed="#Z" n="6"/>pietis faciem in iudicio: tam paruum quam magnum audietis: neque timebitis ab ul 
+          <lb ed="#Z" n="7"/>lo uiro, quia iudicium domini est. Duo agit diuinus propheta in his uerbis. 
+          Indi<lb ed="#Z" n="8" break="no"/>cat quodnam sit iudicis officium: &amp; quae uitia quiue morbi inficiant iudicem, quo 
+          <lb ed="#Z" n="9"/>minus suo officio satisfaciat. Et quantum attinet ad officium boni iudicis, primo 
+          <lb ed="#Z" n="10"/>requiritur ab eo ne quem repellat, sed audiat omnes, paruum, magnum, inquilinum,.  
+          <lb ed="#Z" n="11"/>ciuem &amp; peregrinum, notum &amp; ignotum. Audiat autem partes beneuole, 
+          diligen<lb ed="#Z" n="12" break="no"/>ter, attente. Excluditur his socordia &amp; animus a dicente alienatus. Excluduntur 
+          <lb ed="#Z" n="13"/>praeiudicia, quae mentem iudicis alienant. Ipsa res clamat audiendum esse 
+          intelli<lb ed="#Z" n="14" break="no"/>gendumque sobrie priusquam iudicandum. Et uulgare est illud, Audiatur &amp; 
+          alte<lb ed="#Z" n="15" break="no"/>ra pars. Prudenter dicebat iudex ille accusatori se alteram praebuisse aurem, alte 
+          <lb ed="#Z" n="16"/>ram reseruare reo. Comprehendimus in his cognitionem iudicis diligentem, ne 
+          <lb ed="#Z" n="17"/>acceleret iudex in causis nondum plene cognitis, quas uidelicet iudex ex re ipsa 
+          <lb ed="#Z" n="18"/>non ex delatione partium iudicare debet. Deinde iudicet, ait, &amp; iuste quidem 
+          iu<lb ed="#Z" n="19" break="no"/>dicet iudex. ludicare est discernere &amp; pronunciare secundum leges pro aequo &amp;  
+          <lb ed="#Z" n="20"/>bono, quid bonum, quid malum, quid rectum, quid iniquum. Heluetij utimur uo 
+          <lb ed="#Z" n="21"/>cabulo prteilen oper erteilen ooer rtotensquasi quis dicat rem diligenter 
+          expen<lb ed="#Z" n="22" break="no"/>sam discriminare, &amp; incuruam complanare &amp; rectam facere. Partes affectibus cae 
+          <lb ed="#Z" n="23"/>catae res rectas incuruas faciunt, iudex ad normam aequitatis &amp; legum adhibens,  
+          <lb ed="#Z" n="24"/>rursus rectificat: ergo iudicare est rectificare. Praeterea iudicare est defendendo &amp;  
+          <lb ed="#Z" n="25"/>puniendo asserere. iudex ergo iudicat cum asserit innoxium, cohercet nocentem,  
+          <lb ed="#Z" n="26"/>Caeterum iudicandum est iuste, id est secundum iustitiam &amp; leges, quae unicuique 
+          <lb ed="#Z" n="27"/>suum illud reddunt. Iniuste iudicat iudex, cum contra leges &amp; iustitiam, ex 
+          uitia<lb ed="#Z" n="28" break="no"/>ta affectibus mente, pronunciat. Inspicienda ergo iam sunt uitia iudicum.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e259">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Et plurima quidem sunt iudicum uitia morbique animorum uarij: sed 
+          praeci<lb ed="#Z" n="30" break="no"/>pui duo. Alter morborum corrumpentium animos iudicum, quo minus suum exe 
+          <lb ed="#Z" n="31"/>quantur officium, est receptio facierum seu respectus personarum, nempe cum 
+          <lb ed="#Z" n="32"/>iudex in iudicio non ipsas res, uel caussas quales reuera sunt causarumque 
+          circun<lb ed="#Z" n="33" break="no"/>stantias, sed uel dignitatem excellentiamue, uel humilitatem sortemue afflictam. 
+          <lb ed="#Z" n="34"/>uel genus, uel cilientelam, uel tale quidpiam spectat. Hoc malum excludens do¬  
+          <lb ed="#Z" n="35"/>minus, luste, inquit, iudicabitis, non recipietis faciem in iudicio: tam paruum quam  
+          <lb ed="#Z" n="36"/>magnum audiettis. Alter morborum est metus, sane uehemens affectus, omnia dis 
+          <lb ed="#Z" n="37"/>turbans praeclarra consilia, omnesque praefocans uirtutes. Sub metu intelligimus &amp;  
+          <lb ed="#Z" n="38"/>spem, nimirum emolumenti, adeoque &amp; munerum corruptelam. Qui metuit uitae 
+          <lb ed="#Z" n="39"/>suae aut fortunis suis, aut ne quem offendat magnatum, neue iudicia &amp; odia 
+          uul<lb ed="#Z" n="40" break="no"/>gi in se excitet: qui munera accipit, aut se accepturum ab altera partium sperat,  
+          <lb ed="#Z" n="41"/>impingit in iustitiam, &amp; promouet iniquitatem. Dominus itaque, Non timebitis, in 
+          <lb ed="#Z" n="42"/>quit, ab ullo mortalium: non sperabitis a quoquam quicquam munerum, Ratio,  
+          <lb ed="#Z" n="43"/>Non uestra res agitur, neque huc uocati estis ut rem uestram conficiatis, sed dei iu 
+          <lb ed="#Z" n="44"/>dicium est. Spectanda est ergo uoluntas &amp; lex dei. Ac deus tueri potest iudices iu 
+          <lb ed="#Z" n="45"/>stos contra iniqua quorumuis odia, &amp; contra omnem uiolentiam. Praeterea cum  
+          <lb ed="#Z" n="46"/>dicitur iudicium esse dei, admonentur iudices dei iudicis supremi exemplum ipsis 
+          <lb ed="#Z" n="47"/>esse imitandum. Quale uero dei exemplum sit exponit idem Moses in 1. cap. Deut. 
+          <lb ed="#Z" n="48"/>&amp; ait, Deus non suscipit nec personam nec munus, ipse facit iudicium pupillo &amp; ui¬ 
+          <!--157.xml-->
+          <pb ed="#Z" n="67-v"/>
+          <lb ed="#Z" n="1"/>duae: &amp; amat peregrinum, ut det illi panem &amp; uestitum, diligetis ergo &amp; uos pere 
+          <lb ed="#Z" n="2"/>grinum. Ita agere oportet etiam iudices diuinos in iudicio dei. Certe Iosaphat 
+          prin<lb ed="#Z" n="3" break="no"/>ceps religiosissimus constitutis a se iudicibus dicit, Videte quid agatis : non enim  
+          <lb ed="#Z" n="4"/>hominis exercetis iudicium sed domini, qui uobiscum est in causis quas iudicatis.  
+          <lb ed="#Z" n="5"/>Sit ergo timor domini in uobis, obseruate &amp; diligentes este. Quoniam non est ul 
+          <lb ed="#Z" n="6"/>la peruersitas aut corruptio apud dominum deum nostrum ut uel personas susci 
+          <lb ed="#Z" n="7"/>piat uel munera recipiat.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e325">
+          <lb ed="#Z" n="8"/><pc type="indent"/> His adiinciam alios quoque scripturae locos qui superiores illustrent partim, par 
+          <lb ed="#Z" n="9"/>tim officium iudicis significantius explicent &amp; ornent. In Deuteronomio legimus, 
+          <lb ed="#Z" n="10"/>ludices iudicabunt populum iusto iudicio. Non declinabis iudicium, nec 
+          agno<lb ed="#Z" n="11" break="no"/>sces personam, neque accipies munus. Quoniam munus excaecat oculos sapientum, 
+          <lb ed="#Z" n="12"/>&amp; peruertit uerba iustorum. lustitiam iustitia prosequaris, ut uiuas &amp; possideas 
+          <lb ed="#Z" n="13"/>terram, Rursus in Exodo legimus, Non sequeris multitudinem in malo, neque 
+          re<lb ed="#Z" n="14" break="no"/>spondebis in causa, ut declines post multos ad peruertendum. Pauperem non or 
+          <lb ed="#Z" n="15"/>nabis in causa sua: neque peruertes causam pauperis tui in causa sua. A uerbo 
+          fal<lb ed="#Z" n="16" break="no"/>so longe aberis: nec innocentem &amp; iustum occides. Quoniam non iustifico impium.¬ 
+          <lb ed="#Z" n="17"/>Munus ne acceperis, quia munus excaecat uidentes &amp; peruertit uerba iustorum, 
+          <lb ed="#Z" n="18"/>ltem in Leuitico sic legis, Non facietis peruersum quid in iudicio, nec suscipias fa 
+          <lb ed="#Z" n="19"/>ciem pauperis, neque honorabis uultum magnifici, in iustitia iudicium proximi tui 
+          <lb ed="#Z" n="20"/>decernes. Item, Nolite facere iniquum aliquid in iudicio, in regula, in pondere &amp;  
+          <lb ed="#Z" n="21"/>in mensura. Bilanx iusta, lapides iusti, epha iustum, &amp; hin iustum sit uobis. Ego 
+          <lb ed="#Z" n="22"/>dominus deus uester, &amp;c. Comprehensum in his domini dei nostri uerbis aut prae 
+          <lb ed="#Z" n="23"/>ceptis paucissimis, omne illud arbitror quod philosophi &amp; iurisprudentes uix 
+          <lb ed="#Z" n="24"/>multis absoluunt libris. Super haec omnia sanctissimus dei propheta leremias cla 
+          <lb ed="#Z" n="25"/>mat, Facite iudicium &amp; iustitiam, &amp; liberate ui oppressum de manu calumniato 
+          <lb ed="#Z" n="26"/>ris : peregrinum quoque, pupillum &amp; uiduam ne contristetis, neque iniuriam faciatis,  
+          <lb ed="#Z" n="27"/>&amp; sanguinem innocentem ne effuderitis. Haec de iudicum officio.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e372">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Frustra uero de hi hucusque apud quosdam disseruimus, nisi etiam ipsorum ob  
+          <lb ed="#Z" n="29"/>iectiones diluamus, quibus contendunt demostrare forum in uniiuersum omne 
+          <lb ed="#Z" n="30"/>abrogatum esse, in euangelio dicente domino, Ei qui te uelit in ius trahere ac 
+          tuni<lb ed="#Z" n="31" break="no"/>cam tuam tollere permitte illi &amp; pallium. Et iterum, Cum abis cum aduersario tuo 
+          <lb ed="#Z" n="32"/>ad magistratum, da operam ut in itinere componas cum illo, ne forte tradaris tor 
+          <lb ed="#Z" n="33"/>tori. Addunt lites forenses ab apostolo Paulo ad Corinth. scribente in cap. 6. dam  
+          <lb ed="#Z" n="34"/>natas. Ad quae sic respondemus, Sicut oeconomiam non abolet &amp; damnat doctrina 
+          <lb ed="#Z" n="35"/>euangelij &amp; apostolorum, ita neque politiam. Obiurgat &amp; repellit dominus in 
+          euan<lb ed="#Z" n="36" break="no"/>gelio secundum Lucam, adolescentem qui postulabat ut cum fratre suo ageret quo 
+          <lb ed="#Z" n="37"/>is partem haereditatis aequam cederet: non quod damnaret si quis posceret 
+          diuisio<lb ed="#Z" n="38" break="no"/>nem aequam, aut partem iure sibi debitam, sed quod existimaret id nequaquam sui 
+          <lb ed="#Z" n="39"/>esse officij, sed iudicum. Quis, ait, constituit me iudicem aut diuisorem inter uos?  
+          <lb ed="#Z" n="40"/>Praeterea sicut in euangelio scriptum legimus, Si quis uelit te rapere in ius &amp; 
+          tu<lb ed="#Z" n="41" break="no"/>nicam tuam a te tollere, cede illi et pallium: ita ex aduerso non requiritur aliud in 
+          <lb ed="#Z" n="42"/>tota euangelica doctrina maiore diligentia quam charitas &amp; beneficentia. Caeterum  
+          <lb ed="#Z" n="43"/>confertur beneficentia si alias per iudicium &amp; iustitiam maxime. Cum aunt propter 
+          <lb ed="#Z" n="44"/>iudicium &amp; iustitiam exercendam &amp; conseruandam inuenta sint iudicia : claret ipsa 
+          <lb ed="#Z" n="45"/>per euangelium minime esse abrogata. Clamant insignes prophetae lsaias &amp; 
+          a<lb ed="#Z" n="46" break="no"/>charias: llle, Cessate malefacere, discite benefacere, quaerite iudicium, subuenite 
+          op<lb ed="#Z" n="47" break="no"/>presso, agite in iudicio caussam pupilli &amp; uiduae: Hic uero, ludicate iudicium 
+          ue<lb ed="#Z" n="48" break="no"/>ritatis, &amp; facite beneficentiam ac misericordiam unusquisque cum fratre suo. Viduam  
+          <!--158.xml-->
+          <pb ed="#Z" n="68-r"/>
+          <lb ed="#Z" n="1"/>&amp; pupillum, peregrinum &amp; pauperem nolite calumniari. Peccant ergo qui iudi 
+          <lb ed="#Z" n="2"/>cia perturbare &amp; iudices e subsellijs deturbare pergunt. Nam ut bonam ueri dei cul 
+          <lb ed="#Z" n="3"/>tus partem auferunt, sic iniurijs, rapinis et oppressioni pauperum ianuam aperiunt. 
+          <lb ed="#Z" n="4"/>Praecepit dominus fateor quae recitata sunt ab aduersarijs. Ea ratione uoluit 
+          con<lb ed="#Z" n="5" break="no"/>sulere hominum quieti: sed quoniam malitia hominum est insuperabilis, patientiaque 
+          <lb ed="#Z" n="6"/>innocuorum animos addit iniquis nebulonibus, nequaquam damnauit dominus 
+          <lb ed="#Z" n="7"/>moderatum iudiciorum usum. Sed &amp; Paulus apostolus non semel iudicijs legitur 
+          <lb ed="#Z" n="8"/>usus in Actis apostolorum, non propter pecuniam sane aut peculium, sed propter 
+          <lb ed="#Z" n="9"/>uitam suam quam cupiebat seruatam defensamque a latronibus. Nec consentit in 
+          <lb ed="#Z" n="10"/>iniquum Festi praesidis iudicium, sed appellat ad Caesarem: &amp; tamen non ignora 
+          <lb ed="#Z" n="11"/>mus Paulum actione hac sua nihil peccasse contra doctrinam Christi euangelicam,  
+          <lb ed="#Z" n="12"/>ldem Paulus ad Corinth, non damnat absolute quod in foro decertarent 
+          Corin<lb ed="#Z" n="13" break="no"/>thij super rebus ad uictum pertinentibus, sed quod sub infidelibus litigarent 
+          iudi<lb ed="#Z" n="14" break="no"/>cibus. Decebat quidem aequo animo iniurias ferre, indecens est ulli ullam inferre 
+          <lb ed="#Z" n="15"/>iniuriam: quoniam uero dominus iniuriam sustinentibus mederi subuenirique uo 
+          <lb ed="#Z" n="16"/>luit in iudicio, nihil peccat qui cupiat iniuriam a se propulsatam, non uindicta pri 
+          <lb ed="#Z" n="17"/>uata, sed aequa iudicum sententia. Ideoque praecipit Corinthijs apostolus sibi ex fi- 
+          <lb ed="#Z" n="18"/>delibus deligant iudices qui litigantes propter res temporales dirimant.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e464">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Exposita parte officiorum magistratus secunda, iudicio uidelicet, 
+          descendi<lb ed="#Z" n="20" break="no"/>mus ad tertiam &amp; postremam explicandam, ad uindictam &amp; poenam. Nam magi i 
+          <lb ed="#Z" n="21"/>stratus pro officio suo gerit gladium : ergo diuinitus iubetur uindicare bonos &amp;  
+          <lb ed="#Z" n="22"/>caedere malos. Gladius enim diuina est uindicta seu instrumentum, quo deus suas 
+          <lb ed="#Z" n="23"/>persequitur iniurias &amp; hostes suos: ac usurpatur generaliter in scripturis pro 
+          ul<lb ed="#Z" n="24" break="no"/>tione &amp; uindicta. Apud Ieremiam clamat dominus, Gladium uoco super omnes 
+          <lb ed="#Z" n="25"/>habitatores terrae. Item apud Ezechielem, Gladius acutus &amp; politus est ut 
+          iugu<lb ed="#Z" n="26" break="no"/>let uictimam, Rursus, Dabo gladium meum in manus regis Babel. Certe Pharao 
+          <lb ed="#Z" n="27"/>nes Aegyptijs dicti sunt reges ipsorum, quasi tu dicas uindices. Est autem duplex 
+          <lb ed="#Z" n="28"/>apud magistratum gladij usus. Vel enim sontes puniunt propter iniurias alijs illa  
+          <lb ed="#Z" n="29"/>tas &amp; propter maleficia uaria. Vel bello depellunt hostem grassantem, aut 
+          oppri<lb ed="#Z" n="30" break="no"/>munt rebelles uel seditiosos suos ciues.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e494">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Verum obiicitur hic nobis iterum, secundum doctrinam euangelij neminem 
+          <lb ed="#Z" n="32"/>posse uel occidi uel occidere, eo quod dictum sit a domino, Ne resistatis malo. Et 
+          <lb ed="#Z" n="33"/>ad Petrum, Conuerte gladium tuum in uaginam suam. Omnis qui gladium sumit,  
+          <lb ed="#Z" n="34"/>gladio interit, Respodemus in tota scriptura priuatam prohiberi uindictam, non 
+          <lb ed="#Z" n="35"/>publicam. Priutata autem erat uindicta &amp; inordinaria, quam exercere parabat 
+          a<lb ed="#Z" n="36" break="no"/>postolus Petrus, ad praedicationem uerbi dei, non ad tribunal, ad arma aut 
+          mili<lb ed="#Z" n="37" break="no"/>tiam uocatus. Atque contra priuatam &amp; inordinariam uindictam recte 
+          pronuncia<lb ed="#Z" n="38" break="no"/>tur. Omnis qui sumpserit gladium, interibit gladio. Caeterum publicam uindictam  
+          <lb ed="#Z" n="39"/>&amp; ordinarium gladij usum minime a deo in ecclesia prohibitum esse, demonstro 
+          <lb ed="#Z" n="40"/>hoc diuini apostoli testimonio, Docuit Paulus in 12. cap. ad Romanos quid a 
+          no<lb ed="#Z" n="41" break="no"/>bis exigat euangelica perfectio, &amp; inter alia profert &amp; haec, Ne ulciscamini uosip 
+          <lb ed="#Z" n="42"/>sos dilecti, quin potius date locum ires. Scriptum est enim, Mihi ultio &amp; ego repen 
+          <lb ed="#Z" n="43"/>dam. Quoniam uero obiici poterat, Atqui hac ratione Christiana patientia 
+          caedi<lb ed="#Z" n="44" break="no"/>bus &amp; parricidijs copiosissimam suppeditabit materiam, subiicit in mox insequen 
+          <lb ed="#Z" n="45"/>te cap. 13. Magistratus dei minister est, tibi in bonum, ad terrorem male agentibus,  
+          <lb ed="#Z" n="46"/>Non enim frustra gladium gestat. Nam dei minister est, ultor ad iram, ei qui quod 
+          <lb ed="#Z" n="47"/>malum est fecerit. Colligimus ergo ex hac apostoli doctrina abs quolibet 
+          no<lb ed="#Z" n="48" break="no"/>strum deo permittendam ultionem, nec licitam esse uindictam priuatam. Licita est 
+          <!--159.xml-->
+          <pb ed="#Z" n="68-v"/>
+          <lb ed="#Z" n="1"/>autem publica &amp; ordinaria. Nam deus qui dixit nobis, Mihi u indictam cedito, &amp;  
+          <lb ed="#Z" n="2"/>ego retribuam, idem uindictam illam sibi permissam aut datam, concedit 
+          magi<lb ed="#Z" n="3" break="no"/>stratui. Iccirco magistratus est gladio persequi hominum iniurias, idque diuino no 
+          <lb ed="#Z" n="4"/>mine &amp; iussu. Ergo quando punit magistratus, deus ipse, cuius est uniuersa ultio,  
+          <lb ed="#Z" n="5"/>punit per magistratum, qui hoc nomine appellatur deus. Praeterea scriptum est,  
+          <lb ed="#Z" n="6"/>Maleficum non patieris uiuere. Item, Dissipat impios rex sapiens, &amp; conuertit 
+          su<lb ed="#Z" n="7" break="no"/>per eos rotam, Rursus, Qui iustificat impium, &amp; qui condemnat iustum, uterque 
+          <lb ed="#Z" n="8"/>est abominatio domini. Nec desunt exempla approbantia nobis quosdam 
+          incur<lb ed="#Z" n="9" break="no"/>risse iram domini grauissimam, quod clementia praepostera pepercerunt illis,  
+          <lb ed="#Z" n="10"/>quos mandarat deus gladio percutere. De Saule loquor &amp; Achabo. Ex aduerso 
+          <lb ed="#Z" n="11"/>sunt innumera optimorum principum exempla, testantia maxima cum laude sup 
+          <lb ed="#Z" n="12"/>plicium sumi de sceleratis. Neque enim ullum peccatum aut ulla culpa haeret in 
+          fe<lb ed="#Z" n="13" break="no"/>riente &amp; supplicium sumente principe de noxio &amp; scelerato homine. Ideoque in lege 
+          <lb ed="#Z" n="14"/>usque ad fastidium repetitur, Sanguis eius super eum. Porro sanguis noxij licet non 
+          <lb ed="#Z" n="15"/>effusus sit, imputatur magistratui pro culpa, quando sui negligens officij ueniam  
+          <lb ed="#Z" n="16"/>dat nulla uenia dignis, nec uindicat innoxium. Nam particeps efficitur iniuriae 
+          <lb ed="#Z" n="17"/>&amp; effusi sanguinis iusti, quem non uindicat, dum illi parcit cui iusserat dominus 
+          <lb ed="#Z" n="18"/>l in ceruicem deuergere gladium. Profecto non est crudelitas (uti falso iudicatur.  
+          <lb ed="#Z" n="19"/>iusta magistratus seueritas, in puniendis maleficis hominibus, Praepostera autem  
+          <lb ed="#Z" n="20"/>clementia parcens facinorosis &amp; indignis uita consortioue hominum, reuera atrox 
+          <lb ed="#Z" n="21"/>est crudelitas. Nam cum magistratus mortem meritos nephandis ffagitijs dimittit 
+          <lb ed="#Z" n="22"/>impunitos ac incolumes, augetur principio audacia simili scelere obnoxijs, 
+          pro<lb ed="#Z" n="23" break="no"/>grediendi uidelicet in sceleribus. Vident enim parsum esse simili facinore 
+          diffama<lb ed="#Z" n="24" break="no"/>tis. Deinde qui nondum in profundum scelerum demersi sunt, tentantur autem 
+          <lb ed="#Z" n="25"/>a malo in horas, ut se totos demergant in nephanda flagitia, facilius manus dabunt.  
+          <lb ed="#Z" n="26"/>Vident enim clementer tractari facinorosos. Postremo nihilo meliores fere 
+          red<lb ed="#Z" n="27" break="no"/>duntur impune dimissi: imo conduplicant iam mala, eoque recidit tandem res ut 
+          <lb ed="#Z" n="28"/>cogaris illum iam ferire propter parricidia multa, in quo noluisti punire unum 
+          <lb ed="#Z" n="29"/>homicidium, seruareque innoxios quos interea latro sustulit. Lupos ergo &amp; ursos 
+          <lb ed="#Z" n="30"/>emittunt in plebem qui nebulones nepharios dimittunt.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e606">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Ostenso iure gladij, &amp; quod magistratus uindicare iniurias hominum, &amp; 
+          fa<lb ed="#Z" n="32" break="no"/>cinorosos occidere possit, consideremus porro quae sint causae ob quas deus iubet 
+          <lb ed="#Z" n="33"/>supplicium sumere de noxijs hominibus, item quando sit sumendum supplicium,  
+          <lb ed="#Z" n="34"/>denique quae sint suppliciorum aut poenarum irrogandarum a magistratu genera.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e619">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Caussae potissimae propter quas noxios punire palam praecipit dominus illae fe 
+          <lb ed="#Z" n="36"/>re sunt. Vim ui repellit &amp; hominum salutem &amp; incolumitatem operatur dominus, 
+          <lb ed="#Z" n="37"/>uindicat iniuriam perpessos, &amp; restituit quae restitui possunt. Idem iustitiam suam 
+          <lb ed="#Z" n="38"/>declarat, quae cuique rependit pro suo facto. Probrosa ergo facta morte eluit 
+          pro<lb ed="#Z" n="39" break="no"/>brosa. Admonet reos sui sceleris &amp; sensum fere indit poenitentiae &amp; salutis. Nam 
+          <lb ed="#Z" n="40"/>si facinorosus agnoscat scelus admissum, poeniteatque ipsum delicti &amp; toto pectore 
+          <lb ed="#Z" n="41"/>credat in Christum, remittitur ipsi peccatum &amp; saluatur: sicuti apertum habemus 
+          <lb ed="#Z" n="42"/>in latrone crucifixo testimonium. Cui certe supplicium fuit salutis occasio. Alteri 
+          <lb ed="#Z" n="43"/>latronum nihil salutis obuenit, quia non credidit in Christum, neque diuexatione 
+          <lb ed="#Z" n="44"/>illa sua admonitus sapere coepit. Praeterea exhibetur iudicijs publicis &amp; uindicta 
+          <lb ed="#Z" n="45"/>exemplum omnibus alijs hominibus quo discant ipsi sibi ab huiusmodi cauere fla 
+          <lb ed="#Z" n="46"/>gitijs, nisi simili malint perire supplicio.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e649">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Non animaduertat autem magistratus in quenquam nisi constet prius 
+          pu<lb ed="#Z" n="48" break="no"/>niendum, eam quam decernunt iudices poenam comeruisse, ac deum iussisse in 
+          <!--160.xml-->
+          <pb ed="#Z" n="69-r"/>
+          <lb ed="#Z" n="1"/>tale delictum animaduertere, id est iure dei damnatum esse quod punitur. lllud 
+          <lb ed="#Z" n="2"/>uero constabit ex propria liberaque puniendi confessione, uel ex testimonijs 
+          pro<lb ed="#Z" n="3" break="no"/>batis contra puniendum latis siue collectis, denique ex collatione legum cum ipsis 
+          <lb ed="#Z" n="4"/>puniendorum sceleribus. Ergo non licet magistratui animaduertere in uirtutes 
+          <lb ed="#Z" n="5"/>in ueram religionem &amp; in uiros probos, honestos, &amp; religiosos. Magistratus enim  
+          <lb ed="#Z" n="6"/>ordinatus est a deo ad terrorem non bonis sed facinorosis.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e674">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Ac de modo &amp; ratione poenarum non est curiosius disputandum, Seruet 
+          quaeli<lb ed="#Z" n="8" break="no"/>bet gens aut ciuitas sua supplicia &amp; modum suppliciorum, nisi forte mores patrij 
+          <lb ed="#Z" n="9"/>habeant aliquid truculenti &amp; iniqui. Hoc enim ad aequi &amp; boni regulam 
+          moderan<lb ed="#Z" n="10" break="no"/>dum esse nemo sanus negauerit. Species suppliciorum sunt deportatio siue exi- 
+          <lb ed="#Z" n="11"/>lium, diminutio capitis, mulctatio in fortunis, carcer ac uincula, uirgae, stigmata, 
+          <lb ed="#Z" n="12"/>amputatio membrorum, ipsa denique mors perfecta gladio, igni, aqua, laqueo, aut  
+          <lb ed="#Z" n="13"/>modis alijs, cuilibet genti proprijs. Nec caret scriptura tristium huiusmodi 
+          titulo<lb ed="#Z" n="14" break="no"/>rum catalogo. Legimus enim in libro Esdrae, Quicunque autem facere noluerit 
+          le<lb ed="#Z" n="15" break="no"/>gem dei tui atque legem regis, de hoc ilico fiat iudicium, siue ad mortem, siue in exi- 
+          <lb ed="#Z" n="16"/>lium, siue ut facultatibus mulctetur, siue ut coniiciatur in uincula &amp; carcerem,  
+          <lb ed="#Z" n="17"/>Haec non temere propter eos commemoro quibus haec uidentur inter fideles non  
+          <lb ed="#Z" n="18"/>esse uel nominanda.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e704">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Caeterum modus in his discretioque apud iudices sit oportet, certe ut enormia 
+          <lb ed="#Z" n="20"/>peccata grauiter puniantur, minora delicta mediocribus supplicijs coherceantur,  
+          <lb ed="#Z" n="21"/>in minima uero seu leuia moderatius animaduertatur. Notissimum est illud e 
+          le<lb ed="#Z" n="22" break="no"/>ge diuina, Pro mensura peccati erit &amp; plagarum modus. Vbi etiam locum habet 
+          <lb ed="#Z" n="23"/>consideratio clementiae iudicis. Excusat reum non raro uel sexus uel aetas. 
+          Excu<lb ed="#Z" n="24" break="no"/>santur aliquando facta eius alioqui non bona circunstantijs rite expensis. 
+          Consi<lb ed="#Z" n="25" break="no"/>deratur item a iudice diligenter rei anteacta uita, quae cum hactenus fuit honesta 
+          <lb ed="#Z" n="26"/>&amp; proba, plus meretur reus clementiae, nisi facinus ob quod modo tenetur 
+          uin<lb ed="#Z" n="27" break="no"/>ctus tam sit enorme, ut nullam admittat clementiam. Verum pietas siue timor 
+          dei<lb ed="#Z" n="28" break="no"/>preces quoque effusae ad dominum, &amp; diligens legitimaque facti aut dicti, id est faci- 
+          <lb ed="#Z" n="29"/>noris examinatio, optima erunt regula quando iudex uel clementer uel 
+          seueri<lb ed="#Z" n="30" break="no"/>ter agat. Alioqui decens clementia maximam habet laudem cum apud deum, tum 
+          <lb ed="#Z" n="31"/>apud homines.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e736">
+          <lb ed="#Z" n="32"/><pc type="indent"/> Demonstraui charitati uestrae quod magistratus punire sontes &amp; possit &amp; 
+          de<lb ed="#Z" n="33" break="no"/>beat, deinde quare uoluerit deus puniri palam facinorosos, hinc quando, quomo  
+          <lb ed="#Z" n="34"/>do, &amp; quantum sint puniendi, Restat ut dicamus propter quid, uel ob quae deli¬  
+          <lb ed="#Z" n="35"/>cta sint puniendi. Id autem uno uerbo exponi potest, omnia dicta &amp; facta quae le 
+          <lb ed="#Z" n="36"/>gibus dei &amp; magistratus contraria sunt, id est omnia quae contra leges scelerate fi- 
+          <lb ed="#Z" n="37"/>unt, sunt punienda. lam uero leges latae sunt uel de religione, uel de rebus 
+          ciuili<lb ed="#Z" n="38" break="no"/>bus. Ac hae quidem uersantur circa honestatem, iustitiam, pacem. Proinde punire 
+          <lb ed="#Z" n="39"/>aut cohercere oportet omnes quotquot honestatem, iustitiam, &amp; pacem publicam,  
+          <lb ed="#Z" n="40"/>&amp; ciuium priuatam conturbant, affligunt, uexant, perdunt atque subuertunt. 
+          Pu<lb ed="#Z" n="41" break="no"/>niatur foeditas, obscoenitas, libido, stuprum, fornicatio, adulterium, incestus, 
+          so<lb ed="#Z" n="42" break="no"/>domia, luxus, ebrietas, crapula, auaritia, impostura, usura atterens, proditio, 
+          cae<lb ed="#Z" n="43" break="no"/>des, parricidium, seditio, &amp; si quid aliud est huius generis. Catalogum satis 
+          proli<lb ed="#Z" n="44" break="no"/>xum texit dominus in lege sua apud Mosen Leuit. 1 8. &amp; 20. Et ne quis hodie illa  
+          <lb ed="#Z" n="45"/>arbitretur esse abolita, audiat sanctum Paulum dicentem, lustis non est lex 
+          posi<lb ed="#Z" n="46" break="no"/>ta, sed iniustis &amp; inobsequentibus, impijs &amp; peccatoribus, irreuerentibus &amp; 
+          pro<lb ed="#Z" n="47" break="no"/>phanis, patricidis &amp; matricidis, homicidis, scortatoribus, masculorum 
+          concubito<lb ed="#Z" n="48" break="no"/>ribus, plagiarijs, mendacibus, periuris, &amp; si quid aliud est quod sanae doctrinae adi 
+          <!--161.xml-->
+          <pb ed="#Z" n="69-v"/>
+          <lb ed="#Z" n="1"/>uersetur. Sed contra religionis leges peccant apostatae, idololatrae, blasphemi, 
+          hae<lb ed="#Z" n="2" break="no"/>retici &amp; falsi doctores, religionis denique irrisores.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e785">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Controuersum est autem &amp; controuertitur hodie adhuc an liceat magistratui 
+          <lb ed="#Z" n="4"/>suae potestati subditos punire religionis uel contemptae, uel contumelijs affectae 
+          <lb ed="#Z" n="5"/>gratia? Manichaei &amp; Donatistae fuerunt in ea sententia, quod nemo sit religionis 
+          <lb ed="#Z" n="6"/>gratia urgendus. nedum caedendus, sed quilibet suo relinquendus arbitrio. 
+          Ve<lb ed="#Z" n="7" break="no"/>rum scriptura diuina diserte mandat magistratui, ne pseudoprophetis parcat: imo 
+          <lb ed="#Z" n="8"/>iubentur rebelles deo, legibus &amp; iudicibus sanctis, occidi sine misericordia. Loca 
+          <lb ed="#Z" n="9"/>sunt in scripturis illustrissima, &amp; nemini non notissima. Alter habetur Deut. 1s.  
+          <lb ed="#Z" n="10"/>alter in eodem lib. cap. 17. In Exodo baec ponitur lex. Qui immolat dijs praeterquam 
+          <lb ed="#Z" n="11"/>domino soli, exterminetur. Occiditur ac lapidibus obruitur blasphemus in Leui¬  
+          <lb ed="#Z" n="12"/>tico. In Numeris caeditur qui uiolarat religionem sabbati. Et quot quaeso illorum 
+          <lb ed="#Z" n="13"/>cadunt gladio ultore sternente, qui uitulum erexerant &amp; coluerant in deserto? 
+          <lb ed="#Z" n="14"/>Helias celebri sacrificio mactauit aliquot centurias pseudoprophetarum ad mon 
+          <lb ed="#Z" n="15"/>tem Carmeli. Eliseus mandante domino inungit lehu in regem ad hoc, ut &amp; domum 
+          <lb ed="#Z" n="16"/>Achabi extirpet, &amp; sacerdotes Baal immolet una omnes. Ioiada sacerdos Athaliam 
+          <lb ed="#Z" n="17"/>caecidit. Iosias rex deo dilectissimus, sacerdotes excelsorum sacrilegos &amp; 
+          pertina<lb ed="#Z" n="18" break="no"/>ces ad unum omnes sustulit. S. Augustinus Tractatu in Ioan. 5. contra Donatis 
+          <lb ed="#Z" n="19"/>stas disputans, exemplo Nabuchodonosoris ostendit, Christianos principes iuste 
+          <lb ed="#Z" n="20"/>animaduertere in Donatistas, Christum &amp; doctrinam eius uilipendentes. Inter 
+          <lb ed="#Z" n="21"/>alia, Si rex Nabuchodonosor, ait, gloriam deo dedit, quia liberauit de igne tres 
+          pue<lb ed="#Z" n="22" break="no"/>ros, &amp; tantam gloriam dedit, ut decretum mitteret per regnum suum: quomodo 
+          <lb ed="#Z" n="23"/>isti (nostri)reges non moueantur, qui non tres pueros attendunt liberatos de ffam  
+          <lb ed="#Z" n="24"/>ma, sed seipsos liberatos de gehenna, quando uident Christum a quo liberati sunt 
+          <lb ed="#Z" n="25"/>exufflari in Christianis, quando audiunt dici Christiano, dic te non esse 
+          Christia<lb ed="#Z" n="26" break="no"/>num? Talia facere uolunt, &amp; saltem talia pati nolunt. Nam uidete qualia faciunt,  
+          <lb ed="#Z" n="27"/>&amp; qualia patiuntur. Occidunt animas: affliguntur in corpore, Sempiternas mor 
+          <lb ed="#Z" n="28"/>tes faciunt, &amp; temporales se perpeti conqueruntur. Haec ille. In nouo 
+          testamen<lb ed="#Z" n="29" break="no"/>to habemus maximorum Christi apostolorum Petri &amp; Pauli exempla clarissima. 
+          <lb ed="#Z" n="30"/>Horum alter Ananiam &amp; Saphyram sternit propter hypocrisin &amp; mendacium siue 
+          <lb ed="#Z" n="31"/>fictam religionem. Alter Elimam magum, quasi erutis oculis, caecum reddit. Neque 
+          <lb ed="#Z" n="32"/>admodum refert caedatur aliquis gladio, poculis, an uerbis. Occidere est 
+          occide<lb ed="#Z" n="33" break="no"/>re, quocunque fiat modo aut instrumento. Et deus egit per apostolos: idem ille agit 
+          <lb ed="#Z" n="34"/>per magistratum. Nam ultio est dei, qui illam tradit magistratui uirisque primarijs 
+          <lb ed="#Z" n="35"/>exercendam uel sumendam de facinorosis. Extant leges multae sanctissimorum 
+          <lb ed="#Z" n="36"/>principum Christianorum, in negotio religionis latae mandantes punire 
+          idolola<lb ed="#Z" n="37" break="no"/>tras, apostatas, haereticos &amp; impios. Vnam ex multis S. Constantini lmperatoris 
+          <lb ed="#Z" n="38"/>charitati uestrae recitabo. Scribens enim ad Taurum P.P., Placuit omnibus locis 
+          <lb ed="#Z" n="39"/>atque urbibus uniuersis, ait, claudi protinus templa &amp; accessu uetito omnibus 
+          li<lb ed="#Z" n="40" break="no"/>centiam delinquendi perditis abnegari. Volumus etiam cunctos sacrificijs 
+          absti<lb ed="#Z" n="41" break="no"/>nere. Quod si aliquid forte huiusmodi perpetrauerint, gladio ultoresternantur, fa 
+          <lb ed="#Z" n="42"/>cultates etiam perempti fisco decernimus uindicari. Et similiter puniri rectores 
+          <lb ed="#Z" n="43"/>prouinciarum, si facinora uindicare neglexerint. Eadem prope mandant uulgatis 
+          <lb ed="#Z" n="44"/>edictis Theodosius &amp; Valentinianus in codice Theodosiano tit. 2. item 
+          Valenti<lb ed="#Z" n="45" break="no"/>nianus &amp; Martianus in codice lustiniano tit. 51. lib. 5. His omnibus accedit illud 
+          <lb ed="#Z" n="46"/>quod citra controuersiam iure &amp; religiose puniuntur adulteri, homicidae, 
+          sedi<lb ed="#Z" n="47" break="no"/>tiosi, impostores &amp; blasphemi. Inde consequens est optimo iure occidi &amp; pseudo 
+          <lb ed="#Z" n="48"/>prophetas aut haereticos. Nam sunt impostores, blasphemi, &amp; homicidae.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e889">
+          <!--162.xml-->
+          <pb ed="#Z" n="70-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Caeterum in puniendis his magna est seruanda habendaque ratio : primo 
+          qui<lb ed="#Z" n="2" break="no"/>dem personarum: deinde uero errorum : postremo ipsarum quoque poenarum. Nam  
+          <lb ed="#Z" n="3"/>in persona magna est diuersitas. Sunt enim antesignani &amp; duces peruicaces in er 
+          <lb ed="#Z" n="4"/>roribus, qui audaces sunt, hypocritae &amp; loquaces, &amp; iccirco ad seducendum 
+          ap<lb ed="#Z" n="5" break="no"/>positssimi, ipsi quidem citra emendationem in propriam ruentes perniciem, &amp;  
+          <lb ed="#Z" n="6"/>alios secum pertrahentes. Et hi modis omnibus sunt cohercendi ueluti ecclesiae pe 
+          <lb ed="#Z" n="7"/>stes, ne contagio ipsorum ceu cancer serpat latius, Sunt deinde seducti quidam ac 
+          <lb ed="#Z" n="8"/>dementati ab alijs, qui errant, sed non malitia neque pertinaciter, sed resipiunt in 
+          <lb ed="#Z" n="9"/>tempore. Hos non oportet damnare protinus, sed orare ac sustinere dominum, 
+          <lb ed="#Z" n="10"/>errantesque spiritu lenitatis &amp; mansuetudinis erudire, donec redeant ad mentem  
+          <lb ed="#Z" n="11"/>meliorem.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e921">
+          <lb ed="#Z" n="12"/><pc type="indent"/> Porro in erroneis dogmatibus alia alijs sunt grauiora. Sunt quaedam adeo im 
+          <lb ed="#Z" n="13"/>pia, blasphema, &amp; indigna, ut ne audiri quidem nedum ferri possint. Sunt quae 
+          <lb ed="#Z" n="14"/>recta &amp; palam tendant in subuersionem reipub. nisi in tempore sopiantur. Opor 
+          <lb ed="#Z" n="15"/>tet autem scripturis &amp; manifesta ueritate euincere illa quae in accusationem 
+          ue<lb ed="#Z" n="16" break="no"/>niunt, esse talia, qualia dicuntur. Comperta ueritate, &amp; productis apertis 
+          testimo<lb ed="#Z" n="17" break="no"/>nijs scriptures, licebit in blasphemos &amp; euersores ecclesiae reipublicaeque grauissime 
+          <lb ed="#Z" n="18"/>anima duertere. Sed leuior mitiorque poena decernatur contra errantes in leuibus,  
+          <lb ed="#Z" n="19"/>non capitalibus erroribus. Nam errant quidam, sed ita ut erroribus horum deus 
+          <lb ed="#Z" n="20"/>non blasphemetur, &amp; ecclesia consistat, denique ipsa non interturbetur 
+          respublica<lb ed="#Z" n="21" break="no"/>Vbi rursus occurrat cuilibet illud apostoli, Alter alterius onera portate. Item, 
+          In<lb ed="#Z" n="22" break="no"/>firmos in fide suscipite, non ad dijudicationes disceptationum. 
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e948">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Iam &amp; in supplicijs &amp; poenis insigne est discrimen. Pertinaciter errantes &amp; 
+          a<lb ed="#Z" n="24" break="no"/>lios secum in errorem abducere, inque erroribus retinere contendentes, blasphemi 
+          <lb ed="#Z" n="25"/>&amp; perturbatores, imo subuersores ecclesiarum iure caedi possunt. Ideo tamen 
+          ca<lb ed="#Z" n="26" break="no"/>pitis supplicio non protinus afficiendus est omnis qui errat. Et quae minis &amp; 
+          in<lb ed="#Z" n="27" break="no"/>erepationibus curari possunt, non debent acerbioribus elui &amp; puniri. Modus in 
+          <lb ed="#Z" n="28"/>re qualibet optimus est. Est &amp; mulcta pecuniaria. Sunt carceres in quos concludi 
+          <lb ed="#Z" n="29"/>possunt ne, alios inficiant qui ueneno prauae doctrinae &amp; fidei corrupti sunt. Sunt 
+          <lb ed="#Z" n="30"/>&amp; aliae corporum afflictiones quibus cohercentur errantes, &amp; ut noceant minus 
+          <lb ed="#Z" n="31"/>alijs sanis, &amp; ut ipsi seruentur, non toti pereant, sed resipiscant. Sed timor dei, aequi¬  
+          <lb ed="#Z" n="32"/>tas &amp; prudentia iudicis intelliget ex circunstantijs quomodo punienda sint in 
+          se<lb ed="#Z" n="33" break="no"/>ductoribus &amp; seductis praua dogmata &amp; peruicax rebellio, aut stolida &amp; minime 
+          <lb ed="#Z" n="34"/>malitio sa credulitas.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e978">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Admonitio seria &amp; diligens locum non habet in sceleribus nephandis iam 
+          per<lb ed="#Z" n="36" break="no"/>petratis &amp; gladio eluendis : curet ergo magistratus ut moneat in tempore 
+          monen<lb ed="#Z" n="37" break="no"/>dos. Nam admonitio seria &amp; diligens, diligenter commendata est omnibus proce 
+          <lb ed="#Z" n="38"/>ribus exercenda erga subiectos, &amp; iam aliqua in re periclitantes. Sed &amp; 
+          pruden<lb ed="#Z" n="39" break="no"/>tes &amp; pij magistratus non raro pepercerunt peccantibus ignoranter, 
+          resipiscenti<lb ed="#Z" n="40" break="no"/>bus autem ad seriam admonitionem. Dominus in euangelio iubet admonere pec 
+          <lb ed="#Z" n="41"/>cantem, &amp; obsequenti parcere, rebelli grauiora iniicere. Et losue priusquam ad 
+          ar<lb ed="#Z" n="42" break="no"/>ma conclamaret, missa legatione iubet Rubenitas cum socijs demoliri aram, quam  
+          <lb ed="#Z" n="43"/>illi uidebantur extruxisse contra legem domini. Et lustinianus Caesar 
+          resipiscen<lb ed="#Z" n="44" break="no"/>tibus amplectentibusque meliorem sententiam ueniam concessit., Constit. 169. Nam  
+          <lb ed="#Z" n="45"/>&amp; losias non omnes erroribus implicitos occidit, sed incurabiles maxime. 
+          Mode<lb ed="#Z" n="46" break="no"/>ratio ergo adhibenda magistratui in sontibus puniendis.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e1008">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Non possum hic dissimulare &amp; transilire quod his hactenus de supplicio a me l 
+          <lb ed="#Z" n="48"/>allatis obiicitura quibusdam, nempe apostolum Paulum non praecepisse, Haereti¬ 
+          <!--163.xml-->
+          <pb ed="#Z" n="70-v"/>
+          <lb ed="#Z" n="1"/>cum hominem post unam aut alteram admonitionem occide aut mulctato, sed 
+          <lb ed="#Z" n="2"/>deuita. Fidem item esse donum dei, quod non possit ulli inseri aut dari gladio. 
+          Prae<lb ed="#Z" n="3" break="no"/>terea neminem esse cogendum. Qui cogit, hypocritam facere, religiosum facere 
+          <lb ed="#Z" n="4"/>non posse. Ilam etiam apostolos nulla a regibus subsidia uel ad tuendam religionem 
+          <lb ed="#Z" n="5"/>Christi, uel ad propagandam aut ad puniendos hostes religionis atque blasphemos 
+          <lb ed="#Z" n="6"/>postulasse. Ad quae paucis sic respondeo, Scripsit Paulus ad apostolum dum scri- 
+          <lb ed="#Z" n="7"/>psit epistolam ad Titum. Apostolum ergo informat, quomodo se gerat in suo offi 
+          <lb ed="#Z" n="8"/>cio erga haereticum deploratum. Si ad Sergium Paulum aut ad praesidem aliquem 
+          <lb ed="#Z" n="9"/>scripsisset, proculdubio &amp; huic praescripsisset suum officium. Certe idem ille Pau 
+          <lb ed="#Z" n="10"/>lus stans coram Sergio Paulo principe Cypri, suo facto demostrauit Sergio quid 
+          <lb ed="#Z" n="11"/>deceat magistratum. Nam Elymam pseudoprophetam non tantum obiurgat uer 
+          <lb ed="#Z" n="12"/>bis acerbissimis, deinde eius se abdicat consortio, ipsumque deuitat &amp; fugit, sicut 
+          <lb ed="#Z" n="13"/>Cerinthum Ioannes apostolus, sed &amp; corporali percutit caecitate.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e1048">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Fateor fidem esse donum dei in corde hominis, cuius scrutator solus est 
+          domi<lb ed="#Z" n="15" break="no"/>nus. Caeterum ex dictis &amp; factis iudicantur homines: ut ergo non sit punienda er 
+          <lb ed="#Z" n="16"/>ronea animi opinio, neutiquam tamem ferenda est pestilens &amp; impia professio siue 
+          <lb ed="#Z" n="17"/>doctrina. Nemo sane punit in hoc saeculo prophanas aut impias animi cogitatio  
+          <lb ed="#Z" n="18"/>nes: at si hae in apertas erumpant blasphemias, puniuntur iam a bonis 
+          principi<lb ed="#Z" n="19" break="no"/>bus blasphemae uoces: interim pietas non confertur per magistratum. lustitia 
+          ip<lb ed="#Z" n="20" break="no"/>sissimum dei donum est, quod a solo deo hominibus conceditur. Sed quis adeo 
+          ine<lb ed="#Z" n="21" break="no"/>ptus ut inde colligat, ergo iniusti, raptores, parricidae &amp; uenefici non sunt punien 
+          <lb ed="#Z" n="22"/>di. Nam puniendo magistratus non potest iustitiam conferre iniusto ? Oportet 
+          <lb ed="#Z" n="23"/>itaque discriminare inter fidem uti est donum dei inhaerens animo hominis, &amp; uti 
+          <lb ed="#Z" n="24"/>est externa professio pronunciata &amp; testificata coram hominibus. Dum enim fi- 
+          <lb ed="#Z" n="25"/>des falsa in animo sepulta latet nec inficit quenquam nisi infidelem, puniri non pe 
+          <lb ed="#Z" n="26"/>test infidelis: ubi autem fides latens erumpit in blasphemias, ac deum palam 
+          Iace<lb ed="#Z" n="27" break="no"/>rat, &amp; proximos quosque inficit, protinus cohercendus est blasphemus &amp; seductor,  
+          <lb ed="#Z" n="28"/>ne malum latius serpat. Hunc nolle cohercere, est gladium furioso dare in manus,  
+          <lb ed="#Z" n="29"/>ut conficiat imprudentes &amp; imbelles. Fides est donum dei, sed confert hoc suum 
+          do<lb ed="#Z" n="30" break="no"/>num deus per media. Ea non uult negligi. Scit paterfamilias fidem esse donum dei, 
+          <lb ed="#Z" n="31"/>sed nihilominus erudit liberos suos in uerbo fidei, &amp; praecipit ut abeant in coetum 
+          <lb ed="#Z" n="32"/>sacrum, pro fide orent, ac fidem ex uerbo docentis discant. Indignissime ferret,  
+          <lb ed="#Z" n="33"/>imo non ferret parens bonus, si filius diceret, Noli pater me erudire, noli me mit- 
+          <lb ed="#Z" n="34"/>tere in coetum ecclesiasticum, noli negligentem scutica excitare. Fides est donum 
+          <lb ed="#Z" n="35"/>dei, quod non per scuticam incutitur. Quis ergo aequis auribus audiat clamantes 
+          <lb ed="#Z" n="36"/>fidem esse donum dei, ergo neminem propter fidem, id est propter fidei corruptio 
+          <lb ed="#Z" n="37"/>nem &amp; propter blasphemiam esse castigandum?
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e1105">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Ac Petilianus quidem clamabat dicens, Absit absit a conscientia nostra, ut ad 
+          <lb ed="#Z" n="39"/>nostram fidem aliquem compellamus. Author August. lib. 2. contra Petiliani 
+          lite<lb ed="#Z" n="40" break="no"/>ras cap. 83. Ergone pergemus paria proferre cum haereticis: aut dicere dominum 
+          <lb ed="#Z" n="41"/>deum in scripturis hypocrisin plantare cum minis &amp; castigationibus perpellit ad 
+          <lb ed="#Z" n="42"/>bonum? Dauid dicit, Bonum est mihi domine quod humiliaueris me. Et Ierem,  
+          <lb ed="#Z" n="43"/>Castigasti me domine, ait, &amp; castigatus sum, ueluti uitulus indomitus. Quod si 
+          ne<lb ed="#Z" n="44" break="no"/>mo compellendus est ad bonum, cur quaeso toties iubet mortalium sapientissimus 
+          <lb ed="#Z" n="45"/>Solomon castigare liberos. Qui parcit uirgae, odit filium, ait : tu quidem percutis 
+          <lb ed="#Z" n="46"/>eum, sed uirga liberas animam eius a morte. Quotidiana experientia rerumque 
+          na<lb ed="#Z" n="47" break="no"/>tura euincit uehementissimos in hominibus esse affectus, quibus nisi medeamur 
+          <lb ed="#Z" n="48"/>&amp; frenum iniiciamus, perdunt &amp; se &amp; alios qui facile &amp; leui aliqua castigatione 
+          <!--164.xml-->
+          <pb ed="#Z" n="71-r"/>
+          <lb ed="#Z" n="1"/>poterant seruari. Dum insaniunt homines uim &amp; castigationem uituperant, ubi 
+          <lb ed="#Z" n="2"/>autem redierunt ad mentem, ac cernunt iam palam a quantis per eos qui ipsos 
+          <lb ed="#Z" n="3"/>coegerunt, sint liberati malis, gaudent se salubriter esse castigatos, &amp; laudant iam  
+          <lb ed="#Z" n="4"/>uiolentiam quam prius uituperarant. Audiamus quid in hac re exercitatus 
+          plu<lb ed="#Z" n="5" break="no"/>rimum senserit &amp; docuerit S. Augustinus. De ui cohercendis haereticis ad 
+          Vin<lb ed="#Z" n="6" break="no"/>centium contra Donatistas epist. 48. scribit in haec uerba, Mea primitus sententia 
+          <lb ed="#Z" n="7"/>erat neminem ad unitatem Christi esse cogendum, uerbo esse agendum, 
+          disputa<lb ed="#Z" n="8" break="no"/>tione pugnandum, ratione uincendum, ne fictos catholicos haberemus quos 
+          aper<lb ed="#Z" n="9" break="no"/>tos haereticos noueramus. Sed haec opinio mea non contradicentium uerbis, sed 
+          <lb ed="#Z" n="10"/>demonstrantium superabatur exemplis. Nam primum mihi opponebatur ciuitas 
+          <lb ed="#Z" n="11"/>mea( Hippone) quae cum tota esset in parte Donati ad unitatem catholicam timo¬  
+          <lb ed="#Z" n="12"/>re legum imperialium conuersa est: quam nunc uidemus ita huius uestrae animo¬  
+          <lb ed="#Z" n="13"/>sitatis perniciem detestari, ut in ea nunquam fuisse credatur. Ita aliae multae quae 
+          <lb ed="#Z" n="14"/>mihi nominatim commemorabantur, ut ipsis rebus agnoscerem etiam in hac cau 
+          <lb ed="#Z" n="15"/>sa recte intelligi posse quod scriptum est, Da sapienti occasionem, &amp; sapientior 
+          e<lb ed="#Z" n="16" break="no"/>rit, Rursus, Non omnis qui parcit amicus est, nec omnis qui uerberat inimicus,  
+          <lb ed="#Z" n="17"/>Meliora sunt uulnera amici, quam uoluntaria oscula inimici. Melius est cum seue 
+          <lb ed="#Z" n="18"/>ritate diligere, quam cum lenitate decipere. Et qui phreneticum ligat, &amp; qui 
+          laethar<lb ed="#Z" n="19" break="no"/>gicum excitat, ambobus molestus, ambos amat. Quis nos potest amplius amare 
+          <lb ed="#Z" n="20"/>quam deus? &amp; tamen nos non solum docere suauiter, uerum etiam salubriter 
+          ter<lb ed="#Z" n="21" break="no"/>rere non cessat. Putas neminem cogi debere ad iustitiam, cum legas 
+          patremfami<lb ed="#Z" n="22" break="no"/>lias dixisse seruis. Quoscunque inueneritis cogite intrare : cum legas ipsum primo 
+          <lb ed="#Z" n="23"/>Saulum postea Paulum ad cognoscendam &amp; tenendam ueritatem magna uiolen 
+          <lb ed="#Z" n="24"/>tia Christi cogentis esse compulsum? Nam idem in epist. ad Bonifacium comitem 
+          <lb ed="#Z" n="25"/>50. Vbi est, inquit, quod isti clamare consueuerunt, liberum esse credere uel non 
+          <lb ed="#Z" n="26"/>credere? Cui uim Christus intulit: quem coegit? Ecce habent Paulum apostolum,  
+          <lb ed="#Z" n="27"/>agnoscant in eo prius cogentem Christum, &amp; postea docentem : prius ferientem,  
+          <lb ed="#Z" n="28"/>&amp; postea consolantem. Mirum est autem quomodo ille qui poena corporis ad euan 
+          <lb ed="#Z" n="29"/>gelium intrauit coactus, plus illis omnibus qui solo uerbo uocati sunt in 
+          euange<lb ed="#Z" n="30" break="no"/>lio laborauit: &amp; quem maior timor compulit ad charitatem, eius perfecta charitas 
+          <lb ed="#Z" n="31"/>foras mittit timorem. Cur ergo non cogeret ecclesia perditos filios ut redirent, si 
+          <lb ed="#Z" n="32"/>perditi filij coegerunt alios ut perirent?
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e1206">
+          <lb ed="#Z" n="33"/><pc type="indent"/> Rursus in eadem epistola idem August. Quod dicunt, inquit, qui contra suas  
+          <lb ed="#Z" n="34"/>impietates leges iustas constitui nolunt, non petijsse a regibus terrae talia aposto 
+          <lb ed="#Z" n="35"/>los, non considerant aliud tunc fuisse tempus, &amp; omnia suis temporibus agi. Quis 
+          <lb ed="#Z" n="36"/>enim tunc in Christum crediderat imperator, qui ei pro pietate contra impietatem 
+          <lb ed="#Z" n="37"/>leges ferendo seruiret? Quando adhuc complebatur illud propheticum, Quare  
+          <lb ed="#Z" n="38"/>fremuerunt gentes, &amp; populi meditati sunt inania? Astiterunt reges terrae, &amp; prin 
+          <lb ed="#Z" n="39"/>cipes conuenerunt in unum, aduersus dominum &amp; aduersus Christum eius. 
+          Non<lb ed="#Z" n="40" break="no"/>dum autem agebatur quod paulo post in eodem Psalmo dicitur, Et nunc reges 
+          in<lb ed="#Z" n="41" break="no"/>telligite, erudimini qui iudicatis terram. Seruite ei in timore, &amp; exultate cum 
+          tre<lb ed="#Z" n="42" break="no"/>more. Quomodo ergo reges seruiunt deo in timore, nisi ea quae contra iussa domi 
+          <lb ed="#Z" n="43"/>ni funt religiosa seueritate prohibendo atque plectendo? Aliter enim seruit quia ho 
+          <lb ed="#Z" n="44"/>mo est: aliter quia etiam &amp; rex est. Quia homo est, ei seruit uiuendo fideliter: quia 
+          <lb ed="#Z" n="45"/>uero etiam rex est, seruit leges iusta praecipientes &amp; contraria prohibentes conue 
+          <lb ed="#Z" n="46"/>nienti uigore sanciendo. Sicut seruiuit Ezechias lucos &amp; templa idolorum, &amp; illa  
+          <lb ed="#Z" n="47"/>excelsa quae contra praeceptum dei fuerant extructa destruendo. Sicut seruiuit lo 
+          <lb ed="#Z" n="48"/>sias talia &amp; ipse faciendo. Sicut seruiuit rex Niniuitarum uniuersam ciuitatem ad 
+          <!--165.xml-->
+          <pb ed="#Z" n="71-v"/>
+          <lb ed="#Z" n="1"/>placandum dominum compellendo. Sicut seruiuit Darius idolum frangendum 
+          <lb ed="#Z" n="2"/>in potestatem Danieli dando, &amp; inimicos eius leonibus ingerendo. Sicut seruiuit 
+          <lb ed="#Z" n="3"/>Nabuchodonosor omnes in regno suo positos a blasphemando deo lege terribili 
+          <lb ed="#Z" n="4"/>prohibendo. In hoc ergo seruirent domino reges in quantum sunt reges, cum ea 
+          <lb ed="#Z" n="5"/>faciunt ad seruiendum illi, quae non possunt facere nisi reges. Cum igitur nondum 
+          <lb ed="#Z" n="6"/>reges domino seruirent temporibus apostolorum, sed adhuc meditarentur inania 
+          <lb ed="#Z" n="7"/>aduersus deum &amp; aduersus Christum eius, ut prophetarum praedicta omnia com 
+          <lb ed="#Z" n="8"/>plerentur, non utique tunc potuerunt impietates legibus prohiberi, sed potius exer 
+          <lb ed="#Z" n="9"/>ceri. Sic enim ordo temporum uoluebatur, ut &amp; ludaei occiderent praedicatores Chri 
+          <lb ed="#Z" n="10"/>sti, putantes se officium praestare deo, sicut praedixerat Christus : &amp; gentes 
+          freme<lb ed="#Z" n="11" break="no"/>rent aduersus Christianos, &amp; omnis potentia martyrum uinceret. Postea uero 
+          <lb ed="#Z" n="12"/>quam coepit impleri quod scriptum est, Et adorabunt eum omnes reges terrae, 
+          o<lb ed="#Z" n="13" break="no"/>mnes gentes seruient ei, quis mente sobrius regibus dicat, Nolite curare in regno 
+          <lb ed="#Z" n="14"/>uestro a quo tueatur uel oppugnetur ecclesia domini uestri: non ad uos pertineat 
+          <lb ed="#Z" n="15"/>in regno uestro, quis uelit pudicus esse, quis impudicus ? Cur enim cum datum sit 
+          <lb ed="#Z" n="16"/>diuinitus homini liberum arbitrium, adulteria legibus puniantur &amp; sacrilegia 
+          per<lb ed="#Z" n="17" break="no"/>mittantur? An fidem non seruare leuius est animam deo quam foeminam uiro? 
+          <lb ed="#Z" n="18"/>Aut si ea quae non contemptu, sed ignorantia religionis comittuntur mitius 
+          uin<lb ed="#Z" n="19" break="no"/>dicanda, nunquid ideo negligenda sunt? Melius est quidem, quis dubitauerit: ad 
+          <lb ed="#Z" n="20"/>deum colendum doctrina homines duci, quam poenae timore uel dolore 
+          copelli<lb ed="#Z" n="21" break="no"/>Sed non quia isti meliores sunt, ideo illi qui tales non sunt, negligendi sunt. 
+          Mul<lb ed="#Z" n="22" break="no"/>tis enim profuit (quod experimentis constat) prius timore uel dolore cogi, ut 
+          po<lb ed="#Z" n="23" break="no"/>stea possint doceri, aut quod iam uerbis didicerant opere sectari. Hactenus recen 
+          <lb ed="#Z" n="24"/>suimus <name xml:id="UD1xh4-PZrE2G-Nd1e1300" ref="#Augustine">S. Augustini</name> uerba respondentis ad obiectiones eorum qui arbitrantur 
+          <lb ed="#Z" n="25"/>nullo iure animaduerti religionis causa in inobsequentes &amp; rebelles, seductos &amp;  
+          <lb ed="#Z" n="26"/>seductores.
+        </p>
+        <p xml:id="UD1xh4-PZrE2G-d1e1308">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Frustratum me spe mea uideo, qui existimaui posse me quae de Magistratu di- 
+          <lb ed="#Z" n="28"/>cere institui, plene absoluere hoc sermone. Nam uideo hic mihi subsistendum, nisi 
+          <lb ed="#Z" n="29"/>pergam C. V. supra modum esse molestus. Cras ergo adiinciam his residua. Vos 
+          <lb ed="#Z" n="30"/>modo supplices ante dominum prostrati, orate, deinde abite in pace.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

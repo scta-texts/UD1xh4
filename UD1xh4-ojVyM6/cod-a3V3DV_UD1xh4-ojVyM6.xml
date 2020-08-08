@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 2</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 2</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="39-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-ojVyM6"><!-- d2s2 --> 
+        <head xml:id="UD1xh4-ojVyM6-Hd1e106">Sermo 2</head>
+        <head xml:id="UD1xh4-ojVyM6-Hd1e109" type="question-title">De lege divina, ac duobus primis primae tabulae seu decalogi praeceptis</head>
+        <p xml:id="UD1xh4-ojVyM6-d1e112">
+          <lb ed="#Z" n="13"/><pc type="indent"/> De Lege Diuina, ac duobus primis primae tabulae seu Decalogi praeceptis,
+          <lb ed="#Z" n="14"/>SERMO. II 
+          <lb ed="#Z" n="15"/>EX diuina ab ipso domino deo nostro promulgata, quid faciamus aut  
+          <lb ed="#Z" n="16"/>omittamus praescribit, requirens obedientiam, ac inobsequentibus 
+          in<lb ed="#Z" n="17" break="no"/>terminans interitum. Diuiditur in legem Moralem, Caeremonialem, &amp;  
+          <lb ed="#Z" n="18"/>q ludicialem. Omnium istarum partium diligentissimus scriptor &amp; ex- 
+          <lb ed="#Z" n="19"/>positor est Moses. Moralis informat mores adeoque uirtutum formas tradit, 
+          demon<lb ed="#Z" n="20" break="no"/>strans quantam a nobis deus iustitiam, sanctimoniam, obedientiam, &amp; 
+          perfectio<lb ed="#Z" n="21" break="no"/>nem requirat. Caeremoniales leges sunt, quae precipiunt de ritibus sacris seu eccle 
+          <lb ed="#Z" n="22"/>siasticis, denique de personis &amp; rebus ministrantibus &amp; destinatis sacris. Leges 
+          au<lb ed="#Z" n="23" break="no"/>tem ludiciales praecipiunt de rebus ciuilibus seu forensibus, de pace publica, aequi  
+          <lb ed="#Z" n="24"/>tate &amp; honestate. Et de hi quidem postremis dicetur suo loco. De Morali lege in 
+          <lb ed="#Z" n="25"/>praesenti disseremus.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e144">
+          <lb ed="#Z" n="26"/><pc type="indent"/> Nemo tamen putauerit nullam ante Mosen fuisse legem, ac a Mose primum 
+          <lb ed="#Z" n="27"/>proditam. Nam eadem illa Moralis legis capita quae Moses exponit Decalogo, pa 
+          <lb ed="#Z" n="28"/>tribus ab ipso mundi initio fuerunt cognitissima. Nam unum illum uerum deum  
+          <lb ed="#Z" n="29"/>coluerunt unice pro deo suo, hunc adorauerunt &amp; inuocauerunt. Idola Syriaca 
+          <lb ed="#Z" n="30"/>Labani aufert e sua familia Iacob, &amp; defodit in Bethel, subter quercum uel 
+          terebin<lb ed="#Z" n="31" break="no"/>thum quae erat prope Sichem. Sacrosancta erat iurisiurandi religio Abrahamo, 
+          <lb ed="#Z" n="32"/>unde consequens est sanctum &amp; celebre ipsi fuisse nomen domini. Sacra 
+          celebra<lb ed="#Z" n="33" break="no"/>runt patres sancti omnes &amp; diligentissime &amp; religiosissime. Cham maledictionem 
+          <lb ed="#Z" n="34"/>a patre accipit, quod irreuerenter sese gessisset erga patrem. Damnatur propter 
+          <lb ed="#Z" n="35"/>parricidium Cain. Sanguini parcere iubet Noe. Laudatur Ioseph quod respuit 
+          am<lb ed="#Z" n="36" break="no"/>plexus coniugis alienae, nempe uxoris domini sui. Vituperatur Ruben quod 
+          in<lb ed="#Z" n="37" break="no"/>cestuoso concubitu polluisset thorum paternum. Irascitur non immerito lacob 
+          La<lb ed="#Z" n="38" break="no"/>bano socero, quod ipsum furti suspectum habuisset. Mendaces &amp; falsos testes 
+          dam<lb ed="#Z" n="39" break="no"/>nauerunt omnes patres, quemadmodum &amp; cupiditates prauas. Proinde non 
+          ca<lb ed="#Z" n="40" break="no"/>ruerunt ipsis Decalogi preceptis patres ab ipso mundi exordio, ad usque Mosis tem  
+          <lb ed="#Z" n="41"/>pora: interim non habuerunt illa tabulis inscisa aut membranis inscripta. Inscri- 
+          <lb ed="#Z" n="42"/>pserat quidem illa dominus digito suo in corda ipsorum, eademque excolebat uiua 
+          <lb ed="#Z" n="43"/>patrum traditio uel doctrina. Eadem tamen est lex utrobique, eadem semper dei uo 
+          <lb ed="#Z" n="44"/>luntas, quia unus modo deus est, qui non mutatur. Sub Mose primum tamen 
+          <lb ed="#Z" n="45"/>illa sunt relata authore &amp; scriptore ipso deo in tabulas, &amp; scripta in libros per 
+          <lb ed="#Z" n="46"/>Mosen 
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e193">
+          <!--101.xml-->
+          <pb ed="#Z" n="39-v"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Similiter non caruerunt ueteres &amp; sancti ante Mosen patres caeremonijs &amp; iu 
+          <lb ed="#Z" n="2"/>dicialibus. Habuerunt enim suos sacerdotes, ipsos inquam patresfamilias, habue 
+          <lb ed="#Z" n="3"/>runt sua sacra, suas aras &amp; hostias, habuerunt suos coetus sacros &amp; suas 
+          purifica<lb ed="#Z" n="4" break="no"/>tiones. Habuerunt leges de haereditatibus rerum, de diuisione &amp; possessione, de 
+          <lb ed="#Z" n="5"/>contractibus, de puniendis sontibus. Caeterum Moses illa omnia in certas redegit  
+          <lb ed="#Z" n="6"/>leges: multa etiam diligentius exposuit: multa instituit quibus ueteres uel 
+          carue<lb ed="#Z" n="7" break="no"/>runt, uel paulo diuersa ratione usi sund. Cuius quidem generis sunt 
+          Tabernacu<lb ed="#Z" n="8" break="no"/>lum, Vasa sacra, Arca foederis, Mensa. Candelabrum, Ara holocausti &amp; 
+          thymia<lb ed="#Z" n="9" break="no"/>matis, Sacerdotium Leuiticum, Vestes sacrae, Feriae &amp; Festa : &amp; si quid aliud est 
+          <lb ed="#Z" n="10"/>huius generis: quae quidem omnia abrogantur per Christum, sicuti suo loco 
+          dice<lb ed="#Z" n="11" break="no"/>mus. Mores quoniam constare non possunt nisi saluo decalogo, ideo Moralis lex 
+          <lb ed="#Z" n="12"/>ut proprie legis nomen obtinuit, ita nunquam abrogatur. Est enim Decalogus 
+          <lb ed="#Z" n="13"/>uera &amp; absoluta aeternaque uerae iustitiae &amp; omnium uirtutum regula, omnibus prae 
+          <lb ed="#Z" n="14"/>scripta locis, hominibus, temporibus. Summa enim Decalogi est, ut deum diliga 
+          <lb ed="#Z" n="15"/>mus &amp; nos mutuo: id quod semper ab omnibus ubique hominibus requirit 
+          domi<lb ed="#Z" n="16" break="no"/>nus. Porro Decalogus significat librum seu expositonem &amp; uolumen decem 
+          ca<lb ed="#Z" n="17" break="no"/>pitum praeceptorum uel articulorum.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e239">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Illud uero singulare habet Decalogus legis, quod Caeremonialia &amp; ludicialia 
+          <lb ed="#Z" n="19"/>omnia a deo per angelos Mosi &amp; per hunc populo dei reuelata, &amp; quod a Mose,  
+          <lb ed="#Z" n="20"/>deo iubente, conscripta sunt: Decalogus uero non ab homine neque per hominem, 
+          <lb ed="#Z" n="21"/>sed ab ipso deo optimo maximo ad montem Sina inter prodigia maxima &amp; 
+          stupen<lb ed="#Z" n="22" break="no"/>da, in concione publica &amp; maxima hominum &amp; angelorum recitatus est. Idem non 
+          <lb ed="#Z" n="23"/>manu Mosis, sed digito dei scriptus est in tabulas non caereas, sed lapideas 
+          durabi<lb ed="#Z" n="24" break="no"/>lesque. Seruatae sunt illae tabulae tanquam thesaurus praestantissimus in Arca, quae 
+          <lb ed="#Z" n="25"/>a tabulis foederis (foederis enim aeterni capita continebant) nomen indepta ac 
+          ap<lb ed="#Z" n="26" break="no"/>pellata est Arca foederis, Reposita est haec in ipsum sanctum sanctorum. Quae om 
+          <lb ed="#Z" n="27"/>nia modis omnibus commendant nobis Decalogi praestantiam, admonentque ut il 
+          <lb ed="#Z" n="28"/>lum deum reuereamur qui legem promulgauit, quippe qui dominus sit coeli &amp; 
+          <lb ed="#Z" n="29"/>terrae, elementisque omnibus utatur pro sua uoluntate contra rebelles suos: 
+          adino<lb ed="#Z" n="30" break="no"/>nent praeterea ut Decalogum uel hodie loco thesauri in mundo omnium praestan 
+          <lb ed="#Z" n="31"/>tissimi habeamus. Diuinae enim in ecclesia Christi reliquiae sunt Decalogus, 
+          Sym<lb ed="#Z" n="32" break="no"/>bolum apostolorum &amp; Oratio dominica, adeoque tota Biblia. De Decalogi 
+          promul<lb ed="#Z" n="33" break="no"/>gatione mirifica &amp; copiosiora habemus apud Mosen Exo. 19. &amp; Deut. 4. &amp; 5. cap.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e277">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Duae autem sunt tabulae diuinae, in quas digesta sunt decem diuinae legis 
+          ca<lb ed="#Z" n="35" break="no"/>pita. Prior tabula continet capita quatuor, posterior sex. Nam ultimum 
+          manda<lb ed="#Z" n="36" break="no"/>tum quod nonnulli diuidunt in duo, reuera unicum &amp; indiuisum est. Nam in ge 
+          <lb ed="#Z" n="37"/>nere primum praecipit dominus, Ne concupiscas, deinde per specierum 
+          enume<lb ed="#Z" n="38" break="no"/>rationem recenset quid non concupiscamus, nempe uxorem proximi, aedes eius,  
+          <lb ed="#Z" n="39"/>agros, iumenta &amp; opes. Praeterea unus est duntaxat uersus in Hebraica ueritate 
+          <lb ed="#Z" n="40"/>non duo diuisi. Cum nostra diuisione faciunt Iosephus lib. Antiq. 6. cap. 3. 
+          Orige<lb ed="#Z" n="41" break="no"/>nes in Exodum Homelia 8. Ambrosius in 6. cap. epistolae ad Ephesios. Porro 
+          Ma<lb ed="#Z" n="42" break="no"/>gister in sententijs ultimum mandatum dissecuit in duo, iccirco in primam 
+          tabu<lb ed="#Z" n="43" break="no"/>lam tria duntaxat praecepta collocat. Sequutus est fortassis S. Augustinum qui 
+          <lb ed="#Z" n="44"/>quaestio. in Exodum 71. &amp; epistola ad sanuarium 119. etiam tria tantum primae 
+          ta<lb ed="#Z" n="45" break="no"/>bulae praecepta numerat, idque propter mysterium trinitatis. Idem tamen non omit 
+          <lb ed="#Z" n="46"/>tit mandatum de non habendis colendisque idolis, memor haud dubie illorum in 
+          <lb ed="#Z" n="47"/>euangelio uerborum domini, Amen dico uobis, donec praetereat eoelum &amp; terra,  
+          <lb ed="#Z" n="48"/>iota unum aut apex non praeterierit ex lege, quoad omnia facta fuerint. Quisquis  
+          <!--102.xml-->
+          <pb ed="#Z" n="40-r"/>
+          <lb ed="#Z" n="1"/>igitur soluerit unum ex mandatis illis minimis, &amp; docuerit sic homines, minimus 
+          <lb ed="#Z" n="2"/>uocabitur in regno coelorum. Idem rursus in quaestionibus ueteris &amp; noui 
+          testa<lb ed="#Z" n="3" break="no"/>menti lib. 5. cap. 7. ponit primae tabulae praecepta 4. secundae sex. Nec multum ab  
+          <lb ed="#Z" n="4"/>ea sententia abludit lib. 3. ad Bonifacium, &amp;c.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e326">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Diuisit autem dominus praecepta illa sua in duos ordines uel in duas tabulas,  
+          <lb ed="#Z" n="6"/>propter rerum quae tractantur differentiam. Prima enim tabula pertinet ad deum, 
+          <lb ed="#Z" n="7"/>secunda ad homines. Prima docet quid de deo &amp; cultu eius sentiamus, id est 
+          tra<lb ed="#Z" n="8" break="no"/>dit pietatem, quomodo uidelicet pie uiuamus, Secunda docet quid debeamus 
+          <lb ed="#Z" n="9"/>proximo, id est tradit humanitatem, quomodo uidelicet tranquille humaniterque 
+          <lb ed="#Z" n="10"/>uiuamus. In his autem continentur omnia officia uitae, ut nihil omnino dici 
+          pos<lb ed="#Z" n="11" break="no"/>sit ab ullis totius mundi sapientibus de pietate &amp; humanitate, quod non compre 
+          <lb ed="#Z" n="12"/>hendatur in Decalogo.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e347">
+          <lb ed="#Z" n="13"/><pc type="indent"/> PRIMVM Decalogi praeceptum hisce uerbis pronunciauit ipse dominus, 
+          <lb ed="#Z" n="14"/>EGO DOMINVS DEVS TVVS, QVI EDVXI TE EXTER 
+          <lb ed="#Z" n="15"/>RA AEGYPTI, DE DOMO SERVITVTIS: NON HABEBIS 
+          <lb ed="#Z" n="16"/>DEOS ALIENOS CORAM ME. DUO habet membra hoc praeceptum, 
+          <lb ed="#Z" n="17"/>Prius &amp; ipsum uaria continet. Principio enim offert se nobis deus, &amp; exponit no 
+          <lb ed="#Z" n="18"/>bis qualis sit erga homines, imo qualis erga nos esse uelit. Vnde nos secundo loco 
+          <lb ed="#Z" n="19"/>colligimus, quid uicissim a nobis requirat, &amp; quodnam sit officium nostrum. Ter 
+          <lb ed="#Z" n="20"/>tio &amp; ultimo loco appendit euidentem demonstrationem eius quod dixit se esse 
+          <lb ed="#Z" n="21"/>deum nostrum.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e370">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Ab initio pronunciat &amp; dicit, Ego dominus deus tuus,. Quibus uerbis expo¬  
+          <lb ed="#Z" n="23"/>nit qualis sit, qualisque esse uelit erga omnes homines. Congruunt haec uerba cum  
+          <lb ed="#Z" n="24"/>uerbis foederis dom ini cum Abrahamo adeoque omnibus credentibus icti, 
+          Ego<lb ed="#Z" n="25" break="no"/>inquit dominus, sum deus fortis &amp; Schaddai, quasi tu dicas Saturnus a 
+          saturan<lb ed="#Z" n="26" break="no"/>do. Est enim deus copiaecornu, qui exaturat omnes &amp; omnia, fons inexhaustus 
+          <lb ed="#Z" n="27"/>&amp; perennis bonorum omnium. Id quod &amp; Ieremias copiosius enarrat in cap. 
+          2<lb ed="#Z" n="28" break="no"/>sermonum suorum. Et certe haec omnia comprehendit hi paucis uocibus. Ego 
+          do<lb ed="#Z" n="29" break="no"/>minus deus tuus. Ego inquam qui iam loquor tibi ex medio ignis. Ego &amp; non alius,  
+          <lb ed="#Z" n="30"/>Significatur hic unitas dei. Docemur hic unum agnoscere deum, non plures, uni 
+          <lb ed="#Z" n="31"/>adhaerere, non corda pluribus diuidere. Ego dominus tuus, ego deus tuus. Domi 
+          <lb ed="#Z" n="32"/>nus est, quia merum habet imperium in omnes creaturas, domino subiecta sunt 
+          <lb ed="#Z" n="33"/>omnia, domino obtemperant ad nutum omnia. Dominus omnia gubernat &amp; 
+          su<lb ed="#Z" n="34" break="no"/>stinet. Est enim coeli &amp; terrae &amp; omnium quae in eis sunt conditor, rector, 
+          conser<lb ed="#Z" n="35" break="no"/>uator, rex &amp; princeps summus &amp; maximus. Proinde in unica hac uoce 
+          compre<lb ed="#Z" n="36" break="no"/>henditur dei sapientia, uirtus, potestas, &amp; maiestas immensa. Deus forte 
+          deriua<lb ed="#Z" n="37" break="no"/>tur a daij uoce Hebraica, quae sufficientiam significat. Solus enim deus sufficit 
+          <lb ed="#Z" n="38"/>sibi ad beatitudinem &amp; felicitatem plenissimam modisque omnibus absolutissimam, 
+          <lb ed="#Z" n="39"/>praeterea sufficit deus omnibus requirentibus ipsum in ueritate, ditissimus in om 
+          <lb ed="#Z" n="40"/>nes inuocantes nomen ipsius. Qua parte notatur dei omnisufficientia, liberalitas,  
+          <lb ed="#Z" n="41"/>bonitas &amp; misericordia: maxime cum additur, Ego dominus deus tuus, Tuus 
+          in<lb ed="#Z" n="42" break="no"/>quam. Deus enim non sibi modo bonus est, sed nobis quoque. Totum se cupit effun- 
+          <lb ed="#Z" n="43"/>dere cum omni sua bonitate, cum omnibus suis dotibus in fideles. Non est parcus,  
+          <lb ed="#Z" n="44"/>non est malignus, gaudet distrahi &amp; impartiri se nobis fruendum 
+          abundantissi<lb ed="#Z" n="45" break="no"/>me, adque sacietatem iucundissimam, idque omni tempore, necessitatis maxime. Et 
+          <lb ed="#Z" n="46"/>significanter quidem TVVS ait, non uester, ut intelligamus singuli deum 
+          aeter<lb ed="#Z" n="47" break="no"/>num, optimum, beatissimum, singulorum fore esseque deum &amp; dominum, id est ser 
+          <lb ed="#Z" n="48"/>uatorem, liberatorem, redemptorem, aceruum &amp; mare bonorum omnium, ani¬  
+          <!--103.xml-->
+          <pb ed="#Z" n="40-v"/>
+          <lb ed="#Z" n="1"/>mae &amp; corporis, praesentium &amp; futurorum.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e439">
+          <lb ed="#Z" n="2"/><pc type="indent"/> Ex istis colligimus secundo loco quid uicissim a nobis requirat bonus 
+          domi<lb ed="#Z" n="3" break="no"/>nus, &amp; quod nam sit nostrum officium. Apertam relationem etenim habet Tuus,  
+          <lb ed="#Z" n="4"/>Si enim ille uult esse meus, ego uicissim debeo esse suus. llle uult esse dominus, &amp;  
+          <lb ed="#Z" n="5"/>est deus meus, ego itaque illum pro domino &amp; deo meo habere &amp; uenerari debeo. 
+          <lb ed="#Z" n="6"/>Ideoque requiritur hoc mandato a nobis, ut non tantum deum uerum pro deo uero, 
+          <lb ed="#Z" n="7"/>sed pro deo nostro, pro domino, pro rege, pro conditore, pro seruatore &amp; patre no 
+          <lb ed="#Z" n="8"/>stro agnoscamus, utque illi suas tribuamus proprietates, quod unus est, solus 
+          bono<lb ed="#Z" n="9" break="no"/>rum omnium fons &amp; largitor, quod uiuus est, aeternus, iustus, uerax, beatus, 
+          fe<lb ed="#Z" n="10" break="no"/>lix, clemens, potens, optimus maximus. Huic itaque adhaereamus, huic obediamus 
+          <lb ed="#Z" n="11"/>in omnibus, in illum credamus, illum inuocemus solum, omnia ad ipsum bona re 
+          <lb ed="#Z" n="12"/>ferentes, omnia bona ab ipso petentes, &amp; pro omnibus beneficijs gratias agentes,  
+          <lb ed="#Z" n="13"/>hunc adoremus, hunc colamus timore syncero &amp; dilectione ardentissima, spe 
+          per<lb ed="#Z" n="14" break="no"/>tinacissima. Huc enim pertinent illa ex sancto Mose &amp; euangelio sententiae. 
+          Do<lb ed="#Z" n="15" break="no"/>minum deum tuum adorabis, &amp; illi soli seruies. Et iterum, Dominum deum 
+          ue<lb ed="#Z" n="16" break="no"/>strum sequimini, illum timete, illius praecepta custodite, illius uocem audite, illi 
+          ser<lb ed="#Z" n="17" break="no"/>uite, &amp; illi adhaerete. Quid quod ipse dominus in Psal. clamat, Sacrifica deo 
+          lau<lb ed="#Z" n="18" break="no"/>dem, &amp; persolue altissimo uota tua. Et inuoca me in die tribulationis, &amp;c
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e480">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Iam uero demonstratio qua ostendit se fuisse esse &amp; fore deum &amp; dominum 
+          <lb ed="#Z" n="20"/>omnium nostrum, &amp; patrum nostrorum liberorumque nos insequentium, 
+          euiden<lb ed="#Z" n="21" break="no"/>tissima est, nimirum liberatio ex Aegypto. Continet ea omnes uirtutes diuinas, sa 
+          <lb ed="#Z" n="22"/>pientiam, bonitatem, iustitiam, ueritatem, potentiam, &amp; quid nonc Declarat se esse 
+          <lb ed="#Z" n="23"/>dominum in coelo &amp; in terra, in omnibus elementis, in omnibus creaturis. 
+          Libe<lb ed="#Z" n="24" break="no"/>rat benigne suos lsraelitas, tuetur, ornat uarijs muneribus, &amp; seruat uel inuito &amp;  
+          <lb ed="#Z" n="25"/>fremente toto regno Aegypti. Aegyptios autem uarie, horribiliter, sed iuste tamen 
+          <lb ed="#Z" n="26"/>punit tandem &amp; cum rege suo submergit in mari rubro. Potuerunt lsraelitae ex 
+          <lb ed="#Z" n="27"/>hoc unico dei facto colligere deum, ut potentissimum esse, ita futurum ipsorum 
+          <lb ed="#Z" n="28"/>deum, sicuti fuerat deus patrum ipsorum. Facto enim declarauit qualis fuerit, &amp; 
+          <lb ed="#Z" n="29"/>quantae potentiae &amp; bonitatis sit uel hodie omnibusque in finem usque saeculis. 
+          No<lb ed="#Z" n="30" break="no"/>bis quidem recentior est liberatio quae obtigit per Iesum Christum dominum 
+          no<lb ed="#Z" n="31" break="no"/>strum, qui nos non ex Aegypto aliqua, aut ex manibus Pharaonis asseruit, sed ex 
+          <lb ed="#Z" n="32"/>potestate tenebrarum peccati, mortis, &amp; diaboli liberauit. Vnde colligimus deum 
+          <lb ed="#Z" n="33"/>aeternum, uerum, optimum maximum, beatissimumque ut potentissimum, sic 
+          no<lb ed="#Z" n="34" break="no"/>strum esse deum, &amp; hunc nobis bene uelle, nos curare &amp; amare. luxta illud 
+          apo<lb ed="#Z" n="35" break="no"/>stoli. Qui proprio filio suo non pepercit, sed pro nobis omnibus tradidit illum, qui 
+          <lb ed="#Z" n="36"/>fieri posset ut non cum eodem omnia nobis donet? Equidem mysterium 
+          redem<lb ed="#Z" n="37" break="no"/>ptionis nostrae per Christum dominum nostrum, comprehensum est 
+          manifestissi<lb ed="#Z" n="38" break="no"/>me in primo Decalogi praecepto. Nam clarum est liberationem populi lsraelitici 
+          <lb ed="#Z" n="39"/>ex Aegypto, typum fuisse futurae liberationis totius orbis terrarum &amp; omnium 
+          <lb ed="#Z" n="40"/>regnorum mundi per Christum dominum, qui totum orbem liberauit ex seruitu 
+          <lb ed="#Z" n="41"/>te peccati &amp; diaboli. Quod si quis dubitat, inspiciat caeremoniam siue sacramentum 
+          <lb ed="#Z" n="42"/>huius corporalis liberationis, ipsum inquam Pascha. Quis uero nesciat agnum 
+          il<lb ed="#Z" n="43" break="no"/>lum typum praetulisse Christo liberatori? An obscura est haec Pauli uox, Pascha 
+          <lb ed="#Z" n="44"/>nostrum immolatus est Christus? An non omnes apostoli cum Ioanne Baptista 
+          <lb ed="#Z" n="45"/>appellarunt dominum nostrum dei agnum qui tollat peccata mundi ? Praeterea 
+          <lb ed="#Z" n="46"/>clara sunt lsaiae prophetae uerba in cap. 52. ubi diserte inter se confert liberationem 
+          <lb ed="#Z" n="47"/>lsraelis ex Aegypto, &amp; liberationem totius orbis ex seruitute peccati per Christum, 
+          <lb ed="#Z" n="48"/>Proinde continetur mysterium Christi domini &amp; redemptionis nostrae in primo 
+          <!--104.xml-->
+          <pb ed="#Z" n="41-r"/>
+          <lb ed="#Z" n="1"/>Decalogi praecepto: ut iam recitantibus nobis uerba dei, non tam uetus illa 
+          libe<lb ed="#Z" n="2" break="no"/>ratio Israelis ex Aegypto, quam noua illa quae obtigit per Christum, oculis &amp; ani 
+          <lb ed="#Z" n="3"/>mis nostris obuersari debeat, excitareque spem nostram, ne, quid diffidamus deum  
+          <lb ed="#Z" n="4"/>illum optimum maximum &amp; fore &amp; esse deum nostrum.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e562">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Posterius membrum primi praecepti uetat nobis ne quis nostrum habeat deos  
+          <lb ed="#Z" n="6"/>alienos, id est excludit extra deum omnia praesidia uitae, quaecunque tandem 
+          prae<lb ed="#Z" n="7" break="no"/>ter deum uel fingi uel eligi possunt. Ac utitur dominus uehementissimo 
+          loquen<lb ed="#Z" n="8" break="no"/>di genere. Nam dicit, Non habebis deos alienos coram me. En non habebis, &amp; non 
+          <lb ed="#Z" n="9"/>habebis quidem coram me, uel ante faciem meam, uel mecum, uel apud me. 
+          Ger<lb ed="#Z" n="10" break="no"/>manice, au miriooer nanbeno mit. Soer lau mide nit sebenpos minen ougen 
+          <lb ed="#Z" n="11"/>lta enim loquuntur irati patres, quando prohibent rem uehementer turpem &amp;  
+          <lb ed="#Z" n="12"/>abominandam, Vide ne ante oculos meos, &amp; me quidem spectante hoc facias. 
+          <lb ed="#Z" n="13"/>Atqui ubique adest deus, omnia inspicit deus, etiam corda &amp; cordium abscondita. 
+          <lb ed="#Z" n="14"/>Proinde nullo pacto uel palam uel occulte habendi sunt nobis dij alieni: id est, ne 
+          <lb ed="#Z" n="15"/>mo nostrum habeat ullam creaturam, siue ea in coelis siue in terris sit, pro deo 
+          no<lb ed="#Z" n="16" break="no"/>stro: nemo nostrum tribuat creaturis proprietates dei, eaque quae ex officio 
+          debe<lb ed="#Z" n="17" break="no"/>mus deo. Proprietates dei sunt ubique esse, omnia uidere, omniscium &amp; omnipoten 
+          <lb ed="#Z" n="18"/>tem esse, uiuificare, liberare, a peccatis purgare, seruare uel saluare, iustificare, san 
+          <lb ed="#Z" n="19"/>ctificare, &amp; si quae alia huius generis sunt. Officia nostra sunt deum adorare, 
+          in<lb ed="#Z" n="20" break="no"/>uocare, timere, colere, sperare in deum, adhaerere deo, audire deum, credere deo,  
+          <lb ed="#Z" n="21"/>obedire deo.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e602">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Ideoque alienus deus erit quod proprie &amp; naturaliter non est deus, imo 
+          quic<lb ed="#Z" n="23" break="no"/>quid nobis praeter deum hunc uerum, uiuum &amp; aeternum confingimus, cui con 
+          <lb ed="#Z" n="24"/>fidimus, in quod speramus, quod inuocamus, quod amamus &amp; metuimus, in 
+          <lb ed="#Z" n="25"/>quod animum nostrum intendentes defigimus, a quo dependemus, quod pro 
+          the<lb ed="#Z" n="26" break="no"/>sauro auxilio &amp; praesidio nostro in prosperis &amp; aduersis habemus agnoscimusquam 
+          <lb ed="#Z" n="27"/>Dum Rahel a Iacobo sobolem postularet, audit, Num pro deo tibi sum, qui 
+          reddi<lb ed="#Z" n="28" break="no"/>di te sterilem,? Rursus cum loram rex lsraeliticus a rege Syrorum Benhadad, per 
+          <lb ed="#Z" n="29"/>Naamanum accepisset literas, in quibus postulabatur purgatio lepre, scidit uestes 
+          <lb ed="#Z" n="30"/>suas iratus atque exclamauit, Egone deus sum, ut interficiam &amp; rursus uitae 
+          resti<lb ed="#Z" n="31" break="no"/>tuam? Solus ergo deus sit deus noster, id est uita &amp; salus nostra, auxilium, 
+          refu<lb ed="#Z" n="32" break="no"/>gium, protectio, liberatio, spes, amor, terror &amp; tremor noster. Si haec tribuamus 
+          <lb ed="#Z" n="33"/>alijs &amp; non soli deo, alienos constituemus deos. Et alienum non raro dicitur quod 
+          <lb ed="#Z" n="34"/>non est institutum a deo. Sic alienus ignis dicitur illatus esse tabernaculo, diuersus 
+          <lb ed="#Z" n="35"/>nimirum ab eo quem accendere iusserat dominus. Aliena dicitur mulier in 
+          Pro<lb ed="#Z" n="36" break="no"/>uerbijs, quam non concessit dominus. Alieni ergo dij sunt quos nobis ipsi 
+          fingi<lb ed="#Z" n="37" break="no"/>mus, quos deus nobis non constituit tutelares, a quibus pendentes auxilia 
+          posca<lb ed="#Z" n="38" break="no"/>mus. Proinde erunt alieni dij, diui ipsi, nunc quidem triumphantes cum rege Chri- 
+          <lb ed="#Z" n="39"/>sto in coelis, non ipsi quidem per se, sed nobis erunt dij alieni, qui perperam de 
+          ip<lb ed="#Z" n="40" break="no"/>sis iudicamus &amp; honorem deo debitum ipsis impendimus, colentes eos pro 
+          tute<lb ed="#Z" n="41" break="no"/>laribus inuocantesque. Erunt dij alieni ipsi diaboli &amp; homines diabolici, si ipsis 
+          timo<lb ed="#Z" n="42" break="no"/>rem deo debitum, ita impendamus, ut hos praeferamus deo. Dij alieni erunt astra,  
+          <lb ed="#Z" n="43"/>planetae signaque coelestia, si a mathematicis decepti, ab ipsis pependerimus, 
+          respi<lb ed="#Z" n="44" break="no"/>cientes in omnibus ad signa coeli, &amp; totam uitam nostram dirigentes ad astrorum  
+          <lb ed="#Z" n="45"/>cursum. Ita si pecuniam, si homines diuino honore &amp; amore prosequamur, erunt 
+          <lb ed="#Z" n="46"/>pecuniae &amp; homines nostri nobis dij alieni. Ad eundem modum damnatur in 
+          re<lb ed="#Z" n="47" break="no"/>ge Asa 2. Paralip. 17. nimia fiducia in medicos. Herbae ergo &amp; medici fiunt dij alie 
+          <lb ed="#Z" n="48"/>ni. Damnantur lsaiae 30. cap. ludaei, quod Aegyptijs confoederatis nimium fide¬ 
+          <!--105.xml-->
+          <pb ed="#Z" n="41-v"/>
+          <lb ed="#Z" n="1"/>rent: fiunt ergo confoederati dij alieni. Multo magis damnantur hic foedera &amp; pa 
+          <lb ed="#Z" n="2"/>cta propter magicam cum daemonibus facta. Damnantur benedictiones illae quae 
+          <lb ed="#Z" n="3"/>rectius dicerentur maledictiones, superstitiosi inquam exorcismi, in quibus 
+          prae<lb ed="#Z" n="4" break="no"/>terea accusandus est abusus diuini nominis. Verum quis exacte omnia 
+          recen<lb ed="#Z" n="5" break="no"/>seat, quae fiunt contra hoc primum mandatum, quo uera traditur pietas, internus 
+          <lb ed="#Z" n="6"/>dei cultus, ut agnoscamus deum, credamus ei, recte sentiamus de eo, ipsum inuo 
+          <lb ed="#Z" n="7"/>cemus, ipsi adhaereamus, ei in omnibus obediamus.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e684">
+          <lb ed="#Z" n="8"/><pc type="indent"/> Secundum Decalogi praeceptum hoc est, NON FACIES TIBI SCVI 
+          <lb ed="#Z" n="9"/>PTILE, NE QVE SIMILITVDINEM VLLAM EORVM 
+          <lb ed="#Z" n="10"/>QVAEIN COELIS SVNT SVRSVM, VEL IN TERRA 
+          <lb ed="#Z" n="11"/>DEORSVM, VELIN AQVIS QVAE SVE TERRA SVNT: 
+          <lb ed="#Z" n="12"/>NON ADORABIS NE QVE COLES. EGO SVM DOMINVS 
+          <lb ed="#Z" n="13"/>DEVS TVVS FORTIS, EELOTES, VISITANS INI QVI- 
+          <lb ed="#Z" n="14"/>TATEM PATRVM INFILIIS IN TERTIAM ET QVAR- 
+          <lb ed="#Z" n="15"/>TAM GENERATIONEM, EORVM QVI ODERVNT ME, 
+          <lb ed="#Z" n="16"/>ET FACIENS MISERICORDIAM INMILLIA HIS QVI 
+          <lb ed="#Z" n="17"/>DILIGVNT ME ET CVSTODIVNT PRAECEPTAMEA 
+          <lb ed="#Z" n="18"/>Primo precepto internam religionem formauit tradiditque dominus: secundo 
+          cor<lb ed="#Z" n="19" break="no"/>rigit externam. Si recte iudicaremus de deo, seruaremusque rite ac religiose 
+          praece<lb ed="#Z" n="20" break="no"/>ptum primum, nihil opus fuerat precepto secundo: sed quia nouit ingenia nostra 
+          <lb ed="#Z" n="21"/>dominus, ideo prohibet quod alioqui fueramus facturi. Videtur enim plerisque 
+          <lb ed="#Z" n="22"/>deum exprimendum esse imagine aliqua, &amp; uenerandum corporali uisibilique 
+          cul<lb ed="#Z" n="23" break="no"/>tu aliquo, oblatis ipsi auro, argento, gemmis, ebore, ac rebus preciosis. Proinde fi 
+          <lb ed="#Z" n="24"/>nis generalis huius praecepti est, retrahere nos a carnalibus imaginationibus &amp;  
+          <lb ed="#Z" n="25"/>cultibus dei, qui ut potentia est immensa &amp; spiritus aeternus, ita non potest ulla  
+          <lb ed="#Z" n="26"/>exprimi imagine corruptibili: spiritu &amp; sanctitate uult coli. Idolum uero seu 
+          simu<lb ed="#Z" n="27" break="no"/>lachrum continet omnem externum cultum: ergo cum idola prohibentur, simul 
+          <lb ed="#Z" n="28"/>prohibetur omnis cultus dei externus &amp; peregrinus. Nam ubi idolum est, ibi 
+          ba<lb ed="#Z" n="29" break="no"/>sim ei oportet statuere, sedem collocare, aram extruere, templum aedificare. Haec 
+          <lb ed="#Z" n="30"/>protinus custodes, curatores, ministros seu sacerdotes requirunt, hostias &amp; 
+          obla<lb ed="#Z" n="31" break="no"/>tiones, anathemata, ornamenta, ferias &amp; sumptus atque labores nunquam 
+          exantlan<lb ed="#Z" n="32" break="no"/>dos &amp; finiendos. Eo nomine prophetae appellarunt simulachra labores &amp; 
+          dolo<lb ed="#Z" n="33" break="no"/>res. Nam semel receptis idolis, nullus est neque finis neque modus sumptuum atque la 
+          <lb ed="#Z" n="34"/>borum. Experientia id uerum esse docet.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e746">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Porro praeceptum hoc secundum habet partes tres. Principio enim prohibet 
+          <lb ed="#Z" n="36"/>deus facere sculptile uel simulachrum: hoc est, deus uetat sibi ullam cuiuscunque 
+          <lb ed="#Z" n="37"/>tandem formae aut materiae sit, imaginem ponere aut consecrare. Nam ut deus non 
+          <lb ed="#Z" n="38"/>uult, ita non potest repraesentari ulla imagine. Species uero omnes fere enumerat 
+          <lb ed="#Z" n="39"/>quibus solemus effigiare res. Non affinges deo, ait, speciem aut formam earum re 
+          <lb ed="#Z" n="40"/>rum quae supra nos sunt, in ipso coelo. Sunt autem in coelo corpora coelestia, 
+          ue<lb ed="#Z" n="41" break="no"/>luti sol, luna, planetae, astra, ipsae denique aues uariae speciei. Sub quibus quidem 
+          spe<lb ed="#Z" n="42" break="no"/>ciebus fere omnibus non pauci apud gentes deum adorarunt &amp; coluerunt. Nec 
+          <lb ed="#Z" n="43"/>affinges deo speciem aut formam earum rerum quae sunt in terra. In terra sunt 
+          <lb ed="#Z" n="44"/>homines, animantia, herbae, frutices, arbores, &amp;c. Ac constat gentes deum 
+          uene<lb ed="#Z" n="45" break="no"/>ratas esse sub imagine hominum &amp; animalium. Cornel. Tacitus de Germanis,  
+          <lb ed="#Z" n="46"/>Caeterum nec deos cohibere parietibus, ait, neque in ullam humani oris speciem  
+          <lb ed="#Z" n="47"/>assimilare, ex magnitudine coelestium arbitrantur, lucos ac nemora consecrant,  
+          <lb ed="#Z" n="48"/>deorumque nominibus appellant secretum illud, quod sola reuerentia uident. En co¬ 
+          <!--106.xml-->
+          <pb ed="#Z" n="42-r"/>
+          <lb ed="#Z" n="1"/>luerunt maiores nostri deum sub specie arborum uel syluarum. Quod tamen hic 
+          <lb ed="#Z" n="2"/>prohibetur hominibus, quemadmodum ne sub specie earum rerum, quae in aquis 
+          <lb ed="#Z" n="3"/>aut sub aquis sunt, effigiantes deum nostrum ueneremur. Coluerunt Palaestini 
+          <lb ed="#Z" n="4"/>deum sub imagine piscis. Dagon deus Palaestinus prae se ferebat piscis figuram. 
+          <lb ed="#Z" n="5"/>Aegyptus coluit serpentes. Imo Paulus haec omnia coprehendens ad Rom. 5. cap.  
+          <lb ed="#Z" n="6"/>contra Gentiles disputans. Obtenebratum est, inquit insciens cor eorum : cum se 
+          <lb ed="#Z" n="7"/>crederent sapientes, stulti facti sunt, mutaueruntque gloriam immortalis dei, in ima 
+          <lb ed="#Z" n="8"/>ginem non solum mortalis hominis, uerum etiam uolatilium &amp; quadrupedum, 
+          <lb ed="#Z" n="9"/>&amp; reptilium. Contra hanc insaniam pugnat prima legis pars.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e804">
+          <lb ed="#Z" n="10"/><pc type="indent"/> Cur autem deus nolit ulla exprimi imagine sensibili aut uisibili, in promptu 
+          <lb ed="#Z" n="11"/>eausa est. Deus spiritus est, deus immensus est, incircumscriptibilis, ineffabilis, 
+          ubi<lb ed="#Z" n="12" break="no"/>que praesens, coelum &amp; terram implens, aeternus, uiuus &amp; uiuificans atque 
+          conser<lb ed="#Z" n="13" break="no"/>uans omnia, gloriae &amp; maiestatis supra coelos exaltatae. Quis autem exprimat ulla  
+          <lb ed="#Z" n="14"/>uel imagine uel materia spiritum? Deus est immensa potentia, omnia uiuificans 
+          <lb ed="#Z" n="15"/>atque conseruans. Sed imagines Dauid describit ac dicit, Simulachra gentium ar 
+          <lb ed="#Z" n="16"/>gentum &amp; aurum, opera manuum hominum. Aures habent &amp; non audiunt 
+          na<lb ed="#Z" n="17" break="no"/>res habent &amp; non odorantur. Manus habent nec palpant, pedes habent nec 
+          am<lb ed="#Z" n="18" break="no"/>bulant, neque sonus ullus est in gutture eorum. Quid obsecro haec cum deo 
+          col<lb ed="#Z" n="19" break="no"/>lata similitudinis habent ? Proinde uelle deum exprimere simulachro uisibili, est 
+          <lb ed="#Z" n="20"/>deum probro exponere facereque contemptibilem. Dei oculus omnia uidet, idoli 
+          <lb ed="#Z" n="21"/>nihil uidet. Dei aures omnia audiunt, idoli nihil audiunt. Per deum uiuunt &amp;  
+          <lb ed="#Z" n="22"/>mouentur conseruanturque omnia. Idola nec uiuunt nec mouentur, &amp; nisi 
+          retine<lb ed="#Z" n="23" break="no"/>antur ab hominibus fabricantibus, concidunt &amp; pereunt. Simulachrum non 
+          spi<lb ed="#Z" n="24" break="no"/>rat. Deus dat omnibus halitum spiritumue. Vbi ergo &amp; in quo est similitudo? In 
+          <lb ed="#Z" n="25"/>materia ne an in forma? Si in materia, ergon deus aureus, argenteus, ligneus? Si in 
+          <lb ed="#Z" n="26"/>forma, ergon inuisibilis uirtus caduca habet membra? Quid ergo peccarunt An 
+          <lb ed="#Z" n="27"/>thropomorphitae. Quod si nulla est similitudo, cur quaeso dicuntur imagines aut 
+          <lb ed="#Z" n="28"/>simulachra dei, similitudines ac icones? Si quis nostrum alterum appellitet 
+          ido<lb ed="#Z" n="29" break="no"/>lum aut simulachrum, uidetur magna affecisse contumelia. Scimus enim idola  
+          <lb ed="#Z" n="30"/>speciem falsam hominis reserre, non hominem : prinde idolum appellamus 
+          ho<lb ed="#Z" n="31" break="no"/>minem ineptum, fungum, torpidum, inertem, &amp; in quo nihil cerebri, qui nihil 
+          mi<lb ed="#Z" n="32" break="no"/>nus sit quam quod audit. Cur ergo posthac appellaremus simulachra, dei 
+          simili<lb ed="#Z" n="33" break="no"/>tudines ? Deus uiuus est, simulachra sunt hominum mortuorum signa, sicut dicit 
+          <lb ed="#Z" n="34"/>author libri Sapientiae. Deus gloriosus est, ac pleni sunt coeli &amp; terra gloria 
+          ma<lb ed="#Z" n="35" break="no"/>iestatis eius : simulachra uero carent omnigloria, &amp; exposita sunt hominum 
+          pro<lb ed="#Z" n="36" break="no"/>bris &amp; ludibrio. Simulachra absentium signa sunt. Deus autem semper &amp; ubique prae 
+          <lb ed="#Z" n="37"/>sens est. Ac signa quae quondam instituit &amp; dedit populo suo deus, non fuerunt 
+          sim<lb ed="#Z" n="38" break="no"/>pliciter signa uel imagines dei, sed signa praesentiae dei, significantia deum qui 
+          na<lb ed="#Z" n="39" break="no"/>tura spiritus &amp; inuisibilis est, incomprehensibilis &amp; immensus, praesentem esse. 
+          <lb ed="#Z" n="40"/>Tale signum fuit nubes, sumus, ignis, ipsa denique arca foederis, quam interim  
+          <lb ed="#Z" n="41"/>adoperiebant alis suis Cherubim, significantes in ipsam dei faciem neminem mor 
+          <lb ed="#Z" n="42"/>talium posse aspicere, animas ergo mentes &amp; spiritum esse eleuandum 
+          contem<lb ed="#Z" n="43" break="no"/>platione in coelos. Nam Moses, qui tamen dicitur deum a facie ad faciem aspexisse,  
+          <lb ed="#Z" n="44"/>audit, Nemo uidebit me ac uiuet. Vbi hinc soluerimus uidebimus eum sicuti est,  
+          <lb ed="#Z" n="45"/>uti ait beatus Ioannes. Haec inquam causae sunt, cur nolit ulla materia ullaue 
+          for<lb ed="#Z" n="46" break="no"/>ma se exprimi &amp; effigiari dominus.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e889">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Huc iam pertinent loca scripturae, &amp; testimonia maximorum in religione ac 
+          <lb ed="#Z" n="48"/>pietate uera uirorum, Mosis, lsaiae &amp; Pauli. Moses in Deuter. Loquutus est uobis 
+          <!--107.xml-->
+          <pb ed="#Z" n="42-v"/>
+          <lb ed="#Z" n="1"/>dominus, ait, de medio ignis: &amp; quidem uocem uerborum audistis, at simulachrum 
+          <lb ed="#Z" n="2"/>nullum uidebatis, ultra uocem. Cauete ergo accurate quam chara uobis est ani¬  
+          <lb ed="#Z" n="3"/>ma uestra(quandoquidem nullum omnino eodem die simulachrum uidistis) ne 
+          <lb ed="#Z" n="4"/>forte corrumpatis uos faciendo scilicet uobis sculptile simulachrum cuiuscunque  
+          <lb ed="#Z" n="5"/>figurae, formam maris aut foeminae, formam cuiuscunque animantis quod est in ter 
+          <lb ed="#Z" n="6"/>ra, formam cuiuscunque uolucris uolantis sub coelo, formam cuiuscunque reptantis 
+          <lb ed="#Z" n="7"/>super terram, formam cuiuscunque piscis qui est in aquis sub terra. Et ne forte attol 
+          <lb ed="#Z" n="8"/>las oculos tuos in coelos, &amp; uisis sole &amp; luna stellisque &amp; exercitu coelorum proster 
+          <lb ed="#Z" n="9"/>naris &amp; adores colasque ea quae distribuit dominus deus tuus omnibus populis sub 
+          <lb ed="#Z" n="10"/>uniuerso coelo. Cauete ergo ne quando obliuiscamini foederis domini dei uestri, 
+          <lb ed="#Z" n="11"/>quod pepigit uobiscum, ita ut faciatis uobis sculptile aut simulachrum 
+          cuiuscun<lb ed="#Z" n="12" break="no"/>que rei, quod prohibuit tibi dominus deus tuus. Haec Moses hactenus,
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e927">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Isaias uero in cap. 40. dicit, Ecce gentes (nimirum collatae deo) tanquam gutta 
+          <lb ed="#Z" n="14"/>situlae, &amp; ut puluis adherens bilanci reputantur. Ecce insulae quasi puluis exiguus,  
+          <lb ed="#Z" n="15"/>Libanus non satis esset excitando igni neque ferae eius sufficerent holocausto. Om 
+          <lb ed="#Z" n="16"/>nes Gentes coram deo quasi nihil sunt, &amp; res inanes atque friuolae reputantur erga 
+          <lb ed="#Z" n="17"/>ipsum. Cui ergo similem facietis deum? aut quodnam simulachrum adornabitis 
+          <lb ed="#Z" n="18"/>ei: simulachrum fudit artifex, &amp; auri fusor diducit illud, &amp; laminis argenteis 
+          obdu<lb ed="#Z" n="19" break="no"/>cit. Qui opibus destitutus est, ut &amp; ipse offerat, eligit imputrescibile lignum, &amp; 
+          quae<lb ed="#Z" n="20" break="no"/>rit sibi artificem peritum, qui sculptibile praeparet, ne moueatur loco. An haec 
+          ig<lb ed="#Z" n="21" break="no"/>noratis: an non illa audistis? Et mox. Qui sedet super globum terrae, &amp; 
+          habitato<lb ed="#Z" n="22" break="no"/>res eius sunt quasi locustae. Qui extendit coelos ut cortinam, ac uelut tentorium ad 
+          <lb ed="#Z" n="23"/>habitandum. Qui redigit potentes in nihilum, &amp; redigit iudices terrae ad nihilum. 
+          <lb ed="#Z" n="24"/>Cui ergo me assimilabitis, aut cui similis ero, ait sanctus? Attollite in sublime 
+          ocu<lb ed="#Z" n="25" break="no"/>los uestros, &amp; contemplamini quis creauerit ista, producens in numero exercitum  
+          <lb ed="#Z" n="26"/>eorum, singula suis nominibus uocans. Et caetera. Tantum enim Isaias.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e961">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Paulus uero apostolus Christi apud Athenienses disserens de uera religione, 
+          <lb ed="#Z" n="28"/>dicit, Deus qui fecit mundum &amp; omnia quae in eo sunt, hic coeli &amp; terrae cum sit 
+          <lb ed="#Z" n="29"/>dominus, non in manufactis templis habitat, nec manibus humanis colitur, 
+          indi<lb ed="#Z" n="30" break="no"/>gens aliquo : cum ipse det omnibus uitam &amp; halitum per omnia, fecitque ex uno 
+          <lb ed="#Z" n="31"/>sanguine omne genus hominum, ut inhabitaret super uniuersam faciem terrae,  
+          <lb ed="#Z" n="32"/>praefinijtque praestituta tempora, praefixitque terminos habitationis eorum, ut 
+          quaere<lb ed="#Z" n="33" break="no"/>rent deum, si forte palpent eum &amp; inueniant, quamuis non longe absit ab unoquo 
+          <lb ed="#Z" n="34"/>uis nostrum, Per ipsum enim uiuimus, mouemur &amp; sumus : sicut &amp; quidam 
+          ue<lb ed="#Z" n="35" break="no"/>stratium poetarum dixerunt, Nam huius progenies etiam sumus. Genus ergo 
+          <lb ed="#Z" n="36"/>cum simus dei, non debemus existimare auro aut argento, aut lapidi arte sculpto 
+          <lb ed="#Z" n="37"/>&amp; inuento hominis numen esse simile. Haec testimonia tam sunt illustria &amp; simpli 
+          <lb ed="#Z" n="38"/>cia illustrantia institutum nostrum, ut nihil necesse sit expositonis gratia 
+          quic<lb ed="#Z" n="39" break="no"/>quam adiincere amplius. Proinde maximis ex caussis iudicauit beatus 
+          Augusti<lb ed="#Z" n="40" break="no"/>nus magnum esse sacrilegium si quis in templo ponat dei patris imaginem flexis 
+          <lb ed="#Z" n="41"/>poplitibus in solio sedentem. Nepharium enim esse si quis tale in animo suo 
+          con<lb ed="#Z" n="42" break="no"/>cipiat. Verba authoris recensui Sermone 8. Decad. 5. ubi disserui de Dextera 
+          pa<lb ed="#Z" n="43" break="no"/>tris, docens quid sit sedere ad dexteram patris.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e1001">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Iam uero quod alias attinet imagines, quas homines erigunt creaturis siue 
+          <lb ed="#Z" n="45"/>dijs, non minus hae, quam dei icones prohibitae sunt. Si enim deo uero non licet 
+          <lb ed="#Z" n="46"/>conse crare statuam, minus licebit alieno deo statuere imaginem. Animus 
+          homi<lb ed="#Z" n="47" break="no"/>nis deligit sibi deum, mox imaginatione affingit ei speciem aliquam, postremo 
+          ma<lb ed="#Z" n="48" break="no"/>nibus perficit: ut uere dictum sit mentem concipere idolum, manum uero parere. 
+          <!--108.xml-->
+          <pb ed="#Z" n="43-r"/>
+          <lb ed="#Z" n="1"/>Atqui prohibuit primo praecepto dominus ne habeamus deos alienos. Qui uero 
+          <lb ed="#Z" n="2"/>deos alienos non habet aut sibi deligit, nullas certe ijs affingit imagines, nullas 
+          <lb ed="#Z" n="3"/>itaque ponit statuas. Nam nephas esse ducit deo uero constituere imaginem, impium  
+          <lb ed="#Z" n="4"/>esse credit sibi deligere deum alienum, ergo &amp; dei allieni figuram in templo dei 
+          eri<lb ed="#Z" n="5" break="no"/>gere. Ea de causa non legis in ueteri ecclesia ullas imagines ullis diuis, quorum 
+          <lb ed="#Z" n="6"/>tum magna erat copia (patriarcharum, iudicum, regum, sacerdotum, 
+          propheta<lb ed="#Z" n="7" break="no"/>rum &amp; martyrum, matronarum &amp; uiduarum agmina puto) esse positas. 
+          Eccle<lb ed="#Z" n="8" break="no"/>sia item Christi apostolorum primitiua nullas habuit imagines uel Christi uel di- 
+          <lb ed="#Z" n="9"/>uorum in oratorijs uel templis suis. Notissimum est S. Epiphanij factum in Syria 
+          <lb ed="#Z" n="10"/>designatum Anablachae, descriptum Graece in epistola ad Ioannem Hierosolymi 
+          <lb ed="#Z" n="11"/>tanum episcopum, &amp; in Latinum sermonem conuersum a S. Hieronymo. Scidit 
+          <lb ed="#Z" n="12"/>ille uelum pendens in templo imaginem Christi uel sancti alicuius exhibens, testi 
+          <lb ed="#Z" n="13"/>ficatus contra Christianam religionem in templo dei hominis pendere imaginem. 
+          <lb ed="#Z" n="14"/>Nam D. Augustinus in Catalogo haeresedin commemorat etiam Marcellam quan 
+          <lb ed="#Z" n="15"/>dam fuisse sociam sectae Carpocratianae, quae imagines Iesu, Pauli, Homeri &amp; Py 
+          <lb ed="#Z" n="16"/>thagorae coluerit, adorando incensumque ponendo. Vere ergo &amp; prudenter in ue 
+          <lb ed="#Z" n="17"/>terum ecclesiasticorum scriptorum lucubrationibus probe uersatus Eras, 
+          Rote<lb ed="#Z" n="18" break="no"/>rod, ubi multa de Vsu imaginum in templis disseruisset acute, tandem subijciens 
+          <lb ed="#Z" n="19"/>dixit, Vt imagines sint in templis, nulla praecipit uel humana constitutio. Et ut 
+          fa<lb ed="#Z" n="20" break="no"/>cilius, ita tutius quoque est omnes imagines e templis amouere, quam impetrare ut 
+          <lb ed="#Z" n="21"/>nec modus pretereatur nec admisceatur superstitio. lam ut animus sit ab omni su 
+          <lb ed="#Z" n="22"/>perstitione purus, tamen non caret superstitionis specie, orantem ad ligneum 
+          si<lb ed="#Z" n="23" break="no"/>mulachrum procumbere, in hoc intentos habere oculos, ad hoc uerba facere, huic 
+          <lb ed="#Z" n="24"/>oscula figere, nec orare prorsus nisi coram imagine. lllud addam, Quicunque sibi 
+          <lb ed="#Z" n="25"/>aliusmodi fingunt deum quam est, contra praeceptum hoc colunt sculptilia. Et 
+          <lb ed="#Z" n="26"/>idem in eadem sua Catechesi, Vsque ad aetatem Hieronymi erant probatae 
+          religio<lb ed="#Z" n="27" break="no"/>nis uiri, qui in templis nullam ferebant imaginem, neque pictam neque sculptam, nec 
+          <lb ed="#Z" n="28"/>textam, ac ne Christi quidem, ut opinor propter Anthropomorphitas. Paulatim  
+          <lb ed="#Z" n="29"/>autem imaginum usus irrepsit in templa. Haec ille.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e1082">
+          <lb ed="#Z" n="30"/><pc type="indent"/> Porro Christo domino et deo uero nostro propter assumptam naturam huma 
+          <lb ed="#Z" n="31"/>nam non ponendum est simulachrum. Nam non in hunc finem assumpsit homi- 
+          <lb ed="#Z" n="32"/>nem, Praeterea humanam naturam subuexit in coelum, iubens orantes in coelum 
+          <lb ed="#Z" n="33"/>et animi &amp; corporis oculos attollere. Spiritum suum uim uicariam misit ecclesiae. 
+          <lb ed="#Z" n="34"/>ac regnum in hac habet spirituale, non eges ullis rebus corporalibus. lussit enim 
+          <lb ed="#Z" n="35"/>pauperibus, non imaginibus suis conferre si quid in ipsum eramus collaturi. Iam  
+          <lb ed="#Z" n="36"/>cum citra controuersiam Christus noster sit deus uerus: &amp; deus uerus prohibeat 
+          <lb ed="#Z" n="37"/>sibi consecrare hominis imaginem, id est deum representare humana specie, consequens 
+          <lb ed="#Z" n="38"/>est quod Christo nulla sit consecranda imago, quia est deus uerus &amp; uita aeterna.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e1105">
+          <lb ed="#Z" n="39"/><pc type="indent"/> Secunda parte huius praecepti docetur quatenus non liceat facere imagines 
+          <lb ed="#Z" n="40"/>dei &amp; deorum, &amp; si quis fecerit quomodo nos geramus. Simulachra non sunt fa 
+          <lb ed="#Z" n="41"/>cienda ad cultum aut ut sintreligionis instrumenta. Quod si quis illa fecerit &amp; re 
+          <lb ed="#Z" n="42"/>ligioni miscuerit, pijs dei cultoribus contemnenda &amp; negligenda, neque adoranda 
+          <lb ed="#Z" n="43"/>neque colenda sunt, nulloque modo ijs seruiendum est. Duo autem in praecepto 
+          po<lb ed="#Z" n="44" break="no"/>nuntur obseruanda, Prius, Non adorabis. Adorare est caput nudare, geniculari 
+          <lb ed="#Z" n="45"/>seu fiectere aut inclinare caput uel corpus, procumbere, honorem exhibere, &amp;  
+          <lb ed="#Z" n="46"/>uenerari reuererique. Adorarunt (id est genu fiexerunt, caput nudarunt, &amp; 
+          pro<lb ed="#Z" n="47" break="no"/>cubuerunt sancti) magistratus &amp; prophetas, principes &amp; doctores, populi uirosquam 
+          <lb ed="#Z" n="48"/>uenerabiles. Quia deus hoc praecepit, qui &amp; operatur per illos salutem hominuns 
+          <!--109.xml-->
+          <pb ed="#Z" n="43-v"/>
+          <lb ed="#Z" n="1"/>&amp; homines sunt uiua dei imago. At idola muta, caeca, surda, lignum &amp; lapides 
+          <lb ed="#Z" n="2"/>sunt, quae adorare prohibemur, etiam cum speciem dei prae se ferunt. Posterius est,  
+          <lb ed="#Z" n="3"/>Neque coles, siue Non seruies eis. Eo membro prohibetur omnis externus &amp; illegi 
+          <lb ed="#Z" n="4"/>timus cultus, qui exhibetur deo uel Dijs religione, id est superstitione &amp; cultu 
+          <lb ed="#Z" n="5"/>templorum, sacrorum, feriarum, omniumque rerum similium, Seruire enim est co 
+          <lb ed="#Z" n="6"/>lere, uenerari, maiestatem aliquam &amp; diuinum aliquid ei quod colimus tribuere,  
+          <lb ed="#Z" n="7"/>magni pendere, incensum ponere, donaria afferre, praestareque seruitia. Notum est 
+          <lb ed="#Z" n="8"/>omnibus quid sit seruire, &amp; seruire in negotio religionis. Prohibemur ergo 
+          cursi<lb ed="#Z" n="9" break="no"/>tare ad idola etiam dei. Prohibemur illis seruire, donando eis munera aut 
+          tribuen<lb ed="#Z" n="10" break="no"/>do eis aliquid diuini, unde eis obstringamur quo retineamus dignemurue ullo 
+          <lb ed="#Z" n="11"/>honore, miscentes ea rebus religionis nostrae sanctissimae. Ergo non uideo cum  
+          <lb ed="#Z" n="12"/>cultum latriae imaginibus minime tribuamus, quomodo his quod spiritus dei ac 
+          <lb ed="#Z" n="13"/>uerbi dei officium ac beneficium est, tribuere possimus, munus docendi, 
+          admo<lb ed="#Z" n="14" break="no"/>nendi adhortandique : cum clarissimus &amp; apostolico testimonio commendatissimus 
+          <lb ed="#Z" n="15"/>propheta Abacuk scriptum nobis reliquerit haec diuinissima certe uerba, Quid 
+          <lb ed="#Z" n="16"/>prodest sculptile, quia sculpsit illud fictor suus, fusile quod annunciat mendacium:  
+          <lb ed="#Z" n="17"/>&amp; tamen fiduciam habet in eo, fictor scilicet in figmento suo, ut faceret simulachra 
+          <lb ed="#Z" n="18"/>muta. Vae qui dicit ligno, euigila: &amp; lapidi insensibili, excitare. Ipse ne doceret? Ec 
+          <lb ed="#Z" n="19"/>ce opertus est auro &amp; argento, &amp; non est ullus spiritus in eo. At dominus in tem 
+          <lb ed="#Z" n="20"/>plo sanctitatis suae: taceat a conspectu eius uniuersa terra. Quid poterat dici 
+          cla<lb ed="#Z" n="21" break="no"/>rius simul &amp; uerius : simulachra sunt mendacia. Quomodo autem doceat uerita 
+          <lb ed="#Z" n="22"/>tem quod manifeste est mendacium? Nullus est motus, nulla uita, nullus spiritus 
+          <lb ed="#Z" n="23"/>in pictura &amp; in imaginibus. Dominus autem sedet in templo sanctitatis suae 
+          re<lb ed="#Z" n="24" break="no"/>gnans &amp; docens spiritu &amp; uerbo suo omnem pietatem uiuensque in cordibus 
+          sancto<lb ed="#Z" n="25" break="no"/>rum suorum. Taceant ergo omnes omnium in orbe terrarum linguae uolentium 
+          <lb ed="#Z" n="26"/>tueri idololatriam.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e1192">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Tertia parte praecepti rursus agit dominus uaria. Principio enim ostendit ho 
+          <lb ed="#Z" n="28"/>mines non habere causam iustam ullam, ob quam auersi a deo alienos sibi deos de 
+          <lb ed="#Z" n="29"/>ligant aut deum illegitimo cultu uenerentur. Ego, inquit, sum dominus deus tuus 
+          <lb ed="#Z" n="30"/>fortis. Si dominus sum, merito mihi seruis, me colis, mihi obedis, et ita me colis 
+          si<lb ed="#Z" n="31" break="no"/>cuti coli uelle &amp; delectari intelligis. Si deus sum, omnisufficientia sum: ergo quid 
+          <lb ed="#Z" n="32"/>desideres quod in me non inuenias : Cur ergo ad alienos diuertas? Nullam certe 
+          <lb ed="#Z" n="33"/>causam diuertendi habes, Praeterea fortis sum, potens, imo omnipotens. Non est 
+          <lb ed="#Z" n="34"/>quod tibi quaeras potentiorem &amp; opulentiorem principem, cuius manu libereris 
+          <lb ed="#Z" n="35"/>ex meis manibus, aut cuius munificentia abundantius locupleteris, quam ex meis 
+          <lb ed="#Z" n="36"/>opibus facultatibusque. Ego enim sum uerus ille eternus, inuictus, omnipotens, prin 
+          <lb ed="#Z" n="37"/>ceps orbis, uerus &amp; unicus auxiliator &amp; liberator, liberalis et munificus omnium 
+          <lb ed="#Z" n="38"/>bonorum largitor. Sum autem tuus dominus, tuus deus. Mea illa bona, tua sunt.  
+          <lb ed="#Z" n="39"/>Nam ego tuus sum: ergo &amp; contra omnia mala auxiliator &amp; liberator tuus sum. 
+          <lb ed="#Z" n="40"/>Meus es. Ego te creaui. In te uiuo, te conseruo. Quid ergo diuerteres ad alienum? 
+          <lb ed="#Z" n="41"/>quid tibi opus erit posthac ullis idolis? Templum dei es. An non sentis me inhabi 
+          <lb ed="#Z" n="42"/>tare cor tuum. Quid oro templo dei negotij cum simulachris?
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e1230">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Deinde addit minas ut iustissimas ita seuissimas. Ego, inquit, sum deus Selo 
+          <lb ed="#Z" n="44"/>tes. Id quod duplici, sed non contrario sibi sensu, exponere licet. Vel enim tale quid 
+          <lb ed="#Z" n="45"/>dicit, Nolo alios tibi queras deos, aut illegitimos cultus recipias. Causa. Sum deus 
+          <lb ed="#Z" n="46"/>zelotes, aemulator inquam, consortis impatientissimus, imo qui corriualem nullo 
+          <lb ed="#Z" n="47"/>modo ferat. Solus diligi &amp; coli uolo, nec alio modo, quam eo quem ipse praescripsi. 
+          <lb ed="#Z" n="48"/>Nam nemo ignorat deum in sacris literis coniunctionem &amp; uinculum quo fide 
+          <!--110.xml-->
+          <pb ed="#Z" n="44-r"/>
+          <lb ed="#Z" n="1"/>religamur deo sunde &amp; religionis nomen est) adumbrare per parabolam humani con 
+          <lb ed="#Z" n="2"/>iugij. Deus enim est maritus &amp; sponsus noster: nos sumus eius uxor uel sponsa. 
+          <lb ed="#Z" n="3"/>Casta uxor &amp; fidelis, solius mariti uocem audit, solum amat, soli obedit, post maritum 
+          <lb ed="#Z" n="4"/>non desiderat ullos alios uiros. Impudica aunt &amp; perfida, adultera &amp; meretrix 
+          po<lb ed="#Z" n="5" break="no"/>tius quam uxor, adhaeret quidem uiro suo, sed sui copiam etiam alijs facit, alios quoque 
+          <lb ed="#Z" n="6"/>amat, &amp; fere ardentius quam maritum proprium. Atqui deus est zelotypus, qui uult 
+          <lb ed="#Z" n="7"/>solus &amp; citra consortem amari &amp; coli. Adulterium &amp; scortatio spiritualis est, quoties 
+          <lb ed="#Z" n="8"/>homines diligunt quidem &amp; colunt deum, sed simul etiam uenerantur deos alienos.  
+          <lb ed="#Z" n="9"/>Contra hoc perfidum nephas impatientissimis &amp; plane tragicis uocibus conclamant 
+          <lb ed="#Z" n="10"/>omnes pphetae. Est enim scelus longe nephandissimum. Vtinam uero non habeatur 
+          <lb ed="#Z" n="11"/>hodie a multis pro cultu dei gratissimo. Vel certe tale quid dixit dmins, Nolo alios 
+          <lb ed="#Z" n="12"/>tibi quaeras deos: nolo ipse tibi cominiscaris cultum. Causa, Sum deus zelotes, nimi 
+          <lb ed="#Z" n="13"/>rum irritabilis, qui non patior impune praeteriri me meaque legitima. Atque ad hunc 
+          <lb ed="#Z" n="14"/>sensum porro exponit multis quomodo sit zelotes, uisitans utique iniquitatem patrum 
+          <lb ed="#Z" n="15"/>in filijs, in tertiam &amp; quartam generationem, eorum qui oderunt me. Deus ergo 
+          uin<lb ed="#Z" n="16" break="no"/>dex est seuerissimus et ultor iustissimus contra eos primum qui alenos sequunt deos,  
+          <lb ed="#Z" n="17"/>prohibitisue cultibus deo seruiunt, deinde contra omnes qui praeuaricantur legem 
+          <lb ed="#Z" n="18"/>dei. Nam praecipue quidem minatur idololatris poenam grauissimam, simul aunt &amp; illis 
+          <lb ed="#Z" n="19"/>minatur, q uiolant leges dei alias quoque. Generale est enim quod hic profert 
+          domi<lb ed="#Z" n="20" break="no"/>nus ualens contra omnem impietatem &amp; contra omnem iniustitiam hominum. Quia ta 
+          <lb ed="#Z" n="21"/>men humanis diuina longe praestant, grauius peccant, qui contra primam tabulam, que 
+          <lb ed="#Z" n="22"/>qui contra secundam peccant: sed &amp; grauioribus sese poenis aut supplicijs subijciunt.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e1299">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Caeterum dicit dominus iniquitatem patrum se uisitaturum aut inquisiturum  
+          <lb ed="#Z" n="24"/>in filijs in tertiam &amp; quartam generationem: non quod iniustus sit deus &amp; puniat 
+          <lb ed="#Z" n="25"/>alienum peccatum in innocentibus, hoc est in ijs qui peccatum non comiserunt: 
+          <lb ed="#Z" n="26"/>sicuti impie calumniabantur deum in Ezechiele ludaei, hoc proferentes dicterij,. 
+          <lb ed="#Z" n="27"/>Patres comederunt uuam acerbam, &amp; dentes filiorum obstupuerunt. Non ita ha 
+          <lb ed="#Z" n="28"/>bet res. Quisque enim suum portabit peccatum. nec filius patris, neque pater filij 
+          ini<lb ed="#Z" n="29" break="no"/>quitatem feret dependetque. Ita sane constanter docet apud Ezechielem &amp; in tota  
+          <lb ed="#Z" n="30"/>scriptura ueracissimus deus. Proinde si liberi aut nepotes uestigijs patrum obliquis  
+          <lb ed="#Z" n="31"/>insistant, ac ipsi sicuti &amp; patres eorum idolis seruiant: iccirco autem se securos im  
+          <lb ed="#Z" n="32"/>punesque futuros arbitrentur, quod idololatriam acceperunt a maioribus, quod 
+          ma<lb ed="#Z" n="33" break="no"/>iores licet fuerint idololatrae, bona tamen usi sint fortuna: tunc inquam iniquitatem  
+          <lb ed="#Z" n="34"/>patrum in filijs castigabo, id est peccatum hoc quod a patribus didicerunt filij &amp;  
+          <lb ed="#Z" n="35"/>iam pertinaciter propter exemplum &amp; bonam fortunam patrum exercent, puniam  
+          <lb ed="#Z" n="36"/>grauissime, etiamsi in patribus non puniuerim. Ideoque significanter appenditur, 
+          <lb ed="#Z" n="37"/>Eorum qui oderunt me. Exempla plurima eaque pulcherrima suppeditabunt libri 
+          <lb ed="#Z" n="38"/>Regum. Ieroboami enim domus funditus est excisa, eo quod Ieroboam &amp; 
+          idolo<lb ed="#Z" n="39" break="no"/>latriam &amp; peregrinos cultus erexit in lsraele. Mox interit etiam tota familia Baasa 
+          <lb ed="#Z" n="40"/>regis: ita radicitus euellitur domus Achab. Tandem captiui abducuntur lsraelitae 
+          <lb ed="#Z" n="41"/>in Assyriorum regna. Solomon rex luda potentissimus, opulentissimus, &amp; sapien 
+          <lb ed="#Z" n="42"/>tissimus felicissimusque, propter idololatriam &amp; peregrinos cultus repente fit mi- 
+          <lb ed="#Z" n="43"/>serrimus. Quid acciderit filio eius Roboam, Ioramo quoque filio Iosaphat, Achas,  
+          <lb ed="#Z" n="44"/>Manassi, Iehoiachimo &amp; &amp;edechie propter idololatriam &amp; peregrinos cultus, ne 
+          <lb ed="#Z" n="45"/>mo ignorat, nisi qui sacras historias nescit. Teneamus ergo firmiter minas dei 
+          es<lb ed="#Z" n="46" break="no"/>se ueras, deum esse uindicem &amp; ultorem in idololatras &amp; impios superstitiososque 
+          <lb ed="#Z" n="47"/>homines, denique contra scelera hominum uniuersa, ut seuerissimum, ita iustissimum, 
+          <lb ed="#Z" n="48"/>Licet uideat deus aliquando dormire hominibus impijs, euigilat tame iusto tepore,  
+          <!--111.xml-->
+          <pb ed="#Z" n="44-v"/>
+          <lb ed="#Z" n="1"/>&amp; rependit impijs semper pro sua impietate. Longanimis non negligit pios &amp; op 
+          <lb ed="#Z" n="2"/>pressos, non fauet impietati &amp; fouet impios iustus dominus : sed spacium 
+          conce<lb ed="#Z" n="3" break="no"/>dit poenitentiae, quod quicunque negligunt, grauiorem tandem sentiunt 
+          poenam<lb ed="#Z" n="4" break="no"/>iuxta illud apostoli, An diuitias bonitatis, tolerantiae &amp; lenitatis dei contemnis,  
+          <lb ed="#Z" n="5"/>ignorans quod bonitas dei te inuitat ad poenitentiam? Sed iuxta duritiam tuam  
+          <lb ed="#Z" n="6"/>&amp; cor poenitere nescium colligis tibi ipsi iram in die irae, quo patefiet iustum iudi 
+          <lb ed="#Z" n="7"/>cium dei, qui redditurus est unicuique iuxta facta sua, &amp;c
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e1378">
+          <lb ed="#Z" n="8"/><pc type="indent"/> Rursus promittit maxima quaeque suis cultoribus &amp; perseuerantibus in uera 
+          <lb ed="#Z" n="9"/>ietate religioneque munificus dominus. Deus sum, inquit, faciens misericordiam,.  
+          <lb ed="#Z" n="10"/>seu beneficentiam praestans in millia. Qua parte excellere uidetur. Animaduertit 
+          <lb ed="#Z" n="11"/>enim iratus in tertiam &amp; quartam generationem: : sed beneficus est in multa 
+          mil<lb ed="#Z" n="12" break="no"/>lia. Bonitatis enim beneficiorumque eius nullus modus, nullus finis: &amp; 
+          misericor<lb ed="#Z" n="13" break="no"/>dia domini super omnia opera eius. Hic tamen rursus duo appendit His qui dili¬  
+          <lb ed="#Z" n="14"/>gunt me &amp; custodiunt praecepta mea. Duo inquam requirit a suis. Primum ut di- 
+          <lb ed="#Z" n="15"/>ligant deum &amp; hunc habeant pro deo suo: quod cum fit, nullus erit in pijs deus 
+          <lb ed="#Z" n="16"/>alienus, Secundum ut obediant deo, ambulent in praeceptis dei: quod cum fit,  
+          <lb ed="#Z" n="17"/>conciderunt omnia idola cum cultibus peregrinis, &amp; regnat solus deus per uerbum  
+          <lb ed="#Z" n="18"/>suum in animo religiosi hominis, quem omni benedictione impinguat benignus 
+          <lb ed="#Z" n="19"/>dominus. Et hoc quidem membrum pertinet praecipue ad praesens mandatum,  
+          <lb ed="#Z" n="20"/>sed simul etiam ad alia omnia, ut ex ipsis uerbis dei colligere licet. Teneamus ergo 
+          <lb ed="#Z" n="21"/>ambulantibus in lege domini parata esse immensa dei praemia.
+        </p>
+        <p xml:id="UD1xh4-ojVyM6-d1e1412">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Haec habui in duo illa Decalogi seu primae tabule mandata: quae iam non licet 
+          <lb ed="#Z" n="23"/>recolligere, cum &amp; sesquihora lapsa sit, ac sperem me singula in eum redegisse or 
+          <lb ed="#Z" n="24"/>dinem, &amp; tam perspicue ac simpliciter tradidisse, ut omnia sint uobis &amp; 
+          perspe<lb ed="#Z" n="25" break="no"/>ctissima &amp; praesentissima in animis uestris. Laudemus iam dominum, &amp; 
+          aga<lb ed="#Z" n="26" break="no"/>mus gratias bonitati eius, qua ostendit nobis uias suas, orantes ut in his recta in 
+          <lb ed="#Z" n="27"/>cedentes, perueniamus ad coelestia gaudia, Amen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

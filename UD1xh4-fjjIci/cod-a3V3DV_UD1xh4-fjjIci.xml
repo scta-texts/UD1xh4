@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 8</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 8</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="349-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-fjjIci"><!-- d5s8 --> 
+        <head xml:id="UD1xh4-fjjIci-Hd1e106">Sermo 8</head>
+        <head xml:id="UD1xh4-fjjIci-Hd1e109" type="question-title">
+       De sancto baptismo, quid, a quo, quando institutus, et quod aquae unus duntaxat sit. De 
+       baptismo ignis. De ritu baptismi, quomodo, a quo, et quibus conferendus sit. De baptismo 
+       obstetricum, et infantibus sine baptismo decedentibus. De paruulorum baptismo, contra 
+       anabaptismum: et de uirtute uel efficacia baptismi.
+      </head>
+        <p xml:id="UD1xh4-fjjIci-d1e112">
+          <!--720.xml-->
+          <pb ed="#Z" n="349-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> De sancto baptismo, quid, a quo, quando institutus, &amp; quod aquae unus duntaxat sit. De 
+          bap<lb ed="#Z" n="2" break="no"/>tismo ignis. De ritu baptismi, quomodo, a quo, &amp; quibus conferendus sit. De baptismo 
+          ob<lb ed="#Z" n="3" break="no"/>stetricum, &amp; infantibus sine baptismo decedentibus. De paruulorum baptismo, contra 
+          ana<lb ed="#Z" n="4" break="no"/>baptismum: &amp; de uirtute uel efficacia baptismi. SERMO VIII 
+          <lb ed="#Z" n="5"/>aESTAT ut sigillatim disseramus de sancto Baptismo, &amp; de sacra 
+          Coe<lb ed="#Z" n="6" break="no"/>na domini. Id quod tanto succinctius fieri potest, quanto fusius iam  
+          <lb ed="#Z" n="7"/>diximus in genere de Sacramentis. Christus dominus aperiat uobis 
+          <lb ed="#Z" n="8"/>mentes, &amp; dirigat linguam meam in gloriam &amp; laudem nominis eius 
+          <lb ed="#Z" n="9"/>benedicti in saecula.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e139">
+          <lb ed="#Z" n="10"/><pc type="indent"/> Baptismus uox est a Graecis petita, qui utrunque sicuti &amp; Latini Baptismus &amp;  
+          <lb ed="#Z" n="11"/>baptisma dicunt. Est autem Baptismus tinctio, qua uoce libenter utitur Tertul 
+          <lb ed="#Z" n="12"/>lianus. Significat enim Scarro tingo uel intingo, &amp; Saearriso immergo : unde &amp;  
+          <lb ed="#Z" n="13"/>Baptizare usurpatur pro immergere, abluere uel lauare: &amp; baptismata in scri- 
+          <lb ed="#Z" n="14"/>pturis ponuntur pro lauacris &amp; purificationibus, sicuti claret apud S. Marcum  
+          <lb ed="#Z" n="15"/>in cap. 7. &amp; apud Paulum Hebr. 5. cap. Eodem baptismate baptizari 
+          prouer<lb ed="#Z" n="16" break="no"/>bialiter dictum est, pro eo quod est eiusdem periculi uel mali consortem esse. Et 
+          <lb ed="#Z" n="17"/>baptizari sanguine, est perfundi sanguine. 
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e160">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Baptismum finiunt fere symbolum esse purgationis nostrae, imo initiationis  
+          <lb ed="#Z" n="19"/>quo recipimur in ecclesiam, ut inter filios dei recenseamur. Copiosius uero 
+          na<lb ed="#Z" n="20" break="no"/>turam eius describentes, dicimus baptismum esse actionem sacram diuinitus insti 
+          <lb ed="#Z" n="21"/>tutam, ac uerbo dei rituque sacro constantem, quo dei populus in nomine domini 
+          <lb ed="#Z" n="22"/>aqua tingitur, quo denique ipse dominus suam nobis purgationem repraesentat 
+          <lb ed="#Z" n="23"/>&amp; obsignat, in unum corpus congregat, &amp; baptisatos sui admonet officij.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e178">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Circa hanc Baptismi descriptionem uidentur haec potissimum esse consideranda, 
+          <lb ed="#Z" n="25"/>Quis instituerit baptismum. Quibus rebus constet. Simplex ne sit, an in partes di- 
+          <lb ed="#Z" n="26"/>strahatur. Quis sit ritus baptisandi traditus. Quis finis, quaeue uirtus baptismi.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e188">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Instituit Baptismi sacramentum non homo aliquis, sed ipse deus, licet per ho 
+          <lb ed="#Z" n="28"/>minem, nempe Ioannem, qui ex eo Baptistae nomen inuenit. Hoc ut 
+          intellige<lb ed="#Z" n="29" break="no"/>remus, euangelistae multis approbarunt nobis uocationem Ioannis fuisse 
+          coele<lb ed="#Z" n="30" break="no"/>stem. Inde enim colligere possumus, ministerium eius esse diuinum. Quid quod 
+          <lb ed="#Z" n="31"/>ipse disertis uerbis. Qui misit me ut baptizarem aqua, inquit, is dixit mihi, 
+          Su<lb ed="#Z" n="32" break="no"/>per quem uideris spiritum sanctum, &amp;c. Ioan. I. Sed &amp; dominus noster in 
+          euan<lb ed="#Z" n="33" break="no"/>gelio innuens baptismum Ioannis non ex hominibus, sed ex deo profectum esse,  
+          <lb ed="#Z" n="34"/>interrogat Pharisaeos, Baptismus Ioannis ex hominibus ne an ex coelo erat? 
+          <lb ed="#Z" n="35"/>Proinde baptisimum sancti etiam hodie accipiunt perinde ut ab ipsius dei 
+          ma<lb ed="#Z" n="36" break="no"/>nibus, licet hominum ministerio baptizentur. Dominus enim spiritu suo suis 
+          <lb ed="#Z" n="37"/>assistens institutis operatur in electis salutem. Vnde consequens est, per 
+          ma<lb ed="#Z" n="38" break="no"/>lum ministrum non impediri uirtutem aut effectum baptismi. De quo alias di- 
+          <lb ed="#Z" n="39"/>ctum est atque dicetur.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e220">
+          <lb ed="#Z" n="40"/><pc type="indent"/> Eo tempore uero institutus est a deo, &amp; inceptus a beato Ioanne baptismus, 
+          <lb ed="#Z" n="41"/>quo hic palam praedicare coepit tempus impletum, &amp; Christum orbi praestitum 
+          <lb ed="#Z" n="42"/>esse. Atqui re exhibita, signa rerum futurarum uel exhibendarum non manere,  
+          <lb ed="#Z" n="43"/>sed mutari in alia oportuit. Circumcisio autem fuit symbolum uenturi seminis 
+          <lb ed="#Z" n="44"/>benedicti, ipsius, inquam, Messiae, qui effuso sanguine benedictionem suam toti 
+          <lb ed="#Z" n="45"/>mundo collaturus erat. Ergo cum hic uenerat, &amp; iam iam effusurus erat 
+          sangui<lb ed="#Z" n="46" break="no"/>nem, circumcisionem mutari oportuit in baptismum. De quo postea.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e239">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Constat autem baptismus signo &amp; re signata, uerbo uel promissione dei, &amp;  
+          <!--721.xml-->
+          <pb ed="#Z" n="349-v"/>
+          <lb ed="#Z" n="1"/>ritu sacro uel caeremonia. Signum est actio externa, ipsa, inquam, aspersio aquae 
+          <lb ed="#Z" n="2"/>in nomepatris, &amp; filij, &amp; spiritus sancti, cum inuocatione nominis diuini. 
+          Pro<lb ed="#Z" n="3" break="no"/>missio uel uerbum dei est, Baptisantes eos. Qui crediderit, &amp; baptisatus fuerit,  
+          <lb ed="#Z" n="4"/>saluus erit. Et reliqua. De quibus Sermone VI. abunde satis diximus,
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e258">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Plerique ueterum distinxerunt inter baptismum Ioannis Baptistae, &amp; 
+          baptis<lb ed="#Z" n="6" break="no"/>mum Christi ac apostolorum. Etenim negant aliqui remissionem peccatorum 
+          <lb ed="#Z" n="7"/>comprehensam fuisse baptismo Ioannis. Caeterum si diligenter inspiciamus, &amp;  
+          <lb ed="#Z" n="8"/>expendamus scripturae sanctae doctrinam, deprehendemus Ioannis baptismum, 
+          <lb ed="#Z" n="9"/>&amp; Christi, apostolorumque unum atque eundem esse. Certe doctrina Ioannis, Chri- 
+          <lb ed="#Z" n="10"/>sti, &amp; apostolorum, una &amp; eadem est ubique. Omnes enim uno ore praedicant euan 
+          <lb ed="#Z" n="11"/>gelium, &amp; per hoc poenitentiam &amp; remissionem peccatorum in nomine 
+          Christi<lb ed="#Z" n="12" break="no"/>Conferat qui uelit ea quae Ioannes euangelista tradidit de doctrina Ioannis 
+          Ba<lb ed="#Z" n="13" break="no"/>ptistae primo &amp; tertio capite: &amp; ea quae Lucas tradit in 24. cap. euangelicae hi- 
+          <lb ed="#Z" n="14"/>storiae, &amp; in Actis Apostolorum, de doctrina Christiana &amp; apostolica, &amp; dicet unam 
+          <lb ed="#Z" n="15"/>atque eandem esse omnium doctrinam. Caeterum doctrinae apponitur baptismus, 
+          <lb ed="#Z" n="16"/>ueluti sigillum tabulae. Quis ergo credat eiusdem doctrinae diuersa esse sigilla  
+          <lb ed="#Z" n="17"/>uel baptismata? S. Ioannes aqua baptizauit: non aliam materiam quam aquam  
+          <lb ed="#Z" n="18"/>commendauit discipulis dominus, neque hi aliter quam aqua baptizauerunt. Illi 
+          <lb ed="#Z" n="19"/>ipsi baptizauerunt in Christum, in poenitentiam &amp; remissionem peccatorum. 
+          <lb ed="#Z" n="20"/>At de Ioanne baptista scribit S. Marcus, Baptizabat Ioannes in deserto 
+          praedi<lb ed="#Z" n="21" break="no"/>cans baptismum poenitentiae in remis ionem peccatorum. Et S. Paulus loquens 
+          <lb ed="#Z" n="22"/>de doctrina &amp; baptismo Ioannis, Ioannes, inquit, baptizauit baptismo 
+          poeni<lb ed="#Z" n="23" break="no"/>tentiae, populo loquens de eo qui uenturus esset post ipsum ut crederent, hoc 
+          <lb ed="#Z" n="24"/>est de Christo Iesu. Ex his uero quis non colligat eundem omnino baptismum 
+          <lb ed="#Z" n="25"/>esse Ioannis &amp; Christi: nisi forte hoc uideatur alicui aliquid discriminis 
+          induce<lb ed="#Z" n="26" break="no"/>re, quod Ioannes in uenturum uel reuelandum baptizauit, apostoli in 
+          reuela<lb ed="#Z" n="27" break="no"/>tum. Sed non uideo tantillum temporis spacium quidpiam posse adferre discri- 
+          <lb ed="#Z" n="28"/>minis : praesertim cum tantum ab initio praedicationis suae Ioannes loqueretur 
+          <lb ed="#Z" n="29"/>de reuelando. Mox enim &amp; praesentem digito demonstrauit, testimoniumque ex- 
+          <lb ed="#Z" n="30"/>hibuit praesenti &amp; reuelato, non uenturo amplius aut reuelando. Huic accedit 
+          <lb ed="#Z" n="31"/>quod Christus non alio quam S. Ioannis baptismo tinctus est. Si autem baptismus 
+          <lb ed="#Z" n="32"/>Ioannis alienus esset a Christianae ecclesiae baptismo, consequeretur neque Chri- 
+          <lb ed="#Z" n="33"/>stum in nostro, neque nos in Christi baptismo baptizari. Atqui Christus 
+          baptis<lb ed="#Z" n="34" break="no"/>mum Ioannis sanctificauit corpore suo, &amp; in eandem societatem tingi nobiscum 
+          <lb ed="#Z" n="35"/>dignatus est, qui &amp; ipsi tingimur hodie in baptismo, non Ioannis quidem, sed 
+          <lb ed="#Z" n="36"/>Christi, qui per Ioannem baptismum instituit, &amp; ipse eundem consecrauit. Proinde 
+          <lb ed="#Z" n="37"/>dominus apud Matth in 28. cap. &amp; apud Marcum in 6. cap. non abrogat 
+          bap<lb ed="#Z" n="38" break="no"/>tismum a Ioanne coeptum, non instituit nouum, sed eundem iubet continuare 
+          <lb ed="#Z" n="39"/>&amp; conferre credentibus in nomen patris &amp; filij &amp; spiritus sancti.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e337">
+          <lb ed="#Z" n="40"/><pc type="indent"/> Quod autem ipse Ioannes dicit, Ego baptizo aqua: ille baptizabit spiritu 
+          <lb ed="#Z" n="41"/>sancto, non discreuit inter aquae baptismum suum &amp; Christi: sed Christo amplius 
+          <lb ed="#Z" n="42"/>quiddam tribuit, quod nullus hominum uel ministrorum (errarunt enim qui 
+          <lb ed="#Z" n="43"/>quondam baptizarunt igni) cum ipso comune habet, sed solus confert, nempe 
+          <lb ed="#Z" n="44"/>baptismum ignis, id est singularia dona spiritus sancti, in primis autem usum 
+          <lb ed="#Z" n="45"/>linguarum sub specie ignis. Sic enim hoc negotium exponitur in Actis ab ipso 
+          <lb ed="#Z" n="46"/>primum domino Christo, deinde per experientiam in ecclesia. Dominus enim  
+          <lb ed="#Z" n="47"/>dicit, Ne di cesseritis Hierosolyma, sed expectate promissum patris: de quo 
+          au<lb ed="#Z" n="48" break="no"/>distis ex me, Quoniam Ioannes baptizauit quidem aqua: uos autem bapti¬ 
+          <!--722.xml-->
+          <pb ed="#Z" n="350-r"/>
+          <lb ed="#Z" n="1"/> 
+          <!-- extra line; already deleted in image -->
+          <lb ed="#Z" n="2"/>zabimini spiritu sancto post dies hosce non multos. Et consequenter die ipso 
+          <lb ed="#Z" n="3"/>pentecostes baptismo Christi baptizati sunt, non aqua rursus, sed donati sunt 
+          <lb ed="#Z" n="4"/>spiritu sancto, insidentibus singulorum ipsorum capitibus dissectis linguis 
+          ue<lb ed="#Z" n="5" break="no"/>lut igneis : &amp; coeperunt loqui linguis diuersis. In Actis baptizati sunt 
+          baptis<lb ed="#Z" n="6" break="no"/>mo Christi in aqua legitime &amp; plene Samaritani ciues, a Philippo : sed illi ipsi 
+          <lb ed="#Z" n="7"/>postmodum baptizantur peculiari baptismo Christi, dum per impositonem 
+          <lb ed="#Z" n="8"/>manuum Petri &amp; Ioannis accipiunt spiritum sanctum. Non quod hactenus 
+          <lb ed="#Z" n="9"/>prorsus caruerint dono spiritus sancti, (Quomodo enim sine spiritu sancto cre 
+          <lb ed="#Z" n="10"/>dere potuissent?) sed quod preterea uisibili ignis baptismo sint baptizati, &amp; 
+          lin<lb ed="#Z" n="11" break="no"/>guarum donum acceperint, aliaque dona excellentia. Sicut &amp; de Cornelio legi¬  
+          <lb ed="#Z" n="12"/>tur, qui primum quidem igne, Christi inquam baptismo peculiari baptizatus,  
+          <lb ed="#Z" n="13"/>linguis loquebatur, deinde uero aqua tinctus est. Contra uiri illi Ephesij 
+          duo<lb ed="#Z" n="14" break="no"/>decim, primo Ioannis, adeoque Christianae ecclesiae aquae baptismo plene tincti, 
+          <lb ed="#Z" n="15"/>deinde uero imponente eis manus apostolo Paulo, non rursus aqua sed igne 
+          <lb ed="#Z" n="16"/>baptizati sunt, Luca testante &amp; dicente, Venit spiritus sanctus super eos, &amp; 
+          lo<lb ed="#Z" n="17" break="no"/>quebantur linguis &amp; prophetabant.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e404">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Caeterum hic baptismus ignis &amp; uisibilis exhibitio donorum disparuit, una 
+          <lb ed="#Z" n="19"/>cum miraculis, nec hodie usitatus aut uulgaris est in ecclesia: manet autem 
+          ba<lb ed="#Z" n="20" break="no"/>ptismus aquae, qui unus atque idem est, siue administretur Ioannis, siue 
+          aposto<lb ed="#Z" n="21" break="no"/>lorum, siue ministrorum ecclesiae diuersis manibus. Nam diuersae manus non  
+          <lb ed="#Z" n="22"/>faciunt diuersa baptismata. Rectissime ergo credimus unum modo &amp; simplex 
+          <lb ed="#Z" n="23"/>esse baptisma omnium temporum fidelium. Nam &amp; Paulus disertis uerbis,  
+          <lb ed="#Z" n="24"/>Vnus, inquit, dominus est, una fides, unum baptisma, unus deus &amp; pater om- 
+          <lb ed="#Z" n="25"/>nium. Quo nimirum &amp; hoc apostoli eiusdem pertinet, Gratias ago deo quod 
+          <lb ed="#Z" n="26"/>neminem uestrum baptizarim, nisi Crispum &amp; Caium, ne quis dicat quod sub 
+          <lb ed="#Z" n="27"/>nomine meo baptizarim. Huic ueritati apostolicae innixi patres 
+          Constantino<lb ed="#Z" n="28" break="no"/>pol. Synod, in symbolo suo confessi leguntur, Credo unum baptisma in remis- 
+          <lb ed="#Z" n="29"/>sionem peccatorum. Etenim una duntaxat est ecclesia, unum corpus, unicum 
+          <lb ed="#Z" n="30"/>caput, &amp; unus rex, princeps, &amp; potifex catholicae ecclesiae.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e436">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Venimus iam ad ritum baptismi explicandum. Simplex hic fuit ab initio, &amp;  
+          <lb ed="#Z" n="32"/>nullis caeremonijs immoderatis ecclesiae uel sumptuosus uel onerosus. 
+          Bapti<lb ed="#Z" n="33" break="no"/>zauit Ioannes in Aenon iuxta Salim, quia aquae multae erant illic: &amp; baptizauit  
+          <lb ed="#Z" n="34"/>in nomen Christi. Sic fecerunt etiam apostoli. Vnde indubitatum relinquitur 
+          <lb ed="#Z" n="35"/>optimam esse formam baptisandi, quae fit aqua in nomen patris, &amp; filij, &amp; spiritus 
+          <lb ed="#Z" n="36"/>sancti. Sic enim praecepit dominus Matth. 28. Rogas qui factum sit quodLucas 
+          <lb ed="#Z" n="37"/>in Actis commemoret Petrum &amp; Paulum baptizasse in nomen domini, &amp; non  
+          <lb ed="#Z" n="38"/>exprimat eos baptizasse in nomen patris &amp; filij &amp; spiritus sancti? Respondeo 
+          <lb ed="#Z" n="39"/>sub nomine domini comprehendi trinitatis mysterium. Cum enim dominus 
+          <lb ed="#Z" n="40"/>dixerit, Ego &amp; pater unum sumus, qui in dominum baptizatur, etiam in patrem 
+          <lb ed="#Z" n="41"/>baptizatur, ita &amp; in spiritum sanctum, qui ab illis non diuiditur. Est enim 
+          ambo<lb ed="#Z" n="42" break="no"/>rum unus atque idem spiritus. Vel certe in domini nomine baptizatos dixit Lu 
+          <lb ed="#Z" n="43"/>cas ab apostons, quos apostoli baptizauerunt iuxta institutionem domini. Alij, 
+          <lb ed="#Z" n="44"/>Christus complementum est, inquiunt, &amp; proprium obiectum baptismi : unde 
+          <lb ed="#Z" n="45"/>mirum non esse, quod in nomen domini baptizarunt apostoli, quitamen iussi 
+          <lb ed="#Z" n="46"/>fuerant baptizare in nomen patris &amp; filij &amp; spiritus sancti. Omnia enim myste 
+          <lb ed="#Z" n="47"/>ria baptismi in unico nobis dei filio proponi. Dicitur autem utrumque. Baptizare in 
+          <lb ed="#Z" n="48"/>nomen domini, &amp; Baptizare in nomine dni. Priore forma loquendi usus legitur 
+          <lb ed="#Z" n="49"/>Matth. cap. 28. &amp; Lucas Act. 19. Vterque enim habet eis 7 dnoua in nomen. Et ita 
+          <!--723.xml-->
+          <pb ed="#Z" n="350-v"/>
+          <lb ed="#Z" n="1"/>interpretatur etiam Tertullianus contra Praxeam, dicens, lussit tingi in patrem &amp; fi 
+          <lb ed="#Z" n="2"/>lium &amp;c. Posteriore forma ep ro duquaexi &amp; ext rq oyouext in nomine, utitur idem  
+          <lb ed="#Z" n="3"/>ille Lucas Acto. cap. 10. &amp; 2. Porro quid sit Baptizare in nomen uel in nomine 
+          <lb ed="#Z" n="4"/>domini, dixi proxime praecedenti sermone, nimirum inscribi in familiam dei, 
+          <lb ed="#Z" n="5"/>ut baptizatus recipiat iam nomen dei, dicaturque filius dei, adeoque inscribatur 
+          <lb ed="#Z" n="6"/>quasi in catalogum filiorum dei, ciuium regni coelorum. Vnde &amp; nomina nobis 
+          <lb ed="#Z" n="7"/>imponuntur uel dantur in baptismo, ut quoties nominari nos audinus, 
+          baptis<lb ed="#Z" n="8" break="no"/>mi meminerimus &amp; mysteriorum eius. Neque nouum &amp; alienum est a 
+          scriptu<lb ed="#Z" n="9" break="no"/>ris quod nomina dantur nobis in baptismo. Ita enim usurpatum est &amp; in 
+          Cir<lb ed="#Z" n="10" break="no"/>cumcisione, quod uidere licet Lucae 2.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e507">
+          <lb ed="#Z" n="11"/><pc type="indent"/> Quaeritur praeterea, An nudis hisce uerbis, Baptizo te in nomen patris &amp; fi- 
+          <lb ed="#Z" n="12"/>lij &amp; spiritus sancti, baptizare oporteat, an aliquid addere uel coniungere liceat? 
+          <lb ed="#Z" n="13"/>Respondendum censeo, seruum domini nihil addere institutioni domini sui, sed 
+          <lb ed="#Z" n="14"/>diligenter retinere quod ille tradidit, diligenter item obseruare quid inter 
+          bap<lb ed="#Z" n="15" break="no"/>tizandum ipse dominus cum apostolis suis fecerit, ac illa sancte imitari, ut in 
+          ec<lb ed="#Z" n="16" break="no"/>clesia omnia decenter &amp; secundum ordinem, ita ut Paulus iussit, siand. Caeterum 
+          <lb ed="#Z" n="17"/>post traditam illam baptizandi formam sanctissimam cernimus duo apud 
+          san<lb ed="#Z" n="18" break="no"/>ctum baptisma &amp; in eius usu esse obseruata. Principio enim disseruerunt 
+          apo<lb ed="#Z" n="19" break="no"/>stoli &amp; uiri apostolici significanter de promissionibus dei, &amp; fide in Christum,  
+          <lb ed="#Z" n="20"/>Id quod claret in Actis apostolorum. Licet ergo in actione baptismi recitare di- 
+          <lb ed="#Z" n="21"/>uinas promissiones, recitare symbolum, &amp; requirere fidem, uel a baptizandis 
+          <lb ed="#Z" n="22"/>adultis, uel ab illis qui insantes afferunt ad baptismum. Deinde cum 
+          baptizare<lb ed="#Z" n="23" break="no"/>tur dominus in lordane a Baptista, orabat. Id quod de eo tradit Lucas in histo¬  
+          <lb ed="#Z" n="24"/>ria euangelica. Licet ergo in usu baptismi orare &amp; solenniter inuocare dominum, 
+          <lb ed="#Z" n="25"/>Ab initio moderatissimae hae &amp; breues fuerunt non in immensum extensae 
+          pre<lb ed="#Z" n="26" break="no"/>ces: temporibus succedentibus nullus seruatus est modus, non modo in 
+          proli<lb ed="#Z" n="27" break="no"/>xis benedictionibus, sed &amp; in uarijs ritibus, quos adiecit posteritas. De quibus 
+          <lb ed="#Z" n="28"/>aliquid ex ueteribus recitare non inutile prorsus fore uidetur. 
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e550">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Tertullianus in libello de Corona militis, Aquam adituri, ibidem, inquit, sed 
+          <lb ed="#Z" n="30"/>&amp; aliquanto prius in ecclesia sub antistitis manu contestamur nos renunciare 
+          <lb ed="#Z" n="31"/>diabolo &amp; pompae &amp; angelis eius. Dein ter mergitamur, non (quidam omittunt 
+          <lb ed="#Z" n="32"/>non) amplius aliquid respondentes, quam dominus in euangelio determinauit.  
+          <lb ed="#Z" n="33"/>lnde suscepti lactis &amp; mellis concordiam praegustamus: exque ea die lauacro 
+          quo<lb ed="#Z" n="34" break="no"/>tidiano per totam hebdomadam abstinemus. Audimus in his abnegationem uel 
+          <lb ed="#Z" n="35"/>abreunciationem, ternam mersionem, lactis &amp; mellis degustationem, &amp; absten 
+          <lb ed="#Z" n="36"/>tionem balneorum a baptismo per integram septimanam. Libro primo contra 
+          <lb ed="#Z" n="37"/>Mart. meminit &amp; Olei. Certe Lac conuenit insantibus, quibus etiam adulti ba 
+          <lb ed="#Z" n="38"/>ptizati assimilantur. Praeterea in ueteri testamento frequentissima est mentio 
+          <lb ed="#Z" n="39"/>promissae terrae lacte &amp; melle fsuentis. Ea iam praegustanda baptizatis 
+          offere<lb ed="#Z" n="40" break="no"/>bantur, ut intelligerent se duce Iesu &amp; transmisso lordane in terram 
+          promissio<lb ed="#Z" n="41" break="no"/>nis per spem insallibilem esse repositos. S. Hierony. lacti uinum additum 
+          testa<lb ed="#Z" n="42" break="no"/>tur, &amp; ait Comment. lib. 15. ad lsaiam, Dominus prouocat, ut non solum 
+          ema<lb ed="#Z" n="43" break="no"/>mus uinum, sed &amp; lac : quod significat innocentiam paruulorum: qui mos ac 
+          <lb ed="#Z" n="44"/>typus in Occidentis ecclesijs hodie usque seruatur, ut renatis in Christo uinum 
+          <lb ed="#Z" n="45"/>&amp; Iac tribuatur. Hodie neutrum tribuitur insantibus, etiam ab illis qui ueterum  
+          <lb ed="#Z" n="46"/>rituum seueri uindices uideri uolunt. Interim credunt suam illam omissionem 
+          <lb ed="#Z" n="47"/>carere piaculo. Iam etiam colligere licet ex 6. lib. Augustini de bapt. contra 
+          <lb ed="#Z" n="48"/>Donat. cap. 24. uarias &amp; liberas fuisse circa baptismum usurpatas preces. Idem  
+          <!--724.xml-->
+          <pb ed="#Z" n="351-r"/>
+          <lb ed="#Z" n="1"/>contra Pelagium &amp; Celest. libro 2. cap. 40. In pueris baptizandis, ait, prius exor 
+          <lb ed="#Z" n="2"/>cisatur &amp; exuffatur potestas contraria. Cui etiam uerbis eorum a quibus 
+          portan<lb ed="#Z" n="3" break="no"/>tur sese renunciare respondent. Eiusdem ritus meminit &amp; in lib. 5. de Nupt. &amp; 
+          <lb ed="#Z" n="4"/>concup. ad Valer. cap. 20. &amp; lib. 2. cap. 1E. In ecclesiasticis dogmatibus dicitur 
+          il<lb ed="#Z" n="5" break="no"/>lum ritum in uniuerso mundo sanctam obseruare ecclesiam, Rursus August,  
+          <lb ed="#Z" n="6"/>epist. ad Bonis. 23. dicit susceptores fideiubere pro paruulis &amp; confiteri fidem. 
+          In<lb ed="#Z" n="7" break="no"/>terrogamus, ait, eos a quibus osseruntur &amp; dicimus, Credit in deum: (de illa aetate 
+          <lb ed="#Z" n="8"/>quae utrum sit deus, ignorat) respondent Credit: &amp; ad caetera sic respondetur 
+          sin<lb ed="#Z" n="9" break="no"/>gula quae geruntur. Idem lib. de Trinit. lib. 155. cap. 26. etiam olei meminit quo in 
+          <lb ed="#Z" n="10"/>ungebantur baptizati. Sequutus deinde multa post tempora Augustinum 
+          Ra<lb ed="#Z" n="11" break="no"/>banus Maurus Moguntinus episcopus, multo plures baptismi caeremonias com 
+          <lb ed="#Z" n="12"/>memorat. Nam lib. de Instit. cler. 5. cap. 27. In fronte &amp; corde signantur, inquit,  
+          <lb ed="#Z" n="13"/>baptisandi cruce, ut diabolus hoc signum uidens, uas illud a se alienatum sciat. 
+          <lb ed="#Z" n="14"/>Datur puero item benedictum sal in os: ut sale sapientiaes conditus, foetore careat 
+          <lb ed="#Z" n="15"/>iniquitatis, nec a uermibus peccatorum ultra putrescat. Tanguntur illius aures 
+          <lb ed="#Z" n="16"/>&amp; nares saliua, addita saluatoris uoce Ephphatha, ut uirtute summi sacerdotis 
+          <lb ed="#Z" n="17"/>Christi aperiantur aures eius ad percipiendam dei notitiam, &amp; ad audienda 
+          man<lb ed="#Z" n="18" break="no"/>data dei. Hinc benedicitur puero &amp; inungitur pectus eius oleo sancto: ut nullae 
+          <lb ed="#Z" n="19"/>in eo inimici latentes reliquiae resideant. Post haec in nomine sanctae trinitatis 
+          ter<lb ed="#Z" n="20" break="no"/>na mersione baptizatur. Et ca. 28. Baptisatus statim signat in cerebro chrismate, 
+          <lb ed="#Z" n="21"/>sequente simul oratione, ut regni Christi particeps fiat, &amp; a Christiano 
+          Christia<lb ed="#Z" n="22" break="no"/>nus possit uocari. Et cap. 20. Post baptismum traditur Christiano uestis candida 
+          <lb ed="#Z" n="23"/>designans puritatem &amp; innocentiam. Sed &amp; hanc ob caussam albis uestibus 
+          in<lb ed="#Z" n="24" break="no"/>duebantur baptisati, quo meminissent se iam manumissos, &amp; e seruis ac 
+          manci<lb ed="#Z" n="25" break="no"/>pijs diaboli libertos factos Iesu Christi. Erat praeterea candidus color quondam 
+          <lb ed="#Z" n="26"/>uictoriae consecratus &amp; triumpho. Vnde uideri poterat uestem candidam ideo 
+          <lb ed="#Z" n="27"/>baptisatis datam, ut cogitarent sibi perpetuo dum hic uiuunt in terris esse pugnan 
+          <lb ed="#Z" n="28"/>dum et uincendum in Christo. Nam militia est uita hominis super terram. Certe 
+          <lb ed="#Z" n="29"/>quod donatiua baptisatis quoque dari coepere a susceptoribus uel patrinis, &amp;  
+          <lb ed="#Z" n="30"/>ipsum petitum uidetur at militia. Nam donatiuo seu authoramento ( quod 
+          Hel<lb ed="#Z" n="31" break="no"/>uetij nominamus die ynbinoete) admonetur baptisatus datae fidei in baptismo, 
+          <lb ed="#Z" n="32"/>ut semper sit memor quem deseruerit imperatorem, &amp; in quae castra transierit,  
+          <lb ed="#Z" n="33"/>in quibus fidem datam nouo imperatori Christo seruet. Multa alia huius 
+          gene<lb ed="#Z" n="34" break="no"/>ris apud postremi saeculi scriptores consignata uolens transeo, ne uidear abuti 
+          <lb ed="#Z" n="35"/>uestra beneuolentia. Quis autem non intelligat &amp; alia huius generis innumera 
+          <lb ed="#Z" n="36"/>quotidie posse affingi baptismo? Tutissimum ergo fuerit primis insistere 
+          beato<lb ed="#Z" n="37" break="no"/>rum apostolorum fundamentis. Si enim uetustas uidetur his posterius inuentis 
+          <lb ed="#Z" n="38"/>patrocinari ritibus, quis negare audeat authoritatem apostolicam multis modis 
+          <lb ed="#Z" n="39"/>excellere: Nam apostoli praecesserunt illos omnes, qui posterius adinuenerunt 
+          <lb ed="#Z" n="40"/>ac tradiderunt uarios illos in baptismo usurpandos ritus.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e688">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Venit &amp; hoc in quaestionem, An aqua pura, an consecrata oporteat 
+          bapti<lb ed="#Z" n="42" break="no"/>zare: et quare aqua iusserit dominus baptizare? S. Cyprianus epistol. lib. 5. epist. 
+          <lb ed="#Z" n="43"/>ia. Oportet mundari &amp; sanctificari, inquit, aquam prius a sacerdote, ut possit baf 
+          <lb ed="#Z" n="44"/>ptisimo suo peccata hominis, qui baptizatur, abluere. Caeterum plus apud me 
+          ua<lb ed="#Z" n="45" break="no"/>lent scripturae sanctae exempla &amp; testimonia quam S. Cypriani aut asterius ho¬- 
+          <lb ed="#Z" n="46"/>minis qualis qualis sit authoritas. Errauit alias quoque optimus hic uir dei in 
+          <lb ed="#Z" n="47"/>negotio baptismi, ut scripta eius cum iudicio legere oporteat. Scriptura tradit 
+          <lb ed="#Z" n="48"/>nobis Ioannem Baptistam, &amp; apostolos, discipulosque Christi fideles aqua non 
+          <!--725.xml-->
+          <pb ed="#Z" n="351-v"/>
+          <lb ed="#Z" n="1"/>consecrata baptizauisse. Quid enim clarius dici aut legi poterat, quam quod 
+          Io<lb ed="#Z" n="2" break="no"/>annes in Iordane baptizauit? Adde quod ipsum Christum in lordane, &amp; 
+          apo<lb ed="#Z" n="3" break="no"/>stolos quoque baptizauit. Vbi, aut quomodo consecrauerunt apostoli aquam 
+          ba<lb ed="#Z" n="4" break="no"/>ptismi in Actis apostolorum? Philippus eunuchum aquam ex itinere 
+          ostenden<lb ed="#Z" n="5" break="no"/>tem baptizat ex fote puro ac limpido. Praeterea subindicaui Sermone proxime 
+          <lb ed="#Z" n="6"/>praeterito, quam parum sit pura forma illa uulgaris qua consecratur fons 
+          bapti<lb ed="#Z" n="7" break="no"/>lmi. Si quis uero sentiat aqua consecrata baptizari oportere: ac per consecratam  
+          <lb ed="#Z" n="8"/>intellexerit nec unctam, nec characteribus precaminibusque paratam uel sancti- 
+          <lb ed="#Z" n="9"/>ficatam, sed sacris delectam usibus, nihil cum eo contenderim. Aqua enim 
+          ba<lb ed="#Z" n="10" break="no"/>ptismi reuera est sancta, non propter uerba recitata, &amp; additos characteres, sed 
+          <lb ed="#Z" n="11"/>ex instituente deo, &amp; propter usum sanctum, orationesque sanctorum. De qua re dis- 
+          <lb ed="#Z" n="12"/>serui cum loquerer non ita pridem de sanctificatione uel consecratione sacramentorum.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e739">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Aqua autem iussit suos baptizare propter caussas uarias. Praecesserunt enim  
+          <lb ed="#Z" n="14"/>typi baptismum in aqua, ut diluuium, ut mare rubrum, per quod transijt 
+          popu<lb ed="#Z" n="15" break="no"/>lus lsraeliticus, ut ablutiones uariae uel baptismata certa in lege tradita. Nec dissi 
+          <lb ed="#Z" n="16"/>mulant illa apostoli Christi. Petrus enim commemorat Noe seruatum esse aquae 
+          <lb ed="#Z" n="17"/>diluiuo, impios autem aquis praefocatos. Paulus asserit omnes patres nostros 
+          <lb ed="#Z" n="18"/>per Mosen baptisatos esse in nube &amp; in mari. Mortificatio ergo &amp; uiuificatio  
+          <lb ed="#Z" n="19"/>praefigurata est. Et primarium quidem noui testamenti symbolum est baptismus,  
+          <lb ed="#Z" n="20"/>testificans plenariam ad nos peccatorum remissionem delatam esse per Chri- 
+          <lb ed="#Z" n="21"/>stum. Hanc autem praenunciantes ac promittentes ex ore domini sancti 
+          pro<lb ed="#Z" n="22" break="no"/>phetae, libenter summum hoc beneficium adumbrarunt per aquam: ideo opor- 
+          <lb ed="#Z" n="23"/>tuit baptismum dari in aqua. Haec item seruiebat mysterio pulchre repraesentan 
+          <lb ed="#Z" n="24"/>do. Qua de re dixi proximo Sermone cum dissererem de Analogia. Hasce uero 
+          <lb ed="#Z" n="25"/>ob caussas potissimum oportuit baptismum in hoc, &amp; non in alio dari elemento.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e772">
+          <lb ed="#Z" n="26"/><pc type="indent"/> Disceptatum est &amp; de hoc, semel ne an ter mergendus aut aspergendus sit 
+          <lb ed="#Z" n="27"/>baptisandus? Equidem nihil de hi praeceperunt apostoli curiosius. Proinde 
+          li<lb ed="#Z" n="28" break="no"/>berum est uel aspergere uel immergere. Aspersio uidetur usurpata ueteribus. 
+          <lb ed="#Z" n="29"/>Honestas enim ac pudor uetabat nudare corpora. Sed &amp; insantium conditio 
+          <lb ed="#Z" n="30"/>prohibet fere immersionem, cum &amp; aspersio tantum efficiat quantum immersio. 
+          <lb ed="#Z" n="31"/>Stat autem in arbitrio dantis baptismum, ut pro consuetudine ecclesiae, cuius 
+          <lb ed="#Z" n="32"/>minister est, semel uel ter aspergat. Tertullianus aduersus Praxeam. Dominus 
+          <lb ed="#Z" n="33"/>mandauit, inquit, ut tingerent in patrem, &amp; filium, &amp; spiritum sanctum. Non in 
+          <lb ed="#Z" n="34"/>unum: nam nec femel, sed ter, ad singula nomina in personas singulas 
+          tingi<lb ed="#Z" n="35" break="no"/>mur. Gregorius uero Leandro respondens episcopo. In una fide, inquit, nihil 
+          <lb ed="#Z" n="36"/>efficit sanctae ecclesiae consuetudo diuersa. Nos quod tertio mergimus, 
+          tridua<lb ed="#Z" n="37" break="no"/>nae sepulturae sacramenta significamus, Rursus patres Synodi Toletanae llII 
+          <lb ed="#Z" n="38"/>approbarunt simplam baptismi mersionem: &amp; addunt mox caussam hanc, Et 
+          <lb ed="#Z" n="39"/>ne cuiquam sit dubium huius simpli mysterium sacramenti, uideat in eo mortem 
+          <lb ed="#Z" n="40"/>&amp; resurrectionem. Nam in aquas mersio, quasi ad infernum descensio est, &amp;  
+          <lb ed="#Z" n="41"/>rursus ab aquis emersio, resurrectio est. Item uideat in eo unitatem diuinitatis 
+          <lb ed="#Z" n="42"/>&amp; trinitatem personarum ostendi. Vnitatem, dum semel mergimus : 
+          trinita<lb ed="#Z" n="43" break="no"/>tem, dum in nomine patris, &amp; filij, &amp; spiritus sancti baptizamus. Haec non prose 
+          <lb ed="#Z" n="44"/>rimus quod humanis testimonijs innitamur, sed ut humano quoque testimonio 
+          <lb ed="#Z" n="45"/>ostendamus liberum esse sequi quod maxime aedificationi ecclesiarum seruit. 
+          <lb ed="#Z" n="46"/>De loco item baptismi affertur quaestio, An non liceat alicubi quam in 
+          tem<lb ed="#Z" n="47" break="no"/>plo baptizare? Dicimus templum ministerijs &amp; cultui dei consecratum esse,  
+          <lb ed="#Z" n="48"/>ideoque ipsum decorum flagitare, ut baptizemus publice in templo. Si autem  
+          <!--726.xml-->
+          <pb ed="#Z" n="352-r"/>
+          <lb ed="#Z" n="1"/>necessitas hoc non permiserit, nulli loco alligatus est Christi baptismus. Nam  
+          <lb ed="#Z" n="2"/>audiuimus Philippum baptizasse ex fonte in patenti campo. Cauendum tamen 
+          <lb ed="#Z" n="3"/>ne necessitatem praetexamus prauis affectibus. Munda autem sint omnia in 
+          tem<lb ed="#Z" n="4" break="no"/>plo ad baptismum pertinentia: absit omnis luxus, absint sordes &amp; impuritas. 
+          <lb ed="#Z" n="5"/>Omnia decenter, ut inquit apostolus, &amp; secundum ordinem fiant.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e840">
+          <lb ed="#Z" n="6"/><pc type="indent"/> De Tempore nulla praescribitur a domino lex, iudicio piorum id relinquitur 
+          <lb ed="#Z" n="7"/>liberum, Qui crediderunt praedicationi S. Petri Hierosolymis in die 
+          penteco<lb ed="#Z" n="8" break="no"/>stes, eunuchus item quem Philippus tinxit, Cornelius quoque centurio, Paulus 
+          <lb ed="#Z" n="9"/>denique apostolus Damasci, sed &amp; Lydia purpuraria mulier religiosa, custos item 
+          <lb ed="#Z" n="10"/>carceris Philippici &amp; alij uiri ac mulieres fideles, simul atque gustarunt dona Chri 
+          <lb ed="#Z" n="11"/>sti &amp; crediderunt uerbo eius, protinus baptizari desiderarunt : non distulerunt 
+          <lb ed="#Z" n="12"/>in ullum tempus proximum. Vnde rectissime faciunt, qui neque in semetipsis, neque  
+          <lb ed="#Z" n="13"/>in suis baptismum suscipere cunctantur. Male cessit Mosi dilatio circumcisionis 
+          <lb ed="#Z" n="14"/>in liberis suis. Vt ergo tempus baptismi libenter concedimus esse liberum, ita 
+          <lb ed="#Z" n="15"/>nostrum fuerit cauere ne abutamur nostra libertate: memores semper diuinae 
+          <lb ed="#Z" n="16"/>sententiae, Anima cuius caro praeputij non fuerit circumcisa, delebitur de 
+          popu<lb ed="#Z" n="17" break="no"/>lo suo: quia pactum meum irritum fecit. At non ignoramus in locum 
+          circum<lb ed="#Z" n="18" break="no"/>cisionis subijsse baptismum. Itaque non est libera baptismi omissio. Cypriani saeculo 
+          <lb ed="#Z" n="19"/>fuerunt qui contenderent baptismum ad similitudinem circumcisionis octaua 
+          <lb ed="#Z" n="20"/>demum die recipi oportere. At Cyprianus &amp; qui cum ipso fuerunt in Synodo 
+          <lb ed="#Z" n="21"/>episcopi &amp; presbyteri LXVI. diuersum statuerunt, nempe ut quisque nulla 
+          inter<lb ed="#Z" n="22" break="no"/>iecta mora baptismum accipiat, ac in suis procuret mature. Locus extat epist. lib. 
+          3<lb ed="#Z" n="23" break="no"/>epist. E. Porro Socrates historicus lib. 5. cap. 22. Noui &amp; aliam, ait, Thessaliae 
+          <lb ed="#Z" n="24"/>consuetudinem qua solis paschatis diebus baptizant. Vnde fit, ut praeter 
+          admo<lb ed="#Z" n="25" break="no"/>dum paucos non baptisati moriantur. Post tempora uero aliquot lata est lex de 
+          <lb ed="#Z" n="26"/>non baptisandis fidelibus, nisi in festiuitatibus Paschae &amp; Pentecostes. 
+          Excepe<lb ed="#Z" n="27" break="no"/>runt tempus necessitatis. Id legere licet in decretis Syricij pont. apud lsidorum: 
+          <lb ed="#Z" n="28"/>item in epistolis Leonis Papae ad episcopos Campaniae &amp; Siciliae, quae ordine 
+          <lb ed="#Z" n="29"/>numerantur 57. &amp; 62. Quae autem istos huc permouerunt huiusmodi sunt ut 
+          fa<lb ed="#Z" n="30" break="no"/>cile dilui possint. Certe ab initio tempus baptismi non fuit ita circunscriptum, Re- 
+          <lb ed="#Z" n="31"/>parata est tamen illa lex de baptisandis fidelibus in festo paschae &amp; pentecostes, a 
+          <lb ed="#Z" n="32"/>Pipino, Carolo, Lodeuico &amp; Lothario Francorum regibus, ac late 
+          propagata<lb ed="#Z" n="33" break="no"/>cum late imperitarent. Plurima canuntur in sacris Papistarum tempore paschae 
+          <lb ed="#Z" n="34"/>&amp; pentecostes, quae non intelliguntur nisi per hanc legem &amp; consuetudinem. 
+          Tan<lb ed="#Z" n="35" break="no"/>dem exoleuit illa, ac baptisati sunt fideles prima quaque occasione &amp; comoditate.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e909">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Sed &amp; in hoc controuersum est, quis baptizare debeat, et quid efficiat baptista. 
+          <lb ed="#Z" n="37"/>De posteriore priore loco dicam. Baptista confert uisibiliter sacramentum 
+          rege<lb ed="#Z" n="38" break="no"/>nerationis, &amp; testimonium remissionis peccatorum, dominus autem per spiritum 
+          <lb ed="#Z" n="39"/>suum inuisibiliter regenerat, peccataque remittit, et regenerationem obsignat. 
+          Ioan<lb ed="#Z" n="40" break="no"/>nes &amp; apostoli aqua baptizant, Christus baptizat spiritu sancto: non tantum 
+          uisi<lb ed="#Z" n="41" break="no"/>bili signo ignis &amp; linguarum dono, sed idem ille confert solus omnia spiritualia 
+          <lb ed="#Z" n="42"/>dona. Id ut diserte exprimerent ueteres diligenter secreuerunt inter potestatem &amp;  
+          <lb ed="#Z" n="43"/>ministerium. Nam August. Tract. in Ioan. 5. Aliud est baptizare, ait, per 
+          ministe<lb ed="#Z" n="44" break="no"/>rium: aliud baptizare per potestatem. Potuisset dominus noster Iesus Christus si 
+          <lb ed="#Z" n="45"/>uoluisset dare potestatem alicui seruo ut daret baptismum suum tanquam uice sua, 
+          <lb ed="#Z" n="46"/>&amp; transferret a se baptizandi potestatem et constitueret in aliquo seruo suo, &amp; tan 
+          <lb ed="#Z" n="47"/>tam uim daret baptismo translato in seruum, quantam uim haberet baptismus 
+          da<lb ed="#Z" n="48" break="no"/>tus a domino. Hoc noluit ideo, ut in illo spes esset baptizatorum, a quo se bapti¬ 
+          <!--727.xml-->
+          <pb ed="#Z" n="352-v"/>
+          <lb ed="#Z" n="1"/>zatos agnoscerent. Noluit ergo seruum spem ponere in seruo. Ideoque clamabat 
+          <lb ed="#Z" n="2"/>apostolus cum uideret homines uolentes ponere spem in seipso, Nunquid Pau 
+          <lb ed="#Z" n="3"/>lus pro uobis crucifixus est? aut in nomine Pauli baptizati estis? Baptizauit 
+          <lb ed="#Z" n="4"/>ergo Paulus tanquam minister, non tanquam ipsa potestas : baptizauit autem  
+          <lb ed="#Z" n="5"/>dominus tanquam potestas. Et iterum, Ioannes baptista a columba didicit, 
+          Su<lb ed="#Z" n="6" break="no"/>per quem uideris spiritum descendentem, sicut columbam &amp; manentem super 
+          <lb ed="#Z" n="7"/>eum, hic est qui baptizat spiritu sancto. Non ergo te decipiant o columba sedu 
+          <lb ed="#Z" n="8"/>ctores qui dicunt, Nos baptisamus. Columba agnosce quod columba docuit,  
+          <lb ed="#Z" n="9"/>Hic est qui baptizat spiritu sancto. Per columbam discitur, quia hic est : &amp; tu 
+          <lb ed="#Z" n="10"/>eius potestate putas te baptizari cuius ministerio baptizaris? Si tu hoc putas,  
+          <lb ed="#Z" n="11"/>nondum es in corpore columbae : &amp; si non es in corpore columbae, non 
+          miran<lb ed="#Z" n="12" break="no"/>dum, quia simplicitatem non habes. Simplicitas enim maxime per columbam  
+          <lb ed="#Z" n="13"/>demonstratur. Per simplicitatem columbae didicit Ioannes. Quia hic est qui 
+          ba<lb ed="#Z" n="14" break="no"/>ptizat spiritu sancto. Haec ille.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e975">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Porro baptizare debet legitime constitutus ecclesiae minister. Donatistae con 
+          <lb ed="#Z" n="16"/>tenderunt neminem nisi purum &amp; sanctum baptizare posse: inutilem &amp; ineffi- 
+          <lb ed="#Z" n="17"/>cacem praedicabant esse illum baptismum quem administrasset minister malus,  
+          <lb ed="#Z" n="18"/>uel sceleribus inquinatus. Contra istos grauiter disputauit Augustinus, &amp; scri- 
+          <lb ed="#Z" n="19"/>pturarum ueritate oppressit. Is epist. 166. Videte, inquit, quam peruerse &amp; impie 
+          <lb ed="#Z" n="20"/>dicatur quod dicere soletis. Quia si bonus sit homo, ipse sanctificat eum quem 
+          <lb ed="#Z" n="21"/>baptizat: si autem malus sit &amp; nesciat ille qui baptizatur, tunc deus sanctificat. 
+          <lb ed="#Z" n="22"/>Hoc si uerum est, optare ergo debent homines ut a malis ignoratis baptizentur 
+          <lb ed="#Z" n="23"/>potius, quam a notis bonis, ut magis a deo quam ab homine possint sanctificari. 
+          <lb ed="#Z" n="24"/>Sed absit a nobis ista dementia. Quare ergo non uerum dicimus &amp; recte 
+          sapi<lb ed="#Z" n="25" break="no"/>mus, quia semper est dei illa gratia &amp; dei sacramentum, hominis autem solum 
+          <lb ed="#Z" n="26"/>ministerium: qui si bonus est, adhaeret deo &amp; operatur cum deo: si autem malus 
+          <lb ed="#Z" n="27"/>est, operatur per illum deus uisibilem sacramenti formam, ipse autem donat 
+          in<lb ed="#Z" n="28" break="no"/>uisibilem gratiam. Hoc sapiamus omnes &amp; non sint in nobis schismata. Idem  
+          <lb ed="#Z" n="29"/>contra literas Petiliani lib. 3. cap. 49. eandem rem luculenter proponit. Quoniam 
+          <lb ed="#Z" n="30"/>uero nos quoque eandem rem tractauimus in fine superioris &amp; proxime 
+          praece<lb ed="#Z" n="31" break="no"/>dentis Sermonis, non est quod idem bis dicamus.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1015">
+          <lb ed="#Z" n="32"/><pc type="indent"/> Obiicitur hic nobis quaestio de baptismo obstetricum, An obstetrices foemi 
+          <lb ed="#Z" n="33"/>nae in articulo necessitatis, id est cum periculum est ne insans moribundus in ma 
+          <lb ed="#Z" n="34"/>nus ministri ecclesiastici peruenire possit, baptizare debeant &amp; possint? 
+          Respon<lb ed="#Z" n="35" break="no"/>demus baptismum esse ecclesiae sacramentum: a ministerio autem ecclesiae arceri 
+          <lb ed="#Z" n="36"/>mulieres, has ergo non posse nec debere baptizare, quemadmodum &amp; docere 
+          <lb ed="#Z" n="37"/>nullo modo permittuntur. Notae sunt leges apostolicae. Mulieri, inquit Paulus,  
+          <lb ed="#Z" n="38"/>docere non permitto, neque authoritatem usurpare in uiros, sed esse in silentio,  
+          <lb ed="#Z" n="39"/>Eadem lex repetitur ab eodem apostolo 1. Cor. 14. &amp; confirmatur lege diuina. 
+          <lb ed="#Z" n="40"/>Diuinis congruunt humana. Tertullianus enim de Virginibus uelandis, Non 
+          <lb ed="#Z" n="41"/>permittitur mulieri, inquit in ecclesia loqui, sed nec docere, nec tingere, nec of- 
+          <lb ed="#Z" n="42"/>ferre, nec ullius uirilis muneris, nedum sacerdotalis officij sortem sibi uendicare. 
+          <lb ed="#Z" n="43"/>Hoc ipsum repetitum legitur in Concilio Carthaginen. IIII. cui interfuisse di 
+          <lb ed="#Z" n="44"/>citur etiam Aurelius Augustinus. Epiphanius Salaminae Cypri episcopus 
+          con<lb ed="#Z" n="45" break="no"/>tra uarias haereses disputans, et Martionem confutans, Dat etiam, inquit, permis 
+          <lb ed="#Z" n="46"/>sionem mulieribus ut baptismum dent. Idem dicit de Quintilianis &amp; Peputianis.  
+          <lb ed="#Z" n="47"/>Contra Collyridianos disserens. Si mulieribus, inquit, praeceptum esset sacrifi- 
+          <lb ed="#Z" n="48"/>care deo, aut regulare quicquam operari in ecclesia, oportebat magis ipsam Ma 
+          <!--728.xml-->
+          <pb ed="#Z" n="353-r"/>
+          <lb ed="#Z" n="1"/>riam sacrificium perficere in nouo testamento, quae digna facta est in proprijs 
+          si<lb ed="#Z" n="2" break="no"/>nibus fuscipere uniuersorum regem deum coelestem dei filium, cuius uterus tem  
+          <lb ed="#Z" n="3"/>plum factum est ac domicilium, ad domini in carne dispensationem, per dei be- 
+          <lb ed="#Z" n="4"/>nignitatem &amp; admirandum mysterium praeparatus est. At non complacuit. Sed 
+          <lb ed="#Z" n="5"/>neque baptisma dare concreditum est. Alioqui potuisset filius ab ipsa potius, quam  
+          <lb ed="#Z" n="6"/>a Ioanne baptizari. Addit idem, Et ministrarum quidem diaconissarum 
+          appel<lb ed="#Z" n="7" break="no"/>latarum ordo est in ecclesia: Sed non ad sacrificandum, neque ut quicquam 
+          ag<lb ed="#Z" n="8" break="no"/>gredi permittantur: uerum reuerentiae gratia muliebris generis, aut propter 
+          ho<lb ed="#Z" n="9" break="no"/>ram balnei, aut uisitationis, affectionis, aut laboris. Quod Sephores uxoris Mosis  
+          <lb ed="#Z" n="10"/>Madianiticae filium circumcidentis in tempore necessitatis obiicitur exemplum: 
+          <lb ed="#Z" n="11"/>id quidem nullam legem communem constituit, perinde ut singulare Delborae 
+          <lb ed="#Z" n="12"/>exemplum, non efficit omnes mulieres iudices. Sunt enim singularia multa in 
+          <lb ed="#Z" n="13"/>scripturis facta, ex quibus si quis colligere pergat generalia &amp; leges communes, 
+          <lb ed="#Z" n="14"/>infinita inducet absurda. Quid quod Moses eo loco indignabundae uxoris, &amp;  
+          <lb ed="#Z" n="15"/>non religiosae, ministerium deo praestare uolentis facinus describit? lmpotenter 
+          <lb ed="#Z" n="16"/>enim marito adeoque &amp; deo obstrepens praeputium filij resectum ad pedes patris 
+          <lb ed="#Z" n="17"/>atque mariti abiiciens, non sine conuitio ait, Sponsus sanguinum tu mihi es. Quasi 
+          <lb ed="#Z" n="18"/>dicas, o bab ol ein bluntigen man qn dit. Et quamuis desierit Mosi 
+          immine<lb ed="#Z" n="19" break="no"/>re angelus, quod muliebre facinus uelut deo bene placens opus approbare 
+          uide<lb ed="#Z" n="20" break="no"/>tur, misericordiae tamen diuinae id magis quam humanae iustitiae imputandum 
+          <lb ed="#Z" n="21"/>est. Valde displicuit deo quod Dauid Vriam occidisset, &amp; Bersabeam sibi 
+          insu<lb ed="#Z" n="22" break="no"/>per uxorem duxisset, attamen ex bonitate &amp; singulari clementia Solomonem 
+          <lb ed="#Z" n="23"/>natum ex Bersabea appellare dignatur Iedidia, eo quod dominus diligeret eum, 
+          <lb ed="#Z" n="24"/>lta bonus dominus &amp; Mosi, siue propria negligentia, siue culpa Madianiticae 
+          u<lb ed="#Z" n="25" break="no"/>xoris circumcisionem in corpore filij contra legem plus aequo differenti, 
+          recon<lb ed="#Z" n="26" break="no"/>ciliatur, &amp; circumcisionem indignatione magis quam religione a foemina 
+          per<lb ed="#Z" n="27" break="no"/>fectam recipit ac boni consulit : interim non uult ut ad hanc, tanquam ad 
+          perfe<lb ed="#Z" n="28" break="no"/>ctum exemplar, aliorum hominum circumcisiones fiant.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1120">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Caeterum baptismo, ais, a muliere administrato, praeueniendum erat pericu 
+          <lb ed="#Z" n="30"/>lum mortis seu condemnationis aeternae, in quod incurrit insans, sine baptismo ex 
+          <lb ed="#Z" n="31"/>hoc saeculo decedens, Respondeo, cum insantulus iam iam ex utero materno effu 
+          <lb ed="#Z" n="32"/>sus praepropera morte excedit, ut non liceat parentibus, quantumuis 
+          desideran<lb ed="#Z" n="33" break="no"/>tibus, illum ministro ecclesiae baptizandum offerre, certe articulus hic necessita 
+          <lb ed="#Z" n="34"/>tis huic non cedit ad mortem, quippe qui gratia dei receptus in foedus, propter 
+          <lb ed="#Z" n="35"/>sanguinem filij dei, a morte liberatur. Non destituimur iustis scripturae 
+          testimo<lb ed="#Z" n="36" break="no"/>nijs. In lege phas non erat ante octauam diem circumcidere insantulum. At 
+          cer<lb ed="#Z" n="37" break="no"/>tum est plurimos ante octauam migrasse ex hoc saeculo: interim uero si quis puel 
+          <lb ed="#Z" n="38"/>lus triduo aut quatriduo a natali excessisset, nulla ei imputabatur condemnatio.  
+          <lb ed="#Z" n="39"/>Alioqui enim Dauid uir in religione integerrimus, et liberorum amantissimus,  
+          <lb ed="#Z" n="40"/>salutisque suae familiae cupidissimus, mortuo insantulo suo ex Bersabea genito, non 
+          <lb ed="#Z" n="41"/>potuisset se adeo hilarem exhibere aulicis suis, quibus inter alia praedicabat se abi 
+          <lb ed="#Z" n="42"/>turum ad puerum mortuum, nimirum in regionem uiuentium. Quod si foemel 
+          <lb ed="#Z" n="43"/>lis non erat fraudi incircumcisis mori: nam incircumcisae saluabantur : certe nec 
+          <lb ed="#Z" n="44"/>masculis damnabile erit non baptizatis, in articulo necessitatis, decedere. Saepe 
+          <lb ed="#Z" n="45"/>enim diximus in locum circumcisionis subijsse sanctum baptisma. Huc pertinent 
+          <lb ed="#Z" n="46"/>illa ex lege atque prophetis testimonia. In lege enim non semel protestatus est se 
+          <lb ed="#Z" n="47"/>insantium habere rationem certissimam. Apud lonam diserte profitetur se 
+          ha<lb ed="#Z" n="48" break="no"/>bere rationem eorum qui nondum ad annos discretionis peruenerunt. Pro¬ 
+          <!--729.xml-->
+          <pb ed="#Z" n="353-v"/>
+          <lb ed="#Z" n="1"/>pter hos enim ex parte Niniue urbi famosissimae pepercit dominus,
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1174">
+          <lb ed="#Z" n="2"/><pc type="indent"/> Ais haec ueteris testamenti testimonia nihil pertinere ad nos, qui uiuimus sul 
+          <lb ed="#Z" n="3"/>nouo testamento, Respondeo, deum nobis post aduentum Christi in carnem non 
+          <lb ed="#Z" n="4"/>seueriorem esse factum, quam fuit ante Christi aduentum. Alioqui enim quid di 
+          <lb ed="#Z" n="5"/>cemus aliud quam Christum uenisse non ad implendas, sed abolendas aut infir 
+          <lb ed="#Z" n="6"/>mandas dei promissiones: quando apud ueteres quondam gratia &amp; promissio 
+          <lb ed="#Z" n="7"/>sine signo in necessitate efficax erat, nunc autem apud nos sine signo irritae &amp; 
+          in<lb ed="#Z" n="8" break="no"/>efficaces esse coeperunt. Diuinae ergo confisus misericordiae ac ueraci &amp; indubi 
+          <lb ed="#Z" n="9"/>tatae promissioni, credo paruulos praepropera morte priusquam baptizari 
+          pos<lb ed="#Z" n="10" break="no"/>sint decedentes, mera dei gratia in uirtute ueritatis aut promissionis diuinae 
+          sal<lb ed="#Z" n="11" break="no"/>uari per Christum, dicentem in euangelio, Sinite paruulos uenire ad me: horum 
+          <lb ed="#Z" n="12"/>enim est regnum dei. Item, Non est uoluntas patris mei, qui in coelis est, ut pereat 
+          <lb ed="#Z" n="13"/>unus de pusillis istis. Dixit enim qui mentiri nescit deus. Ego sum deus tuus &amp;  
+          <lb ed="#Z" n="14"/>seminis tui post te. Vnde &amp; S. Paulus eos nasci sanctos, qui ex fidelibus 
+          nascun<lb ed="#Z" n="15" break="no"/>tur, asserit: non quod ex carne &amp; sanguine sanctum quid nascatur. Quod enim  
+          <lb ed="#Z" n="16"/>ex carne est, caro est: sed quod sanctitas illa &amp; segregatio a communi hominum 
+          <lb ed="#Z" n="17"/>semine ex promissione &amp; iure foederis sit. Omnes quidem nascimur filij irae &amp;  
+          <lb ed="#Z" n="18"/>mortis natura &amp; propagatione naturali: sed speciale priuilegium tribuit Paulus 
+          <lb ed="#Z" n="19"/>fidelium liberis, quo gratia dei purificantur qui natura fuerant immundi. Ita 
+          <lb ed="#Z" n="20"/>idem alibi ex radice sancta sanctos colligit ramos. Idem alibi, Si unius delicto,  
+          <lb ed="#Z" n="21"/>inquit, multi mortui sunt, multo magis gratia dei &amp; donum per gratiam quae fuit 
+          <lb ed="#Z" n="22"/>unius hominis Iesu Christi in multos exuberauit. Ideoque non dubitauit 
+          Augu<lb ed="#Z" n="23" break="no"/>stinus pronunciare, Sicut omnes qui moriuntur non nisi in Adam moriuntur: 
+          <lb ed="#Z" n="24"/>ita omnes qui uiuificantur non nisi in Christo uiuificantur. Ac per hoc quisquis  
+          <lb ed="#Z" n="25"/>nobis dixerit quenquam in resurrectione mortuorum uiuificari posse nisi in Chri 
+          <lb ed="#Z" n="26"/>sto, tanquam pestis communis fidei detestandus est. Ad Hierony. epist. 28.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1232">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Obijiciunt, Hac ratione euacuatur &amp; e medio tollitur usus baptismi: reuixit 
+          <lb ed="#Z" n="28"/>autem Pelagianismus, quem tanto cum labore S. Aurelius Augustinus cum 
+          mul<lb ed="#Z" n="29" break="no"/>tis alijs uiris doctis &amp; sanctis oppressit: falsum pronunciauit qui dixit, Anima 
+          <lb ed="#Z" n="30"/>cuius caro preputij non fuerit circumcisa delebitur de populo suo, quia pactum  
+          <lb ed="#Z" n="31"/>meum irritum fecit: falsum pronunciauit qui dixit, Amen amen dico tibi, nisi 
+          <lb ed="#Z" n="32"/>quis natus fuerit ex aqua &amp; spiritu non potest ingredi in regnum dei. Si autem  
+          <lb ed="#Z" n="33"/>uera ista sunt &amp; pueri non baptisantur, certe consequens est eos sine baptismo 
+          de<lb ed="#Z" n="34" break="no"/>cedentes non seruari, Respondeo, me nullo modo sanctum baptisma extenuare.  
+          <lb ed="#Z" n="35"/>multo minus tollere e medio, cum contendo necessitate interueniente, nec ullo 
+          <lb ed="#Z" n="36"/>accedente aut contemptu aut neglectu prauo, insantes sine baptismo 
+          deceden<lb ed="#Z" n="37" break="no"/>tes non damnari. Sic enim alligaretur salus signo, &amp; euacuaretur dei promissio 
+          <lb ed="#Z" n="38"/>quasi sola sine signo, in articulo necessitatis, inanis nihil efficeret, manusque dei ab  
+          <lb ed="#Z" n="39"/>breuiata, &amp; ueluti signo uincta esset. Alioqui enim modis omnibus doceo insan 
+          <lb ed="#Z" n="40"/>tes esse baptisandos, nec neglectim aut malitiose differendum baptisma: interim  
+          <lb ed="#Z" n="41"/>uero si praepropera morte expirent non baptisati, bene sperare iubeo de 
+          ueri<lb ed="#Z" n="42" break="no"/>tate &amp; misericordia domini in lege et in euangelio promittentis se deum esse 
+          in<lb ed="#Z" n="43" break="no"/>santium, nolleque ut quisquam paruulorum pereat.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1272">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Cum Pelagio &amp; Pelagianis nihil nobis est comertij: nec ignoramus quid hac 
+          <lb ed="#Z" n="45"/>in caussa scripserit S. Augustin. Ad Hierony. epist. 2g. Quisquis dixerit, inquit  
+          <lb ed="#Z" n="46"/>quod in Christo uiuificantur etiam paruuli qui sine sacramenti eius participatione 
+          <lb ed="#Z" n="47"/>de uita exeunt, hic profecto &amp; contra apostolicam praedicationem uenit, &amp; totam 
+          <lb ed="#Z" n="48"/>condemnat ecclesiam, ubi propterea cum baptisandis paruulis festinatur et cur¬ 
+          <!--730.xml-->
+          <pb ed="#Z" n="354-r"/>
+          <lb ed="#Z" n="1"/>ritur, quia sine dubio creditur aliter eos in Christo uiuificari omnino non posse, 
+          <lb ed="#Z" n="2"/>Et contra Pelagianos epist. 106. Apostolica sedes contra Pelagium agens anathe 
+          <lb ed="#Z" n="3"/>matizauit eos qui dicerent insantes non baptisatos habere uitam aeternam. Idem  
+          <lb ed="#Z" n="4"/>de anima &amp; eius origine lib. 5. cap. 9. ad Renatum disputat contra Vincentium 
+          <lb ed="#Z" n="5"/>Victorem, concedentem quidem paruulos originali peccato esse obstrictos, sed 
+          <lb ed="#Z" n="6"/>nihilo minus tamen saluari si non baptizentur. Contra hunc producit hoc 
+          salua<lb ed="#Z" n="7" break="no"/>toris, Nisi quis natus fuerit ex aqua &amp; spiritu, non potest ingredi in regnum dei. 
+          <lb ed="#Z" n="8"/>Nos uero qui &amp; ipsi Pelagium &amp; Pelagianos condemnamus, utrunque quod isti 
+          <lb ed="#Z" n="9"/>negabant asserimus, nepe nasci insantes in originali peccato, &amp; ideo 
+          sanctifica<lb ed="#Z" n="10" break="no"/>tionem Christi eis esse necessariam, sine qua non saluantur, Rursus baptizandos,  
+          <lb ed="#Z" n="11"/>si possibile sit, eosdem illos contendimus, tametsi iure foederis ad corpus Christi 
+          <lb ed="#Z" n="12"/>pertineant, &amp; sanguine Christi sanctificati sint. Pelagius non baptizandos esse 
+          <lb ed="#Z" n="13"/>paruulos docebat, quod noxa culpa uel peccato omni carere existimaret : ergo 
+          <lb ed="#Z" n="14"/>non agnoscebat impius uel corruptionem nostram, uel beneficium, quod deus 
+          <lb ed="#Z" n="15"/>praestitit per Christum, Neutrum uero in nostra assertione et doctrina inuenias,  
+          <lb ed="#Z" n="16"/>prinde nihil nobis comertij cum Pelagianis. S. Augustinus diserte in eadem illa  
+          <lb ed="#Z" n="17"/>ad S. Hieronymum epistola dicit, Non es ex illis qui dicunt nullum reatum esse 
+          <lb ed="#Z" n="18"/>ex Adam tractum qui per baptismum in insante soluatur. Et contra lulianum lib.  
+          <lb ed="#Z" n="19"/>1. cap. 2. patrum quoque sanctorum sententijs astruit originale peccatum, deinde 
+          <lb ed="#Z" n="20"/>colligit, ideo baptisandos esse paruulos, quia peccatum habent. Nam Pelagiani  
+          <lb ed="#Z" n="21"/>ex contrario colligebant, Peccatum non habent, ergo non sunt baptisandi. Con 
+          <lb ed="#Z" n="22"/>cilium enim Carthaginen. ad Innocent, sic scribit, Pelagiani paruulos negant ba 
+          <lb ed="#Z" n="23"/>ptisandos. Quia isti, inquiunt, non perierunt nec est quod in eis saluetur: quia ni 
+          <lb ed="#Z" n="24"/>hil est in eis uitiatum, &amp;c. Nos uero quia credimus paruulos in peccato nasci, 
+          a<lb ed="#Z" n="25" break="no"/>deoque &amp; filios irae nasci &amp; uitiatos esse, praeterea quia credimus filium dei pure 
+          <lb ed="#Z" n="26"/>ex illibata uirgine natum ad implendas confirmandasque dei promissiones, quae 
+          <lb ed="#Z" n="27"/>insantes ex salute non excludunt, sed in foedere includunt, ideo eos baptisandos 
+          <lb ed="#Z" n="28"/>esse contendimus. Iccirco &amp; collectionem hanc Augustini, Extra Christi 
+          con<lb ed="#Z" n="29" break="no"/>sortium ad uitam nemo peruenit : baptismo autem incorporamur Christo: ergo 
+          <lb ed="#Z" n="30"/>insantes non baptisati, sunt extra consortium Christi, ac condemnati, simpliciter. 
+          <lb ed="#Z" n="31"/>probare non possumus. Sicut enim non negamus nos inseri corpori Christi per 
+          <lb ed="#Z" n="32"/>sacramentorum participationem: sicuti declarauimus proxime praecedenti 
+          Ser<lb ed="#Z" n="33" break="no"/>one de Sacrament. ita ostendimus alibi, &amp; iam saepe luculentissime non a 
+          sacra<lb ed="#Z" n="34" break="no"/>mentis primum fieri initium nostrae cum Christo unionis, sed eam ipsam quae in 
+          <lb ed="#Z" n="35"/>promissione fundata est, &amp; gratia dei per spiritum sanctum nobis &amp; nostris etiam  
+          <lb ed="#Z" n="36"/>ante sacramentorum usum comunicata, per sacramentorum perceptionem continuari 
+          <lb ed="#Z" n="37"/>&amp; obsignari. Tametsi ergo insans sine baptismo discedat, nec uisibili foederis si-¬ 
+          <lb ed="#Z" n="38"/>gno, necessitate exclusus, participet aut obsignetur, tamen in uniuersum non est 
+          <lb ed="#Z" n="39"/>alienus a Christo, cui adhaeret spirituali foederis nexu, cuius uirtute saluatur.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1375">
+          <lb ed="#Z" n="40"/><pc type="indent"/> Locus Gen. 17. productus de excindendis e populo dei incircumcisis, pro 
+          ra<lb ed="#Z" n="41" break="no"/>tione temporis, adultis, non insantibus copetit. Id quod in Mose cernitur, quem ob 
+          <lb ed="#Z" n="42"/>neglectam aut diutius iusto dilatam circumcisione inuadit angelus domini, sicut 
+          <lb ed="#Z" n="43"/>ipse de seipso testatur. Nec ignoro ueteres aliquot interpretes id non ad 
+          Mosen<lb ed="#Z" n="44" break="no"/>sed ad Eleazarum, Mosis filiolum, referre. Verum ipse historiae contextus, ipsae 
+          cir<lb ed="#Z" n="45" break="no"/>cumstantiae, satis euincunt periculum in patren non in filium incubuisse. Quid quod 
+          <lb ed="#Z" n="46"/>in uerbis legis ratio subijcitur, quae insantibus nullo modo congruit? Ideo 
+          peri<lb ed="#Z" n="47" break="no"/>bit incircumcisus, ait, quia pactum meum irritum fecit. Quod si consideremus 
+          <lb ed="#Z" n="48"/>circumcisionem eo ipso loco non tantum insantibus, sed adultis ut Abrahae ls¬ 
+          <!--731.xml-->
+          <pb ed="#Z" n="354-v"/>
+          <lb ed="#Z" n="1"/>maeli alijsque iam consortio dei uisibiliter coniungi cupientibus preceptam esse,  
+          <lb ed="#Z" n="2"/>non mirabunur interitum inobsequenti esse interminatum. Nam si quis hodie 
+          <lb ed="#Z" n="3"/>intelligat domini institutionem his eius comprehensam uerbis, Qui crediderit 
+          <lb ed="#Z" n="4"/>&amp; baptisatus fuerit, saluus erit, nihilo minus baptizari nolit, sed iactitet sibi fidem 
+          <lb ed="#Z" n="5"/>sufficere ad salutem, baptismum esse superuacuum, ordinationem dei 
+          contem<lb ed="#Z" n="6" break="no"/>psit, &amp; pro rebelle &amp; hoste non amico dei condemnatur. 
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1415">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Porro locus Ioan. 3. non est intelligendus de externo sancti baptisimi 
+          symbo<lb ed="#Z" n="8" break="no"/>lo, sed simpliciter de regeneratione sancti spiritus interna &amp; maxime spirituali,  
+          <lb ed="#Z" n="9"/>quam cum Nicodemus non liquide intelligeret, parabolis aquae &amp; spiritus, id est,  
+          <lb ed="#Z" n="10"/>uenti uel aeris, per elementa, inquam, maxime tenuia, suffigurauit illustrauitque. 
+          <lb ed="#Z" n="11"/>Mox enim subijcit, Quod natum est ex carne, caro est, &amp;c. Item, Spiritus ubi 
+          <lb ed="#Z" n="12"/>uult spirat, &amp;c. Id quod de aere exponi necesse est. Sequitur enim altera pars 
+          <lb ed="#Z" n="13"/>collationis, Sic omnis qui natus est ex spiritu. Praeterea subdit, Si terrena dixi 
+          <lb ed="#Z" n="14"/>uobis, &amp; non creditis, quomodo si dixero uobis coelestia credetis? Caeterum 
+          ar<lb ed="#Z" n="15" break="no"/>gumentum quod proposuit plane non fuit terrenum. Hoc enim est totius dispu 
+          <lb ed="#Z" n="16"/>tationis argumentum, Nisi quis natus fuerit e supernis, non potest uidere regnum 
+          <lb ed="#Z" n="17"/>dei: id est, nisi quis per spiritum dei, qui e supernis datur, id est, diuinitus infun 
+          <lb ed="#Z" n="18"/>ditur, fuerit innouatus, &amp; ueluti regenitus, non potest saluus fieri. Haec doctri- 
+          <lb ed="#Z" n="19"/>na plane coelestis est. Sed modus quo hanc doctrinam coelestem tradidit, illu 
+          <lb ed="#Z" n="20"/>strauit, ac proposuit, terrenus est, Rebus enim e terra sumptis crasso homini 
+          ter<lb ed="#Z" n="21" break="no"/>renoque rem spiritualem &amp; coelestem adumbrauit, &amp; ueluti oculis 
+          conspicien<lb ed="#Z" n="22" break="no"/>dam proposuit. Sicuti aqua &amp; aere non raro corporum qualitates mutantur, &amp;  
+          <lb ed="#Z" n="23"/>mirus est effectus in corporibus aeris &amp; aquae: ita etiam spiritus sancti in anima 
+          <lb ed="#Z" n="24"/>hominis, quam immutat, purgat, uiuificat, &amp;c. Sic enim ipse dominus postea 
+          <lb ed="#Z" n="25"/>(quod &amp; modo dixi) parabolam spiritus alteram illustrat. Quoniam uero 
+          uete<lb ed="#Z" n="26" break="no"/>res plerique omnes per aquam intellexerunt symbolicam, id est sanctum baptisina,  
+          <lb ed="#Z" n="27"/>recipimus &amp; hanc interpretationem. Libenter enim concedimus baptismum tam  
+          <lb ed="#Z" n="28"/>in adultis, quam in insantibus ad salutem esse necessarium, modo non interueniat 
+          <lb ed="#Z" n="29"/>necessitas. Alioqui eni si pergamus cum <name xml:id="UD1xh4-fjjIci-Nd1e1468" ref="#Augustine">S. Augustino</name> praefracte condemnare 
+          <lb ed="#Z" n="30"/>per hunc locum insantes, cogemur profecto etiam baptisatos, sed sine 
+          commu<lb ed="#Z" n="31" break="no"/>nione corporis &amp; sanguinis Christi decedentes, condemnare. Pari enim errore 
+          <lb ed="#Z" n="32"/>circumuentus S. Augustinus, contendit &amp; insantibus ingerendum esse 
+          sacra<lb ed="#Z" n="33" break="no"/>mentum eucharistiae, alioqui de uita periclitaturis : eo quod scriptum sit, Nisi 
+          <lb ed="#Z" n="34"/>manducaueritis carnem filij hominis, &amp; biberitis eius sanguinem, non habebitis 
+          <lb ed="#Z" n="35"/>uitam in uobis. Eodem ergo ordine collocat has duas sententias. Nisi quis 
+          na<lb ed="#Z" n="36" break="no"/>tus fuerit ex aqua &amp; spiritu, non potest uidere regnum dei: &amp;, Nisi 
+          manduca<lb ed="#Z" n="37" break="no"/>ueritis carnem filij hominis, &amp;c. Si ergo Augustinianae sententiae mordicus 
+          in<lb ed="#Z" n="38" break="no"/>haerere libeat, damnabis certe totam ecclesiam hodie, quae insantibus euchari- 
+          <lb ed="#Z" n="39"/>stiam negat. At si hac in re admissa est commoda interpretatio, cur in altero &amp;  
+          <lb ed="#Z" n="40"/>simili loco &amp; caussa non dispari tam rigidi &amp; pertinaces estis?
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1495">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Quid quod in hoc dogmate ne sibijpsi quidem per omnia satisfacit 
+          Augusti<lb ed="#Z" n="42" break="no"/>nus? Putat ueniale peccatum esse laico, si in tempore necessitatis baptizet. Ne- 
+          <lb ed="#Z" n="43"/>scit an quisquam pie dixerit laici baptismum esse repetendum. Quanto uero satius 
+          <lb ed="#Z" n="44"/>&amp; tutius fuerat, praeterita baptisandi necessitate, quae nullas legitimas caussas 
+          <lb ed="#Z" n="45"/>habet, sentire insantulos, si a morte non praeocupati fuerint, a ministro ecclesiae 
+          <lb ed="#Z" n="46"/>in ecclesia procurantibus parentibus prima quaque opportunitate baptisandos 
+          <lb ed="#Z" n="47"/>esse : praeproperam mortem autem (quam nos necessitatis articulum appellamus) non 
+          <lb ed="#Z" n="48"/>esse fraudi aut salutis impedimentum ad baptismum nondum delatis. Idem de poe¬ 
+          <!--732.xml-->
+          <pb ed="#Z" n="355-r"/>
+          <lb ed="#Z" n="1"/>na paruulorum damnatorum propter baptismum non susceptum, definire 
+          tre<lb ed="#Z" n="2" break="no"/>pidat nec quid certo dicat, habet. De Anima &amp; eius origine lib. 5. cap. 9. Non 
+          <lb ed="#Z" n="3"/>baptisatis paruulis, inquit nemo promittat inter damnationem regnumque 
+          coe<lb ed="#Z" n="4" break="no"/>lorum quietis uel felicitatis cuiuslibet atque ubilibet quasi medium locum. At ea 
+          <lb ed="#Z" n="5"/>sententia hodie est recepta fere ab omnibus : unde &amp; medio quodam loco inter 
+          <lb ed="#Z" n="6"/>prophanum &amp; sacrum sepeliuntur in coemiterio innocentum, Rursus autem  
+          <lb ed="#Z" n="7"/>idem ille August, contra lulianum Pelagianum lib. 5. cap. 8. scribit insantulos 
+          <lb ed="#Z" n="8"/>illos in damnatione omnium leuissima futuros. Ac mox subiungit, quae, qualis 
+          <lb ed="#Z" n="9"/>&amp; quanta erit, quamuis definire non possim, non tamen audeo dicere quod eis 
+          <lb ed="#Z" n="10"/>ut nulli essent, quam ut ibi essent potius expediret. Et iterum in epistola ad 
+          S<lb ed="#Z" n="11" break="no"/>Hieronymum 28. Cum ad poenas uentum est paruulorum, inquit, magnis mihi 
+          <lb ed="#Z" n="12"/>crede coartor angustijs, nec quid respondeam prorsus inuenio. His accedit,  
+          <lb ed="#Z" n="13"/>quod lib. cont. Donatistas 4. cap. 22. &amp; 23. de latrone cum Christo crucifixo 
+          <lb ed="#Z" n="14"/>disputans, inter alia dicit, tunc impleri baptismum inui sibiliter, cum non 
+          con<lb ed="#Z" n="15" break="no"/>temptus religionis, sed articulus necessitatis, a uisibili baptismo excludit : cur 
+          <lb ed="#Z" n="16"/>ergo non credamus &amp; in insantibus praepropera morte decedentibus 
+          baptis<lb ed="#Z" n="17" break="no"/>mum inuisibiliter perfici, quando non contemptus religionis, sed articulus 
+          ne<lb ed="#Z" n="18" break="no"/>cessitatis eos a uisibili baptismo excludit? Et cum plerique hodie concedant, 
+          quem<lb ed="#Z" n="19" break="no"/>uis adultae aetatis hominem citra baptismum in articulo necessitatis saluum fieri 
+          <lb ed="#Z" n="20"/>posse, modo adsit baptismi desiderium: cur ergo insantes iam recens natos pia 
+          <lb ed="#Z" n="21"/>parentum uota a reatu non eximerent? Sed haec hactenus.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1567">
+          <lb ed="#Z" n="22"/><pc type="indent"/> De eo quoque &amp; olim &amp; nostra aetate rixatum est acriter, qui nam baptisandi 
+          <lb ed="#Z" n="23"/>sint. Negauit olim Pelagius paruulos esse baptisandos. Id quod modo audiui¬  
+          <lb ed="#Z" n="24"/>mus. Negauit eos baptisandos esse ante Pelagium Auxentius Arianus cum suis,  
+          <lb ed="#Z" n="25"/>Negarunt quidam tempore beati Bernardi, ut ex eius scriptis colligere licet. 
+          <lb ed="#Z" n="26"/>Negant hodie Anabaptistae, genus hominum in perniciem euangelij a sathana 
+          <lb ed="#Z" n="27"/>excitatum. At ueritas catholica in scripturis sanctis nobis tradita simpliciter 
+          <lb ed="#Z" n="28"/>pronunciat, omnes eos esse baptisandos quos deus agnoscit pro suo populo,  
+          <lb ed="#Z" n="29"/>participesque purgationis uel sanctificationis remissionisue peccatorum iudicat. 
+          <lb ed="#Z" n="30"/>Nam tota hac tractatione de Sacramentis ostendi &amp; demonstro, baptismum esse 
+          <lb ed="#Z" n="31"/>signum populi dei &amp; symbolum purgationis nostrae per Christum. Ergo cum 
+          <lb ed="#Z" n="32"/>insantes fidelium sint in numero uel censu populi dei participesque promissionis 
+          <lb ed="#Z" n="33"/>de purificatione per Christum : necessario sequitur eos esse perinde 
+          baptizan<lb ed="#Z" n="34" break="no"/>dos sicut adultos fidem profitentes. 
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1599">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Instituitur quidem disputatio acuta de eo qui nam sint populus dei &amp; 
+          parti<lb ed="#Z" n="36" break="no"/>cipes remissionis peccatorum per Christum. Disseritur ergo de arcana illa deii 
+          <lb ed="#Z" n="37"/>electione, &amp; de alijs huic rei coniunctis difficillimis quaestionibus. Verum bre 
+          <lb ed="#Z" n="38"/>uius &amp; simplicius hic nos expedire possumus. Dicimus populum dei agnosci, 
+          <lb ed="#Z" n="39"/>uel ex confessione fidei hominum, uel ex liberali promissione dei. Ex contessione 
+          <lb ed="#Z" n="40"/>quidem hominum. Nam eos pro filijs dei agnoscimus, qui iam adulti palam con- 
+          <lb ed="#Z" n="41"/>fitentur deum uerum, deum esse suum, &amp; Iesum Christum saluatorem esse suum.  
+          <lb ed="#Z" n="42"/>Caeterum ea confessio uel uere, uel ficte fit. Vere, ut cum S. Petrus ait, Tu es 
+          <lb ed="#Z" n="43"/>Christus filij dei uiui : cum Eunuchus dicit, Credo filium dei esse Iesum Chri- 
+          <lb ed="#Z" n="44"/>stum. Ficte uero, ut cum Simon Magus in Actis apostolorum dicit se credere in 
+          <lb ed="#Z" n="45"/>Iesum Christum. Siue uero uere, siue ficte quis credat, quando fidem in Christum 
+          <lb ed="#Z" n="46"/>palam confitetur (sanimi penetralia solus inspicit deus: hic enim solus recte 
+          cre<lb ed="#Z" n="47" break="no"/>ditur cordium esse scrutator) nostrum non est recte confitentem separare uel 
+          <lb ed="#Z" n="48"/>abijcere a populo dei. Nam &amp; Philippus Simonem magum non repulit, sed 
+          <!--733.xml-->
+          <pb ed="#Z" n="355-v"/>
+          <lb ed="#Z" n="1"/>pro fideli confitentem recepit &amp; pro fideli baptizauit : licet is reuera &amp; coram 
+          <lb ed="#Z" n="2"/>deo esset hypocrita. Sermone huius Decad. 5. ostendimus in ecclesia hypocri- 
+          <lb ed="#Z" n="3"/>tas quoque numerari donec reuelantur. Quod autem ad remissionem peccatorum 
+          <lb ed="#Z" n="4"/>attinet, soli inter adultos illi eam obtinent, qui uere credunt. Id quod alias saepe 
+          <lb ed="#Z" n="5"/>ostensum est. S. Petrus Simoni licet baptizato, dicit, Non est tibi pars, neque sors 
+          <lb ed="#Z" n="6"/>in ratione hac. Cor enim tuum non est rectum coram deo.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1650">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Porro ex promissione dei gratuita &amp; liberali non tantum ex confessione 
+          ho<lb ed="#Z" n="8" break="no"/>minum aestimamus uel agnoscimus dei populum. Nam quibuscunque promit- 
+          <lb ed="#Z" n="9"/>tit deus se ipsorum fore deum, &amp; quoscunque recipit ipse &amp; agnoscit pro suis, eos 
+          <lb ed="#Z" n="10"/>nemo hominum citra grande scelus numero excluserit fidelium. Promittit 
+          au<lb ed="#Z" n="11" break="no"/>tem deus se non tantum confitentium, sed &amp; insantium fore deum : promittit hi 
+          <lb ed="#Z" n="12"/>gratiam suam &amp; remissionem peccatorum. Quis ergo domino uniuersorum con 
+          <lb ed="#Z" n="13"/>tradicens porro negauerit insantes dei esse ac purgationis per Christum fieri 
+          <lb ed="#Z" n="14"/>participes? Quod autem deus insantes pro suis agnoscat, &amp; eosdem sanctificet,  
+          <lb ed="#Z" n="15"/>uel ex foederis summa claret. Statuam pactum meum inter me &amp; te, ait ad Ab- 
+          <lb ed="#Z" n="16"/>rahamum dominus, &amp; inter semen meum post te, in generationibus suis 
+          foede<lb ed="#Z" n="17" break="no"/>re sempiterno, ut sim deus tuus &amp; feminis tui post te. Addita est Circumcisio 
+          <lb ed="#Z" n="18"/>symbolum sanctificationis. De quo abunde satis dixi cum ex ordine dissererem 
+          <lb ed="#Z" n="19"/>de Circumcisione. Nec est quod quis metuat cum circumcisione legalibusquam 
+          <lb ed="#Z" n="20"/>abrogatam esse promissionem, &amp; per Christi aduentum foedus esse dissipatum. 
+          <lb ed="#Z" n="21"/>Modo enim diximus Christum uenisse adimplendis dei promissionibus, non 
+          <lb ed="#Z" n="22"/>dissoluendis. In euangelio ergo de insantibus, id est nondum confitentibus fi- 
+          <lb ed="#Z" n="23"/>dem, prounciauit &amp; dixit, Sinite paruulos uenire ad me, nec prohibueritis eos. 
+          <lb ed="#Z" n="24"/>Talium enim est regnum dei. Et quamuis Talium, non lllorum dicatur, nemo 
+          <lb ed="#Z" n="25"/>tamen usque adeo rudis est, ut non intelligat inter ea qua inter se conseruntur esse 
+          <lb ed="#Z" n="26"/>similitudinem. Proinde si adultorum est regnum dei, eo quod similes 
+          efficiun<lb ed="#Z" n="27" break="no"/>tur paruulis, certe consequitur necessario regni coelorum haereditatem &amp; insan 
+          <lb ed="#Z" n="28"/>tium uel puellorum esse, Sequitur enim in euangelio, Quicunque non acceperit 
+          <lb ed="#Z" n="29"/>regnum dei tanquam puellus, haudquaquam ingredietur in illud. Iccirco opor- 
+          <lb ed="#Z" n="30"/>tet prius esse regni dei haeredes insantes uel paruulos. Quis autem nesciat, 
+          ne<lb ed="#Z" n="31" break="no"/>minem nisi sanctificatum purgatumue ingredi in regnum coelorum? Pueri 
+          in<lb ed="#Z" n="32" break="no"/>grediuntur regnum dei : ergo purgati sunt, nimirum gratia dei: natura enim &amp;  
+          <lb ed="#Z" n="33"/>origine sua immundi &amp; peccatores, sed propter Christum purgati sunt: qui di- 
+          <lb ed="#Z" n="34"/>xit se uenisse quaesitum seruatumque quod perierat. Paulus quoque diserte testatur 
+          <lb ed="#Z" n="35"/>per unius Adami delictum, malum propagatum esse in omnes homines ad 
+          con<lb ed="#Z" n="36" break="no"/>demnationem: ergo &amp; per unius Christi iustificationem propagari bonum in omnes 
+          <lb ed="#Z" n="37"/>homines ad iustificationem uitae. Certum est itaque insantulos purificationis uel 
+          <lb ed="#Z" n="38"/>remissionis peccatorum per Christum esse participes, licet non confiteantur remis- 
+          <lb ed="#Z" n="39"/>sionem peccatorum. Quid quod in euangelio rursus ait dominus? Non est 
+          uo<lb ed="#Z" n="40" break="no"/>luntas coram patre uestro, qui in coelis est, ut pereat unus de pusillis istis. Item,  
+          <lb ed="#Z" n="41"/>Qui receperit unum puellum talem, in nomine meo, me recipit. Qui autem 
+          offen<lb ed="#Z" n="42" break="no"/>derit unum de pusillis istis, qui in me credunt, expedit ei ut suspendatur mola 
+          <lb ed="#Z" n="43"/>asinaria &amp;c. Videte ergo ne contemnatis unum ex pusillis istis. Dico enim uo- 
+          <lb ed="#Z" n="44"/>bis, quod angeli eorum in coelis semper uident faciem patris mei qui in coelis 
+          <lb ed="#Z" n="45"/>est. En quid dici poterat clarius? Non est uoluntas patris coelestis ut intereant 
+          <lb ed="#Z" n="46"/>insantuli. Recepit ergo eos in gratiam gratuito, licet nondum confiteantur. 
+          <lb ed="#Z" n="47"/>Deinde. Qui talem, qualem nimirum ipse produxerat in medium, recipit puellum,  
+          <lb ed="#Z" n="48"/>propter Christum, is ipsum dicitur recipere Christum. En tribuit insantium  
+          <!--734.xml-->
+          <pb ed="#Z" n="356-r"/>
+          <lb ed="#Z" n="1"/>receptoribus quod prophetarum. Addit. Qui autem offenderit unum de pusillis 
+          <lb ed="#Z" n="2"/>istis, qui in me credunt. Manifeste paruulos nondum confiteri potentes, credentes  
+          <lb ed="#Z" n="3"/>uocat, eo quod ex gratia eos pro credentibus reputet. Nec mirum aut nouum 
+          <lb ed="#Z" n="4"/>hoc est, cum deus ipsis etiam adultis fidem imputet pro iustitia. Vtrobique 
+          iusti<lb ed="#Z" n="5" break="no"/>tia, acceptatio, aut sanctificatio, est gratuita et imputatiua, ut laudetur gloria gra 
+          <lb ed="#Z" n="6"/>tiae suoe. Praeterea non uult contemni, multo minus reijci e numero sanctorum 
+          par<lb ed="#Z" n="7" break="no"/>uulos. Quinimo angelos his additos asseuerat custodes, qui tametsi sint diuinae 
+          <lb ed="#Z" n="8"/>maiestatis ministri, eosdem tamem illos suos stipatores paruulis esse datos, siue 
+          con<lb ed="#Z" n="9" break="no"/>cessos : ut uel inde aestimemus quanti faciat dominus insantulos, &amp; ut discamus 
+          <lb ed="#Z" n="10"/>illos non expungere ex albo populi dei, cui debetur uitae haereditas. Nihil hic 
+          <lb ed="#Z" n="11"/>tribuimus carnali natiuitati, sed omnia diuines gratiae &amp; promissioni. Claret iam  
+          <lb ed="#Z" n="12"/>ex his omnibus, &amp; insantes fidelium, &amp; adultos fidem consitentes esse baptizandos.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1775">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Ex aduerso autem anabaptistae contendunt, neminem esse baptizandum, nisi 
+          <lb ed="#Z" n="14"/>eum solum qui &amp; doceri &amp; credere, adde &amp; fidem profiteri possit. Atque in huius  
+          <lb ed="#Z" n="15"/>rei confirmationem adducunt illas saluatoris sententias. Ex Matth. Euntes ergo 
+          <lb ed="#Z" n="16"/>docete omnes gentes, baptizantes eos in nomine patris &amp;c. Ex Marco, Ite in 
+          <lb ed="#Z" n="17"/>orbem uniuersum &amp; praedicate euangelium omni creaturae : qui crediderit &amp; 
+          <lb ed="#Z" n="18"/>baptizatus fuerit, saluus erit &amp;c. En doctrina praecedit, inquiunt, baptismum. 
+          <lb ed="#Z" n="19"/>Ergo qui doceri non possunt, baptizari non debent. Praeterea praeit credere,  
+          <lb ed="#Z" n="20"/>subiungitur baptizare. Insantes non credunt : ergo baptizandi non sunt. Ad 
+          <lb ed="#Z" n="21"/>haec omnia, coaceruant ex Actis apostolorum exempla qua probant fideles, hoc 
+          <lb ed="#Z" n="22"/>est fidem confitentes, esse baptizatos ab apostolis. Commemorant &amp; 
+          Catechu<lb ed="#Z" n="23" break="no"/>menos ueterum: quibus nullus sane fuisset locus datus, inquiunt, si baptizassent 
+          <lb ed="#Z" n="24"/>insantes, Respondeo, Si uerborum ordo aliquid facit in hac caussa, habemus &amp;  
+          <lb ed="#Z" n="25"/>nos quod pro caussa nostra faciat. Nam in Marco sic legimus, Baptizabat Ioan 
+          <lb ed="#Z" n="26"/>nes in deserto, praedicans baptismum poenitentiae. Quo loco cernimus baptizare 
+          <lb ed="#Z" n="27"/>praecedere, subsequi praedicare. Sed &amp; illum ipsum locum quem illi pro se 
+          ad<lb ed="#Z" n="28" break="no"/>ducunt ex Matthaeo demonstrabimus sacere pro nobis. Matthaeus enim sic 
+          ha<lb ed="#Z" n="29" break="no"/>bet, Data est mihi omnis potestas, ait dominus, in coelo &amp; in terra: euntes ergo 
+          <lb ed="#Z" n="30"/>uesi, aetucroere, id est discipulate (ut sic dicam) id est discipulos mihi facite uel 
+          colli<lb ed="#Z" n="31" break="no"/>gite omnes gentes. Sed &amp; modum indicat, quomodo colligant ei ex omnibus 
+          <lb ed="#Z" n="32"/>gentibus, uel omnes gentes, discipulos. Baptizantes eos atque docentes. 
+          Bapti<lb ed="#Z" n="33" break="no"/>zando &amp; docendo comparabitis mihi ecclesiam. Ac utrumque pulchre &amp; breui¬  
+          <lb ed="#Z" n="34"/>ter sigillatim illustrat, dicens, Baptizantes eos in nomen patris, &amp; filij, &amp; spiritus  
+          <lb ed="#Z" n="35"/>sancti. Docentes eos seruare omnia quaecunque praecepi uobis. Iam ergo 
+          baptis<lb ed="#Z" n="36" break="no"/>mus praeit doctrinam. Verum nos inde non colligimus gentes, quae nunquam  
+          <lb ed="#Z" n="37"/>quicquam prius de deo &amp; filio dei ac spiritu sancto audierunt baptizandas esse, 
+          <lb ed="#Z" n="38"/>neque uero id sustinerent: sed baec proferimus ut ostendamus quam non solido 
+          <lb ed="#Z" n="39"/>fundamento innitantur Anabaptistae. Dicimus autem simpliciter uerum non 
+          <lb ed="#Z" n="40"/>esse quod isti fingunt, dominum iussisse eos duntaxat tingere, quos docuerint 
+          <lb ed="#Z" n="41"/>apostoli. Neque uero hic designat qui baptizandi sint in uniuersum, sed loqui¬  
+          <lb ed="#Z" n="42"/>tur de adultis primisque fundamentis fidei &amp; ecclesiae collocandis inter gentes,  
+          <lb ed="#Z" n="43"/>rudes adhuc &amp; ignaras religionis. Adulti, non insantes, praedicationem uel 
+          do<lb ed="#Z" n="44" break="no"/>ctrinam audire, credere &amp; confiteri possunt, insantes non item. Nihil ergo hic 
+          <lb ed="#Z" n="45"/>loquitur de insantibus. Verum ideo non excluduntur at baptismo. Generalis 
+          <lb ed="#Z" n="46"/>lex est, Qui non laborat, non manducet: uerum quis adeo barbarus ut ideo 
+          pu<lb ed="#Z" n="47" break="no"/>tet insantes fame esse necandos? Dominus misit apostolos suos ab initio propa 
+          <lb ed="#Z" n="48"/>gationis uerae religionis in omnes gentes, ad eos qui &amp; deum ignorabant &amp; alieni 
+          <!--735.xml-->
+          <pb ed="#Z" n="356-v"/>
+          <lb ed="#Z" n="1"/>erant a testamentis dei, hos certe non primum tingere, deinde docere oportuit. 
+          <lb ed="#Z" n="2"/>sed primum docere deinde tingere. Si hodie proficisceremur ad Turcas 
+          con<lb ed="#Z" n="3" break="no"/>uertendos ad fidem Christi, primum certe doceremus, deinde baptizaremus 
+          <lb ed="#Z" n="4"/>seruos Christi dedititiosque. Ita ipse quoque dominus quondam cum ipso 
+          Abraha<lb ed="#Z" n="5" break="no"/>mo primum reparauit foedus, ac instituit circumcisionem obsignationem 
+          foe<lb ed="#Z" n="6" break="no"/>deris, deinde uero Abraham circumcisus est. At idem ille cum intellexisset 
+          in<lb ed="#Z" n="7" break="no"/>santes quoque pertinere ad foedus, &amp; circumcisionem esse foederis obsignatio¬  
+          <lb ed="#Z" n="8"/>nem, non lsmaelem duntaxat tredecim annos natum &amp; uernaculos domus suae,  
+          <lb ed="#Z" n="9"/>sed &amp; insantes, inter quos &amp; lsaacum numeramus, postea circumcidit. Ita 
+          fide<lb ed="#Z" n="10" break="no"/>les qui ex gentilismo conuertebantur per praedicationem euangelij, &amp; 
+          bapti<lb ed="#Z" n="11" break="no"/>zabantur confitentes, ubi intellexissent insantes suos reputari in populo dei, &amp;  
+          <lb ed="#Z" n="12"/>bapti smum esse symbolum populi dei, etiam insantes suos baptizari curauerunt.  
+          <lb ed="#Z" n="13"/>Quemadmodum ergo scriptum est de Abraham. Omnes mares domus suae 
+          cir<lb ed="#Z" n="14" break="no"/>cumcidit. Ita non raro legimus in Actis &amp; scriptis apostolorum patrefamilias 
+          <lb ed="#Z" n="15"/>conuerso totam eius domum esse baptizatam. Quod uero ad Catechumenos 
+          at<lb ed="#Z" n="16" break="no"/>tinet, accedebant apud ueteres ex gentibus quotidie ad ecelesiam, quos isti in 
+          <lb ed="#Z" n="17"/>fide rudes instituebant in elementis fidei, deinde uero baptizabant. Sed illi ipsi 
+          <lb ed="#Z" n="18"/>ueteres nihilo minus &amp; fidelium insantes baptizabant. Id quod mox 
+          demon<lb ed="#Z" n="19" break="no"/>strabimus.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1902">
+          <lb ed="#Z" n="20"/><pc type="indent"/> Nec legitime colligunt cum ita concludunt, Qui crediderit &amp; baptisatus 
+          fue<lb ed="#Z" n="21" break="no"/>rit, saluus erit. Pueri non credunt, ergo non sunt baptisandi, Rursus enim de 
+          <lb ed="#Z" n="22"/>adultis, sicut &amp; apud Matthaeum, constat esse locutum. Quoniam uero ab adul 
+          <lb ed="#Z" n="23"/>tis fidem, fideique confessionem requirit, inde non est consequens quod idem 
+          re<lb ed="#Z" n="24" break="no"/>quirat ab insantibus. Hos enim pro suis reputat etiam sine confessione, ex mera 
+          <lb ed="#Z" n="25"/>sua gratia &amp; libera promissione. Vnde nos ex aduerso sic argumentamur: 
+          Cre<lb ed="#Z" n="26" break="no"/>dentes sunt baptisandi. Id quod ipsi quoque aduersarij concedunt. Insantes sunt 
+          <lb ed="#Z" n="27"/>credentes. Nam deus reputat eos in numero fidelium. Id quod superius 
+          mani<lb ed="#Z" n="28" break="no"/>feste probaui. Proinde insantes sunt baptisandi.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1925">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Obijiciunt insantes mysterium baptismi non intelligere, ac prinde cum 
+          ra<lb ed="#Z" n="30" break="no"/>tione ac sensu communi non modo cum religione pugnare, baptizare insantes,  
+          <lb ed="#Z" n="31"/>Perinde enim esse truncum &amp; insantem baptizare, cum neutrum utatur ratione. 
+          <lb ed="#Z" n="32"/>Caeterum laxant impuras suas linguas impuri nebulones in ipsam dei 
+          maiesta<lb ed="#Z" n="33" break="no"/>tem. Deus iussit circumcidere insantulos : &amp; circumcisio grandia continuit my 
+          <lb ed="#Z" n="34"/>steria, quae insantuli non intellexerunt. An uero deus quicquam instituit 
+          con<lb ed="#Z" n="35" break="no"/>tra rationem &amp; sensum communem? Abite quo digni estis tenebriones cum  
+          <lb ed="#Z" n="36"/>uestris blasphemijs. lmpurissimum uero &amp; plus quam barbarum est, quod 
+          in<lb ed="#Z" n="37" break="no"/>santes cum truncis confertis. Quanti enim faciat deus insantes, iam ante ex 
+          euan<lb ed="#Z" n="38" break="no"/>gelio docuimus. Caeterum diligentissime &amp; sedulo docendi &amp; comonefaciendi 
+          <lb ed="#Z" n="39"/>sunt homines ratione sana iam uti incipientes, ut meminerint se esse baptisatos,  
+          <lb ed="#Z" n="40"/>&amp; ut conentur dei inuocato nomine per omnia respodere suo uoto &amp; suae 
+          pro<lb ed="#Z" n="41" break="no"/>fessioni. Ita uero Abraham lsaacum suum instituit, &amp; liberos suos sancti patres 
+          <lb ed="#Z" n="42"/>omnes.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1960">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Sed praeteritis furiosis, rabiosis, maledicisque illis rixatoribus, quibus nulla  
+          <lb ed="#Z" n="44"/>unquam uerba deesse audiuimus, quantumlibet saepe &amp; serio cum eis 
+          contule<lb ed="#Z" n="45" break="no"/> rimus, pergamus paucis, sed euidentibus argumentis demonstrare paruulos 
+          <lb ed="#Z" n="46"/>esse baptisandos, adeoque Christi domini apostolos baptizauisse insantes. 
+          Domi<lb ed="#Z" n="47" break="no"/>nus iussit baptizare omnes gentes : ergo &amp; insantes. Hi enim 
+          comprehendun<lb ed="#Z" n="48" break="no"/>tur sub omnium gentium uocabulo. Item, Quoscumque deus inter fideles accen¬ 
+          <!--736.xml-->
+          <pb ed="#Z" n="357-r"/>
+          <lb ed="#Z" n="1"/>set, fideles sunt, Petrus enim audiuit. Quod deus purificauit, tu ne commune aut  
+          <lb ed="#Z" n="2"/>immundum dixeris. Paruulos reputat deus inter fideles: sunt ergo fideles: nisi ma 
+          <lb ed="#Z" n="3"/>limus deo repugnare, &amp; ipso uideri fortiores. lam uero extra controuersiam poni 
+          <lb ed="#Z" n="4"/>mus, Apostolos Christi eos baptizasse, quos Christus baptizare iussit. lussit autem 
+          <lb ed="#Z" n="5"/>fideles baptizare: itaque apostoli baptizarunt insantes.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e1992">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Euangelium maius est baptismo. Paulus enim dixit, Dominus misit me 
+          euan<lb ed="#Z" n="7" break="no"/>gelizare, non baptizare: non quod hoc negaret absolute se ad baptisandum non esse 
+          <lb ed="#Z" n="8"/>missum, sed quod doctrinam praeferret. Vtrumque enim comendauit apostolis 
+          do<lb ed="#Z" n="9" break="no"/>minus. Porro in doctrina euangelica recipiuntur pueri a deo, non repudiantur. 
+          <lb ed="#Z" n="10"/>quis ergo nisi cum ratione insaniens excludat ex minori? In sacramentis conside 
+          <lb ed="#Z" n="11"/>ranrur res signata &amp; signum. llla potior est. Ab illa non excluduntur insantes. Quis 
+          <lb ed="#Z" n="12"/>ergo signum neget? Etenim sancta dei sacramenta magis ex uerbo quam signo 
+          ae<lb ed="#Z" n="13" break="no"/>stimantur. Ex uerbo colligimus, &amp; mulieres non excludi coena dominica. Quan 
+          <lb ed="#Z" n="14"/>quam ergo non legamus eas in prima institutione fuisse, &amp; ad primam domini men 
+          <lb ed="#Z" n="15"/>sam assedisse, neque ulla lex expressa extet quae iubeat illas admittere ad coenam, 
+          <lb ed="#Z" n="16"/>nihilo minus ad coenam intrepide &amp; sine dubitatione ex syllogismo admittimus.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2019">
+          <lb ed="#Z" n="17"/><pc type="indent"/> S. Petrus illis baptismum aquae negare non potuit, quibus uiderat datum esse 
+          <lb ed="#Z" n="18"/>sanctum spiritum certissimum populi dei signum. Dicit enim in Actis apostolo. 
+          <lb ed="#Z" n="19"/>stolorum, Num quis prohibere potest quo minus aqua baptizentur hi qui 
+          spiri<lb ed="#Z" n="20" break="no"/>tum sanctum acceperunt sicut &amp; nos ? Proinde non negauit sanctus Petrus 
+          ba<lb ed="#Z" n="21" break="no"/>ptismum insantibus. Certo enim agnouit uel ex doctrina domini &amp; magistri sui, 
+          <lb ed="#Z" n="22"/>ut nihil nunc dicam de foedere dei aeterno, insantium esse regnum coelorum. 
+          Ne<lb ed="#Z" n="23" break="no"/>mo autem recipitur in regnum coelorum, nisi sit amicus dei. Et hi non 
+          destituun<lb ed="#Z" n="24" break="no"/>tur spiritu dei. Qui enim spiritum Christi non habet, hic non est eius. Pueri sunt  
+          <lb ed="#Z" n="25"/>dei, ergo non destituuntur spiritu dei. Ideoque si perinde spiritum dei acceperunt ut 
+          <lb ed="#Z" n="26"/>nos, si numerantur perinde in populo dei ut nos adulti: quis obsecro prohibebit 
+          <lb ed="#Z" n="27"/>hos aqua tingi in nomine domini? Olim obstrepebant apostoli nondum satis insti 
+          <lb ed="#Z" n="28"/>tuti insantes ad dominum apportantibus. Sed increpabat eos dominus ac dicebat,  
+          <lb ed="#Z" n="29"/>Sinite paruulos uenire ad me. Cur ergo non obediunt praecepto domini rebelles 
+          <lb ed="#Z" n="30"/>anabaptistes. Quid enim aliud faciunt hodie, qui pueros ad baptismum adferunt,  
+          <lb ed="#Z" n="31"/>quam quod fecerunt olim qui ad dominum insantes attulerunt? Et dominus quidem  
+          <lb ed="#Z" n="32"/>recepit illos, benedixit eis imposits manibus : denique uerbis &amp; gestibus 
+          significa<lb ed="#Z" n="33" break="no"/>uit luculentissime pueros esse populum dei, &amp; deo commendatissimos. Sed quare 
+          <lb ed="#Z" n="34"/>non eadem opera, inquiunt, baptizauit eos? Quia scriptum est, Iesus ipse non 
+          ba<lb ed="#Z" n="35" break="no"/>ptizabat, sed discipuli eius, Praeterea cum de re usqueadeo liquide constat, quid 
+          <lb ed="#Z" n="36"/>contendimus adhuc de signo: Hactenus uiris bonis satisfactum est, rixatores per 
+          <lb ed="#Z" n="37"/>gunt quaestiones nectere. Praeterea data est in ueteri populo dei circumcisio insan 
+          <lb ed="#Z" n="38"/>tibus: ergo baptismus debet dari insantibus in nouo populo. Nam baptismus 
+          suc<lb ed="#Z" n="39" break="no"/>cessit in locum circumcisionis. Nam S. Paulus, Per Christum estis circumcisi, ait 
+          <lb ed="#Z" n="40"/>circumcisione quae fit sine manibus, dum exuistis corpus peccatorum carnis per 
+          <lb ed="#Z" n="41"/>circumcisionem Christi, consepulti simul cum illo per baptismum. En appellat Pau 
+          <lb ed="#Z" n="42"/>lus baptismum circumcisionem Christianam, quae fiat sine manibus : non quod 
+          <lb ed="#Z" n="43"/>aqua non administretur manibus, sed quod manibus nemo amplius 
+          circumcida<lb ed="#Z" n="44" break="no"/>tur, mysterio circumcisionis manente nihilo minus in fidelibus. Nec legas 
+          quen<lb ed="#Z" n="45" break="no"/>quam ueterum ecclesiae interpretum non confessum, in locum circumcisionis ba 
+          <lb ed="#Z" n="46"/>ptismum subijsse. Sed &amp; parilitas uel similitudo urriusque manifestam 
+          successio<lb ed="#Z" n="47" break="no"/>nem ostendit.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2090">
+          <lb ed="#Z" n="48"/><pc type="indent"/> His autem haec atteximus, Serui dei semper fuerunt soliciti his signa dare, qui¬ 
+          <!--737.xml-->
+          <pb ed="#Z" n="357-v"/>
+          <lb ed="#Z" n="1"/>bus sunt instituta. Vt enim omnes alios praeteream, an non losue diligentissime cu 
+          <lb ed="#Z" n="2"/>rabat circuncidi populum priusquam ingrederetur terram promissam? Cum autem fi 
+          <lb ed="#Z" n="3"/>delissimi fuerint serui Iesu Christi praedicatores orbis apostoli, cui posthac dubium 
+          <lb ed="#Z" n="4"/>erit ipsos baptizasse insantulos, cum baptismus subierit in locum circumcisionis?
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2109">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Certe apostoli Christi omnia sua attemperarunt ad typos &amp; figuras 
+          testa<lb ed="#Z" n="6" break="no"/>menti ueteris, ergo &amp; baptismum attemperasse certum est, ideoque &amp; insantulos 
+          <lb ed="#Z" n="7"/>baptizasse. Quoniam hi fuerunt in typo baptismi. Nam populus lsraelis, &amp; mare 
+          <lb ed="#Z" n="8"/>rubrum, &amp; alueum lordanis transijt cum liberis. Et quamuis hi non semper ex- 
+          <lb ed="#Z" n="9"/>primantur, sicuti nec mulieres in scripturis sanctis, comprehenduntur tamen &amp;  
+          <lb ed="#Z" n="10"/>subintelliguntur in his.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2126">
+          <lb ed="#Z" n="11"/><pc type="indent"/> His accedit quod clarissime in scripturis traditur, apostolos totas domos siue 
+          <lb ed="#Z" n="12"/>familias baptizasse. Comprehenduntur autem in domibus in primis liberi: 
+          utpo<lb ed="#Z" n="13" break="no"/>te praestantissima &amp; charissima domus pars. Baptizarunt ergo apostoli liberos 
+          si<lb ed="#Z" n="14" break="no"/>ue paruulos, non tantum adultos. Quod autem domus in primis comprehendat 
+          <lb ed="#Z" n="15"/>insantes uel paruulos, nullo negotio demonstrari potest. Primum quidem ex loco 
+          <lb ed="#Z" n="16"/>Gene. 17. quem iam iam adduximus. Deinde quod Ioseph Iacobum patrem cum  
+          <lb ed="#Z" n="17"/>uniuersa domo euocat ex terra Chanaam in terram Aegypti, ne fame uidelicet 
+          do<lb ed="#Z" n="18" break="no"/>mus eius intereat. Plurima sunt huius generis loca in lege &amp; prophetis, &amp; in 
+          uni<lb ed="#Z" n="19" break="no"/>uersa scriptura. Verum esto non fuerint insantes (quod rixatores isti obiiciunt  
+          <lb ed="#Z" n="20"/>in domibus, quas baptizarunt apostoli, nihilominus tamen ad domum pertinent,  
+          <lb ed="#Z" n="21"/>&amp; in eam censentur, ut si fuissent in domibus baptizassent eos utique. Quod ergo 
+          <lb ed="#Z" n="22"/>non baptisatos in familijs illis contendunt, eam quidem culpam nos dicimus nec 
+          <lb ed="#Z" n="23"/>in pueris haerere, quasi indigni fuerint baptismo, nec in apostolis, ut quinon soliti 
+          <lb ed="#Z" n="24"/>fuerint pueros baptizare, sed in eo, quod non adfuerunt. Nam si adfuissent, 
+          ba<lb ed="#Z" n="25" break="no"/>ptisati fuissent: eo quod apostoli totas baptizarunt domus, ad quas liberi pertinent. 
+          <lb ed="#Z" n="26"/>lam uero ex ueterum scriptis demonstrare possumus, insantium baptismum 
+          <lb ed="#Z" n="27"/>durauisse ab apostolorum temporibus ad nos usque, neque ullis concilijs aut Papae 
+          <lb ed="#Z" n="28"/>aliorumue hominum decretis institutum esse, sed ab ipsis apostolis ex scriptura 
+          tra<lb ed="#Z" n="29" break="no"/>ditum. <name xml:id="UD1xh4-fjjIci-Nd1e2170">Origenes</name> lib, enarrat, in epist. Pauli ad Rom. 5. exponens 6. cap. dicit eccle 
+          <lb ed="#Z" n="30"/>siam Christi paruulorum baptismum ab ipsis accepisse apostolis. S. Hierony. 
+          me<lb ed="#Z" n="31" break="no"/>minit baptismi insantium lib. 3. contra Pelagianos, &amp; in epist. ad Laetam. <name xml:id="UD1xh4-fjjIci-Nd1e2177">S. Augu 
+          <lb ed="#Z" n="32"/>stinus</name> citat locum Chrysostomi, imo a luliano citatum illustrat lib. contra lulian.¬ 
+          <lb ed="#Z" n="33"/>cap. 2. Idem ad S. Hierony. epist. 28. Beatus Cyprianus non aliquod decretum no 
+          <lb ed="#Z" n="34"/>uum condens, ait, sed ecclesiae fidem firmissime seruans, mox natum rite baptiza 
+          <lb ed="#Z" n="35"/>ri posse cum suis quibusdam coepiscopis censuit. Locus Cypriani extat in epist. 
+          <lb ed="#Z" n="36"/>ad Fidum, sicuti supra etiam cum de tempore baptismi loqueremur ostendimus, 
+          <lb ed="#Z" n="37"/>ldem August, contra Donatistas lib. 4. cap. 23. &amp; 24. asserit paedobaptismum non 
+          <lb ed="#Z" n="38"/>ex authoritate hominum aut conciliorum esse petitum, sed ex traditione uel 
+          do<lb ed="#Z" n="39" break="no"/>ctrina apostolorum. Cyrillus libro in Leuit. 8. &amp; puerorum baptismum approbat,  
+          <lb ed="#Z" n="40"/>&amp; iterationem baptismi condemnat. Id quod non in hunc finem profero ut huma 
+          <lb ed="#Z" n="41"/>nis imponam testimonijs paedobaptismum, sed ut doceam diuinis testimonijs 
+          con<lb ed="#Z" n="42" break="no"/>gruere humana, &amp; uetustatis ueritatem stare a partibus nostris, mendacia &amp; 
+          no<lb ed="#Z" n="43" break="no"/>ua figmenta a partibus effrontium Anabaptistarum, fingentium paec obaptismum 
+          <lb ed="#Z" n="44"/>a Papa esse praeceptum.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2210">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Videtur autem operaepretium esse, ut nonihil dicamus et de Anabaptismo. Decij 
+          <lb ed="#Z" n="46"/>&amp; Galli Caes: imperio exorta est in Africae partibus quaestio de Rebaptisandis hae 
+          <lb ed="#Z" n="47"/>reticis. Placuit autem S. Cypriano &amp; reliquis episcopis in Concilio Carihaginen 
+          <lb ed="#Z" n="48"/>congregatis anabaptismus. Idem Cornelio Rom, episcopo, reuera sancto &amp; do¬ 
+          <!--738.xml-->
+          <pb ed="#Z" n="358-r"/>
+          <lb ed="#Z" n="1"/>cto adde &amp; martyri, una cum multis ltaliae episcopis displicuit. Haereticos autem 
+          <lb ed="#Z" n="2"/>placuit post abiectionem praui, &amp; confessionem recti dogmatis sola eos manuum 
+          <lb ed="#Z" n="3"/>impositone purgandos. Legere haec licet apud Euseb. Eccles: hist. lib. 7. Extat eius 
+          <lb ed="#Z" n="4"/>dem rei tractatio, &amp; in Dogmat. ecclesiast. cap. 52. Sciendum est autem S. Cypria 
+          <lb ed="#Z" n="5"/>num in hac caussa nihil asseruisse praefractius. In fine enim epistolae ad lubaianum  
+          <lb ed="#Z" n="6"/>scribit. Haec tibi breuiter pro nostra mediocritate rescripsimus frater chariss: 
+          ne<lb ed="#Z" n="7" break="no"/>mini praescribentes aut praeiudicantes, quo minus unusquisque episcoporum, quod 
+          <lb ed="#Z" n="8"/>putauerit faciat, habens arbitrij sui liberam facultatem.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2244">
+          <lb ed="#Z" n="9"/><pc type="indent"/> Post illa tempora rebaptizarunt &amp; Ariani &amp; Donatistae. De Arianis scribunt 
+          <lb ed="#Z" n="10"/>historici, &amp; in primis Sozomenus lib. 6. Attingunt eandem rem alicubi &amp; script 
+          <lb ed="#Z" n="11"/>res ecclesiastici. Contra Donatistas cum alijs uiris doctis disputauit <name xml:id="UD1xh4-fjjIci-Nd1e2253">beatus Augu 
+          <lb ed="#Z" n="12"/>stinus</name>. Lata est &amp; lex imperatoria ab Honorio &amp; Theodosio, ne sanctum baptisma 
+          <lb ed="#Z" n="13"/>iteretur, Retulit eam in Cod. libro 5. tit. 6. lustinianus Caes hisce uerbis, Si quis re 
+          <lb ed="#Z" n="14"/>baptizare quempiam de ministris catholicae secte fuerit detectus, una cum eo qui  
+          <lb ed="#Z" n="15"/>piaculare crimen commisit(si tamen criminis per aetatem capax sit) &amp; hic cui per 
+          <lb ed="#Z" n="16"/>suasum sit, ultimo supplicio percellatur. Porro Valentin. Valens &amp; <name xml:id="UD1xh4-fjjIci-Nd1e2267">Gratianus</name> ad 
+          <lb ed="#Z" n="17"/>Florianum Asiae uicarium in haec uerba praecipiunt: Antistitem qui sanctitatem  
+          <lb ed="#Z" n="18"/>baptismatis illicita usurpatione geminauerit, sacerdotio indignum esse censemus, 
+          <lb ed="#Z" n="19"/>Eorum enim condemnamus errorem, qui apostolorum praecepta calcantes, Chri 
+          <lb ed="#Z" n="20"/>stiani nominis sacramenta sortitos, alio rursus baptismate non purificant, sed 
+          in<lb ed="#Z" n="21" break="no"/>cestant lauacri nomine polluentes. Hactenus illi.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2282">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Et reuera qui rebaptizant &amp; rebaptizantur, prophanant &amp; nomen domini,  
+          <lb ed="#Z" n="23"/>quod super baptisatos in priore baptismo inuocatum est, &amp; reprobant dei institu 
+          <lb ed="#Z" n="24"/>tum uelut inane &amp; uitiosum. Non legitur Christus nisi semel esse baptisatus, 
+          Se<lb ed="#Z" n="25" break="no"/>mel &amp; non iterum baptisati sunt apostoli. Semel duntaxat tincti sunt omnes 
+          san<lb ed="#Z" n="26" break="no"/>cti dei. lmo quos tinxerat semel ludas, non leguntur a digniore ministro 
+          rebapti<lb ed="#Z" n="27" break="no"/>sati. Proximo enim sermone demonstraui integritatem sacramentorum non 
+          de<lb ed="#Z" n="28" break="no"/>pendere a dignitate &amp; indignitate ministri. Neque uero legas ullos apud ueteres es 
+          <lb ed="#Z" n="29"/>se secundo circumcisos, ne illos quidem quos constat ante Ezechiae &amp; losiae 
+          re<lb ed="#Z" n="30" break="no"/>gnum ab idololatris circumcisos ministris, sed non in idololatriam, sed in foedus 
+          <lb ed="#Z" n="31"/>domini dei. Id quod &amp; alias monuimus. Nephas ergo est repetere caeremoniam 
+          <lb ed="#Z" n="32"/>baptismi, &amp; caret exemplo: neque ulla hic interuenit necessitas. Quorsum enim 
+          at<lb ed="#Z" n="33" break="no"/>tinet iterum baptizare, cum baptismus semel datus ad totum pateat uitae 
+          decur<lb ed="#Z" n="34" break="no"/>sum? Praeterea cum anabaptismus nihil aliud sit quam compactio, coniuratio &amp;  
+          <lb ed="#Z" n="35"/>contesseratio quaedam in nouum &amp; seditiosum, uel saltem superstitiosum consor 
+          <lb ed="#Z" n="36"/>tium, in nouam schismaticamque ecclesiam, &amp; in nouum doctrinae genus 
+          Christia<lb ed="#Z" n="37" break="no"/>no &amp; apostolico ex diametro aduersum, certe mirum non est anabaptistas 
+          pertina<lb ed="#Z" n="38" break="no"/>ces publicis coherceri &amp; puniri legibus. Nam sunt ista alioqui damnabilia, &amp; a 
+          <lb ed="#Z" n="39"/>Christiano magistratu minime dissimulanda aut ferenda.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2325">
+          <lb ed="#Z" n="40"/><pc type="indent"/> Caeterum duo in praesenti loca opponunt nobis anabaptistae. Priorem ex . 
+          <lb ed="#Z" n="41"/>cap. losue, ubi in haec uerba legimus, Fac tibi cultros lapideos &amp; circumcide 
+          se<lb ed="#Z" n="42" break="no"/>cundo filios lsrael. En secundo circumcidi non potuerunt, inquiunt, nisi prius 
+          <lb ed="#Z" n="43"/>quoque fuerint circumcisi, Respondeo Secundo circumcidere, uel iterato facere, 
+          <lb ed="#Z" n="44"/>non significat id quod prius factum fuerat facere. Semel enim sublato preputio,  
+          <lb ed="#Z" n="45"/>quomodo semel ablatum iterum auferri potuisset? Quod ergo aliquandiu 
+          inter<lb ed="#Z" n="46" break="no"/>missum est, id nunc iterum repetitur, &amp; secundo factum dicitur, Refertur itaque se 
+          <lb ed="#Z" n="47"/>cundo, non ad circumcidendos, sed ad ipsum tempus quo incircumcisi circumci- 
+          <lb ed="#Z" n="48"/>debantur. Primo enim circumcisi fuerant in Aegypto solenniter, antequam ede¬ 
+          <!--739.xml-->
+          <pb ed="#Z" n="358-v"/>
+          <lb ed="#Z" n="1"/>rent pascha, iam ingressuri terram Chanaan secundo solenniter cicumciduntur, 
+          <lb ed="#Z" n="2"/>qui hactenus in deserto &amp; profectionibus circuncisi non fuerant. Atque ita sequitur 
+          <lb ed="#Z" n="3"/>mox in eodem capite, mares Aegypto egressos, in deserto mortuos esse omnes, filios 
+          <lb ed="#Z" n="4"/>autem horum fuisse incircumcisos, unde eos iam oportuerit ut quondam patres eorum 
+          <lb ed="#Z" n="5"/>circumcidi. Nullum ergo in hoc legis testimonio praesidium habent Anabaptistaes.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2363">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Posterius pro anabaptismo testimonium proferunt ex 19. cap. Actuum aposto 
+          <lb ed="#Z" n="7"/>lorum: ubi aiunt duodecim illos uiros Ephesios aquae &amp; Ioannis quidem 
+          baptis<lb ed="#Z" n="8" break="no"/>mo semel tinctos ab Apollo: sed eosdem mox rebaptisatos esse a Paulo in nomine 
+          <lb ed="#Z" n="9"/>Christi, Respondemus duodecim illos non iterum aqua baptisatos esse a Paulo. 
+          <lb ed="#Z" n="10"/>Semel fuerunt aqua baptisati, id quod eis sufficiebat. Neque uero alium baptismum 
+          <lb ed="#Z" n="11"/>aquae potuisset affundere Paulus, quam Ioannis. Docuimus enim &amp; euicimus ab  
+          <lb ed="#Z" n="12"/>initio huius Sermonis, Ioannis, Christi &amp; apostolorum aquae baptismum unum 
+          <lb ed="#Z" n="13"/>esse atque eundem. lbidem exposuimus baptismum ignis uel spiritus Christo esse 
+          <lb ed="#Z" n="14"/>peculiarem. Viri ergo illi Ephesij baptisati quidem fuerunt baptismo aquae, sicut 
+          <lb ed="#Z" n="15"/>&amp; Samaritani a Philippo: sed nondum instituti erant plene de baptismo ignis. nec 
+          <lb ed="#Z" n="16"/>baptisati erant igne, imo fatentur se nescire an talis sit baptismus, hoc est, an sit spi 
+          <lb ed="#Z" n="17"/>ritus sanctus, qui uisibili specie ignis illabatur hominibus. Absolute enim ignora 
+          <lb ed="#Z" n="18"/>re non potuerunt esse spiritum sanctum, sine quo utique non crediderant, imo in 
+          <lb ed="#Z" n="19"/>in quem crediderant, siquidem recte crediderant : prinde baptismum illum ignis 
+          <lb ed="#Z" n="20"/>duntaxat ignorauerunt. Quemadmodum ergo Paulus &amp; Ioannes Samaritanis 
+          <lb ed="#Z" n="21"/>imposuerunt manus, atque hi protinus acceperunt spiritum sanctum. Ita Paulus 
+          E<lb ed="#Z" n="22" break="no"/>phesijs imponit manus, &amp; accipiunt spiritum sanctum. Lucas enim, His auditis, 
+          <lb ed="#Z" n="23"/>ait, baptisati sunt in nomine domini Iesu. Et ne quis hoc intelligeret de aquae 
+          ba<lb ed="#Z" n="24" break="no"/>ptismo, mox subijcit modum &amp; expositonem illustrem, Cum imposuisset illis ma 
+          <lb ed="#Z" n="25"/>nus Paulus, uenit spiritus sanctus super eos. Hoc inquam appellarat baptizari in 
+          <lb ed="#Z" n="26"/>nomine domini Iesu. Sequitur enim, Et loquebantur linguis : &amp; prophetabant. Hic  
+          <lb ed="#Z" n="27"/>autem semper fuit fructus &amp; effectus baptismi ignis in primitiua ecclesia. Sicut 
+          <lb ed="#Z" n="28"/>ab initio huius sermonis ostendimus. Proinde non habent Anabaptistae ullum ex 
+          <lb ed="#Z" n="29"/>scripturis pro suo anabaptismo testimonium. Deserendos ergo &amp; fugiendos esse 
+          <lb ed="#Z" n="30"/>bonis omnibus uident palam omnes sana ratione uti uolentes. Satis autem 
+          uide<lb ed="#Z" n="31" break="no"/>tur cum his certatum : pergimus modo illa quae in Baptismo restant explicanda, 
+          <lb ed="#Z" n="32"/>neque postrema sunt, exponere.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2425">
+          <lb ed="#Z" n="33"/><pc type="indent"/> De uirtute enim &amp; effectu baptismi disserentes illum sequimur ordinem, quem 
+          <lb ed="#Z" n="34"/>adumbrauimus in descriptione baptismi, perstringentes saltem singula, quod co 
+          <lb ed="#Z" n="35"/>piosius de his diximus in generali consideratione sacramentorum. Praestat tamen 
+          <lb ed="#Z" n="36"/>ante omnia nouisse quid hostes ecclesiae aliquando senserint de uirtute baptismi. 
+          <lb ed="#Z" n="37"/>Manichaei neminem suorum baptizauerunt. Nam docuerunt baptismum nihil sa 
+          <lb ed="#Z" n="38"/>lutis conferre percipientibus. Seleuciani, qui &amp; Hermiani, baptismum similiter 
+          re<lb ed="#Z" n="39" break="no"/>spuerunt. Messaliani, qui &amp; Euchetae siue precatores ( sicut &amp; in sine praecedentis 
+          <lb ed="#Z" n="40"/>Sermonis monuimus) &amp; Enthusiastae, numine inquam imo furore afflati, nuncu 
+          <lb ed="#Z" n="41"/>pantur, senserunt baptismum neque prodesse, neque obesse cuiquam. Sic enim om- 
+          <lb ed="#Z" n="42"/>nia salutis spiritus operationi internae, imo precationi humanae tribuebant, ut ex- 
+          <lb ed="#Z" n="43"/>terna omnia etiam doctrinam tanquam inutilem &amp; inefficacem fastidirent. Id 
+          <lb ed="#Z" n="44"/>quod de eis commemorat Theodoretus hist. eccles. lib. 4. cap. 11. Verum 
+          scriptu<lb ed="#Z" n="45" break="no"/>ra docet ablui nos baptismo a peccatis. Etenim baptismus est symbolum, 
+          testimo<lb ed="#Z" n="46" break="no"/>nium, ac obsignatio purgationis nostrae. Deus enim promisit ecclesiae suae sancti 
+          <lb ed="#Z" n="47"/>ficationem, idemque pro ueritate sua, gratia sua per sanguinem filij sui purgat 
+          ec<lb ed="#Z" n="48" break="no"/>clesiam suam ab omnibus peccatis, &amp; spiritu suo regenerat ac mundat, quae 
+          <!--740.xml-->
+          <pb ed="#Z" n="359-r"/>
+          <lb ed="#Z" n="1"/>quidem purificatio obsignatur in nobis baptismo collato: atque ideo appellatur in 
+          <lb ed="#Z" n="2"/>scripturis ablutio &amp; remissio peccatorum, purificatio, renouatio, regeneratio &amp;  
+          <lb ed="#Z" n="3"/>lauacrum regenerationis: quemadmodum circumcisio, foedus &amp; sacrificia, pecca 
+          <lb ed="#Z" n="4"/>cata atque sanctificationes nuncupantur. Legimus enim in euangelio secundum 
+          <lb ed="#Z" n="5"/>Marcum, Baptizabat Ioannes in deserto praedicans baptismum poenitentiae in re 
+          <lb ed="#Z" n="6"/>misionem peccatorum. Idem &amp; apud Lucam traditur. In euangelio Ioan. 3. cap.  
+          <lb ed="#Z" n="7"/>baptismus purificatio appellatur. In Actis apostolorum dicit Petrus ad populum, 
+          <lb ed="#Z" n="8"/>quaerentem quid faciat? Resipiscite, &amp; baptizetur unusquisque uestrum in nomine 
+          <lb ed="#Z" n="9"/>Iesu Christi, in remisionem peccatorum. Ananias quoque Paulo dicit, Surge &amp; ba 
+          <lb ed="#Z" n="10"/>ptizare, &amp; ablue peccata tua, inuocato nomine Iesu. Iam uero ipse Paulus, Chri- 
+          <lb ed="#Z" n="11"/>stus, inquit, dilexit ecclesiam, &amp; semetipsum exposuit pro ea, ut illam 
+          sanctifica<lb ed="#Z" n="12" break="no"/>ret mundatam lauacro aquae, per uerbum. Proinde promissio, imo ueritas sancti 
+          <lb ed="#Z" n="13"/>ficationis &amp; remissionis peccatorum gratuitae, inscribitur corporibus nostris cum  
+          <lb ed="#Z" n="14"/>baptizamur. Deus enim spiritu suo propter sanguinem filij sui animas regenuit 
+          <lb ed="#Z" n="15"/>ac repurgauit, regenerat atque repurgat. Valetque &amp; efficax est baptismus in omn 
+          <lb ed="#Z" n="16"/>uita hominum, patet item &amp; refertur ad omnia omnium baptizatorum peccata.¬ 
+          <lb ed="#Z" n="17"/>Verax est enim promissio dei. Verax non fallax est sigillum promisionis, 
+          Sem<lb ed="#Z" n="18" break="no"/>per efficax est Christi uirtus ad expurganda &amp; delenda omnia suorum peccata. 
+          <lb ed="#Z" n="19"/>Quoties itaque peccauimus in uita nostra, in memoriam reuocemus sancti baptismi 
+          <lb ed="#Z" n="20"/>mysterium, quo semel in uniuersae uitae nostrae decursum tincti sumus, ut 
+          agno<lb ed="#Z" n="21" break="no"/>scamus neque dubitemus peccata nobis nostra remitti ab eo deo &amp; domino nostro,  
+          <lb ed="#Z" n="22"/>&amp; per sanguinem quidem Christi, cui semel per baptismum sumus insiti, ut hic 
+          <lb ed="#Z" n="23"/>semper operetur in nobis salutem, usque dum recipiamur ex miseria in gloriam. Nec 
+          <lb ed="#Z" n="24"/>dubium est quin tota uita sua Abraham circumcisionis mysterium exercuerit, ac 
+          <lb ed="#Z" n="25"/>in deo ipso &amp; promisso sibi semine acquieuerit. Obseruandum tamen hic censeo 
+          <lb ed="#Z" n="26"/>id diligentissime, quod significanter inculcauit &amp; S. Augustinus, peccata nobis 
+          <lb ed="#Z" n="27"/>in baptismo dimitti aut purgari, non ut non sint, (superstes enim concupiscentia 
+          <lb ed="#Z" n="28"/>uiget &amp; parturit semper) sed ne imputentur: nec ut peccare liceat, sed ut peccasse 
+          <lb ed="#Z" n="29"/>non noceat, ut sit factis remissio non permissio faciendi. De fide &amp; operibus cap. 
+          <lb ed="#Z" n="30"/>20. Ac huius generis perplura citat &amp; <ref xml:id="UD1xh4-fjjIci-Rd1e2532">Gratianus Distinct. 4. de Consecrat.</ref>
+          </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2537">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Deinde colligimur baptismo in coetum populi dei. Vnde a nonnullis 
+          appella<lb ed="#Z" n="32" break="no"/>tus est initiale uel initiationis signum, per quod uidelicet pateat ingressus in eccle 
+          <lb ed="#Z" n="33"/>siam. Non quod ad ecclesiam non pertinuerimus prius. Nam ad ecclesiam 
+          perti<lb ed="#Z" n="34" break="no"/>net, quisquis Christi est foederis illius aeterni &amp; promissionum dei particeps. 
+          Ba<lb ed="#Z" n="35" break="no"/>ptismus ergo est signum uisibile &amp; testimonium nostrae insertionis in corpus Chri 
+          <lb ed="#Z" n="36"/>sti: &amp; recte dicitur insitio, incorporatio uel insertio in corpus Christi. Diximus 
+          e<lb ed="#Z" n="37" break="no"/>nim in communi consideratione Sacramentorum, primum nos baptismo coniun 
+          <lb ed="#Z" n="38"/>gi cum Christo, deinde cum omnibus Christi membris, fratribus nostris. Paulus 
+          <lb ed="#Z" n="39"/>enim, Quicunque, ait, baptizati estis, Christum induistis. At Christum induere, est 
+          <lb ed="#Z" n="40"/>idem cum eo fieri, adeoque ipsi compingi &amp; incorporari, ut ipse in nobis uiuat, &amp; 
+          <lb ed="#Z" n="41"/>nos in ipso. Solus enim ille per spiritum suum regenerat ac renouat nos, &amp; omni- 
+          <lb ed="#Z" n="42"/>bus donis largissime perfundit, quod &amp; idem apostolus alibi hisce uerbis pronun 
+          <lb ed="#Z" n="43"/>ciauit, Deus saluos nos fecit per lauacrum regenerationis ac renouationis 
+          spiri<lb ed="#Z" n="44" break="no"/>tus sancti, quem effudit in nos opulente per Iesum Christum seruatorem nostrum, 
+          <lb ed="#Z" n="45"/>ldeo uero &amp; Christus dominus in baptiimo nostro baptizatus est, ut declararet 
+          <lb ed="#Z" n="46"/>se esse fratrem nostrum, nos eius cohaeredes. Recte ergo dixit beatus Augustinus,  
+          <lb ed="#Z" n="47"/>ad hoc ualere baptismum, ut baptizati Christo incorporentur, &amp; membra eius ha 
+          <lb ed="#Z" n="48"/>beantur. Idem baptismum appellauit sacramentum Christianae societatis, Recol¬ 
+          <!--741.xml-->
+          <pb ed="#Z" n="359-v"/>
+          <lb ed="#Z" n="1"/>ligimur enim uisibiliter per baptismum in unitatem corporis cum omnibus 
+          fide<lb ed="#Z" n="2" break="no"/>libus quotquot fuerunt, sunt, atque erunt. Nam &amp; Paulus dixit, Per unum spiritum 
+          <lb ed="#Z" n="3"/>nos omnes in unum corpus baptisati sumus, Sequitur autem hinc baptismum ser 
+          <lb ed="#Z" n="4"/>uire confessioni nostrae, ac tesseram recte dici Christianae religionis. Nam nota 
+          <lb ed="#Z" n="5"/>uel symbolum est, quo testamur &amp; profitemur in Christianam religionem nos 
+          con<lb ed="#Z" n="6" break="no"/>sentire: confitemur nos natura impuros, &amp; peccatores esse, sed gratia dei per Chri- 
+          <lb ed="#Z" n="7"/>stum sanctificatos. Si enim puri suimus natura, quid erat nobis ablutione opus? 
+          <lb ed="#Z" n="8"/>lam uero cum abluti sumus, quis dubitet de ueritate dei? Vere ergo &amp; libere 
+          con<lb ed="#Z" n="9" break="no"/>fitemur baptismum recipientes, &amp; peccatum quo cum nascimur, sed &amp; gratuitam  
+          <lb ed="#Z" n="10"/>peccatorum remisionem.
+        </p>
+        <p xml:id="UD1xh4-fjjIci-d1e2606">
+          <lb ed="#Z" n="11"/><pc type="indent"/> Postremo admonet nos recordatio &amp; consideratio mysterij baptismatis offi- 
+          <lb ed="#Z" n="12"/>ciorum pietatis: empe ut tota uita nostra expendamus apud nosmetipsos diligen 
+          <lb ed="#Z" n="13"/>tissime, cuius corporis membra facti simus, ut abnegemus nosmetipsos &amp; mundum 
+          <lb ed="#Z" n="14"/>hunc, ut mortificemus carnem nostram cum concupiscentijs eius, sepeliamurque  
+          <lb ed="#Z" n="15"/>cum Christo in mortem eius, ut resurgamus in nouitate uitae, &amp; uiuamus 
+          innocen<lb ed="#Z" n="16" break="no"/>ter, ut amemus fratres nostros, tanquam membra nostra, cum quibus in unum 
+          cor<lb ed="#Z" n="17" break="no"/>pus per baptismum sumus compacti: ut maneamus in uinculo concordiae &amp; 
+          uni<lb ed="#Z" n="18" break="no"/>tate ecclesiae, ne alienas sectemur religiones, memores nos in Christum baptisatos 
+          <lb ed="#Z" n="19"/>esse, cui uni consecrati sumus, &amp; longe separati atque diuisi ab omnibus alijs dijs. 
+          <lb ed="#Z" n="20"/>cultibus, siue religionibus, denique ab omnibus haeresibus. Cogitemus praeterea 
+          <lb ed="#Z" n="21"/>constanter &amp; fortiter pugnandum esse contra sathanam, &amp; uniuersum sathanae 
+          <lb ed="#Z" n="22"/>regnum. Quoties ergo recordamur nos esse tinctos Christiano baptismo, toties 
+          a<lb ed="#Z" n="23" break="no"/>nimis nostris haec suggeruntur, &amp; officij nostri admonemur. Copiosius autem 
+          tra<lb ed="#Z" n="24" break="no"/>ctat haec apostolus in 6. cap. epistolae suae ad Romanos, ubi diserte commemorat 
+          <lb ed="#Z" n="25"/>nos per baptismum insititios esse factos Christi, nimirum ut ex ipso ceu palmites 
+          <lb ed="#Z" n="26"/>ex uite succrescamus, sentiamusque in animis &amp; corporibus nostris &amp; mortem &amp;  
+          <lb ed="#Z" n="27"/>resurrectionem Christi. Quia enim spiritu Christi perfundimur, &amp; hic in nobis 
+          <lb ed="#Z" n="28"/>agit, corpus quidem in diem moritur, spiritus autem uiuit, &amp; in Christo exultat,  
+          <lb ed="#Z" n="29"/>Cui gloria in saecula saeculorum, Amen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

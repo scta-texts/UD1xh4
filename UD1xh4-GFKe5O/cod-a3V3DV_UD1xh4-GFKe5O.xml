@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 8</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 8</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="24-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-GFKe5O"><!-- d1s8 --> 
+        <head xml:id="UD1xh4-GFKe5O-Hd1e106">Sermo 8</head>
+        <p xml:id="UD1xh4-GFKe5O-d1e109">
+          <lb ed="#Z" n="12"/><pc type="indent"/> De posterioribus fidei Christianae articulis, symbolo apostolorum comprehensis, 
+          <lb ed="#Z" n="13"/>SERMO VIII 
+          <lb ed="#Z" n="14"/>REMVS ante omnia deum nostrum, ut is pro sua bonitate concedat 
+          <lb ed="#Z" n="15"/>nobis feliciter, expedite, &amp; multo cum fructu procedere in explanandis 
+          <lb ed="#Z" n="16"/>alijs fidei nostrae Christianae articulis,
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e123">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Quintus fidei nostrae articulus hic est, TERTIA 
+          DIERE<lb ed="#Z" n="18" break="no"/>SVRREXIT AM ORTVIS. Et tenet quidem hic articulus fidei inter om
+          <lb ed="#Z" n="19"/>nes alios ferme primas. Nec sunt apostoli in alijs declarandis &amp; confirmandis ope 
+          <lb ed="#Z" n="20"/>rosiores quam in hoc uno. Nec satis fuisset si dominus noster duntaxat pro nobis 
+          <lb ed="#Z" n="21"/>mortem oppetijsset, nisi etiam resurrexisset ex mortuis. Nam si non resurrexisset 
+          <lb ed="#Z" n="22"/>ex mortuis, sed mansisset in morte, quis persuaderet hominibus peccatum morte 
+          <lb ed="#Z" n="23"/>Christi esse expiatum, morte Christi mortem superatam, satanam deuictum, &amp; 
+          tar<lb ed="#Z" n="24" break="no"/>tarum fidelibus confractum: Imo pergerent absurdi nostri homines perpetuo bla 
+          <lb ed="#Z" n="25"/>sphemare deum uerum ac spem nostram suggillare, dicereque,. Quis unquam redijt 
+          <lb ed="#Z" n="26"/>ex ijs qui mortem obierunt, ac enarrauit nobis an sit uita in alio saeculo post hanc 
+          <lb ed="#Z" n="27"/>uitam, &amp; qualis illa sit?. Quia ergo nemo redijsse legitur, dubium relinquitur quod 
+          <lb ed="#Z" n="28"/>garriunt spermologi de uita futuri saeculi. Iccirco ut toti mundo declararet 
+          domi<lb ed="#Z" n="29" break="no"/>nus post hanc uitam superesse aliam uitam, animam quoque cum corpore non 
+          in<lb ed="#Z" n="30" break="no"/>terire, sed uiuere, tertia die redijt ad discipulos suos rediuiuus dominus noster: 
+          si<lb ed="#Z" n="31" break="no"/>mul etiam demostrauit expiatum esse peccatum, exarmatam mortem, deuictum 
+          <lb ed="#Z" n="32"/>diabolum, &amp; destructum infernum. Nam aculeus mortis est peccatum. Vel 
+          sti<lb ed="#Z" n="33" break="no"/>pendium peccati mors est. Mortis imperium habet diabolus, &amp; concludit ob 
+          pec<lb ed="#Z" n="34" break="no"/>cata in tartarum. lam itaque cum resurgit uiuus ex mortuis Christus, non potuit ei 
+          <lb ed="#Z" n="35"/>dominari mors: &amp; quia mors dominio amisso confracta est, pari ratione consequi¬  
+          <lb ed="#Z" n="36"/>tur &amp; diabolum &amp; infernum per Christum esse deuictum, denique horum omnium 
+          <lb ed="#Z" n="37"/>uim &amp; uirtutem peccatum esse expiatum. Claret ergo resurrectionem domini no 
+          <lb ed="#Z" n="38"/>stri Iesu Christi quasi certificare obsignareque salutem &amp; redemptionem nostram,  
+          <lb ed="#Z" n="39"/>ut de ea addubitare non possimus amplius. Confitemur itaque hoc articulo, 
+          resur<lb ed="#Z" n="40" break="no"/>rexisse dominum nostrum Iesum Christum ex mortuis, &amp; nobis quidem 
+          resurre<lb ed="#Z" n="41" break="no"/>xisse, id est nobis deleuisse peccatum, nobis deuicisse mortem, infernum, &amp; diabo  
+          <lb ed="#Z" n="42"/>lum: iuxta illud apostoli, Deus fecit nos saluos, &amp; uocauit uocatione sancta, non 
+          <lb ed="#Z" n="43"/>secundum opera nostra, sed secundum suum propositum &amp; gratiam, quae data est 
+          <lb ed="#Z" n="44"/>nobis per Iesum Christum ante tempora aeterna, sed palam facta est nunc per 
+          ap<lb ed="#Z" n="45" break="no"/>paritionem seruatoris nostri Iesu Christi, qui mortem quidem aboleuit, uitam au 
+          <lb ed="#Z" n="46"/>tem &amp; lucem produxit &amp; immortalitatem per euangelium. Sunt huius generis 
+          <!--71.xml-->
+          <pb ed="#Z" n="24-v"/>
+          <lb ed="#Z" n="1"/>alia multa ad Rom. 4. &amp; 1. Corinth. 15. Nam &amp; in euangelio Ioannis dicit 
+          domi<lb ed="#Z" n="2" break="no"/>nus, Ego sum resurrectio &amp; uita, qui credit in me etiamsi mortuus fuerit uiuet: &amp; 
+          <lb ed="#Z" n="3"/>omnis qui uiuit &amp; credit in me, non morietur in aeternum.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e202">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Inspiciamus iam etiam singula uerba articuli. Confitemur dominum resurre 
+          <lb ed="#Z" n="5"/>xisse. Est autem resurgere, denuo surgere, surgit quod cadit. Corpus Christi 
+          ceci<lb ed="#Z" n="6" break="no"/>dit, ergo corpus Christi surgit, adeoque resurgit: id est, illud ipsum corpus Christi 
+          <lb ed="#Z" n="7"/>quod priusquam caderet uiuebat &amp; operabatur, iam resurgit, rursus inquam 
+          ui<lb ed="#Z" n="8" break="no"/>uit &amp; operatur. Vere enim Tertullianus de resurrectione carnis, Resurrectionis 
+          <lb ed="#Z" n="9"/>uocabulum, ait, non aliam rem uindicat quam quae cecidit, Resurgere enim non  
+          <lb ed="#Z" n="10"/>est nisi eius quod cecidit. Iterum enim surgendo quia cecidit resurgere dicitur, Re 
+          <lb ed="#Z" n="11"/>enim syllaba semper iterationi adhibetur. Proinde dum matronae euangelicae abe 
+          <lb ed="#Z" n="12"/>unt ad sepulchrum uncturae corpus domini quod pependerat in cruce, audiunt  
+          <lb ed="#Z" n="13"/>ab angelo domini, Quid quaeritis uiuentem cum mortuis? Non est hic, sed 
+          surre<lb ed="#Z" n="14" break="no"/>xit, &amp;c. Nota est enim historia dominicae resurrectionis apud Lucam in cap. 
+          24<lb ed="#Z" n="15" break="no"/>&amp; apud Marcum in cap. 16. Petrus quoque apostolus ex Dauide resurrectionem 
+          ue<lb ed="#Z" n="16" break="no"/>ram astruens 2. cap. Actorum in prima illa concione sua diserte ostendit Christum  
+          <lb ed="#Z" n="17"/>uere resurrexisse ex mortuis. 
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e236">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Deinde addimus dominum resurrexisse ex mortuis uel a mortuis. Quae 
+          par<lb ed="#Z" n="19" break="no"/>ticula exprimit &amp; mortis &amp; resurrectionis ueritatem. Corpus enim uel caro 
+          mo<lb ed="#Z" n="20" break="no"/>ritur &amp; corrumpitur: atqui mortuum resuscitatur, corpus ergo uel caro resuscita 
+          <lb ed="#Z" n="21"/>tur: quasi dicat confitens, Ea qua caeteri mortales lege naturae defunctus est domi 
+          <lb ed="#Z" n="22"/>nus noster, at non mansit aut haesit inter mortuos. Eandem enim carnem quam se 
+          <lb ed="#Z" n="23"/>mel assumpserat mortalem ac per mortem deposuerat, iam resumit immortalem,  
+          <lb ed="#Z" n="24"/>Praedixerat enim Dauid, Quoniam non derelinques animam meam in inferno. 
+          <lb ed="#Z" n="25"/>neque dabis ut sanctus tuus uideat corruptionem. Est enim primogenitus resurgen 
+          <lb ed="#Z" n="26"/>tium Christus, in quo ceu in capite declarari oportuit, qualis sit futura 
+          resurre<lb ed="#Z" n="27" break="no"/>ctio omnium membrorum Christi in die iudicij.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e262">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Hanc uero resurrectionem confitemur factam esse die tertia, a morte inquam.  
+          <lb ed="#Z" n="29"/>Deponitur enim in die parasceues a cruce &amp; infertur sepulchro, quiescit sabbato 
+          <lb ed="#Z" n="30"/>toto, &amp; circa principium diei primi sabbatorum, qui primus inquam occurrit in 
+          <lb ed="#Z" n="31"/>hebdomada, quae nobis hodie dominica est, resurgit circa auroram ex mortuis 
+          <lb ed="#Z" n="32"/>Quamuis ergo in euangelio Matthaei 12. cap. legamus dixisse dominum, 
+          Quem<lb ed="#Z" n="33" break="no"/>admodum fuit lonas in uentre ceti tribus diebus &amp; tribus noctibus : sic erit filius 
+          <lb ed="#Z" n="34"/>hominis in corde terrae tribus diebus &amp; tribus noctibus: attamem in capite 16. &amp; 
+          a0<lb ed="#Z" n="35" break="no"/>seipsum quasi exponens loquutum id per syneldocham, dicit. Oportet me abire 
+          <lb ed="#Z" n="36"/>Hierosolymam, &amp; multa pati a scribis &amp; seniorib. &amp; occidi, &amp; tertio die resuscitari.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e285">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Sextus fidei nostrae articulus hic est, ASCENDIT AD COELOS,  
+          <lb ed="#Z" n="38"/>SEDET AD DEXTERAM DEI PATRIS 
+          OMNIPOTEN<lb ed="#Z" n="39" break="no"/>TIS. Corpus illud quod corpori nostro consubstantiale est, desumptum ex Ma 
+          <lb ed="#Z" n="40"/>ria uirgine, adeoque ex substantia uirginis assumptum, quod pependit in cruce &amp;  
+          <lb ed="#Z" n="41"/>excessit, sepultum est &amp; resurrexit, illud ipsum inquam ascendit ad coelos &amp; sedet 
+          <lb ed="#Z" n="42"/>a dextris dei patris. Nam posteaquam per dies 40. abunde satis instruxisset 
+          domi<lb ed="#Z" n="43" break="no"/>nus noster discipulos suos de ueritate resurrectionis suae &amp; de regno dei, 
+          subla<lb ed="#Z" n="44" break="no"/>tus est in coelum.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e306">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Ascensione illa sua declarat uniuerso terrarum orbi dominus noster, quod sit 
+          <lb ed="#Z" n="46"/>uniuersorum dominus, omniaque sibi habeat subiecta quaecunque in coelo sunt &amp; in 
+          <lb ed="#Z" n="47"/>terra, quod ipse sit robur nostrum, uirtus fidelium &amp; gloriatio contra portas infe 
+          <lb ed="#Z" n="48"/>ri. Ascendens enim in coelum captiuam duxit captiuitatem, spoliatisque hostibus 
+          <!--72.xml-->
+          <pb ed="#Z" n="25-r"/>
+          <lb ed="#Z" n="1"/>populum suum locupletauit, quem &amp; indies spiritualibus donis cumulat. Nam  
+          <lb ed="#Z" n="2"/>in excelsis residet, ut transfusa inde ad nos sua uirtute, uita nos uiuificet spiritua 
+          <lb ed="#Z" n="3"/>li, uarijsque gratiarum muneribus exornet, denique ut ecclesiam aduersus omnia 
+          ma<lb ed="#Z" n="4" break="no"/>la defendat. Est enim deus seruator, rex &amp; pontifex noster. Vnde cum 
+          offende<lb ed="#Z" n="5" break="no"/>rentur quondam Capernaitae, quod dominus appellasset se panem uitae de coelo 
+          <lb ed="#Z" n="6"/>descendentem ad uiuificandum mundum, ait, Hoc uos offendit? Quid ergo si ui 
+          <lb ed="#Z" n="7"/>deritis filium hominis eo ascendentem ubi erat prius: nimirum ex uiuifica 
+          resur<lb ed="#Z" n="8" break="no"/>rectione &amp; gloriosa ad coelos ascensione colligetis me esse panem uitae coelo dela 
+          <lb ed="#Z" n="9"/>tum, &amp; iam iterum assumptum in coelos manere seruatorem uitam &amp; dominum 
+          <lb ed="#Z" n="10"/>coeli &amp; terrae. Sed &amp; beatus Petrus apost. in Actis, Certo sciat tota domus lsrael,  
+          <lb ed="#Z" n="11"/>inquit, quod dominum &amp; Christum fecerit deus hunc Iesum quem uos crucifixistis.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e346">
+          <lb ed="#Z" n="12"/><pc type="indent"/> Deinde non tantum a morte resurgens redijt ad suos, uerum his 
+          inspicienti<lb ed="#Z" n="13" break="no"/>bus ascendit in coelos, quo redderemur omnes certiores aeternae salutis. Ascenden 
+          <lb ed="#Z" n="14"/>do enim parauit nobis locum, strauit uiam, hoc est ipsum aperuit fidelibus coelum. 
+          <lb ed="#Z" n="15"/>In coelo posuit quod a nobis assumpsit deus, uerum hominem: uiuum utique &amp; 
+          ir<lb ed="#Z" n="16" break="no"/>refragabile testimonium in coelos aliquando totum hominem esse transferendum, 
+          <lb ed="#Z" n="17"/>Nam necesse est membra capiti conformia fieri, Resurrexit ex mortuis Christus 
+          <lb ed="#Z" n="18"/>caput nostrum: resurgent ergo &amp; membra. Et quemadmodum nubes dominum 
+          <lb ed="#Z" n="19"/>abstulit ab oculis discipulorum: ita pij feremur in occursum domino in nubibus,  
+          <lb ed="#Z" n="20"/>totique tam anima quam corpore erimus &amp; aeternum habitabimus in coelis apud 
+          ca<lb ed="#Z" n="21" break="no"/>put nostrum Christum dominum. Id quod clarissima lectione traditur Ioan. 
+          14<lb ed="#Z" n="22" break="no"/>cap. dicente domino, Vado paraturus uobis locum, iterumque ueniam ad uos &amp;  
+          <lb ed="#Z" n="23"/>assumam uos ad me ipsum, ut ubicunque ego sum &amp; uos sitis. Apostolus quoque Pau 
+          <lb ed="#Z" n="24"/>lus testatur &amp; ait, Nos qui uiuimus &amp; reliqui erimus in aduentu domini, simul cum 
+          <lb ed="#Z" n="25"/>resuscitatis ex mortuis rapiemur in nubibus in occursum domini in aera. Confite 
+          <lb ed="#Z" n="26"/>mur ergo hoc articulo Iesum Christum in coelos sublatum uniuersog: esse dominum, 
+          <lb ed="#Z" n="27"/>regem &amp; pontificem, assertorem &amp; saluatorem omnium in orbe uniuerso fidelium. Con 
+          <lb ed="#Z" n="28"/>fitemur in Christo &amp; propter Christum nos credere uitam eternam, quam corpore 
+          <lb ed="#Z" n="29"/>in fine mundi, anima quoque protinus atque hinc excesserimus, percepturi simus,
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e389">
+          <lb ed="#Z" n="30"/><pc type="indent"/> Porro ueniunt ipsa articuli uerba pensitanda, Ascendit profitemur. Quis oro 
+          <lb ed="#Z" n="31"/>ascendit: qui ex Maria uirgine natus est, qui crucifixus mortuus &amp; sepultus est, 
+          <lb ed="#Z" n="32"/>qui resurrexit ex mortuis: is inquam ascendit, nimirum corpore &amp; anima. Quo au 
+          <lb ed="#Z" n="33"/>tem ascendit:? Ad coelos. Coelum in scripturis non uno modo accipitur. Principic 
+          <lb ed="#Z" n="34"/>ponitur pro firmamento &amp; extensione illa quae est supra capita nostra, in qua uo 
+          <lb ed="#Z" n="35"/>litant ultro citroque auiculae, &amp; in qua insunt astra, quae dicuntur ornatus &amp; 
+          exer<lb ed="#Z" n="36" break="no"/>citus coelorum. Nam Dauid, Amictus est deus luce ceu uestimento, &amp; extendit 
+          coe<lb ed="#Z" n="37" break="no"/>los ueluti cortinam. Item, Videbo coelos tuos, opus digitorum tuorum, lunam &amp;  
+          <lb ed="#Z" n="38"/>stellas quae tu fundasti. Et iterum, Qui operit coelum nubibus, &amp; parat terrae plu 
+          <lb ed="#Z" n="39"/>uiam, Rursus, Coeli enarrant gloriam dei, &amp; opera manuum eius annunciat firma 
+          <lb ed="#Z" n="40"/>mentum. Deinde coelum ponitur pro throno &amp; habitatione dei, denique pro ipso lo ¬ 
+          <lb ed="#Z" n="41"/>co sede &amp; receptaculo beatorum, in quo Deus se suis uisendum &amp; fruendum prae 
+          <lb ed="#Z" n="42"/>bet. Dauid enim iterum testificans dicit, Dominus in coelis parauit solium suum. 
+          <lb ed="#Z" n="43"/>Vnde &amp; dominus in euangelio dixit, Ne iuretis per coelum, quia thronus dei est.  
+          <lb ed="#Z" n="44"/>Paulus uero apost. Scimus, ait, quod si terrenum nostrum domicilium huius 
+          taber<lb ed="#Z" n="45" break="no"/>naculi destructum fuerit, aedificationem ex deo habemus domicilium non manu 
+          <lb ed="#Z" n="46"/>factum aeternum in coelis. Hac itaque significatione Coelum appellatur Regnum 
+          dei<lb ed="#Z" n="47" break="no"/>regnum patris, Gaudium, Beatitudo &amp; foelicitas, aeterna uita pax &amp; tramquillitas.  
+          <lb ed="#Z" n="48"/>Et quanquam deus nullo concludatur loco. Nam dicit, Coelum mihi sedes, terra 
+          <!--73.xml-->
+          <pb ed="#Z" n="25-v"/>
+          <lb ed="#Z" n="1"/>autem est scabellum pedum meorum: attamen quia maxime elucescit in coelo 
+          glo<lb ed="#Z" n="2" break="no"/>ria dei, &amp; in coelis se suis uisendum fruendumque prebet, iuxta illud, Videbimus eum  
+          <lb ed="#Z" n="3"/>sicuti est. Item, Nemo uidebit me, ait dominus, &amp; uiuet, dicitur coelos inhabitare 
+          <lb ed="#Z" n="4"/>deus. Sed &amp; Christus dominus iuxta diuinitatem nullo concluditur loco: iuxta 
+          <lb ed="#Z" n="5"/>assumptam humanam naturam quam uexit ad coelos, loco coeli certo continetur, 
+          <lb ed="#Z" n="6"/>nec est interea in terris aut ubique locorum corporaliter, sed seiunctus a nobis 
+          corpo<lb ed="#Z" n="7" break="no"/>re uersatur in coelis. Ascendit enim qui inferiora relinquens ad superiora conten 
+          <lb ed="#Z" n="8"/>dit. Christus ergo relictis terris supra omnes coelos sedem corpori suo collocauit: 
+          <lb ed="#Z" n="9"/>non quod elatus sit extra omnes coelos, sed quod supra omnes orbes ascendens 
+          <lb ed="#Z" n="10"/>in ipsum extimum atque supremum coelum, in sedem inquam beatorum sit receptus. 
+          <lb ed="#Z" n="11"/>Paulus enim apostolus significantissime loquens, Nostra conuersatio, inquit in 
+          <lb ed="#Z" n="12"/>coelis est, ex quo &amp; seruatorem expectamus, &amp;c. Eodem modo &amp; Lucas 
+          euange<lb ed="#Z" n="13" break="no"/>lista dicit, Et cum benediceret eis, recessit ab eis, ac ferebatur in coelum.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e466">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Sed quid multis exponimus quod in ipso symbolo per consequentia clarissi- 
+          <lb ed="#Z" n="15"/>s me illustratur? Sequitur enim, Sedet ad dexteram dei patris omnipetentis. Ex his 
+          <lb ed="#Z" n="16"/>enim intelligimus qualis locus sit coelum, &amp; quid in coelis agat dominus noster. 
+          <lb ed="#Z" n="17"/>Non est quidem nostrae fragilitatis coelorum secreta rimari &amp; discutere, interim  
+          <lb ed="#Z" n="18"/>non impium est illud quod scripturis nobis traditur inquirere, &amp; ita ut nobis 
+          tra<lb ed="#Z" n="19" break="no"/>ditum est fideliter tenere. Simpliciter dicitur dominus noster sedere, &amp; ad 
+          dexte<lb ed="#Z" n="20" break="no"/>ram quidem patris omnipotentis sedere. Quaeramus ergo ex scripturae 
+          testimo<lb ed="#Z" n="21" break="no"/>nijs quid sit Dextera patris, &amp; quid sit sedere in dextera patris. 
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e488">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Dextera Dei patris in scriptura duplicem habet significationem. Principio 
+          <lb ed="#Z" n="23"/>dextera dei est locus beatorum &amp; foelicitas aeterna in coelis. Id quod ante nos ob 
+          <lb ed="#Z" n="24"/>seruauit beatus Augustinus, qui in libro de Agone Christiano cap. 26. sic reliquit 
+          <lb ed="#Z" n="25"/>scriptum, Dextera patris est beatitudo perpetua quae sanctis datur : sicut Sinistra 
+          <lb ed="#Z" n="26"/>rectissime dicitur miseria perpetua quae impijs datur: ut non in ipso deo, sed in 
+          <lb ed="#Z" n="27"/>creaturis hoc modo quo diximus intelligatur dextera et sinistra. Hoc autem dixit 
+          <lb ed="#Z" n="28"/>beatus Augustinus secundum scripturas. Dauid enim canit, Notam mihi facies 
+          <lb ed="#Z" n="29"/>semitam uitae, satietas gaudiorum in conspectu tuo est, &amp; iucunditates in dextera 
+          <lb ed="#Z" n="30"/>tua in perpetuum. Hoc quid aliud est, quam si dixisset? Perduces me ad uitam, in 
+          <lb ed="#Z" n="31"/>ipsos inquam coelos, ubi satiabor gaudijs, nimirum te inspiciendo &amp; ee 
+          contem<lb ed="#Z" n="32" break="no"/>plando atque fruendo. In dextera tua in aeterna beatitudine sunt gaudia perpetua. 
+          <lb ed="#Z" n="33"/>Et in euangelio legimus oues ad dexteram, hoedos collocari a iudice in sinistra. 
+          <lb ed="#Z" n="34"/>luxta hanc significationem dexterae. Sedere significat quiescere ab omnibus 
+          la<lb ed="#Z" n="35" break="no"/>borib. &amp; tranquille beateque uiuere. Notissimum est enim illud propheticum, 
+          Se<lb ed="#Z" n="36" break="no"/>debit uir sub uite sua, pro eo quod est pacata, secura &amp; tranquilla erunt omnia.
+          <!-- break? -->
+          <lb ed="#Z" n="37"/>Dextra itaque patris hac significatione finita est: &amp; cum consitemur sedere filium 
+          <lb ed="#Z" n="38"/>in dextra patris omnipotentis, confitemur dominum nostrum liberatum omni 
+          <lb ed="#Z" n="39"/>molestia &amp; infirmitate humana secundum humanam naturam quiescere iam &amp;  
+          <lb ed="#Z" n="40"/>laetari in certo coeli loco, ubi &amp; animas &amp; corpora nostra credimus aeternum &amp; fu 
+          <lb ed="#Z" n="41"/>tura &amp; uictura. Nam in euangelio ipse dominus testatur in domo patris sui man 
+          <lb ed="#Z" n="42"/>siones esse multas, ad quas parandas ut &amp; ipsis locus sit abeat, &amp; quanquam 
+          ab<lb ed="#Z" n="43" break="no"/>eat, rediturum tamen ad ipsos &amp; assumpturum ipsos ad semetipsum, ut ubi ipse 
+          <lb ed="#Z" n="44"/>sit, ibi aut eodem in loco futuri sint &amp; illi. Proinde credimus Christum quiescere 
+          <lb ed="#Z" n="45"/>in coelis, ubi nobis quoque locum paruitquietis, in quo aeternum in gaudio futuri 
+          <lb ed="#Z" n="46"/>simus. Et quia corpora nostra in beatitudine non sunt ubique futura, sed in loco 
+          <lb ed="#Z" n="47"/>certo, ideo recte dixit beatus Augustinus Christum dominum iuxta ueri 
+          corpo<lb ed="#Z" n="48" break="no"/>ris modum in uno aliquo loco coeli esse. Et S. Cyprianus, Sedere ad dextram  
+          <!--74.xml-->
+          <pb ed="#Z" n="26-r"/>
+          <lb ed="#Z" n="1"/>patris, carnis assumptae mysterium est. 
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e559">
+          <lb ed="#Z" n="2"/><pc type="indent"/> Deinde ponitur Dextra dei pro uirtute, regno, protectione, assertione &amp; 
+          po<lb ed="#Z" n="3" break="no"/>tentia dei. Dauid enim dixit, Dextera domini excelsa est, dextera domini facit for 
+          <lb ed="#Z" n="4"/>tia. Et Moses, Dextera tua domine magnificata est in uirtute, dextera tua domine 
+          <lb ed="#Z" n="5"/>fregit inimicum. Et iuxta hanc dexterae significationem Sedere significat regnare, 
+          <lb ed="#Z" n="6"/>asserere, potentiam exercere &amp; obire munus principis. Nam Dauid dixit, Dixit 
+          <lb ed="#Z" n="7"/>dominus domino meo sede a dextris meis, donec ponam inimicos tuos scabellum  
+          <lb ed="#Z" n="8"/>pedum tuorum. Et zacharias, Ecce uir, ait, cuius nomen est Germen, de loco suo 
+          <lb ed="#Z" n="9"/>germinabit, &amp; aedificabit templum domini, sedebit &amp; dominabitur super solium 
+          <lb ed="#Z" n="10"/>suum, eritque sacerdos super solium suum. Hac ratione Dextera dei infinita est &amp; 
+          <lb ed="#Z" n="11"/>nullo loco concluditur: &amp; cum confitemur dominum nostrum sedere ad dexteram  
+          <lb ed="#Z" n="12"/>patris, confitemur filium exaltatum esse super omnia subiectis sibi rebus 
+          omni<lb ed="#Z" n="13" break="no"/>bus ut Paulus ait ad Ephes. 5. cap. denique filium sic exaltatum, posse omnia, regna 
+          <lb ed="#Z" n="14"/>re in tota ecclesia, asserere suos, intercedere in coelis apud patrem, ubique praesentem 
+          <lb ed="#Z" n="15"/>esse diuina uirtute. Huc enim pertinet quod omnipotentiam sessioni huic adiunxit 
+          <lb ed="#Z" n="16"/>symbolum dicens, Sedet ad dexteram patris omnipotentis. Nam &amp; apud Matth. 
+          <lb ed="#Z" n="17"/>dicit, Data est mihi omnis potestas in coelo &amp; in terra, abite ergo &amp; adducite mihi 
+          <lb ed="#Z" n="18"/>omnes gentes.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e599">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Sic pulchre pauculis hisce uerbis expressum puto qualis sit locus coeli, 
+          nimi<lb ed="#Z" n="20" break="no"/>rum locus quietis, gaudij &amp; aeternae felicitatis, in quo sedet, habitat &amp; uersatur iux 
+          <lb ed="#Z" n="21"/>ta assumptam naturam filius dei, sicut &amp; nos qui sumus Christi membra futuri su 
+          <lb ed="#Z" n="22"/>mus in illo loco sine omni dolore &amp; molestia in gaudio sempiterno. Et quamuis 
+          <lb ed="#Z" n="23"/>dominus noster molestia omni liberatus sit, intelligimus tamen ipsum non otiosum 
+          <lb ed="#Z" n="24"/>de sidere. Est enim rex, sacerdos &amp; deus uerus in templo dei uero: non potest ergo 
+          <lb ed="#Z" n="25"/>non pro ingenio &amp; officio suo operari salutem in electis, &amp; omnia facere quaecunque 
+          <lb ed="#Z" n="26"/>facit deus rex &amp; sacerdos. Ita scimus iam omnes quid in coelis residens dominus 
+          <lb ed="#Z" n="27"/>noster faciat. Neque ullam ei adfert molestiam quod agit &amp; operatur, non enim 
+          ne<lb ed="#Z" n="28" break="no"/>cessitate quadam, sed natura &amp; uoluntate operatur.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e624">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Non aliter tractarunt hunc fidei articulum &amp; ueteres sanctae scripturae inter 
+          <lb ed="#Z" n="30"/>pretes, quorum aliquot proferemus testimonia. S. Hieronymus exponens 1. cap.  
+          <lb ed="#Z" n="31"/>Pauli ad Ephesios scribit, Per humanam similitudinem dei potentiam demonstra 
+          <lb ed="#Z" n="32"/>uit: non quo solium ponatur &amp; deus pater in eo sedeat, secumque filium habeat 
+          re<lb ed="#Z" n="33" break="no"/>sidentem: sed quo nos aliter iudicantem atque regnantem, nisi per nostra uerba 
+          in<lb ed="#Z" n="34" break="no"/>telligere nequeamus. Sicut ergo proximum esse deo, uel ab eo procul recedere 
+          <lb ed="#Z" n="35"/>non secundum locorum spacia, sed iuxta merita sentiendum est, quod sancti iux 
+          <lb ed="#Z" n="36"/>ta eum sint, peccatores uero (de quibus ait propheta, Ecce qui elongant se a te 
+          pe<lb ed="#Z" n="37" break="no"/>ribunt) ab omni eius uicinia submoueantur. Sic uel in dextris uel sinistris dei esse 
+          <lb ed="#Z" n="38"/>accipiendum est, quod sancti a dextris eius sint, peccatores uero a sinistris. 
+          Saluato<lb ed="#Z" n="39" break="no"/>re quoque idi psum in euangelio comprobante, cum oues a dextris, hoedos uero me 
+          <lb ed="#Z" n="40"/>moret esse a sinistris. Sed &amp; ipsum uerbum sedere regni significat potestatem, per 
+          <lb ed="#Z" n="41"/>quam beneficium eis deus tribuit super quibus sedere dignatur, quod scilicet re- 
+          <lb ed="#Z" n="42"/>gat eos &amp; in cursu suo habeat &amp; ad nutum proprium uaga prius &amp; libera colla 
+          <lb ed="#Z" n="43"/>conuertat. 
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e660">
+          <lb ed="#Z" n="44"/><pc type="indent"/> S. Augustinus de fide &amp; symbolo, Credimus, inquit, quod sedet ad dexteram  
+          <lb ed="#Z" n="45"/>dei patris. Nec ideo tamen quasi humana forma circumscriptum esse deum patrem  
+          <lb ed="#Z" n="46"/>arbitrandum est: ut de illo cogitantibus dextrum aut sinistrum latus animo occur 
+          <lb ed="#Z" n="47"/>rat: aut idipsum quod sedere pater dicitur, flexis poplitibus fieri putandum est 
+          <!--75.xml-->
+          <pb ed="#Z" n="26-v"/>
+          <lb ed="#Z" n="1"/>ne illud incidamus sacrilegium quo execratur apostolus eos, qui commutauerunt 
+          <lb ed="#Z" n="2"/>gloriam incorruptibilis dei in similitudinem corruptibilis hominis. Tale enim si- 
+          <lb ed="#Z" n="3"/>mulachrum deo nephas est Christiano in templo collocare: multo magis in corde 
+          <lb ed="#Z" n="4"/>nepharium est, ubi uere est templum dei, sia terrena cupiditate atque errore 
+          mun<lb ed="#Z" n="5" break="no"/>detur. Ad dexteram ergo intelligendum est dictum esse in summa beatitudine, ubi 
+          <lb ed="#Z" n="6"/>iustitia &amp; pax &amp; gaudium est: sicut ad sinistram hoedi constituuntur, id est in mise 
+          <lb ed="#Z" n="7"/>ria propter iniquitates &amp; labores atque crueiatus. Sedere ergo quod dicitur deus 
+          <lb ed="#Z" n="8"/>non membrorum positonem, sed iudiciariam significat potestatem, qua illa maie 
+          <lb ed="#Z" n="9"/>stas nunquam caret semper dignis digna tribuendo. Et reliqua. 
+          <lb ed="#Z" n="10"/>Beatus Fulgentius episcopus lib. ad Trasimundum regem 2. Dominus, inquit,  
+          <lb ed="#Z" n="11"/>ut localem ostenderet humanitatem suam dicit discipulis suis, Ascendo ad patrem  
+          <lb ed="#Z" n="12"/>meum &amp; ad patrem uestrum, deum meum &amp; deum uestrum. Et mox, 
+          Immensi<lb ed="#Z" n="13" break="no"/>tatem uero suae diuinitatis ostendens dicit discipulis suis, Ecce ego uobiscum sum 
+          <lb ed="#Z" n="14"/>omnibus diebus usque ad consummationem saeculi. Quomodo autem ascendit in 
+          <lb ed="#Z" n="15"/>coelum, nisi quia localis &amp; uerus est homo? Aut quomodo adest fidelibus suis, nisi 
+          <lb ed="#Z" n="16"/>quia idem immensus &amp; uerus est deus?
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e711">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Beatus martyr &amp; episcopus Tridenti Vigilius libro contra haereses 1. Hoc erat,  
+          <lb ed="#Z" n="18"/>inquit, ire ad patrem &amp; recedere a nobis, auferre de hoc mundo naturam quam  
+          <lb ed="#Z" n="19"/>susceperat ex nobis. Vides ergo eidem naturae proprium fuisse ut auferretur &amp;  
+          <lb ed="#Z" n="20"/>abiret a nobis, secundum attestantium uocem angelorum, Hic Iesus qui receptus 
+          <lb ed="#Z" n="21"/>est a uobis, sic ueniet quemadmodum uidistis eum euntem in coelum. Nam uide 
+          <lb ed="#Z" n="22"/>miraculum. Vide utriusque proprietatis mysterium: dei filius secundum humani¬  
+          <lb ed="#Z" n="23"/>tatem suam recessit a nobis: secundum diuinitatem suam ait nobis, Ecce ego uobiscum 
+          <lb ed="#Z" n="24"/>sum omnibus diebus usque ad consummationem saeculi. Si nobiscum est, 
+          quomo<lb ed="#Z" n="25" break="no"/>do ait? Venient dies quando desiderabitis uidere unum dierum filij hominis, &amp;  
+          <lb ed="#Z" n="26"/>non uidebitis. Sed &amp; nobiscum est, &amp; non est nobiscum. Quia quos reliquit &amp; a 
+          <lb ed="#Z" n="27"/>quibus discessit humanitate sua, non reliquit nec deseruit diuinitate sua. Haec ille
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e739">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Septimus fidei nostrae articulus hic est, INDE VENTVRVS IVDI- 
+          <lb ed="#Z" n="29"/>CARE VIVOS ET MORTVOS. Praecedentibus articulis proposita &amp;  
+          <lb ed="#Z" n="30"/>confessa est diuina in Christo bonitas beneficentia &amp; gratia: iam declarabit in ipso 
+          <lb ed="#Z" n="31"/>etiam diuina iustitia seueritas &amp; uindicta. Nam duo sunt aduentus domini nostri 
+          <lb ed="#Z" n="32"/>Iesu Christi. Primo uenit humilis in carnem redemptor &amp; seruator mundi. 
+          Secun<lb ed="#Z" n="33" break="no"/>do ueniet gloriosus in iudicium iudex &amp; ultor inexorabilis contra omnes 
+          impoe<lb ed="#Z" n="34" break="no"/>nitentes &amp; impios. Venturus est autem e coelis e dextera patris, corpore uisibili 
+          <lb ed="#Z" n="35"/>&amp; uere humano conspicuus omni carni, cum immensa diuinitatis potentia &amp; glo 
+          <lb ed="#Z" n="36"/>ria, cum angelorum omnium satellitio. Ipse enim dominus in euangelio, Videbunt,  
+          <lb ed="#Z" n="37"/>inquit, filium hominis uenientem in nubibus coeli cum uirtute &amp; gloria multa, &amp;  
+          <lb ed="#Z" n="38"/>mittet angelos suos cum tubae uoce magna, &amp;c
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e766">
+          <lb ed="#Z" n="39"/><pc type="indent"/> Porro iudicare significat pro tribunali sedere, causas audire &amp; discutere, 
+          li<lb ed="#Z" n="40" break="no"/>tem dirimere, decernere &amp; pronunciare, denique defendere &amp; asserere, rursus 
+          pu<lb ed="#Z" n="41" break="no"/>nire aut afficere supplicio, atque ita cohercere &amp; opprimere uim &amp; malitiam. 
+          Cre<lb ed="#Z" n="42" break="no"/>dimus ergo dominum nostrum Iesum Christum in die illo asserturum omnes pios 
+          <lb ed="#Z" n="43"/>&amp; perditurum omnes impios : iuxta illud apostoli, Reuelabitur dominus noster 
+          <lb ed="#Z" n="44"/>de coelo cum angelis potentiae suae, cum incendio siamme, &amp; infliget ultionem ijs 
+          <lb ed="#Z" n="45"/>qui non nouerunt deum : rursus idem iudex iustus reddet coronam iustitiae om- 
+          <lb ed="#Z" n="46"/>nibus qui diligunt aduentum eius. 
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e787">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Modum enim iudicij talem proponunt nobis euangelica &amp; apostolica scri- 
+          <lb ed="#Z" n="48"/>pta. Postquam iniquitas huius saeculi peruenerit ad summum, ac orbem seduxerit 
+          <!--76.xml-->
+          <pb ed="#Z" n="27-r"/>
+          <lb ed="#Z" n="1"/>Antichristus ut minimum supersit fidei, impijque dixerint pax &amp; securitas, tum re 
+          <lb ed="#Z" n="2"/>pentinus ueniet interitus. Mittet enim archangelum suum iudex dominus 
+          no<lb ed="#Z" n="3" break="no"/>ster, qui clangat tuba, &amp; a quatuor uentis colligat omnem carnem ad iudicium:  
+          <lb ed="#Z" n="4"/>mox sequetur ipse iudex dominus noster Iesus Christus cum toto exercitu 
+          coelo<lb ed="#Z" n="5" break="no"/>rum: descendet autem e coelo in nubes: ac in nubibus ceu in tribunali sublimis re 
+          <lb ed="#Z" n="6"/>fidens apparebit illustris omni carni. Qu enim uixerint in hoc saeculo, isto 
+          iudi<lb ed="#Z" n="7" break="no"/>cij tempore stabunt coram iudice in puncto immutati: mortui uero resurgent in 
+          <lb ed="#Z" n="8"/>momento omnes. Tunc iudex separabit oues ab hoedis : &amp; pronunciabit iustam  
+          <lb ed="#Z" n="9"/>pro ouibus &amp; contra hoedos sententiam, Venite benedicti, &amp;c. Et, Abite 
+          maledi<lb ed="#Z" n="10" break="no"/>cti, &amp;c. Sequetur mox ipsa executio. Ques enim sursum protinus rapientur in nu 
+          <lb ed="#Z" n="11"/>bes obuiam domino in aera, ascendentque cum illo laeti in coelos ad dexteram dei 
+          pa<lb ed="#Z" n="12" break="no"/>tris, aeternum uicturi in gloria &amp; gaudio. Impijs dehiscet ima tellus, absorbebitque 
+          <lb ed="#Z" n="13"/>horribiliter uniuersos, demittens eos ad tartara aeternum cum sathana &amp; angelis 
+          <lb ed="#Z" n="14"/>eius cruciandos. Fient haec omnia non longo, molesto, uersipelli &amp; iuridico 
+          quo<lb ed="#Z" n="15" break="no"/>dam processu, sed extemplo. Tunc enim patebunt omnium corda, et accusabit unum 
+          <lb ed="#Z" n="16"/>quemque sua ipsius conscientia. Copiosius haec traduntur Matth. 24. &amp; 25. Sap. 
+          3<lb ed="#Z" n="17" break="no"/>&amp; 5. 5. Cor. 15. 2. Corin. 5. . Lhess. 4. &amp; 5. Rom. 2. 2. Pet. 3. &amp;c.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e836">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Caeterum singulariter confitemur iudicandos fore uiuos &amp; mortuos. Id quod  
+          <lb ed="#Z" n="19"/>nonnulli exponunt de pijs &amp; impijs. Atqui symbolum paratum est simplicibus 
+          ma<lb ed="#Z" n="20" break="no"/>xime. At simplicibus conueniunt simplicia. lccirco mortui sunt omnes quicunque 
+          <lb ed="#Z" n="21"/>ab exordio mundi ad diem usque ultimum excesserunt e uiuis. Viui autem sunt 
+          <lb ed="#Z" n="22"/>quos deprehendet dies illa uiuentes adhuc in hoc saeculo. Apostolus enim, Ecce 
+          <lb ed="#Z" n="23"/>mysterium uobis dico, ait, Non omnes quidem dormiemus, omnes tamen immu 
+          <lb ed="#Z" n="24"/>tabimur in puncto temporis, in momento oculi per extremam tubam. Canet enim, 
+          <lb ed="#Z" n="25"/>&amp; mortui resurgent incorruptibiles, &amp; nos immutabimur, Rursus alio in locc 
+          <lb ed="#Z" n="26"/>idem apostolus, Hoc dicimus uobis in uerbo domini, quod nos qui uiuemus &amp;  
+          <lb ed="#Z" n="27"/>reliqui erimus in aduentum domini, nequaquam praeueniemus eos qui 
+          dormie<lb ed="#Z" n="28" break="no"/>runt. Quoniam ipse dominus cum hortatu &amp; uoce archangeli ac tuba dei descen 
+          <lb ed="#Z" n="29"/>det e coelo, &amp; mortui in Christo resurgent primum, deinde nos qui uiuemus qui 
+          <lb ed="#Z" n="30"/>reliqui erimus, simul cum illis rapiemur in nubibus, in occursum domini, in aera: 
+          <lb ed="#Z" n="31"/>&amp; sic semper cum domino erimus.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e870">
+          <lb ed="#Z" n="32"/><pc type="indent"/> Confitemur ergo hoc articulo 7. nos credere finem affore rerum omnium in 
+          <lb ed="#Z" n="33"/>hoc saeculo, felicitatemque impiorum non fore perpetuam. Deum enim iustum esse 
+          <lb ed="#Z" n="34"/>qui omne dederit iudicium filio suo, qui &amp; repensurus sit in illo die unicuique 
+          iu<lb ed="#Z" n="35" break="no"/>xta opera sua, impijs tormenta nunquam terminanda, pijs eterna gaudia. Adeoque  
+          <lb ed="#Z" n="36"/>profitemur hoc articulo nos expectare liberationem, refrigerium, &amp; praemium 
+          ui<lb ed="#Z" n="37" break="no"/>tae aeternae. Quomodo enim credentes suos, populum suum, &amp; seruos suos perde 
+          <lb ed="#Z" n="38"/>ret qui in ueracissimo euangelio dixit, Amen dico uobis, quod uos qui secuti estis 
+          <lb ed="#Z" n="39"/>me, in regeneratione, cum sederit filius hominis in sede maiestatis suae, sedibitis &amp; 
+          <lb ed="#Z" n="40"/>uos super sedes duodecim iudicantes duodecim tribus lsrael. Certissima sunt prae 
+          <lb ed="#Z" n="41"/>mia &amp; supplicia pijs &amp; impijs in uerbo ueritatis proposita. Veracissimus est qui 
+          <lb ed="#Z" n="42"/>ad lsaiam dixit, Dicite iusto quod bene sit habiturus, fructu studiorum suorum 
+          <lb ed="#Z" n="43"/>fruetur. Vae impio, male habebit, quoniam rependetur ei secundum opera 
+          ma<lb ed="#Z" n="44" break="no"/>nuum suarum. Et haec quidem hactenus de ordine symboli secundo. Descendis 
+          <lb ed="#Z" n="45"/>mus iam ad ordinem tertium.¬ 
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e904">
+          <lb ed="#Z" n="46"/><pc type="indent"/> Articulus fidei octauus hic est, CREDO IN SPIRITVM SAN- 
+          <lb ed="#Z" n="47"/>CTVM. Continet hic ordo tertius, tertiae in adoranda trinitate proprietatem 
+          per<lb ed="#Z" n="48" break="no"/>sonae, Recte autem credimus in spiritum sanctum, sicut in patrem &amp; in filium. 
+          <!--77.xml-->
+          <pb ed="#Z" n="27-v"/>
+          <lb ed="#Z" n="1"/>Deus enim unus est cum patre &amp; filio spiritus sanctus : &amp; recte sequitur fides in 
+          <lb ed="#Z" n="2"/>spiritum sanctum fidem in patrem &amp; filium. Nam per ipsum diuinae salutis com 
+          <lb ed="#Z" n="3"/>pletae in filio fructus obsignatur, sanctificatioque &amp; ablutio nostra nobis per 
+          spiri<lb ed="#Z" n="4" break="no"/>tum confertur aut in nos deriuatur. Apostolus enim, Qui unxit nos deus est, 
+          in<lb ed="#Z" n="5" break="no"/>quit, qui etiam obsignauit nos, deditque arrham spiritus in cordibus nostris. Et 
+          ite<lb ed="#Z" n="6" break="no"/>rum, Eratis quidem sceleribus polluti, iam uero abluti &amp; sanctificati estis, denique 
+          <lb ed="#Z" n="7"/>&amp; iustificati per nomen domini Iesu, &amp; per spiritum dei nostri. SSanctificat quidem  
+          <lb ed="#Z" n="8"/>&amp; pater, sed per sanguinem Iesu Christi, &amp; eandem in nos sanctificationem 
+          trans<lb ed="#Z" n="9" break="no"/>fundit per spiritum sanctum: ut spiritus sancti quasi proprium sit sanctificare, un 
+          <lb ed="#Z" n="10"/>de &amp; nomen obtinet sancti uel sanctificatoris. Eroinde cum spiritus sancti nomen 
+          <lb ed="#Z" n="11"/>audimus, cogitandus est effectus quem ei tribuit scriptura, expectandaque benefi- 
+          <lb ed="#Z" n="12"/>cia quae ex ipso in nos manant. Virtus enim operatio seu actio spiritus est quicquid 
+          <lb ed="#Z" n="13"/>operatur in nobis per filium gratia dei patris: ut necessaria sit fides in spiritum san 
+          <lb ed="#Z" n="14"/>ctum. Et profitemur quidem hoc articulo octauo nos credere fideles omnes 
+          pur<lb ed="#Z" n="15" break="no"/>gari, ablui, regenerari, sanctificari, illuminari, uarijsque gratiarum muneribus 
+          do<lb ed="#Z" n="16" break="no"/>nari a deo propter Christum, sed per spiritum sanctum. Extra hunc enim non est 
+          <lb ed="#Z" n="17"/>ulla sanctificatio uera : unde non oportet charismata alijs tribuere medijs: haec 
+          glo<lb ed="#Z" n="18" break="no"/>ria solius est spiritus diuini. De quo disseremus in alijs concionib. fusius et plenius.
+        </p>
+        <p xml:id="UD1xh4-GFKe5O-d1e958">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Quoniam uero elapsa hora nos admonet uela colligere, hortamur omnes ut 
+          <lb ed="#Z" n="20"/>fidem in dominum Iesum religiose teneant: hunc enim misit nobis pater coelestis,  
+          <lb ed="#Z" n="21"/>in hoc se totum nobis &amp; exprimit &amp; exhibet, hunc inscribit cordibus, &amp; retinet 
+          <lb ed="#Z" n="22"/>in animis spiritus sanctus. Est autem tota salus hominis, &amp; singulae salutis partes 
+          <lb ed="#Z" n="23"/>comprehensae in Christo: unde cauendum est, ne alio deriuemus. Placuit patri, ait 
+          <lb ed="#Z" n="24"/>apostolus, uniuersam plenitudinem inhabitare in filio, &amp; in ipso recapitulare ac 
+          <lb ed="#Z" n="25"/>uelut in summam redigere salutis omnia: ac in ipso fideles sint completi. Si enim 
+          <lb ed="#Z" n="26"/>salus quaeritur, ipso nomine docemur penes ipsum esse salutem. Dicitur enim 
+          le<lb ed="#Z" n="27" break="no"/>sus, id est saluator. Si ipsum dei sanctum spiritum ac dona eius uaria desideramus,  
+          <lb ed="#Z" n="28"/>reperiemus &amp; in Christi unctione. Dicitur enim Christus, unctus inquam, 
+          san<lb ed="#Z" n="29" break="no"/>ctus sanctorum &amp; sanctificans, siue inungens nos spiritu suo. Si opus est alicui ro 
+          <lb ed="#Z" n="30"/>bore &amp; fortitudine, assertione &amp; petentia, habet in dominio Christi. Est enim Chri- 
+          <lb ed="#Z" n="31"/>r stus uniuersorum dominus. In eodem inuenimus redemptionem, Redemit enim  
+          <lb ed="#Z" n="32"/>nos uenditos sub iugum sathanae. Habemus puritatem in eius conceptione, 
+          indul<lb ed="#Z" n="33" break="no"/>gentiam in eius natiuitate. Nostri enim similis factus est ut condolere nobis posset. 
+          <lb ed="#Z" n="34"/>Habemus remisionem in eius passione, absolutionem in eius damnatione, satisfa 
+          <lb ed="#Z" n="35"/>ctionem in eius hostia uel sacrificio expiatorio, purgationem in eius sanguine, 
+          re<lb ed="#Z" n="36" break="no"/>conciliationem uniuersalem in descensu eius ad inferos. Habemus mortificatio¬  
+          <lb ed="#Z" n="37"/>ynem carnis nostrae in sepultura eius, uitae nouitatem, imo &amp; animae 
+          immortalita<lb ed="#Z" n="38" break="no"/>tem corporumque resurrectionem in eius gloriosa resurrectione. Habemus item 
+          <lb ed="#Z" n="39"/>regni coelestis haereditatem &amp; haereditatis obsignationem in ascensione eius, 
+          ses<lb ed="#Z" n="40" break="no"/>sioneque in dextera patris. lbidem est intercessor, sacerdos &amp; rex noster, praesidium 
+          <lb ed="#Z" n="41"/>&amp; caput nostrum, defensor noster &amp; securitas nostra tutissima. Inde trans fundis 
+          <lb ed="#Z" n="42"/>in nos omnium bonorum copiam spiritum suum sanctum, &amp; communicat se 
+          to<lb ed="#Z" n="43" break="no"/>tum nobis, &amp; nosipsos sibi coniungit nexu indissolubili. Inde confidentes &amp; 
+          lae<lb ed="#Z" n="44" break="no"/>tantes expectamus ipsum iudicem, assertorem inquam &amp; patronum nostrum, qui 
+          <lb ed="#Z" n="45"/>damnabit &amp; in tartarum cum sathana praecipites dabit omnes hostes nostros?  
+          <lb ed="#Z" n="46"/>nos autem &amp; omnium saeculorum omnes credentes secum subuehet in coelos, ut 
+          <lb ed="#Z" n="47"/>ibi canamus canticum nouum, &amp; in eo exultemus in saecula saeculorum. Ipsi 
+          glo<lb ed="#Z" n="48" break="no"/>ria semper.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

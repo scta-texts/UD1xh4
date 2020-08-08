@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 7</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 7</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="132-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-uPMZSV"><!-- d3s7 --> 
+        <head xml:id="UD1xh4-uPMZSV-Hd1e106">Sermo 7</head>
+        <head xml:id="UD1xh4-uPMZSV-Hd1e109" type="question-title">De legibus dei Iudicialibus</head>
+        <p xml:id="UD1xh4-uPMZSV-d1e112">
+          <lb ed="#Z" n="3"/><pc type="indent"/> De legibus dei Iudicialibus. SERMO VII 
+          <lb ed="#Z" n="4"/>E QVVNTVR iam loco postremo in tractatione legum diuinarum  
+          <lb ed="#Z" n="5"/>leges iudiciales: de quibus dicam quanta possum breuitate, &amp; quantum  
+          <lb ed="#Z" n="6"/>C.V. ad aedificationem fore existimauero. Non inutilis &amp; iniucunda 
+          <lb ed="#Z" n="7"/>erit haec tractatio licet sit forensis. Nam leges iudiciales ab optimo &amp; sa 
+          <lb ed="#Z" n="8"/>pientissimo deo traditae sunt per Mosen mira fide &amp; diligentia. Deus autem nihil 
+          <lb ed="#Z" n="9"/>temere aut citra eximiam aliquam utilitatem tanta diligentia hominibus reuelat 
+          <lb ed="#Z" n="10"/>Licet autem leges hae iudiciales pauculae sint, si conferas cum libris legum 
+          decre<lb ed="#Z" n="11" break="no"/>torumque lmperatorum, Regum &amp; hominum sapientissimorum uastissimis, in 
+          com<lb ed="#Z" n="12" break="no"/>pendiosa tamen illa sua breuitate complectuntur praecipua capita iudicij &amp; 
+          iusti<lb ed="#Z" n="13" break="no"/>tiae, adeoque tantum fere quantum comprehenditur in libris legum &amp; constitutio¬  
+          <lb ed="#Z" n="14"/>num lmp. &amp; iurisperitorum. Noluit bonus dominus populo suo prolixitate &amp; cc 
+          <lb ed="#Z" n="15"/>pia siue onere legum molestus aut onerosus esse : neque uero necesse erat curiosius 
+          <lb ed="#Z" n="16"/>prosequi singula male feriatorum hominum cogitata : sufficit omnibus 
+          sapienti<lb ed="#Z" n="17" break="no"/>bus nationibus &amp; populis, si tantum quibusque sit legum, quantum satis est ad con 
+          <lb ed="#Z" n="18"/>seruationem pacis, honestatis, tranquillitatisque publicae. Tantum uero fuisse 
+          po<lb ed="#Z" n="19" break="no"/>pulo lzraelis testatur uniuersa historia sacra. Sunt autem antiquissimae hae leges,  
+          <lb ed="#Z" n="20"/>&amp; fontes quidam omnium fere aliarum in mundo bonarum legum. Praecessit Mo¬t 
+          <lb ed="#Z" n="21"/>ses omnes alios legislatores celebriores. Vetustissimi ex his Mercurius ille trisme 
+          <lb ed="#Z" n="22"/>gistus &amp; Rhadamanthus Licius. Aegyptij legislatorem suum Mercurium 
+          appel<lb ed="#Z" n="23" break="no"/>larunt Thoth, qui &amp;, authore Lactantio, Argum multioculum illum occidit, &amp; in 
+          <lb ed="#Z" n="24"/>Aegyptum profugit. Vixit autem Argus &amp; Athlas circa Cecropis Diphyis 
+          tem<lb ed="#Z" n="25" break="no"/>pora. Cecrops autem coaetaneus fuisse dicitur Mosis, Rhadamanthus uero 
+          puta<lb ed="#Z" n="26" break="no"/>tur uixisse post tempora losue. At longissimo interuallo post Mosen succedunt le 
+          <lb ed="#Z" n="27"/>gislatores famosissimi maximarum &amp; antiquissimarum gentium, Draco &amp; Solon 
+          <lb ed="#Z" n="28"/>Athenienses, Minos Cretensium, Charondas syriorum, Phoronaeus Argiuorum, 
+          <lb ed="#Z" n="29"/>Lycurgus Lacedaemoniorum, Pythagoras ltalorum, Romulus &amp; Numa 
+          Roma<lb ed="#Z" n="30" break="no"/>norum. Plato de Legibus commentatur paulo ante regnum Philippi Macedonum 
+          <lb ed="#Z" n="31"/>regis, Alexandri illius magni patris. Cicero quoque 2. lib, de Legibus. Hanc igitur,  
+          <lb ed="#Z" n="32"/>inquit, uideo sapientissimorum fuisse sententiam, legem neque hominum ingenijs 
+          <lb ed="#Z" n="33"/>excogitatam. nec scitum aliquod esse populorum, sed aeternum quiddam, quod 
+          <lb ed="#Z" n="34"/>uniuersum mundum regeret imperandi prohibendique sapientia. Ita principem le 
+          <lb ed="#Z" n="35"/>gem illam &amp; ultimam mentem esse dicebant omnia ratione aut cogentis aut 
+          ue<lb ed="#Z" n="36" break="no"/>tantis dei. Ex quo illa lex, quam diji humano generi dederunt, recte est laudata: 
+          <lb ed="#Z" n="37"/>est enim ratio mensque sapientis ad iubendum &amp; ad detrahendum idonea. Et reli¬  
+          <lb ed="#Z" n="38"/>qua. Commendantur ergo nobis dei leges iudiciales, non tam antiquitate, quam  
+          <lb ed="#Z" n="39"/>authoritate diuina.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e196">
+          <lb ed="#Z" n="40"/><pc type="indent"/> Caeterum Iudicare, ut clare &amp; distincte de hac re disseramus, actio est : &amp; in  
+          <lb ed="#Z" n="41"/>praesenti forensis quidem actio: significans uidelicet discernere inter litigantes, uel  
+          <lb ed="#Z" n="42"/>ius dicere, audita inquam caussa pronunciare ferreque sententiam. ludicare 
+          deni<lb ed="#Z" n="43" break="no"/>que, est periclitantes asserere, oppressos releuare, afflictos tueri, &amp; noxios 
+          scelera<lb ed="#Z" n="44" break="no"/>tosque punire ac cohercere. Proinde ludicium non est consessus duntaxat iudicum, 
+          <lb ed="#Z" n="45"/>qui ad iudicandum conuenerunt: sed ipsa magis discussio diligens caussarum, 
+          pro<lb ed="#Z" n="46" break="no"/>nunciatio secundum aequum &amp; iustum ex dei legibus, item assertio &amp; defensio 
+          <!--287.xml-->
+          <pb ed="#Z" n="132-v"/>
+          <!-- left off -->
+          <lb ed="#Z" n="1"/>qua asseruntur boni, atque supplicium quod sumitur de noxijs atque maleficis. Iam  
+          <lb ed="#Z" n="2"/>uero ludices sunt praesides iudicij &amp; iustitiae, illi uidelicet qui iuste secundum 
+          le<lb ed="#Z" n="3" break="no"/>ges inter litigantes pronunciant, qui asserunt atque tuentur bonos, malos autem 
+          co<lb ed="#Z" n="4" break="no"/>hercent atque puniunt. Itaque leges ludiciales istae sunt, quae iudices informant quid 
+          <lb ed="#Z" n="5"/>decernant in controuersijs &amp; quaestionibus, quomodo iudicent iuste, quomodo 
+          <lb ed="#Z" n="6"/>puniant malos, &amp; defendant bonos, ut apud omnes constet pax, honestas, 
+          iusti<lb ed="#Z" n="7" break="no"/>tia &amp; tranquillitas publica: qui sane iudicis &amp; omnium legum iudicialium unicus 
+          <lb ed="#Z" n="8"/>scopus est. Nam deus legislator bonus dominus uult omnino bene esse homini,  
+          <lb ed="#Z" n="9"/>ipsumque beate honeste &amp; tranquille uiuere. Vnde hic ne curam quidem &amp; 
+          defen<lb ed="#Z" n="10" break="no"/>sionem purae religionis excludimus, sed inter prima collocamus.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e243">
+       
+          <lb ed="#Z" n="11"/>Quemadmodum uero Caeremoniales leges, sic &amp; ludiciales a deo adiectae sunt 
+          <lb ed="#Z" n="12"/>decalogo ad explicandum &amp; muniendum decalogum. Decalogi enim praecepta 
+          <lb ed="#Z" n="13"/>primaria sunt praecepta, ad quae omnes oportet referre leges, ceu ad mentem dei 
+          <lb ed="#Z" n="14"/>aeternam. Non puto autem necessarium esse ut multis ostendam C. V. ad quas 
+          <lb ed="#Z" n="15"/>decalogi leges singulae iudicialium referantur. Clarum enim est id negotij, &amp; 
+          cui<lb ed="#Z" n="16" break="no"/>libet conferre uolenti perspicuum. Nam quae pronunciantur contra caedes &amp; 
+          in<lb ed="#Z" n="17" break="no"/>iurias, pertinent ad mandatum, Non occides. Quaecunque proseruntur contra adul 
+          <lb ed="#Z" n="18"/>teria, contra fornicationem, &amp; nephandas libidines, subiunguntur illi praecepto, 
+          <lb ed="#Z" n="19"/>Non moechaberis. Quaecunque dicuntur in legibus contra dolum malum, contra 
+          <lb ed="#Z" n="20"/>artes, imposturas usurasque, pertinent sub legem, Non facies furtum. Quae uero 
+          <lb ed="#Z" n="21"/>disseruntur de cohercendis ui haereticis &amp; apostatis opprimendis, illustrant primum 
+          <lb ed="#Z" n="22"/>&amp; secundum, adde &amp; tertium &amp; quartum mandatum tabulae primae. Quaedam 
+          <lb ed="#Z" n="23"/>enim leges ad plura possunt aptari praecepta decalogi. Verum haec obuia &amp; 
+          pro<lb ed="#Z" n="24" break="no"/>trita sunt quibuslibet: unde nolo ijs inhaerere diutius.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e277">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Quoniam autem leges iudiciales ante omnia requirunt ludices, legum 
+          in<lb ed="#Z" n="26" break="no"/>quam conseruatores &amp; exequutores lleges enim mortuae uidentur sine 
+          exequu<lb ed="#Z" n="27" break="no"/>toribus, uiuae sub iusto magistratu, qui eam ob rem appellatur lex uiua)praecedunt 
+          <lb ed="#Z" n="28"/>sane omnes alias leges iudiciales illae quae latae sunt diuinitus de magistratu siue 
+          <lb ed="#Z" n="29"/>iudicibus eorumque electione &amp; officio. De Electione haec legimus, Date ex uobis,  
+          <lb ed="#Z" n="30"/>ait Moses ad populum, sapientes, prudentes, &amp; spectatae probitatis uiros de tribu 
+          <lb ed="#Z" n="31"/>bus uestris, &amp; constituam illos uobis in praesides. Item, ludices &amp; praefectos consti 
+          <lb ed="#Z" n="32"/>tues tibi secundum tribus tuas in omnibus ciuitatibus tuis, quas dominus deus 
+          <lb ed="#Z" n="33"/>tuus dat tibi, qui iudicent populum. Et adhuc clarius, Ex omni populo cait ad Mo 
+          <lb ed="#Z" n="34"/>sen Iethro diuinitus inspiratus) prospice uiros uirtutis seu fortes &amp; strenuos, 
+          ti<lb ed="#Z" n="35" break="no"/>mentes deum, uiros ueraces ac fideles, odientes auaritiam, nimirum qui oderint 
+          <lb ed="#Z" n="36"/>accipere pecuniam &amp; munera, &amp; praefice illos tribunos, centuriones, quinquage 
+          <lb ed="#Z" n="37"/>narios &amp; decuriones : illi iudicent populum omni tempore. Id si feceris seruabis 
+          <lb ed="#Z" n="38"/>tum instituta dei, tum populi incolumitatem. Huc pertinet quod legimus in 
+          Nu<lb ed="#Z" n="39" break="no"/>meris precatum dixisse Mosen, Praeficiat dominus deus spirituum uniuersae 
+          car<lb ed="#Z" n="40" break="no"/>nis, uirum super hunc coetum, qui egrediatur &amp; ingrediatur ante eos : ut non sit 
+          <lb ed="#Z" n="41"/>coetus domini ueluti oues quae pastorem non habent, Reliquit autem nobis exem  
+          <lb ed="#Z" n="42"/>plum Moses orandi deum in electionibus. Saepe enim fallunt nos nostra iudicia 
+          <lb ed="#Z" n="43"/>de hominibus: deus autem spiritus, animos &amp; corda intuetur, &amp; nouit qualis quisa 
+          <lb ed="#Z" n="44"/>que sit intus &amp; in cute. Is ergo orandus est ut nobis det uel ostendat non hypocri 
+          <lb ed="#Z" n="45"/>tas, sed uiros uirtutis &amp; ueritatis. In eodem loco relinquit nobis Moses descriptio 
+          <lb ed="#Z" n="46"/>nem ritus inaugurandi electos iudices. Nam statuebantur ante dominum, &amp; 
+          im<lb ed="#Z" n="47" break="no"/>ponebantur eis manus cum precationibus. Porro officium iudicum paucis 
+          qui<lb ed="#Z" n="48" break="no"/>dem uerbis, sed sententijs efficacissimis &amp; absolutissimis in haec uerba dominus 
+          <!--288.xml-->
+          <pb ed="#Z" n="133-r"/>
+          <lb ed="#Z" n="1"/>per Mosen defcribit, Audite caussas fratrum uestrorum, &amp; iudicate iuste inter ui 
+          <lb ed="#Z" n="2"/>rum &amp; fratrem eius, &amp; inter peregrinum eius. Non agnoscetis facies, non recipie 
+          <lb ed="#Z" n="3"/>tis personas in iudicio: ut paruum ita &amp; magnum audiatis: nec quenquam 
+          mor<lb ed="#Z" n="4" break="no"/>talem formidetis. ludicium enim hoc dei est. Item, ludicate populum iusto iudicio:  
+          <lb ed="#Z" n="5"/>ne ffectas iudicium, neque agnoscas personam, neque accipias munus: quoniam mu 
+          <lb ed="#Z" n="6"/>nus excaecat oculos sapientum &amp; peruertit caussas iustas. lustitiam iustitia 
+          perse<lb ed="#Z" n="7" break="no"/>quaris, ut uiuas &amp; possideas terram quam dominus deus tuus daturus est tibi. Et 
+          <lb ed="#Z" n="8"/>iterum, Ne feceris iniquum quid in iudicio, ne suscipias faciem pauperis. nec 
+          re<lb ed="#Z" n="9" break="no"/>uerearis faciem potentis, sed iuste iudicabis proximo tuo, Rursus, Ne receperis 
+          <lb ed="#Z" n="10"/>rumorem falsum, ne sequaris multos ad malefaciendum, neque respondeas in iudi 
+          <lb ed="#Z" n="11"/>cio declinando post multos ut peruersum quid committas. Id est, si uideris 
+          inno<lb ed="#Z" n="12" break="no"/>xium damnari a multis, noli ideo &amp; tu ipsum damnare, quia maior numerus 
+          il<lb ed="#Z" n="13" break="no"/>lum damnat, sed iuste iudica, neque quicquam iniqui committas propter multitudi 
+          <lb ed="#Z" n="14"/>nem suffragiorum. Ne ornaueris pauperem in caussa sua : neque infexeris caussam 
+          <lb ed="#Z" n="15"/>pauperis tui. A uerbo mendaci longissime absis. Innocentem &amp; iustum ne occide 
+          <lb ed="#Z" n="16"/>ris. Non enim iustificabo impium. Aduenae ne uim inferas, neque opprimas eum,  
+          <lb ed="#Z" n="17"/>Fuistis enim &amp; uos aduenae in Aegypto.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e374">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Ac deus quidem populo suo quem ex Aegypto a regum tyrannide liberauit 
+          <lb ed="#Z" n="19"/>non iterum regibus ipsum substrauit, neque regalibus tributis imposits onerauit. 
+          <lb ed="#Z" n="20"/>rempublicam siue aristocratiam, optimatum inquam ex plebe delectorum regi¬  
+          <lb ed="#Z" n="21"/>men optimum, instituit: sed quia non ignorauit populi sui stultitiam, &amp; quod 
+          li<lb ed="#Z" n="22" break="no"/>bertatis pertesus regem erat postulaturus, quam rem tum quoque multis &amp; ualidis 
+          <lb ed="#Z" n="23"/>rationibus per Samuelem dissuadebat, regi quoque dictauit leges, ut is intelligeret 
+          <lb ed="#Z" n="24"/>etiam ipsi uiuendum esse sub legibus, &amp; iudicandum secundum leges. Institutio 
+          <lb ed="#Z" n="25"/>regis est huiusmodi, Cum ueneris in terram quam dominus deus tuus daturus 
+          <lb ed="#Z" n="26"/>est tibi, &amp; dixeris. Constituam super me regem, quemadmodum omnes gentes quae 
+          <lb ed="#Z" n="27"/>circum me sunt. Omnino regem super te pones quem elegerit dominus deus tuus:  
+          <lb ed="#Z" n="28"/>de medio fratrum tuorum constitues super te regem: non autem poteris tibi 
+          prae<lb ed="#Z" n="29" break="no"/>ficere hominem alienum, qui non est frater tuus. Veruntamen hic non parabit si 
+          <lb ed="#Z" n="30"/>bi equos multos: neque populum in Aegyptum reducat, quo equos multiplicet, id 
+          <lb ed="#Z" n="31"/>est fortem sibi comparet equitatum. Nam dominus dixit uobis, Ne ultra redeatis 
+          <lb ed="#Z" n="32"/>per uiam istam. Deinde ne sibi multas mulieres paret ne deficiat cor eius: neque 
+          <lb ed="#Z" n="33"/>multiplicet sibi multum auri &amp; argenti. Cum sederit in solio regni sui, describet si 
+          <lb ed="#Z" n="34"/>bi exemplar huius legis ad exemplar libri sacerdotum Leuitarum: eritque illud 
+          pe<lb ed="#Z" n="35" break="no"/>nes eum, ut legat in eo cunctis diebus uitae suae, ut scilicet discat timere dominum 
+          <lb ed="#Z" n="36"/>deum suum, &amp; seruare omnia uerba legis huius, atque statuta ista, ut faciat ea. Et 
+          <lb ed="#Z" n="37"/>ne extollat cor suum supra fratres suos, neque recedat a praecepto uel ad dextram  
+          <lb ed="#Z" n="38"/>uel ad sinistram, ut proroget dies in regno suo, ipse &amp; filij eius in medio lsraelis,  
+          <lb ed="#Z" n="39"/>Haec de magistratu, iudicibus, &amp; regibus hactenus. Puto autem in hac regia insti 
+          <lb ed="#Z" n="40"/>tutione comprehendi quaecunque ab alijs authoribus de principis educatione &amp;  
+          <lb ed="#Z" n="41"/>institutione profusissime proseruntur. In primis autem illud obseruari decet, quod 
+          <lb ed="#Z" n="42"/>reges uerbo &amp; legibus dei non praeficiuntur tanquam domini &amp; moderatores,  
+          <lb ed="#Z" n="43"/>sed subijciuntur ueluti a deo per uerbum iudicandi, &amp; qui omnia ad normam 
+          uer<lb ed="#Z" n="44" break="no"/>bi dei debent moderari.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e436">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Iam uero recitandae nobis ueniunt aliquot leges iudiciales, non omnes quidem 
+          <lb ed="#Z" n="46"/>&amp; singulae, sed aliquot &amp; potiores: ex quibus alias liceat aestimare, &amp; palam 
+          per<lb ed="#Z" n="47" break="no"/>spicere lsraeliticum populum nulla lege necessaria &amp; utili fuisse destitutum. Per 
+          <lb ed="#Z" n="48"/>compendium autem illas enumerabo &amp; ordine maxime naturali ac perspicuos 
+          <!--289.xml-->
+          <pb ed="#Z" n="133-v"/>
+          <lb ed="#Z" n="1"/>De aedificijs sacris, &amp; non alienandis rebus deo consecratis, denique de tuenda 
+          <lb ed="#Z" n="2"/>&amp; propaganda uera religione multus est sparsim in lege sermo. Nec puto operae 
+          <lb ed="#Z" n="3"/>pretium uerbotim omnes recitare leges aut proferre ea quae de hi precipiuntur. 
+          <lb ed="#Z" n="4"/>Certe de Paganis eorumque templis &amp; sacris subuertendis, breuibus baec 
+          praeci<lb ed="#Z" n="5" break="no"/>piuntur a domino. Quum eiecerit ante te dominus deus Gentes multas, extermi 
+          <lb ed="#Z" n="6"/>nabis eas. nec ferias cum eis pactum, nec miserearis eorum, nec iungas cum eis at 
+          <lb ed="#Z" n="7"/>finitatem: quoniam filium tuum seducent, ut seruiat dijs alienis, &amp; irascatur furor 
+          <lb ed="#Z" n="8"/>meus contra te, &amp; deleam te. Sic autem facies eis, Aras eorum diruetis, statuas 
+          eo<lb ed="#Z" n="9" break="no"/>rum confringetis, lucos eorum succidetis, &amp; simulachra eorum comburetis. Nam  
+          <lb ed="#Z" n="10"/>populus sanctus es tudomino deo tuo, &amp; te elegit dominus deus tuus, ut sis ei po 
+          <lb ed="#Z" n="11"/>pulus peculiaris. Eadem lex ponitur Exodi 23. &amp; repetitur Deut. 12. Huc 
+          perti<lb ed="#Z" n="12" break="no"/>nent leges promulgatae contra statuas &amp; imagines. Leuit. 159. dicit dominus, Ne re 
+          <lb ed="#Z" n="13"/>spiciatis ad idola, neque deos fusiles uobis faciatis: ego dominus deus uester. Item  
+          <lb ed="#Z" n="14"/>26. cap. Ne feceritis uobis idolum aut sculptile, neque statuam erexeritis uobis, sed 
+          <lb ed="#Z" n="15"/>nec lapidem figuratum ponatis in terra uestra, ut adoretis ad eum: quia ego domi 
+          <lb ed="#Z" n="16"/>nus deus uester. Item Deut. 16. Non plantabis tibi lucum ex ullis arboribus iuxta 
+          <lb ed="#Z" n="17"/>aram domini dei tui : neque eriges ibi statuam quam odit dominus deus tuus. Sunt 
+          <lb ed="#Z" n="18"/>autem huius generis leges plurimae passim in scripturis expositae.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e492">
+          <lb ed="#Z" n="19"/><pc type="indent"/> De pauperibus, uiduis, pupillis, orphanis &amp; peregrinis bene tractandis ita prae 
+          <lb ed="#Z" n="20"/>cipit dominus, Nullam uiduam nec pupillum affligetis. Si uero omnino illos affli 
+          <lb ed="#Z" n="21"/>gere perrexeritis, indubie ad me clamabunt, &amp; ego certissime exaudiam eos, &amp; ira 
+          <lb ed="#Z" n="22"/>scar uobis, ac interficiam uos gladio, &amp; erunt uxores uestrae uiduae, &amp; filij uestri or 
+          <lb ed="#Z" n="23"/>bi. Huc pertinet bona pars cap. 15. in Deut. In 24. cap. Ne declines iudicium pere 
+          <lb ed="#Z" n="24"/>grini &amp; pupilli atque uidue. Memineris que &amp; tu fueris peregrinus in terra Aegypti.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e509">
+          <lb ed="#Z" n="25"/><pc type="indent"/> De testibus &amp; testimonijs in iudicio recipiendis &amp; repudiandis, paucula haec 
+          <lb ed="#Z" n="26"/>traduntur in lege. Non stabit testis unus contra aliquem, quicquid illud peccati 
+          <lb ed="#Z" n="27"/>&amp; facinoris fuerit: sed in ore duorum aut trium stabit omne uerbum. Quod si ste 
+          <lb ed="#Z" n="28"/>terit testis mendax contra hominem accusans eum praeuaricationis, iudices 
+          dili<lb ed="#Z" n="29" break="no"/>genter inquirent ac scrutabuntur, cumque deprehenderint testem dixisse 
+          menda<lb ed="#Z" n="30" break="no"/>cium, reddent ei sicuti fratri suo facere cogitauit, &amp; auferes malum de medio 
+          tui<lb ed="#Z" n="31" break="no"/>Caeterum iuramentum quod exigant iudices &amp; praestent litigantes, uel 
+          testimo<lb ed="#Z" n="32" break="no"/>nia dicentes, iubet fieri dominus sub obtestatione &amp; inuocatione diuini nominis,  
+          <lb ed="#Z" n="33"/>&amp; solius quidem, Deute. 19. &amp;c.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e532">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Porro appellationis speciem habet quod toties iubet Moses in caussa dubia et 
+          <lb ed="#Z" n="35"/>difficili recurrere iudices ad summum sacerdotem, adeoque ad ipsum deum uel di- 
+          <lb ed="#Z" n="36"/>uinum oraculum: sicuti uidere licet Exodi 18. &amp; Deut. 5. &amp; 16. cap.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e543">
+          <lb ed="#Z" n="37"/><pc type="indent"/> De Nuptijs legitimis contra incestas &amp; inutiles nuptias, item de gradibus con  
+          <lb ed="#Z" n="38"/>sanguinitatis &amp; affinitatis, diligentissime praecipitur Leuit. 18. cap. tum &amp; alijs in lo 
+          <lb ed="#Z" n="39"/>cis librorum Mosis. Certe ubi non sunt legitimae nuptiae, ibi nullum matrimonium: 
+          <lb ed="#Z" n="40"/>qui ergo nascuntur liberi, spurij censentur: nec ulla ibi haereditas, nullae dotes.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e555">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Praecipit dominus parentibus multis in locis legis suae, ut liberos suos 
+          hone<lb ed="#Z" n="42" break="no"/>ste educent, &amp; sancte instituant. Inter alia, Inculca, inquit, uerba ista quae ego tibi 
+          <lb ed="#Z" n="43"/>praecipio hodie filijs tuis, &amp; loqueris de eis cum domi tuae resides, &amp; cum 
+          ambu<lb ed="#Z" n="44" break="no"/>las in itinere, cum abis cubitum, &amp; cum surgis. Ligabis denique ea in signum ad 
+          ma<lb ed="#Z" n="45" break="no"/>num tuam, eruntque monimenta inter oculos tuos, scribes quoque ea super postes 
+          <lb ed="#Z" n="46"/>domus tuae, &amp; in portis tuis, &amp;c.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e572">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Rursus de honorandis, colendis, alendisque parentibus, non modo in 
+          morali<lb ed="#Z" n="48" break="no"/>bus, sed etiam in iudicialibus legibus quaedam proponuntur, quibus, diligentissime 
+          <!--290.xml-->
+          <pb ed="#Z" n="134-r"/>
+          <lb ed="#Z" n="1"/>commendantur. De quibus dicetur ubi uentum fuerit ad parricidium, sub quo &amp;  
+          <lb ed="#Z" n="2"/>malam parentum tractationem comprehendimus.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e589">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Porro quanta fuerit potestas patria, ex illis potissimum possumus colligere, 
+          <lb ed="#Z" n="4"/>quod Exodi 21. permittitur patri oppresso paupertate uendere filiam: item quod 
+          <lb ed="#Z" n="5"/>alibi conceditur patri potestas constupratam filiam, ei qui compressit uel locan 
+          <lb ed="#Z" n="6"/>di in matrimonio, uel negandi : rursus quod pater potuit uotum deo 
+          nuncupa<lb ed="#Z" n="7" break="no"/>tum, si inscio &amp; non consentiente ipso fuisset nuncupatum, rescindere. Numer 
+          <lb ed="#Z" n="8"/>30. Caeterum exhaeredationem liberorum non fuisse in arbitrio parentum, si libe 
+          <lb ed="#Z" n="9"/>ri exhaeredationem non meruissent, sed parentes corruptus aliquis affectus trans 
+          <lb ed="#Z" n="10"/>uersum raperet, ostendit lex promulgata Deut. 21. prohibens ne pro 
+          primogeni<lb ed="#Z" n="11" break="no"/>to secundogenitum substituat pater.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e612">
+          <lb ed="#Z" n="12"/><pc type="indent"/> De adeundis haereditatibus &amp; successione bonorum, siue de legitima 
+          cogna<lb ed="#Z" n="13" break="no"/>torum successione, diligentissime praecipitur Numeri 27. Ponitur casus filiarum  
+          <lb ed="#Z" n="14"/>elphad postulantium ne nomen deleatur paternum, sed ipsis concedatur cum  
+          <lb ed="#Z" n="15"/>nomine paterna haereditas. Ex ea occasione fertur lex, decedentibus filijs ad filias 
+          <lb ed="#Z" n="16"/>haereditatem transferri, aut certe ad proximos quosque sanguine iunctos. Eo perti 
+          <lb ed="#Z" n="17"/>net etiam lex de suscitando semine fratris, ac totum ferme caput Numeri 36. 
+          Lo<lb ed="#Z" n="18" break="no"/>cum hic habet Adoptio.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e631">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Porro de Stupris, adulterijs, &amp; raptu uirginum multae sunt leges utiles, 
+          hone<lb ed="#Z" n="20" break="no"/>stae &amp; salutares. Deut. 13. dicitur, Non erit meretrix de filiabus lsrael, nec scortator 
+          <lb ed="#Z" n="21"/>de filijs lsrael. Ibidem repellit oblationes collectas ex prostibuli mercede. In 
+          Leui<lb ed="#Z" n="22" break="no"/>tico praecipitur, Ne prostituas filiam tuam ut scortari eam facias, ne 
+          contamine<lb ed="#Z" n="23" break="no"/>tur terra &amp; impleatur piaculo. Ergo Deut. 22. iubetur uirgo quae corrupta ad spo 
+          <lb ed="#Z" n="24"/>sum, mentita uirginitatem, uenisset, lapidari proxime ante parentum fores: ut pa 
+          <lb ed="#Z" n="25"/>rentes tam diro facinore excitarentur ad accuratam custodiam liberorum. Exodi 
+          <lb ed="#Z" n="26"/>22. ita praecipitur, Si quis seduxerit uirginem, dormieritque cum ea, dotabit eam,  
+          <lb ed="#Z" n="27"/>habebitque uxorem. Grauissimae leges latae sunt contra stupra &amp; adulteria. Deut.  
+          <lb ed="#Z" n="28"/>22. cap. Supplicio enim capitis affecti sunt adulteri. Eodem fuit affectus supplicio 
+          <lb ed="#Z" n="29"/>si quis uirginem rapuisset. Suspicionibus &amp; zelotypiae consulitur in Numeris cap.  
+          <lb ed="#Z" n="30"/>5. Contra libidines nephandas illicitas &amp; plane diabolicas, seuerissimae sed iustissi 
+          <lb ed="#Z" n="31"/>mae leges sunt promulgatae, uidelicet contra foedissimos incestus, contra Sodomiam 
+          <lb ed="#Z" n="32"/>abominabilem, contra horribilem &amp; cum natura pugnantem bestialitatem, 
+          con<lb ed="#Z" n="33" break="no"/>tra muta inquam &amp; a deo maledicta scelera, Leuitici cap. 18. &amp; 20. cap.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e668">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Diuortia &amp; repudia permittit lex Deut. 24. &amp; permittit quidem propter 
+          du<lb ed="#Z" n="35" break="no"/>riciem cordis ludaici populi, &amp; ne quid grauius eueniret, nimirum ne quis eam  
+          <lb ed="#Z" n="36"/>quam odisset ueneno e medio tolleret, aut alias strangularet uel confoderet, Re- 
+          <lb ed="#Z" n="37"/>pudio autem separatis permittebantur alia ac noua quidem coniugia.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e680">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Porro ut iustitia colatur inter homines &amp; suum cuique cedat, diligenter in lege 
+          <lb ed="#Z" n="39"/>praecipitur de rerum diuisione, de partienda terra promissa aequis spacijs, de diui  
+          <lb ed="#Z" n="40"/>dendis agris, de peculio, ut cuilibet tribui sorte distribuantur possessiones, &amp; ne 
+          <lb ed="#Z" n="41"/>quis datas quouis modo alienet. Huc enim pertinent quae dicuntur at Mose 
+          Nu<lb ed="#Z" n="42" break="no"/>meri 32. 33. 34. &amp; alias saepe in alijs locis.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e694">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Interea non prohibebatur commutatio. Nam leges quoque promulgatae sunt 
+          <lb ed="#Z" n="44"/>multae &amp; aequissimae de emptione &amp; uenditione, de locatione &amp; conductione, de 
+          <lb ed="#Z" n="45"/>mutuo, accommodato, usuris &amp; deposito. Loca si quis in lege requirat inueniet 
+          <lb ed="#Z" n="46"/>Leuit. 25. Exod. 22. Deut. 15. &amp; 23. cap. Eo referendum puto, quod de hypothecis 
+          <lb ed="#Z" n="47"/>seu pignoribus praecipitur, Si in pignus acceperis uestimentum proximi tui, sub 
+          <lb ed="#Z" n="48"/>occasum solis id ei restitues. Hoc enim est tegumentum eius unicum: hoc est uesti 
+          <!--291.xml-->
+          <pb ed="#Z" n="134-v"/>
+          <lb ed="#Z" n="1"/>mentum eius quo carnem suam contegit, in quo dormit, Fiet autem, ut si ad me 
+          <lb ed="#Z" n="2"/>clamauerit, audiam eum: quia misericors sum. Item, Ne acceperis loco pignoris 
+          <lb ed="#Z" n="3"/>inferiorem &amp; superiorem molarem: quia ille id unde uiuit tibi oppignerauit
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e721">
+          <lb ed="#Z" n="4"/><pc type="indent"/> De deposito siue rebus creditis &amp; iureiurando mandans lex, iubet quemlibet 
+          <lb ed="#Z" n="5"/>bona fide depositum alteri reddere. Si uero ei apud quem fuerat depositum sit fur 
+          <lb ed="#Z" n="6"/>to sublatum, purget se depositarius, interposito iureiurando, apud magistratum.  
+          <lb ed="#Z" n="7"/>Eadem ratio iubetur seruari in alijs rebus mutuo acceptis, amissis item, aut 
+          con<lb ed="#Z" n="8" break="no"/>fractis. Legatur cap. 22. Exodi.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e735">
+          <lb ed="#Z" n="9"/><pc type="indent"/> Et quoniam non minimam facultatum portionem ueteribus positam constat 
+          <lb ed="#Z" n="10"/>in seruorum gregibus, lex diuina multis agit de seruitute &amp; seruis, de 
+          mancipa<lb ed="#Z" n="11" break="no"/>tione &amp; manumisione Diligentissime interim iubet seruos humaniter &amp; clemen 
+          <lb ed="#Z" n="12"/>ter tractare, sexennioque finito dimittere liberos. Quod si seruo alicui sexennio ex 
+          <lb ed="#Z" n="13"/>acto placuisset manere in domo herili, concedebatur id quidem: sed ut 
+          confirma<lb ed="#Z" n="14" break="no"/>retur per mancipationis caeremoniam uoluntaria illa seruitus, nempe ut ductus 
+          <lb ed="#Z" n="15"/>seruulus ad iudices, testaretur se seruiturum uoluntarie, deinde &amp; auricula eius 
+          <lb ed="#Z" n="16"/>inferior foderetur affigereturque ostio. Quod quidem obedientiae &amp; fidei erat sym 
+          <lb ed="#Z" n="17"/>bolum. Nam Dauid huc respiciens, dixit dominum perfodisse ei aurem, id est, per 
+          <lb ed="#Z" n="18"/>fidem obstrinxisse ad obedientiam. lam uero &amp; manumissionem iustis 
+          circum<lb ed="#Z" n="19" break="no"/>scripsit legibus, nimirum ne quid permitteretur auaritiae aut crudelitati 
+          domino<lb ed="#Z" n="20" break="no"/>rum. Quae quidem omnia multis describuntur Exodi 21. Ad clementiam illud quo 
+          <lb ed="#Z" n="21"/>que referre oportet, quod Deut. 23. dicitur, Non trades seruum domino suo, si ad 
+          <lb ed="#Z" n="22"/>te confugerit: sed habitet in loco aliquo ad quem confugerit. Simul tamen grauis 
+          <lb ed="#Z" n="23"/>sime prohibetur Plagium. Plagium committunt qui alienos sollicitant seruos, ut 
+          <lb ed="#Z" n="24"/>uel a dominis suis aufugiant, uel qui abducunt seruos furto aut rapina, &amp; hos sibi 
+          <lb ed="#Z" n="25"/>uel seruant uel alijs diuendunt. Contra hos haec lata legitur lex, Qui furatus 
+          fue<lb ed="#Z" n="26" break="no"/>rit hominem, &amp; uendiderit eum, &amp; conuictus fuerit noxae, morte moriatur. Ac 
+          <lb ed="#Z" n="27"/>repetitur ea lex Deut. 24.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e780">
+          <lb ed="#Z" n="28"/><pc type="indent"/> De Ingenuis paucula traduntur in lege: remouentur autem a publica admini 
+          <lb ed="#Z" n="29"/>stratione aut functione scorto nati &amp; habentes obscuros natales. Excluduntur ex 
+          <lb ed="#Z" n="30"/>administratione reipub. peregrini homines, Ammonitae &amp; Moabitae, Deut. 23.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e791">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Omnis fraus, impostura, rapina, dolus malus &amp; uersutia prohibetur in lege 
+          <lb ed="#Z" n="32"/>sub furti uocabulo. Nam Leuit. 19. legitur, Non facietis furtum, non mentiemini,  
+          <lb ed="#Z" n="33"/>nec decipiet quisque proximum suum. Et Deutero. 19. Non transferes terminos pro 
+          <lb ed="#Z" n="34"/>ximi tui. Furtum punit dominus Exodi 22. quadruplici uel quintuplici restitutic 
+          <lb ed="#Z" n="35"/>ne: quam nisi quis praestaret aut fecisset, uendebatur, in seruitutemque 
+          conijcieba<lb ed="#Z" n="36" break="no"/>tur extremam. Quod si apud furem res furtiua fuisset deprehensa &amp; recuperata.¬ 
+          <lb ed="#Z" n="37"/>rependebat duplum. Sub hanc legem pertinent quaecunque dicuntur contra sacri 
+          <lb ed="#Z" n="38"/>legium, abiegatum &amp; peculatum, item contra plagium, de quo iam iam paucula 
+          <lb ed="#Z" n="39"/>diximus. Huc pertinet aequissima &amp; praestantissima haec lex, Ne neges aut ui 
+          re<lb ed="#Z" n="40" break="no"/>tineas mercenario pauperi &amp; inopi, siue sit de fratribus tuis, siue de peregrinis 
+          <lb ed="#Z" n="41"/>qui sunt in terra tua, mercedem. Die suo dabis ei mercedem suam, &amp; ante solis oc 
+          <lb ed="#Z" n="42"/>casum quidem, quia pauper est &amp; sustentat ex eo uitam suam: ne clamet contra 
+          <lb ed="#Z" n="43"/>te ad dominum, &amp; cedat tibi in peccatum.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e823">
+          <lb ed="#Z" n="44"/><pc type="indent"/> De damno dato aut accepto, &amp; de restitutione in integrum multae sunt in 
+          <lb ed="#Z" n="45"/>lege domini constitutiones. Si quis foderit cisternam, inquit lex, nec operuerit dili 
+          <lb ed="#Z" n="46"/>genter, cecideritque in eam iumentum aut pecus alterius, reseruet sibi dominus cisternae 
+          <lb ed="#Z" n="47"/>animal quod perijt, animalis aunt domino pretium annumeret animalis. Similis est 
+          <lb ed="#Z" n="48"/>lex de boue cornupeta Exo. 21. In22. cap. conceditur actio talionis, si pratum fuerit 
+          <!--292.xml-->
+          <pb ed="#Z" n="135-r"/>
+          <lb ed="#Z" n="1"/>depastum, si seges aut uinea fuerit uastata. lubet enim lex aliud pratum, aliam 
+          se<lb ed="#Z" n="2" break="no"/>getem uel uineam, nec uilem quidem illam, sed optimam restituere ei qui damnum 
+          <lb ed="#Z" n="3"/>accepit. Ita si quis immisisset ignem in spinas, &amp; ignis per incuriam immittentis 
+          <lb ed="#Z" n="4"/>inuasisset fruges uel stantes uel congestas, absumpsissetque, cogebatur hic qui per 
+          <lb ed="#Z" n="5"/>incuriam suam alteri dederat damnum sarcire illatum, Repetitur haec lex Leuit. 
+          <lb ed="#Z" n="6"/>24. In Deut. 22. plurima ponuntur quae sub hunc titulum referre oportet : cuius 
+          <lb ed="#Z" n="7"/>quidem generis est, quod iubemur bouem errantem reducere, inuentas res 
+          resti<lb ed="#Z" n="8" break="no"/>tuere ei qui perdiderat : probe munire aedificia tua, ne quid damni inde forte 
+          for<lb ed="#Z" n="9" break="no"/>tuna accipiat frater tuus. Ab his non est aliena lex illa quoque. Locus sit tibi extra 
+          <lb ed="#Z" n="10"/>castra ad quem foras egrediaris, lignumque praeacutum in baltheo, quo sedens 
+          fo<lb ed="#Z" n="11" break="no"/>dias, conuersusque operias excrementum tuum. Etenim in iure ciuili tractatur etiam 
+          <lb ed="#Z" n="12"/>huiusmodi res: sed &amp; ipsa necessitas requirit in repub. certae sint leges de cloacis,  
+          <lb ed="#Z" n="13"/>de aedificijs, ne alter alteri excrementis egerendis, aut aedificijs nouis collocandis,  
+          <lb ed="#Z" n="14"/>molestus &amp; oneri sit. Hoc loco licet &amp; leges commemorare de seprosis 
+          separan<lb ed="#Z" n="15" break="no"/>dis, nimirum ne contagium serpens damnum det uicinis. Multis tractantur leges 
+          <lb ed="#Z" n="16"/>de Lepra &amp; leprosis in Leuit. 13. &amp; 14. cap.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e876">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Pondera aequa &amp; mensuras iustas hac lege constituit dominus, Ne sint tibi in 
+          <lb ed="#Z" n="18"/>sacculo tuo diuersi lapides, magnus scilicet &amp; paruus: ne sint tibi in domo tua di- 
+          <lb ed="#Z" n="19"/>uersa epha, magnum scilicet &amp; paruum. Quin pondus aequum &amp; iustum sit tibi, 
+          <lb ed="#Z" n="20"/>&amp; epha aequum &amp; iustum sit tibi, ut prorogentur dies tui in terra quam 
+          domi<lb ed="#Z" n="21" break="no"/>nus deus daturus est tibi. Nam abominatio est deo tuo quisquis ista facit, &amp; 
+          ini<lb ed="#Z" n="22" break="no"/>quitatem perpetrat. Haec habentur Deuteron. 25. &amp; repetuntur eadem Leuitici 
+          <lb ed="#Z" n="23"/>decimonono capite.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e895">
+          <lb ed="#Z" n="24"/><pc type="indent"/> De publicis iudicijs, de maleficijs &amp; poena sontium, habentur leges in libro 
+          <lb ed="#Z" n="25"/>domini multiplices. Maleficos, ait dominus, non patieris uiuere. Item, Non 
+          inter<lb ed="#Z" n="26" break="no"/>ficientur patres pro filijs, nec filij occidentur pro patribus: sed quisque pro peccato 
+          <lb ed="#Z" n="27"/>suo interficietur. Nec tacet lex modum suppliciorum, gladium, lapides &amp; ignem 
+          <lb ed="#Z" n="28"/>dans in manus iudicis. Alicubi relinquitur iudici decernenda poena sontis ex cir 
+          <lb ed="#Z" n="29"/>cumstantia comissi sceleris, quomodo uidelicet puniatur, in corpore ne an in 
+          for<lb ed="#Z" n="30" break="no"/>tunis, in membris an in uita, uirgis ne caedatur an proscribatur. Leuitici 20. cap. 
+          <lb ed="#Z" n="31"/>omnia fere scelera morte expianda commemorantur. Ita cap. 18. &amp; 21.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e916">
+          <lb ed="#Z" n="32"/><pc type="indent"/> De maleficis &amp; mathematicis copiose disseritur Deut. 18. Per compendium in  
+          <lb ed="#Z" n="33"/>Leuit. 159. cap. dicitur, Non augurabimini, neque obseruabitis somnia. Non declina  
+          <lb ed="#Z" n="34"/>bitis ad magos, nec ab hariolis aliquid sciscitabimini, ut polluamini per eos. In 
+          <lb ed="#Z" n="35"/>hos mortis &amp; extremi supplicij sententia profertur Leuit. 20. Exodi 22. 
+          pronun<lb ed="#Z" n="36" break="no"/>ciatur districta sententia, Malefica mulier ne uiuat.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e930">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Contra haereticos, schismaticos &amp; apostatas, siue pseudoprophetas, 
+          pronun<lb ed="#Z" n="38" break="no"/>ciat lex Deut. 13. &amp; 18. cap. docens significantissime quomodo sint tractandi. 
+          Co<lb ed="#Z" n="39" break="no"/>gnata his est lex de lapidandis blasphemis hominibus, quae continetur Leuit. 24 
+          <lb ed="#Z" n="40"/>cap. item lex de sabbati contemptoribus &amp; uiolatoribus ex Num. 15. cap.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e943">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Contra seditiosos &amp; calumniatores multa in lege passim traduntur. Seditiosi  
+          <lb ed="#Z" n="42"/>erant Chore, Dathan, &amp; Abyrom. De quibus dicitur Num. 16. Si quis uxoris suae  
+          <lb ed="#Z" n="43"/>pudicitiam aut famam bonam malitiose laesisset, uel in pecunia, uel uerberibus 
+          in<lb ed="#Z" n="44" break="no"/>cussis mulctabatur, sicut uidere licet Deut. 22. Leuit. 19. praecipitur, Non eris cri- 
+          <lb ed="#Z" n="45"/>minator aut susurro in populis: ne oderis fratremn tuum, sed palam argue eum. Item 
+          <lb ed="#Z" n="46"/>Exodi 22. dicitur, Dijs non detrahes, &amp; principi populi tui non maledices.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e960">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Caeterum homicidij multa sunt genera, quorum alia alijs leuiora sunt, aut gra  
+          <lb ed="#Z" n="48"/>uiora. Excellit in his dirum parricidium, sub quo comprehendimus &amp; malam tra¬ 
+          <!--293.xml-->
+          <pb ed="#Z" n="135-v"/>
+          <lb ed="#Z" n="1"/>ctationem parentum, Qui percusserit patrem aut matrem, aut eis maledixerit,  
+          <lb ed="#Z" n="2"/>ait lex, morte moriatur. Iubetur item caedi rebellis, qui ausus fuerit se opponere 
+          <lb ed="#Z" n="3"/>aequis Seniorum sententijs &amp; iudicio sancto. Deut. 17. cap. Rursus Deuter. 21. Si 
+          <lb ed="#Z" n="4"/>quispiam filium habuerit defectorem, contumacem, proteruum &amp; rebellem, qui 
+          <lb ed="#Z" n="5"/>uocem patris sui &amp; matris suae audire noluerit, cumque castigauerint eum, &amp; nolue 
+          <lb ed="#Z" n="6"/>rit obtemperare, apprehendent eum parentes eius, educentque eum ad Seniores ur 
+          <lb ed="#Z" n="7"/>bis illius, &amp; ad portam eius loci, dicentque ad Seniores ciuitatis illius, Filius hic no 
+          <lb ed="#Z" n="8"/>ster defector est &amp; rebellis, nec uult audire uocem nostram, commessator est &amp; po 
+          <lb ed="#Z" n="9"/>tator: &amp; mox lapidibus eum obruent omnes ciues illius ciuitatis donec moriatur. 
+          <lb ed="#Z" n="10"/>&amp; expurgabis malum de medio tui, ut omnes lsraelitae audientes timeant. Est prae 
+          <lb ed="#Z" n="11"/>terea Homicidium aliud quidem inuoluntarium, aliud uoluntarium. 
+          Inuolunta<lb ed="#Z" n="12" break="no"/>rium quale sit, illustratur exemplo Deut. 19. cap. ubi talis proponitur casus, Eunt 
+          <lb ed="#Z" n="13"/>concordes amici duo caesum ligna in syluam, inter caedendum autem excutitur 
+          <lb ed="#Z" n="14"/>ferrum e manubrio illius, &amp; impetu fertur in hunc, quem &amp; ad necem uulnerat. 
+          <lb ed="#Z" n="15"/>Huiusmodi factum non imputat deus actori, sed sibi, nec uult illi imputari. Con 
+          <lb ed="#Z" n="16"/>cedit ergo refugium in asylum. Huiusmodi enim homicidis, non latronibus aut 
+          <lb ed="#Z" n="17"/>sicarijs, non ueneficis aut parricidis uoluit patere asyla. De quibus copiose agitur 
+          <lb ed="#Z" n="18"/>Numeri 35. cap. &amp; Deut. 4. &amp; 19. cap. Ad inuoluntarium homicidium, nempe quod 
+          <lb ed="#Z" n="19"/>non destinata mente patratur, pertinet etiam illud, Pugnant inter se uiri, &amp; inter 
+          <lb ed="#Z" n="20"/>pugnandum foeminam grauidam impellunt, ut uel ante tempus pariat, uel moria 
+          <lb ed="#Z" n="21"/>tur protinus. In eo casu quid fieri debeat exponitur Exodi a1. Vbi &amp; lex Talionis 
+          <lb ed="#Z" n="22"/>proponitur. Oculum pro oculo, dentem pro dente, manum pro manu, &amp;c. Ibidem  
+          <lb ed="#Z" n="23"/>ponitur &amp; aliud homicidij genus quod fit per iumentum tuum, utpote taurum 
+          cor<lb ed="#Z" n="24" break="no"/>nupetam, uel lupum, aut canem quem domi tuae alis, uel per instrumentum 
+          quod<lb ed="#Z" n="25" break="no"/>piam, aut aedificium quod est in tua potestate. Nesciuisti autem, uel sciuisti anima 
+          <lb ed="#Z" n="26"/>lis ferociam, aut instrumenti, uel aedificij uitium. Si nesciuisti, excusatus es. Si sci- 
+          <lb ed="#Z" n="27"/>uisti, nec prohibuisti malum, occidaris iubet dominus. Si uero ex clementia conce 
+          <lb ed="#Z" n="28"/>datur redemptio uitae, nullam quantumuis magnam recusabis annumerare 
+          sum<lb ed="#Z" n="29" break="no"/>mam pecuniae. Porro caedes uoluntaria, quae fit uoluntate destinata per in sidias 
+          <lb ed="#Z" n="30"/>aut maleuolentiam, nulla necessitate impellente, nullam in lege dei ueniam 
+          me<lb ed="#Z" n="31" break="no"/>retur. Talem, inquit lex, auelles ab ara mea ut occidatur. Nulla hic admittitur 
+          re<lb ed="#Z" n="32" break="no"/>demptio, sed districte deposcitur sanguis homicidae. Cause huius seueritatis osten 
+          <lb ed="#Z" n="33"/>duntur multae: sicuti &amp; alia quaedam huc pertinentia non pauca leguntur Nume 
+          <lb ed="#Z" n="34"/>ri cap. 35. &amp; Exodi 21. cap. In21. cap. Deut, describitur actio partim caeremonialis,  
+          <lb ed="#Z" n="35"/>partim iudicialis, de incerto authore caedis patratae in agro aliquo. Vbi etiam 
+          mo<lb ed="#Z" n="36" break="no"/>dus praescribitur caedis expiandae: unde colligere licet, quam horrendum peccatum 
+          <lb ed="#Z" n="37"/>sit caedes in oculis dei &amp; ecclesiae catholicae.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e1052">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Postremo non transit intactam lex rem militarem. Nam praecepta dat de bello 
+          <lb ed="#Z" n="39"/>suscipiendo, gerendo, &amp; deponendo. Leguntur ea Deuter. 20. cap. Sed &amp; 
+          exem<lb ed="#Z" n="40" break="no"/>pla bellorum non leuium proponuntur in lege, in primis Amelechiticum Exodi 
+          <lb ed="#Z" n="41"/>17. &amp; Madianiticum Numeri 31. cap. ubi &amp; de spolijs uel manubijs diuidendis ser 
+          <lb ed="#Z" n="42"/>mo habetur.
+        </p>
+        <p xml:id="UD1xh4-uPMZSV-d1e1066">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Scio fratres me hac Legum commemoratione C. V. satis molestum fuisse : 
+          quo<lb ed="#Z" n="44" break="no"/>niam uero deus summus &amp; sapientissimus nihil agit sine caussis grauibus, &amp; sine 
+          <lb ed="#Z" n="45"/>luculenta utilitate hominum, non potui intactam hanc legis partem transire, quam  
+          <lb ed="#Z" n="46"/>uideo tanta diligentia traditam esse ab ipso deo, &amp; quae facit permultum ad 
+          mora<lb ed="#Z" n="47" break="no"/>lium legum &amp; illustrationem &amp; conseruationem. Nouit bonus &amp; omniscius do¬  
+          <lb ed="#Z" n="48"/>minus ingenij humani tarditatem, inertiam &amp; malitiam, quod ad bonum perfi 
+          <!--294.xml-->
+          <pb ed="#Z" n="136-r"/>
+          <lb ed="#Z" n="1"/>ciendum fugiendumque malum non raro uim requirit. Adhibuit ergo hominibus 
+          <lb ed="#Z" n="2"/>sanctam uim sanctus dominus per leges hasce iudiciales. Moralibus format 
+          mo<lb ed="#Z" n="3" break="no"/>res, &amp; docet quid faciamus, quid fugiamus. Caeremonialibus iuuat moralia, &amp; my 
+          <lb ed="#Z" n="4"/>steria regni dei sub typis &amp; imaginibus proponit oculis animi &amp; corporis contem 
+          <lb ed="#Z" n="5"/>planda. ludicialibus uero &amp; perpellit nos ad legum custodiam &amp; integritatem 
+          le<lb ed="#Z" n="6" break="no"/>gum conseruat. Omnia uero &amp; singula haec huc unice spectant ut seruetur homo, 
+          <lb ed="#Z" n="7"/>ut deum recte colat &amp; uiuat secundum uoluntatem dei. Haec hactenus disserui,  
+          <lb ed="#Z" n="8"/>deo iuuante, de Lege dei. Laudemus iam dei bonitatem, qui nulla re necessaria 
+          <lb ed="#Z" n="9"/>populum suum destituit, sed &amp; nos hodie istis omnibus erudit ad gloriam 
+          nomi<lb ed="#Z" n="10" break="no"/>nis sui &amp; animarum nostrarum salutem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

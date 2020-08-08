@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 3</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 3</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="8-v"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-IdVJ9u"><!-- d1s3 --> 
+        <head xml:id="UD1xh4-IdVJ9u-Hd1e106">Sermo 3</head>
+        <head xml:id="UD1xh4-IdVJ9u-Hd1e109" type="question-title">De sensu et expositione legitima verbi dei, quibus modis et rationibus exponit possit</head>
+        <p xml:id="UD1xh4-IdVJ9u-d1e112">
+          <lb ed="#Z" n="23"/><pc type="indent"/> De sensu &amp; expositone legitima uerbi dei, quibus modis &amp; rationibus exponi possit.
+          <lb ed="#Z" n="24"/>SERMO. III
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e120">
+          <lb ed="#Z" n="25"/><pc type="indent"/> INtelligo, fratres dilecti, ex doctrina mea de uerbo dei uarias in 
+          multo<lb ed="#Z" n="26" break="no"/>rum cordibus cogitationes exoriri, imo a quibusdam seri sermones satis 
+          <lb ed="#Z" n="27"/>irreligiosos. Sunt enim qui arbitrantur scripturas, id est ipsum dei 
+          uer<lb ed="#Z" n="28" break="no"/>bum, obscurius esse, quam quod ullo possit legi cum emolumento. Alij 
+          <lb ed="#Z" n="29"/>ex aduerso contendunt, uerbum dei a deo simpliciter hominibus traditum, nulla  
+          <lb ed="#Z" n="30"/>indigere interpretatione. Clamant ergo scripturas legi oportere quidem ab om- 
+          <lb ed="#Z" n="31"/>nibus, omnibus autem licere sibi sensum fingere deligereque, quem putet quisque 
+          ma<lb ed="#Z" n="32" break="no"/>xime conuenientem esse. llli ipsi damnant modum in ecclesijs receptum, quo 
+          mi<lb ed="#Z" n="33" break="no"/>nister ecclesiae coetui scripturas explanat. Ego uero, si charitas uestra, uti coepit 
+          <lb ed="#Z" n="34"/>perrexerit precari dominum, domini bonitate fretus, confido me demonstrare posse 
+          <lb ed="#Z" n="35"/>Scripturam non esse obscuram pijs, dominumque omnino uelle ut eam 
+          intelliga<lb ed="#Z" n="36" break="no"/>mus. Deinde scripturas omnino esse exponendas. Vbi etiam modum &amp; rationes 
+          <lb ed="#Z" n="37"/>aliquot simplices interpretandi scripturas explicabo, Remouebunt haec 
+          obstacu<lb ed="#Z" n="38" break="no"/>la, quae a lectione uerbi dei arcent, reddentque lectionem uel auscultationem uerbi 
+          <lb ed="#Z" n="39"/>dei salubrem atque frugiferam.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e156">
+          <lb ed="#Z" n="40"/><pc type="indent"/> Ac principio quidem quod deus uelit intelligi uerbum suum ab hominibus,  
+          <lb ed="#Z" n="41"/>inde potissimum possumus colligere, quod loquens seruis suis, genere dicendi 
+          <lb ed="#Z" n="42"/>usus maxime uulgari, ipsis etiam idiotis consueto. Neque alio dicendi genere usi le 
+          <lb ed="#Z" n="43"/>guntur prophetae &amp; apostoli serui dei summae &amp; eternae sapientiae interpretes: ut in 
+          <lb ed="#Z" n="44"/>omni scriptorum turba non inuenias ullos qui simpliciori magisque perspicuo 
+          sti<lb ed="#Z" n="45" break="no"/>lo praecellant. Creberrime utuntur sententijs generalibus &amp; uulgaribus, similibus,  
+          <lb ed="#Z" n="46"/>parabolis, collationibus, fictis narrationibus, exemplis &amp; id genus alijs formis, 
+          <!--40.xml-->
+          <pb ed="#Z" n="9-r"/>
+          <lb ed="#Z" n="1"/>quibus uulgarem sensum hominis nihil magis mouet &amp; clarius docet. Oboritur,  
+          <lb ed="#Z" n="2"/>fateor, aliqua in scripturis caligo ex idiomate, schematismis &amp; insolentia lingua. 
+          <lb ed="#Z" n="3"/>rum. Verum ei difficultati facile mederi poterit studium, diligentia, fides &amp; peri 
+          <lb ed="#Z" n="4"/>tia interpretum. Iam &amp; Petrus apostolus dicit in Paulinis epistolis quaedam esse 
+          <lb ed="#Z" n="5"/>difficilia intellectu. Sed mox addit. Quae indocti parumque integri aut firmi detor. 
+          <lb ed="#Z" n="6"/>quent, sicut &amp; caeteras scripturas, ad suam ipsorum perniciem. Vnde colligimus,  
+          <lb ed="#Z" n="7"/>indoctis, imperitis, parum exercitatis &amp; malignis aut corruptis ingenijs, non stu 
+          <lb ed="#Z" n="8"/>diosis &amp; pijs lectoribus aut auscultatoribus difficilem esse scripturam aut 
+          obscu<lb ed="#Z" n="9" break="no"/>ram. Proinde cum Paulus quoque dicit, Si adhuc uelatum est euangelium nostrum,  
+          <lb ed="#Z" n="10"/>in his qui pereunt uelatum est, in quibus deus huius saeculi excaecauit sensus incre 
+          <lb ed="#Z" n="11"/>dulorum, ne illucesceret illis lumem euangelij gloriae Christi, qui est imago dei : 
+          cul<lb ed="#Z" n="12" break="no"/>pam obscuritatis non in ipsum dei uerbum, sed in auditores parum idoneos retor 
+          <lb ed="#Z" n="13"/>quet. Curemus itaque quicunque uerbum dei recte intelligere cupimus, ne sathanas 
+          a<lb ed="#Z" n="14" break="no"/>nimos nostros occupet &amp; oculos praestringat. Nam &amp; saluator noster dixit in euan 
+          <lb ed="#Z" n="15"/>gelio, Haec est condemnatio, quod lux uenit in mundum, &amp; homines dilexerunt 
+          <lb ed="#Z" n="16"/>magis tenebras quam lucem. Alioqui legimus sanctos dei prophetas &amp; apostolos 
+          <lb ed="#Z" n="17"/>uerbum dei siue scripturas appellasse non tenebras, obscuritatem aut caliginem,  
+          <lb ed="#Z" n="18"/>sed iubar quoddam atque lucernam. Lucerna, inquit Dauid, pedibus meis uerbum 
+          <lb ed="#Z" n="19"/>tuum, &amp; lumen semitis meis. Et quid quaeso manifestius est, quam quod in rebus 
+          <lb ed="#Z" n="20"/>dubijs &amp; obscuris illustrandis, nemo relegat ad caliginosa &amp; incerta: Incerta 
+          du<lb ed="#Z" n="21" break="no"/>bia &amp; obscura declarantur per certiora, firmiora &amp; clariora. At quoties in fidei 
+          ne<lb ed="#Z" n="22" break="no"/>gotijs quaestio aut controuersia incidit, an non omnes consentiunt scripturis illam dirimi  
+          <lb ed="#Z" n="23"/>dissoluique oportere: Proinde necesse est scripturas esse clarasdisertas certissimasque.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e230">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Quanquam uero clara sit scriptura &amp; uerbum dei apertum, non tamen respuit 
+          <lb ed="#Z" n="25"/>expositonem religiosam seu piam, imo exposito sancta addit uerbo dei 
+          ornamen<lb ed="#Z" n="26" break="no"/>tum, &amp; profert in auditore pio fructum multiplicem. Quoniam autem multi 
+          ne<lb ed="#Z" n="27" break="no"/>gant scripturas esse exponendas, ostendam exemplis irrefragabilibus omnino ex- 
+          <lb ed="#Z" n="28"/>ponendas esse. Nam deus ipse legis uerba prolata in monte Sina ad totam lsraelis 
+          <lb ed="#Z" n="29"/>ecclesiam scriptaque in duas tabulas, multis colloquijs per 40. dies &amp; annos habitis 
+          <lb ed="#Z" n="30"/>cum Mose, exponit ecclesie per Mosen, qui nobis Deuteronomium &amp; alios quos 
+          <lb ed="#Z" n="31"/>dam libros ceu diuinae legis Comentarios reliquit. Insequuti sunt mox prophetae 
+          <lb ed="#Z" n="32"/>qui legem Mosis interpretantes suis temporibus locis &amp; hominibus applicauerunt,  
+          <lb ed="#Z" n="33"/>&amp; sermones suos ueluti Enarrationes diuinae Legis scriptos reliquerunt posteris. 
+          <lb ed="#Z" n="34"/>In Nehemia cap. S. legimus in haec uerba, Attulit sacerdos Esdra legem, librum 
+          Mo<lb ed="#Z" n="35" break="no"/>sis, &amp; stetit super turriculam ligneam, nimirum in sacra cathedra. Et aperuit Esdra 
+          <lb ed="#Z" n="36"/>librum coram ecclesia ex uiris &amp; mulieribus, &amp; quicunque intelligentes erant. Et Le 
+          <lb ed="#Z" n="37"/>uitae stabant cum eo. Ipse uero legit ex libro, &amp; Leuitae docebant populum in lege: 
+          <lb ed="#Z" n="38"/>&amp; populus erat in statione sua. Et legerunt in libro legis dei luculenter, 
+          explican<lb ed="#Z" n="39" break="no"/>tes sensum, &amp; erudientes inter legendum. Haec Nehemias. Obseruate fratres quod 
+          <lb ed="#Z" n="40"/>legitimi &amp; sancti ecclesiae dei ministri uerbum dei non tantum legerunt sed expo 
+          <lb ed="#Z" n="41"/>suerunt etiam. Hunc ritum legendi &amp; explicandi scripturas uel uerbum dei nec 
+          <lb ed="#Z" n="42"/>abrogauit neque neglexit, cum in carnem uenisset dominus noster Iesus Christus,  
+          <lb ed="#Z" n="43"/>atque iam uerus propheta &amp; doctor coelestis, adeoque noui testamenti aut 
+          Christia<lb ed="#Z" n="44" break="no"/>nae ecclesiae doctor instrueret suum populum. Nazarethi enim synagogam 
+          ingres<lb ed="#Z" n="45" break="no"/>sus surrexit ut legeret : &amp; traditus est illi liber lsaiae prophetae. Explicuit autem 
+          li<lb ed="#Z" n="46" break="no"/>brum, &amp; legit locum quendam insignem ex cap. 6. Deinde complicuit librum,  
+          <lb ed="#Z" n="47"/>ministro reddidit, &amp; quod praelegerat exposuit, demonstrans uaticinium iam esse 
+          <lb ed="#Z" n="48"/>in ipso completum, Praeterea cum resurrexisset ex mortuis, comitem se iungit duo¬ 
+          <!--41.xml-->
+          <pb ed="#Z" n="9-v"/>
+          <lb ed="#Z" n="1"/>bus discipulis Emaum euntibus, cum quibus contulit uaria: tandem uero exorsus 
+          <lb ed="#Z" n="2"/>a Mose &amp; omnibus prophetis, interpretabatur illis in omnibus scripturis, quae de 
+          <lb ed="#Z" n="3"/>ipso erant. Hoc domini exemplum imitati apostoli &amp; ipsi uerbum dei exposuerunt. 
+          <lb ed="#Z" n="4"/>Nam Petrus Psalmum 16. interpretatur de Christo resurgente ex mortuis, in Actis 
+          <lb ed="#Z" n="5"/>apostolorum cap. 2. Sed &amp; Philippus principi Aethiopico lsaiae uaticinium lucu 
+          <lb ed="#Z" n="6"/>lenta interpretatione aperit, &amp; ea ipsum ad fidem Christi ecclesiaeque consortium 
+          <lb ed="#Z" n="7"/>adducit. Pauli facta &amp; scripta nec legit nec uidit, quisquis negauerit Paulum ubique  
+          <lb ed="#Z" n="8"/>sacras interpretari scripturas. His dilucide &amp; solide satis, opinor, demostraui 
+          uer<lb ed="#Z" n="9" break="no"/>bum dei esse exponendum.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e312">
+          <lb ed="#Z" n="10"/><pc type="indent"/> Qui uero expositoni scripturarum reclamant &amp; nolunt ministros uerbi ac ec 
+          <lb ed="#Z" n="11"/>clesiarum publice &amp; solenniter enarrare scripturas, easque applicare locis, tempori 
+          <lb ed="#Z" n="12"/>bus, rebus &amp; personis, aliud quam pietatem quaerunt. Viuunt isti aliter quam 
+          de<lb ed="#Z" n="13" break="no"/>ceat pios uiros. Loquuntur impia indecora &amp; absurda. Designant scelera &amp; flagi 
+          <lb ed="#Z" n="14"/>tia. Et haec quidem cupiunt facere impune: itaque sublatam uolunt scripturarum ex- 
+          <lb ed="#Z" n="15"/>positonem. Si enim quis uerba duntaxat scripturae legat nec applicet rebus, 
+          lo<lb ed="#Z" n="16" break="no"/>cis, temporibus &amp; personis, non admodum ipsorum impietati &amp; sceleratae uitae 
+          <lb ed="#Z" n="17"/>contradixisse uidetur. Proinde cum clamant e medio auferri oportere contiones 
+          <lb ed="#Z" n="18"/>&amp; expositones scripturarum, scripturas pure &amp; sine additione legendas esse, non  
+          <lb ed="#Z" n="19"/>aliud uolunt, quam abijcere legem dei, disciplinam &amp; correptionem omnem 
+          cal<lb ed="#Z" n="20" break="no"/>care, ac peccare impune. Quos tamen suo tempore iustus dominus puniet tanto 
+          <lb ed="#Z" n="21"/>grauius, quanto audacius insurgunt contra deum.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e342">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Cauendum erit interim omnibus ecclesiarum ministris ne uel hic affectui tan 
+          <lb ed="#Z" n="23"/>tillum indulgeant, uel scripturas sanctas interpretando corrumpant, &amp; hoc 
+          mo<lb ed="#Z" n="24" break="no"/>do ecclesiae sua figmenta, non uerbum dei, proponant. Tale quidpiam uidentur 
+          <lb ed="#Z" n="25"/>designasse ueteris quondam populi doctores, quos apud Ezechielem accusans 
+          de<lb ed="#Z" n="26" break="no"/>minus dicit, An leue uobis est quod pascua bona depascitis, nisi residua 
+          pascuoe<lb ed="#Z" n="27" break="no"/>rum uestrorum pedibus uestris conculcetis, &amp; bibentes limpidiores aquas, 
+          resi<lb ed="#Z" n="28" break="no"/>duas pedibus uestris conturbetis? Et oues meae conculcatum pedibus depascunt 
+          <lb ed="#Z" n="29"/>&amp; conturbatum pedibus uestris bibunt. Grande hoc est fagitium quod dominus 
+          <lb ed="#Z" n="30"/>pro iustitia sua punit grauissime. Curandum itaque interpretibus sanctis &amp; fidis,  
+          <lb ed="#Z" n="31"/>Christi ecclesiarumque ministris, ut scripturas integras retineamus, &amp; uerbum dei 
+          <lb ed="#Z" n="32"/>purum tradamus populo Christi, illustratum inquam non corruptum aut 
+          obscu<lb ed="#Z" n="33" break="no"/>ratum ineptis detortis &amp; non natiuis nostris expositionibus.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e372">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Ac locus quidem &amp; tempus postulant ut modo nonnihil dicamus c.V. de 
+          in<lb ed="#Z" n="35" break="no"/>terpretandis scripturis sanctis, uel de exponendo uerbo dei. Vbi non commemo 
+          <lb ed="#Z" n="36"/>rabo quicquam de linguis linguarumque peritia, aut de bonis artibus, bono 
+          inter<lb ed="#Z" n="37" break="no"/>preti necessarijs, sed generalia duntaxat perstringam. In primis uero sciendum est 
+          <lb ed="#Z" n="38"/>quaedam in scripturis uel uerbo dei tam clare proponi, ut nec indigeant 
+          exposito<lb ed="#Z" n="39" break="no"/>ne, nec recipiant ullam enarrationem. Quae si quis pergat suis illustrare 
+          interpre<lb ed="#Z" n="40" break="no"/>tationibus, nihilo prudentius facere uideatur quam si quis conetur facibus aut tae 
+          <lb ed="#Z" n="41"/>dis exorientem iuuare solem, quo orbi clarius illucescat. Quae autem ita posita sunt 
+          <lb ed="#Z" n="42"/>ut nostram postulent expositonem, non pro nostri animi arbitrio sunt 
+          interpre<lb ed="#Z" n="43" break="no"/>tanda, sed pro eius ingenio &amp; sensu qui scripturas reuelauit. Nam S. Petrus. Om 
+          <lb ed="#Z" n="44"/>nis prophetica scriptura, inquit non est priuatae interpretationis. Non enim uo- 
+          <lb ed="#Z" n="45"/>luntate hominis allata est olim prophetia: sed a spiritu sancto impulsi, locuti sunt 
+          <lb ed="#Z" n="46"/>sancti dei homines. Proinde sensus uerbi dei genuinus ex ipsis est petendus scri- 
+          <lb ed="#Z" n="47"/>pturis, non inferendus ex nostro arbitrio in scripturas. Simul autem Canones ali 
+          <lb ed="#Z" n="48"/>quot obseruandi sunt, quos per sequentia paucis perstringentes proferemus,
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e408">
+          <!--42.xml-->
+          <pb ed="#Z" n="10-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Principio cum apostolus Paulus uelit prophetiam respondere analogiae seu 
+          <lb ed="#Z" n="2"/>proportioni fidei: sicut legis ad Rom. 12. &amp; idem in posteriore ad Corinth. dicat, 
+          <lb ed="#Z" n="3"/>Cum habeamus eundem spiritum fidei, iuxta illud quod scriptum est, Credidi, &amp;  
+          <lb ed="#Z" n="4"/>ideo locutus sum : &amp; nos credimus quapropter &amp; loquimur, catholicum sit nihil 
+          <lb ed="#Z" n="5"/>adferre in expositonibus nostris, aut nihil recipere quod alij adduxerint contra re 
+          <lb ed="#Z" n="6"/>ceptos fidei articulos in symbolo apostolorum &amp; alijs uetustissimis symbolis 
+          copre<lb ed="#Z" n="7" break="no"/>hensos. Nam pro ueritate possumus aliquid, ait apostolus, contra ueritatem nihil 
+          <lb ed="#Z" n="8"/>possumus. Legentes ergo in euang. Ioannis illud domini dictum, Pater maior me est,  
+          <lb ed="#Z" n="9"/>cogitabimus articulis fidei contrarium esse inaequalitatem constituere aut admittere 
+          <lb ed="#Z" n="10"/>in diuinitate patris &amp; filij, &amp; prinde aliud sensisse dominum quam ipsa uerba 
+          pri<lb ed="#Z" n="11" break="no"/>ma protinus fronte significare uideantur, Rursus cum in apostolo legimus, 
+          lmpos<lb ed="#Z" n="12" break="no"/>sibile est ut qui semel fuerint illuminati, si prolabantur denuo reparentur per poe 
+          <lb ed="#Z" n="13"/>nitentiam: ne credamus lapsis negandam esse poenitentiam. Fides enim catholica cre 
+          <lb ed="#Z" n="14"/>dit omni loco, omni tepore, quoad in his terris uiuimus, &amp; omnibus hominibus 
+          <lb ed="#Z" n="15"/>ad dominum conuersis promissam esse omnium delictorum ueniam. Ita cum audi 
+          <lb ed="#Z" n="16"/>mus dominum accepisse panem &amp; de pane dixisse, Hoc est corpus meum, 
+          reuoce<lb ed="#Z" n="17" break="no"/>mus in memoriam articulos fidei, tribuentes domino nostro uerum &amp; humanum  
+          <lb ed="#Z" n="18"/>corpus, quod ascendit in coelos, sedet ad dexteram patris, inde uenturum iudicare 
+          <lb ed="#Z" n="19"/>uiuos &amp; mortuos, ac cogitemus dominum de sacramento locutum, uelle ut sacra 
+          <lb ed="#Z" n="20"/>mentalia uerba exponamus sacramentaliter, non transsubstantialiter. Similiter le 
+          <lb ed="#Z" n="21"/>gentes illud apostoli, Caro &amp; sanguis regni dei haereditatem consequi non possunt,  
+          <lb ed="#Z" n="22"/>ne ex his uerbis protinus pronunciemus, sed articulo fidei inherentes, Credo hu 
+          <lb ed="#Z" n="23"/>ius carnis resurrectionem, intelligamus per carnem &amp; sanguinem affectiones &amp;  
+          <lb ed="#Z" n="24"/>infirmitates, non naturam substantiamue carnis nostrae.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e468">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Deinde legimus dominum legis &amp; prophetarum summam colligere ac dicer 
+          <lb ed="#Z" n="26"/>in euangelio, Diliges dominum deum tuum, ex toto corde tuo, &amp; in tota anima tua 
+          <lb ed="#Z" n="27"/>&amp; in tota mente tua: hoc est primum &amp; magnum mandatum. Secundum autem si- 
+          <lb ed="#Z" n="28"/>mile est huic, Diliges proximum tuum sicut teipsum. In his duobus mandatis tota lex 
+          <lb ed="#Z" n="29"/>&amp; prophetae pendent. Matth. 22. Propter haec domini uerba beatus Aurel. August. 
+          <lb ed="#Z" n="30"/>li, de Doct. Christ. 5. cap. 36. Quisquis, inquit, scripturas diuinas uel quamlibet ea 
+          <lb ed="#Z" n="31"/>rum partem intellexisse sibi uidetur, ita ut eo intellectu non aedificet istam geminam  
+          <lb ed="#Z" n="32"/>charitatem dei &amp; proximi, nondum intellexit. Quisquis uero inde talem sententiam  
+          <lb ed="#Z" n="33"/>duxerit, ut huic aedificandae charitati sit utilis, nec tamen hoc dixerit quod ille 
+          <lb ed="#Z" n="34"/>quem legit eo loco sensisse probabitur, non perniciose fallitur, nec omnino mentitur 
+          <lb ed="#Z" n="35"/>Hoc Augustinus scriptum reliquit. Cauendum ergo modis omnibus ne nostra inter 
+          <lb ed="#Z" n="36"/>pretatio tendat in subuersionem charitatis, sed hanc puehat et omnibus comendet. 
+          <lb ed="#Z" n="37"/>Dixit quidem dominus, Ne restiteritis malo. Caeterum si haec uerba etiam magistratui 
+          <lb ed="#Z" n="38"/>dicta esse contendamus, uiolabitur &amp; e medio tolletur charitas proximi, periclitan 
+          <lb ed="#Z" n="39"/>tium salus, oppressorumque defensio. Nam latrones &amp; contumaces homines, raptores 
+          <lb ed="#Z" n="40"/>&amp; contumeliosi oppriment uiduas pupillos &amp; pauperes, regnabitque &amp; exultabit 
+          <lb ed="#Z" n="41"/>omnis iniquitas. Porro plurib. exeplis in re manifestissima non arbitror esse opus.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e509">
+          <lb ed="#Z" n="42"/><pc type="indent"/> Praeterea necessarium est in exponendis scripturis &amp; sensu genuino uerbi dei i 
+          <lb ed="#Z" n="43"/>indagando, expendere, qua occasione quid dicatur, quid praecedat, quid sequatur 
+          <lb ed="#Z" n="44"/>quo tempore aut modo, aut de qua persona aliquid dictum sit. Ex occasione, ex 
+          <lb ed="#Z" n="45"/>praecedentibus &amp; consequentibus sententijs exponuntur fere exempla &amp; 
+          para<lb ed="#Z" n="46" break="no"/>bolae. Imo nisi quis semper obseruet in omnibus scripturae locis contextum 
+          ora<lb ed="#Z" n="47" break="no"/>tionis, idque diligentissime, exponendo non poterit non plurimum a iusto aberrare 
+          <lb ed="#Z" n="48"/>tramite. Obseruauit S. Paulus circunstantiam temporis, &amp; inde conclusit Abra¬ 
+          <!--43.xml-->
+          <pb ed="#Z" n="10-v"/>
+          <lb ed="#Z" n="1"/>hamum neque circuncisione neque lege fuisse iustificatum. Loci extant Roma. 4. &amp; 
+          <lb ed="#Z" n="2"/>Galat. cap. 3. Rursus cum S. Petro dicitur, Conuerte gladium tuum in uaginam.  
+          <lb ed="#Z" n="3"/>Qui gladium sumit, gladio perit : considerandum est Petrum apostoli non magi 
+          <lb ed="#Z" n="4"/>stratus gerere personam. De magistratu enim legimus datum ei gladium ad 
+          uin<lb ed="#Z" n="5" break="no"/>dictam. Prolixum autem esset nedum laboriosum plura de singulis coaceruare exempla.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e543">
+          <lb ed="#Z" n="6"/><pc type="indent"/> His iam accedit &amp; alia ratio interpretandi uerbum dei, collatio uidelicet 
+          loco<lb ed="#Z" n="7" break="no"/>rum uel similium uel dissimilium, et quod obscuriores per clariores, item pauciores 
+          <lb ed="#Z" n="8"/>er plures sunt exponendi. Ergo cum dominus dicit, Pater maior me est, cogitandum 
+          <lb ed="#Z" n="9"/>est quod alibi idem dicit, Ego &amp; pater unum sumus. Cumque Iacobus apostolus dicit 
+          <lb ed="#Z" n="10"/>operibus &amp; Abrahamum &amp; nos iustificari, plures ex sancto Paulo loci huic sunt 
+          <lb ed="#Z" n="11"/>opponendi. Probauit hanc interpretandi rationem Petrus apost. dicens, Habemus 
+          <lb ed="#Z" n="12"/>firmiorem sermonem propheticum, cui dum attenditis, ceu lucernae in obscuro loco, 
+          <lb ed="#Z" n="13"/>recte facitis, donec dies illucescat &amp; lucifer exoriatur in cordibus uestris. 
+          Vetu<lb ed="#Z" n="14" break="no"/>stus scriptor Tertullianus author est, haereticos, non uiros orthodoxos, quaedam ex 
+          <lb ed="#Z" n="15"/>scripturis ad suam sententiam decerpere, ac caetera non intueri. Ita paucula sibi 
+          <lb ed="#Z" n="16"/>deligere testimonia, quibus omnino credi postulent, reclamante interim tota scri 
+          <lb ed="#Z" n="17"/>ptura, cum oporteat secundum plura intelligi pauciora.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e573">
+          <lb ed="#Z" n="18"/><pc type="indent"/> His omnibus addimus iam omnium efficacissimum uerbum dei exponendi 
+          ca<lb ed="#Z" n="19" break="no"/>nonem, pectus dei &amp; gloriae eius amans, non superbum, non ambitiosum, non 
+          hae<lb ed="#Z" n="20" break="no"/>resibus, non prauis corruptum affectibus: quod precibus indesinentibus uocet spi 
+          <lb ed="#Z" n="21"/>ritum sanctum, per quem prodita &amp; inspirata est scriptura, ut per eundem etiam ex 
+          <lb ed="#Z" n="22"/>plicetur ad gloriam dei &amp; fidelium incolumitatem. Ardeat interpretis animus studio 
+          <lb ed="#Z" n="23"/>prouehendi uirtutes, &amp; odio omnium scelerum, eaque opprimendi. Ne admittat huius 
+          <lb ed="#Z" n="24"/>modi interpretis pectus in consilium sophistam diabolum, qui sensum uerbi dei, nunc 
+          <lb ed="#Z" n="25"/>quoque, sicuti olim in paradiso, corrumpat. Ne audiat humanam sapientiam directe 
+          <lb ed="#Z" n="26"/>spiritui dei contradicentem. Haec si fecerit bonus &amp; fidelis interpres uerbi dei, 
+          e<lb ed="#Z" n="27" break="no"/>tiamsi alicubi non attigerit (quod dici solet) acu occultiorem scripturae sensum, 
+          <lb ed="#Z" n="28"/>error tamen ille nec damnandus erit nec perniciosus iudicabitur. Et quisquis oc 
+          <lb ed="#Z" n="29"/>cultiorem &amp; magis proprium scripturae sensum protulerit, imperfectiorem tamen 
+          il<lb ed="#Z" n="30" break="no"/>lius sensum non damnabit: quemadmodum &amp; hic, imperfectioris uidelicet sensus 
+          <lb ed="#Z" n="31"/>author, magis proprium non reiiciet, sed agnoscens recipiet cum gratiarumactione.
+        </p>
+        <p xml:id="UD1xh4-IdVJ9u-d1e607">
+          <lb ed="#Z" n="32"/><pc type="indent"/> Ista diximus hucusque de sensu &amp; expositone uerbi dei: quod ut hominibus re 
+          <lb ed="#Z" n="33"/>uelauit deus, ita illud omnino uult intelligi. Vnde non est quod quisquam despe 
+          <lb ed="#Z" n="34"/>ret de genuino sensu scripturae, propter aliquot difficultates, assequendo. Admit- 
+          <lb ed="#Z" n="35"/>tit piam &amp; religiosam interpretationem scriptura. Verbum dei recula est uitae om 
+          <lb ed="#Z" n="36"/>nium hominum &amp; temporum. Omnibus ergo temporibus &amp; omnibus hominibus 
+          <lb ed="#Z" n="37"/>interpretando applicandum est. Nam ipse etiam deus noster legem quam in mon 
+          <lb ed="#Z" n="38"/>te Sina tulerat aut promulgarat, multis per Mosen exposuit, populoque suo 
+          apta<lb ed="#Z" n="39" break="no"/>uit. Praeterea celebre fuit uetustis prophetis &amp; legem dei populo praelegere, &amp; ex- 
+          <lb ed="#Z" n="40"/>plicando aptare. Exposuit scripturas ipse quoque dominus noster Iesus Christus, 
+          <lb ed="#Z" n="41"/>Exposuerunt easdem &amp; Apostoli. Exponendum est itaque uerbum dei: quod qui 
+          <lb ed="#Z" n="42"/>exponi nolunt, uolunt utique peccare impune. Caeterum quia expositonem 
+          reci<lb ed="#Z" n="43" break="no"/>pit scriptura, non quamlibet recipit: humanam enim repellit. Sicut enim 
+          scriptu<lb ed="#Z" n="44" break="no"/>ra reuelata est ex spiritu dei, ita per eundem ipsam explanare conuenit. Sunt itaque 
+          <lb ed="#Z" n="45"/>Canones aliquot pie exponendi uerbum dei ex ipso uerbo dei: nempe ne 
+          exposi<lb ed="#Z" n="46" break="no"/>tio fidei articulis contradicat, aut cum charitate dei &amp; proximi pugnet: sed ut 
+          cir<lb ed="#Z" n="47" break="no"/>cumspecta sit, petita ex praecedentibus &amp; consequentibus, diligenter pensitatis 
+          <lb ed="#Z" n="48"/>omnibus circunstantijs, locorumque collatione. In primis aunt necesse est pectus in¬ 
+          <!--44.xml-->
+          <pb ed="#Z" n="11-r"/>
+          <lb ed="#Z" n="1"/>terpretis pium sit, uirtutes plantatas uitiaque extirpata modis omnibus uelit, 
+          de<lb ed="#Z" n="2" break="no"/>nique quod iuges fundat ad dominum preces, ut is animos nostros illuminet, quo 
+          <lb ed="#Z" n="3"/>glorificetur nomen dei in omnibus. Ipsius est enim gloria, honor &amp; regnum, in sae 
+          <lb ed="#Z" n="4"/>cula saeculorum, Amen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

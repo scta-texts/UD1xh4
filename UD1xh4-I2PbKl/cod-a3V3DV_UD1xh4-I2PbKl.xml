@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 6</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 6</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="120-v"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-I2PbKl"><!-- d3s6 --> 
+        <head xml:id="UD1xh4-I2PbKl-Hd1e106">Sermo 6</head>
+        <head xml:id="UD1xh4-I2PbKl-Hd1e109" type="question-title">
+       De Sacramentis Iudaeorum, de Sacrificiorum generibus uarijs, 
+       ex alijs quibusdam pertinentibus sub legem Caeremoniarum.
+      </head>
+        <p xml:id="UD1xh4-I2PbKl-d1e112">
+          <lb ed="#Z" n="41"/><pc type="indent"/> De Sacramentis Iudaeorum, de Sacrificiorum generibus uarijs, ex alijs quibusdam 
+          pertinen<lb ed="#Z" n="42" break="no"/>tibus sub legem Caeremoniarum. SERMO VI 
+          <lb ed="#Z" n="43"/>IXI sermone proximo de Personis sacris, ministris inquam diuini cul 
+          <lb ed="#Z" n="44"/>tus, sacerdotibus Leuiticis, item de loco &amp; tempore sacro: restat iam 
+          ip<lb ed="#Z" n="45" break="no"/>sa res consideranda, quam personae illae sacrae, in loco &amp; tempore sacro, 
+          <lb ed="#Z" n="46"/>l exercebant, ipse inquam cultus &amp; ritus sacer, ab ipso domino sic insti¬ 
+          <!--264.xml-->
+          <pb ed="#Z" n="121-r"/>
+          <lb ed="#Z" n="1"/>tutus traditus &amp; praescriptus, ut omnes intellexerint quid cultus deo, id est 
+          qua<lb ed="#Z" n="2" break="no"/>lem cultum ei exhibeant. Veniunt autem hic consideranda in primis 
+          sacramen<lb ed="#Z" n="3" break="no"/>ta, deinde sacrificia.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e139">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Sacramenta ueteri ecclesiae sanctorum fuerunt duo praecipua, Circuncisio &amp; Pari 
+          <lb ed="#Z" n="5"/>cha, De singulis sigillatim dicemus, quod loqui dederit ex suo uerbo dominus,
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e147">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Erat autem Circuncisio actio sacra, qua resecabatur praeputium in obsignati 
+          <lb ed="#Z" n="7"/>nem diuini cum hominibus foederis. Vel ut copiosius describamus, Circuncisio 
+          <lb ed="#Z" n="8"/>erat signum aeterni foederis dei, quod dabatur in membro genitali, in hoc institu 
+          <lb ed="#Z" n="9"/>ta diuinitus, ut testaretur bonam dei erga circuncisos uoluntatem, moneretque 
+          re<lb ed="#Z" n="10" break="no"/>generationis &amp; puritatis, adeoque &amp; confoederatos dei separaret ab alijs populis 
+          <lb ed="#Z" n="11"/>seu gentibus.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e165">
+          <lb ed="#Z" n="12"/><pc type="indent"/> Author ergo Circuncisionis deus est : origo uetustissima. Etenim ipse in euan 
+          <lb ed="#Z" n="13"/>gelio dominus, Non ex Mose, inquit, est Circuncisio, sed ex patribus, Repetijt 
+          qui<lb ed="#Z" n="14" break="no"/>dem &amp; reparauit Circuncisionis legem seu morem Moses, sed primus 
+          circunci<lb ed="#Z" n="15" break="no"/>sus est eximius ille dei amicus Abraham cum annum uitae ageret nonagesimum 
+          <lb ed="#Z" n="16"/>nonum, ac eo ipso die est circuncisus, quo dominus foedere cum Abraham inito 
+          <lb ed="#Z" n="17"/>circuncisionem instituisset. Nam hanc adiecit ceu sigillum foederi, quod 
+          pepige<lb ed="#Z" n="18" break="no"/>rat cum Abraham &amp; femine eius in saeculum. Locus extat Gene. 17. Annus is 
+          e<lb ed="#Z" n="19" break="no"/>rat ab origine rerum 2046. a diluuio autem 300. cum Sem filius Noe natus esset 
+          <lb ed="#Z" n="20"/>annos 487. Ergo Moses post institutam circuncisionem, nimirum post annos 320. 
+          <lb ed="#Z" n="21"/>demum natus deprehenditur: unde apparet patres usurpasse Circuncisionem an 
+          <lb ed="#Z" n="22"/>te legem latam annis circiter 400.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e192">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Quoniam uero Circuncisio addita est foederi icto inter deum &amp; Abrahamum  
+          <lb ed="#Z" n="24"/>signum uel sigillum, paucis &amp; in transcursu perstringenda est nobis eius foederis 
+          <lb ed="#Z" n="25"/>ratio. Imitatur deus in pangendis foederibus, ut &amp; in alijs rebus, morem seu ritum  
+          <lb ed="#Z" n="26"/>hominum. Hi foederibus ceu uinculis arctissimis firmissimisque sese constringunt 
+          <lb ed="#Z" n="27"/>in unius corporis aut populi societatem atque compagem, qua ut ipsis bene sit tutique  
+          <lb ed="#Z" n="28"/>contra omnium iniurias agat, mutuo sibi communicant uitam ipsam simul &amp; for 
+          <lb ed="#Z" n="29"/>tunas omnes. Atque in his diserte exprimitur qui coaluerint foedere, quibus condi 
+          <lb ed="#Z" n="30"/>tionibus coierint, &amp; quousque. Proinde cum deus humano generi gratiam suam 
+          de<lb ed="#Z" n="31" break="no"/>clarare uellet, &amp; se totum &amp; omnia sua bona ei communicare adeoque in nos ef- 
+          <lb ed="#Z" n="32"/>fundere, ut nobis bene sit, foedus init cum homine. Id autem non primo inijt cum 
+          <lb ed="#Z" n="33"/>Abrahamo, sed cum hoc renouauit uetus. Pepigit autem primo cum patre om- 
+          <lb ed="#Z" n="34"/>nium nostro Adamo, tum cum ipsum iam profugum in gratiam reciperet, filiumque 
+          <lb ed="#Z" n="35"/>unigenitum promitteret, in quo orbi placari &amp; per quem se totum nobis 
+          impen<lb ed="#Z" n="36" break="no"/>dere uellet, omnia bona sua nobis communicando: &amp; uicissim nos sibi fide &amp; obe 
+          <lb ed="#Z" n="37"/>dientia obstringendo. Hoc foedus primum &amp; uetustissimum reparauit deinde cum  
+          <lb ed="#Z" n="38"/>Noe, postea fere clarius cum beato Abrahamo. Sed &amp; post annos 400. sub Mose 
+          <lb ed="#Z" n="39"/>ad montem Sinai idem rursus est reparatum, conditionibus foederis copiosius in 
+          <lb ed="#Z" n="40"/>Tabulas geminas relatis, adiectis simul caeremonijs multis. Excellentissime uero 
+          <lb ed="#Z" n="41"/>omnium purissime &amp; clarissime idem hoc illustrauit tandem ipse dominus 
+          no<lb ed="#Z" n="42" break="no"/>ster &amp; saluator Iesus Christus, qui caeremonias, typos, figuras &amp; umbras omnes 
+          <lb ed="#Z" n="43"/>expunxit rursus, ueritatem substituit, omniaque perfectissime impleuit, redactis 
+          o<lb ed="#Z" n="44" break="no"/>mnibus salutis nostrae &amp; pietatis uerae capitibus in breue compendium, quod 
+          e<lb ed="#Z" n="45" break="no"/>tiam nouum foedus seu nouum testamentum, nimirum propter innouationem 
+          <lb ed="#Z" n="46"/>&amp; impletionem omnium, ueterumque caeremoniarum abrogationem, 
+          nuncupa<lb ed="#Z" n="47" break="no"/>uit. In eo solus praedicatur Christus perfectio &amp; plenitudo omnium: in eodem 
+          ni<lb ed="#Z" n="48" break="no"/>hil post fidem &amp; charitatem exigitur, libertasque pijs conceditur sancta &amp; admiranda, 
+          <!--265.xml-->
+          <pb ed="#Z" n="121-v"/>
+          <lb ed="#Z" n="1"/>De qua re alias. Sed redimus iam ad foedus cum Abrahamo reparatum.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e258">
+          <lb ed="#Z" n="2"/><pc type="indent"/> Diserte in hoc indicatur nobis qui coierint foedere, Deus inquam uiuus, eter. 
+          <lb ed="#Z" n="3"/>nus, omnipotens ac summus rerum conditor conseruator &amp; moderator: ac 
+          Abra<lb ed="#Z" n="4" break="no"/>hamus cum uniuerso suo semine: id est cum omnibus cui. scunque gentis &amp; natio  
+          <lb ed="#Z" n="5"/>nis sint fidelibus. Ita enim exponit apostolus semen Abrahae, praesertim cum 
+          Ga<lb ed="#Z" n="6" break="no"/>latis dicit, Si Christi estis, igitur seen Abrahae estis, &amp; iuxta promisionem 
+          hae<lb ed="#Z" n="7" break="no"/>redes. 
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e275">
+          <lb ed="#Z" n="8"/><pc type="indent"/> Iam etiam tempus constituitur quo duret hoc foedus, adeoque nullum tempus 
+          <lb ed="#Z" n="9"/>definitur. Est enim aeternumiQuanquam enim multa accesserint in renouationi 
+          <lb ed="#Z" n="10"/>bus declarationibusque foederis, ceu accessoria, quae postea euanuerunt, praesertim 
+          <lb ed="#Z" n="11"/>Christo ueniente in carnem, in sub stantialibus tamen nihil inuenias mutatum,.  
+          <lb ed="#Z" n="12"/>Deus enim semper est deus sui populi: semper ab eo flagitat ac requirit fidelem obe 
+          <lb ed="#Z" n="13"/>dientiam. Id quod in nouo testamento omnium significantissime perspicitur.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e292">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Capita enim siue conditiones huius foederis duo duntaxat ex praecipuis po 
+          <lb ed="#Z" n="15"/>nuntur. Prima exponit quid deus polliceatur, &amp; quid nobis confoederatis uelit 
+          <lb ed="#Z" n="16"/>praestare, quid inquam ex pectemus adomino. Secunda continet officium hominis,  
+          <lb ed="#Z" n="17"/>quod deo debet confoederato &amp; principi suo. Ergo quod deum attinet, Ego, inquit  
+          <lb ed="#Z" n="18"/>ero deus tuus, &amp; Saddai, id est omnisuffcientia, quidem: tuus inquam deus &amp; feminis 
+          <lb ed="#Z" n="19"/>tui post te. Sibi sifficiens est deus ad absolutissimam perfectionem &amp; beatitudinem, neque 
+          <lb ed="#Z" n="20"/>indiget alieno subsidio, cum quod uspiam est, ex ipso sit etper ipsum subsistat. Solus 
+          <lb ed="#Z" n="21"/>sufficit homini deus, solus praestat quaecunque sunt in uotis hominum, &amp; ad 
+          perfe<lb ed="#Z" n="22" break="no"/>ctam felicitatem pertinent. Vnde &amp; quondam ab Ethnicis Saturnus ( fortassis 
+          <lb ed="#Z" n="23"/>ex occasione uocabuli Saddai) est nuncupatus, a saturando haud dubie. Solus 
+          e<lb ed="#Z" n="24" break="no"/>nim saturare potest, qui est satietas &amp; perfectio. Quod autem feminis Abrabae 
+          fu<lb ed="#Z" n="25" break="no"/>turus sit omnisufficientia deus, demonstrat duplici argumento. Principio, Dabo 
+          <lb ed="#Z" n="26"/>semini tuo terram Chanaan. Qua promissione comprehendit omnia beneficia 
+          ter<lb ed="#Z" n="27" break="no"/>rena &amp; corporalia, nempe facultates amplas, felicitatem, tranquillitatem, rerum  
+          <lb ed="#Z" n="28"/>abundantiam, sanitatem, gloriam, splendidas uictorias, &amp; quaecunque ad conserua 
+          <lb ed="#Z" n="29"/>tionem beatitudinemque hominis temporalem pertinent. At quomodo haec praesti 
+          <lb ed="#Z" n="30"/>terit semini Abrahae, multis illustrat historia sacra: eo modo declaranis, deum 
+          ue<lb ed="#Z" n="31" break="no"/>rum seminis Abrahae fuisse ita ut promiserat deum. Deinde promituit semen in 
+          <lb ed="#Z" n="32"/>quo benedicendae sint omnes gentes terrae : nimirum promittit saluatiorem C hri- 
+          <lb ed="#Z" n="33"/>stum, quem &amp; antea Adamo promiserat. Benedicere uero, est omni benedictione 
+          <lb ed="#Z" n="34"/>spirituali ditare: quo comprehendit omnia dona dei spiritualia, rem, ssionem 
+          pec<lb ed="#Z" n="35" break="no"/>catorum, innouationem uitae, &amp; gloriam aeternam. Benedicere est &amp; maledictio¬  
+          <lb ed="#Z" n="36"/>nem tollere: ita ut hoc idem polleat cum illo, quod dicebatur Adamo, Semen mu 
+          <lb ed="#Z" n="37"/>lieris calcabit caput serpentis. Veteris enim draconis caput nil aliud est, quam uis 
+          <lb ed="#Z" n="38"/>&amp; regnum sathanae. Vis eius est maledictio peccatum &amp; mors. Calcato ergo 
+          capi<lb ed="#Z" n="39" break="no"/>te, maledictio est sublata, &amp; succedit benedictio. His inquam declarat se sore deum 
+          <lb ed="#Z" n="40"/>Abrahae &amp; feminis eius.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e354">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Secunda foederis inter deum &amp; hominem initi conditio homini praescribit 
+          <lb ed="#Z" n="42"/>quid agat, &amp; quomodo se gerat erga principem &amp; confoederatum suum, nempe 
+          <lb ed="#Z" n="43"/>deum Ambula, inquit, coram me, &amp; esto integer. Ambulant autem coram deo,  
+          <lb ed="#Z" n="44"/>qui omnem uitam suam, dicta &amp; facta sua omnia instituunt ad uoluntatem 
+          dei<lb ed="#Z" n="45" break="no"/>Ea est, ut simus integri. Paratur illa integritas fide, spe et charitate: in quibus com  
+          <lb ed="#Z" n="46"/>prehenduntur omnia officia sanctorum dei confoederatorum. Docet ergo 
+          poste<lb ed="#Z" n="47" break="no"/>rior illa conditio foederis, quid agant foederati, que modo se gerant coram domino, 
+          <lb ed="#Z" n="48"/>nimirum habeant illum pro deo suo, adhaereant ei soli qui est omnisufficientia,. 
+          <!--266.xml-->
+          <pb ed="#Z" n="122-r"/>
+          <lb ed="#Z" n="1"/>inuocent solum, colant unum, &amp; ex Messia expectent sanctificationem, uitamque 
+          <lb ed="#Z" n="2"/>perennem. Hae foederis conditiones erant: quibus nondum coniuncta erat 
+          caere<lb ed="#Z" n="3" break="no"/>moniarum turba, quae postea sub ducatu Mosis accessit.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e387">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Huic confoederationi addidit signum, adeoque sigillum dominus ipsam Circun 
+          <lb ed="#Z" n="5"/>cisionem. Sigilla appenduntur tabulis fidei faciendae aut confirmandae gratia. Ta 
+          <lb ed="#Z" n="6"/>bulae continent &amp; exhibent omnem totius foederis rationem. Circuncisio ergo et 
+          <lb ed="#Z" n="7"/>tabularum loco &amp; signi uice adiecta est foederi, eoque nomine foedus ipsum 
+          appel<lb ed="#Z" n="8" break="no"/>latur : sicuti literae uel tabulae foederis apud nos quoque uulgariter uocantur die 
+          <lb ed="#Z" n="9"/>ptnot, ipsum inquam foedus, cum nihil aliud sint quam literae foederis, omnem 
+          ra<lb ed="#Z" n="10" break="no"/>tionem foederis scripto comprehendentes, et sigillo confirmantes. Verum uulga 
+          <lb ed="#Z" n="11"/>re hoc est quod signa rerum signatarum nomina accipiunt, ut nihil mirum sit 
+          cir<lb ed="#Z" n="12" break="no"/>cuncisionem appellari foedus, cum reuera foedus sit communio &amp; societas quam  
+          <lb ed="#Z" n="13"/>cum deo habemus. Gene. 17. ita loquitur de signo hoc dominus, Hoc est foedus 
+          <lb ed="#Z" n="14"/>meum quod obseruabitis inter me &amp; inter uos, atque inter semen tuum post te. 
+          Cir<lb ed="#Z" n="15" break="no"/>cuncidetur in uobis omnis masculus. Circuncidetis autem carnem praeputij 
+          ue<lb ed="#Z" n="16" break="no"/>stri: &amp; erit in signum foederis inter me &amp; uos &amp;c. En Circuncisio in hisce uerbis do 
+          <lb ed="#Z" n="17"/>mini primum foedus, deinde signum foederis explicandi gratia nuncupatur. Non 
+          <lb ed="#Z" n="18"/>alia ratione appellat eandem S. Stephanus in Actis cap. 7. testamentum,
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e423">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Sed &amp; modus Circuncisionis indicatur, Circuncidetis, inquit, carnem praept 
+          <lb ed="#Z" n="20"/>tij uestri. Nam glandem, quae summitas est penis, menbri inquam uirilis, cutis ue 
+          <lb ed="#Z" n="21"/>pellis obtegit aut ambit, prominens nonihil, ea uocatur praeputium, eo quod prae 
+          <lb ed="#Z" n="22"/>emineat. Hanc pelliculam resecabant cultro petrino, nudabantque glandis summ 
+          <lb ed="#Z" n="23"/>tatem, Refectio inquam illa, putatio &amp; incisio, dicta est Circuncisio. Quis uero 
+          <lb ed="#Z" n="24"/>amputarit pelliculam, non exprimitur. Apparet autem honoratissimum quenque 
+          <lb ed="#Z" n="25"/>in domo aut gente, ipsum inquam primogenitum aut patremfamilias, ante legem,  
+          <lb ed="#Z" n="26"/>in lege sacerdotes circuncidisse. Singulare est quod Sipora uxor Mosis circunci 
+          <lb ed="#Z" n="27"/>dit, Exod. 4. cap. lam &amp; tempus indicatur circuncisionis, dies octaua, cum puer 
+          <lb ed="#Z" n="28"/>recens natus ualidior paulo esset factus. Caeterum circuncidisse illos non ferreis,  
+          <lb ed="#Z" n="29"/>sed petrinis cultris, colligimus ex 5. capite losue: ubi dominus aperte iubet filios 
+          <lb ed="#Z" n="30"/>lzraelis circuncidere cultris petrinis. At deum nihil mutare in caeremonia 
+          sacra<lb ed="#Z" n="31" break="no"/>mentorum, claret ex ipsis sacramentorum ritibus : unde coniicimus etiam 
+          Abra<lb ed="#Z" n="32" break="no"/>hamum non alijs quam petrinis usum esse cultris, praesertim cum &amp; &amp;ipora uxor 
+          <lb ed="#Z" n="33"/>Mosis petra filium circuncidisse legatur. Alias ludaeorum nugas, quas hic 
+          spar<lb ed="#Z" n="34" break="no"/>gunt, data opera transimus intactas. Indignae enim sunt quae audiantur, nec quic 
+          <lb ed="#Z" n="35"/>quam habent mysterij. Petrinus autem culter confert ad mysterium 
+          cicuncisio<lb ed="#Z" n="36" break="no"/>nis explicandum.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e466">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Mysterium enim &amp; significationem certissimam habuit circuncisio. Principio 
+          <lb ed="#Z" n="38"/>enim significabatur Circuncisione, impuram &amp; corruptam esse totam siue uni 
+          <lb ed="#Z" n="39"/>uersam hominis naturam, atque iccirco omnes homines opus habere putatione re 
+          <lb ed="#Z" n="40"/>generationeque. Hoc nomine dabatur in membro genitali. Nam omnes concipi 
+          <lb ed="#Z" n="41"/>mur &amp; nascimur filij irae in peccato originali. Nec quisquam a damnatione illa  
+          <lb ed="#Z" n="42"/>berat, nisi qui exors est peccati, nimirum benedictum semen dominus noster Ie 
+          <lb ed="#Z" n="43"/>sus Christus, conceptus e spiritu sancto, &amp; natus ex Maria uirgine: qui sanguine 
+          <lb ed="#Z" n="44"/>fuso (id quod in cruore circuncisionis praefigurabatur) emundat nos a peccato, 
+          <lb ed="#Z" n="45"/>&amp; facit haeredes uitae aeternae. Ac Circuncisio haec ualde oppugnat negantes ori- 
+          <lb ed="#Z" n="46"/>ginale peccatum: ualde impugnat tribuentes nostris uiribus iustitiam &amp; salutem, 
+          <lb ed="#Z" n="47"/>Si enim puri eramus, si nostris uiribus saluari potuimus, quid quaeso opus erat pa 
+          <lb ed="#Z" n="48"/>tres nostros putari. Quae putantur impura sunt uel superuacua. At nihil impuri 
+          <!--267.xml-->
+          <pb ed="#Z" n="122-v"/>
+          <lb ed="#Z" n="1"/>aut superuacui condidit deus. Condidit autem praeputium. Si malum esset 
+          prae<lb ed="#Z" n="2" break="no"/>putium, non condidisset deus hominem praeputiatum. Per se ergo malum non  
+          <lb ed="#Z" n="3"/>est nec superuacuum praeputium: sed significationi potius seruit praeputij 
+          inci<lb ed="#Z" n="4" break="no"/>sio, nimirum ut intelligeremus ex natiuitate &amp; natura nostra nos esse corruptos, 
+          <lb ed="#Z" n="5"/>nec purgari posse nisi gladio petrino. Certe hac de caussa data est circuncisio in 
+          <lb ed="#Z" n="6"/>hoc membro &amp; non in alio. Subiiciemus mox et aliam ex Lactantio caussam, cur in 
+          <lb ed="#Z" n="7"/>membro genitali data sit, &amp; non in alio mebro. Deinde significabat, imo &amp; attesta 
+          <lb ed="#Z" n="8"/>batur circuncisio, Deum omnipotentem ex mera gratia &amp; bonitate cohaerere indis 
+          <lb ed="#Z" n="9"/>solubili foederis nexu cum hominibus, quos uelit sanctificatos iustificare, omni- 
+          <lb ed="#Z" n="10"/>busque coelestibus donis locupletare per Christum. Ideo enim adhibebatur culter 
+          sa<lb ed="#Z" n="11" break="no"/>xeus siue petrinus. Christus enim seme illud benedictum est petra, ex qua unde pro 
+          <lb ed="#Z" n="12"/>fuunt purificantes, ac ipse nobis spiritu suo resecat quaecunque amicitiam inter nos 
+          <lb ed="#Z" n="13"/>&amp; deum mutuam impediunt: idem confert &amp; auget spem &amp; charitatem in side, ut deo 
+          <lb ed="#Z" n="14"/>coniungi &amp; cohaerere possimus in aeternum, quae est uere beata &amp; felix uita. Huc 
+          <lb ed="#Z" n="15"/>pertinent iam testimonia legis &amp; apostolorum. In Deut. cap. 30. dicit Moses, Circun 
+          <lb ed="#Z" n="16"/>cidet dominus deus tuus cor tuum &amp; cor seminis tui, ut diligas dominum deum tuum, 
+          <lb ed="#Z" n="17"/>Huius autem internae circuncisionis externa &amp; uisibilis signum erat. Denique Paulus 
+          <lb ed="#Z" n="18"/>de Abrahamo loquens, dicit, Et accepit signum circuncisionis, signaculum iustitiae 
+          <lb ed="#Z" n="19"/>fidei, quae fuerat in praeputio, ut esset pater omnium credentium per preputium, ut im 
+          <lb ed="#Z" n="20"/>putaretur &amp; illis iustitia. Et caetera. En circuncisio Ahrahae erat signaculum quod 
+          <lb ed="#Z" n="21"/>deus gratia sua iustificarat Abraham: quam iustificationem fide receperat, &amp; 
+          recepe<lb ed="#Z" n="22" break="no"/>rat quidem antequam circuncideretur, in argumentum quod qui praeputiati credunt,  
+          <lb ed="#Z" n="23"/>iustificantur cum fideli Abraham: &amp; rursus qui circunciduntur ludaei, sciant se per 
+          <lb ed="#Z" n="24"/>fidem iustificari a deo. Ideoque dabatur circuncisio in ipsum hominis corpus, ut in cor 
+          <lb ed="#Z" n="25"/>pore gereret foedus dei, admonereturque gratia per fidem se iustificari. Vnde illud 
+          <lb ed="#Z" n="26"/>quoque colligimus gratiam dei &amp; iustificationem hominis pij, non fuisse alligatam signo. 
+          <lb ed="#Z" n="27"/>Alioqui enim Ahraham non fuisset iustificatus ante circuncisionem, sed in ipsa de 
+          <lb ed="#Z" n="28"/>mum circuncisione, Preterea non praecepisset dominus, qui uult homines saluos 
+          <lb ed="#Z" n="29"/>facere, octaua demum die circuncidere. Multi enim pueri ante diem octauam ex 
+          <lb ed="#Z" n="30"/>cedebant e uiuis, neque perueniebant ad circuncisionem, qui tamen non condemnaban 
+          <lb ed="#Z" n="31"/>tur. Quibus accedit quod Sara, Rebecca, Rahel, Iochabeth, et Maria soror Mosis,  
+          <lb ed="#Z" n="32"/>una cum innumeris alijs matronis &amp; uirginibus sanctis non potuerant circuncidi, 
+          <lb ed="#Z" n="33"/>&amp; tamen saluatae sunt per gratiam dei in fide uenturi Messiae. Ergo sacramento 
+          <lb ed="#Z" n="34"/>Circuncisionis gratia dei non fuit alligata: sed iceirco a sanctis ueteris ecclesie non 
+          <lb ed="#Z" n="35"/>spreta nec neglecta, sed usurpata in illum finem ad quem instituta erat, ut esset te 
+          <lb ed="#Z" n="36"/>stimonium &amp; sigillum gratuitae iustificationis in Christo uenturo, qui circuncidit 
+          <lb ed="#Z" n="37"/>spiritualiter sine manibus per spiritum sanctum.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e580">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Praeterea colligebat foris uisibiliter deus in unam ecclesiam qui 
+          circuncide<lb ed="#Z" n="39" break="no"/>bantur, ex quibus electos prius spiritus sui uinculo sibi copulauerat. Nam S. 
+          Pau<lb ed="#Z" n="40" break="no"/>lus hac de caussa appellauit populum unius religionis circuncisionem, ut claret 
+          <lb ed="#Z" n="41"/>in 15. cap. ad Romanos, &amp; ad Philippenses 3. Ergo per circuncisionem separauit 
+          <lb ed="#Z" n="42"/>suum populum ab infideli populo. Vnde incircuncisi uel praeputiati uocabulum 
+          <lb ed="#Z" n="43"/>abijt in probrum maximum &amp; conuitium intolerandum, perinde ut apud nos pro 
+          <lb ed="#Z" n="44"/>brum Canis. Incircuncisus enim uel preputiatus reputabatur pro impuro &amp; pro 
+          <lb ed="#Z" n="45"/>phano homine, alieno prorsus a deo &amp; a testamentis dei.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e601">
+          <lb ed="#Z" n="46"/><pc type="indent"/> Denique Circuncisio admonebat circuncisos per omnem uitam sui officij, nem  
+          <lb ed="#Z" n="47"/>peut cogitaret quisque apud se, quod nomen suum dedisset deo, ac 
+          sacramen<lb ed="#Z" n="48" break="no"/>tum dei portet in corpore suo. Hac enim de caussa &amp; in circunsione indebantur 
+          <!--268.xml-->
+          <pb ed="#Z" n="123-r"/>
+          <lb ed="#Z" n="1"/>nomina Israelitis. Clare enim apud Lucam ostenditur nomen &amp; Ioanni Baptistae 
+          <lb ed="#Z" n="2"/>&amp; saluatori nostro Iesu in circuncisione, sicuti &amp; Abraham hoc nominis Abraham, 
+          <lb ed="#Z" n="3"/>qui prius nuncupabatur Abram, fuisse datum. Admonebat hoc circuncisum sui 
+          <lb ed="#Z" n="4"/>officij, quippe qui dedisset nomen confoederato sibi deo, adeoque se iam inscriptum 
+          <lb ed="#Z" n="5"/>esse in registrum siue catalogum dei, cuius nomine iam censeatur: unde ex pacto 
+          <lb ed="#Z" n="6"/>&amp; officio uitam suam non pro sua libidine aut aliorum uoluntate, sed secundum 
+          <lb ed="#Z" n="7"/>uoluntatem dei instituere debeat, Requirebat enim foederis conditio, ne 
+          idolola<lb ed="#Z" n="8" break="no"/>tria &amp; peregrinis cultibus seipsos prophanarent circuncisi, ne impuritate uitae cor 
+          <lb ed="#Z" n="9"/>pora &amp;animas deo consecratas, polluerent, sed in uera fide perseuerantes, 
+          sancti<lb ed="#Z" n="10" break="no"/>tati studerent, poenitentiam agerent, deoque obedirent per omnia. Sic enim dicit 
+          <lb ed="#Z" n="11"/>Moses Deut. 19. Circuncidite preputium cordis uestri, &amp; ceruicem uestram ne 
+          in<lb ed="#Z" n="12" break="no"/>duretis amplius. Ad quae uerba alludens Ieremias in cap. 4. Circuncidimini do¬  
+          <lb ed="#Z" n="13"/>mino, inquit, &amp; auferte praeputia cordis uestri. Et Stephanus martyr infideles 
+          lu<lb ed="#Z" n="14" break="no"/>daeos obiurgans, Duri, inquit, ceruice, &amp; incircuncisi corde &amp; auribus. Vos sem, 
+          <lb ed="#Z" n="15"/>per resistitis spiritui sancto. Rectissime ergo S. Paulus apostolus ad Romanos 
+          2<lb ed="#Z" n="16" break="no"/>ostendit duplicem esse circuncisionem: alteram literae, carnis &amp; externam, quae ho 
+          <lb ed="#Z" n="17"/>minum fit manibus: alteram uero cordis, spiritus, &amp; internam, quae fit opera 
+          spiri<lb ed="#Z" n="18" break="no"/>tus sancti. Hac approbauit deus in suis, illam hac non praesente reprobauit. 
+          Vtra<lb ed="#Z" n="19" break="no"/>que ex praecedentibus satis iam clara est, ut pluribus non sit opus.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e657">
+          <lb ed="#Z" n="20"/><pc type="indent"/> Operaepretium uero facturum me existimaui, si in praesenti recitarem 
+          Cha<lb ed="#Z" n="21" break="no"/>ritati uestrae, priusquam hunc locum de Circuncisione concludam, uerba uetusti 
+          <lb ed="#Z" n="22"/>scriptoris Lactantij, quae de Circuncisione in hunc modum protulit lib. Instit. 
+          A<lb ed="#Z" n="23" break="no"/>cap. 17. Significabat Circuncisio, inquit, nudandum esse pectus, id est, aperto &amp;  
+          <lb ed="#Z" n="24"/>simplici corde oportere nos uiuere. Quoniam pars illa corporis, quae 
+          circuncidi<lb ed="#Z" n="25" break="no"/>tur, habet quandam similitudinem cordis, &amp; est pudenda: &amp; ob hanc caussam deus 
+          <lb ed="#Z" n="26"/>nudari eam iussit, ut hoc argumento nos admoneret ne inuolutum pectus 
+          habe<lb ed="#Z" n="27" break="no"/>remus, id est, ne quod pudendum facinus intra conscientiae secreta uelemus. Haec  
+          <lb ed="#Z" n="28"/>est cordis circuncisio, de qua prophetae loquuntur, quam deus a carne mortali ad 
+          <lb ed="#Z" n="29"/>animam transtulit, quae sola mansura est. Volens enim uitae ac saluti nostrae pro 
+          <lb ed="#Z" n="30"/>aeterna sua pietate consulere, poenitentiam in illa Circuncisione proposuit : ut si 
+          <lb ed="#Z" n="31"/>cor nudauerimus, id est, si peccata confessi satis deo fecerimus, ueniam consequa 
+          <lb ed="#Z" n="32"/>mur: quae contumacibus &amp; admissa sua celantibus denegatur ab eo, qui non 
+          fa<lb ed="#Z" n="33" break="no"/>ciem sicut homo, sed intima &amp; arcana pectoris intuetur. Haec hactenus uetustus 
+          <lb ed="#Z" n="34"/>ille ecclesiae scriptor Lactan. Firmianus de mysterio Circuncisionis nobis retulit.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e694">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Haec omnia quae diximus hucusque de significatione &amp; mysterio 
+          Circuncisio<lb ed="#Z" n="36" break="no"/>nis, omnium oculis ceu in tabula proponebantur contemplanda, quoties in eccle 
+          <lb ed="#Z" n="37"/>sia quondam frequentabatur Circuncisio, Renouabatur quasi ipsum dei foedus 
+          <lb ed="#Z" n="38"/>ictum cum hominibus. Praedicabatur dei gratia &amp; eius sanctificatio, nostra item  
+          <lb ed="#Z" n="39"/>corruptio: elucebat in his Petra Christus, qui spiritu suo omnes maculas ecclesiae 
+          <lb ed="#Z" n="40"/>resecat &amp; abluit. Praeterea discebant ex signo adeoque ex tota caeremonia sacra cul 
+          <lb ed="#Z" n="41"/>tores dei, quod uno in corpore existentes ecclesiastico, uitae puritate confoederato 
+          <lb ed="#Z" n="42"/>deo sese debebant approbare. Quandoquidem circuncisione uisibili 
+          quodammo<lb ed="#Z" n="43" break="no"/>do fiebat religionis uerae, &amp; consensionis in ueram religionem confessio, &amp; in 
+          ean<lb ed="#Z" n="44" break="no"/>dem obligatio. Ergo qui contempsisset aut temere neglexisset hanc sacram 
+          caere<lb ed="#Z" n="45" break="no"/>moniam, puniebatur grauissime: sicuti colligere licet ex Gen. 17. &amp; Exodi 4. cap.  
+          <lb ed="#Z" n="46"/>Haec de Circuncisione hactenus.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e724">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Sequitur secundum ecclesiae ueteris Sacramentum Pascha. Ea uox Hebraica  
+          <lb ed="#Z" n="48"/>est, non significans passionem, ut ex etymo Graeco uideri poterat, sed saltum,  
+          <!--269.xml-->
+          <pb ed="#Z" n="123-v"/>
+          <lb ed="#Z" n="1"/>transcensum, seu transitum. Nam nob significat transilire aut transcendere, 
+          Ra<lb ed="#Z" n="2" break="no"/>tionem huius uocabuli reddit ipse in lege Moses, dicens, Transibit dominus ut 
+          <lb ed="#Z" n="3"/>percutiat Aegyptios, &amp; ubi uiderit sanguinem in superliminari atque in duobus 
+          <lb ed="#Z" n="4"/>postibus, nogn, id est transiliet dominus ultra ianuam istam, &amp; non permittet 
+          in<lb ed="#Z" n="5" break="no"/>teremptorem uenire in domos uestras. Insignitur hoc sacramentum etiam alijs uo 
+          <lb ed="#Z" n="6"/>cabulis. Appellatur enim Signum, appellatur Memoria, item Celebritas ac 
+          araca<lb ed="#Z" n="7" break="no"/>Vuous. Coetus siue conuocatio sancta, Festum domini, Cultus &amp; Obseruatio, item 
+          <lb ed="#Z" n="8"/>Oblatio &amp; Sacrificium. Quod autem nuncupatur caeremonia illa transitus, non  
+          <lb ed="#Z" n="9"/>fit citra tropum. Nam Transitus illud ipsum est beneficium, quo angelus domini  
+          <lb ed="#Z" n="10"/>aedes ludaeorum transijt intactas, eorumque uitae pepercit: sed quoniam eius 
+          bene<lb ed="#Z" n="11" break="no"/>ficij memoria &amp; reparatio fuit, beneficij nomen induit. Sicuti prius admonui 
+          uul<lb ed="#Z" n="12" break="no"/>gare esse in negotio sacramentario, ut signa rerum signatarum nomina propter 
+          si<lb ed="#Z" n="13" break="no"/>militudinem &amp; analogiam mutuum accipiant.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e764">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Videamus modo quid sit Pascha, &amp; qualis fuerit eius caeremonia. Erat Pascha 
+          <lb ed="#Z" n="15"/>actio sacra diuinitus instituta in mactatione &amp; epulo agni, ad hoc ut retineretur 
+          <lb ed="#Z" n="16"/>in ecclesia memoria beneficij semel in Aegypto praestiti, deinde ut esset 
+          testimo<lb ed="#Z" n="17" break="no"/>nium diuinae erga fideles beneuolentiae, typum quoque Christo praeferret, denique 
+          <lb ed="#Z" n="18"/>participantes in unius corporis societatem colligeret, gratitudinisque &amp; 
+          innocen<lb ed="#Z" n="19" break="no"/>tiae admoneret.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e781">
+          <lb ed="#Z" n="20"/><pc type="indent"/> Author huius sacramenti ipse deus est, non homo ullus. Moses enim quae acce 
+          <lb ed="#Z" n="21"/>perat a domino tradidit filijs lsraelis: sicut copiose exponitur Exodi 12. cap. Ac eo 
+          <lb ed="#Z" n="22"/>quidem tempore Caeremoniam instituit, quo populum lzraelis ex Aegypto 
+          edu<lb ed="#Z" n="23" break="no"/>xit. Cumque authore deo profecta sit, consequens est omnia paschata insequuta, ad 
+          <lb ed="#Z" n="24"/>illud usque, quod cum suis discipulis proxime ante mortem suam dominus celebra 
+          <lb ed="#Z" n="25"/>uit, diuinas fuisse actiones. Carni &amp; sapientiae humanae multa imo omnia fere 
+          hu<lb ed="#Z" n="26" break="no"/>ius sacramenti uidentur absurda, &amp; superuacanea, caeterum fides quae in 
+          autho<lb ed="#Z" n="27" break="no"/>rem deum intendit oculos, omnia suspicit &amp; reueretur. Sicut enim deus summa 
+          <lb ed="#Z" n="28"/>&amp; perfectissima est sapientia, ita omnia &amp; singula eius instituta absolutissima &amp;  
+          <lb ed="#Z" n="29"/>inaestimabilis utilitatis sunt. 
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e806">
+          <lb ed="#Z" n="30"/><pc type="indent"/> Iam etiam tempus indicatur quo primum hoc sacrum sit traditum ecclesiae lsrae 
+          <lb ed="#Z" n="31"/>liticae, annus uidelicet 430. (a promisione nimirum Abrahae facta, siue ab eius pe 
+          <lb ed="#Z" n="32"/>regrinatione supputata) qui erat annus ab origine rerum 2447. a diluuio 7oi. 
+          <lb ed="#Z" n="33"/>Definitur praeterea tempus quando celebrandum sit pascha, nempe annis 
+          singu<lb ed="#Z" n="34" break="no"/>lis, mense Nisan, qui respondet partim nostro Martio, partim Aprili. Sed &amp; dies 
+          <lb ed="#Z" n="35"/>mensis indicatur, 14. mensis, supputatione nimirum inita ab aequinoctio uerno. 
+          <lb ed="#Z" n="36"/>Nam 10. die deligebant pecus ad festum, 14. die mactabant. Quid quod &amp; partem 
+          <lb ed="#Z" n="37"/>d:ei denotat, qua sit mactandum: nempe inter uesperas, nimirum a tertia nostra 
+          <lb ed="#Z" n="38"/>pomeridiana ad 5. usque, iuxta nostra horologia, iuxta ludaeorum supputationem 
+          <lb ed="#Z" n="39"/>a9. ad 1. usque. Ita uero expressum est Christum in fine mundi fore mactandum, imo 
+          <lb ed="#Z" n="40"/>ipse temporis articulus mortis seu immolationis eius ita praedictus est. Nam 
+          expi<lb ed="#Z" n="41" break="no"/>rauit circa horam 9. Vnde S. Petrus dixit, prophetas scrutatos esse ad quem aut  
+          <lb ed="#Z" n="42"/>cuiusmodi temporis articulum significaret spiritus Christi, qui in eis erat, Christum 
+          <lb ed="#Z" n="43"/>uenturum atque passurum.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e840">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Sed &amp; Locus certus erat huic sacro designatus. In Aegypto quidem sparsim 
+          <lb ed="#Z" n="45"/>per sodalitia in domibus eppulabantur. Vbi uero peruenissent in terram promis- 
+          <lb ed="#Z" n="46"/>sam, non licebat alibi quam apud tabernaculum, &amp; postea apud templum 
+          Hiero<lb ed="#Z" n="47" break="no"/>solymis celebrare pascha. Dispersi ergo Hierosolymis per aedes, sed per sodalitia 
+          <lb ed="#Z" n="48"/>ut &amp; Lucae 22. uidere licet, epulabantur. Illa praefigurabant Christum non nisi 
+          <!--270.xml-->
+          <pb ed="#Z" n="124-r"/>
+          <lb ed="#Z" n="1"/>semel immolandum in monte Caluariae, semper efficacem fore ad expianda 
+          po<lb ed="#Z" n="2" break="no"/>puli peccata.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e864">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Designantur item qui celebrent pascha, uniuersus nimirum lzraelis coetus  
+          <lb ed="#Z" n="4"/>circuncisus, per domos &amp; familias tanto collectus numero, quantus sufficiebat 
+          a<lb ed="#Z" n="5" break="no"/>gno absumendo. Nam ut Christus omnium est saluator, sic omnes sunt in caussa 
+          <lb ed="#Z" n="6"/>peccatores (sumus autem omnes peccatores) quod Christus dominus in ara 
+          cru<lb ed="#Z" n="7" break="no"/>cis est oblatus,
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e878">
+          <lb ed="#Z" n="8"/><pc type="indent"/> Praeterea multa fide &amp; diligentia describitur ritus epulandi mactandique agni.  
+          <lb ed="#Z" n="9"/>Principio deligebant sibi agnum hunc eumque ex agnis &amp; hoedis : deinde 
+          iugula<lb ed="#Z" n="10" break="no"/>bant eundem quinto post die: in pateram cruorem eius excipiebant, quem mox 
+          <lb ed="#Z" n="11"/>aspergillo hysopi postibus ianuae atque superliminari aspergebant. Agnum ipsum, 
+          <lb ed="#Z" n="12"/>non elixatum quidem aquis, sed assatum igni, &amp; integrum, hoc est caput cum 
+          pe<lb ed="#Z" n="13" break="no"/>dibus, nec non cum intestinis, publico edebant in epulo: additis lactucis siue 
+          ama<lb ed="#Z" n="14" break="no"/>ris herbis, &amp; pane azymo siue infermentato. Ipsi interim epulantes stabant, 
+          lum<lb ed="#Z" n="15" break="no"/>bos succincti, calceati, &amp; baculos tenentes in manibus. Caeterum edebant agnum 
+          <lb ed="#Z" n="16"/>hunc festinantissime: ossa nec confringebant, nec proijciebant canibus, sed 
+          exu<lb ed="#Z" n="17" break="no"/>rebant igni. Ex ipsis domibus a uespera usque mane nemo egrediebatur.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e903">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Haec fines suos, magna mysteria &amp; euidentem habuerunt significationem 
+          re<lb ed="#Z" n="19" break="no"/>rum praeteritarum, praesentium &amp; futurarum. Compingebant item totum coetum 
+          <lb ed="#Z" n="20"/>ecclesiasticum in unum corpus &amp; in unam religionis professionem: sed &amp; 
+          grati<lb ed="#Z" n="21" break="no"/>tudinis &amp; studij pietatis admonebant epulantes. Id quod per partes quanta 
+          <lb ed="#Z" n="22"/>possumus breuitate perstringemus.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e917">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Principio enim uoluit dominus retinere hoc epulo in memoria, &amp; quasi 
+          aeter<lb ed="#Z" n="24" break="no"/>nitati consecrare maximum illud beneficium, quod semel populo lzraelis in Ae- 
+          <lb ed="#Z" n="25"/>gypto contulit, illud inquam quod seruato suo populo mirabiliter, omnia 
+          Aegy<lb ed="#Z" n="26" break="no"/>ptiorum primogenita una nocte peremit, postera uero die suos ex Aegypto, ex 
+          du<lb ed="#Z" n="27" break="no"/>ra inquam seruitute, eduxit. Hoc beneficium non tantum uoluit praedicari uerbo 
+          <lb ed="#Z" n="28"/>scertum enim est eo festo conciones habitas ardentissimas de beneficijs dei) sed 
+          e<lb ed="#Z" n="29" break="no"/>tiam per actionem sacram siue caeremoniam, ceu per spectaculum &amp; picturam ui 
+          <lb ed="#Z" n="30"/>uam, omnium oculis proponere ac renouare. Nam uisibilis actio praedicationem 
+          <lb ed="#Z" n="31"/>quodammodo subijciebat oculis sensibusque alijs. Vnde Moses interpretans caere 
+          <lb ed="#Z" n="32"/>moniam &amp; actionem illam sacram, Cum filij uestri ad uos dixerint, ait, Quis hic 
+          <lb ed="#Z" n="33"/>cultus uester? Respondebitis, Victima haec transitus domini est, qui praeterijt 
+          do<lb ed="#Z" n="34" break="no"/>mos filiorum lzrael in Aegypto, cum caederet Aegyptios &amp; domos nostras 
+          li<lb ed="#Z" n="35" break="no"/>berauit.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e949">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Caeterum significatio haec fuit rei praeteritae, prinde non fuisset admodum 
+          uti<lb ed="#Z" n="37" break="no"/>lis insequentibus hominibus, quippe qui beneficium nihil ad se pertinens 
+          cele<lb ed="#Z" n="38" break="no"/>brasset, nisi idipsum &amp; singulis adaptasset saeculis. Voluit ergo deus hoc ueluti 
+          te<lb ed="#Z" n="39" break="no"/>stimonium extare apud posteros suae gratiae bonitatis &amp; liberationis perpetuae:  
+          <lb ed="#Z" n="40"/>nempe quod non tantum patrum uel maiorum fuerit deus, sed &amp; omnium 
+          quo<lb ed="#Z" n="41" break="no"/>que posterorum lsraelitarum deus esse, &amp; his quoque propter Christi sanguinem 
+          <lb ed="#Z" n="42"/>parcere, denique omnia ab eis depellere mala, &amp; omnia conferre bona &amp; uelit &amp; 
+          <lb ed="#Z" n="43"/>possit. Nam Psal. 136. in haec uerba legimus, Confitemini domino quoniam bonus 
+          <lb ed="#Z" n="44"/>est: quoniam in aeternum misericordia eius. Qui percussit Aegyptiorum primo¬  
+          <lb ed="#Z" n="45"/>genita: quoniam in aeternum misericordia eius. Et lsraelem eduxit e medio eorum, 
+          <lb ed="#Z" n="46"/>quoniam in aeternum misericordia eius. Manu ualida &amp; brachio extento: quoniam 
+          <lb ed="#Z" n="47"/>n aeternum misericordia eius. Ergo praeterito dei beneficio patribus collato, 
+          exci<lb ed="#Z" n="48" break="no"/>abant fidem suam posteri, fore ut &amp; ipsis misereretur &amp; benefaceret ex solita in¬ 
+          <!--271.xml-->
+          <pb ed="#Z" n="124-v"/>
+          <lb ed="#Z" n="1"/>genitaque misericordia sicuti &amp; patribus benefecerat. Eratque haec caeremonia non 
+          <lb ed="#Z" n="2"/>uulgare fidei exercitium.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e989">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Praeterea exhibebantur in his quoque futura Christilsaluatoris mysteria. Nam  
+          <lb ed="#Z" n="4"/>praefigurabatur quis futurus Christus, quid mundo collaturus, quomodo eius fi- 
+          <lb ed="#Z" n="5"/>ant participes pij, &amp; quomodo hi se gerant coram ipso. Etenim inter alia animalia 
+          <lb ed="#Z" n="6"/>multa, non aliud eligebatur huic sacramento magis idoneum quam agnus, non 
+          <lb ed="#Z" n="7"/>tam propter significationem simplicitatis &amp; patientiae in Christo, quam quod uicti 
+          <lb ed="#Z" n="8"/>ma est. Paulus enim, Pascha nostrum, inquit, immolatus est Christus. Agnus quo 
+          <lb ed="#Z" n="9"/>que iuxta legem mane &amp; uesperi immolabatur. Christus enim est agnus occisus 
+          <lb ed="#Z" n="10"/>ab origine mundi. De quo &amp; Baptista testificans dixit, Ecce agnus dei, qui tollit 
+          <lb ed="#Z" n="11"/>peccatum mundi. Et quoniam nos omnes sicuti oues errauimus, quisque in uiam  
+          <lb ed="#Z" n="12"/>suam, descendit ad nos filius dei, &amp; factus est ouis, nostrae scilicet substantiae atque 
+          <lb ed="#Z" n="13"/>naturae. Sed hic noster integer est &amp; purus, sine peccato &amp; uitio : conceptus e 
+          spi<lb ed="#Z" n="14" break="no"/>ritu sancto, natus ex Maria uirgine. Masculus erat &amp; anniculus: fortis nimirum,  
+          <lb ed="#Z" n="15"/>idem hodie &amp; heri &amp; idem usque in saecula, nimirum saluator uniuersi orbis. Sume 
+          <lb ed="#Z" n="16"/>batur ex agnis &amp; hoedis. Christus enim prognatus est ex peccatoribus &amp; iustis?  
+          <lb ed="#Z" n="17"/>sicuti commemorat Matthaeus in capite primo. Ac propter fusum sanguinem agni 
+          <lb ed="#Z" n="18"/>parcitur toti ecclesiae lsraelitarum. Nam sanguinem Christi oportuit fundi, ut pur 
+          <lb ed="#Z" n="19"/>garentur eius sanguine omnes fideles, iratusque pater proptereffusum cruorem 
+          par<lb ed="#Z" n="20" break="no"/>ceret toti ecclesiae. Idem aspergitur aspergillo hysopino, postibus &amp; superliminari 
+          <lb ed="#Z" n="21"/>domus. Contempta quidem &amp; humilis est herba hysopi: &amp; stulta uidetur 
+          humi<lb ed="#Z" n="22" break="no"/>lisque &amp; abiecta praedicatio euangelij: at per ipsam oportet nobis, qui sumus domus 
+          <lb ed="#Z" n="23"/>dei, aspergi siue praedicari sanguis Christi in remisionem peccatorum, 
+          Recipi<lb ed="#Z" n="24" break="no"/>mus autem agnum ad uitam, cum edimus, id est credimus Christum pro nobis esse 
+          <lb ed="#Z" n="25"/>passum. Nam fide editur Christus: id quod ipse fuse exponit Ioan. cap. 6. Agnus 
+          <lb ed="#Z" n="26"/>igni paratur non aqua: nec crudus, sed tostus comeditur. Non enim homo dunta 
+          <lb ed="#Z" n="27"/>xat, sed deus simul est uerus, uerum holocaustum. Potest is nos absoluere plene 
+          <lb ed="#Z" n="28"/>ut nostra additione nihil opus sit. Aquae &amp; plane frigida sunt nostra 
+          additamen<lb ed="#Z" n="29" break="no"/>ta. lam &amp; totus est edendus agnus, caput cum pedibus &amp; intestinis. Nisi enim cre 
+          <lb ed="#Z" n="30"/>damus Christum &amp; deum esse uerum, &amp; hominem uerum, sapientiam quoque &amp;  
+          <lb ed="#Z" n="31"/>iustitiam nostram, non totum edimus. Caput non edunt, qui Christum negant esse 
+          <lb ed="#Z" n="32"/>deum. Pedes non edunt, qui negant esse hominem. Intestina non edunt, qui non 
+          <lb ed="#Z" n="33"/>agnoscunt, quae intra Christum sunt &amp; fidelibus communicantur dona, iustitia 
+          <lb ed="#Z" n="34"/>uidelicet, sapientia, sanctificatio, redemptio &amp; uita. Ossa in agno nec 
+          confringe<lb ed="#Z" n="35" break="no"/>bantur nec proijciebantur canibus, sed cremabantur igni. Nam in Christo non est 
+          <lb ed="#Z" n="36"/>confractum os ullum. Id quod commemorat beatus Ioannes euangelicae historiae 
+          <lb ed="#Z" n="37"/>cap. 19. Latet in hoc praeterea mysterium. Licet enim pateretur filius dei, in eo quod 
+          <lb ed="#Z" n="38"/>pati potuit, in humanitate, in diuinitate tamen mansit impassibilis. Quae uero in 
+          <lb ed="#Z" n="39"/>Christo propter diuinitatis excellentiam non assequimur, merito ardenti 
+          prose<lb ed="#Z" n="40" break="no"/>quimur desiderio. Sed &amp; Christus cibus est animae rationalis fidelisque, non canibus 
+          <lb ed="#Z" n="41"/>&amp; impijs proiiciendus. Idem edendus est precipitanter, nec cunctandum. Nam pro 
+          <lb ed="#Z" n="42"/>tinus &amp; citra procrastinationem &amp; maximo cum desiderio manducandus est fi- 
+          <lb ed="#Z" n="43"/>de Christus. Simul autem praecipiuntur comedendae acidae herbae, cum panibus 
+          <lb ed="#Z" n="44"/>infermentatis. Nam fidelibus agenda est poenitentia uitae praeteritae malae, &amp; 
+          stu<lb ed="#Z" n="45" break="no"/>dendum porro puritati uitae, Sequitur enim copiosius quomodo nos geramus 
+          er<lb ed="#Z" n="46" break="no"/>ga redemptorem nostrum. Stantes edebant agnum, renibus uel lumbis 
+          accincti<lb ed="#Z" n="47" break="no"/>calceati quoque, &amp; baculos tenentes in manibus. Erat is habitus peregrinantium.¬ 
+          <lb ed="#Z" n="48"/>lta ergo nos in praesenti saeculo geramus oportet, ut decet peregrinos, qui hunc 
+          <!--272.xml-->
+          <pb ed="#Z" n="125-r"/>
+          <lb ed="#Z" n="1"/>mundum contemnunt, aliam inquirunt patriam. In itinere itaque temperantiae stu 
+          <lb ed="#Z" n="2"/>deant: muniti sint pedes eorum euangelio pacis, ac innitantur interim baculo di- 
+          <lb ed="#Z" n="3"/>uini auxilij, egredianturque qua possunt festinantia ex seruitute &amp; corruptione hu 
+          <lb ed="#Z" n="4"/>ius saeculi.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1106">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Haec eadem caeremonia erat quasi confessio religionis uerae, &amp; tessera quae ab  
+          <lb ed="#Z" n="6"/>alijs populis &amp; gentibus dei populum separabat. Ergo colligebantur omnes lsrae¬  
+          <lb ed="#Z" n="7"/>litae in unam ecclesiam &amp; societatem: in qua pascha celebrantes, profitebantur se 
+          <lb ed="#Z" n="8"/>esse dei redemptos, dei libertos &amp; populum. Huc enim pertinet quod praecipitur 
+          <lb ed="#Z" n="9"/>ne ex illo ullus edat extraneus : sed ut circuncisi duntaxat de eo participent: ne 
+          <lb ed="#Z" n="10"/>diuidatur in partes, neue alibi quam uno in loco edatur, &amp; edatur quidem per so 
+          <lb ed="#Z" n="11"/>dalitia ab uniuerso lsraele : rursus ne quis exeat ex aedibus usque mane. Qua re 
+          sig<lb ed="#Z" n="12" break="no"/>nificabatur extra ecclesiam in sectis &amp; schismatis haereticorum nec Christum 
+          inue<lb ed="#Z" n="13" break="no"/>niri, nec salutem. Christus agnus ille dei colligit omnes in unam ecclesiam, &amp; 
+          reti<lb ed="#Z" n="14" break="no"/>net in ipsa, saluatque credentes.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1131">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Postremo admonebat hic ritus populum dei sui officij, gratitudinis praesertim  
+          <lb ed="#Z" n="16"/>&amp; studij pietatis, siue innocentiae. Agebant ergo deo gratias pro hoc &amp; pro alijs 
+          <lb ed="#Z" n="17"/>eius beneficijs, laudabant nomen eius: ac abstinebant in uniuersum ab omni 
+          fer<lb ed="#Z" n="18" break="no"/>mento. Nec legas quicquam prohibitum esse tam seueriter in hac caeremonia, quam  
+          <lb ed="#Z" n="19"/>ut abstineant a fermento. Qui comederit fermentatum, inquit, peribit anima eius 
+          <lb ed="#Z" n="20"/>de coetu lsraelis, tam de aduenis quam de indigenis terrae. Idem postea saepe 
+          repe<lb ed="#Z" n="21" break="no"/>titur &amp; inculcatur. Caeterum peritissimus &amp; doctissimus in lege Mosis apostolus 
+          <lb ed="#Z" n="22"/>Paulus, quid per fermentum sit significatum exponens, Itaque festum celebremus, 
+          <lb ed="#Z" n="23"/>inquit non in fermento ueteri, nec in fermento malitiae &amp; uersutiae, sed in panibus 
+          <lb ed="#Z" n="24"/>fermento carentibus, hoc est, synceritate &amp; ueritate. Haec hactenus de epulo agni 
+          <lb ed="#Z" n="25"/>paschalis.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1158">
+          <lb ed="#Z" n="26"/><pc type="indent"/> Sacramentis his accedunt porro sacrificia, eaque uaria &amp; multiplicia. Haec non  
+          <lb ed="#Z" n="27"/>primum ab ipso Mose sunt inuenta &amp; tradita, sed usurpata iam inde a rerum ori- 
+          <lb ed="#Z" n="28"/>gine. Nam Cain ex frugibus terrae, Abel uero e grege suo pecus obtulit in 
+          holo<lb ed="#Z" n="29" break="no"/>caustum domino conditori omnium. Ita &amp; Seth, Noe, Sem, Abraham, Isaac &amp; Ia 
+          <lb ed="#Z" n="30"/>cob, omnes denique patres domino sacrificasse creduntur. Certe cum Gentilitia siue 
+          <lb ed="#Z" n="31"/>Ethnica sacrificia, cum sacrificijs ludaeorum, uel ipsis ethnicis scriptoribus 
+          testifi<lb ed="#Z" n="32" break="no"/>cantibus, plurimum affinitatis &amp; similitudinis habere deprehendantur, non dissi 
+          <lb ed="#Z" n="33"/>mile uero est, gentium genearchas a primis suis patribus Semo, lapheto &amp; 
+          Cha<lb ed="#Z" n="34" break="no"/>mo, denique a sanctissimo patre Noe, sacrificandi ritum quemque ad suam detulisse 
+          <lb ed="#Z" n="35"/>gentem. Atqui indubitatum est sanctos patres ex seipsis hic confinxisse nihil, sed 
+          <lb ed="#Z" n="36"/>omnia accepisse ab authore omnis boni deo. Porro Moses sacrificiorum 
+          discrimi<lb ed="#Z" n="37" break="no"/>na species &amp; genera exactius distinxit, redegitque in ordinem certum. Quod autem 
+          <lb ed="#Z" n="38"/>fecit, deo authore fecit. Deus omnia tradidit Mosi. Nam liber Leuitici, in quo 
+          ma<lb ed="#Z" n="39" break="no"/>xime describuntur omnes sacrificiorum species, mox ab initio testatur Mosen a 
+          <lb ed="#Z" n="40"/>deo uocatum, a deo didicisse quaecunque tradidit de ritu sacrificandi. Sed &amp; Num,  
+          <lb ed="#Z" n="41"/>7. legimus, Cumque ueniret Moses in tentorium constitutionis, audiuit uocem 
+          col<lb ed="#Z" n="42" break="no"/>loquentis ad eum e propitiatorio.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1198">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Sicut autem modo dicere coeperam, sacrificia fuerunt uaria &amp; inter se 
+          distin<lb ed="#Z" n="44" break="no"/>cta, &amp; tamen habuerunt quaedam inter se communia &amp; generalia. Generale id 
+          e<lb ed="#Z" n="45" break="no"/>rat omnibus, quod non nisi uno in loco offerebantur. Generale erat, quod ex fide 
+          <lb ed="#Z" n="46"/>&amp; legitime, utique secundum uerbum dei offerri debuerunt. Generale erat, quod  
+          <lb ed="#Z" n="47"/>sacrificari praecipiebatur igne sacro, non alieno. Interierant filij Aaronis, Nadab 
+          <lb ed="#Z" n="48"/>&amp; Abihu, non alia de caussa, quam quod prophanum siue alienum ignem usur¬ 
+          <!--273.xml-->
+          <pb ed="#Z" n="125-v"/>
+          <lb ed="#Z" n="1"/>passent in sacris. Deus enim cum lzraelitae uel Leuitae primum sacrificarent 
+          iu<lb ed="#Z" n="2" break="no"/>xta ipsius mandatum in tabernaculo, demisso coelitus igne, sacrificandi ritum sic 
+          <lb ed="#Z" n="3"/>approbauit. Vnde Leuit. 6. cap. praecipitur ut sacerdotes perpetuum ignem 
+          foue<lb ed="#Z" n="4" break="no"/>ant in tabernaculo siue templo. Id quod &amp; Ethnicos inepta imitatione exprimere 
+          <lb ed="#Z" n="5"/>uoluisse constat, dum Virgines Vestales Romae perpetuum iuberent fouere 
+          ig<lb ed="#Z" n="6" break="no"/>nem. Sed significabatur igne perpetuo perpetua in ecclesia spiritus sancti 
+          opera<lb ed="#Z" n="7" break="no"/>tio. Hic fouendus &amp; excitandus est in ecclesia: id quod fit pijs precibus &amp; 
+          synce<lb ed="#Z" n="8" break="no"/>ra doctrina domini, legitimoque sacramentorum usu. Generale erat &amp; illud, quod 
+          <lb ed="#Z" n="9"/>nec ferae syluestres nec immunda animalia offerebantur. Praeterea legitur 
+          gene<lb ed="#Z" n="10" break="no"/>ralis canon traditus de sacrificijs a Mose in Leuit. cap. 22. hisce uerbis, Nullum 
+          ui<lb ed="#Z" n="11" break="no"/>tium sit in eo quod obtuleris. Si caecum fuerit, si fractum, si saucium, si papulas ha 
+          <lb ed="#Z" n="12"/>buerit aut scabiem impetiginemque, non offeretis ea domino, nec dabitis ex eis 
+          su<lb ed="#Z" n="13" break="no"/>per altare domini. Certe si quis obtulisset uitiosam oblationem domino, magnum 
+          <lb ed="#Z" n="14"/>de se argumentum praebuerat contemptus numinis ingratitudinisque eximiae erga 
+          <lb ed="#Z" n="15"/>dominum. Ideo clamat apud Malachiam dominus, &amp; ait, Cum hostiam caecam sa 
+          <lb ed="#Z" n="16"/>crificatis, an non peccatum committitis? &amp; quando adducitis claudum &amp; 
+          aegro<lb ed="#Z" n="17" break="no"/>tum, an non peccatum committis? Adduc quaeso tale duci aut principi tuo: num  
+          <lb ed="#Z" n="18"/>id probabit: num suscipiet faciem tuam: dicit dominus exercituum. Ita inquam  
+          <lb ed="#Z" n="19"/>uile fit &amp; sordescit uobis nomen meum, Requirit ergo omnibus temporibus 
+          iu<lb ed="#Z" n="20" break="no"/>stus &amp; uerax deus ueritatem, liberalitatem, synceritatem, &amp; integritatem a suis 
+          cul<lb ed="#Z" n="21" break="no"/>toribus, odit sordiciem, hypocrisim &amp; mendacium. Sunt &amp; alia quaedam quae 
+          obla<lb ed="#Z" n="22" break="no"/>tiones diuinae habent communia: sed nolumus prosequi minutatim omnia. Quae 
+          <lb ed="#Z" n="23"/>uero quaeque aut singula habent peculiaria, inclarescit ex diuersis ipsarum 
+          specie<lb ed="#Z" n="24" break="no"/>bus: quas modo attingemus.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1271">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Primo loco explicabimus sacrificij genus, quod uocant Holocaustum. Id 
+          to<lb ed="#Z" n="26" break="no"/>tum igne absumebatur, ita ut nihil praeter pellem aut tergus cederet sacerdoti. 
+          <lb ed="#Z" n="27"/>Origo uocis est Graecanica. Dicitur enim holocaustum, quasi oy xausdo, hoc est, 
+          <lb ed="#Z" n="28"/>totum combustum aut igne consumptum. Constabat autem tribus speciebus, ma 
+          <lb ed="#Z" n="29"/>ioribus, inquam, animantibus, minoribus &amp; minimis : boue nimirum, iuuenco uel 
+          <lb ed="#Z" n="30"/>uitulo: aut si cui non esset facultas tanta, offerebat agnum uel caprum: quod si id 
+          <lb ed="#Z" n="31"/>quoque negatum esset propter paupertatem, licebat sacrificare auiculas : non 
+          qui<lb ed="#Z" n="32" break="no"/>dem gallos uel anseres, uel alias aues immundas, sed mundas, turtures uidelicet 
+          <lb ed="#Z" n="33"/>uel columbas, Ritus autem holocaustorum erat talis, Sistebatur animal 
+          offeren<lb ed="#Z" n="34" break="no"/>dum ad latus altaris, imponebantur ei manus, iugulabaturque protinus a sacer. 
+          <lb ed="#Z" n="35"/>dote. Sanguis uero excipiebatur, ut spargeretur per arae circuitum: iugulato mox 
+          <lb ed="#Z" n="36"/>detrahebatur pellis, quae sola cedebat sacerdoti. Crura truncabantur, deinde ablue 
+          <lb ed="#Z" n="37"/>bantur cum intestinis, mox excitato in ara igni, imponebatur tota hostia cum 
+          ca<lb ed="#Z" n="38" break="no"/>pite &amp; trunco corporis, cum cruribus item &amp; intestinis, ac concremebantur 
+          uni<lb ed="#Z" n="39" break="no"/>uersa in altari coram domino. Si uero offerretur turtur aut columba, &amp; obtorto 
+          <lb ed="#Z" n="40"/>sacerdotisque digito disrupto collo, iugulabatur: sanguis exprimebat ad latera 
+          al<lb ed="#Z" n="41" break="no"/>taris. Struma &amp; pennae proiiciebantur item ad latus altaris, in locum utique cine 
+          <lb ed="#Z" n="42"/>rum, alae quoque findebantur, postremo tota comburebatur in ara. Hic ritus erat sa 
+          <lb ed="#Z" n="43"/>crificij uel oblationis, quam holocaustum appellarunt : cuius significatio ijs erat 
+          <lb ed="#Z" n="44"/>augustissima &amp; iucundissima, quibus persuasum erat holocausto praefigurari ip 
+          <lb ed="#Z" n="45"/>sum dei filium incarnandum ex illibata uirgine, &amp; offerendum pro expiatione om- 
+          <lb ed="#Z" n="46"/>nium peccatorum totius mundi. Hi enim in sacrificij spectaculo contemplati sunt 
+          <lb ed="#Z" n="47"/>ipsam crucem &amp; passionem domini, qui nostra in se peccata suscepit ( huc enim  
+          <lb ed="#Z" n="48"/>pertinet maxime manuum imposito, quae comunionis erat symbolum) ac caesus 
+          <!--274.xml-->
+          <pb ed="#Z" n="126-r"/>
+          <lb ed="#Z" n="1"/>sanguinem suum effudit in remisionem peccatorum, totum sese deo patri in igne 
+          <lb ed="#Z" n="2"/>charitatis diuinique ardoris offerens. Hic idem turtur est ac columba. Caeterum 
+          re<lb ed="#Z" n="3" break="no"/>quirebatur praeter haec in ritu holocausti, ne unquam de animantibus offeratur 
+          ho<lb ed="#Z" n="4" break="no"/>locaustum sine oblatione, quam uocant Minha: quae erat huiusmodi, Ex farre pu 
+          <lb ed="#Z" n="5"/>gillus granorum, aut farinae, aut crustularum panis cocti in cacabo, aut torta 
+          pa<lb ed="#Z" n="6" break="no"/>nis cocti in clibano aut frixorio, cum oleo &amp; thure comburebatur in ara 
+          holocau<lb ed="#Z" n="7" break="no"/>storum. Certe Christus est panis uitae, qui per spiritum aeternum, ut ait apostolus,  
+          <lb ed="#Z" n="8"/>se deo patri obtulit pro nobis in cibum uel conseruationem uitae.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1348">
+          <lb ed="#Z" n="9"/><pc type="indent"/> Holocaustis connumerantur luge sacrificium, &amp; sacrificia initiationis. De  
+          <lb ed="#Z" n="10"/>lugi sacrificio copiosa fit exposito Exodi 29. &amp; Leuit. 6. Quotidianum id erat. 
+          <lb ed="#Z" n="11"/>Nam offerebantur singulis diebus mane &amp; uesperi agni duo, unus nempe uespe 
+          <lb ed="#Z" n="12"/>ri, alter mane In his manifeste praenunciabatur Christus, qui est agnus ille dei qui 
+          <lb ed="#Z" n="13"/>tollit peccatum mundi, cuius uirtus semper efficax est ad tollenda omnia omnium 
+          <lb ed="#Z" n="14"/>fidelium peccata. Est enim agnus ille occisus ab origine mundi: semel quidem cae 
+          <lb ed="#Z" n="15"/>sus &amp; occisus in cruce, sed cuius meritum &amp; efficatia semper durat, &amp; omnes 
+          ab<lb ed="#Z" n="16" break="no"/>soluit quotquot liberantur at peccatis. Porro sacrificia lnitiationis, sacerdotum ui 
+          <lb ed="#Z" n="17"/>delicet, tabernaculi &amp; omnium uasorum seu instrumentorum ministerij sancti, 
+          <lb ed="#Z" n="18"/>pleraque habent communia cum holocaustis, quaedam peculiaria. De quibus 
+          co<lb ed="#Z" n="19" break="no"/>piose disseritur Exodi 20. &amp; Leuit. 8. cap. Christus autem dominus noster 
+          initia<lb ed="#Z" n="20" break="no"/>tus est per passionem, ac sibi consecrauit in sacerdotes omnes fideles.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1379">
+          <lb ed="#Z" n="21"/><pc type="indent"/> Secundum genus sacrificiorum erat Oblatio, quam uocant Minha, munus 
+          <lb ed="#Z" n="22"/>inquam uel donum, farreum seu adoreum sacrificium, quod &amp; cibarium 
+          cogno<lb ed="#Z" n="23" break="no"/>minatur. Constabat hoc frugibus terrae, quae non uno modo adhibebantur. Nam  
+          <lb ed="#Z" n="24"/>commemorantur tres species. Offerebatur enim far tostum in spicis, aut farina 
+          <lb ed="#Z" n="25"/>siue similia munda nondum cocta, aut certe paratus ex farina panis: qui sane 
+          tri<lb ed="#Z" n="26" break="no"/>plici modo aut forma siue ratione parabatur. Vel enim coquebatur in furno aut 
+          <lb ed="#Z" n="27"/>clibano: uel in cacabo aut sartagine : uel in frixorio crustularum plano. 
+          Accede<lb ed="#Z" n="28" break="no"/>bat his uelut auctarium &amp; condimentum sacrificiorum sal, oleum, thus, 
+          Remo<lb ed="#Z" n="29" break="no"/>uentur autem generali canone ab omnibus sacrificijs mei &amp; fermentum. Non 
+          e<lb ed="#Z" n="30" break="no"/>nim admittebantur libae melleae. In epulo tamen eucharistico admittebatur panis  
+          <lb ed="#Z" n="31"/>fermentatus ad esum. Proinde si quis offerret farinam, ungebatur ea prius a sacer 
+          <lb ed="#Z" n="32"/>dote oleo, &amp; condiebatur sale, moxei imponebatur thus: inde uolam plenam acci 
+          <lb ed="#Z" n="33"/>piebat sacerdos (in sacrificio pro sacerdote comburebatur totum) &amp; adolebat in 
+          <lb ed="#Z" n="34"/>ara, reliquum sibi conseruabat. Et in omnibus quidem cibarijs oblationibus 
+          po<lb ed="#Z" n="35" break="no"/>nebatur thus, praeterquam in sacrificio pro peccato, &amp; in sacrificio zelotypiae: id 
+          <lb ed="#Z" n="36"/>quod uidere licet Leuit. 5. &amp; Num. 5. At Leuit. 2. cap. reliqua qui cupit inueniet,  
+          <lb ed="#Z" n="37"/>quae pertinent ad ritum oblationis cibarij plenum. Non enim singula minutatim  
+          <lb ed="#Z" n="38"/>hic prosequimur. Porro sicuti antea Christus in animantibus, hoc est, pecudibus,  
+          <lb ed="#Z" n="39"/>armentis &amp; auibus praefiguratus est, ita nunc significatur in panibus. Est enim  
+          <lb ed="#Z" n="40"/>panis uitae: &amp; habet formas uarias infirmitatis &amp; gloriae. In Christo non reperias 
+          <lb ed="#Z" n="41"/>ullum fermentum, peccatum, aut acerbitatem, hypocrisim aut superbiam. Nulla  
+          <lb ed="#Z" n="42"/>est in Christo dulcedo uoluptatis, mellea, inquam, affectio. Sed sal in ipso inuenias,  
+          <lb ed="#Z" n="43"/>temperamentum plane diuinum, &amp; sapientiam absolutissimam. Propter Christum 
+          <lb ed="#Z" n="44"/>omnia hominum grata sunt deo : propter Christum exaudimur at patre : est ergo 
+          <lb ed="#Z" n="45"/>thus super Christo. Quanquam simul in his adumbretur qualia &amp; nostra esse 
+          de<lb ed="#Z" n="46" break="no"/>beant sacrificia, utique sine hypocrisi, amarulentia, odio, inuidia, &amp; citra uoluptatem  
+          <lb ed="#Z" n="47"/>carnalem, mixta autem pijs precibus.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1441">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Sacrificio cibario connumerari possunt libamina. His enim uinum domino¬ 
+          <!--275.xml-->
+          <pb ed="#Z" n="126-v"/>
+          <lb ed="#Z" n="1"/>fundebatur in sacrificijs, sicut claret Exodi 29. Leuit. 6. &amp; Numeri 28. Est autem  
+          <lb ed="#Z" n="2"/>Christus uinum, potus &amp; gaudium nostrum ad uitam aeternam. Is effundit se in 
+          <lb ed="#Z" n="3"/>animos piorum, ut ipsos gaudio perfundat, iuatque in eis &amp; ipsi in eo. Ideo autem  
+          <lb ed="#Z" n="4"/>memoriam sanguinis effusi pro nobis in remisionem peccatorum uino consecra 
+          <lb ed="#Z" n="5"/>uit. Cibarijs oblationibus annumerari possunt sacrificia primitiarum 
+          primogeni<lb ed="#Z" n="6" break="no"/>torum &amp; Decimarum. De quibus passim in lege multa commemorantur, ut Exo 
+          <lb ed="#Z" n="7"/>di 13. &amp; 23. Deut. 18. Numeri 18. Est autem Christus primogenitus &amp; primitiae om 
+          <lb ed="#Z" n="8"/>nium, propter cuius dignitatem &amp; meritum nobis parcitur, &amp; per quem 
+          sancti<lb ed="#Z" n="9" break="no"/>ficati, efficimur filij ideoque &amp; haeredes dei. Eidem ut authori &amp; redemptori nostro 
+          <lb ed="#Z" n="10"/>debemus &amp; animas nostras, &amp; omnia quae in nobis sunt praestantissima. Sed &amp; 
+          il<lb ed="#Z" n="11" break="no"/>lud gratitudinis est, quod de terrenis facultatibus nostris, quae ab ipso habemus, 
+          <lb ed="#Z" n="12"/>deo liberaliter impartimur, ad sustentationem cultus dei legitimi atque 
+          egeno<lb ed="#Z" n="13" break="no"/>rum omnium.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1479">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Tertium sacrificiorum genus est quod offertur pro peccato, ac iccirco 
+          appel<lb ed="#Z" n="15" break="no"/>latur Hattah piaculare, &amp; Ascham sacrificium pro delicto. Nos uno uocabulo ap 
+          <lb ed="#Z" n="16"/>pellare possumus sacrificium expiatorium. Immolabatur enim pro peccato 
+          com<lb ed="#Z" n="17" break="no"/>misso, uel per imprudentiam: quod gradibus hominum peccantium quadrifariam 
+          <lb ed="#Z" n="18"/>distribuitur, nempe, si pontifex peccarit, aut tota ecclesia, aut princeps, aut 
+          uulga<lb ed="#Z" n="19" break="no"/>ris quispiam. Vel osseruntur pro peccato dedita opera uel a scientibus 
+          commisso<lb ed="#Z" n="20" break="no"/>attamen mediocri: uel pro grandi &amp; capitali scelere, quod nulla excusat impruden 
+          <lb ed="#Z" n="21"/>tia, Ritus huius sacrificij latissime se extendit, &amp; est copiosus ac multiplex, adeo ut 
+          <lb ed="#Z" n="22"/>in praesenti per compendium commemorare non placeat. Describitur 
+          diligentis<lb ed="#Z" n="23" break="no"/>sime per partes Leuit. cap. 4. 5. 6. 7. Nec dubium est quin eo sacrificio Christus sit 
+          <lb ed="#Z" n="24"/>propositus, sicuti &amp; in omnibus alijs oblationibus. Finis enim legis Christus est,  
+          <lb ed="#Z" n="25"/>Et lsaias in cap. 53. Cum nihil iniquum fecerit, ait, &amp; dolus non fuerit in ore eius,  
+          <lb ed="#Z" n="26"/>complacuit tamen domino ipsum infirmando atterere, ut ubi posuerit animam  
+          <lb ed="#Z" n="27"/>suam hostiam delicti uel uictimam pro culpa (hic enim ponitur Dog ascham) 
+          ui<lb ed="#Z" n="28" break="no"/>deat semen, &amp; proroget dies, ac uoluntas domini prospere cedat in manu eius.  
+          <lb ed="#Z" n="29"/>Huc pertinet tota illa disputatio apostoli Pauli in epistola ad Hebraeos, in qua 
+          o<lb ed="#Z" n="30" break="no"/>stendit Christum esse ueram illam expiatricem pro peccatis uictimam, quae 
+          pur<lb ed="#Z" n="31" break="no"/>get uniuersam ecclesiam &amp; peccata omnia, Ritu partim peccatorum ingenia, par 
+          <lb ed="#Z" n="32"/>tim passiones Christi &amp; mortis uirtus adumbrata sunt.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1524">
+          <lb ed="#Z" n="33"/><pc type="indent"/> Haec uero pro peccatis instituta sacrificia multa &amp; uaria, conceptiua erant,  
+          <lb ed="#Z" n="34"/>quippe quae offerri solebant ab his qui peccassent, &amp; eo quidem tempore quo pec 
+          <lb ed="#Z" n="35"/>cassent: statum porro anniuersarium &amp; uniuersale sacrificium illud erat, quod 
+          <lb ed="#Z" n="36"/>multis describitur Leuit. 16. cap. &amp; huc sub piacularia referri debet. In festo enim  
+          <lb ed="#Z" n="37"/>propitiationis 10. die 7. mensis peragebatur annua solennitate pro omnibus 
+          om<lb ed="#Z" n="38" break="no"/>nium peccatis uniuersale expiatorium seu propitiatorium sacrificium. Eius ritum 
+          <lb ed="#Z" n="39"/>nolo in praesentiarum copiosius prosequi, cum luce clarius proponatur omnibus 
+          <lb ed="#Z" n="40"/>in eo loco Leuitici, quem modo citauimus, &amp; nos iam illum in explicando 
+          myste<lb ed="#Z" n="41" break="no"/>rio, quantum satis est, adumbrare cogitemus. De significatione enim &amp; mysterio 
+          <lb ed="#Z" n="42"/>eius dicam paucula.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1549">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Figurabatur illo spectaculo, certe iucundissimo, tota passio &amp; effectus 
+          passio<lb ed="#Z" n="44" break="no"/>nis domini nostri Iesu Christi: quae quotannis semel exhibebatur &amp; renouabatur 
+          <lb ed="#Z" n="45"/>uniuersae ecclesiae dei. Placuit enim deo hic modus repraesentandi mysteria redem  
+          <lb ed="#Z" n="46"/>ptionis &amp; salutis per sacramenta, &amp; non per picturas aut colores, aut denique per 
+          <lb ed="#Z" n="47"/>scenicos ludos: quae non pauci hodie parum religiose in delicijs habent. Solus au 
+          <lb ed="#Z" n="48"/>tem pontifex summus in hac caeremonia obibat omnia: nisi quod duo ei adiunge¬ 
+          <!--276.xml-->
+          <pb ed="#Z" n="127-r"/>
+          <lb ed="#Z" n="1"/>bantur ministri, quorum alter educebat hircum emissarium piacularemque, alter 
+          <lb ed="#Z" n="2"/>portabat extra castra iuuencum &amp; hircum expiatorium. Imo diligentissime prae 
+          <lb ed="#Z" n="3"/>cipitur, ne quis hominum se coniungat summo pontifici, tabernaculum 
+          ingredien<lb ed="#Z" n="4" break="no"/>ti &amp; propitiationem pro peccatis facienti. Nullus homo, ait dominus, sit in 
+          tento<lb ed="#Z" n="5" break="no"/>rio constitutionis, cum ille ingreditur ad expiandum in sanctuario, donec 
+          egre<lb ed="#Z" n="6" break="no"/>diatur. Nam Christo in peragendo salutis redemptionisque nostrae negotio, nemo 
+          <lb ed="#Z" n="7"/>coniungendus est. Solus enim saluator est, calcauit solus torcular, nemo alius pro 
+          <lb ed="#Z" n="8"/>nobis crucifixus est. Excluduntur ergo patriarchae, prophetae, apostoli &amp; marti 
+          <lb ed="#Z" n="9"/>res, omnes denique creatures, ne his unquam quicquam salutis acceptae tribuamus, 
+          <lb ed="#Z" n="10"/>Solus Christus manet saluator &amp; redemptor mundi. Creaturis aut operibus aut 
+          <lb ed="#Z" n="11"/>meritis nostris salutem tribuere, est cum summo pontifice creaturas in 
+          taberna<lb ed="#Z" n="12" break="no"/>culum admittere, &amp; incurrere indignationem omnipotentis, id est anathema hor 
+          <lb ed="#Z" n="13"/>rendum ueri &amp; in aeternum uiuentis dei. Nam per summum sacerdotem praefigu 
+          <lb ed="#Z" n="14"/>ratur nobis saluator Christus, qui apostolo teste sacerdotium habet quod 
+          succes<lb ed="#Z" n="15" break="no"/>sione ad neminem transire potest. Aaron porro de suis accipiebat iuuencum ex- 
+          <lb ed="#Z" n="16"/>piatorium &amp; arietem pro holocausto, a populo autem duos hircos. Proinde Chri- 
+          <lb ed="#Z" n="17"/>stus dominus noster uerus &amp; unicus ecclesiae suae sacerdos, quod pro nobis obtu 
+          <lb ed="#Z" n="18"/>lit, a nobis accepit, substantiam carnis nostre. Additur interim Aaronen ( sub quo no 
+          <lb ed="#Z" n="19"/>mine quemlibet intelligimus summum populi dei sacerdotem) sacrificaturum in 
+          <lb ed="#Z" n="20"/>duisse uulgares siue communes sacerdotum uestes, sed tamen sanctas et candidas. 
+          <lb ed="#Z" n="21"/>Licet enim nostram assumpserit naturam dei filius, et nobis similis factus, quasique 
+          <lb ed="#Z" n="22"/>uulgari nobiscum ueste indutus sit, immunis tamen est ab omni corruptione &amp;  
+          <lb ed="#Z" n="23"/>macula peccati. Principio autem pro se &amp; pro domo sua mactabat Aaron iuuen 
+          <lb ed="#Z" n="24"/>cum. Qua re declarabat se non esse uerum illum pontificem summum, sed eius mo 
+          <lb ed="#Z" n="25"/>do typum. Paulus enim, Nostro pontifici, inquit non est necesse, quemadmodum 
+          <lb ed="#Z" n="26"/>illis pontificibus, prius pro proprijs peccatis uictimas offerre, deinde pro 
+          pecca<lb ed="#Z" n="27" break="no"/>tis populi. Nam id fecit semel cum semetipsum obtulit. Postea sortiebatur Aaron  
+          <lb ed="#Z" n="28"/>ad ostium tentorij inter duos hircos, uter mactaretur uel dimitteretur in 
+          deser<lb ed="#Z" n="29" break="no"/>tum. Hirci duo significant Christum dominum, uerum deum &amp; hominem in di 
+          <lb ed="#Z" n="30"/>uersis, sed non separatis, consistentem naturis. Mactatur &amp; moritur secundum id 
+          <lb ed="#Z" n="31"/>quod mori potuit : non mactatur nec moritur secundum diuinitatem. Vnus 
+          ta<lb ed="#Z" n="32" break="no"/>men &amp; idem indiuisus Christus redemptor est mundi, &amp; perficit redemptionem, 
+          <lb ed="#Z" n="33"/>Sic &amp; uterque hircus mysterio adhibebatur. Et quoniam dominus temperat sortes,  
+          <lb ed="#Z" n="34"/>teste Solomone, non sine uoluntate patris sacrificatus est filius. Iam uero pontifex 
+          <lb ed="#Z" n="35"/>primum quidem iuuenci sanguinem, deinde &amp; hirci mactati cruorem, &amp; cum  
+          <lb ed="#Z" n="36"/>his thuribulum accipiebat &amp; intra uelum ingrediebatur, ubi thymiama coram 
+          <lb ed="#Z" n="37"/>propitiatorio excitabat nubis instar, sed &amp; sanguinem aduersus propitiatorium 
+          <lb ed="#Z" n="38"/>digito aspergebat septies. Quae apostolus Paulus exponens in 9. cap. ad Heb. dicit 
+          <lb ed="#Z" n="39"/>Christum non cum iuuenci aut hirci, sed proprio cum sanguine, non in 
+          taberna<lb ed="#Z" n="40" break="no"/>culum manu factum, sed in ipsum coelum esse ingressum, reperta expiatione &amp; re 
+          <lb ed="#Z" n="41"/>misione peccatorum perpetua. Ipse enim est propitiatio nostra, non pro 
+          pecca<lb ed="#Z" n="42" break="no"/>tis nostris tantum, sed etiam pro peccatis totius mundi. Huc spectarunt scilicet 
+          a<lb ed="#Z" n="43" break="no"/>postoli, quoties appellarunt Christum propitiationem, sicuti S. Paulus ad Roma 
+          <lb ed="#Z" n="44"/>nos 3. &amp; S. Ioannes, 1. Ioan. cap. 2. &amp; 4. Significat autem septenarius aspersionis 
+          <lb ed="#Z" n="45"/>numerus, purgationis plenitudinem &amp; perfectionem. At necesse est interim ut 
+          <lb ed="#Z" n="46"/>aspergatur nobis digito, non hominis, sed Christi summi nostri pontificis. Cuius 
+          <lb ed="#Z" n="47"/>digitus est spiritus sanctus, per quem applicatur &amp; confertur nobis purgatio. Ac 
+          <lb ed="#Z" n="48"/>cedit praeterea thymiama uel incensum aromaticum contusum. Cum Iachrymis 
+          <!--277.xml-->
+          <pb ed="#Z" n="127-v"/>
+          <lb ed="#Z" n="1"/>enim, teste apostolo, preces pro nobis obtulit pontifex Christus, &amp; exauditus est 
+          <lb ed="#Z" n="2"/>pro reuerentia. Vnde fumi nubes, id est ingens fumi uis, significauit maximam  
+          <lb ed="#Z" n="3"/>precum efficatiam.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1685">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Illis peractis egrediebatur rursus in sanctum pontifex, collocans sanguinem 
+          <lb ed="#Z" n="5"/>super altare thymiamatis aureum. Nam oportet in redemptione nostra 
+          coniun<lb ed="#Z" n="6" break="no"/>cta sint cruor innoxius &amp; oratio ardentissima pro nobis. Inde porro egrediebatur 
+          <lb ed="#Z" n="7"/>ad altare holocaustorum, quod stabat in atrio, ac alterum hircorum tradebat uiro 
+          <lb ed="#Z" n="8"/>tempestiuo abducendum in desertum, non sine singulari ritu aut caeremonia. Pon 
+          <lb ed="#Z" n="9"/>tifex enim hirco imponebat manum utranque, confitebaturque peccata populi, qui 
+          <lb ed="#Z" n="10"/>nimirum &amp; ipse confitebatur iniquitates, praeeunte formula certa pontifice : simul 
+          <lb ed="#Z" n="11"/>autem omnibus peccatis in caput hirci coniectis, ablegabatur hic ut eo modo pec 
+          <lb ed="#Z" n="12"/>cata totius ecclesiae deferret in desertum. Hinc mutuati sunt sine dubio Gentiles 
+          <lb ed="#Z" n="13"/>sua illa, quae uocarunt, aesoepuoea siue piamina. Fuit enim mos ethnicis ut in 
+          ma<lb ed="#Z" n="14" break="no"/>ximis discriminibus, unus aliquis sese deuoueret pro omnibus, quem acceptum 
+          <lb ed="#Z" n="15"/>uel mactabant cremabantque in ara, uel proiiciebant in aquam, precantes ut simul 
+          <lb ed="#Z" n="16"/>omnia secum auferret mala, ac dij unius capite placati, rursus benefacerent. Sed 
+          <lb ed="#Z" n="17"/>aberrarunt toto coelo miseri. Christus enim dei filius factus est pro nobis peccatum, 
+          <lb ed="#Z" n="18"/>id est sacrificium pro peccato, factus est pro nobis execratio, ut benedictionem 
+          <lb ed="#Z" n="19"/>ab ipso acciperemus. Huc scilicet spectauit lsaias cum dixit, Nos omnes tanquam  
+          <lb ed="#Z" n="20"/>ouis errauimus, quisque in uiam suam respexit, dominus autem effecit in illum 
+          in<lb ed="#Z" n="21" break="no"/>currere omnium nostrum iniquitatem. Item, Ipse uulneratus est propter iniquita 
+          <lb ed="#Z" n="22"/>tes nostras, attritus est propter scelera nostra. Et iterum, Vere languores nostros 
+          <lb ed="#Z" n="23"/>ipse tulit, &amp; dolores nostros ipse portauit. Portat autem hircus peccatum in deser 
+          <lb ed="#Z" n="24"/>tum, non ut non sit, sed ne imputetur. Nam in ecclesia est quidem in sanctis 
+          pec<lb ed="#Z" n="25" break="no"/>catum, sed non imputatur eis. Extra ecclesiam, in deserto, omnibus imputatur. Et 
+          <lb ed="#Z" n="26"/>Vir ille tempestiuus alius esse non potest, quam ipse Christus, qui ubique in diebus 
+          <lb ed="#Z" n="27"/>carnis suae tempus &amp; occasionem iustam obseruauit, subinde repetens horam suam  
+          <lb ed="#Z" n="28"/>nondum uenisse, &amp; cum tempestiuum esset mori, aiebat modo adesse horam suam, 
+          <lb ed="#Z" n="29"/>Moriendo autem abduxit hircum adeoque peccatum totius mundi. 
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1746">
+          <lb ed="#Z" n="30"/><pc type="indent"/> His ad eum modum absolutis, abluitur iterum pontifex, &amp; exutis uestibus 
+          uul<lb ed="#Z" n="31" break="no"/>garibus, pontificijs induitur. Caeterum ablutio illa uaria &amp; multiplex in hoc sacro 
+          <lb ed="#Z" n="32"/>ritu adumbrat plenissimam peccatorum remisionem: sicut &amp; mutatio uestis glo 
+          <lb ed="#Z" n="33"/>rificationem: id quod clarius uidere licet apud zachariam in cap. 3. Glorificatus 
+          <lb ed="#Z" n="34"/>autem Christus coelos ingressus est, ut ibi semper appareat pro nobis in conspectu 
+          <lb ed="#Z" n="35"/>dei, unica &amp; in eternum efficax hostia. Ergo sacrificat Aaron arietem in holocau 
+          <lb ed="#Z" n="36"/>stum. Christus enim est uictima aeternum durans &amp; purgans. Misit praeterea 
+          Aa<lb ed="#Z" n="37" break="no"/>ron iuuencum &amp; hircum alterum in locum sacrum extra castra, ut ibi prorsus com 
+          <lb ed="#Z" n="38"/>burerentur. Id quod Paulus exponens, Animalium, inquit, quorum sanguis 
+          in<lb ed="#Z" n="39" break="no"/>fertur pro peccato in sancta per pontificem, horum corpora cremantur extra 
+          ca<lb ed="#Z" n="40" break="no"/>stra: quapropter &amp; Iesus ut sanctificaret per proprium sanguinem populum, ex- 
+          <lb ed="#Z" n="41"/>tra portam passus est, Hebr. 13.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1776">
+          <lb ed="#Z" n="42"/><pc type="indent"/> Et quamuis in his quae adduximus hucusque sparsim finem &amp; fructum huius 
+          <lb ed="#Z" n="43"/>caeremoniae indicauimus, non pigebit tamen hic eundem singulariter commemo 
+          <lb ed="#Z" n="44"/>rare: quando uideo spiritum sanctum in scriptura illum inculcare tanta fide &amp; di 
+          <lb ed="#Z" n="45"/>ligentia. Finis omnium est, quod peccata omnia, omnia inquam, totius ecclesiae dei 
+          <lb ed="#Z" n="46"/>unica hostia, semel duntaxat oblata, e medio, perfectissime, sunt sublata &amp; purga 
+          <lb ed="#Z" n="47"/>ta. Audiamus ergo ipsa spiritus sancti in scripura loquentis uerba, eaque 
+          euidentis<lb ed="#Z" n="48" break="no"/>sima &amp; apertissima. I. Et confitebitur pontifex super hircum cunctas iniquitates 
+          <!--278.xml-->
+          <pb ed="#Z" n="128-r"/>
+          <lb ed="#Z" n="1"/>filiorum Israel, &amp; omnes transgressiones eorum, omniaque peccata eorum. 2. Et 
+          <lb ed="#Z" n="2"/>feret hircus ille super se omnes iniquitates illorum in terram desertam. 3. Eodem  
+          <lb ed="#Z" n="3"/>die expiabitur pro uobis, ut mundi fiatis, &amp; mundi sitis ab omnibus peccatis 
+          ue<lb ed="#Z" n="4" break="no"/>stris coram domino. 4. Sitque uobis hoc statutum perpetuum, ut expiet filios 
+          ls<lb ed="#Z" n="5" break="no"/>rael ab omni peccato eorum semel in anno. At quis adeo stupidus &amp; plumbeus 
+          <lb ed="#Z" n="6"/>est, ut credat animantium sanguine abluta esse omnia populi peccata? Si, inquit  
+          <lb ed="#Z" n="7"/>apostolus, semel expiassent peccata plene, desijssent utique offerri. His ergo Christi 
+          <lb ed="#Z" n="8"/>uenturi mysterium omnibus inculcatum, &amp; omnium oculis semel in anno est 
+          pro<lb ed="#Z" n="9" break="no"/>positum. Ex hac enim caeremonia mutuatus est zacharias suum de Christo uati 
+          <lb ed="#Z" n="10"/>cinium in cap. 3. sic propositum, En ego adduco seruum meum germen. En lapis 
+          <lb ed="#Z" n="11"/>quem posui ante losuam, super lapidem unum sunt septem oculi : en ego sculpam  
+          <lb ed="#Z" n="12"/>sculpturam eius, ait dominus exercituum: &amp; auferam iniquitatem terrae huius 
+          <lb ed="#Z" n="13"/>uno die. Promittit dominus Messiam, quem praefigurarunt sacerdotes, in primis 
+          <lb ed="#Z" n="14"/>autem summus sacerdos losue. Christus est lapis, in quem omnium oculi ut in 
+          u<lb ed="#Z" n="15" break="no"/>nicum saluatorem sunt intenti. Foditur &amp; scalpitur is in passione, &amp; patiendo atque 
+          <lb ed="#Z" n="16"/>moriendo semel, omnia peccata expiat totius terrae. Ex hac caeremonia &amp; hoc scri 
+          <lb ed="#Z" n="17"/>pturae loco mutuauit S. Christi apostolus Paulus in Epist. ad Hebr, totam fere di- 
+          <lb ed="#Z" n="18"/>sputationem suam de sacrificio Christi semel duntaxat pro peccatis totius 
+          mun<lb ed="#Z" n="19" break="no"/>di oblato: in qua toties ex lege, suum illud Semel inculcat.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1840">
+          <lb ed="#Z" n="20"/><pc type="indent"/> Porro alios constituere sacerdotes, aliud tempus, &amp; aliam rationem 
+          sacrifi<lb ed="#Z" n="21" break="no"/>candi pro peccatis, est calcare diuinam &amp; clarissimam hanc ueritatem. Est autem  
+          <lb ed="#Z" n="22"/>haec doctrina de unica Christi hostia uera &amp; antiqua &amp; orthodoxa &amp; irrefragabi 
+          <lb ed="#Z" n="23"/>lis perpetuaque doctrina : per quam saluantur quotquot saluantur, &amp; saluati sunt 
+          <lb ed="#Z" n="24"/>per eandem quotquot saluati sunt ab ipso mundi exordio. Huius doctrinae hostes 
+          <lb ed="#Z" n="25"/>appellauit legis peritissimus Christi &amp; gentium apost. Paulus stultos, imperitos,  
+          <lb ed="#Z" n="26"/>amentes, insanos, instabiles, leues &amp; cuiuis expositos uento, impios, apostatas, qui 
+          <lb ed="#Z" n="27"/>defecerunt a Christo, pseudologos, pseudoprophetas, pseudapostolos, seductores,  
+          <lb ed="#Z" n="28"/>conscissores, canes, incantatores, ueneficos, &amp; anathemate implicitos, execrabiles et 
+          <lb ed="#Z" n="29"/>maledictos. Proinde si angelus e coelis aliud nos docuerit, sit nobis anathema.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1865">
+          <lb ed="#Z" n="30"/><pc type="indent"/> Id tamen minime praetereundum, ab hominibus in anniuersaria illa expiatio 
+          <lb ed="#Z" n="31"/>ne requiri primum quidem peccatorum confessionem : deinde afflictionem ani¬  
+          <lb ed="#Z" n="32"/>marum, dolorem inquam serium, ex agnitione peccati conceptum: &amp; postremo 
+          <lb ed="#Z" n="33"/>sabbatum, non utique otium ignauum a studijs honestis, sed quietem in fide Chri- 
+          <lb ed="#Z" n="34"/>sti, &amp; cessationem a sceleribus. Qui ita sese parat in festo propitiationis, nimirum  
+          <lb ed="#Z" n="35"/>in tempore praedicationis gratiae dei, per Christum, proculdubio purgatur plene 
+          <lb ed="#Z" n="36"/>per hanc uictimam unicam Christi. De qua paulo fusius non sine ratione disserui 
+          <lb ed="#Z" n="37"/>hucusque. Nam unus hic locus &amp; multos alios scripturae locos mirifice illustrat, &amp;  
+          <lb ed="#Z" n="38"/>mysterium redemptionis Christique redemptoris, ita clare, ut uix alius, exponit,  
+          <lb ed="#Z" n="39"/>exornat atque commendat : praeterea docet nos intelligere Christi domini in 
+          euan<lb ed="#Z" n="40" break="no"/>gelio Ioannis uerba, dicentis. Est qui accusat uos Moses, in quo uos speratis. Si 
+          e<lb ed="#Z" n="41" break="no"/>nim credidissetis Mosi, credidissetis utique mihi De me enim ille scripsit.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1895">
+          <lb ed="#Z" n="42"/><pc type="indent"/> Porro propitiatorio sacrificio &amp; alijs piacularibus merito annumeramus &amp;  
+          <lb ed="#Z" n="43"/>sacrificium Vaccae ruses, adeoque ipsam lustrationem siue aquam lustralem, institu 
+          <lb ed="#Z" n="44"/>tam contra omnis generis pollutiones. Erant enim pollutionis uariae species. De 
+          <lb ed="#Z" n="45"/>quibus in lege disseritur copiose, ijsdemque exhibetur nobis typus impurae nostrae 
+          <lb ed="#Z" n="46"/>naturae, &amp; peccatorum nostrorum. Describitur autem in lege Numeri 19. primum  
+          <lb ed="#Z" n="47"/>caeremonia ipsa siue ritus sacer, ostenditurque quomodo paranda sit aqua lustralis 
+          <lb ed="#Z" n="48"/>contra omnes pollutiones. Deinde eiusdem usus atque effectus subijcitur. Adduce 
+          <!--279.xml-->
+          <pb ed="#Z" n="128-v"/>
+          <lb ed="#Z" n="1"/>batur ad sacerdotem Eleazarum uacca rufa, eaque sine macula, &amp; quae iugum nun 
+          <lb ed="#Z" n="2"/>quam subierat, ea protinus educebatur extra castra &amp; mactabatur. Partem 
+          san<lb ed="#Z" n="3" break="no"/>guinis excipiebat sacerdos, ac digito suo septies aspergebat contra tentorium con 
+          <lb ed="#Z" n="4"/>stitutionis. Sed uaccam ipsam totam, ita ut nihil fieret ex ea reliqui, cobussit 
+          igne<lb ed="#Z" n="5" break="no"/>in quem etiam iniecit lignum cedrinum, hysopum &amp; coccum. Hic se eluebat 
+          sa<lb ed="#Z" n="6" break="no"/>cerdos aqua, succedebat uir mundus, qui cinerem colligens, deposuit in locum san 
+          <lb ed="#Z" n="7"/>ctum. Ergo quoties usus postularet ponebantur cineres in uas testaceum, 
+          affun<lb ed="#Z" n="8" break="no"/>debatur aqua uiua, &amp; ita parabatur aqua lustralis, quam pollutis aspergebant 
+          asper<lb ed="#Z" n="9" break="no"/>gillo hysopino. Haec erat lustrationis caeremonia, &amp; hic finis &amp; usus caeremoniae.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e1938">
+          <lb ed="#Z" n="10"/><pc type="indent"/> Porro euidentissimum haec Christi typum nobis exhibere, testis est apostolus,  
+          <lb ed="#Z" n="11"/>qui ad Hebr. 9. cap. dixit, Si cinis iuuencae aspersus eos qui communicant sancti 
+          <lb ed="#Z" n="12"/>ficat ad carnis puritatem, quanto magis sanguis Christi? Ergo &amp; sacerdos &amp; 
+          uac<lb ed="#Z" n="13" break="no"/>ca typum praetulere Christi,. Sexus infirmitatem denotat naturae humanae : rufus 
+          <lb ed="#Z" n="14"/>color admonet sanguinis domini, per quem abluti sumus. Nulla uero macula 
+          re<lb ed="#Z" n="15" break="no"/>perta est in Christo: quippe qui erat sanctus sanctorum, immunis prorsus ab om- 
+          <lb ed="#Z" n="16"/>ni peccato. Nec ulla fuit adactus necessitate ad mortem. Nam sua sponte sese ob 
+          <lb ed="#Z" n="17"/>tulit. Et obtulit quidem extra castra siue moenia in monte Caluariae. Id quod &amp; Pau 
+          <lb ed="#Z" n="18"/>lus attigit ad Hebr. cap. 13. Totus autem Christus deus et homo, corpore &amp; anima 
+          <lb ed="#Z" n="19"/>oblatus est. Cuius sanguis fit nobis salutaris, si spiritu sancto aspergatur animis no 
+          <lb ed="#Z" n="20"/>stris. Simul autem &amp; fideles cum Christo mori oportet, humiliari, ardere amore di- 
+          <lb ed="#Z" n="21"/>uino &amp; extolli: ergo in eundem ignem inijciebantur cedrinum lignum, hysopus,  
+          <lb ed="#Z" n="22"/>&amp; coccum. lam &amp; Cineres ex sacrificio confecti colliguntur ad purificationem seu 
+          <lb ed="#Z" n="23"/>emundationem. Cineres autem aliud non sunt quam effectus mortis &amp; sacrificij 
+          <lb ed="#Z" n="24"/>Christi, ipsa inquam purificatio siue peccatorum remissio. Ideo enim ex morientis 
+          <lb ed="#Z" n="25"/>&amp; iam extincti Christi latere aperto, ebulliens effundebatur larga aqua &amp; sangui 
+          <lb ed="#Z" n="26"/>nis copia, ut disceremus ex morte Christi emanare nobis purgationem &amp; uitam.  
+          <lb ed="#Z" n="27"/>Nam in sanguine uita est, in aqua expurgatio. Caeterum cineres colligebat homo 
+          <lb ed="#Z" n="28"/>mundus, qui tamen immundus manebat ad uesperam usque. Aqua denique pollutis 
+          <lb ed="#Z" n="29"/>ad sanctificationem aspergebatur aspergillo hysopino. Quid quod in loco sancto 
+          <lb ed="#Z" n="30"/>haec erat collocata? Nam canibus &amp; porcis margaritae &amp; sanctum minime est obi 
+          <lb ed="#Z" n="31"/>ciendum, Requirit item dominus praedicatores, qui effectum passionis Christi do 
+          <lb ed="#Z" n="32"/>ceant, &amp; euangelij (coram mundo) contempta humilique praedicatione redemptio 
+          <lb ed="#Z" n="33"/>nem &amp; sanctificationem in morte &amp; sanguine Christi annuncient: requirit, inquam 
+          <lb ed="#Z" n="34"/>doctores sanctos &amp; fideles sanguineque Christi mundatos. llli interim cum tota ec 
+          <lb ed="#Z" n="35"/>clesia ad finem usque uitae orant, Remitte nobis debita nostra. Nam &amp; dominus di 
+          <lb ed="#Z" n="36"/>xit. Qui lotus est, mundus est, nec opus habet, nisi ut pedes lauet. Huc pertinet &amp; 
+          <lb ed="#Z" n="37"/>frequens in hac caeremonia ablutio, significans &amp; gratia dei omnia peccata purga 
+          <lb ed="#Z" n="38"/>ri, &amp; sanctos perpetuo inuigilare sancta cura contra peccata, eaque non alia quam  
+          <lb ed="#Z" n="39"/>gratiae Christi aqua abluere. Diligentissime autem in lege inculcatur, impuros 
+          <lb ed="#Z" n="40"/>manere omnes quotquot coinquinati hac aqua lustrali non repurgantur. Dixit 
+          <lb ed="#Z" n="41"/>enim dominus Petro, Nisi ego te lauero, non habebis partem mecum. Non 
+          om<lb ed="#Z" n="42" break="no"/>nia &amp; singula huius caeremoniae, sed potissima sic uolui perstringere. Pergo ergo 
+          <lb ed="#Z" n="43"/>iam ad alia.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2016">
+          <lb ed="#Z" n="44"/><pc type="indent"/> His piacularibus adiungi possunt Sacrificia, quibus corporeae contaminatio 
+          <lb ed="#Z" n="45"/>nes, peccatorum uarias coinquinationes praefigurantes, purificabantur uel expia 
+          <lb ed="#Z" n="46"/>bantur, quales erant pollutiones seminis, esus et tactus immundorum, item lepre, 
+          <lb ed="#Z" n="47"/>&amp; puerperae. De quibus fuse agitur a Mose a 12. cap. Leuit, usque ad cap. 16. Neque 
+          <lb ed="#Z" n="48"/>aliud istis omnibus ecclesiae dei propositum est, quam nostra corruptio natiua 
+          <!--280.xml-->
+          <pb ed="#Z" n="129-r"/>
+          <lb ed="#Z" n="1"/>&amp; perditissima, gratuitaque per gratiam dei in sanguine Christi purgatio. Hic com 
+          <lb ed="#Z" n="2"/>memorare &amp; recensere possumus etiam zelotypiae sacrificium. De quo qui copiosa 
+          <lb ed="#Z" n="3"/>uidere cupit, legat 5. cap. lib. Numerorum. Quamuis is ritus magis uideatur 
+          per<lb ed="#Z" n="4" break="no"/>tinere ad iudicialia.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2043">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Quartum sacrificiorum genus erat sacrificium Eucharistiae, 
+          gratiarumactio<lb ed="#Z" n="6" break="no"/>nis, uel gratulatorium, quod appellant Schelamim uel Schlomim, sacrificium, 
+          in<lb ed="#Z" n="7" break="no"/>quam, pacificorum uel salutis. Offerebatur enim gratitudinis ergo, nimirum pro 
+          <lb ed="#Z" n="8"/>salute indepta, &amp; propter felicitatem &amp; integritatem, accepto, inquam, beneficio,  
+          <lb ed="#Z" n="9"/>uel malo aut infortunio depulso. In hoc adhibebatur uel armentale uel gregale pe 
+          <lb ed="#Z" n="10"/>cus: aues non offerebantur. Peragebatur enim iuuenco &amp; bucula, agna &amp; 
+          agno<lb ed="#Z" n="11" break="no"/>capro &amp; capra. Mactabatur ante atrium. Tergus aut pellis obueniebat sacerdoti. 
+          <lb ed="#Z" n="12"/>Sanguis spargebatur iuxta altare. Renes, reticulum epatis, agni cauda &amp; omnis 
+          <lb ed="#Z" n="13"/>adeps comburebatur in ara holocaustorum. Armus dexter sursum eleuabatur,  
+          <lb ed="#Z" n="14"/>pectus agitabatur in cardines mundi. (Nam Thruma &amp; Thnupha, hoc est, leuatio 
+          <lb ed="#Z" n="15"/>&amp; motio siue agitatio, non fuerunt genera aut species sacrificiorum, sed tantum 
+          <lb ed="#Z" n="16"/>ritus quibus utebantur sacerdotes in oblationibus seu sacrificijs peragendis. 
+          Ele<lb ed="#Z" n="17" break="no"/>uatione significabatur Christus exaltandus, &amp; quod exaltatus omnes ad se 
+          trahe<lb ed="#Z" n="18" break="no"/>ret. Motione in omnes mundi cardines adumbrabatur praedicatio Christi spargen 
+          <lb ed="#Z" n="19"/>da in totum orbem terrarum) utrunque cedebat sacerdoti, similiter maxilla &amp; uen 
+          <lb ed="#Z" n="20"/>ter, Reliquae carnes redibant ad offerentem, qui eas epulo sacro absumebat, Re- 
+          <lb ed="#Z" n="21"/>liqua huius generis quae pertinent ad ritum huius sacrificij require ex 3. cap. Le- 
+          <lb ed="#Z" n="22"/>uitici. Si enim Thoda confessio laus &amp; protestatio esset, addebatur &amp; mola 
+          simila<lb ed="#Z" n="23" break="no"/>ginis imbuta oleo, uel coctae crustae, uel lagana. E quibus pars sursum eleuabatur 
+          <lb ed="#Z" n="24"/>&amp; cedebat sacerdoti: reliquum redibat ad offerentem, sicut &amp; panis fermentatus 
+          <lb ed="#Z" n="25"/>concedebatur in epulo manducandus.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2092">
+          <lb ed="#Z" n="26"/><pc type="indent"/> Caeterum praedicabatur &amp; in hoc sacrificij genere Christus cum effectu &amp; uir 
+          <lb ed="#Z" n="27"/>tute mortis suae : ostendebatur item tota ratio agendi gratias deo pro beneficijs,  
+          <lb ed="#Z" n="28"/>Varia sunt beneficiorum genera. Si aliquid beneficij esset collatum: si ablatum 
+          ma<lb ed="#Z" n="29" break="no"/>lum, si quis reualuisset ex morbo, aut aliquod effugisset infortunium, offerebat do 
+          <lb ed="#Z" n="30"/>mino. Sunt beneficia uetera dei, uidelicet quod mundum condidit, &amp; omnia quae 
+          <lb ed="#Z" n="31"/>sunt in mundo: quodque per Christum fideles redemit. Sunt quotidiana : denique 
+          <lb ed="#Z" n="32"/>omnia plena sunt dei beneficijs. Pro his omnibus deo tantum, non creaturis, est 
+          <lb ed="#Z" n="33"/>offerendum : offerendum autem ex toto corde : omnes affectus deo consecrandi 
+          <lb ed="#Z" n="34"/>sunt. Deo enim separabantur partes animalium, in quibus maxime perspiciuntur 
+          <lb ed="#Z" n="35"/>uires animae. In renibus uis est generandi, in sanguine spiritus uitalis, in epate fons 
+          <lb ed="#Z" n="36"/>sanguinis, &amp;c. Porro agendae gratiae per sacrificium, id est per Christum, 
+          Serua<lb ed="#Z" n="37" break="no"/>mur enim propter Christum: &amp; omnia bona conseruntur nobis a deo, non propter 
+          <lb ed="#Z" n="38"/>nos, non propter ullas creaturas, sed propter Christum. Concedebatur offerenti- 
+          <lb ed="#Z" n="39"/>bus epulum sobrium ac laetum: quia non ingratis conduplicatur fere felicitas. Est 
+          <lb ed="#Z" n="40"/>&amp; Christi cognitio epulum splendidissimum &amp; conuiuium iuge.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2128">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Cum Eucharisticis congruunt maxima ex parte Spontanea &amp; Votiua. Spon  
+          <lb ed="#Z" n="42"/>tanea oblatio ea erat quae nulla necessitate cogente aut lege requirente, sed ex 
+          me<lb ed="#Z" n="43" break="no"/>ra proficiscebatur beneuolentia &amp; animi deuotione. Veluti cum seruus non debi 
+          <lb ed="#Z" n="44"/>tum quod debet domino praestat, sed munus quod non debet donat ad 
+          declaran<lb ed="#Z" n="45" break="no"/>dam animi sui erga dominum beneuolentiam. In hoc autem difserunt ab 
+          eucha<lb ed="#Z" n="46" break="no"/>risticis spontanea, quod in illis mandatur ne quid postera die, quod prima quaque 
+          <lb ed="#Z" n="47"/>non absumptum sit epulo, edatur, sed igni crementur reliquiae: in spontaneis lice¬  
+          <lb ed="#Z" n="48"/>bat reliquias &amp; postera edere. Tertia demum die iubebantur exurere. Votiua uero 
+          <!--281.xml-->
+          <pb ed="#Z" n="129-v"/>
+          <lb ed="#Z" n="1"/>sacrificia erant quae ex pacto offerebantur: ueluti si quis fuisset in periculo, uouis, 
+          <lb ed="#Z" n="2"/>set autem deo sacrificium si liberetur: quod ergo liberatus offerebat deo, uotiuum 
+          <lb ed="#Z" n="3"/>erat sacrificium. Congruebant haec ritu cum Eucharisticis. Plura de illis 
+          tradun<lb ed="#Z" n="4" break="no"/>tur Leuitici cap. 7. Significabatur &amp; his sacrificijs propter Christum omnia nobis 
+          <lb ed="#Z" n="5"/>coelitus concedi ac praestari beneficia, atque adeo ipsam quoque beneuolentiam 
+          ser<lb ed="#Z" n="6" break="no"/>uiendi deo. Haec hactenus de sacrificijs populi dei attuli, non singula tractans, sed 
+          <lb ed="#Z" n="7"/>potissima fere. Proponebatur istis ceu in actione uiua Christus dominus, &amp; passio 
+          <lb ed="#Z" n="8"/>eius, passionisque meritum efficacissimum: ita ut possimus sacrificiorum sacras 
+          a<lb ed="#Z" n="9" break="no"/>ctiones appellare conciones de passione Christi &amp; catecheses redemptionis 
+          no<lb ed="#Z" n="10" break="no"/>strae in Christo.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2175">
+          <lb ed="#Z" n="11"/><pc type="indent"/> Quoniam uero dictum est de sacrificijs uotiuis, consequenter aliquid subiun 
+          <lb ed="#Z" n="12"/>gendum erit in transcursu &amp; de Votis, Pertinent enim &amp; haec ad caeremonias 
+          lu<lb ed="#Z" n="13" break="no"/>daicas. De Votis autem nuncupandis persoluendis ac redimendis multus est in 
+          <lb ed="#Z" n="14"/>lege dei sermo, praesertim Leuit. 27. cap. Est autem uouere, aliquid sancte deo pro 
+          <lb ed="#Z" n="15"/>salute uel propria uel alterius promittere. Erat itaque uotum actio quae tantum 
+          re<lb ed="#Z" n="16" break="no"/>ferebatur ad deum, nec in alia quam re sancta atque legitima. Fuit autem in Votis 
+          <lb ed="#Z" n="17"/>diuersitas. Nam res uotiuae fuerunt distinctae quatuor generibus. Vouebant enim  
+          <lb ed="#Z" n="18"/>aliquando ipsos homines, aliqueando animantia, aliqueando domos, aliquando au 
+          <lb ed="#Z" n="19"/>tem agros &amp; alias res inanimes. Homines rursus distinguebantur per aetates, ac 
+          <lb ed="#Z" n="20"/>iuxta has permittebatur redemptio. In mundis animantibus nulla admittebatur 
+          <lb ed="#Z" n="21"/>redemptio. Porro liberum erat domos uel relinquere usibus sacris, uel pro 
+          aesti<lb ed="#Z" n="22" break="no"/>matione sacerdotis aequa redimere. In agris permittebatur aliquando redemptio,  
+          <lb ed="#Z" n="23"/>aliquando non permittebatur. Iam etiam in Num. cap. 30. diligenter praecipitur 
+          <lb ed="#Z" n="24"/>de personis uouentibus, &amp; quando rata, quando irrita aestimari conueniat uota. 
+          <lb ed="#Z" n="25"/>Vbi diligenter inculcatur deo facta uota legitime, minime rescindenda, sed maxi 
+          <lb ed="#Z" n="26"/>me seruanda esse uel praestanda. Temeraria uel illegitima uota nunquam 
+          appro<lb ed="#Z" n="27" break="no"/>bauit aut recepit dominus. De legitimis &amp; uni deo nuncupatis loquens uates di- 
+          <lb ed="#Z" n="28"/>uinus dixit, Vouete &amp; reddite. Non legimus quenquam sanctorum ulla diuis uel 
+          <lb ed="#Z" n="29"/>ulli creaturae uota nuncupasse, nec illud uouisse quod non erat in potestate uouen 
+          <lb ed="#Z" n="30"/>tis, aut pugnabat cum uoluntate dei, cui nuncupabatur uotum, aut coniunctum 
+          <lb ed="#Z" n="31"/>esset cum iniuria proximi, aut non haberet luculentam aliquam utilitatem. Et cer 
+          <lb ed="#Z" n="32"/>te non alia de caussa populo lzraelis permissa sunt uota huiusmodi ad tempus 
+          <lb ed="#Z" n="33"/>usque correctionis, quam ut in cultu unius ueri dei persisterent, &amp; ne unquam ulli 
+          <lb ed="#Z" n="34"/>deo uota sua nuncuparent.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2231">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Ad Votorum considerationem pertinet institutio uel disciplina Nazaraeorum, 
+          <lb ed="#Z" n="36"/>De qua dicuntur multa Num. cap. 6. Nazaraei erant, qui ut liberius uacarent 
+          re<lb ed="#Z" n="37" break="no"/>bus diuinis, uel quod hactenus uixissent paulo indulgentius, iam ut caeteris essent 
+          <lb ed="#Z" n="38"/>exemplum uirtutis, sua sponte suoque arbitrio seuerius uiuendi genus, disciplinae 
+          <lb ed="#Z" n="39"/>loco, in se suscipiebant. Vnde sunt qui existiment Nazaraeos dictos a separatione,  
+          <lb ed="#Z" n="40"/>quod Nazir Hebraeis significet separationem, &amp; Nazaraei a communi aliorum 
+          ho<lb ed="#Z" n="41" break="no"/>minum uiuendi ratione se subducentes, peculiari cuidam uiuendi generi propter 
+          <lb ed="#Z" n="42"/>deum se dediderunt. Durauit ea disciplina in Nazaraeis aliquando per totam 
+          ui<lb ed="#Z" n="43" break="no"/>tam, ut in Samsone &amp; Samuele. Sed &amp; studiosi diuinarum literarum a prophetis 
+          <lb ed="#Z" n="44"/>Amoz &amp; Ieremia propter temperantissimam (quae a studiosis requiritur) uitam,.  
+          <lb ed="#Z" n="45"/>&amp; quod diuino mancipati essent ministerio, Nazaraei appellati sunt. Aliquando 
+          <lb ed="#Z" n="46"/>per certum tempus durauit disciplina illa, ad menses uel dies aliquot. Abstinebant 
+          <lb ed="#Z" n="47"/>autem iuxta legem a quibusdam, a quibus nulla lege alioqui arcebantur, nec in 
+          <lb ed="#Z" n="48"/>alijs hominibus uoto solutis aut liberis erant illicita aut damnata. Principio absti¬ 
+          <!--282.xml-->
+          <pb ed="#Z" n="130-r"/>
+          <lb ed="#Z" n="1"/>nebant a uino &amp; ab omnibus quae proferebat uitis, &amp; quae inebriabant. Atqui cla 
+          <lb ed="#Z" n="2"/>rum est, ut uinum bonam esse dei creaturam, sic nullum potum prohiberi 
+          lege<lb ed="#Z" n="3" break="no"/>Quia tamen Nazaraei domino erant consecrati, uel sanctificati peculiari quodam 
+          <lb ed="#Z" n="4"/>uiuendi genere, &amp; uinum gradum praestruit ad ebrietatem, quae omnium ffagi¬  
+          <lb ed="#Z" n="5"/>tiorum colluuies est, merito Nazaraei a uino sibi temperabant. Simul autem &amp; 
+          o<lb ed="#Z" n="6" break="no"/>tium, matrem uitiorum, cauerunt, &amp; omnem uoluptatem calcatunt. Deinde toto 
+          <lb ed="#Z" n="7"/>uoti tempore nutrierunt comam. Ex qua re quidam deriuarunt uocabuli 
+          origi<lb ed="#Z" n="8" break="no"/>nem. Quia enim Naezer significat comam, Nazaraeum appellatum existimant,  
+          <lb ed="#Z" n="9"/>quasi tu dicas comatum. Caeterum apostolus Paulus non aliam ob caussam iubet 
+          <lb ed="#Z" n="10"/>mulierem tecto uel obuelato capite orare, aut concionem sacram audire in coetu 
+          <lb ed="#Z" n="11"/>ecclesiastico, quam quod non sit sui iuris, sed alienae subdita potestati, nempe 
+          uiri<lb ed="#Z" n="12" break="no"/>Proinde comam nutriebant Nazaraei, quod iam propter uotum deo nuncupatum, 
+          <lb ed="#Z" n="13"/>non amplius suae essent potestatis, sed toti concessissent in ius dei. Et caput quidem 
+          <lb ed="#Z" n="14"/>corporis humani arx &amp; praestantissima corporis pars, caesarie ueluti obuelata 
+          sig<lb ed="#Z" n="15" break="no"/>nificabat totum hominem deo esse deuotum siue consecratum, ad quem unice 
+          spe<lb ed="#Z" n="16" break="no"/>ctare, &amp; a quo uno pendere debeat, Requirebatur praeterea ne se coinquinaret con 
+          <lb ed="#Z" n="17"/>sortio &amp; contagio sceleratorum impiorumque hominum. Quo &amp; illud pertinet 
+          <lb ed="#Z" n="18"/>quod Nazaraeus prohibetur interesse funeri parentum, liberorum, uxoris &amp; 
+          fra<lb ed="#Z" n="19" break="no"/>trum, atque sororum. Vnice enim oculos animi in deum conijcere debet, &amp; prae hoc 
+          <lb ed="#Z" n="20"/>fastidire uel charissima &amp; pretiosissima. Si uero uel de improuiso contaminatus 
+          <lb ed="#Z" n="21"/>fuisset super mortuo, non reputabatur ei amplius ista uita ad uoti exolutionem, 
+          <lb ed="#Z" n="22"/>Nam 7. die iubebatur se sanctificare, deinde uero uotum repetere. Ex istis 
+          om<lb ed="#Z" n="23" break="no"/>nibus colliquescit quale ac quantum fuerit peccatum Samsonis, qui erat Naza 
+          <lb ed="#Z" n="24"/>raeus domini. Quia enim non tantum in ganea apud scortum delitescebat, sed 
+          in<lb ed="#Z" n="25" break="no"/>super scorto prodebat secretum dei, pactumque cum deo initum &amp; coma nutrita te 
+          <lb ed="#Z" n="26"/>stificatum proculcabat, deseruit ipsum dominus, ac recessit ab eo miraculosum il 
+          <lb ed="#Z" n="27"/>lud robur coelitus concessum. Fortitudo enim Samsonis non fuit in caesarie, ut hac 
+          <lb ed="#Z" n="28"/>abrasa, simul rasa ceciderit, sed in spiritu diuino, qui ei a deo dabatur. Ideo enim  
+          <lb ed="#Z" n="29"/>toties repetitur in historia. Et factus est spiritus domini super Samsonem. 
+          Proin<lb ed="#Z" n="30" break="no"/>de recedente spiritu dei, recessit robur: recessit autem, cum scorto prorsus 
+          agglu<lb ed="#Z" n="31" break="no"/>tinatus unus cum eo spiritus esset factus, &amp; scorto iam deum &amp; institutum dei post 
+          <lb ed="#Z" n="32"/>haberet, adeo ut sineret sibi detonderi sacram comam, ac prorsus recederet ab 
+          in<lb ed="#Z" n="33" break="no"/>stitutis dei. Ita enim &amp; spiritus dei recessit ab eo. Vnde mox redactus est in 
+          pote<lb ed="#Z" n="34" break="no"/>statem Palaestinorum: in qua cum diuexaretur misere, &amp; propter ipsum nomen dei 
+          <lb ed="#Z" n="35"/>male audiret blasphemareturque, poenitentiam egit, nomen domini inuocauit, unde 
+          <lb ed="#Z" n="36"/>fruticantibus capillis, redijt ropur, id est redijt spiritus domini, non adductus 
+          ca<lb ed="#Z" n="37" break="no"/>pillorum fruticatione, sed poenitentia &amp; inuocatione diuini nominis. Nec Samson 
+          <lb ed="#Z" n="38"/>tantopere cupiebat priuatam ulcisci iniuriam, quam blasphemos cohercere, 
+          po<lb ed="#Z" n="39" break="no"/>pulumque dei(ad quod uocatus fuerat) liberare asserereque, Redijt ergo diuina 
+          uir<lb ed="#Z" n="40" break="no"/>tus, ex qua collisis theatri columnis, ruina palatij oppressus, moriendo plures 
+          in<lb ed="#Z" n="41" break="no"/>terfecit, quam confecerat uiuus. Sed redimus iam ad institutum nostrum, ut 
+          sub<lb ed="#Z" n="42" break="no"/>iungamus &amp; alia qua pertinent ad plenam expositonem uoti Nazaraeorum. Fia 
+          <lb ed="#Z" n="43"/>nito ergo tempore quod in se susceperat Nazaraeus, ueniebat ad tabernaculum 
+          do<lb ed="#Z" n="44" break="no"/>mini, offerens quae in lege praescribuntur sacrificia : quibus se peccatorem esse 
+          te<lb ed="#Z" n="45" break="no"/>stabatur, omneque bonum, id est si quid uirtutis in ipso repertum esset, id inquam  
+          <lb ed="#Z" n="46"/>omne sibi coelitus collatum fatebatur. Ergo &amp; caesariem detondebat, quam &amp; pro 
+          <lb ed="#Z" n="47"/>tinus iniiciebat in craticulam, in qua cremabantur gratulatoria. Post quae ad eum  
+          <lb ed="#Z" n="48"/>modum perfecta, liberum erat Nazaraeo iam uelut exauthorato redire ad uitam  
+          <!--283.xml-->
+          <pb ed="#Z" n="130-v"/>
+          <lb ed="#Z" n="1"/>pristinam. Haec hactenus de Instituto Nazaraeorum.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2381">
+          <lb ed="#Z" n="2"/><pc type="indent"/> Porro de mundis &amp; immundis multus est in lege sermo: nos in superiore tra 
+          <lb ed="#Z" n="3"/>ctatione quaedam perfunctorie attigimus : sub calcem tamen (his enim finem 
+          im<lb ed="#Z" n="4" break="no"/>ponam dissertationi de legibus caeremonialibus) de delectu ciborum, de cibis 
+          in<lb ed="#Z" n="5" break="no"/>quam mundis &amp; immundis nonnihil adiinciemus, Ab initio quidem condidit 
+          om<lb ed="#Z" n="6" break="no"/>nia deus, &amp; ita condidit, ut quemadmodum conditor bonus est, ita res conditae om 
+          <lb ed="#Z" n="7"/>nes uel hodie sint ualde bonae: neque sibijpsi nunc contradicit cum cibos quosdam 
+          <lb ed="#Z" n="8"/>prohibet, quasi per se aliquid immundum sit. Alia sub hac doctrina recondita 
+          la<lb ed="#Z" n="9" break="no"/>tent mysteria. Minutae &amp; leues uidentur leges, latae de cibo siue uictu, sed uoluit 
+          <lb ed="#Z" n="10"/>re minuta in speciem admonere dominus &amp; in minimis respiciendam esse diui¬  
+          <lb ed="#Z" n="11"/>nam authoritatem. Legis enim authoritas ex deo pendet: ipse est legislator, lex ipsa 
+          <lb ed="#Z" n="12"/>dei inuentum est. Cohercent haec audaciam humanam, quae subinde leges figit ac 
+          <lb ed="#Z" n="13"/>refigit nouasque in diem comminiscitur. Proinde commendauit huiusmodi legibus 
+          <lb ed="#Z" n="14"/>deus obedientiam fidelem suo populo: sicuti ab initio quoque Adamo praecipiens 
+          <lb ed="#Z" n="15"/>ne gustaret de arbore scientiae boni &amp; mali, fidelem ab eo requirebat obedientiam. 
+          <lb ed="#Z" n="16"/>Certe obedientia &amp; fides quae erat in Machabaeis, in Eleazaro &amp; in pijs aliquot 
+          <lb ed="#Z" n="17"/>uiris, Antiocho regi resistentibus, usque ad sanguinem &amp; mortem acerbissimam,  
+          <lb ed="#Z" n="18"/>deo placuit. Plures alij a porcilla carne abstinuerunt, unde tamen nihil laudis uel 
+          <lb ed="#Z" n="19"/>gloriae sunt consequuti. Cum uerbum dei dicit rem aliquam esse sanctam, sancta 
+          <lb ed="#Z" n="20"/>est, idque propter iubentem qui sanctus est. Cum deus dicit aliquid esse impurum,  
+          <lb ed="#Z" n="21"/>impurum est, adeo ut edere aliquid contra uerbum dei sit seipsum polluere. Vos 
+          <lb ed="#Z" n="22"/>iam mundi estis, ait dominus in euangelio, propter sermonem quem dixi uobis. 
+          <lb ed="#Z" n="23"/>Necesse est ergo ut uerbo dei credamus, &amp; praecedat obedientia fidei, inde uero 
+          <lb ed="#Z" n="24"/>opus aut factum quod ex fide existit, quale fuit Eleazari porcillam carnem 
+          gusta<lb ed="#Z" n="25" break="no"/>re nolentis, non potest non probari deo: apud quem quicquid non est ex fide 
+          pec<lb ed="#Z" n="26" break="no"/>catum est. Praeterea habuit dominus in quibusdam hisce suis legibus de non 
+          eden<lb ed="#Z" n="27" break="no"/>dis animalium quorundam carnibus sanitatis humani corporis rationem. 
+          Quae<lb ed="#Z" n="28" break="no"/>dam enim quae hic e cibo hominum remouentur, &amp; a medicis ueluti parum 
+          salu<lb ed="#Z" n="29" break="no"/>taria condemnantur. Vnde &amp; illud syllogismo quodam colligunt sancti, Si 
+          cor<lb ed="#Z" n="30" break="no"/>poris sanitas deo curae est, certe animarum salus ab eodem longe diligentius 
+          pro<lb ed="#Z" n="31" break="no"/>curatur. Quid quod gentes multae a quorundam animalium &amp; esu &amp; contactu 
+          <lb ed="#Z" n="32"/>sibi temperarunt? Ergo ne populus lzraelis, satis alioqui superstitiosus &amp; curio¬  
+          <lb ed="#Z" n="33"/>sus, hic aliquid sibi permitteret, proprioque tentaret arbitrio, leges de hi mysticas 
+          <lb ed="#Z" n="34"/>dedit, quibus &amp; ab humanis retraxit inuentis, &amp; ab alijs secreuit gentibus: dicen 
+          <lb ed="#Z" n="35"/>te Mose in Deut. 54. cap. Populus es sanctus domino deo tuo, &amp; te elegit dominus 
+          <lb ed="#Z" n="36"/>deus tuus, ut sis tu ei populus peculiaris de cunctis gentibus super faciem terrae.  
+          <lb ed="#Z" n="37"/>Certe S. Petro obiicitur in Actis uisum quo per immunda animalia gentes reprae 
+          <lb ed="#Z" n="38"/>sentantur. Deinde uoluit deus respici naturam &amp; ingenium animalium quorum 
+          <lb ed="#Z" n="39"/>esum prohibet In mensa enim per symbola descripsit philosophiam coelestem, sup 
+          <lb ed="#Z" n="40"/>peditans in ipsa mensa occasionem cogitandi &amp; loquendi de sanctimonia uera 
+          a<lb ed="#Z" n="41" break="no"/>nimi, ne simus obscoeni, impudentes, foedi &amp; impuri. Ideoque subinde repetitur haec 
+          <lb ed="#Z" n="42"/>clausula, Ego dominus deus uester sanctus sum. Quasi dicat, Huc pertinent illa  
+          <lb ed="#Z" n="43"/>omnia, ut studeatis sanctimoniae. Docuit ergo in illis symbolis quid sequantur 
+          pij<lb ed="#Z" n="44" break="no"/>quidue fugiant.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2478">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Ponit autem primo in lege de immundis &amp; mundis animalibus generalia 
+          quae<lb ed="#Z" n="46" break="no"/>dam, deinde per species &amp; per catalogum quendam prosequitur singula ordine 
+          <lb ed="#Z" n="47"/>maxime naturali. Locus est copiose expositus Leuit. 11. cap. &amp; Deut. 54. cap. Con 
+          <lb ed="#Z" n="48"/>ceduntur in usum quae ungulam findunt, &amp; ruminant. Vbi protinus duo ponun 
+          <!--284.xml-->
+          <pb ed="#Z" n="131-r"/>
+          <lb ed="#Z" n="1"/>tur, in quibus boni uiri officium comprehenditur. Si enim uolumus munda esse 
+          <lb ed="#Z" n="2"/>animalia, &amp; diuidere ungulam &amp; ruminare oportet. Pes animi affectus est, qui 
+          mi<lb ed="#Z" n="3" break="no"/>nime sequendus est, discretio habenda in rebus, &amp; quemadmodum in fissura sunt 
+          <lb ed="#Z" n="4"/>partes duae dextra &amp; sinistra, ita uir bonus bonum eligit, fugit contrarium, 
+          Rumi<lb ed="#Z" n="5" break="no"/>natio iudicium est. Non enim quelibet admittenda sunt quae uidemus &amp; audimus, 
+          <lb ed="#Z" n="6"/>sed ea duntaxat quae diligenti examine expendimus, deprehendimusque deo &amp; le 
+          <lb ed="#Z" n="7"/>gi eius non aduersari. Subiunguntur deinde animalia multa catalogo certo per 
+          <lb ed="#Z" n="8"/>species, quibus illicitum erat uesci populo domini. Haec erant uel quadrupedia 
+          <lb ed="#Z" n="9"/>terrestria, uel aquatilia, uel uolucria, uel reptilia. Quadrupedia animantia quatuor 
+          <lb ed="#Z" n="10"/>nominatim prohibentur, Camelus qui est elata ceruice, docens superbiam ac arro 
+          <lb ed="#Z" n="11"/>gantiam modis omnibus fugiendam: Cuniculus item uel mus montanus. Nam 
+          im<lb ed="#Z" n="12" break="no"/>probantur deo homines terrenis prorsus immersi. Lepus animal timidum, 
+          igna<lb ed="#Z" n="13" break="no"/>uum pauorem depellendum monet: sicut &amp; Porcus immundiciem omnem. Nam  
+          <lb ed="#Z" n="14"/>typus &amp; symbolum impuritatis est porcus, qui &amp; Prouerbijs locum dedit. Et de 
+          <lb ed="#Z" n="15"/>Circe dicitur quod suis incantationibus Vlyssis socios conuerterit in porcos. Por 
+          <lb ed="#Z" n="16"/>ro aquatilia conceduntur in cibum, quae squamas &amp; pinnas habent: si altero care 
+          <lb ed="#Z" n="17"/>rent, uetita erant, ut anguilla, quae etsi pinnas habeat, squamis tamen caret. Vt 
+          e<lb ed="#Z" n="18" break="no"/>nim corpora piscium reguntur pinnis: sic spe firma oportet regi totum hominem, 
+          <lb ed="#Z" n="19"/>Squamae durae sunt, ac contegunt corpora: nisi uero constantes ac patientes simus 
+          <lb ed="#Z" n="20"/>in opere domini, merito abominatur nos dominus. Ex uolucribus prohibentur 
+          <lb ed="#Z" n="21"/>maxime rapaces aues, uoraces, rebus impuris uictitantes &amp; gaudentes, crepuscu 
+          <lb ed="#Z" n="22"/>lares, nocturnae, lucifugae, &amp; subdole, instabiles, &amp; parum alacres. Commendatur 
+          <lb ed="#Z" n="23"/>ergo nobis beneficentia, abstinentia, temperantia, denique simplicitas, lux, constan 
+          <lb ed="#Z" n="24"/>tia, alacritas, integritas &amp; puritas uitae. lam ex reptilibus quoque non pauca 
+          notan<lb ed="#Z" n="25" break="no"/>tur. Nam displicent deo homines in lutum immersi prorsus. Nolui singula 
+          uetito<lb ed="#Z" n="26" break="no"/>rum animantium uocabula recensere, cum quod id fuisset molestum satis, tum  
+          <lb ed="#Z" n="27"/>quod mire in his interpretandis laborant ac uariant expositores sacri codicis : ut 
+          <lb ed="#Z" n="28"/>hic non satis admirari possim extreme caecam ludaici populi pertinaciam in dele 
+          <lb ed="#Z" n="29"/>ctu ciborum mordicus conseruando, cum ipsorum Rabini hic se non satis ex- 
+          <lb ed="#Z" n="30"/>plicent nec diserte &amp; certo dicere possint quaenam sint illa animalia qua prohi- 
+          <lb ed="#Z" n="31"/>buit dominus.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2562">
+          <lb ed="#Z" n="32"/><pc type="indent"/> Huc pertinet quod ante legem, temporibus Noe, deus sanguinis, &amp; carnis cum 
+          <lb ed="#Z" n="33"/>sanguine siue morticini, lacerati a feris, aut suffocati esum prohibuit. Ante dilu 
+          <lb ed="#Z" n="34"/>uium oleribus fructibusque terrae uescebantur patres, a diluuio concessit eis &amp; 
+          a<lb ed="#Z" n="35" break="no"/>nimalium esum, sed iugulare illa, sanguinemque elicere uel fundere iussit. Extat lo 
+          <lb ed="#Z" n="36"/>cus Gen. cap. 9. Porro in lege magna cum seueritate dicit dominus, Quicunque de 
+          <lb ed="#Z" n="37"/>domo lzrael aut ex incolis qui inter uos habitant ullum sanguinem comederit,  
+          <lb ed="#Z" n="38"/>ponam faciem meam contra animam talem, &amp; excindam eam de medio populi 
+          sui<lb ed="#Z" n="39" break="no"/>Leuit. 17. Ac repetitur eadem lex Leuit. 19. &amp; Deut. 52. &amp; 15. Iteratur subinde Leuit. 
+          <lb ed="#Z" n="40"/>3. &amp; 7. cap. Nec caret iustis &amp; maximis caussis quod sanguinis esum tanta 
+          seueri<lb ed="#Z" n="41" break="no"/>tate prohibuit. Principio enim post recitata uerba, mox subiungit, Nam anima 
+          <lb ed="#Z" n="42"/>carnis est in sanguine: &amp; ego dedi illum uobis super altare, ad expiandum animas 
+          <lb ed="#Z" n="43"/>uestras. Sanguis enim animam expiabit. Et ob id dixi filijs lsrael, Nulla anima ex 
+          <lb ed="#Z" n="44"/>uobis sanguinem edat, &amp;c. En ratio in his redditur luculentissima cur non liceat 
+          <lb ed="#Z" n="45"/>uesci sanguine, quia praestantissima res sanguis, utpote sanctificationi hominum 
+          <lb ed="#Z" n="46"/>destinatus. Dedit enim sanguinem deus uelut pretium quo expient peccata, 
+          pre<lb ed="#Z" n="47" break="no"/>tium inquam redemptionis, quo absoluantur at peccato. Praeterea sanguis est 
+          ani<lb ed="#Z" n="48" break="no"/>ma, id estalimentum uitae. Sanguis ergo sanguinem Christi in cruce fundendum 
+          <!--285.xml-->
+          <pb ed="#Z" n="131-v"/>
+          <lb ed="#Z" n="1"/>ractus immun 
+          <lb ed="#Z" n="2"/>dorum, 
+          <!--285.xml-->
+          <pb ed="#Z" n="131-v"/>
+          <lb ed="#Z" n="3"/>DE LEGIE. DEI CAEREMONIALIB 
+          <lb ed="#Z" n="4"/>significauit, per quem ut propitiationem plenissimam expiati ac sanctificati sunt 
+          <lb ed="#Z" n="5"/>credentes: &amp; in quo est alimentum animae ad uitam aeternam, &amp; quemadmodum 
+          <lb ed="#Z" n="6"/>non licebat uesci de carne sacrificiorum, quorum sanguis pro peccato 
+          infereba<lb ed="#Z" n="7" break="no"/>tur in sancta, sed extra castra cremabantur: ita nephas erat uesci sanguine, utpote 
+          <lb ed="#Z" n="8"/>expiatione pro peccato. Edebat ergo sanguinem, qui expiationem sanguine Chri 
+          <lb ed="#Z" n="9"/>sti perfectam, suis attribuebat uiribus aut operibus, uel tanquam prophanum aesti 
+          <lb ed="#Z" n="10"/>mabat, non plenam ei tribuens sanctificationem omnium peccatorum. Non 
+          ede<lb ed="#Z" n="11" break="no"/>bat sanguinem, sed effundebat ad aram, qui beneficium redemptionis unico Chri- 
+          <lb ed="#Z" n="12"/>sti ascribebat merito, &amp; tanti aestimabat quanti merito aestimari debet. Deinde uo- 
+          <lb ed="#Z" n="13"/>luit deus animis hominum altissime impressum, ne quis hominis effunderet 
+          san<lb ed="#Z" n="14" break="no"/>guinem, aut ex hominis sanguine &amp; uisceribus uiueret: quod faciunt milites mer 
+          <lb ed="#Z" n="15"/>cenarij &amp; impij, auari, usurarij, &amp; impostores, artibus malis ui atque iniuria effun- 
+          <lb ed="#Z" n="16"/>dentes uel deglutientes miserorum cruorem. Horrorem autem minis &amp; ratio¬  
+          <lb ed="#Z" n="17"/>nibus grauissimis, cum Noe colloquens, omnibus incussit, ac dixit, Ego, si cessent 
+          <lb ed="#Z" n="18"/>homines, sanguinis effusionem ultione persequar. Conditus est enim homo ad ima 
+          <lb ed="#Z" n="19"/>ginem &amp; similitudinem dei: unde non potest non deus in se recipere contumeliam,  
+          <lb ed="#Z" n="20"/>quae illata est eius imagini. Qui enim regis deiincit imaginem, in ipsum peccat 
+          re<lb ed="#Z" n="21" break="no"/>gem, &amp; accusatur criminis laesae maiestatis. Porro de suffocato haec lata est lex, Ne 
+          <lb ed="#Z" n="22"/>ederis cum sanguine. Item, Ne ederis de cadauere uel morticino, aut discerpto a 
+          <lb ed="#Z" n="23"/>feris, &amp;c. Caeterum suffocato &amp; morticinis significata sunt opera mortuaria, a 
+          qui<lb ed="#Z" n="24" break="no"/>bus se expurgare iubetur per diuinam gratiam quicunque cupit placere deo. Suffo 
+          <lb ed="#Z" n="25"/>catis ergo uescebatur quicunque uiuebat in sceleribus sine poenitentia, neque Chri- 
+          <lb ed="#Z" n="26"/>sti sanguinem magnopere curabat.
+        </p>
+        <p xml:id="UD1xh4-I2PbKl-d1e2667">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Iam &amp; Tactus tribus circumscribitur notis in lege, nempe si attingas rem im  
+          <lb ed="#Z" n="28"/>mundam, aut gestes, aut ea tibi cadat in uas aliquod aut in uestimentum. Casu certe 
+          <lb ed="#Z" n="29"/>contaminatur, quisquis peccat per imprudentiam. Grauius peccat, quisquis sciens 
+          <lb ed="#Z" n="30"/>&amp; uolens aut dedita opera praeuaricatur. Grauissime uero delinquit, qui defendit 
+          <lb ed="#Z" n="31"/>scelera, &amp; alios in ipsa impellit. Quod autem in attactu &amp; in alijs locis dicitur 
+          im<lb ed="#Z" n="32" break="no"/>munditia duratura ad uesperam, apertissima texitur de Christo prophetia, 
+          nem<lb ed="#Z" n="33" break="no"/>pe uenturum sub uesperam, id est in fine saeculi Messiam, qui expiet peccata totius 
+          <lb ed="#Z" n="34"/>mundi. Satis superque satis uideor hactenus per duos Sermones, utinam multo 
+          <lb ed="#Z" n="35"/>cum fructu C. V. immoratus esse legibus Caeremonialibus, ergo ut his tandem 
+          om<lb ed="#Z" n="36" break="no"/>nibus finem imponam, in summam summa redigam capita de quibus dixi. 
+          Parti<lb ed="#Z" n="37" break="no"/>tus sum uniuersam disputationem in tria capita. Dixi enim de Personis sacris, de 
+          <lb ed="#Z" n="38"/>loco temporeque sacro, &amp; de ipsa re sacra, quam exercuerunt personae in loco sacro, 
+          <lb ed="#Z" n="39"/>de ipsis, inquam, sacramentis, sacrificijs, &amp; alijs nonnullis huius generis. Personae 
+          <lb ed="#Z" n="40"/>sacrae sacerdotes sunt. Ostendimus horum originem primam, ordinationem, 
+          ue<lb ed="#Z" n="41" break="no"/>stitum mysticum, &amp; officium uarium. De loco &amp; tempore sacro disserentes descri 
+          <lb ed="#Z" n="42"/>psimus Tabernaculum, ubi etiam annotauimus quid fuerit in tabernaculo, 
+          nimi<lb ed="#Z" n="43" break="no"/>rum Arca foederis, Mensa aurea. Candelabrum aureum, Ara thymiamatis &amp; ho 
+          <lb ed="#Z" n="44"/>locaustorum, &amp; Labrum aeneum: quorum mysteria quoque perstrinximus. In 
+          tra<lb ed="#Z" n="45" break="no"/>ctatione temporis sacri attigimus omnis generis ferias uel festa solennia, stata &amp; 
+          <lb ed="#Z" n="46"/>conceptiua. Postremo autem cum exponeremus res sacras &amp; cultum sacrum, di 
+          <lb ed="#Z" n="47"/>sputauimus de sacramentis ueteris ecclesiae duobus. Circuncisione &amp; Pascha: item  
+          <lb ed="#Z" n="48"/>de Sacrificijs, quorum alia fuerunt holocausta, alia cibaria, alia piacularia, alia item  
+          <lb ed="#Z" n="49"/>gratulatoria seu eucharistica, ubi dictum est nonnihil de Spontaneis &amp; uotiuis,  
+          <lb ed="#Z" n="50"/>denique de Votis, de disciplina uel instituto Nazaraeorum, de mundis &amp; immun 
+          <lb ed="#Z" n="51"/>dis, de delectu ciborum, de sanguine &amp; suffocato, &amp; de tactu immundorum. 
+          Do<lb ed="#Z" n="52" break="no"/>minus 
+          <!--286.xml-->
+          <pb ed="#Z" n="132-r"/>
+          <lb ed="#Z" n="1"/>minus Iesus illuminet corda uestra, ut haec omnia cedant ad gloriam nominis sui, 
+          <lb ed="#Z" n="2"/>&amp; ad salutem animarum uestrarum, Amen 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
