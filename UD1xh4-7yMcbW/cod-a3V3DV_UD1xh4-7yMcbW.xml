@@ -104,14 +104,14 @@
           <lb ed="#Z" n="2"/>Charitas, comunicatio opum seu beneficentia. De qua nonnihil dictum est De- 
           <lb ed="#Z" n="3"/>cade prima, &amp; dicentur in hoc Sermone quoque nonnulla. 
         </p>
-        <p xml:id="UD1xh4-7yMcbW-d1e278 ">
+        <p xml:id="UD1xh4-7yMcbW-d1e278">
           Nec alia comemorat 
           <lb ed="#Z" n="4"/>beatus Lucas in Actis, describens qualis fuerit primitiua Christi per apostolos 
           <lb ed="#Z" n="5"/>fundata fidelis ecclesia, &amp; quae potissima eius capita, Erant autem perseuerantes,  
           <lb ed="#Z" n="6"/>inquit, in doctrina apostolorum, &amp; comunicatione, &amp; fractione panis, &amp; preca 
           <lb ed="#Z" n="7"/>tionibus. In his paucis capitibus uniuersa pietas comprehensa consistit.
         </p>
-        <p xml:id="UD1xh4-7yMcbW-d1e202"> <!-- no break in english; "unto the ecclesiasticaly.." line 18-19 -->
+        <p xml:id="UD1xh4-7yMcbW-d1e202"> 
           <lb ed="#Z" n="8"/><pc type="indent"/> Cum ministerio ecclesiastico sunt coniuncta quae sequuntur. Primum autem  
           <lb ed="#Z" n="9"/>locum habent scholae Christianae, uberem prophetarum uel ministrorum 
           eccle<lb ed="#Z" n="10" break="no"/>siae segetem proferentes. Intellexerunt omnes gentes non omnino barbarae, sine 
@@ -901,7 +901,7 @@
           <lb ed="#Z" n="9"/>quam in discrimen animae &amp; corporis tot ecclesias conijcere. Perduntur em fun 
           <lb ed="#Z" n="10"/>ditus ecclesiae incuria et impietate deprauatorum pastorum. Deponant itaque mature.
         </p>
-        <p xml:id="UD1xh4-7yMcbW-d1e1595"><!-- no break in english -->
+        <p xml:id="UD1xh4-7yMcbW-d1e1595">
           <lb ed="#Z" n="11"/><pc type="indent"/> Caeterum quo facilius &amp; rectius in officio retinerentur ecclesiarum ministri, cele 
           <lb ed="#Z" n="12"/>brarunt quondam ueteres semel &amp; iterum in anno synodos sacerdotales, &amp; has ue 
           <lb ed="#Z" n="13"/>luti medicinam adhibuerunt ministrorum morbis. Et ne quid hic longe petitum affe 
@@ -930,7 +930,7 @@
           <lb ed="#Z" n="36"/>nisi ergo in ecclesia ualeat admonitio, &amp; in quotidiano usu sit correctio, citius 
           <lb ed="#Z" n="37"/>quam ipsi putemus collabuntur &amp; intereunt ea quoque quae firmissima credebantur.
         </p>
-        <p xml:id="UD1xh4-7yMcbW-d1e1657"><!-- no break in english -->
+        <p xml:id="UD1xh4-7yMcbW-d1e1657">
           <lb ed="#Z" n="38"/><pc type="indent"/> Sicut autem dominus priuatim uoluit admoneri &amp; corripi praeuaricantes ecclesii 
           <lb ed="#Z" n="39"/>ministros, ita eiusdem admonitionis &amp; correptionis bonum extendit ad uniuersam 
           <lb ed="#Z" n="40"/>ecclesiam. Ergo habuit uetus ecclesia sanctum presbyterorum senatum, qui 
@@ -972,7 +972,7 @@
           istius<lb ed="#Z" n="26" break="no"/>modi increpatio haec. S. Petrus qui turpiter abnegarat dominum, audit sibi in 
           <lb ed="#Z" n="27"/>ipsa resurrectionis die a mulieribus per angelos nunciari euangelium.
         </p>
-        <p xml:id="UD1xh4-7yMcbW-d1e1747"><!-- no break in english -->
+        <p xml:id="UD1xh4-7yMcbW-d1e1747">
           <lb ed="#Z" n="28"/><pc type="indent"/> Porro esse in ecclesia etiam magistratum, &amp; ius gladij ferientis maleficos, &amp;  
           <lb ed="#Z" n="29"/>magistratum iudicantem ferientemque gladio, nihilo minus numerari inter uera 
           <lb ed="#Z" n="30"/>ecclesiae membra, imo magistratum officio suo ecclesiae omnino utilem esse, 
@@ -1049,7 +1049,7 @@
           patien<lb ed="#Z" n="29" break="no"/>tia, fide, &amp; dilectione: sancte item &amp; honeste educare sobolem, eandemque suo 
           <lb ed="#Z" n="30"/>tempore etiam sancto consecrare coniugio.
         </p>
-        <p xml:id="UD1xh4-7yMcbW-d1e1875"><!-- no break in english here -->
+        <p xml:id="UD1xh4-7yMcbW-d1e1875">
           <lb ed="#Z" n="31"/><pc type="indent"/> Quod si propter adulteria, aut adulterio grauiora scelera, ipsa ineuitabilis 
           <lb ed="#Z" n="32"/>necessitas dissuere coniugia cogat, ecclesia tamen hic nihil agit temere. Habet  
           <lb ed="#Z" n="33"/>suos iudices, qui in caussis &amp; litibus matrimonialibus iuxta aequm &amp; bonum, 
@@ -1211,7 +1211,7 @@
           imper<lb ed="#Z" n="12" break="no"/>fecta ecclesia, sanctius, perfectius &amp; spiritualiter magis uiuere. Sed quomodo 
           <lb ed="#Z" n="13"/>id eis cesserit &amp; cedat, uel hodie totus loquitur mundus.
         </p>
-        <p xml:id="UD1xh4-7yMcbW-d1e2183"><!-- no break in English here (1137a, line 28) -->
+        <p xml:id="UD1xh4-7yMcbW-d1e2183">
           <lb ed="#Z" n="14"/><pc type="indent"/> Vota quae uouent ineptissima sund. Castitatem quam non habent, ouent. 
           <lb ed="#Z" n="15"/>Donum dei est castitas, nec omnium est. Et Paulus dicit,. Qui se non continent,  
           <lb ed="#Z" n="16"/>contrahant matrimonium. Satius est matrimonium contrahere, quam uri. Et 
