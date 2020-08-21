@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 5</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 5</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="14-v"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-agrtvB"><!-- d1s5 --> 
+        <head xml:id="UD1xh4-agrtvB-Hd1e106">Sermo 5</head>
+        <head xml:id="UD1xh4-agrtvB-Hd1e109" type="question-title">Unam tantum esse fidem veram, et quae sit eius virtus</head>
+        <p xml:id="UD1xh4-agrtvB-d1e112">
+          <!--51.xml-->
+          <pb ed="#Z" n="14-v"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Vnam tantum esse fidem ueram, &amp; quae sit eius uirtus. SERMO V. 
+          <lb ed="#Z" n="2"/>EMPORIS exclusus breuitate, prepeditusque argumenti praestantia, non 
+          <lb ed="#Z" n="3"/>potui sermone proximo omnia quae de fide institueram dicere, 
+          absolue<lb ed="#Z" n="4" break="no"/>re: iam ergo diuina aspirante gratia, subiiciam quae eius argumenti 
+          resta<lb ed="#Z" n="5" break="no"/>re uidentur. Vos orate dominum, ut quod uoce hominis infertur 
+          au<lb ed="#Z" n="6" break="no"/>ribus uestris, idipsum digito dei uestris inscribatur cordibus. 
+          <lb ed="#Z" n="7"/>Nescit fides uera ullas partes. Apostolus enim, Vnus, inquit, dominus, una fi 
+          <lb ed="#Z" n="8"/>des, unum baptisma, unus deus &amp; pater omnium. Manet enim ab ipso mundi ex- 
+          <lb ed="#Z" n="9"/>ordio ad finem usque una &amp; eadem in omnibus electis dei fides. Vnus &amp; idem est 
+          <lb ed="#Z" n="10"/>perpetuo deus, unus omnium bonorum fons inexhaustus. Vna &amp; eadem est ab 
+          <lb ed="#Z" n="11"/>exordio rerum dei ueritas, dei uerbo exposita hominibus. Vnum ergo &amp; idem 
+          per<lb ed="#Z" n="12" break="no"/>petuo manet obiectum &amp; fundamentum fidei, deus &amp; uerbum dei. Vna &amp; eadem  
+          <lb ed="#Z" n="13"/>nobiscum fide crediderunt omnes ab exordio rerum electi, per Christum nobis 
+          <lb ed="#Z" n="14"/>omnia bona gratis donari, &amp; in uerbo domini omnem ueritatem credendam ex- 
+          <lb ed="#Z" n="15"/>poni : prinde fideles antiquorum saeculorum fidem suam in deum &amp; uerbum eius 
+          <lb ed="#Z" n="16"/>semper collocarunt: ut iam proculdubio non sit nisi una fides uera.
+        </p>
+        <p xml:id="UD1xh4-agrtvB-d1e155">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Scio plures easque uarias in orbe iactari fides, id est religiones. Est enim fides In 
+          <lb ed="#Z" n="18"/>diana, est fides ludaica, est fides Mahometica, est fides Georgiana, interim tamen 
+          <lb ed="#Z" n="19"/>non est nisi una uera fides Christiana, cuius compendium continetur in articulis 
+          <lb ed="#Z" n="20"/>fidei, &amp; plenitudo eius in sacris utriusque testamenti literis. Scio item uarias esse fi- 
+          <lb ed="#Z" n="21"/>des hominum, innitentium in res uarias credentiumque contraria uerae fidei, sed 
+          <lb ed="#Z" n="22"/>manet interim non nisi una uera fides in deum &amp; uerbum eius, indubitata rerum  
+          <lb ed="#Z" n="23"/>uerissimarum certissimarumque persuasio fiduciaque.
+        </p>
+        <p xml:id="UD1xh4-agrtvB-d1e174">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Ea fiducia suscipit incrementum in animis fidelium, decrescit item &amp; deficit 
+          <lb ed="#Z" n="25"/>prorsus. Ideoque apostoli dominum orabant, Adauge nobis fidem domine. Et 
+          apo<lb ed="#Z" n="26" break="no"/>stolus ubique imprecatur fidelibus in scriptis suis spiritus &amp; fidei incrementum, 
+          <lb ed="#Z" n="27"/>Nam &amp; Dauid prior orauit, Cor mundum crea in me deus, &amp; spiritum sanctum 
+          <lb ed="#Z" n="28"/>tuum ne auferas a me. Nam uiderat a Saule, cui ipse successerat in regno, recessisi 
+          <lb ed="#Z" n="29"/>se spiritum dei bonum, ac subijsse animum eius spiritum nequam, qui ipsum mi- 
+          <lb ed="#Z" n="30"/>sere diuexabat. Huc pertinet illud euangelicum. Omni habenti dabitur: non 
+          ha<lb ed="#Z" n="31" break="no"/>benti autem aufertur quod non habet aut pro nihilo reputat, &amp; dabitur 
+          habenti<lb ed="#Z" n="32" break="no"/>Neque frustra dixit ad Petrum dominus, Oraui pro te Petre ne deficiat fides 
+          tua<lb ed="#Z" n="33" break="no"/>Paulus enim commemorat quosdam suo saeculo circa fidem fecisse naufragium,  
+          <lb ed="#Z" n="34"/>aliorumque fidem subuertere. Et quorsum quaeso audimus quotidie uerbum dei ac 
+          <lb ed="#Z" n="35"/>precamur supplices domino, nisi quod incrementum pietatis speramus, &amp; 
+          posci<lb ed="#Z" n="36" break="no"/>mus ne a uera fide excidamus. Certe Paulus ad Thessalonicenses, Nocte &amp; die 
+          <lb ed="#Z" n="37"/>oramus, inquit, sedulo ut uideamus faciem uestram, &amp; suppleamus quae desunt fi 
+          <lb ed="#Z" n="38"/>dei uestrae. Nam &amp; paulo superius dixerat, Misi ad hoc Timotheum, ut 
+          cognosce<lb ed="#Z" n="39" break="no"/>rem fidem uestram, ne quo pacto tentasset ille qui tentat, &amp; inanis factus esset 
+          la<lb ed="#Z" n="40" break="no"/>bor noster. Siquidem ad Ephesios idem ille apostolus dicit, Christus dedit alios apo 
+          <lb ed="#Z" n="41"/>stolos, alios uero prophetas, alios autem pastores &amp; doctores, ad instaurationem 
+          <lb ed="#Z" n="42"/>sanctorum in aedificationem corporis Christi, donec perueniamus omnes in 
+          uni<lb ed="#Z" n="43" break="no"/>tatem fidei &amp; agnitionis filij dei, in uirum perfectum, in mensuram aetatis plenae 
+          <lb ed="#Z" n="44"/>adultae Christi, ut non simus amplius pueri. Proinde quoad uiuimus discimus, ut 
+          <lb ed="#Z" n="45"/>perficiatur fides nostra, &amp; sicubi tentationibus debilitata fuerit reficiatur ac 
+          con<lb ed="#Z" n="46" break="no"/>firmetur rursus. Atque in hac uarietate, in hoc incremento &amp; imbecillitate fidei non 
+          <lb ed="#Z" n="47"/>est ulla partitio aut diuisio, manet eadem semper fidei radix, eadem substantia, licet 
+          <!--52.xml-->
+          <pb ed="#Z" n="15-r"/>
+          <lb ed="#Z" n="1"/>iam maior sit nunc uero minor. Eodem modo fidem nec mutat nec scindit in par 
+          <lb ed="#Z" n="2"/>tes quod alia dicitur fides generalis, alia fides specialis. Generalis enim fides non  
+          <lb ed="#Z" n="3"/>alia est quam quae credit omnia uerba dei uera esse &amp; deum bene uelle homini- 
+          <lb ed="#Z" n="4"/>bus. Non aliud credit Specialis fides, tantum quod omnibus comune est, sibi 
+          spe<lb ed="#Z" n="5" break="no"/>cialiter applicat fidelis, credens deum non tantum alijs sed sibi quoque bene uelle,  
+          <lb ed="#Z" n="6"/>Sed &amp; totum quasi in partes, genus in species deducit. Nam quia generali fide cre 
+          <lb ed="#Z" n="7"/>dit omnia uerba dei uera esse, pari ratione credit speciali fide immortales esse ani¬  
+          <lb ed="#Z" n="8"/>mas, &amp; resurgere nostra corpora, saluandos fore fideles, perdendos infideles, &amp; si 
+          <lb ed="#Z" n="9"/>quid huius generis aliud est quod uerbo dei credendum traditur.
+        </p>
+        <p xml:id="UD1xh4-agrtvB-d1e254">
+          <lb ed="#Z" n="10"/><pc type="indent"/> Porro disputationem de fide Infusa &amp; Acquisita, de fide informi &amp; 
+          formata<lb ed="#Z" n="11" break="no"/>illis excutiendam relinquo, qui ex seipsis nouas illas disputationes inuehunt in 
+          ec<lb ed="#Z" n="12" break="no"/>clesiam. Vera fides nullis acquiritur uiribus &amp; meritis humanis, sed infunditur 
+          <lb ed="#Z" n="13"/>a deo. Sicut exposui superiori concione. Et cum auscultatione uerbi diuini ab ho 
+          <lb ed="#Z" n="14"/>mine acquiritur, nihilo minus totum gratiae dei imputatur, quae nisi operetur in 
+          <lb ed="#Z" n="15"/>animo auditoris interne, nihil proficit externus cultor aut predicator. Legimus in 
+          <lb ed="#Z" n="16"/>libro <name xml:id="UD1xh4-agrtvB-Nd1e272" ref="#Augustine">S. Augustini</name> de praedestinatione sanctorum cap. 3. quod aliquando fuit in 
+          <lb ed="#Z" n="17"/>errore, putans fidem qua in deum credimus non esse donum dei, sed a nobis esse 
+          <lb ed="#Z" n="18"/>in nobis, &amp; per illam nos impetrare dei dona, quibus iuste &amp; pie uiuamus in hoc 
+          <lb ed="#Z" n="19"/>saeculo. Sed eam opinionem eo libro copiose &amp; grauiter refellit. Ita fides uera quae 
+          <lb ed="#Z" n="20"/>in unum deum tendit, &amp; dirigitur uerbo dei, satis est formalis aut formata. Certe 
+          <lb ed="#Z" n="21"/>forma fidei sculpitur in corde credentis per spiritum sanctum. Et quamuis sit mi- 
+          <lb ed="#Z" n="22"/>nuta neque excreuerit ad gradum supremum, uera tamen fides est, uim suam 
+          ha<lb ed="#Z" n="23" break="no"/>bens ceu granum synapi. Credidit in dominum Iesum latro cum domino 
+          crucifi<lb ed="#Z" n="24" break="no"/>xus, &amp; saluatus est, licet fides in eo uiguerit pauculo tempore, neque uberem protu 
+          <lb ed="#Z" n="25"/>lerit bonorum operum segetem: denique fides illa latronis non fuit diuersa aut 
+          alie<lb ed="#Z" n="26" break="no"/>na a fide S. Petri &amp; S. Pauli, sed eadem prorsus, licet horum uberiorem bonorum 
+          <lb ed="#Z" n="27"/>operum segetem protulerit. Gratis iustificati sunt Petrus &amp; Paulus, licet multa 
+          ha<lb ed="#Z" n="28" break="no"/>buerint bona opera: gratis iustificatur latro, licet pauca aut nulla habuerit opera 
+          <lb ed="#Z" n="29"/>bona. Teneamus itaque fidem ueram esse unicam quidem, quae tamen augmenta seu 
+          <lb ed="#Z" n="30"/>incrementum recipiat, denique deficere possit &amp; extingui.
+        </p>
+        <p xml:id="UD1xh4-agrtvB-d1e306">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Restat iam ut explicemus uirtutem &amp; effectus fidei uerae. Praestitit hoc ante  
+          <lb ed="#Z" n="32"/>me multo felicius imo absolutissime S. apostolus Paulus. Verum cum multa ad e 
+          <lb ed="#Z" n="33"/>Hebraeos 11. capite attulisset, cogitur tamen fateri se non posse commemorare onm 
+          <lb ed="#Z" n="34"/>nia: iccirco recensebo aliquot modo fideiuirtutes, reliquas charitati uestrae 
+          inda<lb ed="#Z" n="35" break="no"/>gandas &amp; expendendas relinquens.
+        </p>
+        <p xml:id="UD1xh4-agrtvB-d1e320">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Fides uera ante omnia confert ueram scientiam, uere sapientes reddens. Fide 
+          <lb ed="#Z" n="37"/>enim deum cognoscimus, recteque de iudicijs &amp; operibus dei, de uirtutibus &amp; ui¬  
+          <lb ed="#Z" n="38"/>tijs iudicamus. Quae illa confert, uera proculdubio est sapientia. Sperant multi se 
+          <lb ed="#Z" n="39"/>ueram consequuturos sapientiam ex studijs philosophiae : sed errant toto coelo. 
+          <lb ed="#Z" n="40"/>Nam philosophia perperam iudicat &amp; uitiose pleraque docet de deo, de operibus dei, 
+          <lb ed="#Z" n="41"/>de summo bono, de fine bonorum &amp; malorum, de expetendis &amp; fugiendis. 
+          Ea<lb ed="#Z" n="42" break="no"/>dem autem uere &amp; recte traduntur in uerbo dei, intelliguntur uero 
+          percipiun<lb ed="#Z" n="43" break="no"/>turque fide. Fides ergo est uera sapientia, &amp; reddit uere sapientes. Nam Ieremias 
+          <lb ed="#Z" n="44"/>quoque. Ecce uerbum domini, inquit, reprobarunt, quae ergo illis sapientia reliqua  
+          <lb ed="#Z" n="45"/>esse poterit? Celebris est in toto terrarum orbe Solomonis sapientia. Sed legimus 
+          <lb ed="#Z" n="46"/>in euangelio secundum Matthaeum, dominum contra ludaeos hanc protulisse sen 
+          <lb ed="#Z" n="47"/>tentiam, Regina Austri surget in iudicio cum generatione hac, &amp; condemnabit 
+          <lb ed="#Z" n="48"/>eam, quod uenerit a finibus terrae ad audiendam sapientiam Solomonis: &amp; ecce 
+          <!--53.xml-->
+          <pb ed="#Z" n="15-v"/>
+          <lb ed="#Z" n="1"/>plus quam Solomon est in loco hoc. Praefertur Christus Solomoni. &amp; 
+          sapienti<lb ed="#Z" n="2" break="no"/>Christi sapientiae Solomonis. Constat autem sapientiam Christi filij dei non posse 
+          <lb ed="#Z" n="3"/>percipi nisi fide, praestantissimam ergo sapientiam confert fides. Eximiam uero lau 
+          <lb ed="#Z" n="4"/>dem haec nostra sapientia meretur, quod qui eam ambiunt, non ad exteras 
+          gen<lb ed="#Z" n="5" break="no"/>tes multo cum sumptu &amp; labore relegantur uelut ad Aegyptios sacerdotes, ad 
+          <lb ed="#Z" n="6"/>gymnosophistas lndorum, ad philosophos Graecorum, aut ad ludaeorum Rabinos. 
+          <lb ed="#Z" n="7"/>Verbum dei, deus per totum orbem terrarum dispersit, ut iam uerbum fidei sit in 
+          <lb ed="#Z" n="8"/>fidelium omnium cordibus. Nam apostolus Paulus, lustitia fidei, ait, ita loquitur,  
+          <lb ed="#Z" n="9"/>Ne dixeris in corde tuo, quis ascendet in coelum: hoc est Christum ex alto 
+          dedu<lb ed="#Z" n="10" break="no"/>cere: aut quis descendet in abyssum? hoc est Christum ex mortuis reducere. Sed 
+          <lb ed="#Z" n="11"/>quid dicit ? Prope te uerbum est in corde tuo: hoc est uerbum fidei quod 
+          praedica<lb ed="#Z" n="12" break="no"/>mus, nempe si confessus fueris ore tuo dominum Iesum, &amp; credideris in corde tuo, 
+          <lb ed="#Z" n="13"/>quod deus illum excitauit ex mortuis, saluus eris. Ergo fides nos non tantum 
+          sa<lb ed="#Z" n="14" break="no"/>pientes, sed &amp; felices reddit, attestante etiam domino &amp; dicente discipulis suis,  
+          <lb ed="#Z" n="15"/>Beati oculi qui uident quae uos uidetis. Dico enim uobis, quod multi prophetae &amp;  
+          <lb ed="#Z" n="16"/>reges uoluerunt uidere quae uos uidetis &amp; non uiderunt, &amp; audire quae auditis 
+          <lb ed="#Z" n="17"/>&amp; non audierunt.
+        </p>
+        <p xml:id="UD1xh4-agrtvB-d1e393">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Inueniemus ergo in fide certissimam determinationem famosissimae quaestio¬  
+          <lb ed="#Z" n="19"/>nis ab exordio mundi exagitatae a doctis &amp; praestantissimis ingenijs, quomodo ui 
+          <lb ed="#Z" n="20"/>delicet homo uiuere, beari, summum bonum assequi, &amp; cum summo bono coniun 
+          <lb ed="#Z" n="21"/>gi adeoque &amp; iustificari possit? Variae fuerunt &amp; sunt etiam hodie pugnantes inter 
+          <lb ed="#Z" n="22"/>se de hac re sententiae. Caeterum breuiter &amp; uere dicimus nos., Fide uera hominem 
+          <lb ed="#Z" n="23"/>uiuere, beari, summum bonum consequi, cum summo bono coniungi atque 
+          iustifi<lb ed="#Z" n="24" break="no"/>cari, sic ut deus uiuat in nobis &amp; nos in ipso, simusque fidefelices &amp; beati. Quid ue 
+          <lb ed="#Z" n="25"/>ro potuisset de fidei uirtute dici praestantius, maius, diuinius? Fides ecce uiuificat,  
+          <lb ed="#Z" n="26"/>beat, cum summo bono coniungit, ut deus in nobis, nos in ipso uiuamus, &amp; iustifi 
+          <lb ed="#Z" n="27"/>cat plenissime. Sed praestat iam audire scripturarum testimonia. Fides beat. 
+          Au<lb ed="#Z" n="28" break="no"/>dit enim beatus Petrus uera fide dominum Iesum confitens, Beatus es Simon fi- 
+          <lb ed="#Z" n="29"/>lius lonae. Caro &amp; sanguis non reuelauit tibi, sed pater meus qui in coelis est. 
+          Ad<lb ed="#Z" n="30" break="no"/>ducit S. Paulus pro fide illud Dauidis, Beati quorum remissae sunt iniquitates, &amp;  
+          <lb ed="#Z" n="31"/>quorum obtecta sunt peccata. Beatus uir cui non imputabit dominus peccatum.  
+          <lb ed="#Z" n="32"/>Fides uiuificat. Nam iustus ex fide uiuit. Id quod Paulus ex prophetis 
+          frequentis<lb ed="#Z" n="33" break="no"/>sime in scriptis suis citauit. Idem, Vitam quam nunc uiuo in carne, inquit, per fi- 
+          <lb ed="#Z" n="34"/>dem uiuo filij dei, qui dilexit me, &amp; tradidit semetipsum pro me. Fides coniungit 
+          <lb ed="#Z" n="35"/>nos aeterno &amp; summo bono, adeoque facit nos frui summo bono, ut deus in nobis 
+          <lb ed="#Z" n="36"/>uiuat, &amp; nos in deo. Nam ipse dominus Iesus in euangelio ait. Qui edit meam car 
+          <lb ed="#Z" n="37"/>nem &amp; bibit meum sanguinem, in me manet &amp; ego in eo. Sicut misit me uiuens 
+          <lb ed="#Z" n="38"/>pater, ita &amp; ego uiuo propter patrem: &amp; qui ederit me, uiuet &amp; ipse propter me. At- 
+          <lb ed="#Z" n="39"/>qui edere &amp; bibere dominum, est credere in dominum, quod seipsum pro nobis 
+          <lb ed="#Z" n="40"/>tradiderit in mortem. Vnde Ioannes apostolus, Nos uidimus &amp; testamur, inquit,  
+          <lb ed="#Z" n="41"/>quod pater misit filium seruatorem mundi. Quisquis confessus fuerit quod 
+          Ie<lb ed="#Z" n="42" break="no"/>sus est filius dei, deus in ipso manet, &amp; ipse in deo. Vnde &amp; Paulus dixit, Viuo 
+          <lb ed="#Z" n="43"/>iam non ego, sed uiuit in me Christus.
+        </p>
+        <p xml:id="UD1xh4-agrtvB-d1e453">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Iustificat praeterea fides. Ea tractatio cum non possit hac hora commode &amp;  
+          <lb ed="#Z" n="45"/>plene determinari, differemus in futuram concionem sacram. In praesenti teneat 
+          <lb ed="#Z" n="46"/>charitas uestra, unam esse ueram fidem, nimirum Christianam. Licet enim plures 
+          <lb ed="#Z" n="47"/>dicantur esse fides, id est religiones, una tamen duntaxat uera est &amp; indubitata. 
+          <lb ed="#Z" n="48"/>incrementa ea habet, ac deficit in quibusdam. In quibus recte &amp; pie colitur, miras 
+          <!--54.xml-->
+          <pb ed="#Z" n="16-r"/>
+          <lb ed="#Z" n="1"/>exerit uirtutes. Confert enim ueram sapientiam, denique uiuificat &amp; efficit uere 
+          bea<lb ed="#Z" n="2" break="no"/>tos ac felices. Deo patri authori omnis boni &amp; felicitatis nostare sit laus &amp; gloria <!-- line may have coord error; dbcheck -->
+          <lb ed="#Z" n="3"/>per Iesum Christum dominum nostrum in saecula saeculorum, Amen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

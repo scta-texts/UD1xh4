@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 7</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 7</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="336-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-SwfJWu"><!-- d5s7 --> 
+        <head xml:id="UD1xh4-SwfJWu-Hd1e106">Sermo 7</head>
+        <head xml:id="UD1xh4-SwfJWu-Hd1e109" type="question-title">
+       Religiose disserendum esse de sacramentis. Ea per se non conferre gratiam, neque hanc in se 
+       ipsis inclusam continere, Rursus quae sit uirtus, quis finis &amp; usus sacramentorum legitimus. Haec 
+       sine fide non prodesse, eadem fidem habentibus non esse superuacanea: neque ipsa pendere a 
+       dignitate, uel indignitate ministrantium.
+      </head>
+        <p xml:id="UD1xh4-SwfJWu-d1e112">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Religiose disserendum esse de sacramentis. Ea per se non conferre gratiam, neque hanc inse ip 
+          <lb ed="#Z" n="18"/>sis inclusam continere, Rursus quae sit uirtus, quis finis &amp; usus sacramentorum legitimus. Haec 
+          <lb ed="#Z" n="19"/>sine fide non prodesse, eadem fidem habentibus non esse superuacanea: neque ipsa pendere a di- 
+          <lb ed="#Z" n="20"/>gnitate, uel indignitate ministrantium. SERMO VII 
+          <lb ed="#Z" n="21"/>ERIC.V. exposui quid sit sacramentum, quo authore sint profecta, 
+          <lb ed="#Z" n="22"/>&amp; quas ob caussas instituta sacramenta, quibus rebus constent, signo ni 
+          <lb ed="#Z" n="23"/>mirum &amp; re signata, quid item signum sit, quid res significata, &amp; quibus 
+          <lb ed="#Z" n="24"/>insigniantur nominibus, quomodo consecrentur, quod signum cum re 
+          <lb ed="#Z" n="25"/>signata non commisceatur, sed utrunque in sua natura naturaeque proprietate 
+          ma<lb ed="#Z" n="26" break="no"/>neat, quod signum non annihiletur, aut miraculose conuertatur, nec ita cum hoc 
+          <lb ed="#Z" n="27"/>signatum coniungatur, ut quicunque illius sit particeps &amp; huius habeat 
+          comunio<lb ed="#Z" n="28" break="no"/>nem: exposui denique quomodo aut qua ratione coniuncta sint signum &amp; signatum, 
+          <lb ed="#Z" n="29"/>ut plenum &amp; legitimum sacramentum constituant, ubi &amp; de sacramentalibus 
+          lo<lb ed="#Z" n="30" break="no"/>cutionibus disserui: iam ergo restat ut etiam de natura, uirtute &amp; efficacia 
+          sacra<lb ed="#Z" n="31" break="no"/>mentorum, &amp; de ijs quae cum eis coniuncta &amp; cognata sunt, consequenter dicam¬  
+          <lb ed="#Z" n="32"/>ita enim ratio ordinis in finitione proposita requirit.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e150">
+          <lb ed="#Z" n="33"/><pc type="indent"/> De uirtute &amp; natura sacramentorum, quid uidelicet in homine efficiant, 
+          ua<lb ed="#Z" n="34" break="no"/>rie &amp; copiose disputatur a scriptoribus: mihi uidetur in hac disputatione uersan¬ s 
+          <lb ed="#Z" n="35"/>dum religiose, cauendumque ne in dextram uel sinistram inclinem, hoc est, ne illis 
+          <lb ed="#Z" n="36"/>tribuam nimium in euangelicae &amp; apostolicae doctrinae derogationem: neue ijs 
+          de<lb ed="#Z" n="37" break="no"/>traham aut adimam, quod ipsis tribuit scriptura, uerbum dei, in meam ipsius con  
+          <lb ed="#Z" n="38"/>demnationem. Abunde uero satis magnam laudem &amp; gloriam institutis dei 
+          tribue<lb ed="#Z" n="39" break="no"/>rimus, si id de eis praedicauerimus, quod tradidit in sacris spiritus dei : plura 
+          uel<lb ed="#Z" n="40" break="no"/>le ijs tribuere, non modo error est humanus, sed peccatum grande, afferens exi- 
+          <lb ed="#Z" n="41"/>tium atque interitum horribilem. Exemplis memorandis id nobis in sacris est expo 
+          <lb ed="#Z" n="42"/>situm. Arca testificationis, populo lzraelitico per Mosen data, testimonium erat diui  
+          <lb ed="#Z" n="43"/>nae in populo praesentiae, foederis item &amp; amicitiae inter deum &amp; hominem. Nam 
+          <lb ed="#Z" n="44"/>in haec uerba pepigerat cum populo deus, Inhabitabo in illis, &amp; inambulabo, &amp; ero 
+          <lb ed="#Z" n="45"/>illorum deus, &amp; ipsi erunt mihi populus. Ex ea institutione ac pactione 
+          appella<lb ed="#Z" n="46" break="no"/>batur arca ipsa, Dominus deus exercituum, sedens inter cherubim, ut uidere licet 
+          <!--695.xml-->
+          <pb ed="#Z" n="336-v"/>
+          <lb ed="#Z" n="1"/>2. Samuelis 6. &amp; in libro Paralipomenon: appellabatur &amp; arca foederis domini,  
+          <lb ed="#Z" n="2"/>Haec autem cum ipsi sacramento dei prophetae dei tribuerent, abunde satis &amp; ma 
+          <lb ed="#Z" n="3"/>gnifice de sacramento dei senserunt &amp; loquuti sunt : ubi uero indocti &amp; maliuosi 
+          <lb ed="#Z" n="4"/>sacerdotes, &amp; per hos corruptus populus, longe maiora arcae seu sacramento dei 
+          <lb ed="#Z" n="5"/>tribuerent, quid oro factum est? Audi prius quid arcae tribuerint. Clamant 
+          senio<lb ed="#Z" n="6" break="no"/>res lzraelis, Quare strauit nos hodie dominus coram Palaestinis? Adducemus ad 
+          <lb ed="#Z" n="7"/>nos de Silo arcam foederis domini, ut illa ueniens inter nos, seruet nos de manu 
+          <lb ed="#Z" n="8"/>hostis nostri. Audisti quid arcae tribuerint, audi iam quid fecerint, Misit itaque 
+          po<lb ed="#Z" n="9" break="no"/>pulus in Silo, &amp; attulerunt illinc arcam foederis domini exercituum, sedentis 
+          in<lb ed="#Z" n="10" break="no"/>ter cherubim. Et factum est cum uenisset arca foederis domini in castra, 
+          uocifera<lb ed="#Z" n="11" break="no"/>tus est cunctus lzrael iubilo magno, ut terra tremeret. Quod cum audissent 
+          Palaesti<lb ed="#Z" n="12" break="no"/>ni, dixerunt, Quid sibi uult clamor iste? Et audientes arcam castris illatam He¬  
+          <lb ed="#Z" n="13"/>braeorum, clamant &amp; ipsi, Vae nobis, Venit deus in castra, quis eruet nos e manu 
+          <lb ed="#Z" n="14"/>deorum istorum fortium, qui percusserunt Aegyptum? Sed audi modo quid 
+          fa<lb ed="#Z" n="15" break="no"/>ctum sit, &amp; quomodo declararit deus arcam illam non esse deum, sicuti dicebatur 
+          <lb ed="#Z" n="16"/>&amp; ab imperitis rerum sacrarum habebatur, quomodo item puniuerit peccata 
+          po<lb ed="#Z" n="17" break="no"/>puli sui, id quoque quod nimium tribuerunt sacramento. Sequitur ergo, 
+          Pugnaue<lb ed="#Z" n="18" break="no"/>runt itaque Palaestini, &amp; lzraelitae caesi sunt, fugerunt singuli in tentoria sua, &amp; 
+          cae<lb ed="#Z" n="19" break="no"/>des facta est uehementer magna, ut caderent ex lzraele triginta milia peditum: 
+          <lb ed="#Z" n="20"/>sed &amp; arca dei capta fuit, ac caesi sunt duo filij Heli. Haec omnia leguntur 1. Sam.  
+          <lb ed="#Z" n="21"/>4, Rursus cum irreligiosius tractaretur, sacramentum dei a porcis Palaestinis, 
+          per<lb ed="#Z" n="22" break="no"/>cutiuntur &amp; hi plaga &amp; foeda &amp; exitiali. Gloriabantur quod dij sui &amp; religio 
+          Pa<lb ed="#Z" n="23" break="no"/>laestina uicisset deum lzraelitarum &amp; religionem lzraeliticam, sed cadunt &amp; 
+          con<lb ed="#Z" n="24" break="no"/>fringuntur dij Palaestini, confunditurque religio ethnica. Quid quod lzraelitae iam  
+          <lb ed="#Z" n="25"/>leuius contrectantes sacramentum a Palaestinis reductum in Bethsames, curiosiusquam 
+          <lb ed="#Z" n="26"/>illud contra legem dei Numeri 4. scrutantes, grauiori plaga nunc quam prius con 
+          <lb ed="#Z" n="27"/>cidunt ? Percussit enim dominus septuaginta uiros, &amp; quinquaginta milia homi- 
+          <lb ed="#Z" n="28"/>num 1. Samuelis 6. Cum Moses negligentius distulisset circumcisionem in liberis 
+          <lb ed="#Z" n="29"/>suis, in graue incurrit periculum. Sichimitae ob temere receptam Circumcisionem 
+          <lb ed="#Z" n="30"/>delentur. Et Simeon ac Leui propter prophanatum sacramentum graues acci- 
+          <lb ed="#Z" n="31"/>piunt a patre suo sententias. Gene. 4o. Quibus congruit quod apostolus de 
+          indi<lb ed="#Z" n="32" break="no"/>gne celebrantibus coenam dicit, Propter hoc multi inter uos imbecilles &amp; 
+          inuali<lb ed="#Z" n="33" break="no"/>di, &amp; dormiunt multi. Huc pertinet etiam exemplum Ozae uiri non omnino mali,  
+          <lb ed="#Z" n="34"/>sed non legitime hoc ipsum sacramentum tractantis, unde &amp; subitanea morte 
+          con<lb ed="#Z" n="35" break="no"/>ficitur a domino, idque non priuatim in tabernaculo, sed in celebri pompa. De quo 
+          <lb ed="#Z" n="36"/>facto dei postea in synodo &amp; ecclesia lzraelitica pronuncians Dauid dicit ad Le- 
+          <lb ed="#Z" n="37"/>uitas, Dominus constituit ut portetur arca a Leuitis (non uehatur nouo plaustro 
+          <lb ed="#Z" n="38"/>a bubus) sanctificate ergo uos &amp; transferte arcam domini dei lzraelis ad locum,  
+          <lb ed="#Z" n="39"/>quem paraui ei. Quandoquidem enim hoc ab initio non fecistis, rupturam in 
+          no<lb ed="#Z" n="40" break="no"/>bis fecit dominus deus noster, quia non requisiuimus eum, sicuti oportuit. Et 
+          se<lb ed="#Z" n="41" break="no"/>quitur mox, Sanctificati sunt igitur sacerdotes &amp; Leuitae ut adducerent arcam do 
+          <lb ed="#Z" n="42"/>mini dei lzraelis : portaruntque filij Leuitarum arcam dei, sicut praeceperat Moses 
+          <lb ed="#Z" n="43"/>iuxta uerbum domini, humeris suis imposits uectibus. Extant haec omnia 1. Para. 
+          <lb ed="#Z" n="44"/>15. cap. Ex quibus colligimus nolle dominum nostras bonas intentiones &amp; 
+          cele<lb ed="#Z" n="45" break="no"/>brationes magnificas in celebratione sacramentorum : sed illud requirere unice, 
+          <lb ed="#Z" n="46"/>ut ita iudicemus &amp; loquamur de sacramentis, sicuti ipse per uerbum iudicat &amp; lo 
+          <lb ed="#Z" n="47"/>quitur, &amp; ut ipse instituit &amp; celebrauit, ita nos usurpemus atque celebremus. Proin 
+          <lb ed="#Z" n="48"/>de abunde satis tribuit sacramentis, quisquis id eis tribuit, quod ipse deus in scri- 
+          <lb ed="#Z" n="49"/>pturis sanctis tribuit.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e294">
+          <!--696.xml-->
+          <pb ed="#Z" n="337-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Excutiamus ergo ante omnia quid nostro fere saeculo tributum sit sacramen 
+          <lb ed="#Z" n="2"/>tis, ut inde rectius quid tribuendum uel non tribuendum sit intelligatur. Docuit  
+          <lb ed="#Z" n="3"/>uulgus sacerdotum &amp; monachorum sacramenta nouae legis non tantum esse 
+          si<lb ed="#Z" n="4" break="no"/>gna gratiae, sed simul etiam gratiae caussas, hoc est quae habeant uirtutem 
+          conferen<lb ed="#Z" n="5" break="no"/>di gratiam. Esse enim illa ceu instrumenta, organa &amp; infundibula quaedam 
+          passio<lb ed="#Z" n="6" break="no"/>nis Christi, per quae in nos gratia Christi transfundatur: at signa ueteris 
+          testamen<lb ed="#Z" n="7" break="no"/>ti patribus data, signa tantum, non caussas quoque gratiae fuisse, utpote quae uim 
+          <lb ed="#Z" n="8"/>duntaxat significandi non conferendi gratiam habuerint.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e320">
+          <lb ed="#Z" n="9"/><pc type="indent"/> Videntur autem id dogmatis hausisse ex uerbis Augustini perperam intelle 
+          <lb ed="#Z" n="10"/>ctis. Scribit enim is in Psal. 73. Sacramenta nouae legis salubriora &amp; feliciora ijs,  
+          <lb ed="#Z" n="11"/>quae in ueteri lege: eo quod illa promittant, haec dent. Atqui non uoluit his uerbis 
+          <lb ed="#Z" n="12"/>aliud dicere S. Augustin, quam quod alibi sic protulit, Sacramenta ueteris legis  
+          <lb ed="#Z" n="13"/>Christum praenunciarunt, nostra annunciant. Nam &amp; contra Faustum lib. 
+          59<lb ed="#Z" n="14" break="no"/>cap. 14. sacramenta ueterum uocat promisiones rerum coplendarum, nostra 
+          no<lb ed="#Z" n="15" break="no"/>minat indicia rerum completarum. Proinde in Psal. 73s. Dant dixit pro eo quod est 
+          <lb ed="#Z" n="16"/>datum testantur, aut exhibitum significant. Fateor quidem illum non semel dixisse,  
+          <lb ed="#Z" n="17"/>nostra esse feliciora &amp; uirtute praestantiora: atqui id dixit non alia ratione quam  
+          <lb ed="#Z" n="18"/>quod praestito nobis Messia in nouo testamento omnia nostra pleniora, illustriora,  
+          <lb ed="#Z" n="19"/>siue luculentiora sunt. Christus enim plenissime omnia absoluit: unde reuera 
+          no<lb ed="#Z" n="20" break="no"/>stra plenius significant, &amp; quodammodo uiuidiora sund. Caeterum si Augustinus 
+          <lb ed="#Z" n="21"/>omnino in ea fuisset sententia, quam sequuntur isti, an non suaderet ipsa pietas,  
+          <lb ed="#Z" n="22"/>ut deserta hominum authoritate, uerbo ueritatis adhaereremus?
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e354">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Videamus ergo quid colligatur ex uerbo ueritatis, id est, ex scripturis canoni 
+          <lb ed="#Z" n="24"/>cis, de sacramentorum ueteris &amp; noui testamenti similitudine &amp; differentia. E scri 
+          <lb ed="#Z" n="25"/>pturis habemus hoc certissimum, unum esse utriusque ecclesiae aeternum &amp; immu 
+          <lb ed="#Z" n="26"/>tabilem deum ac dominum, unam per Christum in illum utriusque ecclesiae fidem,  
+          <lb ed="#Z" n="27"/>unam in utraque ecclesia propositam promissionibus salutis rationem, denique unam, 
+          <lb ed="#Z" n="28"/>unius perpetuo dei ex utroque populo collectam ecclesiam. Non arbitror autem 
+          <lb ed="#Z" n="29"/>copiosa ex scripturis confirmatione horum opus esse, quod Decadis 3. Serm. S. 
+          <lb ed="#Z" n="30"/>illa fusius tractaui. lllis uero ita praestructis, &amp; scriptura apostolica confirmatis, ita 
+          <lb ed="#Z" n="31"/>demum, non ex nostris capitibus, sed ex authoritate diuina colligimus, Quorum 
+          <lb ed="#Z" n="32"/>unus est perpetuo aeternus &amp; immutabilis deus, una omnium salutis ab aeterno in 
+          <lb ed="#Z" n="33"/>Christo proposita ratio, una fides, una ecclesia, unus baptismus, idem spiritualis 
+          <lb ed="#Z" n="34"/>cibus &amp; potus, eorum non possunt esse nisi eadem quod substantiam attinet sacra 
+          <lb ed="#Z" n="35"/>menta. Atqui ludaeorum &amp; Christianorum est unus deus, una fides, &amp; una 
+          salu<lb ed="#Z" n="36" break="no"/>tis per Christum ratio, una denique ecclesia: sunt itaque eadem quoque sacramenta, nisi 
+          <lb ed="#Z" n="37"/>quod nostra sub alijs data sunt signis, &amp; quod propter exhibitum solem iustitiae 
+          <lb ed="#Z" n="38"/>Christum multo sunt illustriora &amp; euidentiora. His addo scripturam testari 
+          sacra<lb ed="#Z" n="39" break="no"/>mentam ueterum &amp; nostra idem usqueadeo ualere, ut Paulus dicat circuncisos qui 
+          <lb ed="#Z" n="40"/>sunt baptisati, baptisatos qui sunt circumcisi? Docet idem ille patres nostros 
+          ean<lb ed="#Z" n="41" break="no"/>dem nobiscum escam spiritualem edisse, &amp; de eodem potu spirituali bibisse, 
+          nimi<lb ed="#Z" n="42" break="no"/>rum de petra. Sed addit mox, Petra uero erat Christus. Verba apostoli notissima 
+          <lb ed="#Z" n="43"/>sunt, &amp; leguntur 1. Cor. 10. Idem ad Coloss: cap. 2. In Christo, inquit, estis 
+          comple<lb ed="#Z" n="44" break="no"/>ti, per quem &amp; circumcisi estis circumcisione quae fit sine manibus, dum exuistis 
+          <lb ed="#Z" n="45"/>corpus peccatorum carnis per circumcisionem Christi, consepulti simul cum illo 
+          <lb ed="#Z" n="46"/>per baptismum, &amp;c. Quid his oro clarius dici potuit : Circumcisio quae fit sine 
+          ma<lb ed="#Z" n="47" break="no"/>nibus, est circumcisio Christiana, baptismus uidelicet. Caeterum in superiore loco 
+          <lb ed="#Z" n="48"/>Pauli ad Corinth, obseruandum est (quod &amp; alibi monuimus) In Mosen Bapti¬ 
+          <!--697.xml-->
+          <pb ed="#Z" n="337-v"/>
+          <lb ed="#Z" n="1"/>zari, non idem esse quod est in Christum baptizari. Nam In Mosen baptizari. 
+          <lb ed="#Z" n="2"/>perinde est ac si dixisset per Mosen baptizari, aut ministerio Mosis. Constat enim 
+          <lb ed="#Z" n="3"/>Mosen suae fidei creditum populum unice deo adduxisse.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e425">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Non diuersa his legas &amp; apud Aurel. August. non uno loco, utcunque 
+          aduer<lb ed="#Z" n="5" break="no"/>sarij differentiam illam suam inter ueterum &amp; nostra sacramenta inductam ad 
+          Au<lb ed="#Z" n="6" break="no"/>gustinum referre cupiant. Nam contra literas Petiliani lib. 2. cap. 37. Fuerunt, 
+          in<lb ed="#Z" n="7" break="no"/>quit, in signis diuersa, in re quae significatur, paria. Item in Tract. in Ioan. 26. in 
+          <lb ed="#Z" n="8"/>hunc locum, Hic est panis qui de coelo descendit.) Hunc panem significauit man 
+          <lb ed="#Z" n="9"/>na: hunc panem significauit altare dei. Sacramenta illa fuerunt. In signis diuersa 
+          <lb ed="#Z" n="10"/>sunt, sed in re quae significatur paria. Non dissimilia legas contra Faustum Mani¬  
+          <lb ed="#Z" n="11"/>chaeum lib. 59. cap. 13. 16. 17. Rursus Tract. in Ioan. 43. Ante aduentum domini no 
+          <lb ed="#Z" n="12"/>stri Iesu Christi, quo humilis uenit in carne, praecesserunt iusti, sic in eum 
+          creden<lb ed="#Z" n="13" break="no"/>tes uenturum quomodo nos credimus in eum qui uenit. Tempora uariata sunt,  
+          <lb ed="#Z" n="14"/>non fides. Et reliqua. Et mox. In signis diuersis eadem fides, sic in signis diuersis 
+          <lb ed="#Z" n="15"/>quomodo in uerbis diuersis: quia uerba sonos mutant per tempora, &amp; utique non  
+          <lb ed="#Z" n="16"/>aliud sunt uerba quam signa. Significando enim uerba sunt: tolle significationem 
+          <lb ed="#Z" n="17"/>uerbo, strepitus inanis est. Significata sunt ergo omnia. Nunquid non eadem cre 
+          <lb ed="#Z" n="18"/>debant per quos haec signa ministrabantur, per quos eadem quae credimus prophe 
+          <lb ed="#Z" n="19"/>tata praenunciabantur? Vtique credebant, sed illi uentura esse, nos aunt uenisse. Item  
+          <lb ed="#Z" n="20"/>in Psal. 77. Idem in mysterio, inquit, cibus &amp; potus illorum qui noster, sed signifi- 
+          <lb ed="#Z" n="21"/>catione idem non specie. Quia idem ipse Christus illis in petra figuratus, nobis in 
+          <lb ed="#Z" n="22"/>carne manifestatus. Sed non in omnibus illis beneplacitum est deo. Omnes quidem 
+          <lb ed="#Z" n="23"/>eundem cibum spiritalem manducauerunt, &amp; eundem potum spiritalem biberunt,  
+          <lb ed="#Z" n="24"/>id est, spiritale aliquid significantem: sed non in omnibus illis beneplacitum est 
+          deo<lb ed="#Z" n="25" break="no"/>&amp; cum essent omnia communia sacramenta, non communis erat omnibus gratia, 
+          <lb ed="#Z" n="26"/>quae sacramentorum uirtus est. Sicut &amp; nunc iam reuelata fides, quae tunc uelaba 
+          <lb ed="#Z" n="27"/>tur, omnibus in nomine patris &amp; filij &amp; spiritus sancti baptisatis commune est 
+          la<lb ed="#Z" n="28" break="no"/>uacrum regenerationis, sed ipsa gratia cuius ipsa sunt sacramenta, qua membra 
+          <lb ed="#Z" n="29"/>corporis Christi cum suo capite regenerata sunt, non comunis est omnibus. Haec 
+          <lb ed="#Z" n="30"/>August, docens eorum signa, temporis diuersitate excepta, non imparia aut 
+          dissi<lb ed="#Z" n="31" break="no"/>milia esse, quorum eadem est fides &amp; religio.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e489">
+          <lb ed="#Z" n="32"/><pc type="indent"/> PERSTRICTA autem similitudine &amp; differentia sacramentorum ueteris &amp;  
+          <lb ed="#Z" n="33"/>noui testamenti, idque ex occasione dogmatis recepti sacramenta nouae legis 
+          con<lb ed="#Z" n="34" break="no"/>ferre ex se gratiam, expendamus &amp; ipsum quale sit. Ac de uocabulo quidem gra 
+          <lb ed="#Z" n="35"/>tiae primo paucula haec admonemus, Gratia fauor est numinis &amp; beneuolentia, 
+          <lb ed="#Z" n="36"/>qua deus pater nos propter Christum complectitur, purgat, iustificat, donis 
+          in<lb ed="#Z" n="37" break="no"/>struit &amp; saluat. Nam apostolica scripta gratiam aperte uocant, qua saluamur &amp; iu 
+          <lb ed="#Z" n="38"/>stificamur ex fide Iesu Christi. De hac scriptum est, Non irritam facio gratiam dei. 
+          <lb ed="#Z" n="39"/>Nam si per legem est iustitia, ergo Christus gratis mortuus est. De hac scriptum 
+          <lb ed="#Z" n="40"/>est, Christus nobis factus est otiosus, quicunque per legem iustificamini, a gratia 
+          <lb ed="#Z" n="41"/>excidistis. De hac scriptum est, Si autem gratia, iam non ex operibus: alioqui 
+          gra<lb ed="#Z" n="42" break="no"/>tia iam non est gratia. Quid quod ipse dei filius gratia &amp; donum dei appellatur? Ioan 
+          <lb ed="#Z" n="43"/>4. Tit. 2. capite. lam uero Conferre quid aliud est quam dare, uel rem aliquam,.  
+          <lb ed="#Z" n="44"/>quam prius non habebas, donare? Si ergo sacramenta conserunt gratiam sumen 
+          <lb ed="#Z" n="45"/>tibus, profecto eas res non habentibus dant, quas significant, ipsum, inquam, Chri- 
+          <lb ed="#Z" n="46"/>stum, cum omnibus eius donis, id est, gratos &amp; acceptos deo faciunt, iustificant 
+          <lb ed="#Z" n="47"/>&amp; saluant, idque ex seipsis, utpote quae uirtutem ex passione Christi accepisse di- 
+          <lb ed="#Z" n="48"/>cuntur sanctificandi, &amp; non tantum significandi aut iuuandi, commendandi aut 
+          <!--698.xml-->
+          <pb ed="#Z" n="338-r"/>
+          <lb ed="#Z" n="1"/>prouehendi gratiam. Sed &amp; perceptionem gratiae attribuunt nostro operi quo ip 
+          <lb ed="#Z" n="2"/>sa sumimus sacramenta. Verum quantum haec doctrina pugnet cum ueritate 
+          pro<lb ed="#Z" n="3" break="no"/>phetica &amp; apostolica nunc demonstrabo. Vetus fuit error ludaici populi 
+          sacra<lb ed="#Z" n="4" break="no"/>menta iustificare. Hinc est quod sancti dei prophetae cum populo suae fidei cre 
+          <lb ed="#Z" n="5"/>dito, falsis tamen imbuto opinionibus, concertantes, clamarunt, Frustra illum nit 
+          <lb ed="#Z" n="6"/>suis ritibus &amp; sacrificijs : deum autem delectari obedientia fideli, fide, inquam,  
+          <lb ed="#Z" n="7"/>charitate, innocentia, uera utique pietate. Inter quos Ieremias dicit, Sic ait 
+          domi<lb ed="#Z" n="8" break="no"/>nus exercituum deus lsraelis, Holocausta uestra addite uictimis uestris, &amp; 
+          come<lb ed="#Z" n="9" break="no"/>dite carnem : quoniam nihil locutus sum cum patribus uestris, neque praecepi eis,  
+          <lb ed="#Z" n="10"/>eo tempore quo educebam eos e terra Aegypti, de ratione holocausti &amp; sacrificij: 
+          <lb ed="#Z" n="11"/>sed hoc uerbum praecepi eis dicendo, Audite uocem meam, &amp;ero deus uester, uos 
+          <lb ed="#Z" n="12"/>autem eritis populus meus: &amp; ambulate in omni uia quam praecepi uobis, ut be- 
+          <lb ed="#Z" n="13"/>ne sit uobis. Similis locus est &amp; apud lsaiam in cap. primo. Non reiecit dominus, 
+          <lb ed="#Z" n="14"/>neque damnarunt diuini uates in uniuersum omnia sacrificia, cum ea ipse 
+          domi<lb ed="#Z" n="15" break="no"/>nus per Mosen instituisset: sed falsam opinionem uanamque in ipsa fiduciam oppu 
+          <lb ed="#Z" n="16"/>gnabant. Vana fiducia &amp; falsa opinio est, sacrificia per se ac propter opus nostrum 
+          <lb ed="#Z" n="17"/>reddere nos gratos domino. Nam fides acceptos efficit nos deo per Messiam. Et 
+          <lb ed="#Z" n="18"/>dominus sacramenta uel sacrificia non instituerat ut gratiam oblata conferrent 
+          <lb ed="#Z" n="19"/>aut iustificarent, sed ut testimonia essent gratiae dei, &amp; ut in ordine retinerent 
+          po<lb ed="#Z" n="20" break="no"/>pulum, ut ipsum retraherent ab idolis, &amp; cultibus ethnicorum, ad Christum 
+          au<lb ed="#Z" n="21" break="no"/>tem summum pontificem, &amp; unicam totius orbis hostiam deducerent. 
+          Paedago<lb ed="#Z" n="22" break="no"/>gia enim siue exercitia fuerunt, Paulo hoc approbante atque dicente, Lex 
+          paeda<lb ed="#Z" n="23" break="no"/>gogus noster fuit ad Christum, ut ex fide iustificaremur. At postquam uenit fides,  
+          <lb ed="#Z" n="24"/>non amplius sub paedagogo sumus. Iccirco sacrificia ueterum sacrificantibus non  
+          <lb ed="#Z" n="25"/>conferebant gratiam, neque iustificabant, sed symbola &amp; testimonia erant deum  
+          <lb ed="#Z" n="26"/>sanctificare, &amp; iustificare quidem per hostiam omnibus saeculis destinatam, per 
+          <lb ed="#Z" n="27"/>Messiam, ad cuius fidem ueluti paedagogus quidam deducentia dirigebant.  
+          <lb ed="#Z" n="28"/>Ac praedicantibus quidem apostolis puram doctrinam euangelij, sola dei gra 
+          <lb ed="#Z" n="29"/>tia per Christum seruari credentes, auitus ille error tam alte ludaicis insedit ani¬  
+          <lb ed="#Z" n="30"/>mis, ut illi quoque qui Christum receperant, contenderent tamen, Christum non  
+          <lb ed="#Z" n="31"/>posse plene, nisi sacramentis ludaicis accedentibus, sanctificare aut iustificare.  
+          <lb ed="#Z" n="32"/>Contra quos apostoli magna grauitate &amp; ualidissimo spiritus impetu 
+          disputan<lb ed="#Z" n="33" break="no"/>tes, euicerunt hominem Christianum nullis legalibus interuenientibus, nullis 
+          de<lb ed="#Z" n="34" break="no"/>nique operibus adiuuantibus, sed sola &amp; mera siue gratuita dei gratia 
+          misericor<lb ed="#Z" n="35" break="no"/>diaue per Christum sanctificari, purificari, iustificari, atque saluari. Quae sane 
+          <lb ed="#Z" n="36"/>prora, quod dici solet, &amp; puppis est doctrinae euangelicae &amp; apostolicae, quam qui 
+          <lb ed="#Z" n="37"/>negat, nullam haud dubie sortem habet in haereditate Christi &amp; euangelij ipsius,  
+          <lb ed="#Z" n="38"/>Nec obscurum aut dubium est quod modo paucis his proposui. Quis enim 
+          ne<lb ed="#Z" n="39" break="no"/>sciat memorabilem illam concertationem maximorum apostolorum Christi Pau 
+          <lb ed="#Z" n="40"/>li ac Barnabae institutam, contra eos qui docebant, nisi circumciderentur Chri- 
+          <lb ed="#Z" n="41"/>stiani iuxta legem Mosis, nullo pacto saluari posse? Contra quos &amp; Petrus 
+          con<lb ed="#Z" n="42" break="no"/>cludit, Fide purificari corda, &amp; gratia domini Iesu Christi saluari credentes.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e625">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Verum quidem est, abrogata apostolorum aduersarios reducere uoluisse 
+          <lb ed="#Z" n="44"/>interim uero indubitatum est &amp; illud, apostolos non alio ariete incusso 
+          aduersa<lb ed="#Z" n="45" break="no"/>riorum de sacramentis purificantibus debilitasse ualidius, adeoque &amp; subuertisse se 
+          <lb ed="#Z" n="46"/>licius quam hoc, Gratia dei per Christum iustificari credentes : cumque ubique fere 
+          <lb ed="#Z" n="47"/>adijnciunt non lege, non caeremonijs aut ullis ritibus, an putamus illos in participatum 
+          <lb ed="#Z" n="48"/>admissuros sacramenta, quae sub censum ueniunt caeremoniarum aut rituum¬  
+          <!--699.xml-->
+          <pb ed="#Z" n="338-v"/>
+          <lb ed="#Z" n="1"/>Fides Christiana gratiam dei, remisionem peccatorum, sanctificationem &amp; 
+          iu<lb ed="#Z" n="2" break="no"/>stificationem tribuit in solidum gratuitae misericordiae dei, adeoque &amp; merito 
+          pas<lb ed="#Z" n="3" break="no"/>sionis Christi, &amp; ita tribuit, ut praeterea admittat nihil prorsus in participatum.  
+          <lb ed="#Z" n="4"/>Quod ergo <name xml:id="UD1xh4-SwfJWu-Nd1e654" ref="#Lombard">Lombardus</name> dixit, Sacramenta uirtutem conferendi gratiam accepisse 
+          <lb ed="#Z" n="5"/>ex merito passionis Christi, ex se finxit. Nam ut Christus gloriam suam non dat 
+          <lb ed="#Z" n="6"/>ulli uel sanctis siue homini, nedumrinanimatae creaturae: ita qui credit se 
+          iustifica<lb ed="#Z" n="7" break="no"/>tum plene per mortem &amp; resurrectionem domini, is in nulla alia re amplius quam 
+          <lb ed="#Z" n="8"/>in solo Christo quaerit gratiam aut iustitiam, in quo acquiescit, quem &amp; in fide 
+          <lb ed="#Z" n="9"/>per spiritum sanctum iam sentit in corde uel mente uires suas exerere. Huc enim  
+          <lb ed="#Z" n="10"/>pertinent illa ex euangelio, Vade in pace, fides tua te saluam fecit. Item. Omnis 
+          <lb ed="#Z" n="11"/>qui bibit ex aqua hac, sitiet iterum. Quisquis autem biberit ex aqua, quam ego da 
+          <lb ed="#Z" n="12"/>bo ei, non sitierit in aeternum, &amp;c. Huc pertinet &amp; illud Pauli, lustificati ex fide, 
+          <lb ed="#Z" n="13"/>pacem habemus erga deum per dominum nostrum Iesum Christum, per quem &amp;  
+          <lb ed="#Z" n="14"/>contigit nobis, ut fide perduceremur in gratiam hanc, in qua stamus &amp; gloriamur 
+          <lb ed="#Z" n="15"/>sub spe gloriae dei.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e682">
+          <lb ed="#Z" n="16"/><pc type="indent"/> Non nescio quorundam sutelas commentantium esse generalem quandam 
+          <lb ed="#Z" n="17"/>deinde &amp; specialem fidem. Generalem uocant, qua credimus nos morte &amp; 
+          resur<lb ed="#Z" n="18" break="no"/>rectione Christi uere iustificari. Specialem uero, qua credimus per symbola &amp; 
+          o<lb ed="#Z" n="19" break="no"/>pus nostrum peculiariter &amp; cuilibet nostrum singulariter applicari dona dei. Ve 
+          <lb ed="#Z" n="20"/>rum quorsum attinebat e terra, in qua licebat uesci manna, respicere ad ollas &amp; al 
+          <lb ed="#Z" n="21"/>lia Aegypti: Quid Christianis, oro, negotij cum distinctionibus sophisticis? Aut 
+          <lb ed="#Z" n="22"/>unde probabunt nobis hanc suam distinctionem? Vna modo fides est, eaque non alia 
+          <lb ed="#Z" n="23"/>in usu sacramentorum, quam extra usum. Extra usum credimus nos morte &amp; resur 
+          <lb ed="#Z" n="24"/>rectione Christi sanctificari. In baptismo &amp; Coena dominica non aliam exercemus 
+          <lb ed="#Z" n="25"/>fidem, quam qua credimus domini gratia &amp; misericordia purgari nos a peccatis,  
+          <lb ed="#Z" n="26"/>eiusdemque tradito corpore &amp; effuso sanguine nos redimi a morte &amp; haeredes fieri 
+          <lb ed="#Z" n="27"/>uitae aeternae. Applicant haec nobis non sacramenta, sed fides per spiritum sanctum, 
+          <lb ed="#Z" n="28"/>ld quod uniuersa testatur scriptura apostolica, quam huiusmodi commenta 
+          obscu<lb ed="#Z" n="29" break="no"/>rant. Breuiter, Vnus est omnino deus &amp; saluator, una salus, una redeptio &amp; 
+          pur<lb ed="#Z" n="30" break="no"/>gatio, una fides, qua recipimus quidem oblatam nobis salutem a deo in Christo 
+          <lb ed="#Z" n="31"/>per spiritum sanctum. Eadem annunciatur aut praedicatur nobis in uerbo per mi 
+          <lb ed="#Z" n="32"/>nistrum, &amp; repraesentatur obsignaturque per sacramenta.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e723">
+          <lb ed="#Z" n="33"/><pc type="indent"/> Iam uero quis nesciat Paulum apostolum in omnibus suis scripturis unice con 
+          <lb ed="#Z" n="34"/>tendere fide in dominum Iesum, non per ulla opera iustificari credentes? Rursus 
+          <lb ed="#Z" n="35"/>quis ignoret, sub censum operum nostrorum uenire &amp; perceptionem aut 
+          celebra<lb ed="#Z" n="36" break="no"/>tionem sacramentorum. Quibus &amp; illud adiinciam, lllud sacramenta non dare quod 
+          <lb ed="#Z" n="37"/>non habent: gratiam &amp; iustitiam donaue coelestia non habent, ergo non conserunt.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e737">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Hinc uero exoritur nobis noua quaedam disputatio, An gratia dei &amp; uirtus 
+          <lb ed="#Z" n="39"/>quaedam diuina symbolis sit indita inclusaue &amp; uelut in ipsis contenta ut ex eis in 
+          <lb ed="#Z" n="40"/>sumentes deriuetur? Vulgus sacrificorum &amp; monachorum tam uerbis quam 
+          fa<lb ed="#Z" n="41" break="no"/>ctis suis prodit se sentire, ipsis symbolis diuinam esse inclusam uirtutem, adeoque  
+          <lb ed="#Z" n="42"/>deum ipsum ijs contineri. Non enim alia origine emergunt anxiae illorum 
+          disputa<lb ed="#Z" n="43" break="no"/>tiones de eo quid arrodat mus, cum sacramentum corporis Christi arrodit. <ref xml:id="UD1xh4-SwfJWu-Rd1e753">Inno¬ 
+          <lb ed="#Z" n="44"/>centius Papa libro de sacramento altaris 4. cap. 11.</ref> Miraculose reuertitur 
+          substan<lb ed="#Z" n="45" break="no"/>tia panis, inquit, non illa quae transiuit in carnem, sed quod eius loco alius panis  
+          <lb ed="#Z" n="46"/>miraculose creatur, qui corroditur, &amp;c. Vide acumen &amp; miraculosam quandam 
+          <lb ed="#Z" n="47"/>theologiam. Omitto hic studio alia huius generis permulta. Adde his, quod chara 
+          <lb ed="#Z" n="48"/>cteribus limpressis, &amp; mirificis quibusdam uerbis, gestibus &amp; exufflationibus,  
+          <!--700.xml-->
+          <pb ed="#Z" n="339-r"/>
+          <lb ed="#Z" n="1"/>quae omnia benedictionis titulo ornant, aquam baptismi consecrant. Ac inter alia 
+          <lb ed="#Z" n="2"/>canunt, Deus aquam hanc regenerandis hominibus praeparatam, arcana sua lu 
+          <lb ed="#Z" n="3"/>minis admixtione foecundet, ut sanctificatione concepta, ab immaculato diuini  
+          <lb ed="#Z" n="4"/>fontis utero in nouam renata creaturam, emergat. Sit haec sancta &amp; innocens crea 
+          <lb ed="#Z" n="5"/>tura, libera ab omni impugnatoris incursu, non insidiando circumuolet. Sit fons 
+          <lb ed="#Z" n="6"/>uiuus, aqua regenerans, unda purificans, ut omnes hoc lauacro salutifero diluen 
+          <lb ed="#Z" n="7"/>di, operante in eis spiritu sancto, perfectae purgationis indulgentiam 
+          consequan<lb ed="#Z" n="8" break="no"/>tur. Vnde benedico te creatura aquae, per deum uiuum, per deum uerum, per deum 
+          <lb ed="#Z" n="9"/>sanctum, per deum qui te in principio per uerbum separauit ab arida &amp;c, 
+          Rur<lb ed="#Z" n="10" break="no"/>sus sufssando in aquam ter, baec protinus subiungit uerba, Tu has, domine, suppli 
+          <lb ed="#Z" n="11"/>ces aquas tuo ore benedicito, ut praeter naturalem emundationem, quam 
+          lauan<lb ed="#Z" n="12" break="no"/>dis possunt adhibere corporibus, sint etiam purificandis mentibus efficaces. De- 
+          <lb ed="#Z" n="13"/>inde accipit minister sacrorum cereum ardentem, &amp; impositum aquae baptismi 
+          <lb ed="#Z" n="14"/>ter dicit, Descendat in hanc plenitudinem fontis uirtus spiritus sancti. Addit, Et 
+          <lb ed="#Z" n="15"/>totam huius aquae substantiam regenerandi foecundet effectu. Et reliqua. Haec 
+          <lb ed="#Z" n="16"/>omnia sine tropis simpliciter dicta intelligunt &amp; exponunt. Id quod satis 
+          euiden<lb ed="#Z" n="17" break="no"/>ter euincit, quid homines isti aquae consecratae tribuant, &amp; quod signis res sacras 
+          <lb ed="#Z" n="18"/>contineri sentiunt. Torsit se hac in re mirum in modum <ref xml:id="UD1xh4-SwfJWu-Rd1e810">Bonauentura, qui scri- 
+          <lb ed="#Z" n="19"/>pto suo in 4. Magistri Distinctio. 5. quaest. 3.</ref> inter alia, tandem, <quote xml:id="UD1xh4-SwfJWu-Qd1e815" source="http://scta.info/resource/bb-d4e268-d1e190" synch="9-141">Non est aliquo 
+          mo<lb ed="#Z" n="20" break="no"/>do dicendum, inquit, quod gratia contineatur in sacramentis essentialiter, 
+          tan<lb ed="#Z" n="21" break="no"/>quam aqua in uase, uel medicina in pyxide, imo hoc intelligere est erroneum. Sed  
+          <lb ed="#Z" n="22"/>dicuntur continere gratiam, quia ipsam significant, &amp; quia nisi ibi sit defectus ex 
+          <lb ed="#Z" n="23"/>parte suscipientis, in ipsis gratia semper confertur, ita intelligendo quod gratia sit 
+          <lb ed="#Z" n="24"/>in anima, non in signis uisibilibus. Pro tanto dicuntur etiam uasa gratiae. Possunt 
+          <lb ed="#Z" n="25"/>etiam dici uasa alia ratione. Quia sicut quod est in uase, non est de ipso nec ex ipso, 
+          <lb ed="#Z" n="26"/>sed tamen ab ipso hauritur: sic gratia non est a sacramentis, nec de sacramentis, sed 
+          <lb ed="#Z" n="27"/>oritur at fonte aeterno, &amp; ab illo hauritur ab ipsa anima in ipsis sacramentis. Et sicut 
+          <lb ed="#Z" n="28"/>quis recurrit ad uas cum requirit liquorem, sic quaerenti liquorem gratiae &amp; non habenti 
+          <lb ed="#Z" n="29"/>recurrendum est ad ipsa sacramenta</quote>. Haec <name xml:id="UD1xh4-SwfJWu-Nd1e839">Bonauentura</name>, qui recte gratiam retulit 
+          <lb ed="#Z" n="30"/>ad fontem omnium bonorum deum: utinam purius &amp; simplicius reliqua etiam subie 
+          <lb ed="#Z" n="31"/>cisset, Recte is quoque sedem seu receptaculum gratiae &amp; donorum dei animam ho 
+          <lb ed="#Z" n="32"/>minis, non signa insensibilia esse sensit. Scriptura enim sancta ubique docet, 
+          men<lb ed="#Z" n="33" break="no"/>tem hominis, non elementum ullum, aut quicquid humana est conditum arte, do 
+          <lb ed="#Z" n="34"/>micilium esse gratiae dei, &amp; hanc non peti aut coli ceu inclusam in ulla re insensibi 
+          <lb ed="#Z" n="35"/>li. Si coeli coelorum, inquit Solomon, te non continent, quanto minus domus haec? 
+          <lb ed="#Z" n="36"/>Ad quae alludens constantissimus Christi martyr Stephanus, Non is est 
+          excelsis<lb ed="#Z" n="37" break="no"/>simus ait, qui in manufactis templis habitet, sicut propheta dicit, Coelum mihi 
+          se<lb ed="#Z" n="38" break="no"/>des est, terra autem scabellum pedum meorum: quam domum aedificabitis mihi, 
+          <lb ed="#Z" n="39"/>dicit dominus, aut quis locus requietionis meae est? Nonne manus mea haec 
+          om<lb ed="#Z" n="40" break="no"/>nia fecit. Quae sequutus magnus ille Christi apostolus Paulus dixit, Deus qui 
+          fe<lb ed="#Z" n="41" break="no"/>cit mundum &amp; omnia quae in eo sunt : hic coeli &amp; terrae cum sit dominus, non in 
+          <lb ed="#Z" n="42"/>manufactis templis habitat, nec manibus humanis colitur, indigens aliquo, cum  
+          <lb ed="#Z" n="43"/>ipse det omnibus uitam &amp;c. Vnde ipse dominus in euangelio significantissime 
+          <lb ed="#Z" n="44"/>pronunciauit, Venit hora quando neque in monte hoc, neque Hierosolymis 
+          adora<lb ed="#Z" n="45" break="no"/>bitis patrem: sed uenit hora, &amp; nunc est, quando ueri adoratores adorabunt 
+          pa<lb ed="#Z" n="46" break="no"/>trem spiritu &amp; ueritate (Fideles itaque animi oculos a terrenis rebusque uisibilibus 
+          <lb ed="#Z" n="47"/>attollunt in coelestia. Vnde &amp; sancti maiores nostri Coenam celebraturi illud 
+          sa<lb ed="#Z" n="48" break="no"/>cris mysterijs congruentissimum audierunt sibi occini, Sursum corda, respon¬ 
+          <!--701.xml-->
+          <pb ed="#Z" n="339-v"/>
+          <lb ed="#Z" n="1"/>dente toto populo, Habemus ad dominum. Quid quod ipsa rei absurditas plane 
+          <lb ed="#Z" n="2"/>euincit gratiam symbolis non contineri. Si enim per gratiam intelligis fauorem 
+          <lb ed="#Z" n="3"/>&amp; beneuolentiam dei : si indulgentiam peccatorumque ueniam, purgationem 
+          in<lb ed="#Z" n="4" break="no"/>quam &amp; iustificationem credentium: si dona denique &amp; charismata spiritus, quid 
+          <lb ed="#Z" n="5"/>absurdius quaeso fingi poterat, quam res tantas inclusas contineri aqua, pane &amp;  
+          <lb ed="#Z" n="6"/>uino? Signis profecto nulla opus est gratia, nulla indulgentia &amp; uenia 
+          peccato<lb ed="#Z" n="7" break="no"/>rum. Ad quid ergo contineretur gratia in sacramentis. Quis oro fructus ad homi 
+          <lb ed="#Z" n="8"/>nes redibit? Aut quis ignorat omnia dei instituta ad utilitatem hominis esse ordi 
+          <lb ed="#Z" n="9"/>nata? An uero dicemus gratiam ideo inclusam teneri sacramentis, ut inde in nos 
+          <lb ed="#Z" n="10"/>transfundatur tanquam per canales? At non ita loquitur scriptura. Gratia enim,  
+          <lb ed="#Z" n="11"/>quod saepe iam repetitur, est fauor &amp; beneuolentia dei, qua ille in nos non per sen 
+          <lb ed="#Z" n="12"/>libilia, sed suapte propensione potentia &amp; uirtute fertur. Spiritualia haec sunt: 
+          er<lb ed="#Z" n="13" break="no"/>go spiritus munere &amp; interuentione perficiuntur. Spiritu suo coniungitur nobis 
+          <lb ed="#Z" n="14"/>deus, nos illi fide, spiritus dono copulamur: id quod in euangelicis apostolicisque 
+          <lb ed="#Z" n="15"/>literis nuspiam non obuium est.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e921">
+          <lb ed="#Z" n="16"/><pc type="indent"/> Proinde uerba Canonis Cons. Niceni, Baptisma nostrum non sensibilibus 
+          <lb ed="#Z" n="17"/>oculis, sed mentalibus considerandum est. Aquam uides, considera diuinam uim,  
+          <lb ed="#Z" n="18"/>quae in aquis latet &amp;c, non ita crasse &amp; ruditer intelligenda sunt. Nam oratio sym 
+          <lb ed="#Z" n="19"/>bolica est, quam nemo non eo quidem tempore intelligebat: sicuti &amp; nobis hodie 
+          <lb ed="#Z" n="20"/>nouum &amp; difficile non est, si quis dicat in sigillo esse fidem &amp; ueritatem: in 
+          annu<lb ed="#Z" n="21" break="no"/>lo coniugali fidem &amp; amorem coniugalem : in sceptro &amp; corona regiam 
+          potesta<lb ed="#Z" n="22" break="no"/>tem. Nam nemo tam ineptus est, ut propter huiusmodi loquutionem contendat 
+          <lb ed="#Z" n="23"/>res ipsas in signis contineri inclusas: loquutionis genus &amp; consuetudinem quisque  
+          <lb ed="#Z" n="24"/>agnoscit.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e944">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Huc iam pertinet quod Ioannes Baptista in lordane flumine, quod apostoli 
+          <lb ed="#Z" n="26"/>denique ipsi baptisarunt aqua non consecrata parataue ullis excantationibus, 
+          in<lb ed="#Z" n="27" break="no"/>suffationibus &amp; characteribus, ad recipiendam &amp; transfundendam dei gratiam  
+          <lb ed="#Z" n="28"/>in baptizandos. Vidit Aethiops in Actis apostolorum fontem, nullo delibutum 
+          <lb ed="#Z" n="29"/>oleo, nec ullis consecratum carminibus sacris, nullis denique exufflationibus, cere 
+          <lb ed="#Z" n="30"/>orum immissione, &amp; crucium picturis formatum, nihilo minus Philippo apostolo 
+          <lb ed="#Z" n="31"/>dicit, Ecce aqua, quid uetat quo minus baptizer? At Philippus fidem requisiuit in 
+          <lb ed="#Z" n="32"/>dominum Iesum, &amp; confitentem protinus baptizauit, nulla fontis consecratione 
+          <lb ed="#Z" n="33"/>praemissa, qua uidelicet gratiam spiritus sancti &amp; uim regenerantem in aquam  
+          <lb ed="#Z" n="34"/>deuocaret, protinusque Aethiopi ad purificationem affunderet.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e969">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Quod si perrexerimus elementis indere ipsam dei gratiam, &amp; res ipsas signis 
+          <lb ed="#Z" n="36"/>repraesentatas, quis non uideat, quanto cum periculo, apud simplices maxime, id 
+          <lb ed="#Z" n="37"/>facturi simus? His enim suppeditabitur occasio idololatriae, inhaerendique 
+          sensibi<lb ed="#Z" n="38" break="no"/>libus: a quibus etiam requirent &amp; postulabunt, quae eleuatis in coelum mentibus 
+          <lb ed="#Z" n="39"/>ab authore omnis boni Deo fuerant petenda. Quod enim obiicitur diuina 
+          qua<lb ed="#Z" n="40" break="no"/>dam pactione sic constitutum esse diuinitus, ut in se habeant sacramenta gratiam,.  
+          <lb ed="#Z" n="41"/>&amp; ex se ipsis ueluti canales aquam gratiae transfundant in sitientes, sine scriptura 
+          <lb ed="#Z" n="42"/>rum authoritate &amp; contra ueram religionem dicitur. Id quod ex disputatis 
+          huc<lb ed="#Z" n="43" break="no"/>susque satis patere arbitramur. Quibus &amp; illa subijcimus.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e992">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Sancti &amp; electi dei non tum primum gratia dei donisque coelestibus participant,  
+          <lb ed="#Z" n="45"/>i cum sacramenta percipiunt. Etenim rebus prius quam signis participant. Nam  
+          <lb ed="#Z" n="46"/>aperte traditur nobis, quod Abraham pater noster prius fuerit iustificatus, quam  
+          <lb ed="#Z" n="47"/>circumcisus. Inde uero quis non colligat, circumcisionis sacramento ipsi non col 
+          <lb ed="#Z" n="48"/>latam &amp; exhibitam esse iustificationem, sed eam quam fide prius possidebat obsi¬ 
+          <!--702.xml-->
+          <pb ed="#Z" n="340-r"/>
+          <lb ed="#Z" n="1"/>gnatam potius. Quis praeterea inde non colligat nos, qui filij Abrahae sumus, non 
+          <lb ed="#Z" n="2"/>alia ratione iustificari, quam patrem iustificatum constat, ac sacramenta nostra in 
+          <lb ed="#Z" n="3"/>nobis non aliud efficere quam quod in illo effecerunt : praesertim cum eadem sit 
+          <lb ed="#Z" n="4"/>ratio sacramentorum ueterum &amp; nostrorum. De quo paulo post dicemus 
+          copio<lb ed="#Z" n="5" break="no"/>sius, exposituri locum apostoli ad Rom. 4. Eunuchus ille, cuius modo meminimus 
+          <lb ed="#Z" n="6"/>ex Actis, uisa ex itinere aqua, dicit Philippo, Ecce aqua, quid uetat quo minus ba 
+          <lb ed="#Z" n="7"/>ptizer? Dixit autem Philippus, Si credis ex toto corde, licet. Et respondens ait,  
+          <lb ed="#Z" n="8"/>Credo filium dei esse Iesum Christum. Post ea demum sequitur, Et descenderunt 
+          <lb ed="#Z" n="9"/>ambo in aquam, &amp; baptizauit eum. Credidit, inquit euangelista, eunuchus ex 
+          to<lb ed="#Z" n="10" break="no"/>to corde, id est, uere &amp; non hypocritice. Videamus iam quid scriptura de 
+          huius<lb ed="#Z" n="11" break="no"/>modi fide praedicet. S. Ioannes apostolus &amp; euangelista. Omnis, inquit, qui credit  
+          <lb ed="#Z" n="12"/>Iesum esse Christum, ex deo natus est. Idem, Quisquis confessus fuerit quod 
+          le<lb ed="#Z" n="13" break="no"/>sus est filius dei, deus in eo manet, &amp; ipse in deo. Sed &amp; Paulus electum illud orga 
+          <lb ed="#Z" n="14"/>num &amp; doctor gentium, Si confessus fueris ore tuo, inquit, dominum Iesum, &amp; 
+          cre<lb ed="#Z" n="15" break="no"/>dideris in corde tuo quod deus illum excitauit a mortuis, saluus eris, Rursus 
+          au<lb ed="#Z" n="16" break="no"/>tem beatus Ioan. in epistola sua dicit, Qui credit in filium dei, habet testimonium 
+          <lb ed="#Z" n="17"/>in seipso. Et hoc est testimonium, quod uitam aeternam dedit nobis deus: &amp; haec ui 
+          <lb ed="#Z" n="18"/>ta in filio eius est. Qui habet filium, habet uitam: qui non habet filium dei, uitam  
+          <lb ed="#Z" n="19"/>non habet. Ex his porro omnibus ita colligimus, Eunuchus credidit priusquam  
+          <lb ed="#Z" n="20"/>accepisset baptismum: ergo ante acceptum baptismum natus erat ex deo, in quo 
+          <lb ed="#Z" n="21"/>manebat ipse, &amp; deus in ipso, iustus ac deo acceptus erat, adde quod uitam 
+          habe<lb ed="#Z" n="22" break="no"/>bat in semetipso: ideoque subsequens baptismus eunucho non conferebat quod ha 
+          <lb ed="#Z" n="23"/>bebat prius: sed cessit ipsi in testimonium ueritatis, &amp; in obsignationem iustitiae fi 
+          <lb ed="#Z" n="24"/>dei, adeoque in donorum continuationem &amp; incrementum. Ad eundem modum 
+          <lb ed="#Z" n="25"/>legitur de Cornelio centurione in ijsdem apostolorum Actis, quod praedicationi  
+          <lb ed="#Z" n="26"/>Petri apostoli credens acceperit spiritum sanctum etiam specie uisibili, sicuti 
+          apo<lb ed="#Z" n="27" break="no"/>stoli acceperant Hierosolymis in die pentecostes, Petrum uero ea re comperta, di 
+          <lb ed="#Z" n="28"/>xisse, Num quis prohibere potest, quo minus aqua baptizentur hi, qui spiritum 
+          <lb ed="#Z" n="29"/>sanctum perinde acceperunt uti nos. Quoniam ergo Cornelius cum suis ante ba 
+          <lb ed="#Z" n="30"/>ptismum accepit spiritum sanctum, manifestissimum est quod eundem non 
+          pri<lb ed="#Z" n="31" break="no"/>mum per baptismum aut cum baptismo exhibitum consecutus sit, Rursus legi¬  
+          <lb ed="#Z" n="32"/>mus in Actis apostolorum, Qui libenter acceperunt sermonem Petri, baptisati 
+          <lb ed="#Z" n="33"/>sunt : priusquam ergo tingerentur a Petro, erant consecuti gratiam dei per fidem,  
+          <lb ed="#Z" n="34"/>Aut cur obsecro baptizamus insantes nostros: an quia corde credunt &amp; ore 
+          con<lb ed="#Z" n="35" break="no"/>fitentur? Non arbitror. An non ideo baptizamus, quia illos deus sibi adducere 
+          ius<lb ed="#Z" n="36" break="no"/>sit: quia promisit se &amp; nostrum &amp; feminis nostri deum futurum: denique quia nos 
+          cre<lb ed="#Z" n="37" break="no"/>dimus deum ex mera sua gratia &amp; misericordia in sanguine Iesu Christi illos 
+          mun<lb ed="#Z" n="38" break="no"/>dasse ac adoptasse, &amp; haeredes uitae aeternae conscripsisse? Ex his ergo caussis bapti 
+          <lb ed="#Z" n="39"/>santes insantes, abunde testamur baptismo eis non primum conferri, sed obsignari 
+          <lb ed="#Z" n="40"/>quod habuerunt prius. Coniungamus his quoque testimonium de coena domini. Apo 
+          <lb ed="#Z" n="41"/>stolus docens quomodo sancti se preparent conuiuio dominico, Probet autem homo 
+          <lb ed="#Z" n="42"/>seipsum, inquit, &amp; sic de pane hoc edat, &amp; de poculo bibat. Caeterum probare signi 
+          <lb ed="#Z" n="43"/>ficat scrutari, quantum ab homine fieri potest, cor uel mentem, diligentique examine 
+          <lb ed="#Z" n="44"/>excutere conscientiam. Dicitur et deus probare corda nostra. Et idem apostolus iubet  
+          <lb ed="#Z" n="45"/>nos probare quae sit bona seu bene placens dei uoluntas. Discussio autem illa 
+          fie<lb ed="#Z" n="46" break="no"/>ri non potest citra scientiam &amp; iudicium. At scientia &amp; iudicium Christianorum  
+          <lb ed="#Z" n="47"/>fides est: ergo quisquis se probat antequam ad coenam ueniat, fidem habet. Si fidem  
+          <lb ed="#Z" n="48"/>habet: ergo illis non caret quae cum fide coniuncta sunt. Proinde in coena illa non 
+          <!--703.xml-->
+          <pb ed="#Z" n="340-v"/>
+          <lb ed="#Z" n="1"/>primum accipiuntur diuina beneficia, sed pro acceptis aguntur graties. Effeci his,  
+          <lb ed="#Z" n="2"/>opinor, euicique sacramenta non conferre gratiam.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1124">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Opponunt his, sat scio, (quibus persuasum est sacramenta conferre gratiam,  
+          <lb ed="#Z" n="4"/>n ac in seipsis inclusas continere res significatas) euacuare uel exinanire nos 
+          sacra<lb ed="#Z" n="5" break="no"/>menta, &amp; docere, fideles in his aut per haec nihil nisi nudam aquam, nudumque pa 
+          <lb ed="#Z" n="6"/>nem &amp; uinum percipere: atque ea ratione deum per nos redargui falsitatis &amp; men 
+          <lb ed="#Z" n="7"/>dacij, Respondemus paucis, Si uacua plenis (ut sic dicam,) opponunt, ut uacua sint 
+          <lb ed="#Z" n="8"/>quae res ipsas in se non habent inclusas, sane uacua quam plena ingenue confiteri 
+          <lb ed="#Z" n="9"/>malo. Si uero uacua dicunt &amp; prophana intelligunt, quae uidelicet a prophanis 
+          si<lb ed="#Z" n="10" break="no"/>gnis nihil differunt: si per nuda intelligunt inefficacia, palam profitemur nos sacra 
+          <lb ed="#Z" n="11"/>non prophana, efficacia non inefficacia, diuinitus exornata non nuda, &amp; iccircc 
+          <lb ed="#Z" n="12"/>plena non uacua aut inania habere sacramenta. Sacra enim sunt non prophana,¬ 
+          <lb ed="#Z" n="13"/>quia a deo &amp; pro sanctis non pro prophanis instituta sunt hominibus. Efficacia 
+          <lb ed="#Z" n="14"/>non inefficacia sunt. Nam in ecclesia apud pios seu fideles eum consequuntur effe 
+          <lb ed="#Z" n="15"/>ctum &amp; finem, ad quem instituta sunt diuinitus. De quo mox plura. Diuinitus item  
+          <lb ed="#Z" n="16"/>exornata non nuda iure dicuntur, quae ipsum dei uerbum habent quo 
+          exornan<lb ed="#Z" n="17" break="no"/>tur pulcherrime. Itaque &amp; plena non inania sunt sacramenta, quia ea habent quae 
+          <lb ed="#Z" n="18"/>plenum constituunt sacramentum, Repetimus hic parabolas, quas superius 
+          quo<lb ed="#Z" n="19" break="no"/>que de consecratione disserentes fere adduximus, quo plus lucis huic tractationi 
+          <lb ed="#Z" n="20"/>affulgeat. Cera cum fidei testimonijque gratia literis uel tabulis non appenditur,  
+          <lb ed="#Z" n="21"/>uulgaris, uacua &amp; nuda est cera, hoc est, nihil aliud quam cera. Vbi uero 
+          signa<lb ed="#Z" n="22" break="no"/>tur &amp; apponitur instrumentis, nec uacua nec nuda est iam cera: nam fides &amp; 
+          ue<lb ed="#Z" n="23" break="no"/>ritas appellatur. Signum principis uel reipublicae alicuius dum pingitur in 
+          sene<lb ed="#Z" n="24" break="no"/>stris aut parietibus, nudum est signum: at si idipsum appendatur tabulis, aut 
+          im<lb ed="#Z" n="25" break="no"/>primatur literis, magnum hoc ab illo habet discrimen. Nunc enim principis aut  
+          <lb ed="#Z" n="26"/>reipub. uoluntatem declarat &amp; obsignat, iccirco eam apud omnes existimationem 
+          <lb ed="#Z" n="27"/>habet, ut hoc uiolasse aut praeter principis aut reipublicae uoluntatem alteri alicui 
+          <lb ed="#Z" n="28"/>diplomati applicasse, crimen reputetur falsationis &amp; laesaemaiestatis. Lapis cum  
+          <lb ed="#Z" n="29"/>nondum est terminus &amp; limes agrorum constitutus, nudus &amp; uacuus, id est, 
+          uul<lb ed="#Z" n="30" break="no"/>garis est lapis, quem pedibus proculcasse aut loco mouisse nihil habet piaculi: at di 
+          <lb ed="#Z" n="31"/>rimendis agrorum finibus adhibitus amplius, non est uacuus aut nudus lapis, sed 
+          <lb ed="#Z" n="32"/>testimonium legitimae diuisionis &amp; iustae possessionis, quem mouisse loco 
+          iudica<lb ed="#Z" n="33" break="no"/>tur crimen capitale. Itaque aqua, panis &amp; uinum extra institutionem &amp; usum sacra 
+          <lb ed="#Z" n="34"/>mentalem, nihil aliud sunt quam aqua, panis &amp; uinum, caeterum in usu sacramen 
+          <lb ed="#Z" n="35"/>tali ab illis longe lateque discrepant, &amp; sacramenta sunt a Christo signata uerbo &amp;  
+          <lb ed="#Z" n="36"/>ad salutem fidelium instituta.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1201">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Ideoque qui sacramentis participant, non nihil, ut isti dicunt, percipiunt, nisi 
+          <lb ed="#Z" n="38"/>pro nihilo uideatur habenda dei institutio. Instituit hic sacramenta ut sint gratie eius 
+          <lb ed="#Z" n="39"/>testimonia, &amp; ueritatis promissionum eius sigilla. Id quod mox copiose 
+          demon<lb ed="#Z" n="40" break="no"/>strabimus. Vt ergo deus uerax est, nec mentiri potest: ita uerissima sunt promis- 
+          <lb ed="#Z" n="41"/>sionum eius sigilla. Promisit ille se nostrum futurum, &amp; in Christo se nobis cum 
+          o<lb ed="#Z" n="42" break="no"/>mnibus donis suis communicaturum. Talem ergo se nobis certo praestat &amp; com 
+          <lb ed="#Z" n="43"/>municat: licet id faciat non nunc primum cum sacramentis participamus, ueluti 
+          <lb ed="#Z" n="44"/>se nobis per illa ut canales &amp; in his ut uasis inclusum effundat. Statim enim a mun 
+          <lb ed="#Z" n="45"/>di exordio suam nobis gratiam promisit: statim atque credere coepimus, talem ille se 
+          <lb ed="#Z" n="46"/>nobis praestare coepit, &amp; praestat magis magisque per omnem uitam nostram : nos 
+          <lb ed="#Z" n="47"/>fide ac spiritualiter ipsum recipimus atque haurimus. Ergo cum participamus 
+          sa<lb ed="#Z" n="48" break="no"/>cramentis, pergit is se nobis singulari modo, id est, sacramentis proprio communi- 
+          <!--704.xml-->
+          <pb ed="#Z" n="341-r"/>
+          <lb ed="#Z" n="1"/>nicare, adeoque nos, qui dudum participes facti sumus Christi, comunionem illam  
+          <lb ed="#Z" n="2"/>in sacramentorum celebratione fide ac spiritualiter continuamus atque reparamus,  
+          <lb ed="#Z" n="3"/>eandem nobis obsignantibus signis sensibiliter. Quis autem posthac dixerit, sic 
+          <lb ed="#Z" n="4"/>sentientes de sacramentis, &amp; hac fide hi participantes, inania habere spectacula/ 
+          <lb ed="#Z" n="5"/>&amp; in his nihil percipere: licet nec signis includamus gratiam, neque ex illis hanc 
+          de<lb ed="#Z" n="6" break="no"/>riuemus? Si quis uero aliam de deo &amp; eius institutis opinionem concepit, id non  
+          <lb ed="#Z" n="7"/>magis deo fraudi fuerit, aut ipsum mendacij arguerit, quam si quis uiro iusto 
+          men<lb ed="#Z" n="8" break="no"/>dacium impingat quod id non praestet quod ille expectauerat : cum interim id quod 
+          <lb ed="#Z" n="9"/>expectauit, hic non promiserit, sed ille pro corrupta &amp; erronea sua opinione sibi 
+          <lb ed="#Z" n="10"/>promissum somniauerit.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1257">
+          <lb ed="#Z" n="11"/><pc type="indent"/> ET hactenus per occasionem ostendimus, quae sit similitudo &amp; differentia 
+          sa<lb ed="#Z" n="12" break="no"/>cramentorum ueteris &amp; noui testamenti, &amp; quod nostra sacramenta neque 
+          confe<lb ed="#Z" n="13" break="no"/>runt, neque continent gratiam, redimus modo ad id quod coeperamus, ad caput,  
+          <lb ed="#Z" n="14"/>inquam, huius disputationis primarium: ut quandoquidem quid illa non efficiant 
+          <lb ed="#Z" n="15"/>diximus, tandem quid reuera efficiant adiinciamus, explicantes uidelicet quae sit 
+          <lb ed="#Z" n="16"/>uirtus, quis finis &amp; usus sacramentorum legitimus, ad quem a deo instituta sunt.  
+          <lb ed="#Z" n="17"/>Attigi quidem caussarum locum fere in principio Serm. 6. caeterum modo &amp; alia 
+          <lb ed="#Z" n="18"/>adiungam, quae huc pertinent, &amp; singula tradam fusius &amp; plenius,
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1278">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Praecipuus sacramentorum finis ille est, quod ueritatis testimonia sunt, per quae  
+          <lb ed="#Z" n="20"/>dominus in ecclesia sua etiam uisibiliter testificatur res euangelica praedicatione 
+          <lb ed="#Z" n="21"/>annunciatas promissionibusqe ab exordio mundi promissas fidelibus, ita omnino  
+          <lb ed="#Z" n="22"/>gestas esse &amp; certo sic habere, quemadmodum annunciantur &amp; promissa sunt 
+          uer<lb ed="#Z" n="23" break="no"/>bo ueritatis. Ita Baptismus diuinum &amp; publicum in ecclesia Christi testimonium ex 
+          <lb ed="#Z" n="24"/>tat, quo testificatur dominus, se eum esse qui recipiat homines in gratiam gratuito,  
+          <lb ed="#Z" n="25"/>&amp; qui purget ab omnibus maculis, denique participes haeredesque nos faciat omnium 
+          <lb ed="#Z" n="26"/>bonorum suorum. Ad eum enim modum Circumcisio quondam publicum &amp; diui 
+          <lb ed="#Z" n="27"/>num fuit testimonium, deum esse qui purget &amp; adoptet. Ideo enim Moses Deut. 30. 
+          <lb ed="#Z" n="28"/>Circumcidet, inquit, dominus deus tuus, cor tuum &amp; cor seminis tui, ut diligas 
+          do<lb ed="#Z" n="29" break="no"/>minum deum tuum ex toto corde tuo, &amp;c. Eadem ratione ipse dominus instituta 
+          <lb ed="#Z" n="30"/>in ecclesia Coena sacra, palam attestatur signis exhibitis, corpus suum certo pro 
+          no<lb ed="#Z" n="31" break="no"/>bis traditum, &amp; sanguinem suum uere in remisionem peccatorum nostrorum effu 
+          <lb ed="#Z" n="32"/>sum esse: se item uiuificum esse cibum, qui reficiat ad uitam eternam. Iccirco 
+          legi<lb ed="#Z" n="33" break="no"/>mus apud Chrysost. Homelia 83. in Matth. in haec uerba, Sicut in ueteri eodem hic 
+          <lb ed="#Z" n="34"/>modo in beneficio reliquit, memoriam mysteriorum colligendo, &amp; hinc haeretico 
+          <lb ed="#Z" n="35"/>rum ora frenando. Nam quando dicunt, Vnde patet Christum immolatum fuisse,  
+          <lb ed="#Z" n="36"/>&amp; alia multa mysteria. Haec enim afferentes ora eorum consuimus. Si enim mor-¬ 
+          <lb ed="#Z" n="37"/>tuus Iesus non est, cuius symbolum ac signum hoc sacrificium est: Haec ille. 
+          Intel<lb ed="#Z" n="38" break="no"/>ligis, opinor, ut hic scriptor symbolum Coenae pro testimonio ueritatis, uerae 
+          in<lb ed="#Z" n="39" break="no"/>quam mortis dominicae, contra haereticos proferat. Quemadmodum itaque 
+          euan<lb ed="#Z" n="40" break="no"/>gelium appellatur testimonium, &amp; praedicatores euangelij testes, sic sacramenta 
+          <lb ed="#Z" n="41"/>nuncupamus ueritatis eiusdem testimonia, muta quidem illa, sed uisibilia tamen: 
+          <lb ed="#Z" n="42"/>quo nomine S. Augustinus eadem appellauit uerba uisibilia. Euangelij enim prae 
+          <lb ed="#Z" n="43"/>dicatio, quae constat uerbis quae hauriuntur auribus, testimonium est loquens: sa 
+          <lb ed="#Z" n="44"/>cramenta uero quae signis constant, &amp; percipiuntur uisu, testimonia sunt muta &amp; 
+          <lb ed="#Z" n="45"/>quasi appendices &amp; monimenta euangelicae praedicationis.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1340">
+          <lb ed="#Z" n="46"/><pc type="indent"/> Immo inuenta sunt diuinitus sacramenta, ut bonam &amp; propensam erga nos dei 
+          <lb ed="#Z" n="47"/>uoluntatem, adeoque praedicationem euangelicam atque omnes promisiones uitae 
+          <lb ed="#Z" n="48"/>&amp; salutis uisibiliter obsignent, sintque euangelio &amp; promissionibus diuinis uelut ap¬ 
+          <!--705.xml-->
+          <pb ed="#Z" n="341-v"/>
+          <lb ed="#Z" n="1"/>pensa sigilla, quae testificentur atque confirment fidem in Christum ueram esse 
+          iu<lb ed="#Z" n="2" break="no"/>stitiam. Quod dixi scriptura approbabo apostolica. Docui autem superius eandem 
+          <lb ed="#Z" n="3"/>esse rationem sacramentorum ueteris &amp; noui testamenti, pauculis modo exceptis,  
+          <lb ed="#Z" n="4"/>ut iam iure optimo possimus ex collatione utrorumque, nostrorum uim, finem &amp;  
+          <lb ed="#Z" n="5"/>usum aestimare. Paulus ergo ad Rom. 4. cap. Dicimus, inquit, quod imputata fue 
+          <lb ed="#Z" n="6"/>rit Abrahae fides ad iustitiam. Quomodo ergo imputata est : cum esset in circumci 
+          <lb ed="#Z" n="7"/>sione, an cum esset in praeputio? Non in circumcisione, sed in praeputio. Et signum 
+          <lb ed="#Z" n="8"/>accepit circumcisionis, signaculum iustitiae fidei, quae fuerat in praeputio: ut esset 
+          <lb ed="#Z" n="9"/>pater omnium credentium per praeputium, uidelicet ut etiam ipsis imputaretur 
+          <lb ed="#Z" n="10"/>iustitia, simul &amp; pater circumcisionis esset, non eorum modo, qui ex circumcisis 
+          <lb ed="#Z" n="11"/>sunt, sed &amp; eorum, qui ingrederentur uestigijs fidei, quae erat in praeputio patris 
+          <lb ed="#Z" n="12"/>nostri Abrahae. Haec omnia Pauli sunt. In quibus primum quidem uoces aliquot  
+          <lb ed="#Z" n="13"/>explicandae uidentur : deinde indagandus sensus uerborum, apostoli : postremo 
+          <lb ed="#Z" n="14"/>adaptanda illa nostro negotio sacramentario.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1385">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Vtitur in praesenti apostolus duabus uocibus, Signi uidelicet &amp; Signaculi. Si- 
+          <lb ed="#Z" n="16"/>gnum oqueioy generalius est, &amp; patet latissime. Signaculum uero coupexis, singulare 
+          <lb ed="#Z" n="17"/>est sacramentis obsignantibus. Neque enim omnia signa obsignant. Nam quaedam 
+          <lb ed="#Z" n="18"/>significando duntaxat absoluunt suum officium. Est autem oquepexioein proprie ob 
+          <lb ed="#Z" n="19"/>signare fidei faciendae confirmandeque gratia: unde ougexis sigillum erit, quod fidei 
+          <lb ed="#Z" n="20"/>seruandae confirmandaeue cauendisque fraudibus adhibetur. Imitatur hic quoque.  
+          <lb ed="#Z" n="21"/>ut alias saepe, morem humanum dominus, Solemus enim homines scripta foedera, 
+          <lb ed="#Z" n="22"/>seu uerbis datam fidem, appensis roborare sigillis. Et sigillorum institutionem &amp;  
+          <lb ed="#Z" n="23"/>usum huiusmodi semper fuisse, colliquescit ex his scripturae testimonijs, Cum filij 
+          <lb ed="#Z" n="24"/>lzrael sub Ezra foedus inirent cum domino, mox foedus in literas reserunt, &amp; scri 
+          <lb ed="#Z" n="25"/>pturam in ueritatis testimonium obsignant: sicut uidere licet Nehem. 9. cap. Hag.  
+          <lb ed="#Z" n="26"/>2. cap. legis, Assumam te Corobabel fili Salathiel, serue mi, dicit dominus, &amp; 
+          po<lb ed="#Z" n="27" break="no"/>nam te quasi annulum signatorium, quia te elegi. Quasi dicat, In Salathielis filic 
+          <lb ed="#Z" n="28"/>omnes certo discent, superesse, per quem sit propaganda Messie posteritas. Ita scri 
+          <lb ed="#Z" n="29"/>bit Ieremias in 22. cap. Viuo ego dicit dominus, quia si esset Chonenias filius 
+          le<lb ed="#Z" n="30" break="no"/>hoialim regis luda, sigillum in manu mea dextra, tamen inde auellam te. Id quod 
+          <lb ed="#Z" n="31"/>perinde est, ac si dixisset, Quamuis ille sis, in quo promisiones meas seruabo, atta 
+          <lb ed="#Z" n="32"/>men in Babylonem abduceris. Huc pertinet illud ex Matthaeo de ludaeis scriptum, 
+          <lb ed="#Z" n="33"/>llli autem abeuntes munierunt sepulchrum obsignato lapide, nimirum contra frau 
+          <lb ed="#Z" n="34"/>des, adhibitis custodibus. Liquet ergo ex his, quis sit usus sigillorum.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1433">
+          <lb ed="#Z" n="35"/><pc type="indent"/> His sic expositis, perquiramus iam consilium &amp; sensum uerborum 
+          apostoli<lb ed="#Z" n="36" break="no"/>Demonstrat Paulus iustificationem hominibus obtingere nullorum operum, 
+          nul<lb ed="#Z" n="37" break="no"/>si larumue caeremoniarum uel sacramentorum uirtute, sed solius Christi beneficio 
+          <lb ed="#Z" n="38"/>per fidem. Ad hoc confirmandum adducit exemplum Abrahae, de quo scriptura 
+          <lb ed="#Z" n="39"/>pronunciauit, Credidit Abraham deo &amp; reputatum est ei ad iustitiam. Inde 
+          colli<lb ed="#Z" n="40" break="no"/>git Abrahamum esse iustificatum fide, imo hanc illi imputatam esse pro 
+          iustitia<lb ed="#Z" n="41" break="no"/>Vbi &amp; ex uocabulo aut ui imputationis, &amp; ex tota Mosis sententia, praeualide 
+          ar<lb ed="#Z" n="42" break="no"/>gumentatur, demonstrans gratiae per fidem esse iustitiam. Quibus coniungit &amp;  
+          <lb ed="#Z" n="43"/>ex Dauide testimonium, de imputatiua iustitia. Tractaui eum locum Decadis 4a 
+          <lb ed="#Z" n="44"/>Sermone1. Deinde redit iterum ad Abrabae exemplum, &amp; locum adductum ex 
+          <lb ed="#Z" n="45"/>Genesi applicat suo instituto, excussis circumstantijs modi temporisque, ac dicit, 
+          <lb ed="#Z" n="46"/>Quomodo ergo imputata est, cum esset in circumcisione, an cum esset in praeputio?  
+          <lb ed="#Z" n="47"/>Nonin circumcisione, sed in praeputio. Quae quidem apertiora sunt, quam ulla ex¬
+          <lb ed="#Z" n="48"/>positone indigeant. Quia uero ludaeus obiicere poterat, Inanis ergo &amp; uacua, 
+          <!--706.xml-->
+          <pb ed="#Z" n="342-r"/>
+          <lb ed="#Z" n="1"/>inutilis &amp; uana fuit circumcisionis institutio &amp; usus. Si enim prius iustificatus 
+          <lb ed="#Z" n="2"/>quam circumcisus fuit Abraham, quid potuit illi amplius conserre circumcisio? 
+          <lb ed="#Z" n="3"/>&amp; si nihil contulit, certe superuacanea &amp; inutilis fuit: Paulus per anthypophoram 
+          <lb ed="#Z" n="4"/>respondens, Et signum accepit, inquit, circumcisionis, signaculum iustitiae fidei 
+          <lb ed="#Z" n="5"/>&amp;c. Circumcisio, ait, nec inutilis fuit, neque uacua est. Licet enim non iustificet, pur 
+          <lb ed="#Z" n="6"/>get, dona dei applicet, ideo tamen non sequitur, nullum eius usum esse amplius,  
+          <lb ed="#Z" n="7"/>Alium enim finem habet. Nam signum circumcisionis accepit in signaculum quod 
+          <lb ed="#Z" n="8"/>dam iustitiae fidei. Hoc est, deus instituit circumcisionem, ut esset sigillum ratificans 
+          <lb ed="#Z" n="9"/>atque confirmans, adeoque uisibiliter etiam testificans, fidem esse iustitiam, hominesque 
+          <lb ed="#Z" n="10"/>fide iustificari, ita inquam, ut his quoque fides imputetur ad iustitiam, sicuti 
+          Abra<lb ed="#Z" n="11" break="no"/>hae imputata fuit. Nam sequitur, Vt esset pater omnium credentium per 
+          praepu<lb ed="#Z" n="12" break="no"/>tium, ut imputaretur &amp; illis iustitia. Et reliqua. Et quamuis haec luce clariora sint,  
+          <lb ed="#Z" n="13"/>conabor tamen eadem illa magis illustrare parabola. Finge enim principem 
+          ali<lb ed="#Z" n="14" break="no"/>quem ex gratia &amp; mera munificentia sua, seruum aliquem in aulam adeoque in 
+          par<lb ed="#Z" n="15" break="no"/>ticipatum omnium bonorum recipere, insuper beneficium hoc ad liberos quoque 
+          <lb ed="#Z" n="16"/>posteritatemque adoptati extendere: mox uero iubere ut transactio, priuilegium &amp;  
+          <lb ed="#Z" n="17"/>gratia illa confecta uerbis uiuis, referatur in literas, quas &amp; appenso suo sigillo 
+          ro<lb ed="#Z" n="18" break="no"/>boret, quo istae posteris certum sint testimonium contra omnes tergiuersatores, gra 
+          <lb ed="#Z" n="19"/>tiam illam ad ipsos quoque pertinere, principemque in bona &amp; propensa sua 
+          uolun<lb ed="#Z" n="20" break="no"/>tate perseueraturum erga postcios adoptati, si &amp; ipsi fideles principi esse perrexe 
+          <lb ed="#Z" n="21"/>rint. Ad hunc enim modum deus optimus maximus, rex regum &amp; principum 
+          mu<lb ed="#Z" n="22" break="no"/>nificentissimus, gratis &amp; nullo praecedente nostro bono merito, euocat 
+          Abraha<lb ed="#Z" n="23" break="no"/>mum, in quem cumulatim innumera congerit beneficia, cui &amp; foedus communio 
+          <lb ed="#Z" n="24"/>nemque offert bonorum omnium, nec ipsi modo, sed &amp; omnibus posteris eius, di- 
+          <lb ed="#Z" n="25"/>cens, Ego deus omnisufficientia, ero deus tuus &amp; feminis tui post te. Benedicam  
+          <lb ed="#Z" n="26"/>tibi &amp; femini tuo. Imo in semine tuo benedicentur omnes cognationes terrae. Priui 
+          <lb ed="#Z" n="27"/>legium hoc etiam iuramento interposito firmans sacrauit, mox &amp; patres liberis ceu 
+          <lb ed="#Z" n="28"/>per manus, uice scripturae tradere, deinde uero seruos suos prophetas in literas re 
+          <lb ed="#Z" n="29"/>ferre iussit, ipse denique circumcisione instituta, ueluti iam literis aut traditioni 
+          ap<lb ed="#Z" n="30" break="no"/>presso sigillo aut diplomate obsignato, toti posteritati obsignare &amp; roborare 
+          uo<lb ed="#Z" n="31" break="no"/>luit, quo certo ad se quoque illud pertinere scirent. Vbi tamen illud non uidetur no 
+          <lb ed="#Z" n="32"/>bis dissimulandum, sacramenta diplomatis signatis aliquid maius &amp; uiuidius ha 
+          <lb ed="#Z" n="33"/>bere. Inscribuntur enim priuilegia principum membranis, sigillaque scriptis 
+          appen<lb ed="#Z" n="34" break="no"/>duntur membranis: deus uero ipsis suorum corporibus suum imprimit sigillum. T 
+          <lb ed="#Z" n="35"/>Membro enim genitali, unde posteritas propagatur, circumcisionem indit, ut 
+          ue<lb ed="#Z" n="36" break="no"/>luti nota impressa ipsis corporibus, plus iam quam obsignaret testareturque benedi 
+          <lb ed="#Z" n="37"/>ctionem &amp; communionem bonorum omnium pertinere ad circumcisos, si 
+          per<lb ed="#Z" n="38" break="no"/>gant fideles esse domino deo hominibus confoederato. Ideo enim significanter 
+          cir<lb ed="#Z" n="39" break="no"/>cumcisio a Paulo non signaculum iustitiae dicitur, sed signaculum iustitiae fidei: 
+          <lb ed="#Z" n="40"/>id est ratificatio, quod fides sit iustitia, quod fide uidelicet iustificati iam sumus 
+          <lb ed="#Z" n="41"/>quod credentibus debeatur iustitia, quod deus fidelibus certo benedicere uelit,  
+          <lb ed="#Z" n="42"/>hisque fidem imputare ad iustitiam: sicuti &amp; Abrahae imputauit.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1562">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Iam cum par sit ratio sacramentorum, licet haec quoque nostris applicare 
+          sacra<lb ed="#Z" n="44" break="no"/>mentis. Christus ergo domini, redempto per mortem innoxiam mundo a potestate g 
+          <lb ed="#Z" n="45"/>satanae, &amp; iam ascensurus ad patrem in coelos, uocatis ad se discipulis suis dicit,  
+          <lb ed="#Z" n="46"/>lte in orbem uniuersum &amp; praedicate euangelium omni creaturae : qui crediderit 
+          <lb ed="#Z" n="47"/>&amp; baptisatus fuerit, &amp;c. Euangelica praedicatio explicat ingens, pretiosum, saluta 
+          <lb ed="#Z" n="48"/>re, uiuificum et munificum, regium atque diuinum priuilegium, quod filij dei ex filijs 
+          <!--707.xml-->
+          <pb ed="#Z" n="342-v"/>
+          <lb ed="#Z" n="1"/>diaboli facti sumus, haeredes inquam dei, cohaeredes autem Christi, qui sanguine 
+          <lb ed="#Z" n="2"/>fuso tantam nobis salutem parauit. Hac gratia dei nemo exclusus est, nisi qui se suo 
+          <lb ed="#Z" n="3"/>uitio &amp; culpa per inobedientiam excludit. Nam de liberis siue insantibus 
+          creden<lb ed="#Z" n="4" break="no"/>tium idem dominus in euangelio pronuncians ait, Sinite puellos uenire ad me, &amp;  
+          <lb ed="#Z" n="5"/>ne prohibueritis illos: talium enim est regnum dei. Et iterum, Amen dico uobis,  
+          <lb ed="#Z" n="6"/>nisi conuersi fueritis &amp; efficiamini sicut pueri, non ingrediemini in regnum coelo 
+          <lb ed="#Z" n="7"/>rum. Et qui receperit unum puellum talem, me recipit. Videte, ne contemnatis 
+          <lb ed="#Z" n="8"/>unum ex his pusillis. Dico enim uobis, quod angeli eorum in coelis semper uident 
+          <lb ed="#Z" n="9"/>faciem patris mei, qui in coelis est, &amp;c. Neque uerisimileest, exhibito nobis Christo,  
+          <lb ed="#Z" n="10"/>deum inclementiorem factum, quam erat cum nondum esset exhibitus. At tunc 
+          <lb ed="#Z" n="11"/>dixit, Ero deus tuus &amp; feminis tui post te. Valet ergo id ipsum nunc magis, cum  
+          <lb ed="#Z" n="12"/>dominus uenerit quaerere &amp; seruare quod perierat, gratiam denique &amp; dona sua 
+          <lb ed="#Z" n="13"/>liberalissime in omnem effundere carnem. Ergo priuilegium illud regium, am¬  
+          <lb ed="#Z" n="14"/>plissimum &amp; diuinum, primum quidem ipsius Christi domini praedicatione, mox 
+          <lb ed="#Z" n="15"/>&amp; apostolorum eius annunciatione mundo expositum est : deinde uero deo sic 
+          <lb ed="#Z" n="16"/>uolente idem ab apostolis &amp; euangelistis relatum est in literas, sacramentum uerc 
+          <lb ed="#Z" n="17"/>ipse dominus ceu appendicem &amp; sigillum adiecit praedicationi aut scripturae, 
+          ba<lb ed="#Z" n="18" break="no"/>ptismum substituens circumcisioni: quam, quia cruenta, denique signum uenturi 
+          <lb ed="#Z" n="19"/>seminis benedicti erat, quod tum exhibitum fuerat, abrogari oportebat. Baptismus 
+          <lb ed="#Z" n="20"/>autem succedens circumcisioni &amp; ipse est signaculum iustitiae fidei, testimonium 
+          <lb ed="#Z" n="21"/>&amp; diploma obsignans, deum certo nos mundare &amp; haeredes constituere uitae aeter 
+          <lb ed="#Z" n="22"/>nae, totamque euangelij gratiam ad baptisatos pertinere, si in fide uera consistant.  
+          <lb ed="#Z" n="23"/>At non credunt, ais, insantes Christianorum baptizandi. Fateor. Caeterum non  
+          <lb ed="#Z" n="24"/>credebant ludaeorum insantes, qui nihilominus circumcidebantur, erantque in foe 
+          <lb ed="#Z" n="25"/>dere dei &amp; communione omnium bonorum: ut idem nostris tribuere insantibus 
+          <lb ed="#Z" n="26"/>uera iubeat pietas. Vbi adoleuisset semen ludaicum, &amp; praeuaricaretur impie,  
+          <lb ed="#Z" n="27"/>exciderat foedere dei: unde &amp; Christianorum insantes euangelica gratia 
+          excide<lb ed="#Z" n="28" break="no"/>runt, quando adulti impie agunt, recipiuntur tamen rursus in eandem per fidelem  
+          <lb ed="#Z" n="29"/>poenitentiam. Sed redimus. Baptismus sigillum iustitiae fidei, non apponitur mem 
+          <lb ed="#Z" n="30"/>branae aut scripto euangelio, sed accommodatur ipsis filiorum dei corporibus,  
+          <lb ed="#Z" n="31"/>ijsque ueluti infigitur imprimiturque. Toti enim corporibus nostris immergimur,  
+          <lb ed="#Z" n="32"/>aut toti aspergimur aqua baptismi: quae sane uisibilis obsignatio est, confirmans 
+          <lb ed="#Z" n="33"/>deum uerum, esse deum nostrum, sanctificantem ac purificantem, purificatio¬  
+          <lb ed="#Z" n="34"/>nemque &amp; omne bonum dei nobis tanquam haeredibus dei debere. Atque huc iam  
+          <lb ed="#Z" n="35"/>pertinet euidens ille Pauli locus, qui in epistola ad Galatas sic legitur. Omnes filij 
+          <lb ed="#Z" n="36"/>dei estis, eo quod credidistis Christo Iesu. Nam quicunque baptizati estis, Chri- 
+          <lb ed="#Z" n="37"/>stum induistis. Et reliqua. Similis est ratio Coenae dominicae, quae &amp; ipsa est sigil 
+          <lb ed="#Z" n="38"/>lum iustitiae fidei. Moritur enim filius dei, morte sua redimit credentes, corpore 
+          <lb ed="#Z" n="39"/>item sanguineque suo cibat &amp; potat nos ad uitam aeternam. Ac singulare quidem  
+          <lb ed="#Z" n="40"/>excellensque hoc priuilegium fidelibus datum, annunciatur &amp; scribitur ab aposto 
+          <lb ed="#Z" n="41"/>lis, sed ab ipso domino consecratur &amp; obsignatur sacramento corporis &amp; 
+          sangui<lb ed="#Z" n="42" break="no"/>nis sui, quo obsignat fide nos in traditum dominum iustificari, communicari 
+          no<lb ed="#Z" n="43" break="no"/>biscum omnia Christi bona, pasci &amp; uegetari nos Christo. Porro ut obsignatio 
+          ui<lb ed="#Z" n="44" break="no"/>uidior esset, sigillum non apponit membranae scriptae, sed infertur atque adeo man 
+          <lb ed="#Z" n="45"/>ducandum praebetur corporibus nostris, ut testimonium intra nosipsos 
+          habea<lb ed="#Z" n="46" break="no"/>mus, totum uidelicet Christum cum omnibus donis suis ad nos proprie pertinere,¬ 
+          <lb ed="#Z" n="47"/>si in fide perseueremus. Nam ipse dominus in euangelio, Qui edit me, inquit, uiuet  
+          <lb ed="#Z" n="48"/>&amp; ipse propter me. At edit, qui credit. Ibidem enim dicit dominus, Ego sum panis 
+          <!--708.xml-->
+          <pb ed="#Z" n="343-r"/>
+          <lb ed="#Z" n="1"/>uitae, qui uenit ad me non esuriet, &amp; qui credit in me, non sitiet unquam.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1693">
+          <lb ed="#Z" n="2"/><pc type="indent"/> Ex his iam summam rei colligimus, sacramenta obsignare diuinas 
+          euangeli<lb ed="#Z" n="3" break="no"/>casque promisiones: ac proinde toties in ecclesia tabulas seu literas aut diplomata 
+          <lb ed="#Z" n="4"/>atque sigilla praedicationis euangelicae diuinarumque promissionum proferri, atque 
+          <lb ed="#Z" n="5"/>adeo &amp; totum salutis nostrae negotium renouari &amp; continuari, quoties actiones 
+          <lb ed="#Z" n="6"/>illae diuinitus institutae, sacramenta uidelicet, in ecclesia celebrantur.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1707">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Huc pertinere arbitror, quae fidelis Christi minister &amp;uinglius de 
+          Sacramen<lb ed="#Z" n="8" break="no"/>tis in haec uerba tradidit, Sacramenta testimonium rei gestae praebent. Vniuersae 
+          <lb ed="#Z" n="9"/>enim leges, mores ac instituta authores suos initiaque praedicant. Baptismus ergo s 
+          <lb ed="#Z" n="10"/>cum Christi mortem ac resurrectionem significando praedicat, eas uere gestas esse  
+          <lb ed="#Z" n="11"/>oportet. Extant haec in Exposito, fidei ad Regem Christianum. Idem ad Principes 
+          <lb ed="#Z" n="12"/>uermaniae contra Eggium, Cum homo ille nobilis, inquit, abiturus in regionem 
+          <lb ed="#Z" n="13"/>longinquam, panem ac uinum praebens, longe uiuidius &amp; peculiarius sese nobis 
+          <lb ed="#Z" n="14"/>dabat, cum diceret, Hoc est corpus meum, quam si dixisset, Hoc est symbolum cor 
+          <lb ed="#Z" n="15"/>poris mei: etiamsi naturale corpus suum ablaturus ac coelo illaturus esset. Nihilo 
+          <lb ed="#Z" n="16"/>tamen minus sese totum, quod ad fidem &amp; gratiam pertinet, his uerbis donat. 
+          <lb ed="#Z" n="17"/>Quasi diceret, Nunc in mortem pro uobis eo, paulo post ex integro hinc migratu 
+          <lb ed="#Z" n="18"/>rus. At nolo de amore &amp; cura in uos mea ambigatis. Totus uester sum, quantus 
+          <lb ed="#Z" n="19"/>quantus sum. In cuius rei testimonium, huius meae traditionis &amp; testamenti sym 
+          <lb ed="#Z" n="20"/>bolum uobis commendo, quo memoriam mei, meorumque beneficiorum excitetis:  
+          <lb ed="#Z" n="21"/>ut cum uobis hunc panem &amp; hunc calicem exhiberi uideatis in memoriali Coena, 
+          <lb ed="#Z" n="22"/>non aliter sitis mei memores, quod scilicet me pro uobis tradiderim, quam si 
+          uide<lb ed="#Z" n="23" break="no"/>retis me coram: quemadmodum nunc uidetis &amp; uobiscum conuiuari, &amp; mox 
+          <lb ed="#Z" n="24"/>ad supplicium pro uobis a uobis rapi. Hactenus uinglij uerba recensui, recen 
+          <lb ed="#Z" n="25"/>sebo autem rursus alia paulo post: non quod illis aut ullis humanis testimonijs 
+          in<lb ed="#Z" n="26" break="no"/>nitar, sed ut perspicuum fiat, uirum illum non contempsisse, uti a quibusdam 
+          fal<lb ed="#Z" n="27" break="no"/>so putatur, sacramenta.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1756">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Interim agnoscimus haec sancta sacrae scripturae testimonia, Qui confirmat 
+          <lb ed="#Z" n="29"/>nos una uobiscum in Christo, &amp; qui unxit nos deus est: qui etiam obsignauit nos,  
+          <lb ed="#Z" n="30"/>deditque arrham spiritus in cordibus nostris. 2. Corinth. I. Item, Postquam 
+          credidi<lb ed="#Z" n="31" break="no"/>stis, obsignati estis spiritu promissionis sancto, qui est arrhabo haereditatis nostrae 
+          <lb ed="#Z" n="32"/>in redemptionem acquisitae possessionis in laudem gloriae ipsius. Ephes. I. Et 
+          ite<lb ed="#Z" n="33" break="no"/>rum, Ne contristetis spiritum sanctum dei, per quem obsignati estis in diem 
+          redem<lb ed="#Z" n="34" break="no"/>ptionis. Ephes. 4. Agnoscimus dei ueritatem per se satis solidam, ueram &amp; certam  
+          <lb ed="#Z" n="35"/>esse, nec aliunde quam ex seipsa meliorem accipere confirmationem: nisi uero un 
+          <lb ed="#Z" n="36"/>dique animus noster confirmetur, fluctuat: deus ergo se attemperat nostrae imbecil 
+          <lb ed="#Z" n="37"/>litati, &amp; per sacramenta quoque, quantum fieri potest, nos fulcit, ita tamen ut omne 
+          <lb ed="#Z" n="38"/>confirmationis beneficium referamus ad ipsum spiritum &amp; eius operationem ma 
+          <lb ed="#Z" n="39"/>gis quam ad elementum. Quemadmodum ergo doctrinae atque doctoribus confir 
+          <lb ed="#Z" n="40"/>mationem tribuimus ita obsignationem sacramentis. Legimus autem in Actis 
+          <lb ed="#Z" n="41"/>cap. 14. &amp; 18 Reuertebantur apostoli, &amp; denuo confirmabant animas 
+          discipulo<lb ed="#Z" n="42" break="no"/>rum, exhortantes, ut perseuerarent in fide, Rursum1. Thess. 3. cap. Misimus, ait 
+          <lb ed="#Z" n="43"/>Paulus, Timotheum fratrem nostrum, &amp; ministrum dei, ut confirmaret uos &amp; con 
+          <lb ed="#Z" n="44"/>solaretur. Ceterum nisi interior spiritus uis rapiat, &amp; commoueat auditorum cor- 
+          <lb ed="#Z" n="45"/>da, nihil efficiet exterior doctoris quantumuis bene instructa oratio : si uero 
+          exe<lb ed="#Z" n="46" break="no"/>rat uim, ac cooperetur, firmissime corroborantur animi. Sic habet &amp; negotium sa 
+          <lb ed="#Z" n="47"/>cramentarium. Si enim desit interior unctio &amp; obsignatio spiritus sancti, actio 
+          <lb ed="#Z" n="48"/>exterior pro ludo ab incredulis habebitur, nec efficit tantillum sacramentorum 
+          <!--709.xml-->
+          <pb ed="#Z" n="343-v"/>
+          <lb ed="#Z" n="1"/>obsignatio : cum uero praecessit fides spiritus sancti donum, firmissima est 
+          sacra<lb ed="#Z" n="2" break="no"/>mentorum obsignatio, Recte alij quoque. Si desit mentibus, inquiunt, spiritus 
+          san<lb ed="#Z" n="3" break="no"/>ctus, nihilo plus ipsa praestant quam caecis oculis iubar solis illustrissimum licet. Si 
+          <lb ed="#Z" n="4"/>uero isti per spiritus illuminationem pateant, ualde afficiuntur diuino sacramentoum 
+          <lb ed="#Z" n="5"/>spectaculo. Et &amp;uinglius in libello ad principes Germanies, Nos non offendit, 
+          in<lb ed="#Z" n="6" break="no"/>quit, etiamsi uniuersa quae spiritus operatur, ad externum sacramentum 
+          referantur<lb ed="#Z" n="7" break="no"/>dummodo symbolice dicta, quomodo patres locuti sunt, intelligamus. Haec ille
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1825">
+          <lb ed="#Z" n="8"/><pc type="indent"/> Et quauis sacramenta incredulis non obsignent promisiones, quibus diffidunt,  
+          <lb ed="#Z" n="9"/>nihilo minus tamen sacramenta ut obsignent diuinitus instituta sunt. Non recipit 
+          <lb ed="#Z" n="10"/>doctrinam euangelicam impius, ideo tamen nemo colligit, doctrinam a deo non esse 
+          <lb ed="#Z" n="11"/>ad docendum institutam. Est qui obsignato diplomati no credat: ideo tamen non 
+          se<lb ed="#Z" n="12" break="no"/>quitur, diploma signatum fidei faciendae aut confirmandae non seruire. Ergo cum 
+          do<lb ed="#Z" n="13" break="no"/>ctrina apud rebellem nihil efficit, cum sacramenta prophanum nihil mouent nec 
+          <lb ed="#Z" n="14"/>quicquam prosunt impio, id sane non instituentis, aut uerbi sacramentorumue cul 
+          <lb ed="#Z" n="15"/>pa fit, sed uitio increduli. Per se interim instituta sunt, ut prosint &amp; obsignent, suumque 
+          <lb ed="#Z" n="16"/>in sanctis sanctum usum &amp; finem habeant. Haec aunt hactenus de prima sacramen 
+          <lb ed="#Z" n="17"/>torum uirtute attulimus, quod diuinae ueritatis, adde &amp; beneuolentiae erga nos 
+          <lb ed="#Z" n="18"/>diuinae testimonia, &amp; sigilla sunt euangelicarum promissionum omnium, 
+          obsi<lb ed="#Z" n="19" break="no"/>gnantia, fidem esse iustitiam, &amp; omnia Christi bona pertinere ad credentes.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1856">
+          <lb ed="#Z" n="20"/><pc type="indent"/> EST &amp; alius signorum sacramentalium finis &amp; usus, quod uidelicet 
+          signifi<lb ed="#Z" n="21" break="no"/>cant &amp; significando repraesentant. Id quod superuacaneum esset pluribus appro 
+          <lb ed="#Z" n="22"/>bare testimonijs, cum hoc omnibus sit manifestissimum, saltem ex praecedentibus. 
+          <lb ed="#Z" n="23"/>Est autem significare, indicare, notisque &amp; signis rem declarare aut demonstrare.  
+          <lb ed="#Z" n="24"/>Repraesentare uero non significat rem ablatam quondam nunc rursus 
+          corpora<lb ed="#Z" n="25" break="no"/>liter, ut quidam nugantur, praesentem sistere, dare aut facere, sed similitudine &amp; imi 
+          <lb ed="#Z" n="26"/>tatione quadam referre, eamque rursus reuocare in animum, &amp; oculis uelut 
+          obii<lb ed="#Z" n="27" break="no"/>cere. Dicimus enim filium repraesentare uel referre patrem, cum uidelicet forma 
+          <lb ed="#Z" n="28"/>&amp; morum similitudine patrem exprimit: ita ut qui hunc uidet, putet seipsum 
+          pa<lb ed="#Z" n="29" break="no"/>trem ueluti praesentem cernere.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1881">
+          <lb ed="#Z" n="30"/><pc type="indent"/> Et hac quidem ratione excitant &amp; adiuuant sacramenta fidem nostram, dum 
+          <lb ed="#Z" n="31"/>uidelicet foris obiicitur nobis, quod animum impellit, excitat &amp; comonefacit, imo 
+          <lb ed="#Z" n="32"/>illud ipsum quod animo iamdudum coprehensum est, nunc etiam modo quodam 
+          <lb ed="#Z" n="33"/>sensibus, in similitudine, parabola, aut typo seu inuolucro, contemplandum 
+          uolu<lb ed="#Z" n="34" break="no"/>tandumque mente, uisibiliter offertur, ut iam mutua inter se opera iuuentur. Similitudo 
+          <lb ed="#Z" n="35"/>ergo seu analogia signi ad signatum obiter &amp; in transcursu hic consideranda est.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1898">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Dixi superius Analogiam esse aptitudinem, proportionem &amp; conuenientiam  
+          <lb ed="#Z" n="37"/>quandam signi ad rem significatam: ita ut haec in illo quasi in speculo 
+          perspicia<lb ed="#Z" n="38" break="no"/>tur. Exemplis res fiet illustrissima, Recipit ex mera gratia benignus dominus 
+          ge<lb ed="#Z" n="39" break="no"/>nus mortalium in omnium bonorum suorum comunionem, &amp; adoptat fideles, ut 
+          <lb ed="#Z" n="40"/>iam non modo sint foederati dei, sed etiam filij dei. Id quod sancta baptismi actione,  
+          <lb ed="#Z" n="41"/>quae uice signi aut ipsum signum est, euidentissime omnium oculis repraesentando 
+          <lb ed="#Z" n="42"/>obiicitur. Adstat enim ad fontem sacrum dei minister, cui offertur baptisandus, qui  
+          <lb ed="#Z" n="43"/>ab ipso recipitur &amp; baptizatur in nomen uel in nomine patris &amp; filij &amp; spiritus 
+          <lb ed="#Z" n="44"/>sancti. Nam utrunque est inuenire, in nomen &amp; in nomine. Porro baptizari in 
+          no<lb ed="#Z" n="45" break="no"/>men domini, est in uirtutem &amp; potentiam (significat enim nomen dei potentiam)  
+          <lb ed="#Z" n="46"/>in gratiam, misericordiam, &amp; auxilium dei consignari, imo inseri, &amp; deo ueluti ag 
+          <lb ed="#Z" n="47"/>glutinari, dedicari, &amp; incorporari. Baptizari in nomine dmini, est iussione aut impe 
+          <lb ed="#Z" n="48"/>rio dei baptizari, ex comisione, inquam, dei patris et filij &amp; spiritus sancti, recipi in 
+          <!--710.xml-->
+          <pb ed="#Z" n="344-r"/>
+          <lb ed="#Z" n="1"/>consortium filiorum dei, adeoque &amp; accenseri familiae dei, ut baptisati sint &amp; dican 
+          <lb ed="#Z" n="2"/>tur Christiani, nominenturque nomine dei, appellati filij dei patris, &amp;c, Refert ergo 
+          <lb ed="#Z" n="3"/>locutio illius non nihil, quod alibi legimus nomen dei inuocari super aliquo, quod 
+          <lb ed="#Z" n="4"/>perinde est, ac si dicamus, aliquem nomine dei uocari, id est, seruum &amp; filium dei 
+          <lb ed="#Z" n="5"/>appellari Ergo qui antea per gratiam inuisibiliter a deo recepti sunt in consortium 
+          <lb ed="#Z" n="6"/>stro dei: atque ideo &amp; nomen simul accipiunt, ut semper meminerint se Christo 
+          no<lb ed="#Z" n="7" break="no"/>dei, illi idem uisibiliter iam per baptismum eidem dei familiae inscribuntur a 
+          mini<lb ed="#Z" n="8" break="no"/>men in baptismo dedisse, uicissim &amp; accepisse. Ad hunc modum refert per 
+          analo<lb ed="#Z" n="9" break="no"/>giam accommodatissimam ipsum signum rem significatam. Fit denique Baptismus 
+          <lb ed="#Z" n="10"/>per aquam Aqua uero in rebus humanis duplicem habet usum. Purgat enim sor 
+          <lb ed="#Z" n="11"/>des, hominemque ueluti renouat: sed &amp; potatac refrigerat aestuantem. Sic autem re 
+          <lb ed="#Z" n="12"/>presentat gratiam dei, quum fideles suos emundat a peccatis, regenerat &amp; refri- 
+          <lb ed="#Z" n="13"/>gerat spiritu suo. Porro aspergi aut affundit potius aquam minister Christi, aut  
+          <lb ed="#Z" n="14"/>immersos extrahit ex aquis: qua re significatur deum liberaliter dona sua effun- 
+          <lb ed="#Z" n="15"/>dere in fideles suos: significatur denique nos cum Christo sepeliri in mortem eius. 
+          <lb ed="#Z" n="16"/>&amp; cum eodem resurgere in nouitate uitae, Suffocat sinus erithrei maris 
+          Pharao<lb ed="#Z" n="17" break="no"/>nem, transmittit autem populum dei. Nam uetus Adam submergi ac extingui, no 
+          <lb ed="#Z" n="18"/>uus de die in diem reuiuiscere &amp; emergere debet. Pulchre ergo baptismo 
+          reprae<lb ed="#Z" n="20" break="no"/>sentatur mortificatio &amp; uiuificatio Christianorum.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e1975">
+          <lb ed="#Z" n="19"/><pc type="indent"/> lam in Coena domini Panis &amp; Vinum repraesentant ipsum corpus &amp; sangui¬
+          <lb ed="#Z" n="21"/>nem Christi, Ratio huius haec est. Vt panis alit &amp; roborat hominem, uiresque sufficit 
+          <lb ed="#Z" n="22"/>ad laborandum: Sic Christi corpus per fidem manducatum cibat &amp; satiat animam 
+          <lb ed="#Z" n="23"/>hominis, totumque hominem ad omnia pietatis officia instruit. Vt uinum potat 
+          si<lb ed="#Z" n="24" break="no"/>tientes &amp; laetificat corda hominum: Sic sanguis domini Iesu haustus fide restinguit  
+          <lb ed="#Z" n="25"/>sitim aestuantis conscientiae, &amp; gaudio ineffabili perfundit corda fidelium. 
+          Fran<lb ed="#Z" n="26" break="no"/>gitur uero in Actione coenae panis domini : funditur uinum. Confractum enim,  
+          <lb ed="#Z" n="27"/>id est modis omnibus afflictum est corpus saluatoris nostri, cruorque largissimus per 
+          <lb ed="#Z" n="28"/>hiantia erupit &amp; manauit uulnera. Ac nos ipsi quidem panem domini proprijs 
+          <lb ed="#Z" n="29"/>frangimus manibus. Nos enim ipsi in culpa sumus, quod ille attritus est. Peccata 
+          <lb ed="#Z" n="30"/>nostra uulnerauerunt illum, &amp; nos ipsi crucifiximus eum: id est, ille propter nos,  
+          <lb ed="#Z" n="31"/>ut morte sua nos a morte liberaret, crucifixus est. Praeterea accipimus in manus 
+          <lb ed="#Z" n="32"/>nostras panem, accipimus in manus nostras similiter &amp; poculum: eo quod ille di- 
+          <lb ed="#Z" n="33"/>xit, Accipite, edite. Accipite, &amp; diuidite inter uos: nec reponimus, aut recondimus 
+          <lb ed="#Z" n="34"/>illa: neque alijs modo porrigimus, sed accepta edimus &amp; bibimus in nostra traijcien 
+          <lb ed="#Z" n="35"/>tes corpora, deinde uero &amp; alijs comunicantes offerimus. Qui enim legitime 
+          coe<lb ed="#Z" n="36" break="no"/>nam domini celebrant, non tantum credunt Christum passum esse, aut pro alijs 
+          <lb ed="#Z" n="37"/>non pro se passum esse: sed credunt illum pro ipsis esse passum, credunt Christum  
+          <lb ed="#Z" n="38"/>omnia bona sua ipsis liberalissime communicare, adeoque &amp; communicasse. Ergo 
+          <lb ed="#Z" n="39"/>sicut alimentum panis &amp; uini traiectum in uiscera mutatur in humani corporis 
+          <lb ed="#Z" n="40"/>substantiam: ita Christus fide haustus a sanctis, ijs spiritu suo unitur, ut unum sint 
+          <lb ed="#Z" n="41"/>cum Christo, &amp; hic unus cum illis. Et ut cibus splendide apparatus &amp; conspectus 
+          <lb ed="#Z" n="42"/>duntaxat in mensa, non satiat: ita si audias magnifice tibi praedicari Christum, non  
+          <lb ed="#Z" n="43"/>autem credas tuum esse Christum cum omnibus bonis, nihil prodest 
+          quantum<lb ed="#Z" n="44" break="no"/>uis pulchre instructa sit oratio aut mensa. Facit &amp; ad amicitiam 
+          concilian<lb ed="#Z" n="45" break="no"/>dam reparandam &amp; conseruandam, quod de uno pane participamus, quod 
+          <lb ed="#Z" n="46"/>mus. Non enim aliam ob caussam uidentur ueteres Coenam appellasse Synaxim. 
+          <lb ed="#Z" n="47"/>panem offerimus fratribus, quodque de manu fratrum poculum accipientes 
+          bibi<lb ed="#Z" n="48" break="no"/>Verum ea de re dicemus nonnihil alias. Ista uero exempli gratia de Analogia 
+          <!--711.xml-->
+          <pb ed="#Z" n="344-v"/>
+          <lb ed="#Z" n="1"/>signi &amp; signati attuli, plura dicturus, nisi haec diligentibus satis esse confiderem. 
+          Oc<lb ed="#Z" n="2" break="no"/>casionem enim plura atque maiora cogitandi inueniendique suppeditaui.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2050">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Ex hac autem perfunctoria analogies tractatione perspicuum esse arbitror, 
+          quo<lb ed="#Z" n="4" break="no"/>modo sacramenta excitent, &amp; adiuuent fidem sanctorum. Nam dum animus dei 
+          <lb ed="#Z" n="5"/>beneficia, Christi benedictionem, redemptionem, &amp; dona animo comprehendit &amp; 
+          <lb ed="#Z" n="6"/>uoluit, dum ijs magna cum uoluptate spiritus fruitur, dum in his gestit &amp;exultat, 
+          <lb ed="#Z" n="7"/>accedunt foris iam &amp; sacramenta, quae oculis adeoque omnibus incurrentia sensi- 
+          <lb ed="#Z" n="8"/>bus, uisibiliter ea repraesentant, quae animus interne coprehendit, agitat &amp; uoluit, 
+          <lb ed="#Z" n="9"/>Quoniam enim tota actio, quae uerbis &amp; ritu constat, signo accensetur, uident 
+          o<lb ed="#Z" n="10" break="no"/>culi symbola &amp; omnia quae in tractatione symbolorum geruntur, quae quasi loquun 
+          <lb ed="#Z" n="11"/>tur omnia. Audiunt aures uerba &amp; instituta Christi. Tactus &amp; Qustus sentiunt &amp; 
+          <lb ed="#Z" n="12"/>ipsi, quam suauis &amp; bonus sit dominus: ut iam totus homo uelut corpore &amp; anima 
+          <lb ed="#Z" n="13"/>in coelum raptus, fidem excitari iuuarique, fructum denique ex fide in Christum 
+          sua<lb ed="#Z" n="14" break="no"/>uissimum sentiat atque percipiat. Haec omnia in credentibus locum habent, apud 
+          <lb ed="#Z" n="15"/>incredulos inanimata manent signa: ergo fidei &amp; spiritus in legitimo usu sacramen 
+          <lb ed="#Z" n="16"/>torum operantis uirtute illa fiunt, sine fide &amp; spiritu sancto non sentiuntur. Non 
+          <lb ed="#Z" n="17"/>dissimilis energia est &amp; in praedicatione uerbi dominici. Cum enim hoc adhibitis 
+          <lb ed="#Z" n="18"/>parabolis, paradigmatis ac per hypotiposim proponitur auditoribus, si in animo 
+          <lb ed="#Z" n="19"/>reluceat spiritus fidesque, hi res expositas non audire modo, sed &amp; coram cernere 
+          <lb ed="#Z" n="20"/>sibi uidentur. Qua ratione arbitror Paulum dixisse. Ostulti Galatae, quis uos 
+          fa<lb ed="#Z" n="21" break="no"/>scinauit, ut non crederetis ueritati: quibus prae oculis Iesus Christus ante fuit 
+          de<lb ed="#Z" n="22" break="no"/>pictus, inter uos crucifixus. Nullibi enim uel pictum uel crucifixum constat Chri 
+          <lb ed="#Z" n="23"/>stum apud Galatas: loquitur ergo de euidentia sermonis, qua res dicuntur quidem, 
+          <lb ed="#Z" n="24"/>sed energia oculis etiam quodammodo subijciuntur. Eadem est ratio &amp; in 
+          sacra<lb ed="#Z" n="25" break="no"/>mentis, quae eo nomine a priscis appellata fuere uerba uisibilia
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2103">
+          <lb ed="#Z" n="26"/><pc type="indent"/> De his ad hunc modum disseruit &amp;uinglius in libello ad Principes Germaniae 
+          <lb ed="#Z" n="27"/>contra Eggium, Nonne cupit fidelis, ubi fidem labi senserit, fulciri &amp; in locum 
+          re<lb ed="#Z" n="28" break="no"/>stitui? Id autem ubi gentium commodius, quam in ipsa sacramentorum actione 
+          in<lb ed="#Z" n="29" break="no"/>uenturum sperare poterit, quantum ad omnia sensibilia attinet? Esto enim omnes 
+          <lb ed="#Z" n="30"/>creaturae inuitent nos ad contemplationem numinis: at omnis ea inuitatio muta 
+          <lb ed="#Z" n="31"/>est: in sacramentis uero uiua &amp; loquens inuitatio est. Loquitur enim dominus, 
+          lo<lb ed="#Z" n="32" break="no"/>quuntur &amp; elementa: atque idem loquuntur &amp; suadent sensibus, quod menti sermo 
+          <lb ed="#Z" n="33"/>&amp; spiritus. Adhuc tamen haec uisibilia omnia nihil sunt, nisi spiritus sanctificatio 
+          <lb ed="#Z" n="34"/>praecedat. Haec copiosius tradit primum quidem in Annotationibus suis ad 
+          27<lb ed="#Z" n="35" break="no"/>cap. Ieremiae: deinde in Expositone fidei ad regem Christianum.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2129">
+          <lb ed="#Z" n="36"/><pc type="indent"/> PRAETEREA legimus sanctum <ref xml:id="UD1xh4-SwfJWu-Rd1e2134">Augustinum contra Manichaeos dispu 
+          <lb ed="#Z" n="37"/>tantem libro contra Faustum 19. capite undecimo</ref> dixisse, In nullum nomen 
+          reli<lb ed="#Z" n="38" break="no"/>gionis seu uerum seu falsum coagulari homines possunt, nisi aliquo signaculorum 
+          <lb ed="#Z" n="39"/>uel sacramentorum uisibilium consortio colligantur, &amp;c. Hanc Augustini 
+          senten<lb ed="#Z" n="40" break="no"/>tiam ex scripturis petitam agnoscentes, de sacramentis docemus, his nos colligi ac 
+          <lb ed="#Z" n="41"/>colligari in unitatem corporis Christi, segregariqe ab omnibus alijs religionibus 
+          <lb ed="#Z" n="42"/>consortijs &amp; societatibus: adde ijsdem nos ceu iureiurando obstringi in unius dei 
+          <lb ed="#Z" n="43"/>cultum uerum, inque unam religionem synceram, in quam nos consentire cum om- 
+          <lb ed="#Z" n="44"/>nibus qui communicant sacramentis, palam profitemur. Vbi illud maxime 
+          ob<lb ed="#Z" n="45" break="no"/>seruandum uenit, collectionem aut colligationem in unitatem corporis Christi, du 
+          <lb ed="#Z" n="46"/>plicem habere respectum. Vel enim cum Christo coniungimur, ut is in nobis sit,  
+          <lb ed="#Z" n="47"/>nos in ipso uiuamus. Vel copulamur cum omnibus Christi mebris, nempe cum  
+          <lb ed="#Z" n="48"/>fidelibus Christi, cum ipsa inquam ecclesia catholica. Porro Christo connectimur 
+          <!--712.xml-->
+          <pb ed="#Z" n="345-r"/>
+          <lb ed="#Z" n="1"/>spiritu &amp; fide. Ecclesiae uero aut membris Christi coniungimur per fidei 
+          spiri<lb ed="#Z" n="2" break="no"/>tusque unitatem &amp; uinculum charitatis. Quae quidem omnia interna spiritus do¬  
+          <lb ed="#Z" n="3"/>na sunt, quae gratuito nobis per solum conseruntur dominum, non per ullas crea 
+          <lb ed="#Z" n="4"/>turas, non per ulla elementa. Sacramenta itaque inserunt nos uisibiliter consor 
+          <lb ed="#Z" n="5"/>tio Christi &amp; sanctorum eius, qui inuisibiliter quidem per ipsius gratiam inserti 
+          <lb ed="#Z" n="6"/>fueramus, priusquam sacramentis participaremus : participatione autem nunc 
+          <lb ed="#Z" n="7"/>aperimus &amp; manifestamus, cuius corporis membra simus atque esse uelimus, 
+          do<lb ed="#Z" n="8" break="no"/>mino signis aut notis suis per ministrum nos uisibiliter quoque pro sua familia 
+          <lb ed="#Z" n="9"/>proque suo populo signante. Id quod scripturis iam plenius illustrabimus,
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2188">
+          <lb ed="#Z" n="10"/><pc type="indent"/> Qui olim ex ui foederis, ex gratia, misericordia, &amp; promissione dei, 
+          popu<lb ed="#Z" n="11" break="no"/>lus dei erat, circuncisione uisibiliter colligebatur in unam ecclesiam &amp; unius coras 
+          <lb ed="#Z" n="12"/>poris compagem. Apostolus enim Paulus ad Ephesios, Mementote, inquit,  
+          <lb ed="#Z" n="13"/>quod uos quondam gentes in carne uocabamini praeputium, ab ea quae 
+          uoca<lb ed="#Z" n="14" break="no"/>tur circuncisio in carne, quae circumcisio manibus fit: quod inquam eratis in tem  
+          <lb ed="#Z" n="15"/>pore illo sine Christo, abalienati a repub. lzraelis, &amp; extranei a testamentis 
+          pro<lb ed="#Z" n="16" break="no"/>missionis &amp;c. Ex quibus facile quoque intelligitur, quomodo circuncisione 
+          segre<lb ed="#Z" n="17" break="no"/>gati sint ab alijs religionibus &amp; societatibus ludaei: quodque circumcisio alibi hanc 
+          <lb ed="#Z" n="18"/>ob caussam ponitur pro ipsis circumcisis : &amp; cur Incircumcisi uocabulum 
+          pro<lb ed="#Z" n="19" break="no"/>bro datum sit. Habebantur enim incircumcisi pro impijs impurisque hominibus, 
+          <lb ed="#Z" n="20"/>quibus nullum erat consortium, nulla pars aut haereditas cum deo &amp; sanctis eius. 
+          <lb ed="#Z" n="21"/>De Baptismo qui in locum Circumcisionis substitutus est, dicta sunt quaedam 
+          <lb ed="#Z" n="22"/>in praecedentibus. Sed &amp; apostolus significantissime, Quemadmodum, inquit,  
+          <lb ed="#Z" n="23"/>corpus unum est, &amp; membra habet multa: omnia uero membra corporis unius,  
+          <lb ed="#Z" n="24"/>multa cum sint, unum sunt corpus: sic &amp; Christus. Etenim per unum spiritum nos 
+          <lb ed="#Z" n="25"/>omnes in unum corpus baptizati sumus, siue ludaei, siue Graeci, siue serui, siue li 
+          <lb ed="#Z" n="26"/>beri: &amp; omnes unum spiritum hausimus. Obstringimur ergo baptismi sacramento 
+          <lb ed="#Z" n="27"/>in unitatem corporis Christi, ita ut hoc rupisse uinculum &amp; in aliud concessisse 
+          <lb ed="#Z" n="28"/>consortium religionis &amp; societatis, sacrilegium atque proditio rite uocetur. Huc 
+          <lb ed="#Z" n="29"/>respexisse uidetur apostolus, cum interrogaret Corinthios, Annon in Christi no 
+          <lb ed="#Z" n="30"/>men baptisati estis? Innuens utique baptisatos in nomen Christi palam iurasse, fi- 
+          <lb ed="#Z" n="31"/>demque suam coram Christi ecclesia obstrinxisse, ut iam nec possint nec debeant 
+          <lb ed="#Z" n="32"/>de ullo alio quam Christi nomine gloriari, in cuius familiam recepti sint per 
+          ba<lb ed="#Z" n="33" break="no"/>ptismum. Sic inquam baptismo separamur ab omnibus alijs religionibus &amp; Chri- 
+          <lb ed="#Z" n="34"/>stianae duntaxat consecramur.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2246">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Similis per omnia locus est de Coena domini apud eundem in 1. ad Corinth. 
+          <lb ed="#Z" n="36"/>cap. 19. Cum enim apostolus Corinthijs demonstrare uellet, ab omni pietate alie 
+          <lb ed="#Z" n="37"/>num indignum &amp; sacrilegum esse Christianos in idolorum templis ad idolothyta 
+          <lb ed="#Z" n="38"/>accumbere sacrisque gentilitijs communicare, a ratione &amp; natura sacramenti Coe 
+          <lb ed="#Z" n="39"/>nae dominicae argumentans, Fugite, inquit, a simulachrorum cultu. Vt 
+          pruden<lb ed="#Z" n="40" break="no"/>tibus loquor: iudicate uos quod dico. Poculum benedictionis quo benedicimus,  
+          <lb ed="#Z" n="41"/>nonne communio sanguinis Christi est? Panis quem frangimus, nonne commu 
+          <lb ed="#Z" n="42"/>nio corporis Christi est. Quoniam unus panis, unum corpus, multi sumus. Nam  
+          <lb ed="#Z" n="43"/>omnes ex eodem pane participamus. Videte lzraelem iuxta carnem. Nonne 
+          <lb ed="#Z" n="44"/>qui edunt uictimas consortes altaris sunt? Quid ergo dico, quod simulachrum  
+          <lb ed="#Z" n="45"/>aliquid sit: Aut quod immolatum simulachris aliquid sit? lllud potius dico, quod 
+          <lb ed="#Z" n="46"/>quae immolant gentes, daemonijs immolant &amp; non deo. Nolim autem uos 
+          con<lb ed="#Z" n="47" break="no"/>sortes daemoniorum esse. Non potestis poculum domini bibere, &amp; poculum dae 
+          <lb ed="#Z" n="48"/>moniorum. Non potestis mensae domini participes esse, &amp; mensae demoniorum, 
+          <!--713.xml-->
+          <pb ed="#Z" n="345-v"/>
+          <lb ed="#Z" n="1"/>Et caetera. Haec enim omnia Pauli sunt: quae cum instituto nostro mirifice 
+          con<lb ed="#Z" n="2" break="no"/>ueniant, &amp; clarissima sint, perstringam obiter. Principio statum &amp; scopum rei 
+          po<lb ed="#Z" n="3" break="no"/>nit, ad quem mox omnia sua dirigit. Fugite, inquit, simulachrorum cultum. 
+          In<lb ed="#Z" n="4" break="no"/>telligit autem idololatriae uocabulo, quicquid pertinet ad idololatriam, 
+          idolo<lb ed="#Z" n="5" break="no"/>thytorum esum maxime. Si autem nescis quid sit idolothytum, scias uocem esse 
+          <lb ed="#Z" n="6"/>Grecam, qua Paulus in hac caussa utitur, ac significare idolo sacrificatum, aut sa 
+          <lb ed="#Z" n="7"/>crificio publice idolo consecratum. Fuit autem in usu Corinthijs sacrificare ad 
+          <lb ed="#Z" n="8"/>aras deorum suorum in idoleis, id est, idolorum templis, ac ad sacrificia illa sua 
+          <lb ed="#Z" n="9"/>uocare Christianos: hi uero accedentes accumbebant ad idolothyta, promiscue 
+          <lb ed="#Z" n="10"/>edentes cum idololatris, existimantes id citra omnem culpam fieri posse, quod 
+          <lb ed="#Z" n="11"/>euangelica luce coruscante clareret neque idolum, neque ipsum deum, quem reprae 
+          <lb ed="#Z" n="12"/>sentabat idolum, &amp; iccirco ne idolothyta quicquam esse aliud, quam nomina in 
+          <lb ed="#Z" n="13"/>ania, res uanas &amp; nihili. At contra hos Paulus ab 8. cap. usque ad 11. disputans, do¬  
+          <lb ed="#Z" n="14"/>cet a Christianis esse alienissimum sacris communicare prophanis: ac dicit, 
+          Lo<lb ed="#Z" n="15" break="no"/>quar uobiscum ut cum prudentibus, qui, uestigijs aliquot comonstratis, ipsi 
+          ue<lb ed="#Z" n="16" break="no"/>stri ingenij perspicacia, quid uerum, quid falsum, quo denique uobis inclinandum 
+          <lb ed="#Z" n="17"/>sit, intelligitis. Deinde femina quaedam argumentorum spargit, quae illi mox sua 
+          <lb ed="#Z" n="18"/>excutientes industria, excolant. Qui, inquit, coena domini(in qua panis domini 
+          <lb ed="#Z" n="19"/>frangitur, poculumque domini hauritur) participant, eiusdem sunt communionis 
+          <lb ed="#Z" n="20"/>coetus aut corporis cum domino. Nam tomorio, quo uerbo hic utitur Paulus, &amp;  
+          <lb ed="#Z" n="21"/>quod uerterunt interpretes communio uel communicatio (quanquam melius 
+          <lb ed="#Z" n="22"/>sit communio quam communicatio : sicuti &amp; in Germanica uersione melius est 
+          <lb ed="#Z" n="23"/>gmeino quam gmeinsqeasst) non actiue, ut sic dicam, pro distributione, 
+          exhibi<lb ed="#Z" n="24" break="no"/>tione aut porrectione corporis Christi per ministrum: sed passiue pro consortio 
+          <lb ed="#Z" n="25"/>&amp; societate, pro corpore, inquam, ecclesiastico accipitur: uelut cum ecclesia 
+          ap<lb ed="#Z" n="26" break="no"/>pellatur communio, id est, coetus, collectio &amp; societas sanctorum. Porro haec ap 
+          <lb ed="#Z" n="27"/>pellatur toioniae siue communio corporis &amp; sanguinis Christi, quia Christi 
+          cor<lb ed="#Z" n="28" break="no"/>pore &amp; sanguine redempta est, ac particeps Christi, uiuit per eundem. Nam ipse 
+          <lb ed="#Z" n="29"/>uiuit in sanctis, omnia sua uitae dona ipsis communicans. Quod autem 
+          partici<lb ed="#Z" n="30" break="no"/>pantes coena domini sint corpus aut comunio Christi, per subiectam rationem 
+          <lb ed="#Z" n="31"/>declarans, dicit, Quia unus panis, unum corpus multi sumus. Cui mox &amp; aliam  
+          <lb ed="#Z" n="32"/>rationem expositonis caussa illustriorem suppingit, Nam omnes ex eodem pa 
+          <lb ed="#Z" n="33"/>ne participamus. De uno, inquit, pane participantes, palam testamur nos 
+          eius<lb ed="#Z" n="34" break="no"/>dem corporis esse consortes cum Christo &amp; omnibus sanctis. Quibus pulchre 
+          <lb ed="#Z" n="35"/>ad analogiam respexit. Vt enim ex multorum granorum adunatione, sicut 
+          Cy<lb ed="#Z" n="36" break="no"/>prianus ait, unus fit panis : ut de botris si ue acinis plurimis uinum confluit: ita 
+          <lb ed="#Z" n="37"/>ex multis membris coalescit corpus ecclesiae, quod est corpus Christi. Veniunt  
+          <lb ed="#Z" n="38"/>autem in his Pauli uerbis haec obseruanda. Principio, quod nunc multitudinem 
+          <lb ed="#Z" n="39"/>signantiore uocabulo nuncupat, quod prius communionem appellauit. Est ergo 
+          <lb ed="#Z" n="40"/>communio nihil aliud, quam multitudo siue coetus. Dixit enim, Panis est com- 
+          <lb ed="#Z" n="41"/>munio corporis Christi: iam uero dicit, Nos multi sumus unus panis, unum 
+          <lb ed="#Z" n="42"/>corpus. Multi, inquam, id est, nos omnes, qui sumus multitudo &amp; ecclesia, Chri 
+          <lb ed="#Z" n="43"/>sti corpore tradito &amp; fuso sanguine redempta. Deinde, Multi, inquit, unum  
+          <lb ed="#Z" n="44"/>corpus sumus : non dicit, Vnum corpus efficimur. Nam non primum per 
+          sa<lb ed="#Z" n="45" break="no"/>cramentorum participationem ( quod iam saepius inculcamus) inserimur corpori 
+          <lb ed="#Z" n="46"/>Christi: sed qui inserti eramus per gratiam inuisibiliter, nunc etiam uisibiliter con 
+          <lb ed="#Z" n="47"/>secramur, Rursus ex simili sacramentorum ratione, siue per exemplum scripturae 
+          <lb ed="#Z" n="48"/>a sacramentis populi ueteris petitum, demonstrat sacris participantes unum 
+          <!--714.xml-->
+          <pb ed="#Z" n="346-r"/>
+          <lb ed="#Z" n="1"/>esse corpus, &amp; cum eo cui offerunt, &amp; cum ijs quibus cum offerunt, aut cum 
+          qui<lb ed="#Z" n="2" break="no"/>bus de idolothytis edund. Contemplamini mihi, ait, Israelitas, carnales adhuc 
+          <lb ed="#Z" n="3"/>uictimas offerentes. Nonne qui edunt uictimas xoonoi, id est, communicatores 
+          <lb ed="#Z" n="4"/>socij siue consortes sunt sacrarij aut arae? Complexus est autem uoce sacrarij aut 
+          <lb ed="#Z" n="5"/>arae (dueiaesiotp habet) quicquid ad cultum &amp; religionem dei ludaeorum pertinet: 
+          <lb ed="#Z" n="6"/>ut sit sensus, An non omnes illi unum corpus sunt, una comunio, unus 
+          popu<lb ed="#Z" n="7" break="no"/>lus, &amp; cum deo lsraelis, &amp; cum populo eius, qui edunt de uictimis deo lsraelis,  
+          <lb ed="#Z" n="8"/>a populo lsraelitico immolatis? Quasi dicat, Nemo est qui id nesciat, aut neget,  
+          <lb ed="#Z" n="9"/>cum confessum &amp; manifestum sit apud omnes. Ex his sua sponte colligendum 
+          <lb ed="#Z" n="10"/>relinquit Corinthijs, Proinde qui sacramentis communicant ethnicorum, unum 
+          <lb ed="#Z" n="11"/>corpus &amp; una sunt communio cum dijs ethnicorum &amp; ethnicis sacrificantibus,  
+          <lb ed="#Z" n="12"/>lam per occupationem interponit, Propterea autem non dico, quod idolum 
+          ali<lb ed="#Z" n="13" break="no"/>quid ualeat, aut idolothytum aliquid diuinae maiestatis habeat, Quibus mox  
+          <lb ed="#Z" n="14"/>addit, Hoc autem sentio, quod quae gentiles sacrificant, non deo sed diabolo 
+          sa<lb ed="#Z" n="15" break="no"/>crificant. His intulisset legitime, Ergo si uos perrexeritis participare de 
+          idolo<lb ed="#Z" n="16" break="no"/>thytis, eritis certe unum corpus &amp; una communio, &amp; cum ipso diabolo, &amp; cum  
+          <lb ed="#Z" n="17"/>omnibus membris eius. Sed quia hoc acerbius a multis fuisset exceptum, 
+          repo<lb ed="#Z" n="18" break="no"/>nit aliud paulo senius &amp; ciuilius, ac dicit, Nolui autem uos xoonous, id est, com 
+          <lb ed="#Z" n="19"/>municatores seu socios &amp; consortes esse daemoniorum. Post quae mox collatis 
+          <lb ed="#Z" n="20"/>partibus contrarijs summam rei infert, ad quam omnia direxit, &amp; ait, Non 
+          po<lb ed="#Z" n="21" break="no"/>testis poculum domini bibere, &amp; poculum daemoniorum. Non potestis mensae 
+          <lb ed="#Z" n="22"/>domini participes esse, &amp; mensae daemoniorum. Sacramenta itaque separant nos 
+          <lb ed="#Z" n="23"/>ab omnibus alijs cultibus &amp; religionibus, &amp; obstringunt, atque consecrant, adeoque 
+          <lb ed="#Z" n="24"/>&amp; incorporant nos uni deo uero &amp; syncerae religioni Christianae. Quoniam ijs 
+          <lb ed="#Z" n="25"/>participantes palam profitemur nos esse membra Christi, quae nemo sanus 
+          tol<lb ed="#Z" n="26" break="no"/>lit &amp; facit fornicationis &amp; idolorum membra.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2449">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Huc pertinet, quod <name xml:id="UD1xh4-SwfJWu-Nd1e2454">Zuinglius</name> in Expositone fidei Christianae ad regem 
+          <lb ed="#Z" n="28"/>Christianum, Sacramenta, inquit, uice iurisiurandi sunt. Nam &amp; sacramentum  
+          <lb ed="#Z" n="29"/>Latinis pro iureiurando usurpatur. Qui enim unis eisdemque sacramentis utun 
+          <lb ed="#Z" n="30"/>tur, una quaedam gens &amp; sancta coniuratio sunt: in unum corpus, inque unum  
+          <lb ed="#Z" n="31"/>populum coeunt: quem qui prodit, periurus est. Populus ergo Christi cum 
+          <lb ed="#Z" n="32"/>eius corpus sacramentaliter edendo in unum corpus coniungitur, iam qui 
+          per<lb ed="#Z" n="33" break="no"/>fidus est, attamen sese huic societati audet insinuare, corpus Christi prodit, tam  
+          <lb ed="#Z" n="34"/>in capite quam in membris, &amp;c. Haec ille.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2473">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Ex his uero omnibus nullo negotio intelligere licet, quomodo sacramenta 
+          <lb ed="#Z" n="36"/>nos nostri admoneant officij: maxime si obseruemus in apostolorum literis, 
+          quo<lb ed="#Z" n="37" break="no"/>modo ex ratione sacramentorum suas exhortationes instituerint apostoli. Vbi  
+          <lb ed="#Z" n="38"/>denuo analogia considerata, plurimum habet &amp; lucis &amp; uirium. Nos in 
+          trans<lb ed="#Z" n="39" break="no"/>cursu quaedam huius generis attingemus. Putantur arbores, resecanturque ex 
+          <lb ed="#Z" n="40"/>ipsis arida, sterilia &amp; superuacanea : itaque circuncisione admonebantur circuncisi,  
+          <lb ed="#Z" n="41"/>omnia ea cultro spiritus resecare, quae ex carne contra legem dei enascuntur. 
+          <lb ed="#Z" n="42"/>Huc respexit Moses, cum in Deut. dixit, Circuncidite praeputium cordis uestri, 
+          <lb ed="#Z" n="43"/>&amp; ceruicem uestram amplius ne induretis. Quem imitatus Ieremias in cap. 
+          4<lb ed="#Z" n="44" break="no"/>Circuncidimini domino, &amp; auferte praeputia cordis uestri, &amp;c. Quae uero de 
+          pa<lb ed="#Z" n="45" break="no"/>schate celebrando tradidit apostolus, planiora sunt quam hic referri debeant. Et 
+          <lb ed="#Z" n="46"/>nos de illis omnibus copiose disseruimus Decadis 3. Sermone 6. Idem apostolus 
+          <lb ed="#Z" n="47"/>in epistola ad Romanos, An ignoratis, inquit, quod quicumque baptisati sunus in 
+          <lb ed="#Z" n="48"/>Christum Iesum, in mortem eius baptisati sumus? Sepulti ergo sumus una cum  
+          <!--715.xml-->
+          <pb ed="#Z" n="346-v"/>
+          <lb ed="#Z" n="1"/>illo per baptismum in mortem : ut quemadmodum excitatus est Christus ex 
+          <lb ed="#Z" n="2"/>mortuis per gloriam patris, ita &amp; nos in nouitate uitae ambulemus. Et caetera. 
+          <lb ed="#Z" n="3"/>Admonemur ergo baptismi mysterio, ut renunciemus satanae &amp; mundo, ut mor 
+          <lb ed="#Z" n="4"/>tificemus carnem nostram, sepeliamusque ueterem Adamum, quo nouus in 
+          no<lb ed="#Z" n="5" break="no"/>bis homo per Christum resurgat. Porro Coena domini admonet nos charitatis 
+          <lb ed="#Z" n="6"/>fraternae, &amp; unitatis cum omnibus membris Christi: admonet nos puritatis &amp;  
+          <lb ed="#Z" n="7"/>synceritatis in fide: ut quoniam palam, professi sumus nos cum Christo, &amp; omni 
+          <lb ed="#Z" n="8"/>bus membris eius adunatos esse, diligentissime etiam curemus, ne perfidi simus 
+          <lb ed="#Z" n="9"/>in dominum Christum &amp; ecclesiam eius, ne nos peregrinis contaminemus 
+          sa<lb ed="#Z" n="10" break="no"/>cris: admonemur etiam gratitudinis, ut laudemus gratiam eius, qui nos redemit,  
+          <lb ed="#Z" n="11"/>iuxta illud, Quotiescunque de pane illo ederitis, &amp; de poculo hoc biberitis, 
+          mor<lb ed="#Z" n="12" break="no"/>tem domini annunciabitis donec uenerit.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2537">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Atque hactenus disserui de uirtute, fine, &amp; effectu sacramentorum: quibus 
+          <lb ed="#Z" n="14"/>tantum, opinor, tribui, quantum debui, id est, quantum ex scripturis demonstrari 
+          <lb ed="#Z" n="15"/>potest. Instituta sunt Christi, non ergo amant laudes fucatas &amp; alienas: satis 
+          lau<lb ed="#Z" n="16" break="no"/>dum habent, si eas habent, quas ipsis institutor eorum deus &amp; summus ecclesiae 
+          <lb ed="#Z" n="17"/>catholicae pontifex Iesus Christus tribuit.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2552">
+          <lb ed="#Z" n="18"/><pc type="indent"/> QVONIAM uero fidei toto hoc libro creberrima facta est mentio, paucis 
+          <lb ed="#Z" n="19"/>ostendam porro sine fide non prodesse sacramenta, rursus fide illa 
+          percipienti<lb ed="#Z" n="20" break="no"/>bus non esse superuacanea. Hoc enim uidetur adhuc ad plenam sacramentorum 
+          <lb ed="#Z" n="21"/>explicationem considerationemque pertinere. Sine fide non prodesse sacramenta, 
+          <lb ed="#Z" n="22"/>facile est ostendere. Dictum est enim sacramenta esse appendices &amp; sigilla euan 
+          <lb ed="#Z" n="23"/>gelicae praedicationis. Caeterum si praedicatio euangelica audiatur citra fidem,  
+          <lb ed="#Z" n="24"/>non modo nihil prodest ad uitam, sed cedit magis ad iudicium, ipso domino 
+          at<lb ed="#Z" n="25" break="no"/>testante atque dicente, Si quis audierit uerba mea, &amp; non crediderit, ego non 
+          iu<lb ed="#Z" n="26" break="no"/>dico eum. Veni enim ut seruem, non iudicem mundum. Sermo quem locutus 
+          <lb ed="#Z" n="27"/>sum, ille iudicabit eum in extremo die, Sermoni dominico quadrat hic 
+          apostoli<lb ed="#Z" n="28" break="no"/>cus, Annunciatum est nobis euangelium quemadmodum &amp; patribus. At non  
+          <lb ed="#Z" n="29"/>profuit illis audisse sermonem, quod is non esset fide coniunctus ijs qui 
+          audie<lb ed="#Z" n="30" break="no"/>rant. Quis iam usqueadeo stupidus sit, ut non colligat sacramenta sine fide 
+          inu<lb ed="#Z" n="31" break="no"/>tilia esse, praesertim cum idem apostolus dicat, Quisquis ederit panem hunc, aut  
+          <lb ed="#Z" n="32"/>biberit poculum domini indigne, reus erit corporis &amp; sanguinis domini. 
+          Om<lb ed="#Z" n="33" break="no"/>nis autem dignitas nostra coram deo fide constat, eodem apostolo rursus ex pro 
+          <lb ed="#Z" n="34"/>pheta dicente, lustus fide sua uiuet. Item, Patres fide meruerunt testimonium, 
+          <lb ed="#Z" n="35"/>Quo &amp; illud pertinet, quod in euangelio legitur, Qui inuitati fuerant, non erant 
+          <lb ed="#Z" n="36"/>digni: unde consequens est dignitatem fideli constare obedientia. Huc 
+          referen<lb ed="#Z" n="37" break="no"/>da puto exempla, quorum etiam superius non semel mentio facta est, Patres no 
+          <lb ed="#Z" n="38"/>stri omnes baptisati sunt, &amp; omnes eandem ederunt escam spiritualem, sed 
+          qui<lb ed="#Z" n="39" break="no"/>dam ipsorum displicuerunt deo. At Paulus iterum, Sine fide, inquit, impossibile 
+          <lb ed="#Z" n="40"/>est placere deo: unde sine fide nihil proficiunt sacramenta. Notissima sunt Simo 
+          <lb ed="#Z" n="41"/>nis magi &amp; ludae proditoris exempla, quorum ille tinctus, hic Coenae adhibitus,  
+          <lb ed="#Z" n="42"/>fructu caruerunt omni: quoniam fidem ueram non habuerunt.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2610">
+          <lb ed="#Z" n="43"/><pc type="indent"/> His diuinis &amp; luculentis testimonijs adiungemus iam aliquot <name xml:id="UD1xh4-SwfJWu-Nd1e2615" ref="#Augustine">S. Augustini</name> 
+          <lb ed="#Z" n="44"/>locos. Is contra Faustum lib. 59. cap. 12. Petrus ait, baptismus nos saluos facit: &amp; 
+          <lb ed="#Z" n="45"/>ne sufficere putarent uisibile sacramentum, per quod habebant formam pietatis 
+          <lb ed="#Z" n="46"/>&amp; per malos mores perdite uiuendo uirtutem eius abnegarent, continuo 
+          subie<lb ed="#Z" n="47" break="no"/>cit, Non carnis deposito sordium, sed conscientiae bonae interrogatio. Item con 
+          <lb ed="#Z" n="48"/>tra literas Petiliani lib. 2. cap. 7. Non ideo, ait, putandi sunt esse in Christi corpo¬ 
+          <!--716.xml-->
+          <pb ed="#Z" n="347-r"/>
+          <lb ed="#Z" n="1"/>re, quod est ecclesia, quia sacramentorum eius corporaliter participes fiunt. Illa 
+          <lb ed="#Z" n="2"/>enim &amp; in talibus sancta sunt &amp; eis indigne tractantibus &amp; sumentibus ad maius 
+          <lb ed="#Z" n="3"/>iudicium ualebunt. Ipsi autem non sunt in illa ecclesiae Christi compage, quae in 
+          <lb ed="#Z" n="4"/>membris Christi per connexum &amp; contactum crescit in incrementum dei. llla  
+          <lb ed="#Z" n="5"/>quippe ecclesia in petra est: sicut dominus dicit, Super hanc petram aedificabo 
+          <lb ed="#Z" n="6"/>ecclesiam meam: illi autem in arena aedificant. Sicut idem dominus dicit, Qui  
+          <lb ed="#Z" n="7"/>audit uerba mea, &amp; non facit ea, similabo eum uiro stulto. Et rursus Tractat. in 
+          <lb ed="#Z" n="8"/>Ioan. 53. Non aliquid prosunt syllabe nominis Christi &amp; sacramenta Christi, ubi 
+          <lb ed="#Z" n="9"/>resistitur fidei Christi. Fides autem Christi &amp; sacramenta, est credere in eum 
+          <lb ed="#Z" n="10"/>qui iustificat impium, credere in mediatorem, sine quo interposito non 
+          recon<lb ed="#Z" n="11" break="no"/>ciliamur deo. Hactenus August.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2658">
+          <lb ed="#Z" n="12"/><pc type="indent"/> Obiicitur, si sacramenta sine fide nostra non prosunt, pendent ergo a nostra 
+          <lb ed="#Z" n="13"/>dignitate uel indignitate, ut integra non sint inter malos &amp; infideles, 
+          Respon<lb ed="#Z" n="14" break="no"/>deo, Per se quidem sacramenta ex institutione diuina satis rata &amp; firma sunt, nec ? 
+          <lb ed="#Z" n="15"/>pendet ipsorum integritas ex conditione communicantium, ut uel meliora sint 
+          <lb ed="#Z" n="16"/>inter bonos, deteriora inter malos. Manet enim firmum &amp; integrum, quod insti 
+          <lb ed="#Z" n="17"/>tuit dominus, retinetque institutionem suam bonam semper, utcunque uarient &amp; 
+          <lb ed="#Z" n="18"/>perduelles sint homines. Nam apostolus, Num incredulitas illorum, inquit, 
+          fi<lb ed="#Z" n="19" break="no"/>dem dei faciet irritam? Absit. Imo sit deus uerax : omnis autem homo mendax. 
+          <lb ed="#Z" n="20"/>Verum attigimus hoc negotij nonnihil et in superioribus. Quia tamen aliud est 
+          <lb ed="#Z" n="21"/>offerre, aliud accipere, offert quidem deus ex bonitate sua bona dona sua homi- 
+          <lb ed="#Z" n="22"/>nibus in hoc, ut prosit ipsis &amp; seruet eos: quemadmodum &amp; medicus aegroto 
+          <lb ed="#Z" n="23"/>offert medicinam, ut sanet : quoniam uero ineptus ac uaesanus beneficium non  
+          <lb ed="#Z" n="24"/>agnoscit, &amp; aegrotus medicinam oblatam respuit, nihil prodest oblatum benefi- 
+          <lb ed="#Z" n="25"/>cium inepto, neque ualet quicquam medicina repellenti: non culpa offerentis be- 
+          <lb ed="#Z" n="26"/>neficij aut medicinae, sed repellentis uitio. Ad hunc modum disputauit hac de re 
+          <lb ed="#Z" n="27"/>&amp; sanctus Augustinus. Nam de Baptismo contra Donatistas lib. 3. cap. 14. Nec 
+          <lb ed="#Z" n="28"/>interst cum de sacramenti integritate &amp; sanctitate tractatur, quid credat, &amp; quali 
+          <lb ed="#Z" n="29"/>fide imbutus sit ille, qui accipit sacramentum : interest quidem plurimum ad 
+          sa<lb ed="#Z" n="30" break="no"/>lutis uiam, sed ad sacramenti quaestionem nihil interest. Item contra literas 
+          Peti<lb ed="#Z" n="31" break="no"/>liani lib. 2. cap. 47. Memento, inquit sacramentis dei nihil obesse mores homi- 
+          <lb ed="#Z" n="32"/>num malorum, quo illa uel omnino non sint, uel minus sancta sint: sed ipsis 
+          ma<lb ed="#Z" n="33" break="no"/>lis hominibus, ut haec habeant ad testimonium damnationis non ad adiutorium 
+          <lb ed="#Z" n="34"/>sanitatis. Idem Tractat. in Ioan. 26. Si carnaliter accipis, ait, spirituale esse non 
+          <lb ed="#Z" n="35"/>desinit, sed tibi non est.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2714">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Eadem facilitate diluitur, quod obiicitur, insantibus non profuturum 
+          baptis<lb ed="#Z" n="37" break="no"/>mum, si perrexerimus asserere sine fide non prodesse sacramenta: insantulos  
+          <lb ed="#Z" n="38"/>enim non habere fidem. Sic illi loquuntur, Respondemus enim principio, 
+          ba<lb ed="#Z" n="39" break="no"/>ptismum insantium gratuitae misericordiae &amp; gratiae dei inniti, dicentis, Ero deus 
+          <lb ed="#Z" n="40"/>tuus &amp; feminis tui. Item, Sinite paruulos uenire ad me, talium enim est regnum 
+          <lb ed="#Z" n="41"/>dei, &amp;c. Numerantur ergo censenturque insantes ab ipso domino inter fideles, ut 
+          <lb ed="#Z" n="42"/>his iam baptismus debeatur, quatenus debetur fidelibus. Imputatione enim dei 
+          <lb ed="#Z" n="43"/>fideles sunt insantes. Quo nimirum pertinet hoc saluatoris dictum, Qui offende 
+          <lb ed="#Z" n="44"/>rit unum de pusillis qui in me credunt, &amp;c. Manifeste enim appellat pusillos cre 
+          <lb ed="#Z" n="45"/>dentes : certe propter imputationem, non propter confessionem, quae nulla 
+          ad<lb ed="#Z" n="46" break="no"/>huc est in pusillis. His accedit &amp; illud, quod pater insantuli ideo cupit signo 
+          po<lb ed="#Z" n="47" break="no"/>puli dei, baptismo, foetum suum insigniri, quia credit promissionibus dei, 
+          insan<lb ed="#Z" n="48" break="no"/>tulum uidelicet suum esse de familia dei: est itaque in insantium baptismo fides.  
+          <!--717.xml-->
+          <pb ed="#Z" n="347-v"/>
+          <lb ed="#Z" n="1"/>Atqui non credit pater. Esto. Neque uero id fraudi est insantulo. Nam in fide 
+          ec<lb ed="#Z" n="2" break="no"/>clesiae affertur ad baptismum. Credit autem ecclesia insantes adducendos esse ad 
+          <lb ed="#Z" n="3"/>dominum : credit istos esse de familia &amp; populo dei, ergo initiari mysterijs 
+          iu<lb ed="#Z" n="4" break="no"/>bet : ut rursus in baptismo paruulorum inuenias fidem. His addit <name xml:id="UD1xh4-SwfJWu-Nd1e2758">sanctus Augu 
+          <lb ed="#Z" n="5"/>stinus</name> de peccatorum meritis &amp; remissione lib. 5. cap. 19. dicens. Propterea 
+          fide<lb ed="#Z" n="6" break="no"/>les recte dicuntur pueri, quoniam fidem per uerba gestantium quodam modc 
+          <lb ed="#Z" n="7"/>profitentur. Plura is eadem de re disputat in epistola ad Bonifacium, quae 
+          ordi<lb ed="#Z" n="8" break="no"/>ne est 23. a quo qui plura cupit, petat.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2770">
+          <lb ed="#Z" n="9"/><pc type="indent"/> Caeterum haec omnia, inquiunt, non euincunt, insantes habere fide 
+          mpro<lb ed="#Z" n="10" break="no"/>priam. Nam aliena fides est fides parentum, gestantium, aut fides ecclesiae. Esto. 
+          <lb ed="#Z" n="11"/>Certissimum tamen illud est, quod dominus insantulos inter suos, hoc est inter 
+          <lb ed="#Z" n="12"/>fideles numerat : ut iam non tantum in aliena fide baptizentur, sed in 
+          propria<lb ed="#Z" n="13" break="no"/>quam uidelicet ipsis imputat dominus, Praeterea alienum non est, quod eidem  
+          <lb ed="#Z" n="14"/>corpori comune est. At sunt in eodem corpore ecclesiastico insantes, unde ipsis 
+          <lb ed="#Z" n="15"/>proprium non alienum est, quod ecclesiae est. Neque uero quisquam hominum 
+          <lb ed="#Z" n="16"/>facile dixerit, quos praeterea habeant motus spiritus sancti insantes, &amp;c. Quia  
+          <lb ed="#Z" n="17"/>enim dei sunt, spiritum dei habent: quem qui non habent, dei non sunt, Rom. 8.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2793">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Vt autem in sinistram nimium declinant, quibus uisum est, sacramenta etiam  
+          <lb ed="#Z" n="19"/>sine fide prodesse sumentibus: ita in dextram nimium recedunt, qui putant, 
+          ea<lb ed="#Z" n="20" break="no"/>dem fidem habentibus esse superuacanea. Fides, inquiunt, plene absoluit nos, ut 
+          <lb ed="#Z" n="21"/>post illam nihil possint addere sacramenta, iccirco necesse est ipsa esse 
+          inutilia<lb ed="#Z" n="22" break="no"/>Tales quondam fuisse leguntur Messaliani, qui &amp; Euchitae &amp; 6ysootoes&amp;e 
+          appel<lb ed="#Z" n="23" break="no"/>lantur, diuini, si dijs placet, &amp; afflati numine. Contendebant enim fidelibus post 
+          <lb ed="#Z" n="24"/>spiritum sanctum acceptum, nullis opus esse sacramentis. Caeterum sunt isti in 
+          <lb ed="#Z" n="25"/>deum ipsum iniurij, qui uidelicet sacramenta instituit fidelibus, non sine magna 
+          <lb ed="#Z" n="26"/>causa, nec inutiliter. Et Abraham quidem credidit deo, id quod ipsi imputatum  
+          <lb ed="#Z" n="27"/>est pro iustitia, amicusque dei iustus &amp; sanctus, non utique sine spiritu sancto, 
+          habi<lb ed="#Z" n="28" break="no"/>tus est: at idem ille circumcisionem accepit, signaculum iustitiae fidei quae fuerat 
+          <lb ed="#Z" n="29"/>in praeputio. Eidem Abrahae dicitur, Masculus cuius praeputij caro circumcisa 
+          <lb ed="#Z" n="30"/>non fuerit, delebitur anima illa de populo suo: quia pactum meum irritum fecit. 
+          <lb ed="#Z" n="31"/>Certe angelus domini caedem intentans iminet Mosi, quod circumcisionem 
+          iu<lb ed="#Z" n="32" break="no"/>stius aequo, uel sua negligentia, uel Madianiticae uxoris culpa, in liberis suis di- 
+          <lb ed="#Z" n="33"/>stulisset. An uero quisquam iustior &amp; sanctior inuenietur dei filio ? utpote qui 
+          <lb ed="#Z" n="34"/>plenitudine spiritus accepta, ut caput, de illa in sua membra diffudit 
+          liberalissi<lb ed="#Z" n="35" break="no"/>me: attamen hic uenit ad Baptistam, &amp; postulat ab eo baptizari in Iordane:  
+          <lb ed="#Z" n="36"/>cumque is tergiuersaretur ac diceret, Mihi opus est abs te baptizari, &amp; ego 
+          teba<lb ed="#Z" n="37" break="no"/>ptizarem: audit, Sine modo, sic oportet nos omnem implere iustitiam. lustitia 
+          <lb ed="#Z" n="38"/>certe cuique suum tribuit. Fides ergo quae Christianorum iustitia est, tribuit 
+          glo<lb ed="#Z" n="39" break="no"/>riam deo, creditque hunc summe sapientem bene uelle hominibus, atque ideo nihil 
+          <lb ed="#Z" n="40"/>inutiliter instituisse, sed omnia in salutem suorum fidelium : utitur ergo omni- 
+          <lb ed="#Z" n="41"/>bus dei institutis homo fidelis absque disputatione ac contradictione. Nec 
+          quis<lb ed="#Z" n="42" break="no"/>quam hic, opinor, dixerit nihil ad se pertinere factum Christi, quo utique nobis 
+          <lb ed="#Z" n="43"/>exemplum praetulit, quod imitaremur. Imo quod ipse fecit, alios quoque facere 
+          <lb ed="#Z" n="44"/>iussit, dum discipulos amandaret &amp; diceret, Ite in orbem uniuersum, &amp; 
+          praedi<lb ed="#Z" n="45" break="no"/>cate euangelium omni creaturae, baptisantes eos in nomine patris, &amp;c. Qui enim 
+          <lb ed="#Z" n="46"/>o crediderit, &amp; baptisatus fuerit, saluus erit : coniungens utique &amp; fidem &amp; baptismum, 
+          <lb ed="#Z" n="47"/>n quod haud dubie non fecisset, si sacramenta superuacanea essent, ubi fides est 
+          <lb ed="#Z" n="48"/>Vbi manifeste claret &amp; illos errare toto coelo, qui arbitrantur sacramenta esse in 
+          <!--718.xml-->
+          <pb ed="#Z" n="348-r"/>
+          <lb ed="#Z" n="1"/>differentia, hoc est, in nostro constitutum arbitrio, siue illis utamur, siue non 
+          uta<lb ed="#Z" n="2" break="no"/>mur. Nam ut de baptismo iam apertum praeceptum audiuimus: ita Coenam 
+          in<lb ed="#Z" n="3" break="no"/>stituens &amp; celebrans dominus ait, Hoc facite in mei commemorationem. Qui 
+          <lb ed="#Z" n="4"/>ergo haec dei praecepta contemnit, non uideo quomodo fidem habeat, qua 
+          inui<lb ed="#Z" n="5" break="no"/>sibiliter sanctificari possit. Huc iam pertinet, quod fidelis ille princeps Aethiopi 
+          <lb ed="#Z" n="6"/>cus confitetur, se toto corde credere in dominum Iesum, nihilominus tamen uisa 
+          <lb ed="#Z" n="7"/>aqua dicit, Ecce aqua, quid uetat quo minus baptizer? Non dicit, Credo toto 
+          <lb ed="#Z" n="8"/>corde, &amp; sentio me iustificatum esse atque purgatum, quorsum ergo aqua abluerer,  
+          <lb ed="#Z" n="9"/>qui nihil sordium habeo reliquum: Proinde ubicunque uera fides est, ibi non con 
+          <lb ed="#Z" n="10"/>temnuntur aut repelluntur, sed petuntur magis sacramenta. Nam &amp; Cornelius 
+          <lb ed="#Z" n="11"/>Centurio accepto spiritu sancto non contradicit Petro dicenti, Quis iam prohi- 
+          <lb ed="#Z" n="12"/>bere potest, quo minus baptizentur aqua hi, qui perinde ut nos spiritum accepe 
+          <lb ed="#Z" n="13"/>runt: Fidelis erat euangelij praeco Petrus, peritus ueritatis doctor, neminem ergo 
+          <lb ed="#Z" n="14"/>fallit, &amp; suo nos facto docet, fidem tum maxime ad communionem 
+          sacramen<lb ed="#Z" n="15" break="no"/>torum incitare, cum uera est in fidelibus. Cui consentiens collega Paulus, Probet 
+          <lb ed="#Z" n="16"/>seipsum homo, inquit, &amp; deinde edat de pane, &amp; bibat de poculo hoc. At proba 
+          <lb ed="#Z" n="17"/>tio illa fide fit: fides ergo sacramenta non respuit, sed perfidia.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2906">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Scio sane plurimos citra usum uisibilium sacramentorum sanctificatos esse,  
+          <lb ed="#Z" n="19"/>&amp; hodie quoque sanctificari: sed nullus illorum spreuit aut contempsit illa: 
+          neces<lb ed="#Z" n="20" break="no"/>sitate adacti his non communicarunt, ut hodie sunt, qui sub tyrannide antichristi 
+          <lb ed="#Z" n="21"/>&amp; Turcae captiui tenentur, interea uero toto corde credunt in dominum Iesum. 
+          <lb ed="#Z" n="22"/>Ergo horum aut similium exempla ijs nihil patrocinantur, quibus liceret com- 
+          <lb ed="#Z" n="23"/>municare sacramentis, si instituta dei curarent, tantique aestimarent, quanti 
+          face<lb ed="#Z" n="24" break="no"/>rent merito. Ascribam hic in lectorum gratiam elegantem <name xml:id="UD1xh4-SwfJWu-Nd1e2924" ref="#Augustine">sancti Augustini</name> de 
+          <lb ed="#Z" n="25"/>hac re disputationem, quod institutum nostrum pulchre illustret. Quaestio. lib.  
+          <lb ed="#Z" n="26"/>in Leuit. 3. cap. 84. Merito, ait, quaeritur, utrum etiam inuisibilis sanctificatio,  
+          <lb ed="#Z" n="27"/>sine uisibilibus sacramentis, quibus uisibiliter homo sanctificatur, nihil prosit? 
+          <lb ed="#Z" n="28"/>Quod utique absurdum est. Tolerabilius enim quisque dixerit, sine illis istam non  
+          <lb ed="#Z" n="29"/>esse, quam si fuerit non prodesse : cum in ista sit omnis utilitas illorum. Sed etiam  
+          <lb ed="#Z" n="30"/>hoc, quod sine illis ista esse non possit, quomodo recte dicatur intuendum est?  
+          <lb ed="#Z" n="31"/>Nihil quippe profuit Simoni mago uisibilis baptismus, cui sanctificatio 
+          inuisi<lb ed="#Z" n="32" break="no"/>bilis defuit : sed quibus ista inuisibilis quoniam affuit, profuit, etiam uisibilia 
+          sa<lb ed="#Z" n="33" break="no"/>cramenta perceperunt similiter baptisati. Nec tamen Moses qui uisibiliter 
+          sa<lb ed="#Z" n="34" break="no"/>cerdotes sanctificabat, ubi fuerit ipse uisibilibus sacrificijs uel oleo sanctificatus 
+          <lb ed="#Z" n="35"/>ostenditur: inuisibiliter uero sanctificatum negare quis audeat, cuius tanta 
+          gra<lb ed="#Z" n="36" break="no"/>tia praeeminebat? Hoc &amp; de Ioanne Baptista dici potest. Prius enim baptisator 
+          <lb ed="#Z" n="37"/>quam baptisatus apparuit : unde eum sanctificatum nequaquam negare 
+          possu<lb ed="#Z" n="38" break="no"/>mus: id tamen in eo factum uisibiliter non inuenimus antequam ad ministerium 
+          <lb ed="#Z" n="39"/>baptisandi ueniret. Hoc &amp; de Latrone illo, cui secum crucifixo dominu ait, Ho 
+          <lb ed="#Z" n="40"/>die mecum eris in paradyso. Neque enim sine sanctificatione inuisibili tanta 
+          feli<lb ed="#Z" n="41" break="no"/>citate donatus est. Proinde colligitur, inuisibilem sanctificationem quibusdam 
+          <lb ed="#Z" n="42"/>adfuisse atque profuisse sine uisibilibus sacramentis : uisibilem uero sanctificatio¬  
+          <lb ed="#Z" n="43"/>nem, quae fieret per uisibilia sacramenta, sine ista inuisibili posse adesse, non posse 
+          <lb ed="#Z" n="44"/>prodesse. Nec tamen ideo sacramentum uisibile contemnendum est. Nam 
+          con<lb ed="#Z" n="45" break="no"/>temptor eius inuisibiliter sanctificari nullo modo potest. Hinc est, quod 
+          Corne<lb ed="#Z" n="46" break="no"/>lius &amp; qui cum eo erant, cum iam inuisibiliter infuso sancto spiritu sanctificati 
+          <lb ed="#Z" n="47"/>apparerent, baptisati sunt tamen, nec superfsua iudicata est uisibilis sanctificatio,  
+          <lb ed="#Z" n="48"/>quam inuisibilis iam praecesserat. Haec ille.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e2980">
+          <!--719.xml-->
+          <pb ed="#Z" n="348-v"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> HVIC disputationi affinis est &amp; alia quaestio, An uidelicet sacramenta 
+          pen<lb ed="#Z" n="2" break="no"/>deant a dignitate ministrorum, an eorundem indignitate impediantur? 
+          Cypria<lb ed="#Z" n="3" break="no"/>nus non uno loco contendit, eos baptisare non posse, qui carent spiritu sancto. 
+          <lb ed="#Z" n="4"/>Qui error inde est, quod baptisandi ministerio tribuit nimium. Arbitratur hoc 
+          <lb ed="#Z" n="5"/>homines purgari: colligit itaque hominem impurum purgare non posse, ergo nec 
+          <lb ed="#Z" n="6"/>baptizare, baptismumque hominis impuri non esse baptismum : unde iam 
+          deri<lb ed="#Z" n="7" break="no"/>uat anabaptismum. Caeterum si uir sanctus rite &amp; religiose distinxisset inter po 
+          <lb ed="#Z" n="8"/>testatem &amp; ministerium, denique inter signum &amp; signatum, externam &amp; 
+          inter<lb ed="#Z" n="9" break="no"/>nam sanctificationem, uidisset haud dubie mera nos dei gratia sanctificari 
+          inui<lb ed="#Z" n="10" break="no"/>sibiliter, &amp; internam illam sanctificationem externa per ministerium 
+          repraesen<lb ed="#Z" n="11" break="no"/>tari &amp; obsignari: ibi intellexisset obsignatas literas non minus a malo quam bo- 
+          <lb ed="#Z" n="12"/>no ministro proferri posse. Dei sunt sacramenta, &amp; ad deum referenda 
+          autho<lb ed="#Z" n="13" break="no"/>rem, qui uerax &amp; fidelis est in omnibus institutis suis, utcunque fallaces sint 
+          ho<lb ed="#Z" n="14" break="no"/>mines. Quanquam fur esset ludas, docuit tamen &amp; baptizauit, cuius doctrina 
+          <lb ed="#Z" n="15"/>&amp; baptismus non minus Christi doctrina &amp; baptismus erat, quam Petri &amp; An- 
+          <lb ed="#Z" n="16"/>dreae, Iacobi &amp; Ioannis. Ac de integritate quidem cum doctrinae cum baptismi 
+          <lb ed="#Z" n="17"/>ludae ministerio administrati, nemo dubitauit unquam, quasi nec docti nec 
+          ba<lb ed="#Z" n="18" break="no"/>ptisati fuerint, quos ille docuit &amp; baptizauit, qui interim ab ipso domino non 
+          <lb ed="#Z" n="19"/>homo diabolicus, sed ipse diabolus appellatur. Nam non suo, sed Christi 
+          nomi<lb ed="#Z" n="20" break="no"/>ne baptizauit: non suam sed Christi doctrinam attulit. Denique dominus ex bo 
+          <lb ed="#Z" n="21"/>nitate sua propter ueritatem suam, non propter ludam, operatus est in fidelibus,  
+          <lb ed="#Z" n="22"/>quam operationem aliena infelicitas &amp; malitia impedire non potuit, sicut ne ho 
+          <lb ed="#Z" n="23"/>die quidem impedit. Conandum quidem nobis modis omnibus, ut sancti &amp; inno¬  
+          <lb ed="#Z" n="24"/>centes sint ministri, quantum uidelicet nostra fide &amp; industria indagare &amp; effi- 
+          <lb ed="#Z" n="25"/>cere possumus: imo gradibus suis deiiciamus, quos deprehenderimus se sua 
+          <lb ed="#Z" n="26"/>functione indignos gerere : interim uero nihil dubitemus de sacramenti 
+          inte<lb ed="#Z" n="27" break="no"/>gritate, quod illi nobis dum in officio fuerunt, administrarunt, ea ratione 
+          uide<lb ed="#Z" n="28" break="no"/>licet modoque, quo dominus instituit. Ac fideles quidem ut animos suos non 
+          de<lb ed="#Z" n="29" break="no"/>figunt in elementa, ita neque in ministros. Deum authorem omnis boni &amp; finem  
+          <lb ed="#Z" n="30"/>institutorum domini spectant unice in omnibus.
+        </p>
+        <p xml:id="UD1xh4-SwfJWu-d1e3053">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Tractauit hoc negotium diligenter S. Augustinus, non inefficacia 
+          argumen<lb ed="#Z" n="32" break="no"/>ta pulchre his accommodans, cuius uerba ascribam. Libro contra Donatistas de 
+          <lb ed="#Z" n="33"/>Baptismo 3. cap. 10. Non est aqua prophana, inquit, aut adultera, super quam  
+          <lb ed="#Z" n="34"/>nomen dei inuocatur, etiamsi a prophanis &amp; adulteris inuocetur: quia nec ipsa 
+          <lb ed="#Z" n="35"/>creatura, nec ipsum nomen adulterum est. Baptismus uero Christi uerbis 
+          euan<lb ed="#Z" n="36" break="no"/>gelicis consecratus, &amp; per adulteros &amp; in adulteris sanctus est, quamuis illi 
+          im<lb ed="#Z" n="37" break="no"/>pudici sint &amp; immundi: quia ipsa eius sanctitas pollui non potest, &amp; in 
+          sacra<lb ed="#Z" n="38" break="no"/>mento suo diuina uirtus assistit, siue ad salutem bene utentium, siue ad perniciem 
+          <lb ed="#Z" n="39"/>male utentium. An uero solis uel etiam lucernae lux cum per coenosa 
+          diffundi<lb ed="#Z" n="40" break="no"/>tur nihil inde sordium contrahit, &amp; baptismus Christi potest cuiusquam 
+          scele<lb ed="#Z" n="41" break="no"/>ribus inquinari? Si enim ad ipsas res uisibiles quibus sacramenta tractantur 
+          ani<lb ed="#Z" n="42" break="no"/>mum conferamus, quis nesciat eas esse corruptibiles? Si autem ad id quod per 
+          <lb ed="#Z" n="43"/>illas agitur, quis non uideat non posse corrumpi: quamuis homines per quos 
+          <lb ed="#Z" n="44"/>agitur pro suis moribus uel praemia percipiant uel poenas luant? Et 
+          caetera<lb ed="#Z" n="45" break="no"/>Possem huius generis multa proferre si putarem necessaria. Arbitror enim illis 
+          <lb ed="#Z" n="46"/>copiose &amp; dilucide satis declaratum esse, integritatem sacramentorum non 
+          aesti<lb ed="#Z" n="47" break="no"/>mari dignitate uel indignitate ministrorum, sed dei instituentis ueritate. Ei sit 
+          <lb ed="#Z" n="48"/>gloria &amp; imperium in saecula saeculorum, Amen 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

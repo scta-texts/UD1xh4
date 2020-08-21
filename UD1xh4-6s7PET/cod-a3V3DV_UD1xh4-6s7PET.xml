@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 10</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 10</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="256-v"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-6s7PET"><!-- d4s10 --> 
+        <head xml:id="UD1xh4-6s7PET-Hd1e106">Sermo 10</head>
+        <head xml:id="UD1xh4-6s7PET-Hd1e109" type="question-title">De anima hominis rationali et certissima eius post mortem copoream salute</head>
+        <p xml:id="UD1xh4-6s7PET-d1e112">
+          <lb ed="#Z" n="36"/><pc type="indent"/> De anima hominis rationali, ex certissima eius post mortem corpoream salute, 
+          <lb ed="#Z" n="37"/>SERMO X. 
+          <lb ed="#Z" n="38"/>OGNATIONEM cum spiritibus habere animam hominis 
+          rationa<lb ed="#Z" n="39" break="no"/>lem fatentur omnes. neque est, opinor, sapientum ullus qui neget saluber 
+          <lb ed="#Z" n="40"/>rimam &amp; omnibus pijs necessariam esse cognitionem rationalis animae 
+          <lb ed="#Z" n="41"/>aa hominis, de qua tam multa &amp; diligenter praecipit scriptura sancta. 
+          Pro<lb ed="#Z" n="42" break="no"/>inde ordo rerum, utilitas atque ipsa necessitas requirit, ut etiam de anima hominis 
+          <lb ed="#Z" n="43"/>rationali dicam. Sequar autem scripturae eiusque interpretum simplicitatem, 
+          phy<lb ed="#Z" n="44" break="no"/>sica illis explicanda relinquens, quorum officium &amp; professio est, nisi quatenus 
+          <lb ed="#Z" n="45"/>physicis in nostra disputatione carere non possumus, Scriptura sancta &amp; eius 
+          in<lb ed="#Z" n="46" break="no"/>terpretes de anima hominis nec curiosas quaestiones mouent nec curiosis homi- 
+          <!--536.xml-->
+          <pb ed="#Z" n="257-r"/>
+          <lb ed="#Z" n="1"/>nibus satis faciunt, cum ea desiderent scire quae exponi non possunt, aut si possint,  
+          <lb ed="#Z" n="2"/>his tamen nihildum apte dictum esse perpetuo uideatur. Semper enim haerent,  
+          <lb ed="#Z" n="3"/>semper discendo dubitant, nunquam ad cognitionem ueritatis tranquillo animo 
+          <lb ed="#Z" n="4"/>perueniunt, nunquam in simplici ueritate reperta consistunt, alia &amp; multo plura 
+          <lb ed="#Z" n="5"/>&amp; acutiora quam intellexerunt, indagant. Nos uero scripturis sanctis nouimus 
+          <lb ed="#Z" n="6"/>omnia simpliciter &amp; clare tradi, quae sunt necessaria &amp; salutaria, atque his 
+          simpli<lb ed="#Z" n="7" break="no"/>citer pie uel religiose acquiescendum esse: ergo quae his tradita non sunt (in nego 
+          <lb ed="#Z" n="8"/>tio salutis nostrae) scimus neque inquirenda esse nobis, neque salutem interturbare si 
+          <lb ed="#Z" n="9"/>nesciamus.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e163">
+          <lb ed="#Z" n="10"/><pc type="indent"/> Vocabulum Animae, uarie usurpatur in sancta scriptura. Principio accipitur 
+          <lb ed="#Z" n="11"/>anima pro uiuente quolibet. Moses enim inducit deum loquentem: Producat 
+          ter<lb ed="#Z" n="12" break="no"/>ra animam uiuentem secundum speciem suam, iumentum, reptile, &amp; bestiam 
+          ter<lb ed="#Z" n="13" break="no"/>rae. Quis enim ignorat animae tres species uel partes (liceat interim sic loqui docen 
+          <lb ed="#Z" n="14"/>di gratia) aut facultates principales recenseri? Est enim anima uegetatiua, quae in 
+          <lb ed="#Z" n="15"/>plantis agit. Est anima sensitiua, quae non est sine uegetatiua, animatque animantia 
+          <lb ed="#Z" n="16"/>bruta. Est item anima rationalis potentijs pluribus instructa, &amp; utramque illam  
+          <lb ed="#Z" n="17"/>comprehendens, qua donati sunt homines. Hinc anima in scripturis ponitur pro 
+          <lb ed="#Z" n="18"/>slatu quo spirant &amp; respirant homines, adeoque pro uita hominis aut animantis.  
+          <lb ed="#Z" n="19"/>lta legimus: Anima eius in ipso est. Et iterum, Non persequar te ultra sinquit ad 
+          <lb ed="#Z" n="20"/>Dauidem Saubeo quod anima mea pretiosa hodie fuerit in oculis tuis. Graeci ani¬  
+          <lb ed="#Z" n="21"/>mam appellarunt uxo quasi quaexux, quod respirando refrigeret. Hebraei 
+          Nae<lb ed="#Z" n="22" break="no"/>phaesch appellitant a refocillando Rursus ponitur anima in scripturis pro ipso 
+          a<lb ed="#Z" n="23" break="no"/>nimato adeoque quouis uel potius toso homine. In lege enim dicitur: Anima quae 
+          <lb ed="#Z" n="24"/>declinauerit ad magos &amp; ariolos, ipsa morietur. Item in Paulo legimus: Omnis  
+          <lb ed="#Z" n="25"/>anima potestati supereminenti sit subdita. Et iterum in Genesi dicit rex Sodomae 
+          <lb ed="#Z" n="26"/>ad Abram: Da mihi animas, &amp; substantiam ipsam uel facultates accipe tu. Solet 
+          <lb ed="#Z" n="27"/>enim scriptura at parte totum denominare. Sicut enim per animam totum 
+          signifi<lb ed="#Z" n="28" break="no"/>cat hominem, nobiliorem recensens partem, ita &amp; per carnem inferiorem totum 
+          <lb ed="#Z" n="29"/>denotat. Preterea cum homini sicut &amp; reliquis animantibus sit anima appetitiua, 
+          <lb ed="#Z" n="30"/>usurpatur anima in scripturis pro affectu, uoluntate &amp; desiderio, uel cupiditate. 
+          <lb ed="#Z" n="31"/>Ezechiel enim dicit: Animam suam non saturabunt G Germanice, &amp; oeroeno iren 
+          <lb ed="#Z" n="32"/>glust nit bussen) uentres eorum non implebuntur. Postremo significat anima 
+          <lb ed="#Z" n="33"/>spiritum hominis rationalem. De qua disseremus, deo inspirante, in praesenti. 
+          Dis<lb ed="#Z" n="34" break="no"/>simulare tamen hic non possum, apud scriptores praeclaros controuerti de anima 
+          <lb ed="#Z" n="35"/>&amp; animo, idem ne an diuersa sint, &amp; esse quidem rationes in utranque partem. Qui  
+          <lb ed="#Z" n="36"/>distinguunt, aiunt nos anima uiuere, animo autem sapere: id quod Lactantius di 
+          <lb ed="#Z" n="37"/>cit de opificio dei cap. 1S. Ego uideo probatissimos quosque scriptores permixtim 
+          <lb ed="#Z" n="38"/>uti utroque, &amp; alterum ponere pro altero.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e229">
+          <lb ed="#Z" n="39"/><pc type="indent"/> Neque enim putandum est in homine duas esse animas, Rectissime enim 
+          de<lb ed="#Z" n="40" break="no"/>finierunt definitiones ecclesiasticae, pronunciantes capite decimoquinto: Non di- 
+          <lb ed="#Z" n="41"/>cimus duas esse animas in uno homine : sicut Iacobus &amp; quidam Syrorum scri- 
+          <lb ed="#Z" n="42"/>bunt, unam animalem, qua animetur corpus &amp; immixta sit sanguini, &amp; alteram  
+          <lb ed="#Z" n="43"/>spiritualem quae rationem ministret, sed dicimus unam eandemque esse animam in 
+          <lb ed="#Z" n="44"/>homine, quae &amp; corpus sua societate uiuificet, &amp; semetipsam sua ratione di 
+          spo<lb ed="#Z" n="45" break="no"/>nat. Itaque non putamus ullam eorum rationem esse habendam, qui in uniuersum  
+          <lb ed="#Z" n="46"/>negant esse animam. Hi enim perinde insaniunt, ut qui solem lucere negant. Om 
+          <lb ed="#Z" n="47"/>nes enim solem &amp; uidemus &amp; sentimus: sicut &amp; animae beneficio uiuimus,
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e253">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Porro quid sit rationalis anima hominis, nondum potuere concorditer defi- 
+          <!--537.xml-->
+          <pb ed="#Z" n="257-v"/>
+          <lb ed="#Z" n="1"/>nire sapientes huius saeculi, quippe adeo dissentientes, ut uix duos inuenias qui 
+          <lb ed="#Z" n="2"/>idem dicant. Sunt autem sententiae inter se discordes non paucae. Quid quod 
+          ue<lb ed="#Z" n="3" break="no"/>teres scripturarum interpretes in definienda anima cunctantius progressi sunt? 
+          <lb ed="#Z" n="4"/>Lactantius de Opificio dei, negat animae rationem &amp; naturam assequi posse 
+          ho<lb ed="#Z" n="5" break="no"/>mines. Iccirco nihil prorsus aberrarunt a uero, quibus uisum est animam nulla fi- 
+          <lb ed="#Z" n="6"/>nitione absoluta concludi posse, qua uidelicet eius natura exactissime 
+          exprima<lb ed="#Z" n="7" break="no"/>tur: interim posse eius ingenium utcunque adumbrari, idque ex operibus seu actis 
+          <lb ed="#Z" n="8"/>eius attributisque scripturae. Sunt ergo qui dixerunt animam esse spiritum uitae, ad 
+          <lb ed="#Z" n="9"/>imaginem dei creatum, &amp; corpori humano inspiratum. Est qui sic describat: Ani 
+          <lb ed="#Z" n="10"/>ma est spiritus, per quem corpus, cui est connexus, uiuit, aptus cognitioni dei 
+          pro<lb ed="#Z" n="11" break="no"/>pter amorem, atque hinc coniunctioni cum eo ad beatitudinem aeternam. Alius sic 
+          <lb ed="#Z" n="12"/>definit: Anima rationalis, est spiritus intelligens, altera pars substantiae hominis: 
+          <lb ed="#Z" n="13"/>nec extinguitur cum a corpore discessit, sed immortalis est. Cassiodorus sic defi- 
+          <lb ed="#Z" n="14"/>nit: Anima hominis est a deo creata, spiritalis propriaque substantia, sui corporis ut 
+          <lb ed="#Z" n="15"/>uificatrix, rationabilis quidem &amp; immortalis. Nos descriptionem petitam ex scri 
+          <lb ed="#Z" n="16"/>pturis expendendam pijs, &amp; quae totam hanc dissertationem nostram dirigat,  
+          <lb ed="#Z" n="17"/>proponimus: Anima est substantia spiritualis, corpori humano a deo infusa, ut ei 
+          <lb ed="#Z" n="18"/>coniuncta ipsum animet &amp; dirigat, separata autem a corpore non intereat, sed im 
+          <lb ed="#Z" n="19"/>mortalis aeternum uiuat.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e304">
+          <lb ed="#Z" n="20"/><pc type="indent"/> Negant nonnulli animam esse substantiam. Nam contendunt nihil aliud esse 
+          <lb ed="#Z" n="21"/>quam uim uitalem in homine adeoque qualitatem quandam. Scriptura uero 
+          san<lb ed="#Z" n="22" break="no"/>cta agnoscit animam subsistentem esse essentiam. Dominus enim in euangelio 
+          te<lb ed="#Z" n="23" break="no"/>statur animam in gehenna torqueri posse. Id quod protinus eadem euangelica 
+          <lb ed="#Z" n="24"/>authoritate in anima diuitis epulonis quasi oculis contemplandum 
+          demonstra<lb ed="#Z" n="25" break="no"/>tur. Latroni dixit idem dominus, qui mentiri non potest: Hodie mecum eris in pa 
+          <lb ed="#Z" n="26"/>radyso. Id quod non potest de ulla latronis parte quam anima exponi. Corpore 
+          e<lb ed="#Z" n="27" break="no"/>nim affixus cruci haerebat. Vnde &amp; Ioannes apostolus &amp; euangelista uidit subter 
+          <lb ed="#Z" n="28"/>altare animas interfectorum propter uerbum dei. Audiuit easdem clamantes 
+          uo<lb ed="#Z" n="29" break="no"/>ce magna, ac dicentes: Vsquequo domine, qui es sanctus &amp; uerax non iudicas &amp;  
+          <lb ed="#Z" n="30"/>uindicas sanguinem nostrum de his qui habitant in terra: ldem uidit animabus 
+          <lb ed="#Z" n="31"/>singulis singulas dari stolas, his insuper additis uerbis, a domino: Requiescite 
+          ad<lb ed="#Z" n="32" break="no"/>huc tempus modicum, donec compleantur conserui uestri &amp; fratres uestri, qui 
+          in<lb ed="#Z" n="33" break="no"/>terficiendi sunt, sicuti &amp; uos. Quae quidem omnia non qualitatibus, sed essentijs 
+          <lb ed="#Z" n="34"/>subsistentibus competunt. Sunt ergo animae hominum substanties. Quod ut expri 
+          <lb ed="#Z" n="35"/>merent significantissime, arbitror nonnullos scriptores ecclesiasticos quondam 
+          <lb ed="#Z" n="36"/>tradidisse, rationales animas hominum esse corporeas, hoc est sui generis 
+          sub<lb ed="#Z" n="37" break="no"/>stantias proprie existentes. Nec puto me c. V. molestum futurum si recitauero ad 
+          <lb ed="#Z" n="38"/>uerbum quae de hac caussa in utranque partem disputauit D. Augustinus epist, ad 
+          <lb ed="#Z" n="39"/>S. Hierony. quae ordine est 28. Incorpoream esse animam, inquit, etsi difficile 
+          tar<lb ed="#Z" n="40" break="no"/>dioribus persuaderi potest, mihi tamen fateor esse persuasum. Sed ne uerbi 
+          con<lb ed="#Z" n="41" break="no"/>trouersiam uel superfluo faciam, uel merito patiar : quoniam cum de re constat,  
+          <lb ed="#Z" n="42"/>non est opus certare de nomine : si corpus est omnis substantia uel essentia, uel si 
+          <lb ed="#Z" n="43"/>quid aptius nuncupatur id quod aliquo modo est in seipso, corpus est anima. Item  
+          <lb ed="#Z" n="44"/>si eam solam incorpoream placet appellare naturam quae summe 
+          incommutabi<lb ed="#Z" n="45" break="no"/>lis &amp; ubique tota est, corpus est anima : quoniam tale aliquid ipsa non est. Porro si 
+          <lb ed="#Z" n="46"/>corpus non est nisi quod per loci spacium aliqua longitudine, latitudine, 
+          altitudi<lb ed="#Z" n="47" break="no"/>ne ita sistitur uel mouetur, ut maiore sui parte maiorem locum occupet, &amp; 
+          bre<lb ed="#Z" n="48" break="no"/>uiore breuiorem, minusque sit in parte quam in toto, non est corpus anima. Per 
+          <!--538.xml-->
+          <pb ed="#Z" n="258-r"/>
+          <lb ed="#Z" n="1"/>totum quippe corpus quod animat non locali diffusione, sed quadam uitali inten 
+          <lb ed="#Z" n="2"/>tione porrigitur. Nam per omnes eius particulas tota simul adest, nec minor in mi- 
+          <lb ed="#Z" n="3"/>noribus, &amp; in maioribus maior, sed alicubi intensius, alicubi remissius, &amp; in om- 
+          <lb ed="#Z" n="4"/>nibus tota, &amp; in singulis tota est. Neque enim aliter quod in corpore etiam non toto 
+          <lb ed="#Z" n="5"/>sentit, tamen tota sentit. Nam cum exiguo puncto in carne uiua aliquid tangitur,  
+          <lb ed="#Z" n="6"/>quamuis locus ille non solum totius corporis non sit, sed uix in corpore uideatur,  
+          <lb ed="#Z" n="7"/>animam tamen totam non latet: neque id quod sentitur per corporis cuncta discur 
+          <lb ed="#Z" n="8"/>rit, sed ibi tantum sentitur ubi fit. Vnde ergo ad totam mox peruenit, quod non in 
+          <lb ed="#Z" n="9"/>toto fit, nisi quia &amp; ibi tota est ubi fit, nec ut tota ibi sit caetera deserit. Viuunt enim  
+          <lb ed="#Z" n="10"/>&amp; illa ea praesente ubi nihil tale factum est. Quod si fieret, &amp; utrunque simul fieret 
+          <lb ed="#Z" n="11"/>simul utrunque totam pariter non lateret. Proinde &amp; in omnibus simul &amp; in singu 
+          <lb ed="#Z" n="12"/>lis particulis corporis sui tota simul esse non posset, si per illas ita diffunderetur,  
+          <lb ed="#Z" n="13"/>ut uidemus corpora diffusa per spacia locorum minoribus suis partibus minora 
+          <lb ed="#Z" n="14"/>occupare, &amp; amplioribus ampliora. Quapropter si anima corpus esse dicenda est,  
+          <lb ed="#Z" n="15"/>non est certe corpus, quale terrenum est nec quale humidum aut aereum aut 
+          ae<lb ed="#Z" n="16" break="no"/>thereum. Omnia quippe talia maiora sunt in maioribus locis, &amp; minora in 
+          mino<lb ed="#Z" n="17" break="no"/>ribus, &amp; nihil eorum in aliqua sui parte totum adest, sed ut sunt partes locorum ita 
+          <lb ed="#Z" n="18"/>occupantur partibus corporum. Vnde intelligitur anima, siue corpus siue incor- 
+          <lb ed="#Z" n="19"/>porea dicenda sit, propriam quandam habere naturam, omnibus his mundanae 
+          <lb ed="#Z" n="20"/>molis elementis excellentiore substantia creatam: quae ueraciter non possit in 
+          ali<lb ed="#Z" n="21" break="no"/>qua phantasia corporalium imaginum quas per carnis sensus percipimus 
+          cogi<lb ed="#Z" n="22" break="no"/>tari, sed mente intelligi uitaque sentiri. Hactenus Augustini uerba recensui. Scri- 
+          <lb ed="#Z" n="23"/>ptura quoque huc maxime inclinat ut mcorpoream esse animam doceat. 
+          Diligen<lb ed="#Z" n="24" break="no"/>ter enim &amp; diserte spiritum appellat. Nam dominus itreuangelio secundum 
+          Ioan<lb ed="#Z" n="25" break="no"/>nem: Ego pono animam meam, inquit, &amp; iterum sumam eam. Nemo tollit eam a 
+          <lb ed="#Z" n="26"/>me, sed ego ponam eam a meipso. At apud eundem euangelistam legis. Dixit 
+          au<lb ed="#Z" n="27" break="no"/>tem Iesus : Consummatum est, &amp; inclinato capite tradidit spiritum. Nam apud alium 
+          <lb ed="#Z" n="28"/>euangelistam exclamat: Pater in manus tuas trado spiritum meum. Et Matthaeus:  
+          <lb ed="#Z" n="29"/>Iesus autem cum iterum clamasset, inquit, uoce magna, emisit spiritum. Quo 
+          re<lb ed="#Z" n="30" break="no"/>ferri potest proculdubio quod in Actis de Stephano protomartyre legimus: Et 
+          la<lb ed="#Z" n="31" break="no"/>pidabant Stephanum inuocantem &amp; dicentem : Domine Iesu suscipe spiritum 
+          <lb ed="#Z" n="32"/>meum. His uero significantius exprimere non possum qualis sit substantia animae  
+          <lb ed="#Z" n="33"/>hominis, quam spiritum esse credo, propriam utique ac singularem suam habentem  
+          <lb ed="#Z" n="34"/>substantiam a deo creatam. Nam Augustinus cuius uerba paulo ante adduxi, 
+          de<lb ed="#Z" n="35" break="no"/>nuo in 1. cap. de Quantitate animae dicit: Substantiam animae nominare non 
+          pos<lb ed="#Z" n="36" break="no"/>sum: non enim eam puto esse ex his usitatis notisque naturis quas istis corporis sen 
+          <lb ed="#Z" n="37"/>sibus tangimus. Nam neque ex terra, neque ex aqua, neque ex aere, neque ex igni, neque 
+          <lb ed="#Z" n="38"/>ex his omnibus aut aliquibus horum coniunctis animam constare puto. Simplex 
+          <lb ed="#Z" n="39"/>animae natura dici potest, quia ex alijs naturis non est. Quae Augustini uerba imi 
+          <lb ed="#Z" n="40"/>tando referre exprimereque uoles Cassiodorus dixit: Anima hominis a deo creata 
+          <lb ed="#Z" n="41"/>spiritalis propriaque substantia est. Ergo simpliciter assero singularem imo 
+          excellen<lb ed="#Z" n="42" break="no"/>tem quandam &amp; ab alijs spiritibus differentem substantiam habere animam, uere 
+          <lb ed="#Z" n="43"/>quidem existentem &amp; a creatione sua semper agentem, sed quam nos nostro 
+          elo<lb ed="#Z" n="44" break="no"/>quio circumscribere &amp; eloqui non possumus.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e470">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Interim non probamus eos, qui exprimere uolentes qualisnam sit animae sub 
+          <lb ed="#Z" n="46"/>stantia, ac dixerunt animam esse deum, uel certe partem portionemue dei. Nam  
+          <lb ed="#Z" n="47"/>utrunque reprobat scriptura. Etenim anima creatura &amp; uicissitudini atque 
+          pecca<lb ed="#Z" n="48" break="no"/>tis immersa est, creator autem &amp; munda ex semetipsa non est. Et quoniam creator 
+          <!--539.xml-->
+          <pb ed="#Z" n="258-v"/>
+          <lb ed="#Z" n="1"/>incommutabilis &amp; indiuisibilis est, anima dei portio esse non potest. Eleganter er 
+          <lb ed="#Z" n="2"/>go &amp; uere Aurelius Prudentius in sua Apotheosi, cum multis foedos hos errores 
+          <lb ed="#Z" n="3"/>confutasset, recolligens tandem ueritatis sententiam, canit,  
+          <lb ed="#Z" n="4"/>Absurde fertur deus aut pars esse dei, quae 
+          <lb ed="#Z" n="5"/>Diuinum summumque bonum de fonte perenni 
+          <lb ed="#Z" n="6"/>Nunc bibit, obsequio nunc culpa aut crimine perdit,  
+          <lb ed="#Z" n="7"/>Et modo supplicium recipit, modo libera calcat, &amp;c.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e502">
+          <lb ed="#Z" n="8"/><pc type="indent"/> Hunc errorem ut elideremus &amp; animam discerneremus ab alijs spiritibus sub 
+          <lb ed="#Z" n="9"/>stantijsue spiritalibus, adiecimus in nostra descriptione, animam humanam a deo 
+          <lb ed="#Z" n="10"/>corpori humano infusam: unde creatam esse quilibet iam nullo intelligit negotio. 
+          <lb ed="#Z" n="11"/>sed &amp; spiritum esse, non angelicum, sed humanum, id est a deo humano corpori 
+          <lb ed="#Z" n="12"/>infusum, suae essentiae atque naturae.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e516">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Vbi rursus noua se nobis offert explicanda quaestio de animarum origine. 
+          <lb ed="#Z" n="14"/>i Quaeri enim solet, unde ueniant animae, quando aut quomodo ingrediantur 
+          cor<lb ed="#Z" n="15" break="no"/>pora sua? S. Hieronymus author est, plurimas easque inter se diuersissimas fuisse 
+          <lb ed="#Z" n="16"/>quondam de origine animarum sententias. Scribens enim Marcellino &amp; Anapsy 
+          <lb ed="#Z" n="17"/>chiae: Super animae statu, inquit, memini uestrae quaestiunculae imo maxime 
+          eccle<lb ed="#Z" n="18" break="no"/>siasticae quaestionis: Vtrum lapsa de coelo sit, ut Pythagoras philosophus omnesquae 
+          <lb ed="#Z" n="19"/>Platonici &amp; <name xml:id="UD1xh4-6s7PET-Nd1e534">Origenes</name> putant, An a propria dei substantia, ut Stoici, Manichaeus,  
+          <lb ed="#Z" n="20"/>&amp; Hispaniae Priscilliani haereses suspicantur. An in thesauro habeantur dei, olim  
+          <lb ed="#Z" n="21"/>conditae, ut quidam ecclesiastici stulta persuasione confidunt. An quotidie a deo 
+          <lb ed="#Z" n="22"/>fiant &amp; mittantur in corpora: secundum illud quod in euangelio scriptum est: Pa 
+          <lb ed="#Z" n="23"/>ter meus usque modo operatur &amp; ego operor. An certe ex traduce, ut 
+          Tertullia<lb ed="#Z" n="24" break="no"/>nus, Apollinarius &amp; maxima pars Occidentalium autumant, ut quomodo corpus 
+          <lb ed="#Z" n="25"/>ex corpore, sic anima nascatur ex anima, &amp; simili cum brutis animantibus 
+          condi<lb ed="#Z" n="26" break="no"/>tione subsistat. Caeterum refutatae sunt omnes illae opiniones solidis argumentis 
+          <lb ed="#Z" n="27"/>a scriptoribus ecclesiasticis, pro uerissima autem recepta &amp; asserta est, quae tradit 
+          <lb ed="#Z" n="28"/>animam ex nihilo creari &amp; corpori infundi a deo, quando foetus in utero materno 
+          <lb ed="#Z" n="29"/>sua forma suisque partibus perfectus est. Definitiones enim ecclesiasticae sic 
+          pro<lb ed="#Z" n="30" break="no"/>nunciant: Dicimus creationem animae solum creatorem omnium nosse, &amp; corpus 
+          <lb ed="#Z" n="31"/>tantum per coniugij copulam seminari, dei uero iudicio coagulari in matrice &amp;  
+          <lb ed="#Z" n="32"/>compingi atque formari, ac formato iam corpore animam creari &amp; infundi. Vnde 
+          <lb ed="#Z" n="33"/>&amp; beatus Hieronymus aduersus errores Ioan. Hierosolymitani episcopi 
+          dispu<lb ed="#Z" n="34" break="no"/>tans ad Pamachium, post recitatas uarias de origine animae sententias, ait, An cer 
+          <lb ed="#Z" n="35"/>te( quod ecclesiasticum est secundum eloquia saluatoris: Pater usque modo 
+          opera<lb ed="#Z" n="36" break="no"/>tur, &amp; ego operor. Et illud lsaiae. Qui format spiritum hominis in ipso. Et in 
+          Psal<lb ed="#Z" n="37" break="no"/>mis. Qui fingit per singulos corda eorum) quotidie fabricatur deus animas, cuius 
+          <lb ed="#Z" n="38"/>uelle fecisse est, &amp; conditor esse non cessat: Haec ille. Certe scriptura disertis 
+          uer<lb ed="#Z" n="39" break="no"/>bis docet animam non oriri ex terra, neque esse ante corpus conditam, sed proficisci 
+          <lb ed="#Z" n="40"/>ex creatoris ore, nimirum ex uirtute dei secreta, infundique formato corpori. 
+          For<lb ed="#Z" n="41" break="no"/>mationem enim patris nostri describens Moses, prius comemorat Adami 
+          forma<lb ed="#Z" n="42" break="no"/>tum esse corpus, deinde in formatum &amp; absolutum corpus inspiratam animam  
+          <lb ed="#Z" n="43"/>uitae: Formauit, inquit, dominus deus hominem de limo terrae, &amp; inspirauit in 
+          fa<lb ed="#Z" n="44" break="no"/>ciem uel nares eius spiritum uitae, factusque est homo in animam uiuentem. Signifi- 
+          <lb ed="#Z" n="45"/>cat enim spiritus uitae animalem rationalemque, id est, humanam animam, quam ui 
+          <lb ed="#Z" n="46"/>des corpori formato inspiratam siue infusam esse. Cumque mulierem ex costa idem  
+          <lb ed="#Z" n="47"/>crearet dominus, animam certe non ex Adamo eiusque anima traduxit in Euam, sed 
+          <lb ed="#Z" n="48"/>creatam formato corpori sua infudit bonitate &amp; potentia. Neque hodie aliter nos 
+          <!--540.xml-->
+          <pb ed="#Z" n="259-r"/>
+          <lb ed="#Z" n="1"/>creari a domino quam ut corpori formato infundatur anima, locupletissimus 
+          te<lb ed="#Z" n="2" break="no"/>stis est lob, dicens: Manus tuae (o deus) fecerunt me &amp; plasmauerunt totum. 
+          Non<lb ed="#Z" n="3" break="no"/>ne sicut Iac mulsisti me, &amp; sicut caseum me coagulasti? Cute &amp; carne uestiuisti me, 
+          <lb ed="#Z" n="4"/>ossibus etiam &amp; neruis compegisti me. En habes his elegantissime descriptam, &amp;  
+          <lb ed="#Z" n="5"/>conceptionem et formationem in utero materno corporis humani. Sequitur iam  
+          <lb ed="#Z" n="6"/>deinceps in lob de anima: Vitam &amp; misericordiam tribuisti mihi, &amp; uisitatio tua 
+          <lb ed="#Z" n="7"/>custodiuit spiritum meum. En uita, id est, anima corpori iam formato est a deo 
+          in<lb ed="#Z" n="8" break="no"/>fusa. Vitam, ait, &amp; misericordiam tribuisti mihi. Adiecit uitae misericordiam. Est 
+          <lb ed="#Z" n="9"/>enim mirum, in utero materno foetum uiuere, tot uidelicet membranis inuolutum, 
+          <lb ed="#Z" n="10"/>exerit ergo se in eo misericordiae diuinae beneficium ingens, Sequitur autem per 
+          <lb ed="#Z" n="11"/>interpretationem. Et uisitatio tua, id est, prouidentia &amp; conseruatio tua, custodi 
+          <lb ed="#Z" n="12"/>uit seu conseruauit spiritum meum. Nunc enim spiritum uocat id quod 
+          appella<lb ed="#Z" n="13" break="no"/>rat prius uitam, id est, animam. Proinde recte &amp; secundum scripturas tenemus, 
+          <lb ed="#Z" n="14"/>animas hominum creari a deo &amp; infundi absolutis iam in utero corporibus, 
+          ut<lb ed="#Z" n="15" break="no"/>cunque non attingamus acu, quod dici solet, singula huius caussae puncta atque 
+          <lb ed="#Z" n="16"/>momenta.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e640">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Inspiciendum modo quid operetur in corpore hominis anima : breuibus id in 
+          <lb ed="#Z" n="18"/>descriptione complexi sumus, dicentes coniunctam corpori hominem animare  
+          <lb ed="#Z" n="19"/>&amp; dirigere. Etenim complectitur anima rationalis uim uegetatiuam &amp; sensitiuam,.  
+          <lb ed="#Z" n="20"/>&amp; eatenus corpus animat : praeterea partes habet duas, officijs, non essentia distin 
+          <lb ed="#Z" n="21"/>ctas. Inteliectum &amp; Voluntatem, &amp; eatenus hominem dirig t. Intellectu enim qui 
+          <lb ed="#Z" n="22"/>&amp; mens &amp; ratio dicitur, percipit dijudicat &amp; cognoscit intelligibilia, cernitque quid 
+          <lb ed="#Z" n="23"/>persequatur aut quid fugiat. Voluntate autem seu appetitu cognitum eligit, hoc 
+          <lb ed="#Z" n="24"/>am plectens, illud uero repellens. Quae rursus patent latissime. Proinde singula per 
+          <lb ed="#Z" n="25"/>sequar paulo copiosius. Principio anima corpus hoc mortale &amp; terrenum praesen 
+          <lb ed="#Z" n="26"/>tia sua uiuificat, colligit in unum atque complexu miro retinet nec difffuere neque  
+          <lb ed="#Z" n="27"/>contabescere sinit: alimenta per membra aequaliter, suis quibusque redditis, distri- 
+          <lb ed="#Z" n="28"/>buit, congruentiam eius modumque conseruat, non tantum in pulchritudine, sed 
+          <lb ed="#Z" n="29"/>etiam in crescendo atque gignendo. Sed haec omnia homini etiam cum arbustis com 
+          <lb ed="#Z" n="30"/>munia uideri queunt. Haec enim etiam uiuere, in suo item quidque illorum genere 
+          <lb ed="#Z" n="31"/>custodiri, ali, crescere, gignere uidemus atque fatemur. Videamus itaque quid anima 
+          <lb ed="#Z" n="32"/>possit &amp; operetur in sensibus, ubi euidentior uita intelligitur. Intendit se anima in 
+          <lb ed="#Z" n="33"/>tactum, &amp; eo calida, frigida, aspera, lenia, dura, mollia, leuia, grauia, sentit atque dis- 
+          <lb ed="#Z" n="34"/>cernit. Deinde innumerabiles differentias saporum, odorum, sonorum, 
+          forma<lb ed="#Z" n="35" break="no"/>rum, gustando, olfaciendo, audiendo, uidendoque dijudicat. Atque in his omnibus 
+          <lb ed="#Z" n="36"/>ea quae secundum naturam sui corporis sunt, asciscit atque appetit, reiicit fugitque 
+          <lb ed="#Z" n="37"/>contraria : foetibus quoque non iam gignendis tantummodo, sed etiam fouendis,  
+          <lb ed="#Z" n="38"/>tuendis, alendis atque conseruandis conspirat. Sed haec rursus omnia animam etiam  
+          <lb ed="#Z" n="39"/>in bestijs posse nemo negat. Consideremus ergo quae sit uis animae hominis 
+          pro<lb ed="#Z" n="40" break="no"/>pria, &amp; hic expende mihi mirabilem intelligendi &amp; ratiocinandi facultatem, nec 
+          <lb ed="#Z" n="41"/>uulgarem, qualis est in brutis memoriam, sed reminiscentiam animaduersione 
+          <lb ed="#Z" n="42"/>atque signis commendatarum ac retentarum rerum innumerabilium: considera mi 
+          <lb ed="#Z" n="43"/>hi tot artes opificum, agrorum cultus, extructiones urbium, uariorum 
+          aedificio<lb ed="#Z" n="44" break="no"/>rum ac moliminum multimoda miracula: inuentiones tot signorum in literis, in 
+          <lb ed="#Z" n="45"/>uerbis, in gestu, in sono, in picturis atque figmentis : tot gentium linguas, tot 
+          insti<lb ed="#Z" n="46" break="no"/>tuta, tot noua, tot instaurata, tantum librorum numerum, &amp; huiuscemodi 
+          moni<lb ed="#Z" n="47" break="no"/>mentorum ad custodiendam memoriam, taquam curam posteritatis, officiorum,  
+          <lb ed="#Z" n="48"/>potestatum, honorum, dignitatumque ordines, siue in familijs, siue domi militiaeque 
+          <!--541.xml-->
+          <pb ed="#Z" n="259-v"/>
+          <lb ed="#Z" n="1"/>in republica, siue in prophanis, siue in sacris apparatibus: considera mihi uim ue 
+          <lb ed="#Z" n="2"/>re admirabilem excogitandi fsuuios eloquentiae, carminum uarietates, ludendi ac 
+          <lb ed="#Z" n="3"/>iocandi caussa milleformes simulationes, modulandi peritiam, dimetiendi subtili 
+          <lb ed="#Z" n="4"/>tatem, numerandi disciplinam, praeteritorum ac futurorum ex praesentibus 
+          con<lb ed="#Z" n="5" break="no"/>iecturam. Magnae quidem hae in hominis anima uirtutes seu operationes sunt,  
+          <lb ed="#Z" n="6"/>sed bonis &amp; malis communes, Sequuntur ergo ex quibus uera bonitas atque laus 
+          <lb ed="#Z" n="7"/>homini ex uiribus animae existit, &amp; quae in solis inueniuntur pijs. Audet se ani¬  
+          <lb ed="#Z" n="8"/>ma uniuerso corpori praeponere, bonaque eius bona sua non putare, imo &amp; contem 
+          <lb ed="#Z" n="9"/>nere: &amp; inde quo magis se delectat eo magis sese abstrahere a sordibus, totamque se 
+          <lb ed="#Z" n="10"/>purgare per fidem &amp; spiritum sanctum, roborare item se aduersus omnia quae de 
+          <lb ed="#Z" n="11"/>bono proposito dimouere moliuntur: societatem praeterea magni pendere, homi 
+          <lb ed="#Z" n="12"/>nes charitate prosequi, nihilque uelle alteri, quod sibi nolit accidere. Nam sequitur 
+          <lb ed="#Z" n="13"/>doctrinam diuinam, &amp; credit per hanc sibi deum loqui, coniungitur per spiritum 
+          <lb ed="#Z" n="14"/>&amp; fidem cum ipso deo, in quo delectatur uereque feliciter uiuit, omnis generis 
+          uir<lb ed="#Z" n="15" break="no"/>tutes proferens. In hoc tam praeclaro animae studio magnus adhuc labor est. Acer 
+          <lb ed="#Z" n="16"/>rime enim cum carne et mundo confligit: neque uspiam tuta ab infestationibus 
+          in<lb ed="#Z" n="17" break="no"/>cursionibusque sathanae conquiescit. Verum hic quoque a domino confirmata 
+          pul<lb ed="#Z" n="18" break="no"/>cherrimas reportat uictorias ac triumphos. Operatur ergo sanctissima quaeque ope 
+          <lb ed="#Z" n="19"/>ra anima, sed sanctorum: animae enim impiorum omnis generis scelera perpetrant. 
+          <lb ed="#Z" n="20"/>Sunt aliae operationes animarum multae, quas ne sim aequo prolixior, recitare 
+          de<lb ed="#Z" n="21" break="no"/>sino. Hactenus uero de anima hominis corpori adhuc coniuncta disserui: in qua 
+          <lb ed="#Z" n="22"/>dissertatione mira relucet dei bonitas, animae imo totius hominis 
+          munificentissi<lb ed="#Z" n="23" break="no"/>mi creatoris, cuius gratiae merito acceptum ferimus, quicquid laudis animae attri 
+          <lb ed="#Z" n="24"/>buitur. Dicam porro de anima a corpore dissociata.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e770">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Separata a corpore non desinit esse quod fuit, sed extincto iam corpore ipsa 
+          <lb ed="#Z" n="26"/>in sua permanet essentia superstes, immortalis omnino, &amp; omnis corruptionis ex 
+          <lb ed="#Z" n="27"/>pers. Mors enim hominis non est animae extinctio aut pernicies, sed disiunctio dun 
+          <lb ed="#Z" n="28"/>taxat aut discessus a corpore. Tollis ex laterna lucernam, lumen abstulisti laternae.  
+          <lb ed="#Z" n="29"/>lucernam uero non extinxisti : laterna propter ablatam lucernam tenebris 
+          squa<lb ed="#Z" n="30" break="no"/>let quidem, sed lucerna adeo nihil damni sensit ex translatione ut exempta ex la 
+          <lb ed="#Z" n="31"/>terna iam clarius luceat &amp; latius spargat radios sui luminis. Ita certe anima 
+          sepa<lb ed="#Z" n="32" break="no"/>rata a corpore suo terreo luteoue, adeo non sentit ullum incommodum, ut 
+          mole<lb ed="#Z" n="33" break="no"/>stia corporis liberata, liberius iam &amp; efficacius uiuat &amp; agat. Caeterum uulgus 
+          <lb ed="#Z" n="34"/>hoc non uidet, corpus duntaxat in extinctis anima spoliatum uidet, &amp; quia hoc 
+          <lb ed="#Z" n="35"/>omni sensu &amp; motu caret imo &amp; computrescit, putat totum interijsse hominem, 
+          <lb ed="#Z" n="36"/>Nec desunt audaces &amp; impij nequam, quibus in ore est neminem unquam a mor 
+          <lb ed="#Z" n="37"/>te siue ex inferis redijsse, qui reditu suo approbarit extincto corpore superstites 
+          <lb ed="#Z" n="38"/>remanere animas. Sed malitiose mentiuntur, simulantes se nescire quod certo no 
+          <lb ed="#Z" n="39"/>uerunt. Quis enim nesciat Christum dei filium mortuum &amp; sepultum quidem,  
+          <lb ed="#Z" n="40"/>sed tertia die a mortuis esse exuscitatum, rediente in corpus illa ipsa anima, quae an 
+          <lb ed="#Z" n="41"/>te mortem animarat &amp; rexerat corpus? Quis nesciat Christum uero corpore &amp;  
+          <lb ed="#Z" n="42"/>sua ipsius rationali &amp; genuina anima ascendisse in coelos, ac consedisse in 
+          dexte<lb ed="#Z" n="43" break="no"/>ra patris, ut illuc quasi deposito pignore certissimo, toti orbi attestaretur, &amp; ani¬  
+          <lb ed="#Z" n="44"/>mas nostras proprias &amp; corpora nostra propria aliquando illuc fore 
+          transferen<lb ed="#Z" n="45" break="no"/>da. Quis nesciat tot mortuos ex mortuis in uitam reuocatos recepisse non nouas,  
+          <lb ed="#Z" n="46"/>sed ueteres illas suas animas? quod minime factum esset si morte corporea 
+          extin<lb ed="#Z" n="47" break="no"/>guerentur animae hominum.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e823">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Obijiciunt scripturam ipsam meminisse mortis anime. Fateor id quidem. Ani 
+          <!--542.xml-->
+          <pb ed="#Z" n="260-r"/>
+          <lb ed="#Z" n="1"/>ma enim hominis &amp; mortalis &amp; immortalis est, secundum quendam modum suum, 
+          <lb ed="#Z" n="2"/>Non enim omnimodo immortalis est, sicut deus, de quo dictum est, quia solus ha 
+          <lb ed="#Z" n="3"/>bet immortalitatem. Et quidem memorabilis est mors animae in scriptura 
+          sancta<lb ed="#Z" n="4" break="no"/>sed ea refertur ad conditionem non ad substantiam animae. Nam si uita animae 
+          <lb ed="#Z" n="5"/>deus est, certe mors animae est deo destitui &amp; sibijpsi relinqui. Siquidem uiuit 
+          ni<lb ed="#Z" n="6" break="no"/>hilo minus in essentia sua rationalis anima, sed cum misere uiuit, misera uita mors 
+          <lb ed="#Z" n="7"/>uere appellatur. Sed &amp; desperatio ipsissima animae mors est. Nam spe uiuimus 
+          <lb ed="#Z" n="8"/>Et Paulus : Viuo non iam ego, ait, sed uiuit in me Christus: ac uitam quam nunc 
+          <lb ed="#Z" n="9"/>uiuo in carne, per fidem uiuo filij dei : ergo fide destituti mortui sunt, fide donati 
+          <lb ed="#Z" n="10"/>uiuentes. S. Augustinus de Fide &amp; Symbolo cap. 10. Potest &amp; anima, ait, sicut cor 
+          <lb ed="#Z" n="11"/>ruptibilis propter morum uitia, ita etiam mortalis dici. Mors quippe animae est apo 
+          <lb ed="#Z" n="12"/>statare a deo, quod primum eius peccatum in paradyso sacris literis continetur. 
+          <lb ed="#Z" n="13"/>Et idem iterum lib, de Trinit. 14. cap. 4. Habet &amp; anima suam mortem, inquit, cum 
+          <lb ed="#Z" n="14"/>uita beata caret, quae uera animae uita dicenda est. Sed immortalis ideo nuncupa 
+          <lb ed="#Z" n="15"/>tur, quoniam qualicunque uita etiam si miserrima uiuit, nunquam desinit uiuere. 
+          <lb ed="#Z" n="16"/>Profitemur ergo ore libero animas hominum a corporibus separatas seu 
+          exem<lb ed="#Z" n="17" break="no"/>ptas non interire, sed immortales aeternum uiuere, fideles quidem in aeterna felici 
+          <lb ed="#Z" n="18"/>tate, infideles autem in aeterna condemnatione.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e872">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Id quod solidis aliquot scripturae testimonijs comprobare pergam, si illud mo 
+          <lb ed="#Z" n="20"/>nuero prius, testimonia scripturarum in hac caussa longe esse uiuidiora, quam ra 
+          <lb ed="#Z" n="21"/>tiones humanas e philosophia contextas. Petuntur enim testimonia ex ore ipsius 
+          <lb ed="#Z" n="22"/>uiui, &amp; in uita conseruantis dei, qui cum uerax sit, mentiri nescit, qui cum uitam  
+          <lb ed="#Z" n="23"/>largiatur &amp; uita sit, de uita omnium certissime testari potest. Neque dubium est co 
+          <lb ed="#Z" n="24"/>operari uerbo dei spiritum dei, a quo nisi tangantur corda hominum, nihil efficient 
+          <lb ed="#Z" n="25"/>in mortis periculo maxime &amp; in alijs tentationibus, quantumuis euidentes philo 
+          <lb ed="#Z" n="26"/>sophicae rationes. Carnei ergo &amp; animales sunt prorsus qui non erubescunt 
+          dice<lb ed="#Z" n="27" break="no"/>re scripturis duntaxat sibi non posse persuaderi animarum immortalitatem. Imo fir 
+          <lb ed="#Z" n="28"/>mum ac stabile in tentationibus nunquam erit, quod ex carne &amp; sanguine 
+          profe<lb ed="#Z" n="29" break="no"/>ctum fuerit. Subiiciemus itaque aliquot certa testimonia &amp; ea maxime clara.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e899">
+          <lb ed="#Z" n="30"/><pc type="indent"/> Dauid rex in orbe potentissimus &amp; felicissimus, unico uersu &amp; animarum  
+          <lb ed="#Z" n="31"/>immortalitatem &amp; corporum resurrectionem complexus dixit: Non derelinques 
+          <lb ed="#Z" n="32"/>domine, in inferno animam meam, neque dabis sanctum tuum uidere 
+          corruptio<lb ed="#Z" n="33" break="no"/>nem. Constat homo corpore &amp; anima. Corpus corrumpitur morte, &amp; redigitur 
+          <lb ed="#Z" n="34"/>in puluerem: sed ideo non peribit. Sicut enim corpus Christi sepultum non 
+          com<lb ed="#Z" n="35" break="no"/>putruit, sed tertia die resurrexit, ita in die iudicij excitabuntur &amp; corpora nostra 
+          <lb ed="#Z" n="36"/>&amp; uindicabuntur per Christum a corruptione. Anima uero nostra non demergi 
+          <lb ed="#Z" n="37"/>tur ad inferos. Sed sicut anima Christi ad corpus ex inferis redijt, &amp; in resumpto 
+          <lb ed="#Z" n="38"/>corpore in coelos ascendit: ita &amp; animae nostre uiuent per Christum, non morientur.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e922">
+          <lb ed="#Z" n="39"/><pc type="indent"/> Solomon filius Dauidis, regum &amp; omnium mortalium sapientissimus, uno es 
+          <lb ed="#Z" n="40"/>ipse uersu fata &amp; corporis &amp; animae exponens, dicit: Reuertetur puluis in terram 
+          <lb ed="#Z" n="41"/>icut fuit, &amp; spiritus redibit ad deum, qui dedit illum. Puluis appellatur at Solomo 
+          <lb ed="#Z" n="42"/>ne corpus humanum, quia a deo factum refertur in Mose, ex puluere terrae. Cor 
+          <lb ed="#Z" n="43"/>pus ergo redit in puluerem, computrescit enim &amp; resoluitur in id quod ante 
+          fue<lb ed="#Z" n="44" break="no"/>rat in diem usque iudicij, pronunciante domino: Puluis es &amp; in puluerem 
+          reuerte<lb ed="#Z" n="45" break="no"/>ris. Verum spiritus, id est, anima rationalis non interit cum corpore, non resolui 
+          <lb ed="#Z" n="46"/>tur in puluerem, quia non est sumpta de puluere, nec dissipatur in aerem, quia 
+          <lb ed="#Z" n="47"/>aere non constat, sed redit ad deum superstes a morte. Ideo autem ad deum redit,  
+          <lb ed="#Z" n="48"/>quia deus dedit animam, &amp; singulari modo hominem condidit ad similitudinem 
+          <!--543.xml-->
+          <pb ed="#Z" n="260-v"/>
+          <lb ed="#Z" n="1"/>&amp; imaginem suam, inspirans in faciem eius spiritum uitae, uitae inquam, id est 
+          ui<lb ed="#Z" n="2" break="no"/>talis potentiae, non spiritum mortis. Non potest ergo interire, quia immortalitatem 
+          <lb ed="#Z" n="3"/>accepit a deo, qui cum uita sit, uitalem spiritum quem condidit conseruare potest.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e958">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Dominus Iesus, uerus dei filius, uita &amp; resurrectio fidelium, in euangelio 
+          cla<lb ed="#Z" n="5" break="no"/>re dicit: Ne metuatis uobis ab his qui occidunt corpus, animam autem non possunt 
+          <lb ed="#Z" n="6"/>occidere: sed metuite magis illum, qui potest &amp; animam &amp; corpus perdere in 
+          ge<lb ed="#Z" n="7" break="no"/>henna. Si caeso corpore a tyrannis, anima non caeditur, manet ergo superstes ab ex- 
+          <lb ed="#Z" n="8"/>tincto corpore, atque ita certo manet, ut exuta corpore, propter perfidiam aeternum  
+          <lb ed="#Z" n="9"/>arsura a iustissimo deo coniiciatur in gehennam. Nam in eodem euangelio 
+          se<lb ed="#Z" n="10" break="no"/>rum dicit dominus: Qui uoluerit animam suam seruare, perdet eam, &amp; qui eam  
+          <lb ed="#Z" n="11"/>mea causa perdiderit, inueniet eam. Perdit autem animam suam, non is duntaxat,  
+          <lb ed="#Z" n="12"/>qui uoluptatibus mundi ipsam defraudat &amp; temperantissime uiuit, sed is quoque.  
+          <lb ed="#Z" n="13"/>qui se propter confessionem fidei trucidandum offert tyrannorum 
+          truculentissi<lb ed="#Z" n="14" break="no"/>mis manibus. Hic autem inuenit perditam animam, manent ergo superstites &amp;  
+          <lb ed="#Z" n="15"/>immortales animae hominum etiam post mortem corpoream.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e989">
+          <lb ed="#Z" n="16"/><pc type="indent"/> In euangelio secundum Ioannem dicit dominus: Amen amen dico uobis,  
+          <lb ed="#Z" n="17"/>qui sermonem meum audit &amp; credit ei qui misit me, habet uitam aeternam, &amp; in  
+          <lb ed="#Z" n="18"/>iudicium non ueniet, sed transiuit a morte in uitam. Habes in hisce domini uerbis 
+          <lb ed="#Z" n="19"/>mortem corpoream. At protinus ab hac testatur nos transire in uitam: superstites 
+          <lb ed="#Z" n="20"/>ergo manent a morte hominum animae. Nunc enim nihil loquitur de corporis re 
+          <lb ed="#Z" n="21"/>suscitatione &amp; salute, sed de animae uita post mortem.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1006">
+          <lb ed="#Z" n="22"/><pc type="indent"/> In eodem euangelio rursus dicit dominus: Amen amen dico uobis, si quis  
+          <lb ed="#Z" n="23"/>sermonem meum seruauerit, mortem non uidebit in aeternum. Caeterum constat 
+          <lb ed="#Z" n="24"/>omnibus hominibus constitutum esse semel mori, nimirum morte corporali: uiuit 
+          <lb ed="#Z" n="25"/>ergo anima a morte corporali. Necesse est enim hominem fidelem non uidere uel 
+          <lb ed="#Z" n="26"/>non experiri mortem: nisi is falsum dixerit qui sacramento quod dixit, affirmauit. 
+          <lb ed="#Z" n="27"/>Vtrobique enim iusiurandum adhibuit, dicens: Amen dico uobis, quo minus 
+          du<lb ed="#Z" n="28" break="no"/>bitaremus de animarum immortalitate. Plurima extant eaque euidentissima in 
+          eo<lb ed="#Z" n="29" break="no"/>dem euangelio testimonia Christi filij dei, ut cap. 6. 10. &amp; 11. quibus coniungemus 
+          <lb ed="#Z" n="30"/>modo unum &amp; alterum ex scriptis beatissimorum Christi apostolorum.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1029">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Sanctus Petrus loquens de animabus patrum iam olim defunctorum, dicit  
+          <lb ed="#Z" n="32"/>mortuis praedicatum esse euangelium, ut iudicentur quidem sicuti alij homines 
+          <lb ed="#Z" n="33"/>carne, uiuant autem iuxta deum spiritu. Spiritus sunt animae beatorum patrum,  
+          <lb ed="#Z" n="34"/>quorum corpora iamdudum sepulta expectant uniuersalem generalis illius sina 
+          <lb ed="#Z" n="35"/>lisque iudicij sententiam, id est, ut caro eorum resuscitetur, &amp; simul cum alijs 
+          ho<lb ed="#Z" n="36" break="no"/>minibus iudicetur in ultima illa die : interea uero animae uiuunt apud deum,  
+          <lb ed="#Z" n="37"/>Superstites ergo sunt animae hominum, etiam iamdudum putrefactis corpori- 
+          <lb ed="#Z" n="38"/>bus ipsorum.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1050">
+          <lb ed="#Z" n="39"/><pc type="indent"/> S. Paulus in epistola ad Timotheum, dicit manifeste uitam et immortalitatem  
+          <lb ed="#Z" n="40"/>per Christum esse reparatam. Idem ubique animarum immortalitatem tam clare as 
+          <lb ed="#Z" n="41"/>seuerat, ut caecus sit qui non uideat.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1060">
+          <lb ed="#Z" n="42"/><pc type="indent"/> S. Ioannes apostolus &amp; euangelista uidet in coelis sub ara, id est, sub patrocinio 
+          <lb ed="#Z" n="43"/>Christi, qui est hostia &amp; propitiatio pro peccatis mundi, latitantes animas 
+          uiuen<lb ed="#Z" n="44" break="no"/>tes atque clamantes: Vsquequo domine non uindicas sanguinem nostrum? Videt  
+          <lb ed="#Z" n="45"/>easdem indui uestibus candidis, donarique requie sempiterna. At erant istae animae 
+          <lb ed="#Z" n="46"/>martyrum Christi animae, quorum corpora caesa interierant in terra sub tyrannis  
+          <lb ed="#Z" n="47"/>&amp; persequutoribus fidei Christianae, immortales sunt itaque animae hominum, 
+          <lb ed="#Z" n="48"/>Ideoque uerissima adeoque indubitata sunt quae leguntur in libro Sapientiae hi 
+          <!--544.xml-->
+          <pb ed="#Z" n="261-r"/>
+          <lb ed="#Z" n="1"/>prodita uerbis: lustorum animae in manu dei sunt, &amp; non tanget illos tormentum 
+          <lb ed="#Z" n="2"/>mortis. Insipientium iudicio mori uidentur: calamitosus existimatur exitus eorum 
+          <lb ed="#Z" n="3"/>&amp; discessus a nobis exitialis, cum illi fruantur felicitate. Etenim dum cruciantur 
+          <lb ed="#Z" n="4"/>in conspectu hominum spem alunt plenam immortalitatis, &amp; leuiter uexati am¬  
+          <lb ed="#Z" n="5"/>pla beneficia consequentur. Quoniam deus tentauit eos &amp; se dignos comperit. 
+          <lb ed="#Z" n="6"/>Tanquam aurum in fornace probauit eos, &amp; ut solidum sacrificium excepit. 
+          Ita<lb ed="#Z" n="7" break="no"/>que tempore uisitationis suae effulgebunt, &amp; ut in stipulis scintillae discurrent. 
+          lu<lb ed="#Z" n="8" break="no"/>dicabunt gentes, dominabunturque populis, &amp; regnabit in eis dominus in 
+          perpe<lb ed="#Z" n="9" break="no"/>tuum. Verissime ergo &amp; secundum scripturam canonicam pronunciant Defini¬  
+          <lb ed="#Z" n="10"/>tiones ecclesiasticae 16. cap. Solum hominem credimus habere animam 
+          substanti<lb ed="#Z" n="11" break="no"/>uam, quae exuta corpore uiuit, &amp; sensus suos atque ingenium uiuaciter tenet. Non 
+          <lb ed="#Z" n="12"/>cum corpore moritur, sicut Aratus asserit: neque post modicum interuallum, sicut 
+          <lb ed="#Z" n="13"/>&amp;enon dicit: quia substantialiter uiuit. Animalium uero animae non sunt substan 
+          <lb ed="#Z" n="14"/>tiuae, sed cum carne ipsa carnis uiuacitate nascuntur, &amp; cum carnis morte finiun 
+          <lb ed="#Z" n="15"/>tur moriunturque.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1116">
+          <lb ed="#Z" n="16"/><pc type="indent"/> Veritas porro illa de animarum immortalitate ueluti lege naturae inscripta est 
+          <lb ed="#Z" n="17"/>mentibus omnium hominum. Vnde nihil mirum quod sapientissimi quique inter 
+          <lb ed="#Z" n="18"/>gentes nunquam sustinuerunt animam appellari mortalem. Consensus enim om 
+          <lb ed="#Z" n="19"/>nium, qui naturae uox putatur, praecipue maiorum, declarat animas immortales.  
+          <lb ed="#Z" n="20"/>ldque etiam asserit M. Tullius: Vt, inquit, deos esse natura opinamur, qualesque sint 
+          <lb ed="#Z" n="21"/>ratione cognoscimus, sic permanere animos arbitramur, consensu nationum om- 
+          <lb ed="#Z" n="22"/>nium. Omnes itaque prisci, &amp; omnes qui eos insequuti sunt, animos aeternos 
+          dixe<lb ed="#Z" n="23" break="no"/>runt, Trismegistus, Musaeus. Orpheus. Homerus, Pindarus, Pherecydesque Syrus 
+          <lb ed="#Z" n="24"/>Pythagorae praeceptor, &amp; huius discipulus Socrates. Ipse Plato, qui ut Pythagorea 
+          <lb ed="#Z" n="25"/>disceret, in Italiam nauigauit, de animarum immortalitate non sensit idem modo 
+          <lb ed="#Z" n="26"/>quod Pythagoras, sed rationes etiam attulit. Hae rationes, teste Tullio, plures sunt,  
+          <lb ed="#Z" n="27"/>ut qui legat librum eius, non uideatur aliquid desiderare amplius, Seneca tam cla 
+          <lb ed="#Z" n="28"/>re animorum immortalitatem asserit, ut nihil clarius. Nam idem fecit Epictetus 
+          <lb ed="#Z" n="29"/>insignis philosophus Senecae synchronos. Si qui ergo supersunt homines leues,  
+          <lb ed="#Z" n="30"/>quibus dubia esse uidetur animarum immortalitas, aut qui hanc prorsus negant,  
+          <lb ed="#Z" n="31"/>hi certe hominum nomine indigni sunt. Nam pestes sunt reipublicae &amp; bestiae, di 
+          <lb ed="#Z" n="32"/>gni qui hominum explodantur abdicanturque consortio. Freno enim caret, 
+          pudo<lb ed="#Z" n="33" break="no"/>remque omnem abstersit, &amp; ad omne nephas patrandum instructissimus est, 
+          quis<lb ed="#Z" n="34" break="no"/>quis credit animam hominis esse mortalem.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1162">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Demonstraui separatas per mortem a corporibus animas hominum non 
+          in<lb ed="#Z" n="36" break="no"/>terire sed uiuere superstites, restat ut porro doceam ubinam destitutae corporis do 
+          <lb ed="#Z" n="37"/>micilio agant aut uersentur. Dum coniunctae essent corporibus his ceu domici 
+          <lb ed="#Z" n="38"/>lijs suis utebantur, ita ut quamuis dicantur loco non circumscribi, non errarint ta 
+          <lb ed="#Z" n="39"/>men extra corpora sua, uerum in ipsis ceu ergastulis ad dissolutionem usque fue 
+          <lb ed="#Z" n="40"/>rint uelut conclusae. lllae ipsae ergo a corporibus iam dissociatae, cum sensus suos,  
+          <lb ed="#Z" n="41"/>ingenium suum, totamque substantiam suam uiuaciter retineant, etsi ne nunc 
+          qui<lb ed="#Z" n="42" break="no"/>dem loco circumscribi dicantur, non diffluunt tamen aut dissoluuntur, nuspiam  
+          <lb ed="#Z" n="43"/>existentes, sed compactae in sua essentia alicubi sunt iterum, habentes non noua 
+          <lb ed="#Z" n="44"/>quidem corporadiberae enim sunt ad iudicium usque, quo denuo corporibus 
+          con<lb ed="#Z" n="45" break="no"/>iungentur) sed tamen certa sibi a deo parata in quibus degant domicilia. Per me 
+          <lb ed="#Z" n="46"/>sane licet alij perquam acute &amp; subtiliter disputent, quomodo spiritus loco 
+          conti<lb ed="#Z" n="47" break="no"/>neantur, uel non contineantur : ego simpliciter cum scriptura assero, animas a cor- 
+          <lb ed="#Z" n="48"/>poribus separatas colligi uel in ipsum coelum, uel demergi in tartara, atque eos ibi sic 
+          <!--545.xml-->
+          <pb ed="#Z" n="261-v"/>
+          <lb ed="#Z" n="1"/>uersari, ut cum hic sint alibi non sint. Nam dominus in euangelio dicit significan 
+          <lb ed="#Z" n="2"/>tissime Lazari mendici animam delatam esse in sinum Abrahe, diuitis autem epu 
+          <lb ed="#Z" n="3"/>lonis, deiectam in tartara. Quinimo sequitur protinus in historia. Inter nos &amp; uos 
+          <lb ed="#Z" n="4"/>(colloquuntur autem animae beatae &amp; infelices) hiatus ingens firmatus est, ut hi 
+          <lb ed="#Z" n="5"/> 
+          <!-- erroneous line -->
+          <lb ed="#Z" n="6"/>qui uolunt hinc transire ad uos, non possint, neque inde huc transcendere. Iam &amp; 
+          <lb ed="#Z" n="7"/>S. Paulus dissolui cupit &amp; esse cum Christo. Dissoluimur morte: migrante enim ani¬  
+          <lb ed="#Z" n="8"/>ma dissoluitur &amp; concidit corpus: anima ad Christum euolat. Christum uero 
+          in<lb ed="#Z" n="9" break="no"/>dicat nobis scriptura in coelis ad dexteram patris. Coelum autem ubi sit, nemo 
+          ne<lb ed="#Z" n="10" break="no"/>scit. Et nos alias ea de re copiosius disputauimus. In euangelio secundum Ioannem 
+          <lb ed="#Z" n="11"/>ipse dominus animarum contubernium animabus a corporibus separatis 
+          para<lb ed="#Z" n="12" break="no"/>tum, &amp; locum appellat &amp; mansionem seu habitationem: his insuper adiectis 
+          uer<lb ed="#Z" n="13" break="no"/>bis: Assumam uos ad meipsum, ut ubi sum ego, &amp; uos sitis. Ideoque uidet beatus lo 
+          <lb ed="#Z" n="14"/>annes in coelo animas sub ara uel patrocinio Christi degentes atque 
+          conquiescen<lb ed="#Z" n="15" break="no"/>tes. llluc enim excedentes ex corporibus ad semetipsum collegerat. Huc pertinet 
+          <lb ed="#Z" n="16"/>elegans &amp; mire huic negotio accomodus beati Pauli apostoli locus, his uerbis in 
+          <lb ed="#Z" n="17"/>2. ad Corinth, conscriptus: Scimus quod si terrenum nostrum domicilium 
+          taber<lb ed="#Z" n="18" break="no"/>naculi destruatur, aedificationem ex deo habemus, domum non manufactam 
+          aeter<lb ed="#Z" n="19" break="no"/>nam in coelis. Et reliqua. En dum corporibus nostris fuerunt coniunctae animae 
+          <lb ed="#Z" n="20"/>nostrae, haec ceu domos suas inhabitarant, deiecta autem domo corruptibili aliam  
+          <lb ed="#Z" n="21"/>animae meliorem &amp; diuturniorem extruxit deus, ipsum, inquam, coelum, in quod 
+          <lb ed="#Z" n="22"/>excedentes ex corporibus benigne recipit. Nam corpus ipsum quale nunc habe 
+          <lb ed="#Z" n="23"/>mus appellat domicilium tabernaculi. Sicut enim tabernacula leui materia nec 
+          <lb ed="#Z" n="24"/>solido fundamento ad breue tempus extruuntur, deinde paulo post diruuntur aut 
+          <lb ed="#Z" n="25"/>sponte cadunt: ita corpus mortale datum est hominibus ueluti caducum 
+          tugu<lb ed="#Z" n="26" break="no"/>rium, quod paucis diebus incolant, mox autem migrent. Simili allegoria usus est 
+          <lb ed="#Z" n="27"/>&amp; S. Petrus 2. Petri1. Huic opponit aedificium durationis perpetuae, ipsum, 
+          in<lb ed="#Z" n="28" break="no"/>quam, coelum. Cum enim dixisset nos habere aedificationem ex deo, per 
+          interpre<lb ed="#Z" n="29" break="no"/>tationem subiungit: Domum non manufactam. Et adhuc clarius: Aeternam in 
+          coe<lb ed="#Z" n="30" break="no"/>lis. Nec impedit aut alium sensum suppetit quod mox sequitur: Desideramus do¬  
+          <lb ed="#Z" n="31"/>micilium nostrum quod e coelis est superinduere. Nam e coelis perinde sonat ac si 
+          <lb ed="#Z" n="32"/>tu dicas coeleste : domicilium ergo animae coeleste uel ipsum coelum est, locus, 
+          in<lb ed="#Z" n="33" break="no"/>quam, deputatus beatis spiritibus. Enimuero habitabit in coelis anima fidelis ad 
+          <lb ed="#Z" n="34"/>eum usque diem, quo iudicabit dominus totum orbem iudicio illo suo uniuersali: 
+          <lb ed="#Z" n="35"/>tunc demum redibit ad corpus resuscitatum, ut post iudicium totus homo corpo 
+          <lb ed="#Z" n="36"/>re &amp; anima apud deum aeternum uiuat. Sic enim testatur Paulus, Ipse dominus 
+          <lb ed="#Z" n="37"/>cum hortatu ac uoce archangeli ac tuba dei descendet de coelo, &amp; mortui in Chri 
+          <lb ed="#Z" n="38"/>sto resurgent primum: deinde nos qui uiuemus, qui reliqui erimus, simul cum illis 
+          <lb ed="#Z" n="39"/>rapiemur in nubibus in occursum domini in aera, &amp; sic semper cum domino 
+          eri<lb ed="#Z" n="40" break="no"/>mus, in coelis nimirum quae supra nos sunt, ubi nubes conspiciuntur. Proinde 
+          o<lb ed="#Z" n="41" break="no"/>missis uanis speculationibus disputationibusque curiosis, credamus domicilium 
+          pa<lb ed="#Z" n="42" break="no"/>ratum a domino separatis a corporibus animis in coelo, in quod recipiantur 
+          fide<lb ed="#Z" n="43" break="no"/>les, rursus paratum esse ignem aeternum, in quem coniiciantur omnium 
+          infide<lb ed="#Z" n="44" break="no"/>lium animae.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1298">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Docuimus Coelum esse sedem uel habitationem separatis a corporibus 
+          anima<lb ed="#Z" n="46" break="no"/>t bus recipiendis a deo paratam, reliquum est ut ostendamus quomodo &amp; quando 
+          <lb ed="#Z" n="47"/>i illuc a morte transferantur. De modo non possum aliud dicere quam ipsum esse 
+          <lb ed="#Z" n="48"/>deo plene cognitum, nobis uero quantum satis uidebatur in scripturis 
+          adumbra<lb ed="#Z" n="49" break="no"/>tum, nempe quod per angelos animas subducentes motu fiat celerrimo. In euan¬ 
+          <!--546.xml-->
+          <pb ed="#Z" n="262-r"/>
+          <lb ed="#Z" n="1"/>gelio enim dixit dominus animam Lazari ab angelis deportatam in sinum 
+          Abra<lb ed="#Z" n="2" break="no"/>hae. De qua re &amp; superius diximus, cum concionaremur de Angelis bonis. 
+          Qua<lb ed="#Z" n="3" break="no"/>lis uero motus ille sit, naturalis an supernaturalis, scrutari nolo. Credo deum 
+          per<lb ed="#Z" n="4" break="no"/>ficere ac praestare quod promisit. Promittens autem, dixit: De morte transiuit ad 
+          <lb ed="#Z" n="5"/>uitam, Rursus Latroni dixit: Hodie eris mecum in paradyso: ueluti momento 
+          to<lb ed="#Z" n="6" break="no"/>tam illam delationem coprehendens. Hic illud quoque necessario adiincimus, 
+          bene<lb ed="#Z" n="7" break="no"/>ficio Christi deferendum esse quod in coelos rapimur. Ipse enim est ostium &amp; uia.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1332">
+          <lb ed="#Z" n="8"/><pc type="indent"/> Quando autem transferantur animae in coelos uel deiiciantur in inferos, 
+          quae<lb ed="#Z" n="9" break="no"/>stio uidetur hodie non tantum utilis, sed etiam modis omnibus necessaria qua ex 
+          <lb ed="#Z" n="10"/>cutiatur. Etenim sunt nostro saeculo male feriati homines, qui puram huius caussae  
+          <lb ed="#Z" n="11"/>simplicitatem corruperunt. Inuenias enim dicentes animas e corpore migrantes 
+          <lb ed="#Z" n="12"/>non recta tendere in coelum, sed ueluti lethargo correptas, in ultimam usque diem  
+          <lb ed="#Z" n="13"/>iudicij dormire. Inuenias alios contendentes animas non nisi exactissime 
+          purga<lb ed="#Z" n="14" break="no"/>tas igne lustratorio, quem ipsi appellant purgatorium, euolare in sedes beatas. 
+          <lb ed="#Z" n="15"/>Quasi intercipiantur at piratis &amp; praedonibus medio in itinere, coniicianturque in 
+          <lb ed="#Z" n="16"/>tormenta, donec uel ipsae satisfaciant, uel alij pro eis uelut aes alienum contractum 
+          <lb ed="#Z" n="17"/>exoluant. Ego utrunque nego &amp; pernego: assero autem animas non dormire, nec 
+          <lb ed="#Z" n="18"/>a morte corporea tormentis lustrari ullis, sed uigilantes, uiuentes, &amp; a supplicijs 
+          <lb ed="#Z" n="19"/>quibusuis liberatas, a morte corporea protinus &amp; in puncto quidem, uel in coelos 
+          <lb ed="#Z" n="20"/>deportari, uel demergi in tartara.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1364">
+          <lb ed="#Z" n="21"/><pc type="indent"/> Dormitantij uero nihil quod pro lethargo suo afferant, habent, nisi quod scri- 
+          <lb ed="#Z" n="22"/>ptura non raro fata describens sanctorum meminit somni &amp; obdormitionis: Ob¬  
+          <lb ed="#Z" n="23"/>dormiuit &amp; additus est ad patres suos. Et Paulus dixit: Nolo uos ignorare de dor- 
+          <lb ed="#Z" n="24"/>mientibus, cum loqueretur de morientibus. Caeterum sicut animae coniunctae 
+          ad<lb ed="#Z" n="25" break="no"/>huc caduco huic corpori nunquam dormierunt neque dormire potuerunt: ita 
+          libe<lb ed="#Z" n="26" break="no"/>ratae ab onere corporis multo minus dormire credendae sunt. Ad corpus itaque 
+          re<lb ed="#Z" n="27" break="no"/>fertur obdormitio. Nam obdormit in domino quicumque in uera fide moritur. Sicut 
+          <lb ed="#Z" n="28"/>autem dormientes recreatis somno artubus mox euigilant, surgunt &amp; operantur. 
+          <lb ed="#Z" n="29"/>lta morte non extinguitur corpus prorsus ne aliquando reuiuiscat, sed recipitur 
+          <lb ed="#Z" n="30"/>nunc quidem in quietem, ad iudicij uero diem rursus resurgit, &amp; uiuit: ac propte 
+          <lb ed="#Z" n="31"/>rea obdormire non mori dicuntur in scripturis sancti, ut mysterium 
+          resurrectio<lb ed="#Z" n="32" break="no"/>nis carnis nostrae significetur. Id quod non uident crassi isti homines, unde animae 
+          <lb ed="#Z" n="33"/>tribuunt quod corporis proprium est. Alia argumenta quae ad stabiliendam uaesa 
+          <lb ed="#Z" n="34"/>niam suam proserunt, indigna sunt quae recenseantur. Vel enim scripturas uiolen 
+          <lb ed="#Z" n="35"/>ter a natiuo sensu detorquent, uel corrupta ratiocinatione falsa ex falsis colligunt,
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1400">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Qui uero opinantur animas a corpore migrantes non recta &amp; euestigio 
+          ten<lb ed="#Z" n="37" break="no"/>dere in coelum, sed abripi itinere medio in ignem illum purgatorium, in quo 
+          lu<lb ed="#Z" n="38" break="no"/>strentur a sordibus peccatorum in carne contractis, deinde purificatas in 
+          conspe<lb ed="#Z" n="39" break="no"/>ctum sanctissimi dei ab angelis deferri, dormitantijs nihil tolerabilius hallucinan 
+          <lb ed="#Z" n="40"/>tur. Vel enim purgantur animae igne illo purgatorio a peccatorum sordibus, uel  
+          <lb ed="#Z" n="41"/>abluuntur aut lustrantur dolore aut cruciatu tormentorum quae ibi perserunt. Si 
+          <lb ed="#Z" n="42"/>uirtute illius ignis purgantur peccata, consequens est, non solo filij dei sanguine 
+          <lb ed="#Z" n="43"/>peccatores sanctificari. Quibus uero scripturis approbabunt nobis uim illam pur 
+          <lb ed="#Z" n="44"/>gandi datam esse igni? An uero mutauit deus consilium suum &amp; ignem hunc pro 
+          <lb ed="#Z" n="45"/>Christo sanctificatorem instituit: Proh pudor. Si uero propter nostra tormenta re 
+          <lb ed="#Z" n="46"/>mittuntur peccata, ergo non propter crucem &amp; passionem Christi duntaxat 
+          pu<lb ed="#Z" n="47" break="no"/>rificamur. Doceant illi nos ex scriptura id meriti concessum esse a deo nostrae 
+          pas<lb ed="#Z" n="48" break="no"/>sioni. Caeterum solo Christi sanguine &amp; passione sanctificantur omnes quotquot 
+          <!--547.xml-->
+          <pb ed="#Z" n="262-v"/>
+          <lb ed="#Z" n="1"/>sanctificantur, ergo purgatorium est commentum diaboli impium, quod Christi 
+          <lb ed="#Z" n="2"/>crucem ac meritum obscurat, imo &amp; euacuat. Quid enim illis est purgatorium,.  
+          <lb ed="#Z" n="3"/>nisi satisfactio pro peccatis, facta ab animabus separatis a corporibus? Mouetur 
+          <lb ed="#Z" n="4"/>in euangelio Ioannis quaestio a discipulis beati Baptistae de purificatione 
+          anima<lb ed="#Z" n="5" break="no"/>rum. Ac Baptista demonstrat fideles fide per Christum purificari: id quod &amp; 
+          san<lb ed="#Z" n="6" break="no"/>cto baptismo attestatus creditur. Praestantissimi denique apostoli diserte 
+          testifican<lb ed="#Z" n="7" break="no"/>tur solo Christi sanguine &amp; passione unica, &amp; merito eius absolutiss, omnes 
+          fide<lb ed="#Z" n="8" break="no"/>les mundari. Nam Petrus qui in Actis dixit: Non est in alio quoquam salus. Nec 
+          <lb ed="#Z" n="9"/>enim aliud nomen est datum inter homines in quo oporteat nos saluos fieri: idem, 
+          <lb ed="#Z" n="10"/>inquam, scripsit in canonica sua priore: Scitis uos redemptos esse non caducis 
+          re<lb ed="#Z" n="11" break="no"/>bus, uelut argento &amp; auro, sed pretioso sanguine agni immaculati. Ioannes quoque 
+          <lb ed="#Z" n="12"/>apostolus: Et sanguis, inquit, Iesu Christi filij dei emundat nos ab omni 
+          peccato<lb ed="#Z" n="13" break="no"/>Et idem iterum : Christus dilexit nos, &amp; lauit nos a peccatis nostris per sanguinem 
+          <lb ed="#Z" n="14"/>eius. Paulus uero ad Ephesios &amp; ad Titum demonstrat nos solo filij dei sanguine 
+          <lb ed="#Z" n="15"/>purificari. Ad Hebraeos: Per semetipsum, ait, purgauit peccata nostra, &amp; consedit 
+          <lb ed="#Z" n="16"/>in dextera dei in excelsis. Per semetipsum significanter dixit, ut alia omnia 
+          exclu<lb ed="#Z" n="17" break="no"/>deret. Nam alibi sic pronunciauit? Si ex lege est iustitia, ergo Christus frustra mor 
+          <lb ed="#Z" n="18"/>tuus est. Ad eundem enim modum argumentamur &amp; nos: Si igni purgatorio 
+          mun<lb ed="#Z" n="19" break="no"/>damur, ergo Christus frustra fudit sanguinem purificandis nobis. Quid enim opus 
+          <lb ed="#Z" n="20"/>erat ipsum supplicio affici grauissimo, si igne potuimus lustrari purgatorio? 
+          Prae<lb ed="#Z" n="21" break="no"/>terea uniuersa scriptura docet nos Christum esse satisfactionem &amp; propitiatio¬  
+          <lb ed="#Z" n="22"/>nem nostram unicam. Id quod alijs in locis copiose ostendimus. Iccirco animae non 
+          <lb ed="#Z" n="23"/>satisfaciunt in purgatorio, nisi Christum superuacaneum hominibus esse 
+          fate<lb ed="#Z" n="24" break="no"/>ri uelimus.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1488">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Suppingunt isti uim purgandi purgatorio igni datam esse ex gratia uel 
+          sangui<lb ed="#Z" n="26" break="no"/>ne &amp; merito Christi, purgareque hunc non sua uirtute, sed filij dei potentia. Caeterum 
+          <lb ed="#Z" n="27"/>confinxerunt hoc quoque nequissime. Nam scriptura ubique remittit (quod &amp; 
+          mo<lb ed="#Z" n="28" break="no"/>do diximus) ad filium dei &amp; pretium sanguinis &amp; emundationis eius, cuius parti 
+          <lb ed="#Z" n="29"/>cipes nos fieri docet in hoc saeculo uiuentes per fidem &amp; spiritum sanctum : 
+          pur<lb ed="#Z" n="30" break="no"/>gatorij autem ne uerbo quidem uspiam meminit: nuspiam dicit in alio saeculo nos 
+          <lb ed="#Z" n="31"/>purgari gratia dei. Suffurantur ergo isti gloriam filio dei propriam, &amp; communi¬- 
+          <lb ed="#Z" n="32"/>cant igni prorsus fictitio &amp; blasphemo, denique aliud tempus gratiae constituunt ex- 
+          <lb ed="#Z" n="33"/>tra hoc saeculum, quod a scripturis alienum est prorsus. Clamauit enim in 
+          euan<lb ed="#Z" n="34" break="no"/>gelio dominus noster: Me oportet operari opera eius qui me misit, donec dies est, 
+          <lb ed="#Z" n="35"/>Venit nox quando nemo potest operari. Et Paulus: Operemur bonum, inquit, id 
+          <lb ed="#Z" n="36"/>est, bencfici &amp; liberales simus in pauperes, dum tempus habemus. Id quod 
+          sum<lb ed="#Z" n="37" break="no"/>psisse uidetur ex Ecclesiasta Solomonis, dicentis: Cum nubes impletae fuerint, plu 
+          <lb ed="#Z" n="38"/>uiam effundunt in terram: &amp; cum arbor ceciderit uel ad austrum, uel ad 
+          aquilo<lb ed="#Z" n="39" break="no"/>nem, in quemcunque locum ceciderit, in eo permanebit. Allegorijs enim utitur 
+          dua<lb ed="#Z" n="40" break="no"/>bus, quibus diuites liberalitatem docet. Prima sumitur at nubibus. Nubes ex terra 
+          <lb ed="#Z" n="41"/>colligunt uapores, qui condensati mox ceu e spongia exprimuntur effundunturque 
+          <lb ed="#Z" n="42"/>in terram, ipsam rigantes. Idipsum faciant diuites, conquisitas ex hominibus opes 
+          <lb ed="#Z" n="43"/>in homines iterum spargentes, Secunda sumitur ab arboribus, quae excisae in ijs 
+          <lb ed="#Z" n="44"/>locis manent in quos cadunt. Monet ergo Sapiens, opportune faciamus quod 
+          fa<lb ed="#Z" n="45" break="no"/>cturi sumus, ubi enim hinc excesserimus nullum esse locum poenitentiae. Et in 
+          e<lb ed="#Z" n="46" break="no"/>uangelio arbor non raro ponitur pro homine, ubi &amp; dextrum ponitur pro loco 
+          <lb ed="#Z" n="47"/>beato, sinistrum pro loco damnationis. Dicit ergo: Vbi mortuus fueris, in 
+          dam<lb ed="#Z" n="48" break="no"/>natione uel beatitudine semper manebis. Diuinis consonant humana. S. Cypria¬ 
+          <!--548.xml-->
+          <pb ed="#Z" n="263-r"/>
+          <lb ed="#Z" n="1"/>nus enim contra Demetrianum dixit: Quando isthinc excessum fuerit, nullus iam  
+          <lb ed="#Z" n="2"/>locus poenitentiae est, nullus satisfactionis effectus. Hic uita aut amittitur aut 
+          te<lb ed="#Z" n="3" break="no"/>netur. Hic salutiaeternae, cultu dei, &amp; fructu fidei prouidetur, &amp;c.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1555">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Obijciunt rursus purgari quidem animas a corpore decedentes sanguine filij 
+          <lb ed="#Z" n="5"/>dei, sed non plene, remanere enim aliquid sordium in purgatorio eluendarum,  
+          <lb ed="#Z" n="6"/>Discedere enim illas non plena fide ex hoc saeculo, &amp; iccirco non prorsus bonas 
+          <lb ed="#Z" n="7"/>rursus cum aliquid eis sit fidei, non esse prorsus malas: &amp; quoniam non sint bonae 
+          <lb ed="#Z" n="8"/>prorsus, incoelum ingredi non posse : rursus cum non omnino pessimae sint, non 
+          <lb ed="#Z" n="9"/>posse ipsas damnari, itaque relinqui locum medium in quo ad plenum 
+          excoquan<lb ed="#Z" n="10" break="no"/>tur, &amp; demum purificatae sistantur conspectui dei. Ceterum fingunt isti pro more 
+          <lb ed="#Z" n="11"/>suo quod uolunt. Nos uero scripturis sanctis demonstrauimus, solo sanguine filij 
+          <lb ed="#Z" n="12"/>dei per fidem non per purgatorium purgari animas fidelium: ostendamn porro con 
+          <lb ed="#Z" n="13"/>sequentibus etiam ad plenum, id est, absolutissime unica Christi hostia purifcata 
+          <lb ed="#Z" n="14"/>esse omnium hominum peccata, praeterea gratia dei in sanguine Christi condonari 
+          <lb ed="#Z" n="15"/>in articulo mortis, quicquid infirmitatis &amp; reliquiarum peccati remanet in 
+          dece<lb ed="#Z" n="16" break="no"/>dentibus a corpore fidelium animabus. Dominus enim in euangelio dicit.: Qui lo  
+          <lb ed="#Z" n="17"/>tus est non opus habet nisi ut pedes lauet, sed est mundus totus. En totus, inquit,  
+          <lb ed="#Z" n="18"/>mundus est, qui lotus est gratia Christi, sic ut coinquinatio pedum, infirmitas, 
+          in<lb ed="#Z" n="19" break="no"/>quam, &amp; imperfectio remanens post regenerationem, non possit eum redigere 
+          <lb ed="#Z" n="20"/>in numerum impurorum. Nam dominus iterum in euangelio dicit: Ego 
+          sancti<lb ed="#Z" n="21" break="no"/>fico meipsum pro eis, ut sint &amp; ipsi sanctificati per ueritate. Tradidit semetipsum 
+          <lb ed="#Z" n="22"/>dominus in hostiam pro peccatis nostris, ut nos sanctificaremur, id est, 
+          purgare<lb ed="#Z" n="23" break="no"/>mur at peccatis uere, id est, plene &amp; perfectissime. Paulus enim dixit: Vnica 
+          obla<lb ed="#Z" n="24" break="no"/>tione perfectos effecit in perpetuum eos qui sanctificantur. Obseruate quaeso 
+          a<lb ed="#Z" n="25" break="no"/>postolica uerba: Christus unica, en unica dicit oblatione, perfecte sanctificauit 
+          o<lb ed="#Z" n="26" break="no"/>mnes quotquot sanctificantur, haeredesque fiunt uitae aeterne. Hinc nos colligimus: 
+          <lb ed="#Z" n="27"/>Si unica Christi hostia, semel pro nobis oblata, purificantur omnes animae, &amp; 
+          per<lb ed="#Z" n="28" break="no"/>fecte quidem purificantur, ita ut nihil desit purificationi, quid obsecro inuenit pur 
+          <lb ed="#Z" n="29"/>gatorium quod purificet? Figmentum est ergo impudens diraque blasphemia con- 
+          <lb ed="#Z" n="30"/>tra meritum purificationis Christi Iesu filij dei, Resarcit hic in hoc adhuc saeculo 
+          <lb ed="#Z" n="31"/>sua gratia si quid iam decedenti animae diminutum aut deesse uidetur. Impia uox 
+          <lb ed="#Z" n="32"/>est &amp; indigna quae audiatur inter Christianos populos, nostra passione in 
+          purga<lb ed="#Z" n="33" break="no"/>torio expleri quod nondum plene expiatum est sanguine &amp; passione 
+          Christi<lb ed="#Z" n="34" break="no"/>Quasi uero passio nostra, filij dei passione praestantior sit efficaciorque. Obijciunt 
+          <lb ed="#Z" n="35"/>isti nobis fidei imbecillitatem in morientibus : nos uicissim illis opponimus dei mi 
+          <lb ed="#Z" n="36"/>sericordiam suos fideles plenissime absoluentem. Pater lunatici euangelicus 
+          au<lb ed="#Z" n="37" break="no"/>xilium postulans a domino, audit: Si potes credere ( me uidelicet filium tuum 
+          sa<lb ed="#Z" n="38" break="no"/>nare posse) omnia possibilia sunt credenti. Et quamuis sentiret hic fidem suam 
+          <lb ed="#Z" n="39"/>non esse omnino absolutissimam, sed plurimum superesse imbecillitatis, diuinum  
+          <lb ed="#Z" n="40"/>tamen auxilium infirmitate eius non impediebatur. Quia enim supplex se totum 
+          <lb ed="#Z" n="41"/>coniiciebat in misericordiam domini, obsecrans &amp; dicens: Credo domine, 
+          succur<lb ed="#Z" n="42" break="no"/>re incredulitati meae, succurrit dominus ilico, &amp; citra dilationem sanauit puerum 
+          <lb ed="#Z" n="43"/>eius. Ita dubium non est, dominum clementissimum fidelibus suis quibus 
+          ue<lb ed="#Z" n="44" break="no"/>niam promisit plenissimam, in hora mortis agnoscentibus infirmitatem, ideoque  
+          <lb ed="#Z" n="45"/>&amp; implorantibus misericordiam &amp; ueniam, non deesse, sed egredientem iam  
+          <lb ed="#Z" n="46"/>animam mox perfecte spiritu suo propter Christum sanctificare, &amp; omni 
+          gene<lb ed="#Z" n="47" break="no"/>re charismatum ornare, ut uere purgata ab omnibus peccatorum sordibus euolet,  
+          <lb ed="#Z" n="48"/>mereaturque in conspectu dei apparere. Hoc uero morientibus inculcandum fuerat. 
+          <!--549.xml-->
+          <pb ed="#Z" n="263-v"/>
+          <lb ed="#Z" n="1"/>Extant enim amplissimae dei promisiones. Extant multorum sanctorum morien 
+          <lb ed="#Z" n="2"/>tium &amp; inuocantium exempla. Constat praeterea ex his quae iam attulimus, per 
+          <lb ed="#Z" n="3"/>Christi mortem plene expiata esse peccata: ut iam nihil amplius relinquatur pur 
+          <lb ed="#Z" n="4"/>gatorio igni expurgandum. Euolant animae recta a morte corporea in coelum, ni 
+          <lb ed="#Z" n="5"/>hil secum auferentes expurgatione dignum. Ergo ignis ille purgatorius nihil aliud 
+          <lb ed="#Z" n="6"/>est reuera, quam auarissimorum hominum negotiatio, qua loquulos, non animas,  
+          <lb ed="#Z" n="7"/>pauperum &amp; diuitum artificiose expurgant.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1676">
+          <lb ed="#Z" n="8"/><pc type="indent"/> Hi ipsi ruenti structurae purgatorianae protinus subijciunt fulcra duo. Prius,  
+          <lb ed="#Z" n="9"/>Veteres, inquiunt, orarunt pro salute animarum a corpore separatarum, est ergo 
+          <lb ed="#Z" n="10"/>purgatorium. Nam cum in coelis non opus habeant precibus, in inferno preces 
+          <lb ed="#Z" n="11"/>nihil prosint, cum ex inferis nulla sit redemptio : relinquitur certe locus medius,  
+          <lb ed="#Z" n="12"/>in quo retineantur animae, quibus prosunt orationes uiuentium, is est 
+          purgato<lb ed="#Z" n="13" break="no"/>rium. Sic illi quidem argumentantur, sed ex seipsis sine authoritate scripturarum  
+          <lb ed="#Z" n="14"/>confingentes omnia. Verum sane illud est quod aiunt ueteres orasse pro defunctis. 
+          <lb ed="#Z" n="15"/>Scio quid doctor ecclesiae insignis Augustinus, quid eloquentissimus 
+          Chrysosto<lb ed="#Z" n="16" break="no"/>mus alijque uiri uetusti ac clari hac de re scriptum reliquerint. Sed quaero num hi 
+          re<lb ed="#Z" n="17" break="no"/>cte fecerint quod fecerunt. Non enim omnia quae dixerunt &amp; fecerunt sancti 
+          pa<lb ed="#Z" n="18" break="no"/>tres, qui non raro nonnihil humani passi sunt, absolute sunt probanda uel imitan 
+          <lb ed="#Z" n="19"/>da. Probanda &amp; imitanda non sunt quae proseruntur ab eis (id quod ipsi etiam 
+          fa<lb ed="#Z" n="20" break="no"/>tentur ingenue) contra scripturarum decreta, sed illa duntaxat quae sunt 
+          scriptu<lb ed="#Z" n="21" break="no"/>rarum sanctarum authoritate confirmata atque prodita. lllae copiose &amp; aperte quic 
+          <lb ed="#Z" n="22"/>quid in doctrina pietatis cognitu est necessarium, complectuntur. Verum nihil 
+          <lb ed="#Z" n="23"/>inuenias in eis de oratione pro defunctis. Quod enim quidam adferunt ex secun 
+          <lb ed="#Z" n="24"/>do Machabaeorum libro, nihil probat. Liber enim ille non est canonicus. Id quod 
+          <lb ed="#Z" n="25"/>uel ex Hieronymo dudum didicisse oportuerat Adijnciunt orationem pro 
+          defun<lb ed="#Z" n="26" break="no"/>ctis traditionem esse apostolorum non scriptam. Audio. Verum sat scio traditio¬  
+          <lb ed="#Z" n="27"/>nes non scriptas non pugnare cum scriptis apostolorum. Sat scio scripta apostolo 
+          <lb ed="#Z" n="28"/>rum nullibi praecipere orationes pro mortuis, nullibi his suffragari. Cum 
+          aposto<lb ed="#Z" n="29" break="no"/>lus Paulus Thessalonicen hortaretur ut mortem suorum aequanimiter tolerarent,  
+          <lb ed="#Z" n="30"/>ac tum maxime opportunum fuisset praecipere de orationibus pro mortuorum spi 
+          <lb ed="#Z" n="31"/>ritibus offerendis, si modo illas utiles &amp; necessarias putauisset, nullam tamen 
+          ea<lb ed="#Z" n="32" break="no"/>rum facit mentionem, imo simpliciter docet quid credant de separatis a corpori- 
+          <lb ed="#Z" n="33"/>bus fidelium animabus, nempe quod agant in beatitudine aeterna apud Christum, 
+          <lb ed="#Z" n="34"/>expectantes corporum suorum resurrectionem. Quis autem non uideat hanc 
+          fir<lb ed="#Z" n="35" break="no"/>mitatem simplicitatemque doctrinae apostolicae, traditione illa apostolica ficta 
+          con<lb ed="#Z" n="36" break="no"/>cuti &amp; implicari periculosissime? Si enim in Christum credimus, fidem uerbis ac 
+          <lb ed="#Z" n="37"/>promissis eius habeamus. Dixit hic se esse fidelium resurrectionem &amp; uitam, ani¬  
+          <lb ed="#Z" n="38"/>masque credentium iam inde a morte corporea transiuisse in uitam. His, inquam,.  
+          <lb ed="#Z" n="39"/>ueracissimis domini uerbis si credimus, quid adhuc soliciti pro mortuorum 
+          spiri<lb ed="#Z" n="40" break="no"/>tuum salute, quasi nondum salutem consequuti sint deprecamur? Apertum sane 
+          <lb ed="#Z" n="41"/>precibus his nostris argumentum aedimus, de nostra nos fide addubitare, &amp; de ani¬  
+          <lb ed="#Z" n="42"/>marum salute non id sperare quod &amp; uerbis profitemur &amp; sperare iubent uerba 
+          <lb ed="#Z" n="43"/>Christi &amp; apostolorum. Fides certe &amp; spes firma credentium &amp; innitentium Chri- 
+          <lb ed="#Z" n="44"/>sti promissionibus, prohibent hic atras in oblationibus pro defunctis uestes sume 
+          <lb ed="#Z" n="45"/>re, quorum animas indumenta alba iam sumpsisse credimus : prohibent 
+          occasio<lb ed="#Z" n="46" break="no"/>nem dare uel incredulis uel imbecillibus in fide, merito nos reprehendendi, quod 
+          <lb ed="#Z" n="47"/>eos quos apud deum uiuere dicimus, ut in ignem coniectos lugeamus, deoque sup 
+          <lb ed="#Z" n="48"/>plicantes miseros ex tormentis liberare satagamus, id est, fidem quam sermone &amp;  
+          <!--550.xml-->
+          <pb ed="#Z" n="264-r"/>
+          <lb ed="#Z" n="1"/>uoce depromimus, cordis &amp; pectoris imo &amp; externorum operum testimonio 
+          re<lb ed="#Z" n="2" break="no"/>probemus. Si ita pergamus, spei profecto fideique nostrae praeuaricatores sumus, 
+          <lb ed="#Z" n="3"/>Simulata, ficta, fucata uidentur esse quae dicimus. Nihil autem prodest uerbis 
+          pro<lb ed="#Z" n="4" break="no"/>ferre uirtutem, &amp; factis destruere ueritatem, Recipiat ergo traditionem illam apo 
+          <lb ed="#Z" n="5"/>stolicam, ut uocant, de orationibus offerendis pro fidelibus defunctis, qui uelit,  
+          <lb ed="#Z" n="6"/>ego nihil pugnans cum uera fide &amp; doctrina apostolorum recipio, nec id cuiquam 
+          <lb ed="#Z" n="7"/>recipiendum suadeo. lllud quoque dissimulare non possum, id quod isti Traditio¬  
+          <lb ed="#Z" n="8"/>nem apostolorum appellant, S. Augustinum nuncupare traditionem patrum ab  
+          <lb ed="#Z" n="9"/>ecclesia receptam. Nam Sermone de uerbis apostoli 32. Hoc at patribus, inquit, tra 
+          <lb ed="#Z" n="10"/>ditum uniuersa obseruat ecclesia, ut pro eis qui in corporis &amp; sanguinis Christi 
+          <lb ed="#Z" n="11"/>communione defuncti sunt, cum ad ipsum sacrificium loco suo commemorantur,  
+          <lb ed="#Z" n="12"/>oretur, ac pro illis quoque id offerri commemorentur. Et iterum de Cura pro 
+          mor<lb ed="#Z" n="13" break="no"/>tuis gerenda, cap. 4. Non sunt praetermittendae, ait, supplicationes pro spiritibus 
+          <lb ed="#Z" n="14"/>mortuorum, quas faciendas pro omnibus in Christiana societate defunctis, etiam  
+          <lb ed="#Z" n="15"/>tacitis nominibus quorumque sub generali commemoratione, suscepit ecclesia. 
+          <lb ed="#Z" n="16"/>Haec ille. Qui tametsi alicubi Traditiones apostolorum latius extendat, his tamen 
+          <lb ed="#Z" n="17"/>significantius innuere uidetur hunc ritum orandi pro defunctis ecclesiae a 
+          patri<lb ed="#Z" n="18" break="no"/>bus traditum, &amp; haud dubie post longa interualla a temporibus apostolorum ab  
+          <lb ed="#Z" n="19"/>ecclesia esse receptum. Idem ille Augustinus contendit non uno loco eucharistiae 
+          <lb ed="#Z" n="20"/>perceptionem, perinde ut baptismum, insantibus iam iam ex utero materno 
+          effu<lb ed="#Z" n="21" break="no"/>sis ad salutem consequendam esse necessariam. Loci insigniores quibus id agit 
+          <lb ed="#Z" n="22"/>sunt lib. 5. contra lulianum Pelagianum, &amp; 1. lib. de peccatorum meritis &amp; remis- 
+          <lb ed="#Z" n="23"/>sione contra Pelagianos. Nec segniore studio id dogmatis quam traditionem 
+          ur<lb ed="#Z" n="24" break="no"/>get, quod id eo saeculo in ecclesia esset receptissimum. Quis uero eum ritum hodie 
+          <lb ed="#Z" n="25"/>recipit ut apostolicum? Quis non uidet optimos illos patres &amp; fidelissimos alio¬  
+          <lb ed="#Z" n="26"/>qui pastores ea in re humani aliquid passos esse? Pluris merito fit hodie scriptum 
+          <lb ed="#Z" n="27"/>apostoli Pauli, quam antiqua illa ecclesiae traditio. Scribit Paulus: Probet seipsum 
+          <lb ed="#Z" n="28"/>homo, &amp; sic de pane edat &amp; de calice bibat. Inde intelligunt omnes, adultorum,  
+          <lb ed="#Z" n="29"/>non insantium esse eucharistiam. Ea de causa licuit maioribus nostris traditionem 
+          <lb ed="#Z" n="30"/>issam deserere, &amp; propius accedere ad scripturam. Permittant itaque nobis quoque 
+          <lb ed="#Z" n="31"/>hac in caussa discedere a patrum traditione incerta, &amp; inhaerere fidei certissimae,  
+          <lb ed="#Z" n="32"/>scripturaeque apostolicae.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1842">
+          <lb ed="#Z" n="33"/><pc type="indent"/> Verum damnatus est, inquiunt, hoc nomine Aerius, quod inutiles crederet 
+          <lb ed="#Z" n="34"/>orationes pro defunctis. Scio equidem damnatum esse Aerium, nec illum mihi 
+          de<lb ed="#Z" n="35" break="no"/>fendendum sumpsi, quem Arianum fuisse Phylastrius, Epiphanius &amp; Augustinus 
+          <lb ed="#Z" n="36"/>commemorant, alijsque foedis pollutum erroribus. Quod autem preces pro defun 
+          <lb ed="#Z" n="37"/>ctis attinet, utiles ne an inutiles sint, dubium non est catholicos non hereticos esse 
+          <lb ed="#Z" n="38"/>qui credunt quod traditum est symbolo apostolorum. Credimus autem iuxta 
+          hu<lb ed="#Z" n="39" break="no"/>ius traditionem, Remisionem peccatorum, Huius carnis resurrectionem, Et 
+          ui<lb ed="#Z" n="40" break="no"/>tam aeternam. Haec qui credunt, assequuntur ea proculdubio quae credunt. Dixit 
+          <lb ed="#Z" n="41"/>enim Centurioni dominus: Abi, &amp; quemadmodum credis, ita fiat tibi. Ergo 
+          quis<lb ed="#Z" n="42" break="no"/>quis crediderit remisionem peccatorum &amp;uitam aeternam, remissionem 
+          pecca<lb ed="#Z" n="43" break="no"/>torum consequutus est, ac uiuet certo uita aeterna. Id si uerum est, ut falsum esse 
+          <lb ed="#Z" n="44"/>non potest quod symbolo apostolorum nobis traditum est, quis oro locus erit 
+          ora<lb ed="#Z" n="45" break="no"/>tionibus pro defunctis? Nam defunctis remissa sunt peccata, ergo remorae ad uitam 
+          <lb ed="#Z" n="46"/>sublatae sunt omnes, itaque uiuunt apud deum. Qui uero non crediderunt, sua reti 
+          <lb ed="#Z" n="47"/>nuerunt peccata, &amp; demersi ad tartara haerent in luto inserni. Quae cum indubitan 
+          <lb ed="#Z" n="48"/>ter ita habeant, certe non habent ullum usumneque apud deum neque apud fideles 
+          <!--551.xml-->
+          <pb ed="#Z" n="264-v"/>
+          <lb ed="#Z" n="1"/>orationes pro defunctis. His accedunt tot sanctorum utriusque testamenti 
+          exem<lb ed="#Z" n="2" break="no"/>pla, praeferenda &amp; traditionibus &amp; condemnationibus hominum. Quis oro 
+          san<lb ed="#Z" n="3" break="no"/>ctorum patrum unquam orauit pro suis defunctis : nunquid Adam pro Abele 
+          <lb ed="#Z" n="4"/>suo : nunquid filij pro patre suo Adamo? Quas preces obtulit deo pro anima 
+          de<lb ed="#Z" n="5" break="no"/>functi patris Thare, pro anima uxoris suae chariss. Sarae? Quas preces fuderunt 
+          <lb ed="#Z" n="6"/>pro patre mortuo lsaaco Esau &amp; Iacob ? pro Iacobo duodecim filij lsraelis : pro 
+          <lb ed="#Z" n="7"/>Dauide Solomon? ln nouo Testamento decollatur ab Herode Ioannes Baptista, 
+          <lb ed="#Z" n="8"/>lapidatur a ludaeis Stephanus, truncatur ab Agrippa capite lacobus, sepeliunt 
+          <lb ed="#Z" n="9"/>eorum corpora discipuli ipsorum, iustaque peragunt religiose, sed in tot suneribus 
+          <lb ed="#Z" n="10"/>nulla fit mentio orationis pro animabus defunctis. Crediderunt enim eas a mor- 
+          <lb ed="#Z" n="11"/>te protinus delatas esse in uitam aeternam. Quis ergo imponat nobis post tot 
+          cele<lb ed="#Z" n="12" break="no"/>bria sanctorum exempla, &amp; post tam claram catholicae &amp; orthodoxae fidei 
+          profes<lb ed="#Z" n="13" break="no"/>sionem, necessitatem orandi pro animabus defunctorum? Quis uero haereticos 
+          <lb ed="#Z" n="14"/>esse posthac dixerit, qui opere complemus quod professione fidei uel oris 
+          confes<lb ed="#Z" n="15" break="no"/>sione profitemur, imo qui nihil aliud facimus, quam quod ante nos fecerunt 
+          cele<lb ed="#Z" n="16" break="no"/>berrimi utriusque Testamenti cultores dei.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1919">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Posterius fulcrum, quod substituunt ruinae purgatorij sui, est apparitio 
+          spiri<lb ed="#Z" n="18" break="no"/>tuum, Rabanus enim episcopus ex Gregorij Papae &amp; uenerabilis Bedae 
+          testimo<lb ed="#Z" n="19" break="no"/>nijs estendit, perfrequenter apparuisse mortuorum animas, ac edocuisse oblatio¬  
+          <lb ed="#Z" n="20"/>nes &amp; preces permultum ipsis prodesse. Caeterum miror uiros nonnullae eruditio  
+          <lb ed="#Z" n="21"/>nis negotium suum tam ruinosis imposuisse fundamentis. Prohibet enim 
+          domi<lb ed="#Z" n="22" break="no"/>nus in lege sua ueritatem sciscitari ex mortuorum spiritibus. In prophetis ab 
+          hu<lb ed="#Z" n="23" break="no"/>iusmodi oraculis relegamur ad legem &amp; testimonium. Apud Lucam clamat in tor- 
+          <lb ed="#Z" n="24"/>mentis diues epulo, &amp; ait: Rogo te pater Abraham, ut mittas Lazarum in domum 
+          <lb ed="#Z" n="25"/>patris mei. Habeo enim quinque fratres, ut testetur illis, ne &amp; ipsi ueniant in locum 
+          <lb ed="#Z" n="26"/>hunc cruciatus. Sed audit: Habent Mosen &amp; prophetas, audiant illos. Cumque di- 
+          <lb ed="#Z" n="27"/>ues respondisset: Non pater Abraham, sed si quis ex mortuis ierit ad eos, 
+          relipi<lb ed="#Z" n="28" break="no"/>scent. Iterum audit: Si Mosen &amp; prophetas non audiunt neque si quis ex mortuis 
+          <lb ed="#Z" n="29"/>resurrexerit credent. Certissimum est ergo &amp; euangelica authoritate 
+          confirma<lb ed="#Z" n="30" break="no"/>tum, ne beatas quidem animas nobis mitti a deo quae nos aliquid doceant lmpias 
+          <lb ed="#Z" n="31"/>&amp; condemnatas quis oro audiat? Relegat nos omnes ad scripturam canonicam  
+          <lb ed="#Z" n="32"/>Christi euangelium. Vnde iam consequens est, nullius momenti imo fallacissima 
+          <lb ed="#Z" n="33"/>&amp; mendacissima esse testimonia, quae petuntur ex oraculis aut apparitionibus spi 
+          <lb ed="#Z" n="34"/>rituum mortuorum.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e1962">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Diuinis testimonijs accedunt etiam humana, quae interim nos erudiunt, non 
+          <lb ed="#Z" n="36"/>posse animas a corpore separatas in hisce oberrare regionibus. Nimis longa sunt 
+          <lb ed="#Z" n="37"/>quae hac de re docte disputat Tertullianus in sine propemodum libri sui de Ani- 
+          <lb ed="#Z" n="38"/>ma, huc tamen tendunt omnia, ut ostendat animas a corporibus suis separatas, &amp;  
+          <lb ed="#Z" n="39"/>suis locis destinatas, non redire iterum in hoc saeculum. Obiectioni quorundam 
+          ia<lb ed="#Z" n="40" break="no"/>ctantium artem magicam, sed &amp; uirtute diuina multos ex mortuis in hanc uitam  
+          <lb ed="#Z" n="41"/>redisse, respondet: Sed etsi quasdamreuocauit in corpora dei uirtus, in 
+          documen<lb ed="#Z" n="42" break="no"/>ta iuris sui, non iccirco communicabitur fidei &amp; audaciae magorum, &amp; fallaciae 
+          <lb ed="#Z" n="43"/>somniorum, &amp; licentiae poetarum, atquin in resurrectionis exemplis, cum dei 
+          uir<lb ed="#Z" n="44" break="no"/>tus siue per prophetas, siue per Christum, siue per apostolos in corpora animas re 
+          <lb ed="#Z" n="45"/>praesentat, solida &amp; contrectabili &amp; satiata ueritate praeindicatum est hanc esse 
+          for<lb ed="#Z" n="46" break="no"/>mam ueritatis, ut omnem mortuorum exhibitionem incorporalem praestigias 
+          iu<lb ed="#Z" n="47" break="no"/>dices. Chrysostomus ergo Homelia in Matth. 29. interrogans: Quid ergo 
+          respon<lb ed="#Z" n="48" break="no"/>debimus ad illas uoces Anima talis ego sum: excipit, Non anima defuncti est quae 
+          <!--552.xml-->
+          <pb ed="#Z" n="265-r"/>
+          <lb ed="#Z" n="1"/>ista dicit, sed daemon qui haec ut audientes decipiat effingit. Et mox: Quare 
+          uetu<lb ed="#Z" n="2" break="no"/>larum haec uerba imo desipientium ducenda sunt &amp; puerorum ludibria. Et iterum: 
+          <lb ed="#Z" n="3"/>Non potest anima a corpore separata in his regionibus errare. lustorum animae 
+          e<lb ed="#Z" n="4" break="no"/>nim in manu dei sunt, insantium quoque similiter: non enim peccarunt. Peccatorum 
+          <lb ed="#Z" n="5"/>uero post hunc exitum CONTINVO abducuntur: quod a Lazaro &amp; diuite 
+          <lb ed="#Z" n="6"/>planum efficitur. Sed alibi quoque dominus ait: Hodie animam tuam abs te 
+          repe<lb ed="#Z" n="7" break="no"/>tent. Non igitur potest anima cum a corpore abscesserit apud nos hic errare: nec 
+          <lb ed="#Z" n="8"/>id iniuria. Nam si qui iter faciunt cum in ignotas regiones inciderint nesciunt quo 
+          <lb ed="#Z" n="9"/>ituri sint nisi ducem habeant: quanto magis anima relicto corpore cum nouam sibi 
+          <lb ed="#Z" n="10"/>omnino uitam &amp; uiam ingrediatur, quo itura sit ignorabit nisi ducem 
+          consequa<lb ed="#Z" n="11" break="no"/>tur. Multis e locis scripturae comprobari potest, non errare hic post mortem 
+          iusto<lb ed="#Z" n="12" break="no"/>rum hominum animas. Nam Stephanus ait: Suscipe spiritum meum. Et Paulus 
+          <lb ed="#Z" n="13"/>resolui ac cum Christo esse desiderabat. De Patriarcha quoque scriptura dicit: Et ap 
+          <lb ed="#Z" n="14"/>positus est ad patres suos, mortuus in senectute bona. Quod uero nec peccatorum 
+          <lb ed="#Z" n="15"/>animae hic commorari possunt, diuitem audias quid dicat, perpendasque quid 
+          pe<lb ed="#Z" n="16" break="no"/>tat &amp; non impetret. Quod si possent animae hominum hic couersari, uenisset ipse 
+          <lb ed="#Z" n="17"/>ut cupiebat, &amp; suos de tormentis inferni fecisset certiores. Quo ex loco scripturae 
+          <lb ed="#Z" n="18"/>illud etiam patet aperte, quod post exitum a corpore in locum quendam certum 
+          <lb ed="#Z" n="19"/>animae deducuntur, unde redire sponte sua non possunt, sed terribilem illum iudi 
+          <lb ed="#Z" n="20"/>cij diem ibi expectant. Haec hactenus ex Chrysostomo.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e2044">
+          <lb ed="#Z" n="21"/><pc type="indent"/> His opponunt Samuelis apparitionem petitam ex scripturis sanctis, qua 
+          pro<lb ed="#Z" n="22" break="no"/>bare contendunt animas post fata redire, &amp; homines erudire de interrogatis, Re- 
+          <lb ed="#Z" n="23"/>spondemus paucis: Samuelem per tropum appellari personatum illum qui 
+          uide<lb ed="#Z" n="24" break="no"/>batur quidem esse, reuera autem non erat Samuel, Reuera enim erat spectrum 
+          <lb ed="#Z" n="25"/>praestigiumue ac illusiosaihanica. Nam magia districte prohibetur in lege 
+          domi<lb ed="#Z" n="26" break="no"/>ni: non ergo obtemperant prohibitis nephandisque artibus beati spiritus: qui carni 
+          <lb ed="#Z" n="27"/>adhuc coniuncti illas modis omnibus oppugnantes exhorruerunt: damnati autem 
+          <lb ed="#Z" n="28"/>spiritus in illis sese exercent. At quis credat horum oraculis? Sed praedixit Samuel 
+          <lb ed="#Z" n="29"/>ille, inquiunt, quod postridie euenit. Quid tum postea? Non difficile hoc erat dae 
+          <lb ed="#Z" n="30"/>moni, quippe cum dudum pleraque praedixisset uiuens &amp; uerus Samuel, sed &amp; ex 
+          <lb ed="#Z" n="31"/>re praesenti castrorumque trepidatione solers ille iudicium dei futurum praenosceret. 
+          <lb ed="#Z" n="32"/>Tertullianus in libro de Anima: Absit, inquit, ut animam cuiuslibet sancti, nedum 
+          <lb ed="#Z" n="33"/>prophetae, a daemonio credamus extractam, edocti quod ipse sathanas 
+          transfigu<lb ed="#Z" n="34" break="no"/>retur in angelum lucis, nedum in hominem lucis, etiam deum se asseueraturus 
+          <lb ed="#Z" n="35"/>signaque portentosiora aediturus ad euertendos si fieri posset electos, &amp;c. Idem de 
+          <lb ed="#Z" n="36"/>eadem apparitione iudicat &amp; beatus Augustinus libro ad Simplicianum 2. quaest. 
+          <lb ed="#Z" n="37"/>3. &amp; ad Dulcitij quaest, &amp;c.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e2085">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Istis uero abunde demonstratum spero, animas hominum separatas a 
+          corpo<lb ed="#Z" n="39" break="no"/>ribus non errare aut apparere post mortem in hisce regionibus. Nam ad iudicium 
+          <lb ed="#Z" n="40"/>usque manent in destinatis sibi dei sententia locis. Proinde a domino nec mittuntur,  
+          <lb ed="#Z" n="41"/>nec ipsae possunt egredi ad homines erudiendi aut monendi gratia, uel de praesen 
+          <lb ed="#Z" n="42"/>tibus uel de futuris rebus. Vnde iam consequens est, animarum apparitiones, 
+          re<lb ed="#Z" n="43" break="no"/>uelationes oraculaquoed, meras esse illusiones sathanae, institutas contra synceritatem  
+          <lb ed="#Z" n="44"/>&amp; puritatem religionis uerae. Et quoniam horum praesidio utuntur qui 
+          purgato<lb ed="#Z" n="45" break="no"/>rium nobis approbare contendunt, indubitatum est illos falsum probare per 
+          fal<lb ed="#Z" n="46" break="no"/>laciam, &amp; incertum per longe incertius : indubitatum praeterea relinquitur, scri- 
+          <lb ed="#Z" n="47"/>pturis non posse ostendi esse purgatorium, in quo animae corpore suo exutae pur 
+          <lb ed="#Z" n="48"/>gentur ad uitam sempiternam.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e2112">
+          <!--553.xml-->
+          <pb ed="#Z" n="265-v"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Et quoniam remoras expeditissimo iniectas itineri amouimus, redimus ad 
+          in<lb ed="#Z" n="2" break="no"/>stitutum nostrum, quo proposuimus demonstrare animas fidelium per mortem 
+          <lb ed="#Z" n="3"/>separatas a corpore recta &amp; euestigio a morte corporea transire in coelum, atque ita 
+          <lb ed="#Z" n="4"/>certissime &amp; derepente saluari. Similiter intelligimus animas infidelium recta 
+          de<lb ed="#Z" n="5" break="no"/>mergi ad inferos, &amp; protinus a morte corporea certissima &amp; repentina damnatio 
+          <lb ed="#Z" n="6"/>ne perire. Dominus enim in euangelio diserte dicit: Qui credit in filium dei, non  
+          <lb ed="#Z" n="7"/>iudicatur: qui uero non credit, iam iudicatus est, quia non credit in nomen unige 
+          <lb ed="#Z" n="8"/>niti filij dei. Item, Qui credit in filium dei, habet uitam aeternam: qui autem 
+          incre<lb ed="#Z" n="9" break="no"/>dulus est filio, non uidebit uitam, sed ira dei manet super eum. Et iterum, Haec est 
+          <lb ed="#Z" n="10"/>uoluntas eius qui misit me, ut omnis qui uidet filium &amp; credit in eum, habeat 
+          ui<lb ed="#Z" n="11" break="no"/>tam aeternam: &amp; ego suscitabo eum in nouissima die. Hominis autem nouissima 
+          <lb ed="#Z" n="12"/>dies, est articulus mortis: in eo seruat nos uirtute sua Christus, ne anima nostra uel 
+          <lb ed="#Z" n="13"/>pereat uel tormenta ulla sentiat, sed uiuat &amp; beatitudine fruatur. Est praeterea dies 
+          <lb ed="#Z" n="14"/>nouissima, ultima illa iudicij dies, qua Christus resuscitabit &amp; iudicabit omnem 
+          <lb ed="#Z" n="15"/>carnem, corpora fidelium suorum glorificans ad uitam sempiternam.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e2152">
+          <lb ed="#Z" n="16"/><pc type="indent"/> Rursus dicit in euangelio dominus: Amen amen dico uobis, qui sermonem 
+          <lb ed="#Z" n="17"/>meum audit, &amp; credit ei qui me misit, habet uitam aeternam, &amp; in iudicium non ue 
+          <lb ed="#Z" n="18"/>niet, sed transiuit a morte in uitam. Sola haec domini uerba irrefragabiliter senten 
+          <lb ed="#Z" n="19"/>tiam nostram de certissima &amp; repentina animarum salute abunde satis &amp; 
+          propo<lb ed="#Z" n="20" break="no"/>nere &amp; declarare &amp; probare confirmareque possunt. Principio enim, ne quis addu 
+          <lb ed="#Z" n="21"/>bitaret de rei proponendae certissima ueritate, ab initio protinus sanctissime iurat,  
+          <lb ed="#Z" n="22"/>id est, ueritatem interposito iurisiurandi sacramento attestando confirmat. Deinde 
+          <lb ed="#Z" n="23"/>subiungit totam salutis nostrae rationem: quae uersatur in auscultatione uerbi di- 
+          <lb ed="#Z" n="24"/>uini, &amp; in uera fide recipiente diuini uerbi ueritatem. Neque enim satis est audiuisse 
+          <lb ed="#Z" n="25"/>uerbum euangelij, nisi eidem uera fide inhaeserimus. lam uero obserua mihi quanta 
+          <lb ed="#Z" n="26"/>certitudine Christo credentibus uitam &amp; salutem promittat: Habet, inquit, uitam  
+          <lb ed="#Z" n="27"/>aeternam. Habet dixit, non Habebit. Non ergo reliquit uel dubitationi uel 
+          inter<lb ed="#Z" n="28" break="no"/>uallo locum ullum. Imo adhuc clarius per interpretationem quando &amp; 
+          quomo<lb ed="#Z" n="29" break="no"/>do fideles habeant aut consequantur uitam explicans, dicit: In iudicium non ueniet,  
+          <lb ed="#Z" n="30"/>sed transiuit a morte in uitam. In iudicium ueniunt, qui caussam apiud iudicem di 
+          <lb ed="#Z" n="31"/>scutiendam habent. In iudicium item ueniunt, qui ex sententia iudicis propter cau 
+          <lb ed="#Z" n="32"/>sam suam malam puniuntur. Sed fideles nullam habent causam discutiendam 
+          a<lb ed="#Z" n="33" break="no"/>pud iudicem. Nam remissa sunt eis peccata plenissime. Deus est qui iustificat &amp; 
+          <lb ed="#Z" n="34"/>absoluit, quis ille qui condemnet? Ergo non subijciuntur ullis supplicijs. Christus 
+          <lb ed="#Z" n="35"/>enim subijt crucis supplicium, ut fideles ipsius ab omnibus tormentis liberati 
+          <lb ed="#Z" n="36"/>essent indemnes. Quin potius ne quis remoram aut interuallum inter mortem cor¬. 
+          <lb ed="#Z" n="37"/>poream &amp; uitam uenturi saeculi interponeret, dixit: Sed transiuit a morte in uitam. 
+          <lb ed="#Z" n="38"/>Rursus Transiuit dixit, non Transibit, ut per uerbum praeteriti temporis certitu 
+          <lb ed="#Z" n="39"/>dinem significaret, ostenderetque protinus a corporea morte animas credentium ra 
+          <lb ed="#Z" n="40"/>pi in uitam aeternam. Ac sat scio aduersarios nihil hic habere solidi, quod 
+          oppo<lb ed="#Z" n="41" break="no"/>nant tam clarae &amp; inuictae ueritati. Verbis quidem &amp; sophismatibus pugnare 
+          <lb ed="#Z" n="42"/>possunt, ueritatem subuertere non possunt. Anima enim fidelis ab ipso ore( quod 
+          <lb ed="#Z" n="43"/>dici solet : pon muno osr su bimmel farem) derepente ingreditur sedes beatas, 
+          frui<lb ed="#Z" n="44" break="no"/>turque per fidem felicitate aeterna.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e2218">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Rursus legimus in Reuelatione domini nostri Iesu Christi facta Ioanni 
+          apo<lb ed="#Z" n="46" break="no"/>stolo, dictum esse: Et audiui uocem de coelo dicentem mihi : Scribe, Beati mor- 
+          <lb ed="#Z" n="47"/>tui qui in domino moriuntur, amodo. Etiam dicit spiritus ut requiescant a labori- 
+          <lb ed="#Z" n="48"/>bus suis. Sed opera illorum sequuntur illos. Contexitur his oraculum coeleste, &amp;  
+          <!--554.xml-->
+          <pb ed="#Z" n="266-r"/>
+          <lb ed="#Z" n="1"/>indubitatum de beatitudine hominum in fide morientium: ac iubetur beatus 
+          lo<lb ed="#Z" n="2" break="no"/>annes coelitus oraculum scribere, quod extet omnibus temporibus, &amp; legatur ab 
+          <lb ed="#Z" n="3"/>omnibus hominibus. Eius oraculi summa haec est: Beati mortui qui in domino mo 
+          <lb ed="#Z" n="4"/>riuntur, amodo. Moriuntur autem in domino quicunque in fide Iesu Christi 
+          exce<lb ed="#Z" n="5" break="no"/>dunt ex hac uita. Ita enim hoc loquutionis genus usurpat Apostolus 1. Corinth. 
+          <lb ed="#Z" n="6"/>15. &amp;I. Thess. 4. Caeterum qui in fide Iesu Christi excedunt ex hac uita, 
+          simplici<lb ed="#Z" n="7" break="no"/>ter &amp; uere pronunciantur beati, nimirum felices &amp; alieni ab omni miseria. lmc 
+          <lb ed="#Z" n="8"/>adiincitur temporis notatio quando beatitudinem illam consequantur, Amodo 
+          <lb ed="#Z" n="9"/>(eapamid est, ab instanti, confestim, nimirum, ut &amp; in euangelio dixit dominus, 
+          <lb ed="#Z" n="10"/>protinus a morte corporea. Subiungitur &amp; aliud quo rursus exprimitur 
+          felicita<lb ed="#Z" n="11" break="no"/>tis certitudo, adde &amp; non procrastinata perfectio. Etiam dicit spiritus : Vt 
+          requie<lb ed="#Z" n="12" break="no"/>scant a laboribus suis, Spiritus, inquam, ueritatis, qui mentiri nescit, dicit rat, id est 
+          <lb ed="#Z" n="13"/>amen, etiam, certe, uere beati, &amp; ab instanti quidem beati sunt fideles, &amp; ita beati, 
+          <lb ed="#Z" n="14"/>ut a laboribus suis requiescant. Labores fidelium sunt aerumnae, calamitates, affli- 
+          <lb ed="#Z" n="15"/>ctiones, dolores, terrores, &amp; alia huius generis mala, quibus in hoc saeculo sunt di 
+          <lb ed="#Z" n="16"/>uexati, imo exercitati potius in fide. Ab his liberantur animae fidelium decedentes 
+          <lb ed="#Z" n="17"/>a corpore, ergo non purgantur per tormenta &amp; molestias, non torrentur in 
+          me<lb ed="#Z" n="18" break="no"/>dio itinere, sed felices &amp; beatae protinus omni liberantur molestia. Quod si quid 
+          <lb ed="#Z" n="19"/>passi sunt uiuentes adhuc in corpore, si quae ex fide bona fecerunt opera, ea sequun 
+          <lb ed="#Z" n="20"/>tur ipsos. Nemo existimet ea, quia nunc cessant, fuisse &amp; esse uana. Rependitur 
+          <lb ed="#Z" n="21"/>enim eis in beata illa uita. Id enim est, opera ipsorum sequi eos. Obseruemus autem 
+          <lb ed="#Z" n="22"/>quod non dicit: Opera aliorum sequuntur illos, ut liberent uidelicet eos ex purga 
+          <lb ed="#Z" n="23"/>torio: sed. Opera illorum sequuntur illos. Etenim in euangelio quoque 
+          ingrediun<lb ed="#Z" n="24" break="no"/>tur cum sponso ad nuptias uirgines prudentes, quibus oleum in lampadibus erat 
+          <lb ed="#Z" n="25"/>paratum: excluduntur a gaudio uirgines fatuae, quae nullum sibi in uita 
+          paraue<lb ed="#Z" n="26" break="no"/>rant oleum, sed aliunde id sibi sufficiendum sperabant.
+        </p>
+        <p xml:id="UD1xh4-6s7PET-d1e2291">
+          <lb ed="#Z" n="27"/><pc type="indent"/> DEO autem omnipotenti, patri nostro clementissimo, omniumque bonorum 
+          <lb ed="#Z" n="28"/>fonti perenni &amp; inexhausto, qui corpus nostrum in utero materno formauit, 
+          ei<lb ed="#Z" n="29" break="no"/>demque animam rationalem inspirauit uel infudit, quae nos, dum corpori 
+          coniun<lb ed="#Z" n="30" break="no"/>cta est, animaret dirigeretque, separata autem a corpore, protinus a morte corporea 
+          <lb ed="#Z" n="31"/>transferretur in coelum, ibique feliciter uiueret, donec in iudicio extremo ad 
+          cor<lb ed="#Z" n="32" break="no"/>pus excitatum a mortuis rursus rediret, cum quo aeternum &amp; sine fine laetetur &amp;  
+          <lb ed="#Z" n="33"/>exultet: ei, inquam, per Iesum Christum, propter quem tantum nobis ob  
+          <lb ed="#Z" n="34"/>tigit beneficium, sit gloria, laus &amp; gratiarumactio in 
+          <lb ed="#Z" n="35"/>saecula saeculorum. Amen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

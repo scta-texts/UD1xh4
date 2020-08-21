@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 6</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 6</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="228-v"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-Cl8wSo"><!-- d4s6 --> 
+        <head xml:id="UD1xh4-Cl8wSo-Hd1e106">Sermo 6</head>
+        <head xml:id="UD1xh4-Cl8wSo-Hd1e109" type="question-title">
+       Filium dei ex patre ineffabiliter genitum, consubstantialem esse patri, ideoque deum uerum: 
+       eundem esse hominem uerum, nobis consubstantialem, ideoque uerum deum et hominem, 
+       manentem in duabus inconfusis naturis, et in una persona indiuisa.
+      </head>
+        <p xml:id="UD1xh4-Cl8wSo-d1e112">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Filium dei ex patre ineffabiliter genitum, consubstantialem esse patri, ideoque deum uerum: 
+          <lb ed="#Z" n="35"/>eundem esse hominem uerum, nobis consubstantialem, ideoque uerum deum &amp; hominem, 
+          ma<lb ed="#Z" n="36" break="no"/>nentem in duabus inconfusis naturis, &amp; in una persona indiuisa. SERMO VI 
+          <lb ed="#Z" n="37"/>eiusque unitate &amp; trinitate, porro disseram sigillatim de personis adoran 
+          <lb ed="#Z" n="38"/>ES ipsae rerumque ordo fagitant, ut postquam in genere dixi de deo,  
+          <lb ed="#Z" n="39"/>dae trinitatis, in primis autem de domino nostro Iesu Christo uero deo 
+          <lb ed="#Z" n="40"/>&amp; homine, deinde de spiritu sancto: quo si imbuti fuerint animi nostri, 
+          <lb ed="#Z" n="41"/>cedent omnia quaecunque dixerimus audierimusque ad gloriam nominis dei ani¬  
+          <lb ed="#Z" n="42"/>marumque nostrarum salutem. Oremus itaque, &amp;c.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e135">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Pater ille aeternus origo &amp; author rerum omnium aeterna &amp; ineffabili 
+          genera<lb ed="#Z" n="44" break="no"/>itione filium genuit. Vniuersa enim scriptura concorditer deum appellat patrem,  
+          <lb ed="#Z" n="45"/>&amp; patrem quidem aeternum. Nullus autem pater sui ipsius, sed filij pater est: &amp; quia 
+          <lb ed="#Z" n="46"/>pater hic aeternus est, necessario filium aeternum habeat oportet, aequalem sibi per 
+          <!--480.xml-->
+          <pb ed="#Z" n="229-r"/>
+          <lb ed="#Z" n="1"/>omnia, coaeternum &amp; consubstantialem. Certe S. Paulus ad confirmationem 
+          hu<lb ed="#Z" n="2" break="no"/>ius ueritatis catholicae profert ex ueteri scriptura duo testimonia, Cui, inquit an¬  
+          <lb ed="#Z" n="3"/>gelorum dixit unquam deus, Filius meus es tu, ego hodie genui te?Et iterum, Ego 
+          <lb ed="#Z" n="4"/>ero ei pater, &amp; ille erit mihi filius: quae omnia Christo Iesu filio dei accommodat: 
+          <lb ed="#Z" n="5"/>de quo et Micheas testatus est, Et tu Bethlehem Ephrata, paruula quidem es in mili 
+          <lb ed="#Z" n="6"/>bus luda: ex te prodibit mihi dominator in lsraele: &amp; exitus eius (siue emanatio¬  
+          <lb ed="#Z" n="7"/>nes eius) a saeculo, a diebus aeternitatis. Vnde ipse in euangelio secundum Ioannem 
+          <lb ed="#Z" n="8"/>dicit filius dei: Amen dico uobis, antequam Abraham fieret ego sum. Et Ioannes. 
+          <lb ed="#Z" n="9"/>ln principio, inquit, erat uerbum, &amp; uerbum erat apud deum, &amp; deus erat 
+          uer<lb ed="#Z" n="10" break="no"/>bum. Intelligit autem per uerbum non uocale illud transiens, non consilium dei, 
+          <lb ed="#Z" n="11"/>sed filij personam. Mox enim subiungit: Et uerbum caro factum est. Scimus 
+          au<lb ed="#Z" n="12" break="no"/>tem filium dei non cogitationem aut propositum dei ( sicut nugantur 
+          haeretici<lb ed="#Z" n="13" break="no"/>esse incarnatum. Atqui is qui in tempore incarnatus est, ante aeterna tempora 
+          e<lb ed="#Z" n="14" break="no"/>rat apud patrem, adeoque deus uerus cum deo uero. Nam Verbum erat apud deum  
+          <lb ed="#Z" n="15"/>inquit, &amp; deus erat uerbum. Quia in principio, nimirum ab aeterno, erat apud 
+          <lb ed="#Z" n="16"/>deum. Haec simplicia scripturis tradita, ideoque uerissima, de generatione filij ex pa 
+          <lb ed="#Z" n="17"/>tre sempiterna minime curiosis sufficere arbitror. Scriptura enim non explet hic 
+          <lb ed="#Z" n="18"/>curiosorum uana desideria, neque subtiliter de his disserit, imo paucula quae 
+          creda<lb ed="#Z" n="19" break="no"/>mus tradit. Quod autem illa uel non tradit uel pauculis adumbrat, salubriter uel 
+          <lb ed="#Z" n="20"/>ignoramus uel traditis inhaerentes plura non inquirimus, <name xml:id="UD1xh4-Cl8wSo-Nd1e194">Sanctus pater Cyrillus</name> 
+          <lb ed="#Z" n="21"/>illud Ioannis euangelistae exponens: In principio erat uerbum, Ne infinita, inquit,  
+          <lb ed="#Z" n="22"/>quaerentes, inexplicabilis nobis fiat consideratio, quae nunquam possit in exitum 
+          <lb ed="#Z" n="23"/>peruenire, nec principium principij dabimus, nec filium in tempore at patre 
+          geni<lb ed="#Z" n="24" break="no"/>tum concedemus, sed aeternaliter cum patre ipsum esse confitebimur. Si enim in 
+          <lb ed="#Z" n="25"/>principio erat, quae mens poterit unquam ultra illud Erat conuolare: aut quando 
+          <lb ed="#Z" n="26"/>illud erat mente ita tenebimus ut cogitationes nostras non antecedat? Merito 
+          igi<lb ed="#Z" n="27" break="no"/>tur stupore perculsus clamat lsaias: Generationem autem eius quis enarrabit: Om 
+          <lb ed="#Z" n="28"/>nem enim mentem excedens, omnemque rationem humanam superans, ineffabilis 
+          <lb ed="#Z" n="29"/>est. Et mox: Quoniam, inquit ante saecula filius est, in tempore genitus esse non 
+          <lb ed="#Z" n="30"/>potest: sed est semper in patre quasi in fonte: sicuti ab ipso dictum est: Ego ex patre 
+          <lb ed="#Z" n="31"/>exiui &amp; ueni. Quasi enim fontem patrem intelligimus: in quo uerbum est sapien 
+          <lb ed="#Z" n="32"/>tia, uirtus, character, splendor, &amp; imago eius existens. Quare si nullum unquam  
+          <lb ed="#Z" n="33"/>erat tempus quando absque sapientia, uirtute, charactere, splendore ac denique 
+          ima<lb ed="#Z" n="34" break="no"/>gine sua erat pater, fateri necesse est coaeternum &amp; esse filium, qui sapientia 
+          uir<lb ed="#Z" n="35" break="no"/>tus, &amp;c. patris aeterni est. Quomodo enim character, aut quomodo imago exquisi 
+          <lb ed="#Z" n="36"/>tissima patris est, nisi pulchritudinem illius perfecte consequutus sit cuius imago 
+          <lb ed="#Z" n="37"/>est? Non est autem absurdum quod diximus in patre filium tanquam in fonte 
+          <lb ed="#Z" n="38"/>intelligendum esse. Nihil enim aliud nobis nomen fontis significat quam ut ex 
+          <lb ed="#Z" n="39"/>quo : filius uero in patre &amp; ex patre est : non profluens foras, sed aut quasi a sole 
+          <lb ed="#Z" n="40"/>plendor, aut quasi ab igne insita sibi caliditas. In his enim exemplis unum ab  
+          <lb ed="#Z" n="41"/>uno produci &amp; ambo consempiterna sic esse conspicimus, ut aliud absque alio 
+          <lb ed="#Z" n="42"/>nec esse possit nec naturae suae rationem retinere. Quomodo enim erit Sol 
+          splen<lb ed="#Z" n="43" break="no"/>dore priuatus : uel quomodo erit splendor, nisi sol sit a quo defluat? ignis 
+          ue<lb ed="#Z" n="44" break="no"/>ro quomodo erit calore carens? uel calor unde prodeat, nisi ex igne, aut ab alio 
+          <lb ed="#Z" n="45"/>forsan non procul a substantiali qualitate ignis disiecto? Sicut igitur quae ab istis 
+          <lb ed="#Z" n="46"/>profsuunt simul cum illis sunt unde prossuunt, ac semper unde fluant ostendunt: 
+          <lb ed="#Z" n="47"/>sic in unigenito intelligendum est. Ex patre enim esse intelligitur, sed in patre etiam 
+          <lb ed="#Z" n="48"/>esse creditur: non alienus a natura, neque post patrem natura secundus: sed in ipso 
+          <!--481.xml-->
+          <pb ed="#Z" n="229-v"/>
+          <lb ed="#Z" n="1"/>patre semper &amp; cum ipso, &amp; ex ipso, secundum ineffabilis generationis modum. 
+          <lb ed="#Z" n="2"/>Hactenus <name xml:id="UD1xh4-Cl8wSo-Nd1e267">Cyrillus</name>. Et illa quidem de patre &amp; de inenarrabili generatione filij 
+          <lb ed="#Z" n="3"/>dei firmiter secundum scripturas sunt credenda.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e273">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Porro de Filio dei teneamus &amp; indubitanter credamus, quod patri 
+          consub<lb ed="#Z" n="5" break="no"/>t stantialis atque ideo deus uerus sit, quod idem ille incarnatus pro nobis, &amp; homo 
+          <lb ed="#Z" n="6"/>factus, in utraque tam diuina quam humana subsistat natura, ita tamen ut naturae 
+          <lb ed="#Z" n="7"/>hae neque confundantur inter se neque diuidantur. Credimus enim unum atque eun 
+          <lb ed="#Z" n="8"/>dem dominum nostrum Iesum Christum uerum esse deum &amp; hominem uerum. 
+          <lb ed="#Z" n="9"/>Quae quidem singula per suas partes dilucide, &amp; quantum dominus gratiae dede 
+          <lb ed="#Z" n="10"/>rit, demonstrabimus, 
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e293">
+          <lb ed="#Z" n="11"/><pc type="indent"/> De uocabulo Homousij, quod concorditer Latini uerterunt 
+          Consubstantia<lb ed="#Z" n="12" break="no"/>le, diu &amp; multum apud ueteres altercatum esse testatur ecclesiastica historia. Quid 
+          <lb ed="#Z" n="13"/>significet et quomodo usurpatum fuerit a celeberrima Synodo Nicena, breuibus 
+          <lb ed="#Z" n="14"/>&amp; significantissime sic exposuit doctissimus &amp; pijssimus Eusebius Pamphili Cae 
+          <lb ed="#Z" n="15"/>sarien. antistes. Quod patri filius consubstantialis dicitur, expressam habet signi 
+          <lb ed="#Z" n="16"/>ficationemsquod nihil similitudinis cum factis creaturis filius dei habet, sed soli 
+          <lb ed="#Z" n="17"/>patri, qui ipsum genuit assimulatur, nec ex alia est substantia aut essentia, nisi 
+          pa<lb ed="#Z" n="18" break="no"/>tris. Et mox idem, Cui sententiae ad hunc modum expositae, recte subscribi posse 
+          <lb ed="#Z" n="19"/>uisum est: quando ex ueteribus doctos ac illustres episcopos ac commentatores 
+          <lb ed="#Z" n="20"/>de patris &amp; filij diuinitate disserentes, homousij dictione usos esse cognouimus, 
+          <lb ed="#Z" n="21"/>Haec Socrates historiarum lib. 5. cap. 8. Certe sancti ecclesiarum praesides haereticorum 
+          <lb ed="#Z" n="22"/>hypocrisi lubricitate &amp; malitia adacti, uocabula maxime significantia ac minime 
+          <lb ed="#Z" n="23"/>ancipitia, &amp; ipsi usurparunt &amp; alijs usurpanda imposuerunt, quibus partim ueri 
+          <lb ed="#Z" n="24"/>tatem orthodoxam diserte exprimerent, partim dolos &amp; artes malitiosas heretico 
+          <lb ed="#Z" n="25"/>rum redarguerent atque retegerent, imo &amp; excluderent. Confitebatur Arius, filium 
+          <lb ed="#Z" n="26"/>dei deum esse, sed consubstantialem interim patri negabat, quare declarabat se 
+          <lb ed="#Z" n="27"/>non syncere confiteri ueram filij diuinitatem. Nec refert admodum si uocabulum 
+          <lb ed="#Z" n="28"/>aliquod commodum &amp; rei explicandae idoneum in scriptura sacra tot literis quot 
+          <lb ed="#Z" n="29"/>in aliena lingua scribitur non extet, modo illud diserte scripturis expressum lega 
+          <lb ed="#Z" n="30"/>tur, quod uocabulo significatur. Proinde si ostenderimus filium eiusdem esse sub 
+          <lb ed="#Z" n="31"/>stantiae aut naturae cum patre, adeoque aequalem deo &amp; similem, unumque cum ipso, 
+          <lb ed="#Z" n="32"/>abunde demonstrauimus filium patri esse homousion siue consubstantialem. a 
+          <lb ed="#Z" n="33"/>charias propheta deum inducens loquentem, dicit: Excitare, o gladie, super pasto 
+          <lb ed="#Z" n="34"/>rem meum, &amp; super uirum coaequalem mihi, percute pastorem, &amp; dispergentur 
+          <lb ed="#Z" n="35"/>oues gregis. En pastorem percussum appellat deus coaequalem suum. Quis autem 
+          <lb ed="#Z" n="36"/>sit pastor ille percussus, declarat historia euangelica, ipsum nobis dei filium 
+          domi<lb ed="#Z" n="37" break="no"/>num Iesum Christum exhibens. Nec obest sed prodest causae nostrae, quod Hiero. 
+          <lb ed="#Z" n="38"/>non legit Virum coequalem mihi, sed Virum cohaerentem mihi. Nam ut ille non  
+          <lb ed="#Z" n="39"/>negat amith significare coaequalem, ita aliud reponit aeque efficax. Cum enim uer 
+          <lb ed="#Z" n="40"/>tit uirum cohaerentem mihi, intimam ipsamque substantialem, ut sic dicam, inhaeren 
+          <lb ed="#Z" n="41"/>tiam siue coaequalitatem patris &amp; filij, exprimere uoluit. Nam in Commentarijs 
+          <lb ed="#Z" n="42"/>addit: Et uir cohaerens deo quis est nisi qui ait? Ego in patre &amp; pater in me¬
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e366">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Rursus legimus in euangelio Ioannis: Propterea quaerebant ludaei Iesum 
+          in<lb ed="#Z" n="44" break="no"/>terficere, quia non solum soluisset sabbatum, (ene u&amp;. agagpae idlop et7e aby deop)sed 
+          <lb ed="#Z" n="45"/>&amp; patrem suum sproprium utique) dixisset deum: aequalem (on) se faciens deo. Cae 
+          <lb ed="#Z" n="46"/>terum Graeci ios exponunt per dui&amp;. Nec potest illa aequalitas ullibi c onsistere,  
+          <lb ed="#Z" n="47"/>nisi in substantia. Intelligunt enim ludaei, quod Ariani uidere nolunt, dominum 
+          <lb ed="#Z" n="48"/>singulari quodam modo deum appellasse patren suum, utique idtop proprium, natiuum  
+          <!--482.xml-->
+          <pb ed="#Z" n="230-r"/>
+          <lb ed="#Z" n="1"/>seu genuinum, ex quo naturaliter naturalis &amp; consubstantialis filius genitus sit. 
+          <lb ed="#Z" n="2"/>Sequitur enim: Aequalem se faciens deo, nimirum uirtute siue potentia, 
+          aeterni<lb ed="#Z" n="3" break="no"/>tate &amp; essentia. Nam idem dominus apud eundem Euangelistam dicit: Ego ex 
+          <lb ed="#Z" n="4"/>deo processi &amp; ueni. Non tantum Veni dixit: sed Processi. Processit talis ex patre, 
+          <lb ed="#Z" n="5"/>qualis est pater substantia, certe lumen de lumine, deus uerus ex deo uero. Nam  
+          <lb ed="#Z" n="6"/>iterum ludaeis dicit: Amen dico uobis, antequam Abraham fieret, ego sum. Non 
+          <lb ed="#Z" n="7"/>dicit Fui uel Ero, sed Sum, alludens ad nomen domini lehouah, &amp; explicans suam  
+          <lb ed="#Z" n="8"/>substantiam diuinitatis eandem esse cum substantia patris, &amp; iccirco se esse patri 
+          <lb ed="#Z" n="9"/>consubstantialem. Adhuc enim clarius: Ego, inquit, &amp; pater unum sumus. Vnum, 
+          <lb ed="#Z" n="10"/>inquam, non concordia, sed identitate &amp; essentia. Agitur enim eo loci de potentia 
+          <lb ed="#Z" n="11"/>&amp; maiestate dei. Cumque protinus ludaei lapidibus dominum ista loquutum 
+          adob<lb ed="#Z" n="12" break="no"/>ruere uellent, clare satis declarauerunt quomodo intellexerint uerba eius. 
+          Lapi<lb ed="#Z" n="13" break="no"/>dabant enim blasphemos, gloriam dei uel conuitijs impetentes, uel sibi ipsi 
+          arro<lb ed="#Z" n="14" break="no"/>gantes.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e417">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Huc pertinet quod Paulus de filio dei loquens, ait, Qui est imago dei 
+          incon<lb ed="#Z" n="16" break="no"/>spicui, primogenitus uniuersae creatures, quod per illum creata sint omnia. Si enim  
+          <lb ed="#Z" n="17"/>imago est dei inconspicui, coaequalis sit deo oportet. Nam alibi appellat eundem  
+          <lb ed="#Z" n="18"/>characterem dei, expressam (&amp; per omnia probissime respondentem 
+          archetypo<lb ed="#Z" n="19" break="no"/>imaginem. Certe imago &amp; similitudo est rerum non disparium, sed aequalium. 
+          <lb ed="#Z" n="20"/>Primogenitus autem dicitur, quia princeps &amp; dominus est, non quod &amp; ipse 
+          ac<lb ed="#Z" n="21" break="no"/>censeatur creaturis. Omnia enim quae condita sunt, per ipsum condita sunt: ergo 
+          <lb ed="#Z" n="22"/>ipse non est creatura, sed deus uerus, naturae utique &amp; substantiae diuinae, unus cum  
+          <lb ed="#Z" n="23"/>patre. Ad Philippenses idem apostolus dicit filium esse in forma dei. At in forma 
+          <lb ed="#Z" n="24"/>dei esse nihil aliud est, quam deo per omnia aequalem consubstantialem adeoque 
+          <lb ed="#Z" n="25"/>deum ipsum esse. Nam quid sit esse in forma dei, clarissime per oppositum 
+          mem<lb ed="#Z" n="26" break="no"/>brum illustratur. Sequitur enim: Formam serui assumpsit. Id quod rursus exponitur 
+          <lb ed="#Z" n="27"/>per consequens: In similitudine hominum constitutus, id est, uerus homo factus,  
+          <lb ed="#Z" n="28"/>caeteris hominibus nulla dissimilis in re, excepto peccato: quod alibi dilucide ex- 
+          <lb ed="#Z" n="29"/>primitur. Et hic rursus addit: Et figura repertus ut homo. Ideoque in forma dei esse, 
+          <lb ed="#Z" n="30"/>est deo coaequalem &amp; consubstantialem esse. Adiincit enim: Non rapinam 
+          arbitra<lb ed="#Z" n="31" break="no"/>tus est, ut esset aequalis deo, Rapina enim est res aliena: nam possidetur per 
+          iniu<lb ed="#Z" n="32" break="no"/>riam. Natura ergo &amp; proprijssimo modo coaequalis est patri filius, deus uerus. Et 
+          <lb ed="#Z" n="33"/>sensus uerborum Pauli hic est: Tametsi esset filius eiusdem gloriae &amp; maiestatis 
+          <lb ed="#Z" n="34"/>cum patre, potuissetque extra humiliationem manere in gloria, maluit se tamen exi 
+          <lb ed="#Z" n="35"/>nanire, id est, hominis naturam assumere, &amp; sese in pericula &amp; ipsam mortem con 
+          <lb ed="#Z" n="36"/>ijcere. Alioqui enim iuxta diuinitatem nihil sensit mutationis. Deus etenim est 
+          im<lb ed="#Z" n="37" break="no"/>mutabilis, &amp; uicissitudinis expers.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e470">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Ista cum ita habeant, pie S. Ambrosius libro de Fide contra Arianos cap. 5. 
+          <lb ed="#Z" n="39"/>Cum ergo hanc unitatem substantiae, inquit, in patre &amp; filio non solum propheti 
+          <lb ed="#Z" n="40"/>ca, sed &amp; euangelica authoritate cognoscas, quomodo dicis in scripturis diuinis 
+          <lb ed="#Z" n="41"/>homousion non inueniri: quasi aliud sit homousion, quam quod dicit: Ego de deo 
+          <lb ed="#Z" n="42"/>patre exiui. Et, Ego &amp; pater unum sumus, &amp;c. Praeceptorem Ambrosium sequutus 
+          <lb ed="#Z" n="43"/>discipulus beatus Augustinus in Altercatione cum Pascentio, homousion 
+          scriptu<lb ed="#Z" n="44" break="no"/>rae locis confirmans demonstrat hoc sancte in fide &amp; religione nostra usurpari. Id 
+          <lb ed="#Z" n="45"/>ipsum facit libro contra Maximianum Arianorum episcopum tertio cap. 14. Sed 
+          <lb ed="#Z" n="46"/>quid necesse est plura coaceruare? Spero enim dilucidis scripturae sanctae locis 
+          <lb ed="#Z" n="47"/>clare satis demonstratum esse, filium patri esse consubstantialem, atque ita credi 
+          <lb ed="#Z" n="48"/>oportere. Hoc ipsum consequenti tractatione iterum per scripturarum testi¬ 
+          <!--483.xml-->
+          <pb ed="#Z" n="230-v"/>
+          <lb ed="#Z" n="1"/>monia non parum illustrandum fore speramus.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e504">
+          <lb ed="#Z" n="2"/><pc type="indent"/> Deum uerum esse dei filium dominum nostrum Iesum Christum negauit A- 
+          <lb ed="#Z" n="3"/>rius cum suis complicibus. Scriptura uero ueracissima tam manifeste approbat,  
+          <lb ed="#Z" n="4"/>ut nihil possit addubitare cui ueritas cordi est, Recitabimus in praesenti 
+          testimo<lb ed="#Z" n="5" break="no"/>nia &amp; argumenta aliquot maxime perspicua, quibus interueniente spiritu sancto 
+          <lb ed="#Z" n="6"/>confirmetur fides nostra, ipsaque ueritas catholica &amp; orthodoxa illustretur.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e518">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Apud Matthaeum in 3. cap. baptisato domino nostro per Ioannem Baptistam  
+          <lb ed="#Z" n="8"/>aperti sunt coeli, descenditque spiritus sanctus specie columbae super caput domini 
+          <lb ed="#Z" n="9"/>nostri Iesu Christi, protinus etiam audita est uox e nubibus a diuina gloria sic pro 
+          <lb ed="#Z" n="10"/>nunciata: Hic est filius meus dilectus, in quo placata est anima mea. Et Ioannes ba 
+          <lb ed="#Z" n="11"/>ptista apud Ioannem euangelistam: Vidi spiritum, inquit, descendentem specie co 
+          <lb ed="#Z" n="12"/>lumbae de coelo, &amp; mansit super eum : &amp; ego non noueram eum, sed qui misit me 
+          <lb ed="#Z" n="13"/>ut baptizarem aqua, is mihi dixit: Super quem uideris spiritum descendentem ac 
+          <lb ed="#Z" n="14"/>manentem super eum, hic est qui baptizat spiritu sancto. Et ego uidi &amp; testatus 
+          <lb ed="#Z" n="15"/>sum hunc esse filium dei. Huc pertinet quod beatus Petrus rogatus a domino: 
+          <lb ed="#Z" n="16"/>At uos quem me esse dicitis : omnium nomine respondit: Tu es Christus ille filius 
+          <lb ed="#Z" n="17"/>dei uiuentis. Et iterum obiiciente domino: Num &amp; uos uultis abire? Respondit 
+          <lb ed="#Z" n="18"/>rursus omnium nomine S. Petrus: Domine ad quem ibimus? Verba uitae aeternae 
+          <lb ed="#Z" n="19"/>habes, &amp; nos credimus &amp; cognouimus quod tu es Christus filius dei uiuii 
+          Dici<lb ed="#Z" n="20" break="no"/>mur quidem &amp; nos filij dei, sed per adoptionem, Christus autem non per adoptio 
+          <lb ed="#Z" n="21"/>nem neque per imputationem, sed per naturam. Nam Marci 14. dicit summus 
+          fa<lb ed="#Z" n="22" break="no"/>cerdos domino nostro: Tu es Christus ille filius benedicti: Apud Matthaeum idem  
+          <lb ed="#Z" n="23"/>ait: Adiuro te per deum uiuum, ut dicas nobis, an tu sis Christus filius dei 
+          uiui<lb ed="#Z" n="24" break="no"/>Respondit Iesus: Ego sum. Nam uidebitis filium hominis sedentem a dextris 
+          uir<lb ed="#Z" n="25" break="no"/>tutis, &amp; uenientem in nubibus coeli. Id quod repetitum apparet ex 7. Danielis cap.  
+          <lb ed="#Z" n="26"/>Caeterum hanc confessionem domini coram Pilato ueluti blasphemam morteque 
+          <lb ed="#Z" n="27"/>expiandam adducunt, clamantes: Nos habemus legem, &amp; secundum legem no 
+          <lb ed="#Z" n="28"/>stram debet mori: quia filium dei se fecit. At illi ipsi in euangelica historia contra 
+          <lb ed="#Z" n="29"/>dominum intonant: Nos e stupro non sumus nati : unum patrem habemus deum, 
+          <lb ed="#Z" n="30"/>Certum ergo est, ludaeos non aliam ob caussam accusasse saluatorem nostrum cri 
+          <lb ed="#Z" n="31"/>mine maiestatis diuinae laesae, quam quod dixisset se naturalem non adoptiuum 
+          <lb ed="#Z" n="32"/>esse dei filium. Hoc enim non erat capitale, illud erat capitale. Nam &amp; Ioan. 5. legi 
+          <lb ed="#Z" n="33"/>mus, Propterea quaerebant ludaei magis interficere Iesum, quia non solum 
+          soluis<lb ed="#Z" n="34" break="no"/>set sabbatum, sed &amp; patrem suum dixisset deum, aequalem se deo faciens. En 
+          ha<lb ed="#Z" n="35" break="no"/>bes modum quomodo appellarit se dei filium, non per adoptionem aut reputatio 
+          <lb ed="#Z" n="36"/>nem, sed per naturam atque substantiam. Nam iterum uolentibus lapidare 
+          domi<lb ed="#Z" n="37" break="no"/>num, ipse opponit, Multa bona opera ostendi uobis ex patre meo, propter quod 
+          <lb ed="#Z" n="38"/>eorum bonorum operum me lapidatis ? Responderunt iterum ludaei dicentes:  
+          <lb ed="#Z" n="39"/>Ob bonum opus non lapidamus te, sed ob blasphemiam, nimirum quia tu homo 
+          <lb ed="#Z" n="40"/>cum sis, facis teipsum deum. En quid poterat dici clarius? Facis teipsum deum. Et 
+          <lb ed="#Z" n="41"/>quid oro dixerat unde haec colligebant: Ego ouibus meis do uitam aeternam, nec 
+          <lb ed="#Z" n="42"/>peribunt in aeternum, neque rapiet eas quisquam de manu mea. Pater meus, qui de 
+          <lb ed="#Z" n="43"/>dit mihi, maior omnibus est: &amp; nemo potest rapere de manu patris mei. Ego &amp; pa 
+          <lb ed="#Z" n="44"/>ter unum sumus. Dare uitam aeternam, est uirtutis diuinae: seruare &amp; ita seruare ut 
+          <lb ed="#Z" n="45"/>nemo de manibus possit rapere, eiusdem est uirtutis. Probat autem suam assertio 
+          <lb ed="#Z" n="46"/>nem dominus tali argumentatione. Nemo potest oues rapere ex manibus patris 
+          <lb ed="#Z" n="47"/>mei: ergo nemo potest rapere ex manibus meis. Probatio antecedentis: quia pater 
+          <lb ed="#Z" n="48"/>maior omnibus est: id est maximus omnium est : cuius uirtus diuina superat omnia. 
+          <!--484.xml-->
+          <pb ed="#Z" n="231-r"/>
+          <lb ed="#Z" n="1"/>Probatio consequentiae, quia ego &amp; pater unum sumus, nimirum non uoluntate 
+          <lb ed="#Z" n="2"/>duntaxat concordi, sed potentia &amp; maiestate, de qua agitur in praesenti, non de 
+          <lb ed="#Z" n="3"/>concordia, sed pari potestate uiuificandi &amp; conseruandi. De qua copiosissime ip 
+          <lb ed="#Z" n="4"/>se dominus disputat per integrum cap. 5. euangelij Ioannis, demonstrans se remit 
+          <lb ed="#Z" n="5"/>tere peccata, uiuificare atque excitare ex mortuis sua uirtute, perinde atque patrem,  
+          <lb ed="#Z" n="6"/>ergo ipsum esse eiusdem potestatis &amp; maiestatis diuinae cum deo patre. Haec sunt 
+          <lb ed="#Z" n="7"/>tam euidentia &amp; illustria, ut si nulla alia haberemus testimonia, sola haec abunde 
+          <lb ed="#Z" n="8"/>sufficerent pro assertione uera filij dei diuinitate, quod scilicet filius est deus uerus.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e635">
+          <lb ed="#Z" n="9"/><pc type="indent"/> Rursus idem dominus &amp; saluator noster magna libertate &amp; uerborum luce 
+          <lb ed="#Z" n="10"/>absque omni aenigmate &amp; uerborum obscuritate palam &amp; diserte ad discipulos di- 
+          <lb ed="#Z" n="11"/>cit: Ne turbetur cor uestrum, Creditis in deum, &amp; in me credite. Ego sum uia 
+          ue<lb ed="#Z" n="12" break="no"/>ritas &amp; uita, qui uidit me, uidit patrem. Non creditis quod ego in patre sum, &amp; pa 
+          <lb ed="#Z" n="13"/>ter in me : Certum est autem Christum dominum doctorem esse coelestem, 
+          uerita<lb ed="#Z" n="14" break="no"/>tis constantissimum assertorem, qui neminem nec seduxit nec potuit seducere. 
+          <lb ed="#Z" n="15"/>Sed iubet nos credere in ipsum ut deum uerum. Est itaque dominus noster deus ue 
+          <lb ed="#Z" n="16"/>rus. Nam &amp; alibi clarissime dicit: Ego sum panis uiuus, qui de coelo descendi, qui  
+          <lb ed="#Z" n="17"/>confidit mihi, habet uitam aeternam.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e658">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Idem iterum in euangelio perspicue pronunciat, &amp; ait, Pater uenit hora, glo¬  
+          <lb ed="#Z" n="19"/>rifica filium tuum, ut &amp; filius tuus glorificet te. Sicut dedisti ei potestatem om- 
+          <lb ed="#Z" n="20"/>nis carnis, ut quotquot dedisti ei, det eis uitam aeternam. Haec est autem uita aeter 
+          <lb ed="#Z" n="21"/>na, ut cognoscant te solum deum uerum, &amp; quem misisti Iesum Christum. Qui¬  
+          <lb ed="#Z" n="22"/>bus uerbis &amp; unitatem dei contra ethnicos, plures deos colentes, asseruit, &amp; 
+          per<lb ed="#Z" n="23" break="no"/>sonarum distinctionem pulchre insinuauit, interim etiam se uerum deum esse 
+          <lb ed="#Z" n="24"/>cum patre praedicauit. Mox enim subiungit. Glorifica me tu pater apud 
+          temetip<lb ed="#Z" n="25" break="no"/>sum gloria, quam habui priusquam hic mundus esset apud te. Non puto hic mihi 
+          <lb ed="#Z" n="26"/>praetereundam Tertulliani argumentationem, quo minus c. V. recitem ex libro 
+          <lb ed="#Z" n="27"/>de Trinitate, in quo plurima colligit diuinitatis Christi solidissima argumenta. Si 
+          <lb ed="#Z" n="28"/>homo tantummodo Christus, inquit, quare credendi nobis regulam talem posuit,  
+          <lb ed="#Z" n="29"/>quo diceret: Haec est autem uita eterna, ut sciant te unum &amp; uerum deum, &amp; quem 
+          <lb ed="#Z" n="30"/>misisti Iesum Christum. Si noluisset se etiam deum intelligi, cur addidit: Et quem 
+          <lb ed="#Z" n="31"/>misisti Iesum Christum, nisi quoniam &amp; deum accipi uoluit: quoniam si se deum 
+          <lb ed="#Z" n="32"/>nollet intelligi, addidisset: Et quem misisti hominem Iesum Christum : nunc autem 
+          <lb ed="#Z" n="33"/>neque addidit nec se hominem nobis tantummodo Christus tradidit, sed deo iunxit: 
+          <lb ed="#Z" n="34"/>ut &amp; deum per hanc coniunctionem sicut est intelligi uellet. Est ergo credendum 
+          <lb ed="#Z" n="35"/>secundum praescriptam regulam in dominum unum uerum deum, &amp; in eum que 
+          <lb ed="#Z" n="36"/>misit Iesum Christum consequenter: qui se nequaquam patri, ut diximus, 
+          iunxis<lb ed="#Z" n="37" break="no"/>set, nisi deum quoque intelligi uellet. Separasset enim ab eo, si deum intelligi se 
+          no<lb ed="#Z" n="38" break="no"/>luisset. Inter homines enim tantummodo se collocasset, si hominem se esse tantum¬  
+          <lb ed="#Z" n="39"/>modo sciret: nec cum deo iunxisset, si se non &amp; deum nosset : nunc &amp; de homine 
+          <lb ed="#Z" n="40"/>tacet, quoniam hominem illum esse nemo dubitat, &amp; deo se iungit merito, ut 
+          cre<lb ed="#Z" n="41" break="no"/>dituris diuinitatis suae formulam poneret. Si homo tantummodo Christus, 
+          quo<lb ed="#Z" n="42" break="no"/>modo dicit: Et nunc honorifica megloria quam habebam apud te priusquam 
+          mun<lb ed="#Z" n="43" break="no"/>dus erat? Si antequam mundus esset gloriam habuit apud deum, &amp; claritatem 
+          te<lb ed="#Z" n="44" break="no"/>nuit apud patrem, ante mundum fuit. Neque enim habuisset gloriam, nisi prius 
+          fu<lb ed="#Z" n="45" break="no"/>isset qui gloriam posset tenere. Nemo enim habere aliquid poterit, nisi ipse ante 
+          <lb ed="#Z" n="46"/>fuerit qui aliquid tenet. Sed enim Christus habet gloriam ante mundi institutio¬  
+          <lb ed="#Z" n="47"/>nem: ergo ante mundi institutionem fuit. Nisi enim ante mundi institutionem 
+          <lb ed="#Z" n="48"/>esset, ante mundi institutionem gloriam habere non posset, cum ipse non esset. Sed 
+          <!--485.xml-->
+          <pb ed="#Z" n="231-v"/>
+          <lb ed="#Z" n="1"/>enim homo gloriam ante mundi institutionem habere non potuit, qui post mun 
+          <lb ed="#Z" n="2"/>dum fuit. Christus autem habuit: ante mundum igitur fuit: non igitur homo tan 
+          <lb ed="#Z" n="3"/>tummodo fuit, qui ante mundum fuit. Deus est igitur, quoniam ante mundum 
+          <lb ed="#Z" n="4"/>fuit, &amp; gloriam ante mundum tenuit. Post haec ostendit Tertul. haec non 
+          interpre<lb ed="#Z" n="5" break="no"/>tanda esse de praedestinatione, sed de substantia Christi. Sed haec hactenus,
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e744">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Sanctus apostolus Paulus in epistola ad Romanos semel &amp; iterum ostendit 
+          <lb ed="#Z" n="7"/>uerbis minime obscuris, dominum nostrum Iesum Christum uerum esse deum,  
+          <lb ed="#Z" n="8"/>Nam in 9. cap. de Christo loquens, dicit: Qui est in omnibus deus laudandus in 
+          <lb ed="#Z" n="9"/>saecula. Notissima sunt quae idem ille scribit in 1. ad Corinth. 8. cap. Diuus apost? 
+          <lb ed="#Z" n="10"/>lus &amp; euangelista Ioannes in sua canonica diuinitatem filij tam manifeste 
+          demon<lb ed="#Z" n="11" break="no"/>strat, ut qui non uideat, corpore &amp; animo caecus sit. In fine epistolae: Scimus, 
+          in<lb ed="#Z" n="12" break="no"/>quit, quod filius dei uenit, &amp; dedit nobis mentem, ut cognoscamus illum, qui uerus 
+          <lb ed="#Z" n="13"/>est: &amp; sumus in uero, in filio eius Iesu Christo, Hic est uerus deus &amp; uita aeterna
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e765">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Iam deus est per quem uiuimus, mouemur &amp; sumus, teste Paulo : per Chri 
+          <lb ed="#Z" n="15"/>stum autem dominum nostrum uiuimus, mouemur &amp; sumus: sicut ipse clare 
+          do<lb ed="#Z" n="16" break="no"/>cuit in euangelio secundum Ioannem: Christus ergo deus est uerus.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e775">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Apud lsaiam in cap. 43. &amp; 45. dicit dominus : Ego sum, ego sum dominus, &amp;  
+          <lb ed="#Z" n="18"/>non est absque me Saluator. Deus iustus &amp; saluans non est praeter me. At Ieremias 
+          <lb ed="#Z" n="19"/>in 23. cap. Christum Dauidis filium appellat lehouah &amp; iustitiam nostram. Item  
+          <lb ed="#Z" n="20"/>apud lsaiam de filio loquens pater: Dedi te in lucem gentium, inquit, ut sis salus 
+          <lb ed="#Z" n="21"/>mea usque ad extremum terrae. Caeterum cum non sit ullus deus alius, praeter unum, 
+          <lb ed="#Z" n="22"/>nulla alia uera salus &amp; iustitia, nisi unica illa diuina : consequens profecto est, Chri 
+          <lb ed="#Z" n="23"/>stum uerum esse deum patri coaequalem per omnia.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e794">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Apud eundem lsaiam dicit dominus : Per meipsum iuraui, exibit de ore mec 
+          <lb ed="#Z" n="25"/>iustitiae uerbum, &amp; non retractabitur: quia mihi ffectetur omne genu, &amp; iurabit  
+          <lb ed="#Z" n="26"/>omnis lingua. Atqui Paulus dixit: Donatum est Christo nomen quod est supra 
+          <lb ed="#Z" n="27"/>omne nomen, ut in nomine Iesu se flectat omne genu coelestium ac terrestrium,  
+          <lb ed="#Z" n="28"/>&amp; infernorum, omnisque lingua confiteatur quod dominus sit Iesus Christus, ad 
+          <lb ed="#Z" n="29"/>gloriam dei patris. Proinde necesse est Christum uerum esse deum. Nam cum ado 
+          <lb ed="#Z" n="30"/>ratur coliturque, cum confitemur ipsum esse dominum, id quidem non cedit ad 
+          ig<lb ed="#Z" n="31" break="no"/>nominiam, sed ad gloriam dei patris. Siquidem in euangelio secundum Ioannem 
+          <lb ed="#Z" n="32"/>sic dicit dominus: Pater omne iudicium (nimirum omnia iura &amp; omnem admini¬  
+          <lb ed="#Z" n="33"/>strationem gloriam ac potestatem) dedit filio, ut omnes honorent filium sicut 
+          hono<lb ed="#Z" n="34" break="no"/>rant patrem. Qui non honorat filium, non honorat patrem, qui misit illum. Huc 
+          <lb ed="#Z" n="35"/>ergo iam pertinet quod apud lsaiam prophetam iterum legimus: Ego dominus, 
+          <lb ed="#Z" n="36"/>hu(uel ipse) est nomen meum, &amp; gloriam meam altertuel alieno non dabo, &amp;c. 
+          <lb ed="#Z" n="37"/>Dat autem gloriam suam filio: hic ergo substantia sua, secundum diuinitatem, non  
+          <lb ed="#Z" n="38"/>est alienus a patre, licet in propria persona agnoscatur. Quid quod in euangelio 
+          <lb ed="#Z" n="39"/>secundum Ioannem dominus nondicit? Et nunc glorifica tu me pater apud 
+          temet<lb ed="#Z" n="40" break="no"/>ipsum gloria, quam dedisti priusquam hic mundus esset apud te: sed quam habui 
+          <lb ed="#Z" n="41"/>priusquam hic mundus esset apud te. Habui, inquam, dicit, non accepi. 
+          Quan<lb ed="#Z" n="42" break="no"/>quam scriptura &amp; hoc uocabulo utitur non raro propter dispensationis mysterium.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e840">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Apud Michaeam dicunt Christiani. Omnes gentes ambulant unaquaeque in no 
+          <lb ed="#Z" n="44"/>mine dei sui, nos autem ambulabimus in nomine dei nostri. Caeterum ambulant 
+          <lb ed="#Z" n="45"/>in nomine &amp; uia Iesu Christi, dicentis in euangelio: Ego sum uia &amp; ostium, Ego 
+          <lb ed="#Z" n="46"/>sum lux mundi, qui sequitur me, non ambulat in tenebris. Deum ergo esse Chri- 
+          <lb ed="#Z" n="47"/>stum quis est qui ignoret? Nam apud Ezechielem dicit dominus: Solus ego pascam 
+          <lb ed="#Z" n="48"/>gregem meum. Et mox subiungit: Pascet eum seruus meus Dauid, nimirum Chri- 
+          <!--486.xml-->
+          <pb ed="#Z" n="232-r"/>
+          <lb ed="#Z" n="1"/>stus, Dauidis filius, pastor ille uniuersalis ecclesiae unicus, atque sccirco deus uerus. 
+          <lb ed="#Z" n="2"/>Oportet enim uniuersalem pastorem regem &amp; sacerdotem aeternum omniscium 
+          <lb ed="#Z" n="3"/>&amp; omnipotentem esse, omnibus hominibus in omnibus locis praesentem. 
+          Proin<lb ed="#Z" n="4" break="no"/>de uerus deus est filius dei, quia Messias est.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e870">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Praeterea quid oro clarius &amp; minus controuersum est, quam quod solus deus 
+          <lb ed="#Z" n="6"/>peccata remittit? Necesse est ergo nihil esse clarius &amp; minus dubium, quam  
+          <lb ed="#Z" n="7"/>quod credimus Christum esse uerum deum. Quia est agnus dei, qui tollit 
+          pecca<lb ed="#Z" n="8" break="no"/>tum mundi.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e882">
+          <lb ed="#Z" n="9"/><pc type="indent"/> Rursus cum Christum recte appellet Paulus spem nostram: nam &amp; lsaias 
+          prae<lb ed="#Z" n="10" break="no"/>dixit: In illo gentes sperabunt. Ieremias uero clamet: Maledictus omnis qui spem 
+          <lb ed="#Z" n="11"/>suam collocat in homine: beatus uero qui deo fidit necessario Christum deum con 
+          <lb ed="#Z" n="12"/>fiteri oportet. Nam saepe apud Ioannem ingeminat: Amen dico uobis, qui fidit  
+          <lb ed="#Z" n="13"/>mihi habet uitam aeternam. Possem huius generis innumera ex scripturis 
+          profer<lb ed="#Z" n="14" break="no"/>re argumenta, attestantia filium dei dominumnostrum Iesum Christum unius &amp;  
+          <lb ed="#Z" n="15"/>eiusdem esse cum patre naturae, ideoque deum uerum ex deo uero: uerum spero 
+          san<lb ed="#Z" n="16" break="no"/>ctis &amp; minime contentiosis auditoribus illa qua produximus, satisfacere.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e903">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Restat ut demonstremus dei filium incarnatum pro nobis, &amp; ex Maria uirgi¬  
+          <lb ed="#Z" n="18"/>ne, uerum hominem, nobis per omnia, peccato excepto, consubstantialem, esse 
+          na<lb ed="#Z" n="19" break="no"/>tum. Lex, prophetae &amp; apostoli manifestissima nobis exhibent uerae carnis uel 
+          hu<lb ed="#Z" n="20" break="no"/>manitatis filij dei argumenta. In Lege enim dicit dominus: Semen mulieris 
+          con<lb ed="#Z" n="21" break="no"/>culcabit caput serpentis. Caeterum caput serpentis, quis nesciat esse diaboli 
+          reg<lb ed="#Z" n="22" break="no"/>num, uim, uel potentiam: Hanc autem fregisse Iesum Christum, tota attestatur scri- 
+          <lb ed="#Z" n="23"/>ptura. Atqui hic nuncupatur semen mulieris. Et semen quidem propter 
+          uerita<lb ed="#Z" n="24" break="no"/>tem humanae naturae: semen autem mulieris, non uiri, propter coneeptionem ex 
+          <lb ed="#Z" n="25"/>spiritu sancto &amp; natiuitatem ex Maria uirgine factam. Et quoniam haec fuit filia 
+          <lb ed="#Z" n="26"/>Dauidis, Abrahae &amp; Adam, consequens est filium Mariae uerum esse hominem, 
+          <lb ed="#Z" n="27"/>Quemadmodum enim Adamo dictum audiuimus: Semen mulieris conculcabit 
+          <lb ed="#Z" n="28"/>caput serpentis: ita eandem promisionem Abrahae renouatam &amp; inculcatam 
+          le<lb ed="#Z" n="29" break="no"/>gimus hisce uerbis: In semine tuo benedicentur omnes gentes orbis. Paulus uero 
+          <lb ed="#Z" n="30"/>ad Galat, manifeste dicit, semen hoc Abrahae, in quo benedictionem consequimur, 
+          <lb ed="#Z" n="31"/>Christum esse Iesum. Idem apostolus: Nuspiam, inquit, angelos assumit, sed seme 
+          <lb ed="#Z" n="32"/>Abrahae assumit : per angelos utique excludens quasuis substantias spirituales, per 
+          <lb ed="#Z" n="33"/>semen Abrahae ipsissimam intelligens humanae carnis substantiam. Nam subiun 
+          <lb ed="#Z" n="34"/>git: Vnde debuit per omnia similis fratribus esse. Et quoniam hi communicant 
+          <lb ed="#Z" n="35"/>carne &amp; sanguine, &amp; ipse similiter particeps factus est eorundem. Certe scriptura 
+          <lb ed="#Z" n="36"/>lineam prosapiae Christi diligentissime deducit ex lumbis Abrahae in Iacobum, &amp;  
+          <lb ed="#Z" n="37"/>ex hoc rursus in ludam, inde rursus in Dauidem. Huic renouantur iterum 
+          pro<lb ed="#Z" n="38" break="no"/>misiones de incarnando dei filio. Nathan enim Dauidi dicit: Sic dicit dominus: 
+          <lb ed="#Z" n="39"/>Cum completi fuerint dies tui, dormierisque cum patribus tuis, excitabo semen 
+          <lb ed="#Z" n="40"/>tuum post te, quod egredietur de utero tuo, regnumque eius firmabo. Is extruet do 
+          <lb ed="#Z" n="41"/>mum nomini meo: &amp; ego confirmabo regni eius solium in aeternum. Neque est quod 
+          <lb ed="#Z" n="42"/>haec quisquam interpretetur de Solomone. Hic enim uiuente patre Dauide 
+          na<lb ed="#Z" n="43" break="no"/>tus, regnumque eius cito dilapsum est. Caeterum Nathan loquitur de filio qui sit 
+          Da<lb ed="#Z" n="44" break="no"/>uidi nascendus post mortem. Cum dormieris, inquit, cum patribus tuis, excitabo 
+          <lb ed="#Z" n="45"/>semen tuum post te. Et quale hoc futurum sit, manifestissime declarat, &amp; ait, Quod 
+          <lb ed="#Z" n="46"/>egredietur de utero tuo. Nam &amp; Psalm. 132. legimus, De fructu uentris tui ponam 
+          <lb ed="#Z" n="47"/>super sedem tuam. Porro uirgo Maria Dauidici fuit seminis propago, ex qua 
+          ge<lb ed="#Z" n="48" break="no"/>nitus est Christus dominus, de quo loquens angelus, &amp; uetusta illa exponens ua¬ 
+          <!--487.xml-->
+          <pb ed="#Z" n="232-v"/>
+          <lb ed="#Z" n="1"/>ticinia, ad uirginem dicit: Et dabit illi dominus deus sedem Dauid patris ipsius,  
+          <lb ed="#Z" n="2"/>regnabitque super domum Iacob in aeternum: &amp; regni eius non erit finis. Huc 
+          quo<lb ed="#Z" n="3" break="no"/>que pertinet quod Elisabetha dicit ad uirginem ex Galilaea in montana ludaeae 
+          <lb ed="#Z" n="4"/>uenientem: Et unde hoc mihi ut ueniat mater domini mei ad me? Benedicta tu 
+          in<lb ed="#Z" n="5" break="no"/>ter mulieres, &amp; benedictus fructus uentris tui. Certe Matthaeus &amp; Lucas ex 
+          pro<lb ed="#Z" n="6" break="no"/>sapia &amp; ueluti lumbis Dauidis lineam Christi deducunt in ipsam usque uirginem 
+          <lb ed="#Z" n="7"/>Mariam, quae concipit ex spiritu sancto, id est, foecundante ipsam spiritu sancto. 
+          <lb ed="#Z" n="8"/>Eadem mensibus completis, quibus absoluitur foetus, peperit: qui uero natus est,  
+          <lb ed="#Z" n="9"/>modis omnibus apparet homo uerus: collocatur in praesepio fascijs inuolutus, cre 
+          <lb ed="#Z" n="10"/>scit &amp; adolescit pro ratione corporis humani, fatigatur, recreatur, gaudet, dolet,  
+          <lb ed="#Z" n="11"/>esurit, sitit, edit, bibit, metuit, denique moritur. Id quod multis approbat ueritas 
+          e<lb ed="#Z" n="12" break="no"/>uangelicae historiae. Nec ipsa erubescit scriptura Mariam appellare matrem domi 
+          <lb ed="#Z" n="13"/>ni, non utique putatiuam, sed ueram &amp; naturalem, utpote quae de proprij corporis 
+          <lb ed="#Z" n="14"/>substantia ueram carnem &amp; humanam substantiam dedit filio dei, attestante cum 
+          <lb ed="#Z" n="15"/>lsaia angelo dei, ac dicente: In utero concipiet uirgo &amp; pariet filium. En in utero 
+          <lb ed="#Z" n="16"/>dicit. Et rursus apud Matthaeum dicit angelus idem: Quod in illa conceptum est,  
+          <lb ed="#Z" n="17"/>a spiritu sancto profectum est. Vnde apostolus ad Galatas dicit filium dei factum  
+          <lb ed="#Z" n="18"/>esse ex muliere, nimirum secundum naturam humanam. Est enim Christus 
+          fru<lb ed="#Z" n="19" break="no"/>ctus uentris Dauidis, &amp; uirginis Mariae, genitae ex lumbis Dauidis. Sed &amp; 
+          Ioan<lb ed="#Z" n="20" break="no"/>nes apostolus &amp; euangelista, Verbum, inquit, caro factum est, &amp; habitauit in 
+          no<lb ed="#Z" n="21" break="no"/>bis. Carnem nuncupans deum, uerum utique hominem appellat. Nam idem 
+          apo<lb ed="#Z" n="22" break="no"/>stolus alibi: Omnis spiritus, ait, qui confitetur Iesum Christum in carne uenisse, 
+          <lb ed="#Z" n="23"/>ex deo est: &amp; omnis spiritus qui non confitetur Iesum Christum in carne uenisse,  
+          <lb ed="#Z" n="24"/>ex deo non est. Libere ergo pronunciamus, Valentinum, Marcionem, Apellem et  
+          <lb ed="#Z" n="25"/>Manicheum, negantes ueram Christi carnem, esse ex diabolo, &amp; ideo modis 
+          om<lb ed="#Z" n="26" break="no"/>nibus una cum omnibus ipsorum sectatoribus fugiendos. Locum autem de uera 
+          <lb ed="#Z" n="27"/>Christi carne hisce dilucidissimis Pauli uerbis concludimus : Cum Christus esset 
+          <lb ed="#Z" n="28"/>in forma dei, semetipsum exinaniuit, formam serui accipiens, in similitudine 
+          ho<lb ed="#Z" n="29" break="no"/>minum constitutus, &amp; figura repertus ut homo: humiliauit semetipsum, factus 
+          <lb ed="#Z" n="30"/>obediens usque ad mortem, mortem autem crucis. Proinde indulbitatum est, dei fi- 
+          <lb ed="#Z" n="31"/>lium ueram &amp; humanam assumpsisse carnem, &amp; in ea nobis per omnia, peccato 
+          <lb ed="#Z" n="32"/>excepto, esse consubstantialem.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1050">
+          <lb ed="#Z" n="33"/><pc type="indent"/> Neque uero resuscitatus ex mortuis dominus noster, tametsi clarificatus, 
+          ueri<lb ed="#Z" n="34" break="no"/>xtatem corporis sui semel assumpti deposuit. Et clarificatio ueritatem naturae non  
+          <lb ed="#Z" n="35"/>it aboset. Dicit enim discipulis : Spiritus carnem &amp; ossa non habet, sicut uidetis me 
+          <lb ed="#Z" n="36"/>habere. Proinde ueram illam suam carnem secum uexit in coelum, in uera carne 
+          <lb ed="#Z" n="37"/>apparet pro nobis semper in conspectu dei patris, in uera carne uenturus est 
+          iu<lb ed="#Z" n="38" break="no"/>dicare uiuos &amp; mortuos, in uera carne uidebunt eum qui confixerunt ipsum. Se- 
+          <lb ed="#Z" n="39"/>cundum hanc naturam Christus ( qui iuxta diuinitatem non creatura, sed creator 
+          <lb ed="#Z" n="40"/>est) creatura est. Habet enim caro Christi initium, descenditque ex Adamo, qui est 
+          <lb ed="#Z" n="41"/>creatura dei uiuentis. Et quamuis haec satis communita sint robore scripturarum.  
+          <lb ed="#Z" n="42"/>non pigebit tamen C. V. recitare sententiam beati patris Cyrilli, quam eadem de 
+          <lb ed="#Z" n="43"/>re hisce uerbis in epistola ad Successum episcopum lsauriae Diocaesarien scriptam  
+          <lb ed="#Z" n="44"/>reliquit. Quia in tuo Commonitorio tale quippiam reperi, quasi post 
+          resurrectio<lb ed="#Z" n="45" break="no"/>nem, sancta caro Christi saluatoris omnium nostrum, in deitatis sit conuersa natu 
+          <lb ed="#Z" n="46"/>ram, ita ut iam tota diuinitas sola esse uideatur oportere, credidimus etiam ad hoc 
+          <lb ed="#Z" n="47"/>dare responsum. Et post aliquot uerba, Post resurrectionem erat quidem corpus 
+          <lb ed="#Z" n="48"/>ipsum, quod passum fuerat, ueruntamen iam non habens in se infirmitates huma¬ 
+          <!--488.xml-->
+          <pb ed="#Z" n="233-r"/>
+          <lb ed="#Z" n="1"/>nas. Non enim illam patientem famis laboris uel similis alicuius asserimus, sed iam  
+          <lb ed="#Z" n="2"/>incorruptibile confitemur: nec hoc solum, sed &amp; uiuificum. Vitae enim corpus est,  
+          <lb ed="#Z" n="3"/>id est, unigeniti filij dei, glorificatum est claritate deo dignissima, &amp; intelligitur dei 
+          <lb ed="#Z" n="4"/>corpus. Iccirco si quis illud diuinum dicat, sicut &amp; hominis humanum, a 
+          decentis<lb ed="#Z" n="5" break="no"/>sima ratione non deuiat. Vnde puto beatissimum quoque Paulum dicere: Etsi 
+          co<lb ed="#Z" n="6" break="no"/>gnouimus secundum carnem Christum, nunc tamen non nouimus. Dei enim, ut 
+          <lb ed="#Z" n="7"/>dixi, proprium corpus existens, omnia humana transcendit. Conuersionem autem 
+          <lb ed="#Z" n="8"/>in deitatis naturam, corpus e terra non potuit sustinere. Hoc enim impossibile est: 
+          <lb ed="#Z" n="9"/>alioqui deitati derogamus tanquam facte, &amp; uelut assumpto aliquid in se, quod eius 
+          <lb ed="#Z" n="10"/>iuxta naturam proprium non sit. Dehinc aequalis probatur ineptiae dicere 
+          conuer<lb ed="#Z" n="11" break="no"/>sum esse corpus in deitatis naturam, &amp; illud quod uerbum sit in carnis substantiam 
+          <lb ed="#Z" n="12"/>commutatum. Sicut enim hoc impossibile est: quia inconuertibile &amp; 
+          incommu<lb ed="#Z" n="13" break="no"/>tabile comprobatur: ita etiam illud non est possibile in deitatis essentiam uel natu 
+          <lb ed="#Z" n="14"/>ram aliquid creaturarum posse conuerti. Est autem creata etiam caro. Ideoque diui 
+          <lb ed="#Z" n="15"/>num quidem dicimus corpus Christi, quia corpus est dei &amp; ineffabili gloria illu 
+          <lb ed="#Z" n="16"/>stratum, incorruptibile &amp; iam sanctum atque uiuificum confiteamur: quod autem  
+          <lb ed="#Z" n="17"/>innaturam deitatis sit immutatum, neque sanctorum patrum quisquam sensit aut 
+          <lb ed="#Z" n="18"/>docuit neque nos ita sentimus. Haec Cyrillus. Theodoretus uero Cyri episcopus,  
+          <lb ed="#Z" n="19"/>dialogo 2. Eranist. Ostendam, inquit, corpus domini etiam post ascensionem cor- 
+          <lb ed="#Z" n="20"/>pus uocari. Audi ergo Paulum dicentem: Nostra conuersatio in coelis est, ex quo 
+          <lb ed="#Z" n="21"/>expectamus Seruatorem dominum Iesum, qui trans formabit corpus humilitatis 
+          <lb ed="#Z" n="22"/>nostrae, ut sit conforme corpori gloriae ipsius. Non est ergo mutatum in aliam 
+          na<lb ed="#Z" n="23" break="no"/>turam, sed mansit quidem corpus uerum diuina gloria impletum, &amp; lucis 
+          emit<lb ed="#Z" n="24" break="no"/>tens radios. Sin autem illud in aliam naturam mutatum est, eorum quoque 
+          corpo<lb ed="#Z" n="25" break="no"/>ra similiter mutabuntur. Fient enim illi conformia. Sin autem corpora sanctorum 
+          <lb ed="#Z" n="26"/>seruant suae naturae characterem, corpus quoque domini similiter habet suam 
+          sub<lb ed="#Z" n="27" break="no"/>stantiam immutabilem. Tantum Theodoretus ille.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1151">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Porro quando profitemur Christum ueram habere carnem, non 
+          intelligi<lb ed="#Z" n="29" break="no"/>mus inanimatam carnem. Confitendum est enim Christum habere animam 
+          ra<lb ed="#Z" n="30" break="no"/>tionalem siue humanam, non expertem mentis. Arius docebat dei filium solam  
+          <lb ed="#Z" n="31"/>assumpsisse carnem absque anima, uerbum autem fuisse animae loco. Et 
+          Apollina<lb ed="#Z" n="32" break="no"/>rius animam Christo tribuebat, sed adimebat mentem, rationalem esse negans.  
+          <lb ed="#Z" n="33"/>Scriptura &amp; animam Christo tribuit, &amp; animae non adimit mentem. Ipse dominus 
+          <lb ed="#Z" n="34"/>dicit in euangelio: Filius hominis uenit, non ut sibi ministretur, sed ut ipse 
+          mini<lb ed="#Z" n="35" break="no"/>stret, utque det animam suam redemptionem pro multis. Idem Matthaeus de ipso 
+          <lb ed="#Z" n="36"/>scriptum reliquit: Coepit affici dolore &amp; moestitudine. Et dixit lesus: Tristis est ani  
+          <lb ed="#Z" n="37"/>ma mea usque ad mortem. Et alibi ipse dominus: Nunc anima mea turbata est, ait.  
+          <lb ed="#Z" n="38"/>Quod si haec anima Christi mente destituta fuit, quae potissima animae portio est,  
+          <lb ed="#Z" n="39"/>quomodo animam habuit: quomodo tristari &amp; intelligere, desiderare &amp; meminisse 
+          <lb ed="#Z" n="40"/>potuit? Desiderio, inquit dijnus, desideraui hoc pascha manducare uobiscum ante 
+          <lb ed="#Z" n="41"/>quam patiar. Desiderium uero ex deitate non existit, neque ex sola carne, neque ex 
+          <lb ed="#Z" n="42"/>anima mentis exorte, sed ex perfecta humanitate corporis &amp; mentis, Praeterea 
+          le<lb ed="#Z" n="43" break="no"/>gimus in euangelio dixisse dominum: Filius hominis non uenit ad perdendum 
+          <lb ed="#Z" n="44"/>animas hominum, sed ad seruandum. Iccirco non solam carnem, sed &amp; rationalem  
+          <lb ed="#Z" n="45"/>assumpsit animam. Homo enim &amp; anima &amp; corpore perierat : ut ergo anima &amp;  
+          <lb ed="#Z" n="46"/>corpore seruaretur, uere humanum corpus &amp; rationalem animam assumpsit 
+          ser<lb ed="#Z" n="47" break="no"/>uator Christus, hoc est perfectissimum hominem. Secundum scripturas itaque con 
+          <lb ed="#Z" n="48"/>fiteri ueram fidem docens beatus Athanasius, dixit, Christus deus est, ex substan¬ 
+          <!--489.xml-->
+          <pb ed="#Z" n="233-v"/>
+          <lb ed="#Z" n="1"/>tia patris, ante saecula genitus: &amp; homo ex substantia matris in saeculo natus. 
+          Per<lb ed="#Z" n="2" break="no"/>fectus deus, perfectus homo, ex anima rationali &amp; humana carne subsistens.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1210">
+          <lb ed="#Z" n="3"/><pc type="indent"/> His usque huc demostrauimus Christum Iesum dominum nostrum esse deum  
+          <lb ed="#Z" n="4"/>uerum &amp; hominem uerum, consubstantialem patri secundum diuinitatem, nobis 
+          <lb ed="#Z" n="5"/>autem consubstantialem secundum humanitatem. Nam animam rationalem &amp;  
+          <lb ed="#Z" n="6"/>carnem habet uere humanam: dicemus porro de coniunctione uel unione harum  
+          <lb ed="#Z" n="7"/>naturam in unam personam: qua in re turpiter a quibusdam ueteribus quondam 
+          <lb ed="#Z" n="8"/>aberratum esse tradunt historiae. Eutyches enim constituebat in Christo unam 
+          tan<lb ed="#Z" n="9" break="no"/>tum naturam, eamque ex diuina &amp; humana compositam: id est, confusam, a quo non 
+          <lb ed="#Z" n="10"/>longe recesserunt Monothelitae, unam duntaxat in Christo uoluntatem agnoscen 
+          <lb ed="#Z" n="11"/>tes. lllam carbonariam uitare uolens Nestorius, incidit in calcariam. Confitens 
+          <lb ed="#Z" n="12"/>enim duas naturas, totidem personas asseruisse uidetur, docens uerbum carni non  
+          <lb ed="#Z" n="13"/>unitum esse in eandem personam, sed inhabitasse duntaxat: unde &amp; diuam 
+          uirgi<lb ed="#Z" n="14" break="no"/>nem deiparam appellari uetabat. Contra quos communis totius ecclesiae, 
+          secun<lb ed="#Z" n="15" break="no"/>dum scripturas sentientis assertio, tradidit, duas in Christo naturas, naturarumque  
+          <lb ed="#Z" n="16"/>proprietates esse confitendas, quae ita coierint in unam personam indiuisam, ut nec 
+          <lb ed="#Z" n="17"/>diuina natura mutata sit in humanam, neque haec in illam, sed utraque suum retineat 
+          <lb ed="#Z" n="18"/>ingenium, subsistant autem utraeque in unitate personae. Vnus enim atque idem Chri- 
+          <lb ed="#Z" n="19"/>stus secundum ingenium diuinae naturae, immortalis, secundum ingenium 
+          hu<lb ed="#Z" n="20" break="no"/>manae naturae mortalis, atque idem ille deus immortalis &amp; homo mortalis, 
+          uni<lb ed="#Z" n="21" break="no"/>cus, est saluator mundi. De qua re dicemus modo, deo aspirante, paulo plura &amp;  
+          <lb ed="#Z" n="22"/>explicatiora.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1257">
+          <lb ed="#Z" n="23"/><pc type="indent"/> De ipsa coniunctione diuinitatis &amp; humanitatis uerae in Christo, non spinose 
+          <lb ed="#Z" n="24"/>neque subtiliter disputarunt prophetae &amp; apostoli. Simpliciter enim loquentes dixe 
+          <lb ed="#Z" n="25"/>runt: Deus homo factus est. Vel, Deus hominem assumpsit. Nam Ioannes aposto 
+          <lb ed="#Z" n="26"/>lus &amp; euangelista, Verbum, inquit, caro factum est. Id est, deus homo factus est? 
+          <lb ed="#Z" n="27"/>uel dei uerbum incarnatum est. S. Paulus, Deus, ait, manifestatus est in carne. Et 
+          <lb ed="#Z" n="28"/>iterum, Filius dei nuspiam angelos assumit, sed semen Abrahae assumit. Secundum 
+          <lb ed="#Z" n="29"/>apostolorum ergo doctrinam explicantes coniunctionis diuinae &amp; humanae 
+          na<lb ed="#Z" n="30" break="no"/>turae in Christo mysterium, dicimus, Deus incarnatus uel homo factus est. Deus 
+          <lb ed="#Z" n="31"/>hominem assumpsit. Deus in carne humana apparuit uel manifestatus est. 
+          Sub<lb ed="#Z" n="32" break="no"/>tiliora his rimari uelle, est se in ingentia conijcere pericula. Sunt qui in his plenius 
+          <lb ed="#Z" n="33"/>exponendis utuntur uocabulis societatis, participationis &amp; communionis, nec 
+          <lb ed="#Z" n="34"/>citra authoritatem scripturarum, Paulo dicente, Quia pueri communionem 
+          ha<lb ed="#Z" n="35" break="no"/>bent cum carne &amp; sanguine, &amp; ipse similiter particeps factus est eorundem.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1289">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Cauendum hic tamen in primis, ne coniunctas naturas in una persona con- 
+          <lb ed="#Z" n="37"/>fundamus, aut proprietatibus suis spoliemus. Nam deus natura sua est aeternus 
+          <lb ed="#Z" n="38"/>&amp; immutabilis, ideus itaque idem semper manens, non commutatur in humanam  
+          <lb ed="#Z" n="39"/>uel in ullam aliam naturam, sed humanam sibi coniungit, sociat, assumit, adeoque  
+          <lb ed="#Z" n="40"/>unit, Rursus nisi humana natura creatura maneat, &amp; hoc ipsum sit, quod dicitur,  
+          <lb ed="#Z" n="41"/>humana non est, manens ergo haec in sua substantia assumitur a diuina. Proinde 
+          <lb ed="#Z" n="42"/>manent in una Christi persona duae naturae, diuina &amp; humana, &amp; utraque retinet 
+          <lb ed="#Z" n="43"/>suum ingenium suamque proprietatem. Id quod aliquot scripturae locis iam 
+          osten<lb ed="#Z" n="44" break="no"/>demus. lsaias in cap. 7. Virgo, inquit, concipiet &amp; pariet filium, &amp; uocabitur 
+          no<lb ed="#Z" n="45" break="no"/>men eius lmmanuel. Vtranque in Christo agnoscit naturam, nam secundum di- 
+          <lb ed="#Z" n="46"/>uinam appellatur lmmanuel, id est, nobiscum deus : secundum humanam naturam 
+          <lb ed="#Z" n="47"/>concipitur &amp; nascitur. Idem propheta, Puer natus est nobis, inquit, &amp; filius datus 
+          <lb ed="#Z" n="48"/>est nobis, &amp;c. Datur enim qui ab aeterno est: nascitur autem qui in saeculo esse in¬ 
+          <!--490.xml-->
+          <pb ed="#Z" n="234-r"/>
+          <lb ed="#Z" n="1"/>cipit. Proinde unus atque idem &amp; diuinam &amp; humanam retinet naturam. Nam &amp;  
+          <lb ed="#Z" n="2"/>Micheas dicit: Et tu Bethlehem Ephrata, paruula quidem es in millibus luda, ex 
+          <lb ed="#Z" n="3"/>te mihi egredietur qui dominator sit in lsraele: &amp; exitus eius a saeculo, a diebus 
+          ae<lb ed="#Z" n="4" break="no"/>ternitatis. En quid poterat dici clarius ? Vnus atque idem duplices habet natales,  
+          <lb ed="#Z" n="5"/>quatenus enim deus est, generatio eius est a diebus aeternitatis: quatenus uero ho 
+          <lb ed="#Z" n="6"/>mo est, nascitur in Bethlehem. Proinde unus atque idem Christus deus uerus atque 
+          <lb ed="#Z" n="7"/>homo uerus est Rursus interrogat in euangelio secundum Matthaeum dominus pha 
+          <lb ed="#Z" n="8"/>risaeos, &amp; ait, Quid uobis uidetur de Christo, cuius filius est? Dicunt ei: Dauidis. 
+          <lb ed="#Z" n="9"/>Ait illis: Quomodo ergo Dauid in spiritu uocat eum dominum, dicens: Dixit 
+          do<lb ed="#Z" n="10" break="no"/>minus domino meo: sede a dextris meis, donec ponam inimicos tuos scabellum 
+          pe<lb ed="#Z" n="11" break="no"/>dum tuorum. Si ergo Dauid uocat eum dominum, quomodo filius eius est? Quasi 
+          <lb ed="#Z" n="12"/>dicat: Cum Christus extra controuersiam sit filius Dauidis, &amp; hic eundem, non ex 
+          <lb ed="#Z" n="13"/>affectu humano, sed ex spiritu sancto appellet dominum, nimirum deum uerum 
+          <lb ed="#Z" n="14"/>eiusdem potestatis cum patre, consequens est Christum &amp; hominem uerum &amp; deum  
+          <lb ed="#Z" n="15"/>esse uerum. Angelus Gabriel utranque hanc naturam non minus clare designans,  
+          <lb ed="#Z" n="16"/>uirgini Mariae dicit. Quod nascetur sanctum, uocabitur filius dei. Nascitur enim  
+          <lb ed="#Z" n="17"/>ex uirgine homo uerus, ex homine uero: atqui hic est filius dei. Nam &amp; 
+          Elisabe<lb ed="#Z" n="18" break="no"/>tha appellat uirginem matrem domini, nimirum dei. Praeterea in euangelio 
+          Ioan<lb ed="#Z" n="19" break="no"/>nis legas plurima huius generis, quae utranque in eodem Christo naturam, ueluti 
+          <lb ed="#Z" n="20"/>digiio demonstrent. Creditis, inquit dominus, in deum, &amp; in me credite. Et iterum, 
+          <lb ed="#Z" n="21"/>Pater maior me est. Item, Exiui a patre, &amp; ueni in mundum: iterum relinquo 
+          mun<lb ed="#Z" n="22" break="no"/>dum, &amp; uado ad patrem, Rur sus alibi, Pauperes semper habebitis uobiscum, me 
+          <lb ed="#Z" n="23"/>non semper habebitis. Et iterum, Ecce ego uobiscum sum omnibus diebus usque 
+          <lb ed="#Z" n="24"/>ad consummationem saeculi. Quae quidem sententiae ueluti contrariae non possunt 
+          <lb ed="#Z" n="25"/>simul esse uerae, nisi agnoscamus Christum retinere naturarum proprietates 
+          in<lb ed="#Z" n="26" break="no"/>confusas uel impermixtas. Paulus ad Romanos manifeste dicit se uocatum apo¬  
+          <lb ed="#Z" n="27"/>stolum ad annunciandum euangelium dei, quod antea promiserit per prophetas 
+          <lb ed="#Z" n="28"/>suos, in scripturis sanctis, de filio suo, qui genitus sit ex semine Dauidis, secundum 
+          <lb ed="#Z" n="29"/>carnem, declaratus autem sit filius dei, per potentiam, spiritum sanctificationis &amp;  
+          <lb ed="#Z" n="30"/>resurrectionem ex mortuis. Agnoscit ergo utranque naturam in Christo 
+          aposto<lb ed="#Z" n="31" break="no"/>lus. Nam secundum carnem, inquit, Christus est Dauidis filius: si uero spectemus 
+          <lb ed="#Z" n="32"/>potentiam miraculorum, uiuificam ex mortuis resurrectionem, &amp; quod Christus 
+          <lb ed="#Z" n="33"/>spiritum sanctum mittit, &amp; omnes fideles sanctificat, apparet eum qui Dauidis fi- 
+          <lb ed="#Z" n="34"/>lius est, secundum carnem, dei quoque esse filium, secundum diuinam potentiam.  
+          <lb ed="#Z" n="35"/>Idem apostolus pari euidentia &amp; luce in secundo capite ad Philippenses utranque  
+          <lb ed="#Z" n="36"/>in Christo naturam asserit. Quoniam uero is locus iam saepius adductus est, ad alia 
+          <lb ed="#Z" n="37"/>transeo citanda.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1405">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Sanctus Augustinus non suam duntaxat, sed totius ecclesiae in toto orbe suo  
+          <lb ed="#Z" n="39"/>saeculo forentis, confessionem fidei exponens, epistola ad Dardanum 57. sic scri- 
+          <lb ed="#Z" n="40"/>ptum reliquit: Noli dubitare ibi nunc esse hominem Christum Iesum unde 
+          uen<lb ed="#Z" n="41" break="no"/>turus est, memoriterque recole, &amp; fideliter tene Christianam confessionem: 
+          quo<lb ed="#Z" n="42" break="no"/>niam resurrexit a mortuis, ascendit in coelum, sedet ad dexteram patris, nec 
+          aliun<lb ed="#Z" n="43" break="no"/>de quam inde uenturus est iudicare uiuos &amp; mortuos : &amp; sic uenturus est illa 
+          an<lb ed="#Z" n="44" break="no"/>gelica uoce testante, quemadmodum ire uisus est in coelum, id est, in eadem 
+          car<lb ed="#Z" n="45" break="no"/>nis forma atque substantia, cui profecto immortalitatem dedit, naturam non abstu 
+          <lb ed="#Z" n="46"/>lit. Secundum hanc formam non est putandus ubique diffusus. Cauendum est enim  
+          <lb ed="#Z" n="47"/>ne ita diuinitatem astruamus hominis, ut ueritatem corporis auferamus. Non est 
+          <lb ed="#Z" n="48"/>autem consequens ut quod in deo est, ita sit ubique ut deus. Nam &amp; de nobis uera¬ 
+          <!--491.xml-->
+          <pb ed="#Z" n="234-v"/>
+          <lb ed="#Z" n="1"/>cissima scriptura dicit, quod in illo uiuimus, mouemur &amp; sumus: nec tamen sicut 
+          <lb ed="#Z" n="2"/>ille ubique sumus: sed aliter homo ille in deo, quoniam aliter &amp; deus ille in homine 
+          <lb ed="#Z" n="3"/>proprio quodam &amp; singulari modo. Vna enim persona deus &amp; homo est, &amp; utrun 
+          <lb ed="#Z" n="4"/>que est unus Iesus Christus, ubique per id quod deus est, in coelo autem per id quod 
+          <lb ed="#Z" n="5"/>homo. Idem enim author paulo post: Spatia, inquit, locorum tolle corporibus,  
+          <lb ed="#Z" n="6"/>nusquam erunt, &amp; quia nusquam erunt nec erunt. Tolle ipsa corpora qualitati 
+          <lb ed="#Z" n="7"/>bus corporum, non erit ubi sint, &amp; ideo necesse est ut non sint. Et in fine epistolae 
+          <lb ed="#Z" n="8"/>idem ille dicit: Christum dominum nostrum unigenitum dei filium, patri coaequa 
+          <lb ed="#Z" n="9"/>lem, eundemque hominis filium, quo maior est pater, &amp; ubique totum praesentem esse 
+          <lb ed="#Z" n="10"/>non dubites tanquam deum, &amp; in eodem templo dei esse tanquam inhabitantem  
+          <lb ed="#Z" n="11"/>deum, &amp; in loco aliquo coeli propter ueri corporis modum. Hoc ipsum adhuc 
+          fu<lb ed="#Z" n="12" break="no"/>sius idem ille exponit Tractatu in Ioan. 50. &amp; contra Felicianum Arianum cap. 
+          9<lb ed="#Z" n="13" break="no"/>10. &amp; 11. item de Agone Christ. cap. 24. usque ad 27. Quibus coniungemus &amp; S. mar 
+          <lb ed="#Z" n="14"/>tyris Vigilij episcopi Tridentini testimonium. Is enim contra Eutychem pro 
+          asser<lb ed="#Z" n="15" break="no"/>tione utriusque in Christo natures disputans, dicit: Si uerbi &amp; carnis una natura est,  
+          <lb ed="#Z" n="16"/>quomodo cum uerbum ubique sit, non ubique inueniatur &amp; caro? Nam quando in 
+          <lb ed="#Z" n="17"/>terra fuit, non erat utique in coelo: &amp; nunc quia in coelo est, non est utique in terra: &amp;  
+          <lb ed="#Z" n="18"/>in tantum non est, ut secundum ipsam Christum spectemus uenturum de coelo,  
+          <lb ed="#Z" n="19"/>quem secundum uerbum nobiscum esse credimus in terra. Igitur secundum uos 
+          <lb ed="#Z" n="20"/>aut uerbum cum carne sua loco continetur, aut caro cum uerbo ubique est. 
+          Quan<lb ed="#Z" n="21" break="no"/>do una natura contrarium quid &amp; diuersum non recipit in seipsa. Diuersum est 
+          <lb ed="#Z" n="22"/>autem &amp; longe dissimile circumscribi loco &amp; ubique esse : &amp; quia uerbum ubique 
+          <lb ed="#Z" n="23"/>est, caro autem eius ubique non est, apparet unum eundemque Christum utriusque 
+          <lb ed="#Z" n="24"/>esse naturae : &amp; esse quidem ubique secundum naturam diuinitatis suae, &amp; loco con 
+          <lb ed="#Z" n="25"/>tineri secundum naturam humanitatis suae, creatum esse &amp; initium non habere: 
+          <lb ed="#Z" n="26"/>morti subiacere &amp; mori non posse: quod unum illi ex natura uerbi, qua deus est: 
+          <lb ed="#Z" n="27"/>aliud ex natura carnis, qua idem deus homo est. Igitur unus dei filius idemque 
+          ho<lb ed="#Z" n="28" break="no"/>minis factus filius, habet initium ex natura carnis suae, &amp; non habet initium ex 
+          na<lb ed="#Z" n="29" break="no"/>tura diuinitatis suae : creatus est per naturam carnis suae, &amp; non est creatus per 
+          na<lb ed="#Z" n="30" break="no"/>turam diuinitatis suae : circumscribitur loco per naturam carnis suae, &amp; loco non ca 
+          <lb ed="#Z" n="31"/>pitur per naturam diuinitatis suae: minor est etiam angelis per naturam carnis suae,  
+          <lb ed="#Z" n="32"/>&amp; aequalis est patri secundum naturam diuinitatis sue: mortuus est natura carnis 
+          <lb ed="#Z" n="33"/>suae, &amp; non est mortuus natura diuinitatis suae. Haec est fides &amp; confessio 
+          catholi<lb ed="#Z" n="34" break="no"/>ca, quam apostoli tradiderunt, martyres roborauerunt, &amp; fideles nuncusque 
+          custo<lb ed="#Z" n="35" break="no"/>diunt. Hactenus Vigilij martyris &amp; episcopi uerba recitauimus, in hoc ut 
+          pul<lb ed="#Z" n="36" break="no"/>cherrimus intelligatur consensus scripturae sanctae, ecclesiae uniuersalis &amp; 
+          pijssi<lb ed="#Z" n="37" break="no"/>morum patrum atque doctorum in hoc dogmate, quo confitemur in Christo utriusque 
+          <lb ed="#Z" n="38"/>naturae proprietates inconfusas manere. 
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1519">
+          <lb ed="#Z" n="39"/><pc type="indent"/> Rursus modis omnibus cauendum est, ne propter naturarum proprietates 
+          asse<lb ed="#Z" n="40" break="no"/>rendas retinendasque, discerpamus unitatem personae: quasi duo sint Christi, 
+          quo<lb ed="#Z" n="41" break="no"/>rum alter passibilis &amp; mortalis, alter sit impassibilis &amp; immortalis. Nam unus &amp;  
+          <lb ed="#Z" n="42"/>idem est Christus, qui secundum diuinitatem immortalis, secundum humanitatem 
+          <lb ed="#Z" n="43"/>mortalis agnoscitur. Nestorius negabat diuam uirginem Mariam esse dei genitri- 
+          <lb ed="#Z" n="44"/>cem. Dicebat enim deum immutabilem, &amp; iccirco innascibilem esse matreque 
+          ca<lb ed="#Z" n="45" break="no"/>rere. Vnde orta suspicio quod dominum nudum esse hominem diceret, &amp; dogma 
+          <lb ed="#Z" n="46"/>Pauli Samosateni &amp; Photini tueretur. De qua re multis agit Socrates historiarum  
+          <lb ed="#Z" n="47"/>lib. 7. cap. 32. Peccauit aunt contra scripturam &amp; ueram fidem Nestorius. Elisabeth 
+          <lb ed="#Z" n="48"/>enim zachariae uxor, &amp; mater beati Ioanis Baptistae, spiritu sancto plena, disertis 
+          <!--492.xml-->
+          <pb ed="#Z" n="235-r"/>
+          <lb ed="#Z" n="1"/>uerbis diuam uirginem salutat &amp; praedicat matrem domini, id est, matrem dei. Et 
+          <lb ed="#Z" n="2"/>quamuis diuina natura generationis &amp; corruptionis exors sit, certissimum est ta 
+          <lb ed="#Z" n="3"/>men eum quem Maria peperit, reuera deum esse. Nam quod ex ipsa natum est (ait 
+          <lb ed="#Z" n="4"/>angelus) filius dei est : peperit ergo deum: ac merito appellatur dei genitrix. Si 
+          e<lb ed="#Z" n="5" break="no"/>nim deum non genuit, nudum hominem peperit, nec dei filius hominem 
+          insepa<lb ed="#Z" n="6" break="no"/>rabiliter sibi sociauit. Ad eundem modum cum deus natura sua sit immortalis,  
+          <lb ed="#Z" n="7"/>mori certe non potest : si uero quis ea de causa absolute negaret deum pro nobis 
+          <lb ed="#Z" n="8"/>crucifixum &amp; oblatum, adeoque mortuum esse, contradiceret Paulo dicenti: Si ipsum 
+          <lb ed="#Z" n="9"/>cognouissent, haudquaquam dominum gloriae crucifixissent. Quis uero nesciat 
+          <lb ed="#Z" n="10"/>deum gloriae uel deum gloriosum non posse crucifigi: interim cum ille qui secun 
+          <lb ed="#Z" n="11"/>dum carnem patiebatur &amp; cruci affigebatur, deus erat, non nudus duntaxat 
+          ho<lb ed="#Z" n="12" break="no"/>mo, recte dicimus deum pro nobis passum &amp; cruci esse affixum: licet is qui pas 
+          <lb ed="#Z" n="13"/>sus sit, secundum id solum passus sit, quod pati potuit. Nam Petrus apostolus, Chri 
+          <lb ed="#Z" n="14"/>stus, inquit, passus est pro nobis carne. Eundem sequuta synodus Toletana prima, 
+          <lb ed="#Z" n="15"/>in haec uerba decreuit, Si quis dixerit aut crediderit deitatem nascibilem esse, ana 
+          <lb ed="#Z" n="16"/>thema sit. Si quis dixerit uel crediderit deitatem Christi conuertibilem fuisse uel 
+          <lb ed="#Z" n="17"/>passibilem, anathema sit. Si quis dixerit uel crediderit deitatis &amp; carnis unam in 
+          <lb ed="#Z" n="18"/>Christo esse naturam, anathema sit. Et Damasus episcopus Roman. Si quis 
+          dixe<lb ed="#Z" n="19" break="no"/>rit, inquit, quod in passione crucis dolorem sustinuerit filius dei &amp; deus &amp; non  
+          <lb ed="#Z" n="20"/>caro cum anima, quam induit forma serui, quam sumpsit, sicut dixit scriptura, ana 
+          <lb ed="#Z" n="21"/>thema sit. Ergo cum Paulus dicit deum sibi acquisiuisse ecclesiam suo sanguine 
+          <lb ed="#Z" n="22"/>quis tam insanus ut credat diuinam naturam habere, uel unquam habuisse 
+          san<lb ed="#Z" n="23" break="no"/>guinem: interim quis tam stupidus ut non uideat carnem quam deus assumpsii 
+          <lb ed="#Z" n="24"/>habere sanguinem, cumque deus id quod assumpsit non reputet uelut alienum, sed 
+          <lb ed="#Z" n="25"/>proprium, rectissime dicimus deum proprio suo sanguine redemisse mundum. 
+          <lb ed="#Z" n="26"/>Vnde &amp; Theodoretus Cyri episcopus dialog. Eran. 3. sub finem dixit: Si Christus 
+          <lb ed="#Z" n="27"/>est &amp; deus &amp; homo, ut &amp; sacra docet scriptura &amp; beatissimi patres perpetuo prae 
+          <lb ed="#Z" n="28"/>dicarunt, ut homo ergo passus est, ut deus autem mansit impassibilis. Quando ue 
+          <lb ed="#Z" n="29"/>ro corpus uel carnem uel humanitatem passam esse dicimus, diuinam naturam  
+          <lb ed="#Z" n="30"/>non separamus. Sicut enim unita erat &amp; esurienti &amp; sitienti &amp; defatigatae: 
+          quine<lb ed="#Z" n="31" break="no"/>tiam dormienti &amp; de passione subeunda tristitia &amp; moerore confectae, nihil horum 
+          <lb ed="#Z" n="32"/>quidem suscipiens, sed ei permittens ut naturae affectiones &amp; passiones 
+          suscipe<lb ed="#Z" n="33" break="no"/>ret: ita etiam ei coniuncta erat dum crucifigeretur, &amp; concessit ut perageretur 
+          <lb ed="#Z" n="34"/>passio, ut passione mortem solueret, dolorem quidem ex passione non suscipiens,  
+          <lb ed="#Z" n="35"/>passionem autem sibi adaptans &amp; accommodans, utpote templi sui &amp; carnis con  
+          <lb ed="#Z" n="36"/>iunctae, per quam etiam membra Christi appella ntur qui crediderunt : &amp; eorum 
+          <lb ed="#Z" n="37"/>qui crediderunt ipse caput appellatus est. Haec ille 
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1629">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Haec figura loquendi appellatur ab alijs exoioons alteratio uel mutatio, a Ioan 
+          <lb ed="#Z" n="39"/>Damasceno &amp;aiosoos mutua largitio uel alternata attributio. Vulgo nominari so 
+          <lb ed="#Z" n="40"/>let idiomatum comunicatio, nempe cum alteri naturae ea proprietas communica 
+          <lb ed="#Z" n="41"/>tur, quae propria est alterius. Verbi gratia, Nemo ascendit in coelum, ait dominus, 
+          <lb ed="#Z" n="42"/>nisi qui descendit de coelo, filius hominis qui est in coelo. Certe non erat tunc 
+          hu<lb ed="#Z" n="43" break="no"/>mana natura in coelo, cum haec loqueretur dominus, sed in terra, quia tamen 
+          as<lb ed="#Z" n="44" break="no"/>sumpta est caro in societatem diuinitatis, huius proprium, humanitati 
+          commu<lb ed="#Z" n="45" break="no"/>nicatur. Et Fulgentius Episcopus hanc interpretationem agnoscens libro ad 
+          Tra<lb ed="#Z" n="46" break="no"/>simundum regem secundo, sic reliquit scriptum: Non (hoc dixit) quia humana 
+          <lb ed="#Z" n="47"/>Christi substantia fuerit ubique diffusa, sed quoniam unus idemque filius dei atque homi- 
+          <lb ed="#Z" n="48"/>nis filius, uerus deus ex patre, sicut homo uerus ex homine, licet secundum ueram  
+          <!--493.xml-->
+          <pb ed="#Z" n="235-v"/>
+          <lb ed="#Z" n="1"/>humanitatem suam, localiter tunc esset in terra, secundum diuinitatem tamen (quae 
+          <lb ed="#Z" n="2"/>loco nullatenus continetur) coelum totus impleret &amp; terram. Haec ille. Proinde 
+          <lb ed="#Z" n="3"/>diligenter obseruandae sunt sententiae de Christo in euangelicis &amp; apostolicis scri 
+          <lb ed="#Z" n="4"/>ptis testantes. Quaedam enim peculiariter reseruntur ad diuinam eius naturam,  
+          <lb ed="#Z" n="5"/>quales illae sunt, Ego &amp; pater unum sumus. Antequam Abraham fieret ego sum. 
+          <lb ed="#Z" n="6"/>ln principio erat uerbum, &amp; uerbum erat apud deum, &amp; deus erat uerbum. Ipse 
+          <lb ed="#Z" n="7"/>est ante omnia, imago dei inconspicui, per quem condita sunt omnia. Quaedam ue 
+          <lb ed="#Z" n="8"/>ro reseruntur singulariter ad humanam eius naturam: siue ad misionem di- 
+          <lb ed="#Z" n="9"/>spensationisque mysterium : cuius generis illae sunt: Pater maior me est. Minuisti 
+          <lb ed="#Z" n="10"/>eum paulo minus ab angelis. Tristis est anima mea usque ad mortem. Sunt rursus 
+          <lb ed="#Z" n="11"/>testimonia quae ad utranque respiciunt naturam, neutri uero seorsim satis congruunt. 
+          <lb ed="#Z" n="12"/>Talia sunt haec: Caro mea uerus est cibus, &amp; sanguis meus uerus est potus. 
+          Pote<lb ed="#Z" n="13" break="no"/>statem habeo remittendi peccata, excitandi in uitam quos uolo, iustitiam &amp; 
+          san<lb ed="#Z" n="14" break="no"/>ctitatem conferendi. Ego sum pastor, ostium, lux, uia, ueritas &amp; uita. Nemo uenit 
+          <lb ed="#Z" n="15"/>ad patrem, nisi per me. Haec enim ueram Christi substantiam nobis proponunt atque 
+          <lb ed="#Z" n="16"/>commendant, ueri, inquam, saluatoris &amp; mediatoris dei &amp; hominis personam,. 
+          <lb ed="#Z" n="17"/>Nam nemo remittit peccata, nisi solus deus, Rursus non remittuntur haec sine mor 
+          <lb ed="#Z" n="18"/>te &amp; sanguinis effusione : sicut testatur apostolus in 9. cap. ad Hebraeos, Rursus 
+          <lb ed="#Z" n="19"/>sunt testimonia quae non possunt expediri commode nisi per communicationem 
+          <lb ed="#Z" n="20"/>idiomatum. De qua haec sufficere spero.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1705">
+          <lb ed="#Z" n="21"/><pc type="indent"/> Rursus personam mediatoris dei &amp; hominis minime lacerat, quisquis propter 
+          <lb ed="#Z" n="22"/>unionem naturarum non tam late extendit humanitatem, quam late diffunditur 
+          <lb ed="#Z" n="23"/>sut sic dicam) diuinitas. Nam in euangelio secundum Matthaeum non ingreditur 
+          <lb ed="#Z" n="24"/>corpore suo domum Centurionis dominus, cum tamen dubium non sit, diuinita 
+          <lb ed="#Z" n="25"/>te praesente non absente, curatum esse morbum famuli Centurionis. Quis autem  
+          <lb ed="#Z" n="26"/>dixerit ideo dissolutam esse personam a beato Matthaeo quod humanitatem Chri 
+          <lb ed="#Z" n="27"/>sti non extenderit ad diuinitatem usque? Angeli de corpore Christi resuscitato ex 
+          <lb ed="#Z" n="28"/>mortuis &amp; iam glorificato, mulieribus loquentes, dicunt: Non est hic, Surrexit. At 
+          <lb ed="#Z" n="29"/>non ignoramus ubique esse diuinitatem. Et tamen non dissuerunt indissolubilem  
+          <lb ed="#Z" n="30"/>personam angeli, quod humanum Christi corpus diuinitati non aequarunt per om 
+          <lb ed="#Z" n="31"/>nia. llli ipsi angeli non lacerant personam Christi, cum sublato ex monte oliuarum  
+          <lb ed="#Z" n="32"/>eius corpore in coelos, ipsi astantes in terris testificantur, ad eum modum reditu 
+          <lb ed="#Z" n="33"/>rum ad quem modum recedentem uiderunt. At quis dominum tunc quoque eis 
+          <lb ed="#Z" n="34"/>praesentem fuisse negare audeat? In coelis ergo est non in terris, secundum ueri 
+          <lb ed="#Z" n="35"/>corporis modum, ubique autem in coelis &amp; in terris dominus noster secundum in 
+          <lb ed="#Z" n="36"/>finitam ipsius diuinitatem. Homo constat anima &amp; corpore, &amp; haec naturis inter 
+          <lb ed="#Z" n="37"/>se diuersissima, unam personam non duas constituunt, Quisquis autem cuique 
+          <lb ed="#Z" n="38"/>suum proprium attribuit &amp; defendit, personam minime discindit. Dormit corpus,  
+          <lb ed="#Z" n="39"/>anima non dormit: haec propria partium, non efficiunt duas personas. Huc perti 
+          <lb ed="#Z" n="40"/>nere uidetur quod Theodoretus in 3. Dialogo scriptum reliquit, dicens: 
+          Natura<lb ed="#Z" n="41" break="no"/>lem animae &amp; corporis unionem non soluimus, sed nec a proprijs corporibus ani¬  
+          <lb ed="#Z" n="42"/>mas separamus: sed ea quae sunt naturarum propria consideramus. Quando 
+          er<lb ed="#Z" n="43" break="no"/>go dicit scriptura: Extulerunt autem Stephanum uiri pij, &amp; fecerunt planctum  
+          <lb ed="#Z" n="44"/>magnum super ipsum, dicesne animam cum corpore esse sepultam? Non opinor. 
+          <lb ed="#Z" n="45"/>Et quando audieris lacob patriarcham dicentem: Sepelite me cum patribus meisi  
+          <lb ed="#Z" n="46"/>intelligis id de corpore non anima esse dictum. Interim legis: lllic sepelierunt A- 
+          <lb ed="#Z" n="47"/>braham &amp; Saram uxorem eius, &amp;c. In quibus corporis non meminit scripturar 
+          <lb ed="#Z" n="48"/>sed per nomina animam simul &amp; corpus significauit. Nos autem recte diuidimus 
+          <!--494.xml-->
+          <pb ed="#Z" n="236-r"/>
+          <lb ed="#Z" n="1"/>&amp; dicimus animas esse immortales, sola autem corpora patriarcharum sepulta es 
+          <lb ed="#Z" n="2"/>se in spelunca duplici. Ita nos quoque dicere consueuimus, in hoc uel illo loco, hic 
+          <lb ed="#Z" n="3"/>uel ille sepultus est: &amp; non dicimus corpus huius uel illius, sed hic uel ille. Qui¬  
+          <lb ed="#Z" n="4"/>cunque autem sanae mentis est, scit nos loqui de corpore. Ita cum euangelistae toties 
+          <lb ed="#Z" n="5"/>meminissent corporis Christi sepulti, tandem personae nomen posuerunt &amp; dixe 
+          <lb ed="#Z" n="6"/>runt: Iesum positum esse in monumento, &amp;c. Haec Theodoretus.
+        </p>
+        <p xml:id="UD1xh4-Cl8wSo-d1e1787">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Cum uero extra controuersiam sit, hanc fidem &amp; doctrinam a temporibus Chri 
+          <lb ed="#Z" n="8"/>sti ad nostram usque aetatem, in sancta dei ecclesia floruisse, &amp; contra innumeros sa 
+          <lb ed="#Z" n="9"/>thanae &amp; haereticorum assultus firmissimam perstitisse, atque illa ipsa scripturarum  
+          <lb ed="#Z" n="10"/>testimonijs &amp; sanctarum synodorum symbolis tradita &amp; confirmata sit, hortor 
+          <lb ed="#Z" n="11"/>c.V. ut inuocato Christi nomine, in ea perseueretis, &amp; Christo uero deo &amp; homi 
+          <lb ed="#Z" n="12"/>ni uera agglutinati fide &amp; obedientia perpetuas agatis gratias, adorantes 
+          regnan<lb ed="#Z" n="13" break="no"/>tem in saecula saeculorum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 8</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 8</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="241-v"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-h7u61G"><!-- d4s8 --> 
+        <head xml:id="UD1xh4-h7u61G-Hd1e106">Sermo 8</head>
+        <head xml:id="UD1xh4-h7u61G-Hd1e109" type="question-title">
+       De Spiritu sancto tertia in adoranda trinitate persona, eiusque diuina uirtute.
+      </head>
+        <p xml:id="UD1xh4-h7u61G-d1e112">
+          <lb ed="#Z" n="41"/><pc type="indent"/> De Spiritu sancto tertia in adoranda trinitate persona, eiusque diuina  
+          <lb ed="#Z" n="42"/>uirtute. SERMO VIII 
+          <lb ed="#Z" n="43"/>ESTAT ut post exposita mysteria filij dei domini nostri Iesu Christi, 
+          <lb ed="#Z" n="44"/>consequenter dicamus de Spiritu sancto, eiusque potentia &amp; operatione 
+          <lb ed="#Z" n="45"/>diuina. Nisi autem is inspiret mentes &amp; regat linguam, nunquam 
+          pote<lb ed="#Z" n="46" break="no"/>rimus quicquam de ipso uel dicere uel audire ulla cum dignitate aut 
+          <!--506.xml-->
+          <pb ed="#Z" n="242-r"/>
+          <lb ed="#Z" n="1"/>utilitate. Sicut enim ea quae dei sunt nemo nouit nisi spiritus dei, ita homines scien 
+          <lb ed="#Z" n="2"/>tiam rerum diuinarum &amp; cognitionem sancti spiritus non aliunde hauriunt, quam  
+          <lb ed="#Z" n="3"/>ex eodem hoc dei spiritu. Oremus ergo deum patrem, ut per filium dominum no 
+          <lb ed="#Z" n="4"/>strum Iesum Christum, misso in corda nostra hoc spiritu suo sancto, dignetur illu 
+          <lb ed="#Z" n="5"/>strare tenebrosas mentes nostras, &amp; dirigere nos secundum scripturas sanctas in 
+          <lb ed="#Z" n="6"/>uia ueritatis syncera.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e146">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Initio autem uidetur nobis non inutiliter explicandum Spiritus uocabulum,  
+          <lb ed="#Z" n="8"/>quod id in scripturis uarie &amp; frequentissime usurpetur: unde non raro impinget  
+          <lb ed="#Z" n="9"/>grauiter quisquis uim eius uocis ignorauerit. Spiritus proprie nota est elementi,  
+          <lb ed="#Z" n="10"/>significans aerem, uentum, halitum. Ea significatione dictum legimus a saluatore, 
+          <lb ed="#Z" n="11"/>Spiritus ubi uult spirat, &amp; uocem eius audis, sed nescis unde ueniat, aut quo 
+          ua<lb ed="#Z" n="12" break="no"/>dat. Et Paulus, Si orem lingua, inquit, spiritus meus orat, at mens mea fructu 
+          ua<lb ed="#Z" n="13" break="no"/>cat. En spiritum usurpat apostolus pro fsatu uel uoce. Nam linguae subiungit &amp; 
+          <lb ed="#Z" n="14"/>menti opponit. Per metaphoram transfertur ad omnem incorpoream substantiam 
+          <lb ed="#Z" n="15"/>opponiturque corpori. Spiritus ergo significat angelum siue bonum siue malum. 
+          <lb ed="#Z" n="16"/>Propheta enim, quod &amp; Paulus repetijt, dixit: Qui facit angelos suos spiritus, &amp;  
+          <lb ed="#Z" n="17"/>ministros suos fiammam ignis. Item, Nonne sunt omnes administratorij spiritus?  
+          <lb ed="#Z" n="18"/>Haec testimonia de bonis intelliguntur: quando de malis loquitur scriptura, fer 
+          <lb ed="#Z" n="19"/>addit aliquid, ut spiritus malus, uel spiritus immundus. Appellamus &amp; 
+          spectra<lb ed="#Z" n="20" break="no"/>uel species, assumpta aliqua forma obscuriore, spiritus. Sic apostoli non credente 
+          <lb ed="#Z" n="21"/>resurrexisse uero suo corpore dominum, ipsum quidem uidentes, existimarunt  
+          <lb ed="#Z" n="22"/>se uidere spiritum. Quibus ille pedes &amp; manus ostendens, addit, Spiritus carnem  
+          <lb ed="#Z" n="23"/>&amp; ossa non habet, sicut uidetis me habere, Rursus usurpatur Spiritus pro anima  
+          <lb ed="#Z" n="24"/>li uita, sicut &amp; Latinis spirare uiuere, expirare mori est. Dauid, Cum dederis colli 
+          <lb ed="#Z" n="25"/>gunt, inquit : &amp; cum aperis manum tuam, satiantur bonis : cum uero abscondis fa 
+          <lb ed="#Z" n="26"/>ciem tuam conturbantur, cum colligis spiritu eorum deficiunt, &amp; in puluerem suum 
+          <lb ed="#Z" n="27"/>reuertuntur. Et dominus apud Mosen, Perdam, inquit, uniuersam carnem, in qua  
+          <lb ed="#Z" n="28"/>est spiritus uitae. Peculiariter item rationalis anima hominis nuncupatur spiritus,  
+          <lb ed="#Z" n="29"/>adeoque spiritus saepissime ponitur in sacris literis pro anima rationali hominis. In 
+          <lb ed="#Z" n="30"/>euangelio enim legis: Iesus inclinato capite tradidit spiritum. Et de sancto 
+          marty<lb ed="#Z" n="31" break="no"/>re Stephano legis: Et lapidabant Stephanum inuocantem &amp; dicentem : Domine 
+          <lb ed="#Z" n="32"/>Iesu suscipe spiritum meum. Solomon enim prior dixit: Reuertetur puluis in 
+          ter<lb ed="#Z" n="33" break="no"/>ram, sicut fuit, &amp; spiritus redibit ad deum, qui dedit illum. lam uero significat Spi 
+          <lb ed="#Z" n="34"/>ritus affectum, agitationem animi, propensionem atque impulsum. Solomon enim, 
+          <lb ed="#Z" n="35"/>Vrbi dissipatae similis est, inquit, cuius spiritus caret retinaculo. Saepe reperias po 
+          <lb ed="#Z" n="36"/>ni in scripturis spiritum superbiae, irae, libidinis aut inuidiae, pro affectione 
+          super<lb ed="#Z" n="37" break="no"/>ba, iracunda, libidinosa aut inuida. Dicitur &amp; spiritus infirmitatis Lucae 13. ipsa, 
+          <lb ed="#Z" n="38"/>inquam, affectio aegra &amp; morbi uis. Significat spiritus &amp; spirituales motus, quos  
+          <lb ed="#Z" n="39"/>excitat in cordibus sanctorum sanctus spiritus, adeoque ipsa dona per spiritum in 
+          <lb ed="#Z" n="40"/>corda hominum transfusa. Id quod in Paulo ubique obuium est. Alicubi opponitur 
+          <lb ed="#Z" n="41"/>spiritus literae, corpori, figurae, typo uel umbrae, usurpaturque pro altiore seu 
+          mysti<lb ed="#Z" n="42" break="no"/>co sensu ipsoque rei nucleo: ut cum Paulus dicit. Circuncisio cordis, circuncisio est quae 
+          <lb ed="#Z" n="43"/>spiritu constat non litera. Et iterum, Dominus fecit nos idoneos ministros noui Te 
+          <lb ed="#Z" n="44"/>stamenti, non literae, sed spiritus. Nam litera occidit: spiritus uiuificat. Ergo 
+          inue<lb ed="#Z" n="45" break="no"/>nias spiritum poni pro inspiratione reuelatione atque doctrina. Ioannes enim, Ne 
+          <lb ed="#Z" n="46"/>credatis, inquit, cuiuis spiritui, sed probate spiritus an ex deo sint. Item, Spiritum  
+          <lb ed="#Z" n="47"/>ne extinguatis, prophetias ne aspernemini. Postremo appellatur deus immensa &amp;  
+          <lb ed="#Z" n="48"/>ineffabilis illa uirtus spiritus. Deus, inquit, dominus noster, est spiritus, &amp; eos qui  
+          <!--507.xml-->
+          <pb ed="#Z" n="242-v"/>
+          <lb ed="#Z" n="1"/>adorant eum, spiritu &amp; ueritate oportet adorare. Hac ratione uocabulum spiritus 
+          <lb ed="#Z" n="2"/>commune est omnibus personis adorandae trinitatis : peculiariter tamen tertiae per 
+          <lb ed="#Z" n="3"/>sonae trinitatis accommodatur, de qua Sermonem hunc instituimus, 
+          <lb ed="#Z" n="4"/>Et quamuis Spiritus sanctus, eo quod deus sit, nullis possit circumscribi limi 
+          <lb ed="#Z" n="5"/>tibus : est enim natura sua ineffabilis, immensus, incomprehensibilis, aeternus : ut 
+          <lb ed="#Z" n="6"/>tamen certo ordine de eo aliquid dicam, adumbrabo saltem id quod de ipso 
+          fusis<lb ed="#Z" n="7" break="no"/>sime tradit scriptura ipsius sancti spiritus inspiratio. Spiritus sanctus est tertia in 
+          <lb ed="#Z" n="8"/>adoranda trinitate persona, deus uerus, ex patre &amp; filio procedens, qui fideles 
+          il<lb ed="#Z" n="9" break="no"/>luminat, regenerat sanctificat, &amp; omnibus bonis adimpled. Caeterum Spiritum san 
+          <lb ed="#Z" n="10"/>ctum tertiam esse in adoranda trinitate personam, demonstratum opinor abunde 
+          <lb ed="#Z" n="11"/>satis in Sermone huius Decadis 3. Equidem unica haec Saluatoris nostri sententia, 
+          <lb ed="#Z" n="12"/>Baptizate eos in nomen patris, &amp; filij, &amp; spiritus sancti, abunde confirmat pijs men 
+          <lb ed="#Z" n="13"/>tibus, quod spiritus sanctus est tertia in trinitate persona.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e273">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Porro deum esse uerum, eiusdem potestatis, gloriae, maiestatis &amp; essentiae cum  
+          <lb ed="#Z" n="15"/>patre &amp; filio, illud in primis arguit quod tertia est in sancta trinitate persona. 
+          Ne<lb ed="#Z" n="16" break="no"/>que cogitandum est hunc illis minorem esse quod tertio loco numeratur. Nam li 
+          <lb ed="#Z" n="17"/>cet ordine commemorentur at nobis trinitas beata, nullus tamen gradus, nullum tem  
+          <lb ed="#Z" n="18"/>pus, nullus locus aut numerus est in benedicta trinitate. Nam secundum 
+          scriptu<lb ed="#Z" n="19" break="no"/>ram confessus est beatus Athanasius, &amp; dixit, Fides catholica haec est, ut unum deum 
+          <lb ed="#Z" n="20"/>in trinitate, &amp; trinitatem in unitate, ueneremur: neque confundentes personas, neque 
+          <lb ed="#Z" n="21"/>substantiam separantes. Alia est enim persona patris, alia filij, alia spiritus sancti: 
+          <lb ed="#Z" n="22"/>sed patris &amp; filij &amp; spiritus sancti una est diuinitas, aequalis gloria, coaeterna 
+          maie<lb ed="#Z" n="23" break="no"/>stas. Qualis pater, talis filius, talis spiritus sanctus. Increatus pater, increatus fi- 
+          <lb ed="#Z" n="24"/>lius, increatus spiritus sanctus. Immensus pater, immensus filius, immensus 
+          spiri<lb ed="#Z" n="25" break="no"/>tus sanctus. Aeternus pater, aeternus filius, aeternus spiritus sanctus : &amp; tamen non  
+          <lb ed="#Z" n="26"/>tres aeterni, sed unus aeternus, &amp;c. Sed &amp; S. Augustinus libro de Trinitate 15. cap.  
+          <lb ed="#Z" n="27"/>26. In illa summa trinitate, ait, quae deus est, interualla temporum nulla sunt, per 
+          <lb ed="#Z" n="28"/>quae possit ostendi aut saltem requiri, Vtrum prius de patre natus sit filius, &amp; 
+          po<lb ed="#Z" n="29" break="no"/>stea de ambobus processerit spiritus sanctus. Et reliqua. Certe conmfitemur unum 
+          <lb ed="#Z" n="30"/>esse deum patrem, filium, &amp; spiritum sanctum, &amp; hunc esse aeternium. Neminem 
+          <lb ed="#Z" n="31"/>ergo conturbet quod ultimo loco ponitur spiritus. Nam cum aposstolus in 
+          episto<lb ed="#Z" n="32" break="no"/>la ad Corinthios benedictionem contexit, Gratia domini nostri Iesu Christi, 
+          in<lb ed="#Z" n="33" break="no"/>quit, &amp; dilectio dei &amp; communicatio sancti spiritus sit cum omnibus uobis. 
+          Vlti<lb ed="#Z" n="34" break="no"/>mo quidem loco commemorat spiritum : uerum idem Paulus, Diuisiones 
+          dono<lb ed="#Z" n="35" break="no"/>rum sunt, ait, sed idem spiritus : &amp; diuisiones ministeriorum sunt, sed idem 
+          domi<lb ed="#Z" n="36" break="no"/>nus: &amp; diuisiones operationum sunt, sed idem est deus, efficiens omnia in omni- 
+          <lb ed="#Z" n="37"/>bus : primo utique loco constituens spiritum, docens ordinem nominum non 
+          face<lb ed="#Z" n="38" break="no"/>re dignitatum differentiam. Hac ratione etiam in priore testimonio patri filium 
+          <lb ed="#Z" n="39"/>praeposuit, non euertens ordinem, quem posuit apud Matthaeum dominus : sed 
+          <lb ed="#Z" n="40"/>trinitatis in honore aequalitatem ostendens. Quid enim clarius dicas, quam quod 
+          <lb ed="#Z" n="41"/>scriptura dicit spiritum sanctum sanctificare, renouare, regenerare, uiuificare ac 
+          sal<lb ed="#Z" n="42" break="no"/>uare: Hae autem sunt operationes soli deo congruentes. Ex operationibus itaque ma 
+          <lb ed="#Z" n="43"/>nifeste agnoscimus spiritum sanctum esse deum, eiusdem essentiae &amp; petentiae cum  
+          <lb ed="#Z" n="44"/>patre &amp; filioi Est enim spiritus sanctus ab eterno ante omnes creaturas uisibiles et 
+          <lb ed="#Z" n="45"/>inuisibiles, creator non creatura, testificante lob, Spiritus eius ornauit coelos. 
+          I<lb ed="#Z" n="46" break="no"/>tem, Spiritus dei condidit me, &amp; afflatus omnipotentis indidit mihi uitam. 
+          a<lb ed="#Z" n="47" break="no"/>charias sacerdos pater Ioan. Baptistae, Benedictus, inquit, dominus deus lsrael,  
+          <!--508.xml-->
+          <pb ed="#Z" n="243-r"/>
+          <lb ed="#Z" n="1"/>quia fecit redemptionem populo suo: sicut loquutus est per os sanctorum, qui a 
+          <lb ed="#Z" n="2"/>aeculo sunt prophetarum suorum. At S. Petrus, Non uoluntate hominis, inquit,  
+          <lb ed="#Z" n="3"/>allata est prophetia, sed a spiritu sancto impulsi, loquuti sunt sancti dei homines. 
+          <lb ed="#Z" n="4"/>Ex his obsecro quis non colligat spiritum sanctum esse deum: Deus enim loquu. 
+          <lb ed="#Z" n="5"/>tus est per os prophetarum : &amp; spiritus sanctus loquutus est per os prophetarum.  
+          <lb ed="#Z" n="6"/>Spiritus sanctus ergo deus est. Idem Petrus spiritum sanctum disertis uerbis 
+          ap<lb ed="#Z" n="7" break="no"/>pellauit Deum, Ananiam accusans furti imo &amp; sacrilegij. Cum enim dixisset: Cur 
+          <lb ed="#Z" n="8"/>seduxit Sathanas cor tuum, ut tu mentireris spiritui sancto? subiunxit protinus?  
+          <lb ed="#Z" n="9"/>Non es mentitus hominibus, sed deo. Doctrinae S. Petri per omnia conueniunt 
+          <lb ed="#Z" n="10"/>quae docuit doctor gentium S. Paulus. Credentes enim nuncupauit templa dei, 
+          <lb ed="#Z" n="11"/>Nescitis, inquit, quod templum dei estis, &amp; spiritus dei habitat in uobis. Et iterum, 
+          <lb ed="#Z" n="12"/>Nescitis quod corpora uestra sunt templum sancti spiritus quem habetis a 
+          deo<lb ed="#Z" n="13" break="no"/>&amp; non estis ipsi uestri iuris: Pro eodem usurpat Paulus, templum esse dei, &amp; tem  
+          <lb ed="#Z" n="14"/>plum esse sancti spiritus : consequitur ergo quod spiritus sanctus sit deus. Nam  
+          <lb ed="#Z" n="15"/>in epistola ad Corinthios diserte spiritum sanctum nominat deum. Postquam enim  
+          <lb ed="#Z" n="16"/>dixisset, Diuisiones gratiarum sunt, idem autem spiritus, generaque gratiarum 
+          re<lb ed="#Z" n="17" break="no"/>censuisset, mox subiungit. Omnia autem haec operatur unus &amp; idem spiritus, di- 
+          <lb ed="#Z" n="18"/>uidens peculiariter unicuique sicut uult. At idem paulo ante dixerat, Diuisiones 
+          o<lb ed="#Z" n="19" break="no"/>perationum sunt, sed idem est deus, omnia efficiens in omnibus. Euidentissimum 
+          <lb ed="#Z" n="20"/>uero diuinitatis spiritus sancti argumentum construit insignis eruditionis uir Di- 
+          <lb ed="#Z" n="21"/>dymus Alexandrinus ille, ostendens item naturam eius alienam prorsus esse ab  
+          <lb ed="#Z" n="22"/>angelica. Nam 1. lib. de spiritu sancto sic interprete beato Hieronymo scriptum reli 
+          <lb ed="#Z" n="23"/>quit, Si spiritus sanctus unus de creaturis esset, saltem circumscriptam haberet 
+          sub<lb ed="#Z" n="24" break="no"/>stantiam, sicut uniuersa quae facta sunt. Nam etsi non circumscribantur loco &amp;  
+          <lb ed="#Z" n="25"/>finibus inuisibiles creaturae, tamen proprietate substantiae finiuntur: spiritus autem 
+          <lb ed="#Z" n="26"/>sanctus cum in pluribus sit, non habet substantiam circumscriptam. Mittens 
+          quip<lb ed="#Z" n="27" break="no"/>pe Iesus praedicatores doctrinae suae, repleuit eos spiritu. Neque uero omnes aposto 
+          <lb ed="#Z" n="28"/>li ad omnes gentes pariter sunt profecti, sed quidam in Asiam, quidam in 
+          Scy<lb ed="#Z" n="29" break="no"/>thiam, &amp; alij in alias dispersi nationes, secundum dispensationem illius quem 
+          se<lb ed="#Z" n="30" break="no"/>cum habebant spiritus sancti, quomodo &amp; dominum dicentem : Vobiscum sum 
+          <lb ed="#Z" n="31"/>omnibus diebus usque ad consummationem saeculi. His &amp; illud congruit, Eritis mihi 
+          <lb ed="#Z" n="32"/>testes usque ad extremum terrae. Si ergo hi in extremis finibus terrae, ob testimonium 
+          <lb ed="#Z" n="33"/>domini constituti, distabant inter se longissimis spatijs, aderat autem eis 
+          inhabi<lb ed="#Z" n="34" break="no"/>tator spiritus sanctus, incircumscriptam habens substantiam, demonstratur ange 
+          <lb ed="#Z" n="35"/>lica uirtus ab hoc prorsus aliena. Angelus quippe qui aderat, uerbi gratia, 
+          aposto<lb ed="#Z" n="36" break="no"/>lo in Asia oranti, non poterat simul eodem tempore adesse alijs, in caeteris mundi 
+          <lb ed="#Z" n="37"/>partibus constitutis, Spiritus autem sanctus non solum seiunctis a se hominibus 
+          <lb ed="#Z" n="38"/>praesto est, sed &amp; singulis quibusque angelis, principatibus, thronis, dominationi¬  
+          <lb ed="#Z" n="39"/>bus inhabitator assistit, &amp;c. Quis autem hic non colligat spiritum sanctum uerum 
+          <lb ed="#Z" n="40"/>esse deum? Plurima alia diuinitatis uerae spiritus sancti argumenta collegit idem  
+          <lb ed="#Z" n="41"/>ille author, deinde S. pater Cyrillus, &amp; absolute disputauit de ea S. Athanasius ad 
+          <lb ed="#Z" n="42"/>Theophilum lib. de Trinitate u. nos paucula haec hactenus recitata, 
+          obsequenti<lb ed="#Z" n="43" break="no"/>bus ueritatemque amantibus satis fore credimus.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e449">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Haec qui firmiter credunt non mouentur ullis opinionibus &amp; quaestionibus 
+          <lb ed="#Z" n="45"/>peregrinis, circa hoc negotium curiose imo impie a male feriatis quibusdam indu 
+          <lb ed="#Z" n="46"/>ctis. Nam negasse quidam seruntur spiritum sanctum esse dominum. Ministrum  
+          <lb ed="#Z" n="47"/>enim ac ueluti instrumentum quoddam patris &amp; filij esse tradiderund. Caeterum  
+          <lb ed="#Z" n="48"/>Christus dominus spiritum sanctum sibi &amp; patri coniunxit, tradens baptismi for¬ 
+          <!--509.xml-->
+          <pb ed="#Z" n="243-v"/>
+          <lb ed="#Z" n="1"/>mam. Dicit enim, Baptisantes eos in nomen patris, &amp; filij, &amp; spiritus sancti. Atqui 
+          <lb ed="#Z" n="2"/>manifestum est creatori non coniungi in baptismo creaturam, neque subseruiens 
+          <lb ed="#Z" n="3"/>esse quicquam in diuinitate. Itaque Synodus Constantinopolitana in Symbolo suc 
+          <lb ed="#Z" n="4"/>uoces aliquot spiritui sancto addidit, quibus errores aliquot elideret, dominum &amp;  
+          <lb ed="#Z" n="5"/>uiuificatorem ipsum appellans. Nam cum dominum uocat, filio aequat, &amp; 
+          exclu<lb ed="#Z" n="6" break="no"/>dit seruilem uel ministerialem conditionem, praeterea negat illum istorum esse 
+          in<lb ed="#Z" n="7" break="no"/>strumentum. Vnus est enim dominus : non sunt plures domini. Et filius non est 
+          <lb ed="#Z" n="8"/>spiritus sancti dominus: sed dominium est comune trium personarum, quae sunt 
+          <lb ed="#Z" n="9"/>unus tantum dominus. Cum autem dominus sit spiritus sanctus, certe non est mi 
+          <lb ed="#Z" n="10"/>nisterio seruili addictus, sed dominica authoritate praeditus: nec ad opus exequen 
+          <lb ed="#Z" n="11"/>dum subseruit, sed cooperatur patri &amp; filio, adeoque ipse ut dominus operatur.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e491">
+          <lb ed="#Z" n="12"/><pc type="indent"/> Feruntur rursus alij quidam docuisse spiritum sanctum non esse substantiam  
+          <lb ed="#Z" n="13"/>uel personam, sed ueluti accidens, hoc est concitationem uel agitationem aut mo 
+          <lb ed="#Z" n="14"/>tum piae ac renouatae mentis. Ac reuera appellatur non raro mens nostra spiritu 
+          <lb ed="#Z" n="15"/>sancto illuminata spiritus : sed probe nobis distinguenda est creatura a creatore, 
+          <lb ed="#Z" n="16"/>&amp; a substantia accides. Distinxit beatus apostolus nostrum spiritum a spiritu dei 
+          <lb ed="#Z" n="17"/>sancto, cum dixit: Qui spiritu dei ducuntur, hi sunt filij dei. Idem spiritus 
+          testimo<lb ed="#Z" n="18" break="no"/>nium reddit spiritui nostro, quod simus filij dei. Ac idem apostolus: Caro 
+          concu<lb ed="#Z" n="19" break="no"/>piscit aduersus spiritum, spiritus autem aduersus carnem. Quis autem non intelli 
+          <lb ed="#Z" n="20"/>gat hominis mentem a spiritu sancto instructam hic appellari spiritum, non ipsam 
+          <lb ed="#Z" n="21"/>tertiam in adoranda triade personam? Et mens illa, quod illuminationem attinet,  
+          <lb ed="#Z" n="22"/>non ex semetipsa existit, sed proficiscitur a spiritu sancto illuminante, nec ab alio,  
+          <lb ed="#Z" n="23"/>quam qui est tertia in trinitate persona, sed non est ipsa persona spiritus sancti: sicut 
+          <lb ed="#Z" n="24"/>imaginatio proficiscitur ab anima, nec tamen est ipsa anima. Concitatio illa 
+          spiri<lb ed="#Z" n="25" break="no"/>tus in nobis est accidens: deus autem non est accidens neque accidenti permiscetur. 
+          <lb ed="#Z" n="26"/>Confitendum est itaque secundum scripturas, spiritum sanctum esse personam sub 
+          <lb ed="#Z" n="27"/>sistentem, natura aut essentia patri &amp; filio coaequalem, &amp; iccirco adorandum 
+          no<lb ed="#Z" n="28" break="no"/>bis &amp; glorificandum uti deum uerum &amp; creatorem : rursus pium uel sanctum 
+          mo<lb ed="#Z" n="29" break="no"/>tum in animis sanctorum per eundem spiritum sanctum excitatum, esse effectum 
+          <lb ed="#Z" n="30"/>&amp;creaturam huius spiritus sancti, dicique spiritum sanctum, sed suo modo. Alioqui 
+          <lb ed="#Z" n="31"/>non negamus ipsum nobis sanctum spiritum promissum communicari : uerum  
+          <lb ed="#Z" n="32"/>pro modulo nostro &amp; sicut ille uult. Quis enim hominum comprehendat 
+          plenitu<lb ed="#Z" n="33" break="no"/>dinem aeterni &amp; immensi dei
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e542">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Porro de processione sancti spiritus ex patre &amp; filio subtiliter &amp; grauiter di- 
+          <lb ed="#Z" n="35"/>sputatum est a theologis. Quaeritur enim an a patre solo, an &amp; a filio procedat? In 
+          <lb ed="#Z" n="36"/>qua quaestione Latini a Graecis plurimum dissentire uidentur. Quaeritur item 
+          qua<lb ed="#Z" n="37" break="no"/>lis sit illa processio? Nos omissis pluribus curiosis quaestionibus, ea breuiter 
+          pro<lb ed="#Z" n="38" break="no"/>feremus in medium, quae salutaria &amp; scripturis sanctis sunt conuenientia. Quis 
+          <lb ed="#Z" n="39"/>enim curiosorum hominum quaestiones omnes ociosorumque cogitationes &amp; 
+          auda<lb ed="#Z" n="40" break="no"/>ces &amp; immundas citra offensionem optimorum uirorum, &amp; maxime simplicium. 
+          <lb ed="#Z" n="41"/>auditorum excusserit? Spiritum sanctum a patre &amp; a filio procedere, scriptura ma 
+          <lb ed="#Z" n="42"/>nifeste docet, quae apertissime ostendit illum utriusque uel amborum esse spiritum. 
+          <lb ed="#Z" n="43"/>llle enim est de quo dicit apostolus : Quoniam autem estis filij, misit deus spiritum 
+          <lb ed="#Z" n="44"/>filij sui in corda uestra. At de eodem spiritu loquens filius, ait, Non enim uos estis 
+          <lb ed="#Z" n="45"/>qui loquimini, sed spiritus patris uestri loquitur in uobis, Rursus idem filius, de 
+          <lb ed="#Z" n="46"/>piritu sancto dicit. Quem ego mittam uobis a patre. Et iterum alibi, Quem mittet 
+          <lb ed="#Z" n="47"/>pater in nomine meo. Procedit ergo de utroque tam de patre quam de filio. Tametsi 
+          <lb ed="#Z" n="48"/>enim alicubi legatur dictum esse de spiritu sancto, Qui a patre procedit, non ne¬ 
+          <!--510.xml-->
+          <pb ed="#Z" n="244-r"/>
+          <lb ed="#Z" n="1"/>gatur tamen &amp; ex filij substantia procedere. Quinimo Cyrillus scriptor Graecus 
+          <lb ed="#Z" n="2"/>S. Ioan. euangelium interpretans, &amp; hunc ipsum locum enarrans lib. 50. cap. 33. Cum  
+          <lb ed="#Z" n="3"/>spiritum ueritatis, inquit, id est suum (ipse enim ueritas est) paracletum 
+          appellaue<lb ed="#Z" n="4" break="no"/>rit, ex patre ipsum procedere ait. Nam sicut filij spiritus est naturaliter, in ipso 
+          ma<lb ed="#Z" n="5" break="no"/>nens &amp; per ipsum procedens, sic certe patris quoque spiritus est. Quibus autem spi 
+          <lb ed="#Z" n="6"/>ritus communis est, ij profecto substantialiter disseparari non possunt, Rursus S. 
+          <lb ed="#Z" n="7"/>Augustinus in 15. de Trinitate lib. ca. 26. Qui potest intelligere, inquit, in eo quod 
+          <lb ed="#Z" n="8"/>filius dicit, Sicut habet pater uitam in semetipso, non sine uita existenti iam filio,  
+          <lb ed="#Z" n="9"/>uitam dedisse, sed ita eum sine tempore genuisse, ut uita quam pater filio gignen 
+          <lb ed="#Z" n="10"/>do dedit, coaeterna sit uitae patris, qui dedit, intelligat, sicut habet pater in 
+          semetip<lb ed="#Z" n="11" break="no"/>so, ut de illo procedat spiritus sanctus, sic dedisse filio, ut de illo procedat idem spi 
+          <lb ed="#Z" n="12"/>ritus sanctus : &amp; utrunque sine tempore, atque ita dictum spiritum sanctum de patre 
+          <lb ed="#Z" n="13"/>procedere, ut intelligatur quod etiam procedit de filio, de patre esse &amp; filio. Si enim 
+          <lb ed="#Z" n="14"/>quicquid habet, de patre habet filius, de patre habet utique ut de illo procedat 
+          spiri<lb ed="#Z" n="15" break="no"/>tus sanctus. Haec ille. Ex istis omnibus colligimus, spiritum sanctum procedere 
+          <lb ed="#Z" n="16"/>tam a patre quam filio.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e617">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Iam quod modum processionis attinet, duplicem uidemus esse spiritus sancti  
+          <lb ed="#Z" n="18"/>processionem, temporariam &amp; aeternam. Temporaria processio ea est, qua sanctus ? 
+          <lb ed="#Z" n="19"/>spiritus procedit ad sanctificandos homines. Aeterna uero processio ea est, qua 
+          <lb ed="#Z" n="20"/>ab aeterno ex deo emanat. Vtrobiqe ab utroque, tam patre quam filio procedit 
+          spi<lb ed="#Z" n="21" break="no"/>ritus. Nec diuisim a patre in filium, &amp; ex filio in creaturas prodit. Nam una 
+          ea<lb ed="#Z" n="22" break="no"/>demque, indiuisa, inquam, est natura &amp; substantia patris &amp; filij, adde &amp; coaeterna. 
+          <lb ed="#Z" n="23"/>Temporaria processio fere appellatur missio ac donum. Mittitur autem spiritus  
+          <lb ed="#Z" n="24"/>sanctus hominibus dupliciter, uisibiliter, uidelicet sub specie aliqua uisibili, 
+          utpo<lb ed="#Z" n="25" break="no"/>te columbae &amp; linguarum ignearum: sicuti datus legitur in euangelio &amp; Actis 
+          a<lb ed="#Z" n="26" break="no"/>postolorum Christo &amp; apostolis: inuisibiliter quotidie &amp; singulis quasi momentis 
+          <lb ed="#Z" n="27"/>donatur fidelibus, irrigante gratia sua nos spiritu Christi &amp; conferente nobis fi- 
+          <lb ed="#Z" n="28"/>dem, spem &amp; charitatem. Porro aeterna processio spiritus sancti qua e substantia 
+          <lb ed="#Z" n="29"/>patris &amp; filij procedit, perinde ut filij generatio ex patre, ineffabilis est. Vnde in 
+          <lb ed="#Z" n="30"/>euangelio non dicitur processit aut procedet, sed procedit. Ita enim ostendit 
+          do<lb ed="#Z" n="31" break="no"/>minus procedendi aeternitatem ac coaeternam &amp; insectilem minimeque 
+          differen<lb ed="#Z" n="32" break="no"/>tem esse substantiam patris, &amp; filij, &amp; spiritus sancti. S. Augustinus libro de Trini 
+          <lb ed="#Z" n="33"/>tate 15. cap. 26. Qui potest intelligere sine tempore generationem filij de patre, 
+          in<lb ed="#Z" n="34" break="no"/>telligat sine tempore processionem spiritus sancti de utroque. Si uero quis roget,  
+          <lb ed="#Z" n="35"/>Cum spiritus sanctus ex substantia patris &amp; filij procedat, qui fiat quod non di- 
+          <lb ed="#Z" n="36"/>catur filius ? Respondeo, scripturam secundam personam appellare filium, ac 
+          te<lb ed="#Z" n="37" break="no"/>stificari hunc unigenitum esse patris: eandem nuspiam memorare spiritum 
+          san<lb ed="#Z" n="38" break="no"/>ctum generari uel filium dici. Nec aliud ad hanc quaestionem responderunt uete 
+          <lb ed="#Z" n="39"/>res. Placet autem similitudo quae hic profertur, si e duobus fontibus emanaret unus 
+          <lb ed="#Z" n="40"/>fluuius, recte diceretur ab utroque profluere, neutrius tamen filius diceretur. His 
+          <lb ed="#Z" n="41"/>non sine fructu nec extra propositum coniungere uidebor Didymi disputata de 
+          <lb ed="#Z" n="42"/>misione, ne quis perperam &amp; secundum carnem intelligat quod interpretandum  
+          <lb ed="#Z" n="43"/>est ex fide spiritualiter. Spiritus sanctus consolator a filio mittitur, inquit non 
+          se<lb ed="#Z" n="44" break="no"/>cundum angelorum, aut prophetarum, aut apostolorum ministerium, sed ut mitti 
+          <lb ed="#Z" n="45"/>decet a sapientia &amp; ueritate spiritum dei, indiuisam habentem cum eadem sapien 
+          <lb ed="#Z" n="46"/>tia &amp; ueritate naturam. Etenim filius missus a patre non separatur nec disiungitur 
+          <lb ed="#Z" n="47"/>ab eo, manens in eo, &amp; habens illum in semetipso. Quin spiritus ueritatis 
+          supradi<lb ed="#Z" n="48" break="no"/>cto modo missus a filio de patre egreditur, non aliunde ad alia transmigrans. Im¬ 
+          <!--511.xml-->
+          <pb ed="#Z" n="244-v"/>
+          <lb ed="#Z" n="1"/>possibile quippe hoc pariter &amp; blasphemum est. Si enim hic spiritus ueritatis 
+          iu<lb ed="#Z" n="2" break="no"/>xta naturas corporum certo spatio circumscriptus est, alium deserens locum ad 
+          <lb ed="#Z" n="3"/>alium commigrauit: sed quomodo pater non consistens in loco ultra omnem cor 
+          <lb ed="#Z" n="4"/>porum est naturam: ita &amp; spiritus ueritatis nequaquam locorum fine clauditur. 
+          <lb ed="#Z" n="5"/>cum sit incorporalis, &amp; ut uerius dicam excellens uniuersam rationalem 
+          creatu<lb ed="#Z" n="6" break="no"/>ram. Quia ergo impossibile est &amp; impium, ista quae diximus in corporalibus 
+          cre<lb ed="#Z" n="7" break="no"/>dere, exire de patre spiritum sanctum sic intelligendum, ut se saluator de eo exisse 
+          <lb ed="#Z" n="8"/>testatur, dicens: Ego ex deo exiui &amp; ueni. Et sicut loca &amp; commutationes locorum 
+          <lb ed="#Z" n="9"/>ab incorporalibus separamus, sic &amp; prolationes intus dico &amp; foris ab 
+          intellectua<lb ed="#Z" n="10" break="no"/>lium natura discernimus: quia istae corporum sunt recipientium tactum &amp; haben 
+          <lb ed="#Z" n="11"/>tium uastitates. Ineffabili itaque &amp; sola fide noto sermone credendum est, saluatorem 
+          <lb ed="#Z" n="12"/>dictum esse exisse a deo, &amp; spiritum ueritatis a patre egredi, &amp;c. Alias quaestiones 
+          <lb ed="#Z" n="13"/>&amp; intricatas &amp; plurimas transeo intactas: religiosam &amp; minime curiosam, fidelem  
+          <lb ed="#Z" n="14"/>&amp; non argutulam mentem in his requiro.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e725">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Vnus est autem spiritus, quia unus atque idem est perpetuo deus. Idem ergo 
+          <lb ed="#Z" n="16"/>spiritus est qui loquutus est patriarchis, prophetis, apostolis, &amp; qui hodie loquitur 
+          <lb ed="#Z" n="17"/>nobis in ecclesia. Ideo enim Synodus Constantinopolitana sic confessa fidem 
+          le<lb ed="#Z" n="18" break="no"/>gitur, Credo in spiritum sanctum dominum. Et mox, Qui loquutus est per 
+          pro<lb ed="#Z" n="19" break="no"/>phetas in unam catholicam &amp; apostolicam ecclesiam. Sumpta sunt haec ex sancta 
+          <lb ed="#Z" n="20"/>scriptura. Nam S. Petrus disertis uerbis testificatur in prophetis fuisse spiritum Chri 
+          <lb ed="#Z" n="21"/>sti. Non autem alius fuit in apostolis, quam spiritus Christi. Et Paulus apostolus,  
+          <lb ed="#Z" n="22"/>Habentes, inquit, eundem spiritum, sicut scriptum est, Credidi, propter quod 
+          lo<lb ed="#Z" n="23" break="no"/>quutus sum: &amp; nos credimus, ideo loquimur. Ex quo testimonio Tertull infert,  
+          <lb ed="#Z" n="24"/>&amp; orthodoxe quidem, Vnus ergo &amp; idem spiritus est qui fuit in prophetis &amp; apo 
+          <lb ed="#Z" n="25"/>stolis. Eundem promittit in ecclesia semper futurum. Errauerunt ergo, &amp; turpissi 
+          <lb ed="#Z" n="26"/>me quidem, quicunque apud ueteres finxerunt alium deum &amp; spiritum ueteris, alium 
+          <lb ed="#Z" n="27"/>uero esse noui Testamenti. Didymus ille Alexandrinus, illustre ecclesiarum Grae 
+          <lb ed="#Z" n="28"/>ciae suo saeculo lumen, libro de Spiritu sancto primo: Nec existimare, inquit, 
+          de<lb ed="#Z" n="29" break="no"/>bemus spiritum sanctum secundum substantias esse diuisum, quia multitudo 
+          bo<lb ed="#Z" n="30" break="no"/>norum dicitur. Impassibilis enim &amp; indiuisibilis atque immutabilis est, sed iuxta 
+          <lb ed="#Z" n="31"/>differentes efficientias &amp; intellectus, multis bonorum uocabulis numcupatur: quia 
+          <lb ed="#Z" n="32"/>participes suos non iuxta unam eandemque uirtutem communione sui donat, &amp;c. 
+          <lb ed="#Z" n="33"/>Caeterum incrementum uel augmentum, adde &amp; diminutionem atque defectum  
+          <lb ed="#Z" n="34"/>habet in homine spiritus sanctus: non quod in deum (qui, sicut uulgo &amp; recte di- 
+          <lb ed="#Z" n="35"/>citur, nec maius nec minus recipit) cadat ulla mutatio, sed quod homo pro modu 
+          <lb ed="#Z" n="36"/>lo suo, prout spiritui sancto uisum est, spiritum copiose &amp; liberaliter, uel modice 
+          <lb ed="#Z" n="37"/>aut parce accipiat. Dabatur coelitus duplex portio spiritus Heliae Helisaeo. Et de 
+          <lb ed="#Z" n="38"/>Saluatore nostro dicitur, quod pater ei spiritum dederit, non ad mensuram. Nam  
+          <lb ed="#Z" n="39"/>alibi dicit ipse dominus Quisquis habet, dabitur illi, &amp; reddetur abundantior. 
+          <lb ed="#Z" n="40"/>Quisquis autem non habet, etiam illud quod habet tolletur ab eo. Saul egregia 
+          <lb ed="#Z" n="41"/>acceperat charismata, quoniam uero ea non excolebat, recessit ab ei spiritus dei 
+          <lb ed="#Z" n="42"/>bonus, &amp; successit ipsum affligens spiritus malus, Recedit autem spiritus dei sicut 
+          <lb ed="#Z" n="43"/>&amp; accedit, non per interualla. Cum enim deserimur a domino, recedit a nobis spi 
+          <lb ed="#Z" n="44"/>ritus dei. Vnde orasse Dauidem legimus: Ne proiicias me a facie tua, &amp; spiritum  
+          <lb ed="#Z" n="45"/>sanctum tuum ne auferas a me. Et iterum, Spiritu principali confirma me.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e796">
+          <lb ed="#Z" n="46"/><pc type="indent"/> Post ista inuestigandum uidetur, quis sit effectus, quae uirtus sancti spiritus, 
+          <lb ed="#Z" n="47"/>Ineffabilis est autem uirtus omnipotentis &amp; aeterni dei, nemo ergo ad plenum ex 
+          <lb ed="#Z" n="48"/>posuerit quae sit uirtus sancti spiritus. Dicam tamen aliquid, ea proferens in me¬ 
+          <!--512.xml-->
+          <pb ed="#Z" n="245-r"/>
+          <lb ed="#Z" n="1"/>dium, quae in hominibus maxime operatur. Alioqui enim per spiritum pater ope 
+          <lb ed="#Z" n="2"/>ratur omnia, per ipsum creat, sustinet, mouet, uiuificat, uegetat &amp; conseruat om- 
+          <lb ed="#Z" n="3"/>nia : per eundem fideles suos regenerat sanctificat &amp; uarijs charismatibus donat. 
+          <lb ed="#Z" n="4"/>Vnde in descriptione eius superius posita quatuor membris praecipuas eius 
+          uir<lb ed="#Z" n="5" break="no"/>tutes in hominibus sese exerentes complexus, dixi illum fideles illuminare, 
+          rege<lb ed="#Z" n="6" break="no"/>nerare, sanctificare &amp; adimplere bonis omnibus. Quae ut intelligantur rectius,  
+          <lb ed="#Z" n="7"/>proderit in primis spiritus sancti nomina uel appellationes, quas ipsi sancta 
+          tri<lb ed="#Z" n="8" break="no"/>buit scriptura, utcunque exponere: deinde unum &amp; alterum ueteris &amp; noui 
+          Te<lb ed="#Z" n="9" break="no"/>stamenti locum de uirtute sancti spiritus aeditum recitare. Principio nuncupatur 
+          <lb ed="#Z" n="10"/>spiritus dei sanctus, quia sanctificantur omnes per hunc quotquot sanctificantur  
+          <lb ed="#Z" n="11"/>creaturae. Sanctificat gratia sua pater coelestis, sed per sanguinem dilecti filij sui, 
+          <lb ed="#Z" n="12"/>sanctificatio autem per spiritum in nos deriuatur &amp; obsignatur. Sanctificat ergo 
+          <lb ed="#Z" n="13"/>nos sancta trinitas unus deus. Impium est ergo sanctificationem rebus tribuere 
+          a<lb ed="#Z" n="14" break="no"/>lienis aut peregrinis. lmpium est purificationem &amp; iustificationem a creatore ad 
+          <lb ed="#Z" n="15"/>creaturas transferre. Dicitur praeterea sanctus ad discretionem aliorum spirituum. 
+          <lb ed="#Z" n="16"/>Legimus enim in scripturis fuisse &amp; esse spiritum mundi, spiritum uertiginis, 
+          spi<lb ed="#Z" n="17" break="no"/>ritum fornicationis &amp; immunditiae, spiritum superbiae. Ab his omnibus 
+          secerni<lb ed="#Z" n="18" break="no"/>tur spiritus sanctus, qui inspirat huius mundi contemptum, qui aperit scripturas 
+          <lb ed="#Z" n="19"/>&amp; confirmat in ueritate, qui purificat corda, &amp; castas reddit conseruatque mentes 
+          <lb ed="#Z" n="20"/>qui denique humiles &amp; mites efficit, &amp; omnem a nobis malitiam dispellit. Idem  
+          <lb ed="#Z" n="21"/>spiritus sanctus appellatur dei &amp; filij spiritus. Dei quidem, ad differentiam 
+          spiri<lb ed="#Z" n="22" break="no"/>tus sathanae. Filij autem, quia filij proprius &amp; naturalis est : quem nobis quoque 
+          <lb ed="#Z" n="23"/>communicat, ut simus etiam nos filij dei. Paulus enim : Templum dei uos estis,  
+          <lb ed="#Z" n="24"/>inquit, &amp; spiritus dei habitat in uobis. Item, Si quis spiritum Christi non habet, hic  
+          <lb ed="#Z" n="25"/>non est eius. Et iterum: Quoniam estis filij, emisit deus spiritum filij sui in corda 
+          no<lb ed="#Z" n="26" break="no"/>stra, clamantem, Abba pater.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e868">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Porro Paracletum nuncupauit ipse dominus noster spiritum sanctum in 
+          hi<lb ed="#Z" n="28" break="no"/>storia euangelica, dicens : Ego rogabo patrem, &amp; alium paracletum dabit uobis,  
+          <lb ed="#Z" n="29"/>ut maneat uobiscum in aeternum, spiritum ueritatis, quem mundus non potest ac 
+          <lb ed="#Z" n="30"/>cipere: quia non uidet eum, nec nouit eum. Vos autem cognoscitis eum, quia apud 
+          <lb ed="#Z" n="31"/>uos manet, &amp; in uobis erit. Significat autem aapaexamur&amp; consolatorem, 
+          impulso<lb ed="#Z" n="32" break="no"/>rem, exhortatorem, aduocatum siue patronum, qui clientis causam agit. Est enim  
+          <lb ed="#Z" n="33"/>spiritus sanctus omnium fidelium os, oculus, cor, consilium, manus &amp; pes. 
+          Didy<lb ed="#Z" n="34" break="no"/>mus in opere suo de Spiritu sancto, Ab operatione spiritui sancto, inquit, nomen 
+          <lb ed="#Z" n="35"/>imponens, Consolatorem uocat. Quia non solum consolatur eos quos se dignos re 
+          <lb ed="#Z" n="36"/>perit, &amp; ab omni tristitia &amp; perturbatione reddit alienos, uerum incredibile quod 
+          <lb ed="#Z" n="37"/>dam gaudium &amp; hilaritatem eis tribuit, in tantum ut possit quis deo gratias referens 
+          <lb ed="#Z" n="38"/>quod tali hospite dignus habeatur, dicere: Dedisti laetitiam in corde meo. 
+          Sempiter<lb ed="#Z" n="39" break="no"/>na quippe laetitia in eorum corde uersatur, quorum spiritus sanctus habitator est. 
+          <lb ed="#Z" n="40"/>Certe solus spiritus sanctus securas &amp; tranquillas reddit hominum conscientias co 
+          <lb ed="#Z" n="41"/>ram deo in iustificationis negotio, &amp; in omnibus mundi tentationibus. Paulus,  
+          <lb ed="#Z" n="42"/>Hoc solum cupio discere a uobis, ait, an ex operibus legis accepistis spiritum, an ex 
+          <lb ed="#Z" n="43"/>praedicatione fidei. Apostoli uirgis caesi, cum donati essent spiritu sancto, &amp; conso 
+          <lb ed="#Z" n="44"/>latorem illum praesentem haberent in animis, ibant gaudentes a conspectu 
+          concilij<lb ed="#Z" n="45" break="no"/>quod digni habiti essent, ut pro nomine Christi afficerentur contumelia. Ita legi¬  
+          <lb ed="#Z" n="46"/>mus in historia ecclesiastica, martyres Christi spiritu sancto plenos in ipsis 
+          tor<lb ed="#Z" n="47" break="no"/>mentis &amp; mortibus acerbissimis, patientissimos fuisse ac deo cecinisse hymnos &amp;  
+          <lb ed="#Z" n="48"/>egisse gratias. Praeterea audiuimus spiritum sanctum a domino nuncupari spiri¬ 
+          <!--513.xml-->
+          <pb ed="#Z" n="245-v"/>
+          <lb ed="#Z" n="1"/>tum ueritatis. Nam &amp; alibi eundem eodem ornat nomine, dicit enim: Cum 
+          uene<lb ed="#Z" n="2" break="no"/>rit paracletus, quem mittam ego uobis a patre, spiritus ueritatis, qui a patre proce 
+          <lb ed="#Z" n="3"/>dit, ille testimonium perhibebit de me. Veritatis autem spiritus dicitur, quia est 
+          a<lb ed="#Z" n="4" break="no"/>lius spiritus hypocriticus, spiritus impostor, erroneus &amp; mendax in ore omnium 
+          <lb ed="#Z" n="5"/>pseudoprophetarum. Hic spiritus noster synceritatem, candorem &amp; integritatem  
+          <lb ed="#Z" n="6"/>operatur in suis cultoribus. Hos docet omnem ueritatem: nam dominus noster 
+          a<lb ed="#Z" n="7" break="no"/>libi in euangelio: Paracletus ille, dicit, qui est spiritus sanctus, quemmittet pater 
+          no<lb ed="#Z" n="8" break="no"/>mine meo, ille uos docebit omnia, &amp; suggeret uobis omnia quaecunque dixi uobis. 
+          <lb ed="#Z" n="9"/>Omnem itaque ueritatem credendam, omnemque pietatem apostolos docuit spiritus 
+          <lb ed="#Z" n="10"/>ueritatis : &amp; illi eandem plene tradiderunt ecclesiae. Nam spiritus sanctus omnes 
+          <lb ed="#Z" n="11"/>discutit errores, omnes extinguit haereses, omnem idololatriam &amp; impietatem 
+          pro<lb ed="#Z" n="12" break="no"/>sigat, &amp; ueram fidem cordibus infundit, &amp; ueram religionem in ecclesia 
+          confir<lb ed="#Z" n="13" break="no"/>mat. Exempla plurima suppeditant Acta apostolorum. Ex hoc dei spiritu futura 
+          <lb ed="#Z" n="14"/>praedixerunt apostoli, inter alia Antichristum &amp; corruptionem postremi saeculi 
+          no<lb ed="#Z" n="15" break="no"/>stri adumbrantes, admonentesque ecclesiam ne electi erroribus &amp; impietatibus 
+          bla<lb ed="#Z" n="16" break="no"/>sphemis implicentur.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e958">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Spiritus autem promissionis ideo uocatur, quia patribus a deo per prophetas 
+          <lb ed="#Z" n="18"/>&amp; apostolis omnibusque doctrinae apostolorum credentibus per Christum promis 
+          <lb ed="#Z" n="19"/>sus, tandem &amp; plenissime per eundem est exhibitus. Admonet hoc uocabulum 
+          <lb ed="#Z" n="20"/>pios. ne suis meritis ingens ac salutare hoc donum acceptum sed merae dei gratiae 
+          <lb ed="#Z" n="21"/>ferant. Et promisione diuina conceditur imo donatur nobis spiritus sanctus : un 
+          <lb ed="#Z" n="22"/>de consequens est omnia dona esse gratuita: id quod apostolus Paulus unice 
+          <lb ed="#Z" n="23"/>in suis epistolis urget &amp; inculcat, ad Romanos maxime &amp; Galatas.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e977">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Apud Lucam dicit dominus:? Si digito dei eiicio daemonia, profecto peruenit 
+          <lb ed="#Z" n="25"/>ad uos regnum dei. Eadem uerba reddens beatus Matthaeus : Quod si 
+          spiritudei<lb ed="#Z" n="26" break="no"/>inquit eiicio daemonia, ergo peruenit ad uos regnum dei. Proinde spiritus sanctus 
+          <lb ed="#Z" n="27"/>appellatur digitus dei, nimirum uirtus &amp; potentia dei. Digitis operantur opifices,  
+          <lb ed="#Z" n="28"/>diuina uirtute per spiritum, inquam, suum operatur opera sua deus : cuius poten 
+          <lb ed="#Z" n="29"/>tia tanta est, ut uel minimus diceat sic loqui) eius digitus omnem in mundo 
+          excel<lb ed="#Z" n="30" break="no"/>lat uirtutem. Id apparuit in magis illis Aegyptiacis. Didymus parabolam refert 
+          <lb ed="#Z" n="31"/>ad unitatem substantiae diuinae, &amp; diligenter ac in loco admonet, ne propter cor- 
+          <lb ed="#Z" n="32"/>poralia corporalem rerum spiritualium sensum nobis confingamus. Dicit enim,  
+          <lb ed="#Z" n="33"/>Verum caue ne ad humilia deiectus depingas in animo tuo corporalium actuum 
+          <lb ed="#Z" n="34"/>diuersitates, &amp; incipias tibi magnitudines &amp; inaequalitates &amp; caetera corporum 
+          <lb ed="#Z" n="35"/>maiora &amp; minora membra confingere, dicens digitum a manu, &amp; manum ab eo 
+          <lb ed="#Z" n="36"/>cuius est manus, multis inaequalitatibus discrepare, quia de incorporalibus nunc 
+          <lb ed="#Z" n="37"/>scriptura loquitur, unitatem tantum uolens non etiam mensuram substantiae 
+          de<lb ed="#Z" n="38" break="no"/>monstrare. Sicut enim manus non diuiditur a corpore, per quam cuncta perficit 
+          <lb ed="#Z" n="39"/>&amp; operatur, &amp; in eo est cuius est manus: sic &amp; digitus non separatur at manu cuius 
+          <lb ed="#Z" n="40"/>est digitus. Itaque reiice inaequalitates &amp; mensuras cum de deo cogitas, &amp; 
+          intel<lb ed="#Z" n="41" break="no"/>lige digiti &amp; manus &amp; totius substantiae unitatem: quo digito lex in tabulis 
+          lapi<lb ed="#Z" n="42" break="no"/>deis scripta est. Haec illae.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1022">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Iam per aquam &amp; fontem uiuum siue perennem spiritus sanctus adumbratus 
+          <lb ed="#Z" n="44"/>legitur, cum in propheticis, tum in apostolicis literis. Effundam, inquit apud lsaiam 
+          <lb ed="#Z" n="45"/>dominus, aquas super sitientem, &amp; flumina super aridam. Et per interpretationem 
+          <lb ed="#Z" n="46"/>mox addit: Effundam spiritum meum super semen tuum, &amp; benedictionem 
+          <lb ed="#Z" n="47"/>meam super stirpem tuam. Et in euangelio dicit dminus: Si quis sitit, ueniat ad me, &amp; bi- 
+          <lb ed="#Z" n="48"/>bat. Qui credit in me, sicut dicit scriptura, flumina de uentre eius fuent aquae uiuaes. 
+          <!--514.xml-->
+          <pb ed="#Z" n="246-r"/>
+          <lb ed="#Z" n="1"/>Quibus per expositonem subiungit historicus sacer: Hoc autem dixit de spiritu, 
+          <lb ed="#Z" n="2"/>quem accepturi erant credentes in eum. Aqua certe foecundat steriles agros, 
+          pu<lb ed="#Z" n="3" break="no"/>rificat coinquinata, sitientes potat, &amp; aestuantes refrigerat. Foecundat &amp; gratia 
+          <lb ed="#Z" n="4"/>sancti spiritus steriles mentes ad fructificandum deo uiuenti. Purificantur corda 
+          <lb ed="#Z" n="5"/>nostra ab omni immunditia per eandem gratiam, eadem sitim extinguit animae,  
+          <lb ed="#Z" n="6"/>afflictamque refocillat, &amp; omne eius explet desiderium.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1056">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Ignis simplex est purus, &amp; alia quidem corpora consumit, alia uero purgatio,  
+          <lb ed="#Z" n="8"/>ra mundioraque reddit, calefacit item, &amp; multas in homine operationes habet 
+          uti<lb ed="#Z" n="9" break="no"/>les &amp; necessarias, Recte ergo per ignem adumbratur nobis spiritus sanctus. Nam  
+          <lb ed="#Z" n="10"/>purus est &amp; simplex, impios consumit, fideles a sordibus peccatorum expurgat,  
+          <lb ed="#Z" n="11"/>redditque amore dei &amp; proximi fiagrantes, sui nimirum amoris igne accendens 
+          <lb ed="#Z" n="12"/>Cum hic apostolis dabatur in die pentecostes, audiebatur sonitus, tanquam impe S 
+          <lb ed="#Z" n="13"/>tu uenientis flatus uehementis: qua re significabatur pietatis doctrinam diuina  
+          <lb ed="#Z" n="14"/>uirtute &amp; mirabili successu per totum orbem fore propagandam, nequicquam 
+          re<lb ed="#Z" n="15" break="no"/>nitente toto mundo. Ventus enim nemine obsistente totum perssat orbem, om- 
+          <lb ed="#Z" n="16"/>nia penetrat, a nemine excludi potest: miros item habet in corporibus effectus 
+          <lb ed="#Z" n="17"/>mutandi. Et spiritus sanctus penetrat omnia, corda emollit, &amp; ex intractabilibus 
+          <lb ed="#Z" n="18"/>ferocibusque facit obsequentissimos modestissimosque. Apparent super capita 
+          apo<lb ed="#Z" n="19" break="no"/>stolorum discipulorumque donatorum spiritu sancto, igneae linguae, significantes  
+          <lb ed="#Z" n="20"/>utique operationem eius, cuius erant symbola sancti spiritus. Nam erudit hic, ex- 
+          <lb ed="#Z" n="21"/>hortatur &amp; consolatur fideles: neque frigidis sed igneis linguis instruit fideles. Ful¬  
+          <lb ed="#Z" n="22"/>minare enim &amp; tonare uisi sunt apostoli, non loqui, cum praedicarunt euangelium, 
+          <lb ed="#Z" n="23"/>quo nomine &amp; quidam illorum nuncupati sunt ab ipso saluatore Filij tonitrui, 
+          <lb ed="#Z" n="24"/>Praeterea apparet sanctus spiritus super dei filio, iam a Baptista Ioanne tincto, sub 
+          <lb ed="#Z" n="25"/>specie columbae. Nam haec mitis ac mansueta est, felle carens. Quae locum dedit  
+          <lb ed="#Z" n="26"/>prouerbio, Columbini mores: item, Columbina simplicitas, &amp;, Mansuetior colum 
+          <lb ed="#Z" n="27"/>ba. Est enim columba in auibus, quod ouis in quadrupedibus, quae nulli animan 
+          <lb ed="#Z" n="28"/>tium meditatur noxam: unde &amp; Christus appellatus est Quis uel Agnus. De spiri  
+          <lb ed="#Z" n="29"/>tu itaque dei, Sapiens ille rectissime, Spiritus sapientiae, inquit sanctus est, unicus,  
+          <lb ed="#Z" n="30"/>multiplex, subtilis, disertus, illustris, incontaminatus, certus, suauis, boni studio¬  
+          <lb ed="#Z" n="31"/>sus, acutus, prohiberi nescius, beneficus, benignus, stabilis, securus, omnipotens,  
+          <lb ed="#Z" n="32"/>perspiciens omnia, omnesque spiritus rationales &amp; mundos, etiam subtilissimos 
+          <lb ed="#Z" n="33"/>penetrans.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1118">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Rursus appellantur spiritu sancto donati uncti a domino. Nam spiritus 
+          san<lb ed="#Z" n="35" break="no"/>ctus dicitur &amp; oleum &amp; unctio. Nisi enim a spiritu sancto irrigati fuerimus, 
+          steri<lb ed="#Z" n="36" break="no"/>les contabescimus. Destituimur enim humore uitali coelestique, &amp; natura nostra  
+          <lb ed="#Z" n="37"/>semper arescimus. Vnctionis autem huius celebris typus praecessit in unctione 
+          <lb ed="#Z" n="38"/>caeremoniali regum &amp; sacerdotum. Beatus Ioannes, Et unctio, inquit, quam uos 
+          <lb ed="#Z" n="39"/>accepistis ab eo, manet in uobis : &amp; non necesse habetis ut quisquam doceat uos,  
+          <lb ed="#Z" n="40"/>sed sicut ipsa unctio docet uos de omnibus, &amp; uerax est, &amp; non mendacium. Et 
+          si<lb ed="#Z" n="41" break="no"/>cut docuit uos, manete in ea. Nam &amp; apud Ieremiam dicit dominus: Hoc est testa 
+          <lb ed="#Z" n="42"/>mentum quod disponam domui lsrael post dies istos, dabo leges meas in mentem  
+          <lb ed="#Z" n="43"/>illorum, &amp; in corde illorum inscribam eas, &amp; ero illis deus, &amp; ipsi erunt mihi 
+          po<lb ed="#Z" n="44" break="no"/>pulus. Et non docebit quisque proximum suum, &amp; unusquisque fratrem suum, di- 
+          <lb ed="#Z" n="45"/>cens: Cognosce dominum. Nam omnes cognoscent me a minimo ad maximum, 
+          <lb ed="#Z" n="46"/>Quoniam placatus ero super iniustitijs eorum &amp; peccatis eorum, &amp; iniquitatum  
+          <lb ed="#Z" n="47"/>illorum non recordabor amplius. Verum ostendimus paulo ante, spiritum 
+          san<lb ed="#Z" n="48" break="no"/>ctum esse uniuersalem omnis ueritatis doctorem. Huc pertinere uidetur quod S, 
+          <!--515.xml-->
+          <pb ed="#Z" n="246-v"/>
+          <lb ed="#Z" n="1"/>Paulus, Deus est, inquit, qui unxit nos, qui etiam obsignauit nos, deditque arrham  
+          <lb ed="#Z" n="2"/>spiritus in cordibus nostris. Nunc enim non tantum unctio nuncupatur spiritus 
+          <lb ed="#Z" n="3"/>sanctus, sed &amp; obsignatio uel arrhabo salutis nostrae. Aggae enim siue aegpaecop pars 
+          <lb ed="#Z" n="4"/>est solutionis, quae fidem facit totius summae persoluendae, pignus scilicet. Et spiri 
+          <lb ed="#Z" n="5"/>tus quidem sanctus testificatur nunc, imo &amp; obsignat certificatque quod simus filij 
+          <lb ed="#Z" n="6"/>dei, aliqueando autem recipiendi in aeternam haereditatem. Paulus enim rursus,  
+          <lb ed="#Z" n="7"/>Obsignati estis, inquit, spiritu promisionis sancto, qui est arrhabo haereditatis no 
+          <lb ed="#Z" n="8"/>strae, in redemptionem acquisitae possessionis, in laudem gloriae ipsius. Ephes i. 
+          <lb ed="#Z" n="9"/>cap. Ea certificatio mirum in modum confirmat mentes fidelium in tentationibus 
+          <lb ed="#Z" n="10"/>consolaturque, animat praeterea ad patientiam in aduersis, &amp; ad sanctimoniam 
+          ui<lb ed="#Z" n="11" break="no"/>tae. Hinc enim dixit beatus Ioannes, Vos ex deo estis filioli, &amp; uicistis eos, quoniam 
+          <lb ed="#Z" n="12"/>maior est qui in uobis est, quam qui in mundo. Et iterum, Nunc filij dei sumus, &amp;  
+          <lb ed="#Z" n="13"/>nondum apparuit quod futuri sumus: scimus autem, quoniam si apparuerit, simi 
+          <lb ed="#Z" n="14"/>les ei erimus: quoniam uidebimus eum sicuti est. Et omnis qui habet hanc spem in 
+          <lb ed="#Z" n="15"/>eo, purificat se, sicut &amp; ille purus est.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1192">
+          <lb ed="#Z" n="16"/><pc type="indent"/> Quemadmodum uero spiritus sanctus nexus est ineffabilis, quo aeterna con- 
+          <lb ed="#Z" n="17"/>cordia inseparabiliter sibi iunctae sunt tres personae. Ita idem indissolubili uinculo 
+          <lb ed="#Z" n="18"/>sponsam Christi coniungit sponso suo, omniaque mystici corporis membra sempi- 
+          <lb ed="#Z" n="19"/>terno foedere inter sese copulat. Nam sicut membra corporis nostri cohaerent inte 
+          <lb ed="#Z" n="20"/>gra, beneficio spiritus, ita corpus Christi mysticum conglutinatur per spiritum 
+          <lb ed="#Z" n="21"/>sanctum. Nihil itaque mirum est quod hic charitatis nomine insignitur, qui &amp; 
+          cor<lb ed="#Z" n="22" break="no"/>dibus nostris charitatem infundit.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1211">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Vtcunque uero ex his nominibus sancti spiritus intelligi possit operatio eius,  
+          <lb ed="#Z" n="24"/>subiiciam tamen testimonia scripturae aliquot, ex quibus plenius intelligatur 
+          uir<lb ed="#Z" n="25" break="no"/>tus siue effectus eius, in nobis maxime. lsaias in principio fere libri sui describens 
+          <lb ed="#Z" n="26"/>personam regis Messiae, inter alia dicit: Super quo spiritus domini requiescet, 
+          spi<lb ed="#Z" n="27" break="no"/>ritus sapientiae &amp; intelligentiae, spiritus consilij &amp; fortitudinis, spiritus scientiae &amp; 
+          <lb ed="#Z" n="28"/>timoris domini, &amp; faciet eum spirare timorem domini. Multis quidem membris 
+          <lb ed="#Z" n="29"/>exposits nondum omnes spiritus uires enarrauit. Proinde non est quod in arctum 
+          <lb ed="#Z" n="30"/>septenarijque angustias cum uulgo concludamus uires uel dona spiritus. Audiui¬  
+          <lb ed="#Z" n="31"/>mus enim hactenus esse spiritum promisionis, doctrinae, humilitatis &amp; 
+          mansue<lb ed="#Z" n="32" break="no"/>tudinis, &amp;c. Quibus insuper haec quoque plurima connumerantur. Est enim 
+          spiri<lb ed="#Z" n="33" break="no"/>tus sapientiae. Haec uero quanta sit &amp; quam late pateat, claret uel in rebus Solomo 
+          <lb ed="#Z" n="34"/>nis. Sapientiae coniungitur intelligentia, quae dicitur esse praxis &amp; applicatio 
+          sa<lb ed="#Z" n="35" break="no"/>pientiae, rebus, locis, temporibus &amp; personis attemperata. Consilium autem requi  
+          <lb ed="#Z" n="36"/>ritur &amp; datur in rebus dubijs, &amp; quid commodissime agamus ostendit. Fortitudo 
+          <lb ed="#Z" n="37"/>uires ac constantiam sufficit exequendi perficiendique, adde &amp; patienter perferen 
+          <lb ed="#Z" n="38"/>di, quae consilio uel facienda uel patienda esse didicimus. lam uero Scientia 
+          expe<lb ed="#Z" n="39" break="no"/>rientia est, longo usu &amp; tempore conquisita. Accedit hi timor, id est, pietas &amp; ue 
+          <lb ed="#Z" n="40"/>ra religio, ad quam nisi referamus omnia nostra dicta &amp; facta, nihil proderit 
+          sapien<lb ed="#Z" n="41" break="no"/>tia, intelligentia, consilium, fortitudo &amp; scientia. Breuiter, quisquis spiritu dei 
+          fue<lb ed="#Z" n="42" break="no"/>rit donatus, spirabit timorem dei quicquid uel dicet uel faciet, denique omnia dicet 
+          <lb ed="#Z" n="43"/>&amp; faciet ad gloriam dei, &amp; omnia quidem haec ex unico spiritus sancti fonte gratis 
+          <lb ed="#Z" n="44"/>&amp; plene hauriuntur.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1262">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Paulus apostolus in epistola ad Romanos mirificam sancti spiritus uim in 
+          no<lb ed="#Z" n="46" break="no"/>bis operantem renatis describens, dicit. Qui in carne sunt, deo placere non possunt,  
+          <lb ed="#Z" n="47"/>Vos autem non estis in carne, sed in spiritu, siquidem spiritus dei habitat in 
+          uo<lb ed="#Z" n="48" break="no"/>bis. Quod si quis spiritum Christi non habet, hic non est eius. Porro si Christus in 
+          <!--516.xml-->
+          <pb ed="#Z" n="247-r"/>
+          <lb ed="#Z" n="1"/>uobis est, corpus quidem mortuum est propter peccatum, spiritus autem uita est 
+          <lb ed="#Z" n="2"/>propter iustificationem. Quod si spiritus eius qui excitauit Iesum a mortuis, habi 
+          <lb ed="#Z" n="3"/>tat in uobis, is qui excitauit Christum ex mortuis, uiuificabit &amp; mortalia corpora 
+          <lb ed="#Z" n="4"/>uestra propter ipsius spiritum inhabitantem in uobis.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1287">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Idem apostolus in epistola ad Corinthios docet per reuelationem sancti 
+          spiri<lb ed="#Z" n="6" break="no"/>tus mysterium regni dei nobis quam manifestissime esse reclusum. Nobis deus 
+          <lb ed="#Z" n="7"/>reuelauit, inquit, per spiritum suum. Spiritus enim omnia scrutatur, etiam profun 
+          <lb ed="#Z" n="8"/>ditates dei. Quis enim hominum nouit ea quae sunt hominis, nisi spiritus 
+          homini<lb ed="#Z" n="9" break="no"/>qui est in eo? Sic &amp; ea quae sunt dei, nemo nouit, nisi spiritus dei. Nos uero non 
+          <lb ed="#Z" n="10"/>spiritum mundi accepimus, sed spiritum qui est ex deo, ut sciamus quae a Christo 
+          <lb ed="#Z" n="11"/>donata sunt nobis. Huc pertinent haec domini saluatoris ex sacrosancto 
+          euange<lb ed="#Z" n="12" break="no"/>lio uerba: Veritatem dico uobis, expedit uobis ut ego uadam. Nisi enim abiero. 
+          <lb ed="#Z" n="13"/>consolator ille non ueniet ad uos: sin autem abiero, mittam illum ad uos. Et cum 
+          <lb ed="#Z" n="14"/>uenerit ille, arguet mundum de peccato, &amp; de iustitia &amp; de iudicio. De peccato 
+          <lb ed="#Z" n="15"/>quidem, quia non credunt in me. De iustitia uero, quia ad patrem uado, &amp; post hac 
+          <lb ed="#Z" n="16"/>non uidetis me. De iudicio autem, quia princeps huius mundi iam iudicatus est,  
+          <lb ed="#Z" n="17"/>Manifestum est autem omnibus hisce capitibus comprehendi totam uerae religio 
+          <lb ed="#Z" n="18"/>nis summam, quam plenissime tradidit ecclesiae sanctus spiritus. Quod &amp; in expo 
+          <lb ed="#Z" n="19"/>sitone nominum sancti spiritus attigimus, Sequitur in euangelio: Ad haec multa 
+          <lb ed="#Z" n="20"/>habeo quae uobis dicam, sed non potestis portare nunc. Cum autem uenerit ille 
+          <lb ed="#Z" n="21"/>qui est spiritus ueritatis, ducet uos in omnem ueritatem. Non enim loquetur a 
+          se<lb ed="#Z" n="22" break="no"/>metipso, sed quaecunque audierit loquetur, &amp; quae futura suntannunciabit uobis. 
+          <lb ed="#Z" n="23"/>llle me glorificabit: quia de meo accipiet &amp; annunciabit uobis. Cum autem con- 
+          <lb ed="#Z" n="24"/>stet uenisse spiritum sanctum, claret eundem apostolos in omnem induxisse ueri 
+          <lb ed="#Z" n="25"/>tatem: adeo ut quod cum horum scriptis non congruit, merito suspectum sit de 
+          <lb ed="#Z" n="26"/>mendacio. Alioqui non dubito quin hodie loquatur per suos in ecclesia : caeterum  
+          <lb ed="#Z" n="27"/>absque controuersia est, spiritum sanctum sibijpsi minime contradicere. Ac futura 
+          <lb ed="#Z" n="28"/>per spiritum reuelata esse apostolis, in explicatione nominum sancti spiritus 
+          atti<lb ed="#Z" n="29" break="no"/>gimus. Nec dubium est quin adhuc multa sanctis in ecclesia reuelet, quae uideli 
+          <lb ed="#Z" n="30"/>cet pertinent ad conseruationem ueritatis Christianae &amp; sanctorum.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1347">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Rursus legimus in epistola Pauli ad Corinthios: Vnicuique datur manifestatis 
+          <lb ed="#Z" n="32"/>spiritus ad id quod expedit. Huic quidem per spiritum datur sermo sapientiae, ali 
+          <lb ed="#Z" n="33"/>uero sermo scientiae secundum eundem spiritum, alij fides in eodem spiritu, ali 
+          <lb ed="#Z" n="34"/>dona sanationum per eundem spiritum, alij facultates potentiarum, alij autem pro 
+          <lb ed="#Z" n="35"/>phetia, alij uero discretiones spirituum, alij genera linguarum, alij uero interpreta 
+          <lb ed="#Z" n="36"/>tio linguarum. Sed omnia haec efficit unus &amp; idem spiritus, distribuens singula  
+          <lb ed="#Z" n="37"/>cuique pro ut uult. Clara sunt haec omnia, nec ulla prolixiore indigent expositone 
+          <lb ed="#Z" n="38"/>Magna uero &amp; euidentia sunt haec dona sancti spiritus, quibus si ea quoque 
+          subij<lb ed="#Z" n="39" break="no"/>ciamus quae idem apostolus de eodem dei spiritu contexit, uela colligemus. 
+          Fru<lb ed="#Z" n="40" break="no"/>ctus spiritus est, ait, charitas, gaudium, pax, tolerantia, comitas, benignitas, fides 
+          <lb ed="#Z" n="41"/>mansuetudo, temperantia. Haec, inquam, &amp; omnes alias uirtutes inserit animis 
+          <lb ed="#Z" n="42"/>piorum, plantat, conseruat, tueturque, &amp; ad iustam frugem producit spiritus 
+          san<lb ed="#Z" n="43" break="no"/>ctus, qui operatur omnia bona in omnibus.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1379">
+          <lb ed="#Z" n="44"/><pc type="indent"/> His omnibus epilogi uice subijciemus modo elegantissimam Tertulliani de 
+          <lb ed="#Z" n="45"/>Spiritu sancto disputationem. Ea talis est. Quoniam dominus in coelum esset ab 
+          <lb ed="#Z" n="46"/>turus, paracletum discipulis necessario dabat ne illos quodammodo pupillos, quod 
+          <lb ed="#Z" n="47"/>minime decebat, relinqueret, &amp; sine aduocato &amp; quodam tutore desereret. Hic  
+          <lb ed="#Z" n="48"/>est enim qui ipsorum animos mentesque firmauit, qui euangelica sacramenta distin¬ 
+          <!--517.xml-->
+          <pb ed="#Z" n="247-v"/>
+          <lb ed="#Z" n="1"/>xit, qui in ipsis illuminator rerum diuinarum fuit, quo confirmati, pro nomine do 
+          <lb ed="#Z" n="2"/>mini nec carceres nec uincula timuerunt, quin imo ipsas saeculi potestates &amp; tor 
+          <lb ed="#Z" n="3"/>menta calcauerunt, armati iam scilicet per ipsum atque firmati, habentes in se dona 
+          <lb ed="#Z" n="4"/>quae hic idem spiritus ecclesiae Christi sponsae quasi quaedam ornamenta distribuit 
+          <lb ed="#Z" n="5"/>&amp; dirigit. Hic est enim qui prophetas in ecclesia constituit, magistros erudit, 
+          lin<lb ed="#Z" n="6" break="no"/>guas dirigit, uirtutes &amp; sanitates facit, opera mirabilia gerit, discretiones spirituum 
+          <lb ed="#Z" n="7"/>porrigit, gubernationes contribuit, consilia suggerit, quaeque alia sunt chrismatum  
+          <lb ed="#Z" n="8"/>dona componit &amp; digerit : &amp; ideo ecclesiam domini undique &amp; in omnibus 
+          perfe<lb ed="#Z" n="9" break="no"/>ctam &amp; consummatam facit. Hic est qui in modum columbae, posteaquam 
+          domi<lb ed="#Z" n="10" break="no"/>nus baptisatus est, super eum uenit &amp; mansit, habitans in solo Christo plenus &amp;  
+          <lb ed="#Z" n="11"/>totus. nec in aliqua mensura aut portione mutilatus, sed cum tota sua 
+          redundan<lb ed="#Z" n="12" break="no"/>tia cumulate admissus, ut ex illo delibationem quandam gratiarum caeteri conse 
+          <lb ed="#Z" n="13"/>qui possint totius sancti spiritus in Christo fonte remanente, ut ex illo donorum 
+          <lb ed="#Z" n="14"/>atque operum uenae ducerentur, spiritu sancto in Christo affluenter habitante. Hoc  
+          <lb ed="#Z" n="15"/>etenim prophetans lsaias, aiebat: Et requiescit, inquit, super eum spiritus 
+          sapien<lb ed="#Z" n="16" break="no"/>tiae &amp; intellectus, spiritus consilij &amp; uirtutis, spiritus scientiae &amp; pietatis, &amp; imple 
+          <lb ed="#Z" n="17"/>uit eum spiritus timoris dei. Hoc idem atque ipsum et alio in loco ex persona ipsius 
+          <lb ed="#Z" n="18"/>domini: Spiritus domini super me, propter quod unxit me, euangelizare 
+          paupe<lb ed="#Z" n="19" break="no"/>ribus misit me. Similiter Dauid : Propterea unxit te deus tuus oleo laetitiae a con- 
+          <lb ed="#Z" n="20"/>sortibus tuis, De hoc apostolus Paulus: Qui enim spiritum Christi non habet, hic 
+          <lb ed="#Z" n="21"/>non est eius. Et, Vbi spiritus domini, ibi libertas. Hic est qui operatur ex aquis se 
+          <lb ed="#Z" n="22"/>cundam natiuitatem semen quoddam diuini generis &amp; consecrator coelestis nati 
+          <lb ed="#Z" n="23"/>uitatis, pignus promissae haereditatis, &amp; quasi chirographum quoddam aeternae sa 
+          <lb ed="#Z" n="24"/>lutis, qui nos dei faciat templum, &amp; nos eius efficiat domum: qui interpellat diui¬  
+          <lb ed="#Z" n="25"/>nas aures gemitibus ineloquacibus aduocationis implens officia, &amp; defensionis 
+          <lb ed="#Z" n="26"/>exhibens munera, inhabitator corporibus nostris datus, &amp; sanctitatis effector,. 
+          <lb ed="#Z" n="27"/>qui id agens in nobis ad aeternitatem &amp; ad resurrectionem immortalitatis corpo 
+          <lb ed="#Z" n="28"/>ra nostra producat, dum illa in se assuefacit cum coelesti uirtute misceri, &amp; cum  
+          <lb ed="#Z" n="29"/>spiritus sancti diuina aeternitate sociari. Erudiuntur enim in illo &amp; per ipsum cor 
+          <lb ed="#Z" n="30"/>pora nostra ad immortalitatem proficere, dum ad decreta ipsius discunt se mode 
+          <lb ed="#Z" n="31"/>ranter temperare. Hic est enim qui contra carnem desiderat, quia caro contra eum  
+          <lb ed="#Z" n="32"/>repugnat. Hic est qui inexplebiles cupiditates cohercet, immoderatas libidines 
+          <lb ed="#Z" n="33"/>frangit, illicitos ardores extinguit, fiagrantes impetus uincit, ebrietates reiicit, aua 
+          <lb ed="#Z" n="34"/>ritias repellit, luxuriosas commessationes fugit, charitates nectit, affectiones 
+          con<lb ed="#Z" n="35" break="no"/>stringit, sectas repellit, regulam ueritatis expedit, haereticos reuincit, improbos fo 
+          <lb ed="#Z" n="36"/>ras expuit, euangelia custodit. De hoc item apostolus: Non enim spiritum mundi 
+          <lb ed="#Z" n="37"/>accepimus, sed spiritum qui ex deo est. De hoc exultat &amp; dicit: Puto autem quia 
+          <lb ed="#Z" n="38"/>&amp; ego spiritum dei habeo. De hoc dicit: Et spiritus prophetarum prophetis 
+          subie<lb ed="#Z" n="39" break="no"/>ctus est. De hoc refert, Spiritus autem manifeste dicit quia in nouissimis tempori 
+          <lb ed="#Z" n="40"/>bus recedent quidam a fide, attendentes spiritibus seductoribus, doctrinis daemo 
+          <lb ed="#Z" n="41"/>niorum, in hypocrisi loquentium mendacia, cauteriatam habentium conscientiam  
+          <lb ed="#Z" n="42"/>suam. In hoc spiritu positus nemo unquam dicit anathema Iesum, nemo negauit  
+          <lb ed="#Z" n="43"/>Christum dei filium, aut repudiauit creatorem deum, nemo contra scripturas 
+          ul<lb ed="#Z" n="44" break="no"/>la uerba sua depromit, nemo alia &amp; sacrilega decreta constituit, nemo diuersa iu 
+          <lb ed="#Z" n="45"/>ra conscribit. In hunc quisquis plasphemauerit, remissionem non habet non tan 
+          <lb ed="#Z" n="46"/>tum in isto saeculo, uerum etiam nec in futuro. Hic in apostolis Christo 
+          testimo<lb ed="#Z" n="47" break="no"/>nium reddit, in martyribus constantem fidem religionis ostendit, in uirginibus 
+          <lb ed="#Z" n="48"/>admirabilem continentiam signatae charitatis includit, in caeteris incorrupta &amp; 
+          <!--518.xml-->
+          <pb ed="#Z" n="248-r"/>
+          <lb ed="#Z" n="1"/>incontaminata doctrinae dominicae iura custodit, haereticos destruit, peruersos cor 
+          <lb ed="#Z" n="2"/>rigit, infideles arguit, simulatores ostendit, improbos quoque corrigit, ecclesiam 
+          in<lb ed="#Z" n="3" break="no"/>corruptam &amp; inuiolatam perpetuae uirginitatis &amp; ueritatis sanctitate custodit 
+          <lb ed="#Z" n="4"/>Hactenus Tertullianus.
+        </p>
+        <p xml:id="UD1xh4-h7u61G-d1e1516">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Vsque huc uero non sine tremore disseruimus de adorandae trinitatis sacrosan 
+          <lb ed="#Z" n="6"/>cto mysterio, de patre, filio, &amp; spiritu sancto, quod ex scripturis didicimus: ac sub 
+          <lb ed="#Z" n="7"/>sistimus hic tandem, unitatem hanc in trinitate &amp; trinitatem in unitate supplice 
+          <lb ed="#Z" n="8"/>adorantes, Retineamus autem in animis, &amp; confiteamur distinctionem scriptu 
+          <lb ed="#Z" n="9"/>ris manifestissime notatam, &amp; unitatem summa nobis commendatam diligentia. 
+          <lb ed="#Z" n="10"/>Nam in scriptura patri principium agendi rerumque omnium fons &amp; scaturigo tri 
+          <lb ed="#Z" n="11"/>buitur: filio sapientia, consilium, ipsaque in rebus agendis dispensatio : spiritui 
+          au<lb ed="#Z" n="12" break="no"/>tem assignatur uirtus &amp; efficatia actionis. Caueamus tamem ne propter distinctio¬  
+          <lb ed="#Z" n="13"/>nem dissociemus unitatem substantiae diuinae. Vnus enim deus est, in quo sunt 
+          <lb ed="#Z" n="14"/>illae proprietates. Vnus est ignis, licet in eo tria cernantur, lumen, splendor &amp; 
+          ca<lb ed="#Z" n="15" break="no"/>lor. Simul enim haec exurgunt, simul consistunt : non praeit lumen splendorem,  
+          <lb ed="#Z" n="16"/>neque hic calorem. Et quanquam aliud tribuatur lumini, aliud splendori, aliud ca 
+          <lb ed="#Z" n="17"/>lori, inseparabiliter tamen operantur. Itaque cum legimus deum creasse mundum, 
+          <lb ed="#Z" n="18"/>intelligimus patrem ex quo omnia, per filium, per quem omnia, in spiritu sancto, 
+          <lb ed="#Z" n="19"/>in quo omnia, condidisse mundum. Et cum legimus filium pro salute nostra 
+          in<lb ed="#Z" n="20" break="no"/>carnatum, passum, mortuum &amp; resuscitatum esse, credimus patrem, &amp; spiritum  
+          <lb ed="#Z" n="21"/>sanctum (etsi exortes fuerint incarnationis &amp; passionis) salutem tamen illam no 
+          <lb ed="#Z" n="22"/>stram operatos per filium, quem credimus ab illis nunquam fuisse separatum.  
+          <lb ed="#Z" n="23"/>Cumque peccata remitti dicuntur in spiritu sancto, credimus hoc beneficium &amp; 
+          o<lb ed="#Z" n="24" break="no"/>mnia alia beatitudinis nostrae beneficia inseparabiliter conferri ab uno, solo, 
+          ue<lb ed="#Z" n="25" break="no"/>ro, uiuo &amp; aeterno deo, qui est pater, filius, &amp; spiritus sanctus. Cui laus &amp; 
+          gratia<lb ed="#Z" n="26" break="no"/>rumactio in saecula saeculorum. Amen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

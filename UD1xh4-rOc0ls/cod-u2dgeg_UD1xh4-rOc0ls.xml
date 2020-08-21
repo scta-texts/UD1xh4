@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decimas 2, Sermo 10 [London 1587 Transcription]</title>
+        <author ref="#HenrichBullinger">Henrich Bullinger</author>
+        <editor>Ema-Joanne M. Brauchler</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Decimas 2, Sermo 10 [London 1587 Transcription]</title>
+          <date when="2020-07-27">June 27, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-u2dgeg">London 1587</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="222"/>
+        <cb ed="#L" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-rOc0ls">
+        <p><!--222.xml-->
+          <pb ed="#L" n="222"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>Of the thirde precept of the second table, which is in order  
+          <lb ed="#S" n="2"/>seventh of the ten commandments. Thou shalt not com 
+          <lb ed="#S" n="3"/>mit adulterie. Of wedlocke, against all intempe 
+          <lb ed="#S" n="4"/>rancie, of continence.  
+          <!--222.xml-->
+          <pb ed="#L" n="222"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="5"/>The neerest to our  
+          <lb ed="#S" n="6"/>life and bodie is e 
+          <lb ed="#S" n="7"/>verie ones severall  
+          <lb ed="#S" n="8"/>mate in wedlocke:  
+          <lb ed="#S" n="9"/>For by wedlock  
+          <lb ed="#S" n="10"/>two bodies are joy 
+          <lb ed="#S" n="11"/>ned together, and  
+          <lb ed="#S" n="12"/>are made one. For the Lord said: And  
+          <lb ed="#S" n="13"/>two shall be one flesh. In this thirde  
+          <lb ed="#S" n="14"/>precept therefore which is next after  
+          <lb ed="#S" n="15"/>the forbidding of murther, commaun 
+          <lb ed="#S" n="16"/>dement is given for the holie keeping  
+          <lb ed="#S" n="17"/>of honourable wedlocke, and for the  
+          <lb ed="#S" n="18"/>true sactifying of ye bodie, against ad 
+          <lb ed="#S" n="19"/>ulteries, wandering lusts, and al in 
+          <lb ed="#S" n="20"/>continencie. Wedlocke is prepared to  
+          <lb ed="#S" n="21"/>this end and purpose, that honestie &amp;  
+          <lb ed="#S" n="22"/>chastitie may flourish among good me,  
+          <lb ed="#S" n="23"/>and children may be brought up in the  
+          <lb ed="#S" n="24"/>feare of the Lord. This commaunde 
+          <lb ed="#S" n="25"/>ment againe is briefly expressed in as  
+          <lb ed="#S" n="26"/>fewe wordes as may be: Thou shalt  
+          <lb ed="#S" n="27"/>not commit adulterie. In the exposi 
+          <lb ed="#S" n="28"/>tion of this commaundement by the  
+          <lb ed="#S" n="29"/>helpe of Gods good spirite, I will first  
+          <lb ed="#S" n="30"/>speake of holy matrimonie, then of a 
+          <lb ed="#S" n="31"/>dulterie: thirdly I will shew you what  
+          <lb ed="#S" n="32"/>is conteined under the name of adul 
+          <lb ed="#S" n="33"/>terie: and lastly I will make an ende  
+          <lb ed="#S" n="34"/>with a treatise of continencie.  
+          <lb ed="#S" n="35"/>Wedlocke, which is also called ma 
+          <lb ed="#S" n="36"/>trimonie, is an alliaunce of holy joy 
+          <lb ed="#S" n="37"/>ning together of man &amp; woman, cou 
+          <lb ed="#S" n="38"/>pled and brought into one by mutuall  
+          <lb ed="#S" n="39"/>cosent of them both, to the intent that  
+          <lb ed="#S" n="40"/>they using all thinges in common be 
+          <lb ed="#S" n="41"/>twixt themselves may live in chasti 
+          <lb ed="#S" n="42"/>tie, and traine up their children in the  
+          <!--222.xml-->
+          <pb ed="#L" n="222"/>
+          <cb ed="#L" n="c"/>
+          <lb ed="#S" n="43"/>feare of the Lord. The Gospel verilie  
+          <lb ed="#S" n="44"/>calleth wedlock a joyning together,  
+          <lb ed="#S" n="45"/>which god hath made. for Christ said:  
+          <lb ed="#S" n="46"/>What god hath joyned together, let  
+          <lb ed="#S" n="47"/>no man separate. Neither is it lawful  
+          <lb ed="#S" n="48"/>to make any other the author of ma 
+          <lb ed="#S" n="49"/>trimonie, than God himselfe. God did  
+          <lb ed="#S" n="50"/>by the meane and ministery of his An 
+          <lb ed="#S" n="51"/>gels and chosen men, appoint other  
+          <lb ed="#S" n="52"/>good and necessarie ordinaunces for  
+          <lb ed="#S" n="53"/>mankinds commoditie, but he himself  
+          <lb ed="#S" n="54"/>did immediately without the ministe 
+          <lb ed="#S" n="55"/>rie of any person ordeine matrimonie,  
+          <lb ed="#S" n="56"/>he himselfe did establish and ratifie it  
+          <lb ed="#S" n="57"/>with lawes for the purpose, he himself  
+          <lb ed="#S" n="58"/>did couple the first married folkes, and  
+          <lb ed="#S" n="59"/>hee being the true high priest in deede,  
+          <lb ed="#S" n="60"/>did himselfe blesse the couple then,  
+          <lb ed="#S" n="61"/>whom hee did joyne together.  
+          <lb ed="#S" n="62"/>By this wee may easilie gather the  
+          <lb ed="#S" n="63"/>excellent dignitie of marriage or ma 
+          <lb ed="#S" n="64"/>trimonie. For God did ordeine it, yea  
+          <lb ed="#S" n="65"/>he ordeined it in Paradise, when man  
+          <lb ed="#S" n="66"/>as yet was free from all kinde of cala 
+          <lb ed="#S" n="67"/>mities. Adam when hee was in the  
+          <lb ed="#S" n="68"/>great felicitie of Paradise, seemed not  
+          <lb ed="#S" n="69"/>yet to live commodiously nor sweetely  
+          <lb ed="#S" n="70"/>enough, except a wife were given to  
+          <lb ed="#S" n="71"/>be joyned unto him. It is not good  
+          <lb ed="#S" n="72"/>(sayth God) for man to be alone, I will  
+          <lb ed="#S" n="73"/>make him a helper to tarie or dwell  
+          <lb ed="#S" n="74"/>with him. For God brought to Adam  
+          <lb ed="#S" n="75"/>al living creatures which he had crea 
+          <lb ed="#S" n="76"/>ted for him to name them: but among  
+          <lb ed="#S" n="77"/>them all, there was nothing that A 
+          <lb ed="#S" n="78"/>dam had lust unto, his minde and na 
+          <lb ed="#S" n="79"/>ture did utterly abhore to be coupled  
+          <lb ed="#S" n="80"/>with any of them. God therefore ca 
+          <!--223.xml-->
+          <pb ed="#L" n="223"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>sting Adam into a dead sleepe, doeth  
+          <lb ed="#S" n="2"/>out of his side as hee slept, frame uppe  
+          <lb ed="#S" n="3"/>a woman, which so soone as Adam set  
+          <lb ed="#S" n="4"/>his eye uppon when she was brought  
+          <lb ed="#S" n="5"/>unto him by God who had made her,  
+          <lb ed="#S" n="6"/>hee straightway crieth that this was  
+          <lb ed="#S" n="7"/>such a one as he desired, that this was  
+          <lb ed="#S" n="8"/>such a one as he could love, and wher 
+          <lb ed="#S" n="9"/>with his nature could verie well a 
+          <lb ed="#S" n="10"/>gree. This nowe (saith he) is bone of  
+          <lb ed="#S" n="11"/>my bones, and flesh of my flesh. I  
+          <lb ed="#S" n="12"/>have found (saith he) I have found an  
+          <lb ed="#S" n="13"/>helpe fitte for mee, which hath part of  
+          <lb ed="#S" n="14"/>my flesh, of my bloud, and my verie  
+          <lb ed="#S" n="15"/>substance. From hence riseth and yet  
+          <lb ed="#S" n="16"/>remayneth that naturall pronenesse  
+          <lb ed="#S" n="17"/>of men toward woman: when on the  
+          <lb ed="#S" n="18"/>otherside overthwart mingling and  
+          <lb ed="#S" n="19"/>medling of cursed men with beastes  
+          <lb ed="#S" n="20"/>contrarie to mans nature was long  
+          <lb ed="#S" n="21"/>agoe destroyed by fire, which shewed  
+          <lb ed="#S" n="22"/>that God did abhore it. The Lorde  
+          <lb ed="#S" n="23"/>moreover sayde: A man shall forsake  
+          <lb ed="#S" n="24"/>his father and his mother, and cleave  
+          <lb ed="#S" n="25"/>to his wife, and two shall be one flesh  
+          <lb ed="#S" n="26"/>But in the exposition of the fifth com 
+          <lb ed="#S" n="27"/>maundment we perceived how much  
+          <lb ed="#S" n="28"/>God doth set by the love and goodwill  
+          <lb ed="#S" n="29"/>of children to their parentes, and what  
+          <lb ed="#S" n="30"/>a charge he giveth to children to ho 
+          <lb ed="#S" n="31"/>nour them. It must needes be there 
+          <lb ed="#S" n="32"/>fore that wedlocke is a most heavenly  
+          <lb ed="#S" n="33"/>ordinaunce, since it is preferred be 
+          <lb ed="#S" n="34"/>fore the honouring of parentes: and  
+          <lb ed="#S" n="35"/>yet neverthelesse it is so preferred, as  
+          <lb ed="#S" n="36"/>that by the law of matrimonie, the  
+          <lb ed="#S" n="37"/>precept for the honour due to parents  
+          <lb ed="#S" n="38"/>may not be abolished, but that there 
+          <lb ed="#S" n="39"/>by married folkes may knowe to be 
+          <lb ed="#S" n="40"/>have themselves so, if their parentes  
+          <lb ed="#S" n="41"/>goe about to breede discorde betwixt  
+          <lb ed="#S" n="42"/>them and their spouses, that then they  
+          <lb ed="#S" n="43"/>suffer not themselmes for their pa 
+          <lb ed="#S" n="44"/>rentes wordes to be severed, but in  
+          <lb ed="#S" n="45"/>all things else to honour them as they  
+          <lb ed="#S" n="46"/>should. The holy Patriarches kept  
+          <!--223.xml-->
+          <pb ed="#L" n="223"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>the lawe of matrimonie, and reveren 
+          <lb ed="#S" n="48"/>ced wedlocke verie devoutely. For no  
+          <lb ed="#S" n="49"/>small parcell of the first and most ex 
+          <lb ed="#S" n="50"/>cellent booke of the Bible called Ge 
+          <lb ed="#S" n="51"/>nesis, is spent in rehearsing the mar 
+          <lb ed="#S" n="52"/>riages of holie men. Neyther is Mo 
+          <lb ed="#S" n="53"/>ses the peerelesse servant of God a 
+          <lb ed="#S" n="54"/>shamed to make mention of the busi 
+          <lb ed="#S" n="55"/>nes and workes of wedlocke as pure  
+          <lb ed="#S" n="56"/>and excellent, which seeme to many  
+          <lb ed="#S" n="57"/>at this day to be foule and filthie.  
+          <lb ed="#S" n="58"/>Christ himselfe (who being the verie  
+          <lb ed="#S" n="59"/>naturall sonne of God, was himselfe  
+          <lb ed="#S" n="60"/>borne in wedlocke although of a pure  
+          <lb ed="#S" n="61"/>and uncorupted Virgine) did honour  
+          <lb ed="#S" n="62"/>and commend the knotte of matrimo 
+          <lb ed="#S" n="63"/>nie, while hee did vouchsafe to shewe 
+          <lb ed="#S" n="64"/>his first miracle at a wedding, which  
+          <lb ed="#S" n="65"/>was such a myracle as did declare  
+          <lb ed="#S" n="66"/>that the Lorde is able to make the bit 
+          <lb ed="#S" n="67"/>ternesse of marriage sweete, and the  
+          <lb ed="#S" n="68"/>scarcitie thereof to abound with plen 
+          <lb ed="#S" n="69"/>tie. As the Apostles were married  
+          <lb ed="#S" n="70"/>men according to the examples of the  
+          <lb ed="#S" n="71"/>patriarches, kinges, princes, priestes,  
+          <lb ed="#S" n="72"/>and prophetes: So Paul the chiefe of  
+          <lb ed="#S" n="73"/>all the Apostles, cryeth out and saith:  
+          <lb ed="#S" n="74"/>Wedlocke is honourable among all,  
+          <lb ed="#S" n="75"/>and the bedde undefiled. But whore 
+          <lb ed="#S" n="76"/>mongers and adulterers God will  
+          <lb ed="#S" n="77"/>judge. He sayeth taht wedlocke is ho 
+          <lb ed="#S" n="78"/>nourable among all, he meaneth, all  
+          <lb ed="#S" n="79"/>nations: For verie fewe people shall  
+          <lb ed="#S" n="80"/>you find that do not greatly commend  
+          <lb ed="#S" n="81"/>the state of marriage. Xenophon thin 
+          <lb ed="#S" n="82"/>keth taht among all Gods ordinaun 
+          <lb ed="#S" n="83"/>ces scant anie one can be found that is  
+          <lb ed="#S" n="84"/>more commendable or profitable than  
+          <lb ed="#S" n="85"/>wedlocke is. Musonius, Hierocles,  
+          <lb ed="#S" n="86"/>and other auncient sages thinke mar 
+          <lb ed="#S" n="87"/>riage to bee so necessarie to live well  
+          <lb ed="#S" n="88"/>and conveniently, that the life of man  
+          <lb ed="#S" n="89"/>without marriage seemeth to be may 
+          <lb ed="#S" n="90"/>med. Even they (ye heathens I meane)  
+          <lb ed="#S" n="91"/>doe make the evils and discommodi 
+          <lb ed="#S" n="92"/>ties of marriage to consist in ye married  
+          <!--224.xml-->
+          <pb ed="#L" n="224"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>folkes and not in mariage. For mar 
+          <lb ed="#S" n="2"/>riage of it selfe is good, but many use  
+          <lb ed="#S" n="3"/>not well the thing that is good, and  
+          <lb ed="#S" n="4"/>therefore they feele the smart of their  
+          <lb ed="#S" n="5"/>soule abuse worthily. For who kno 
+          <lb ed="#S" n="6"/>weth not that the faulte of drunken 
+          <lb ed="#S" n="7"/>nesse is not to bee referred to wine  
+          <lb ed="#S" n="8"/>which is the good and holesome crea 
+          <lb ed="#S" n="9"/>ture of God, but to the excessive bib 
+          <lb ed="#S" n="10"/>bing and ever great greedinesse of ma  
+          <lb ed="#S" n="11"/>which abuseth Gods good creature? 
+          <lb ed="#S" n="12"/>That which commeth out of the heart  
+          <lb ed="#S" n="13"/>of man (saith the Lorde in the Gospel)  
+          <lb ed="#S" n="14"/>and not that which goeth in by the  
+          <lb ed="#S" n="15"/>mouth, defileth the man. Hereunto  
+          <lb ed="#S" n="16"/>belongth that saying of Paul the A 
+          <lb ed="#S" n="17"/>postle of Christ, where he attributeth  
+          <lb ed="#S" n="18"/>sanctification to wedlocke: for the bed  
+          <lb ed="#S" n="19"/>(saith he) is undefiled: and in an other  
+          <lb ed="#S" n="20"/>place he testifieth that the unbeleeving  
+          <lb ed="#S" n="21"/>husband is sanctified by the beleeving  
+          <lb ed="#S" n="22"/>wife: hee affirmeth also that children  
+          <lb ed="#S" n="23"/>borne in wedlocke are holy or cleane.  
+          <lb ed="#S" n="24"/>Moreover the same Paul maketh  
+          <lb ed="#S" n="25"/>Christ an example of love betwixt ma  
+          <lb ed="#S" n="26"/>and wife: and shadoweth ye mysteries  
+          <lb ed="#S" n="27"/>of Christ and the Church by the colour  
+          <lb ed="#S" n="28"/>of wedlocke: he figureth (I say) a hea 
+          <lb ed="#S" n="29"/>venly thing by an holy type taht God  
+          <lb ed="#S" n="30"/>doth allowe. Whereuppon in an other  
+          <lb ed="#S" n="31"/>place the same Apostle doth say: That  
+          <lb ed="#S" n="32"/>their doctrine is a verie doctrine of  
+          <lb ed="#S" n="33"/>devils which forbid men to marie.  
+          <lb ed="#S" n="34"/>And so consequently it followeth that  
+          <lb ed="#S" n="35"/>that is an heavely doctrine proceeding  
+          <lb ed="#S" n="36"/>from God, which permitteth mariage  
+          <lb ed="#S" n="37"/>freely to all men, and doth commende  
+          <lb ed="#S" n="38"/>and reverence it.  
+          <lb ed="#S" n="39"/>The excellencie and dignitie of ma 
+          <lb ed="#S" n="40"/>trimonie being thus understoode, let  
+          <lb ed="#S" n="41"/>us now seeke out and looke on the cau 
+          <lb ed="#S" n="42"/>ses, for which God hath ordeyned ma 
+          <lb ed="#S" n="43"/>riage for men to imbrace. god accor 
+          <lb ed="#S" n="44"/>ding to his natural goodnesse directeth  
+          <lb ed="#S" n="45"/>all his ordinaunces to the great good  
+          <lb ed="#S" n="46"/>and aboundant commoditie or mortall  
+          <!--224.xml-->
+          <pb ed="#L" n="224"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>men: and therefore it followeth that  
+          <lb ed="#S" n="48"/>hee ordeyned matrimonie for the pre 
+          <lb ed="#S" n="49"/>servation of mankind to the ende that  
+          <lb ed="#S" n="50"/>mans life might be pleasaunt, sweets  
+          <lb ed="#S" n="51"/>and throughly furnished with joyes  
+          <lb ed="#S" n="52"/>sufficient. But al these causes may bee  
+          <lb ed="#S" n="53"/>reduced into ye number of three. First  
+          <lb ed="#S" n="54"/>God himselfe doth say: It is not good  
+          <lb ed="#S" n="55"/>for man to be alone, let us make him  
+          <lb ed="#S" n="56"/>an helpe therefore to bee before him,  
+          <lb ed="#S" n="57"/>or to dwell with him. So then the first  
+          <lb ed="#S" n="58"/>cause why wedlocke was instituted,  
+          <lb ed="#S" n="59"/>is mans commoditie, that thereby the  
+          <lb ed="#S" n="60"/>life of man might bee the pleasaunter  
+          <lb ed="#S" n="61"/>and more comodious. For Adam see 
+          <lb ed="#S" n="62"/>med not to live halfe happilie nor  
+          <lb ed="#S" n="63"/>sweetely enough, unlesse he had a wife  
+          <lb ed="#S" n="64"/>to joyne himsefe unto: which wife is  
+          <lb ed="#S" n="65"/>not in the Scriptures called an impe 
+          <lb ed="#S" n="66"/>diment or necessarie evill, as certaine  
+          <lb ed="#S" n="67"/>Poets and beastly men, who hated  
+          <lb ed="#S" n="68"/>women, have foolishly langled, but she  
+          <lb ed="#S" n="69"/>is the helpe or arme of the man. An 
+          <lb ed="#S" n="70"/>tipater an heathen writer In Sermone  
+          <lb ed="#S" n="71"/>de Nuptys, doeth wonderfully agree  
+          <lb ed="#S" n="72"/>with this saying of the scripture, and  
+          <lb ed="#S" n="73"/>expresseth plainly what kinde of helpe  
+          <lb ed="#S" n="74"/>and what manner of arme the wife is  
+          <lb ed="#S" n="75"/>to her husband. Whosoever, sayth he  
+          <lb ed="#S" n="76"/>hath not had triall of wyfe and chil 
+          <lb ed="#S" n="77"/>dren, hee is utterly ignoraunt of true  
+          <lb ed="#S" n="78"/>mutuall goodwill. Love in wedlocke  
+          <lb ed="#S" n="79"/>is mutually shewed, when man and  
+          <lb ed="#S" n="80"/>wife doe not comunicate wealth, chil 
+          <lb ed="#S" n="81"/>dren, and heartes also, as friendes are  
+          <lb ed="#S" n="82"/>wont to doe, but have their bodies in  
+          <lb ed="#S" n="83"/>comon also, which friends cannot do.  
+          <lb ed="#S" n="84"/>And therefore Euripides laying aside  
+          <lb ed="#S" n="85"/>the deadly hate that he bare to wome,  
+          <lb ed="#S" n="86"/>writ these verses in commendation of  
+          <lb ed="#S" n="87"/>marriage.  
+          <lb ed="#S" n="88"/>The wife that gads not gigglot wife  
+          <lb ed="#S" n="89"/>with everie flirting gill,  
+          <lb ed="#S" n="90"/>Bul honestly doth keepe at home,  
+          <lb ed="#S" n="91"/>not set to gossip still. 
+          <!--225.xml-->
+          <pb ed="#L" n="225"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>Is to her husband in his eares,  
+          <lb ed="#S" n="2"/>a passing sweete delight,  
+          <lb ed="#S" n="3"/>She heales his sickenesse all, and calles  
+          <lb ed="#S" n="4"/>againe his dying spirite.  
+          <lb ed="#S" n="5"/>By fawning on his angrie lookes  
+          <lb ed="#S" n="6"/>she turnes them into smiles,  
+          <lb ed="#S" n="7"/>And keeps her husbands secrets close,  
+          <lb ed="#S" n="8"/>when friends worke wilie guildes.  
+          <lb ed="#S" n="9"/>For like as a man having one hande  
+          <lb ed="#S" n="10"/>or one foote, if by anie meanes he get  
+          <lb ed="#S" n="11"/>him selfe an other, may thereby the  
+          <lb ed="#S" n="12"/>more easily lay holde on what hee li 
+          <lb ed="#S" n="13"/>steth, or goe whither he will: even so  
+          <lb ed="#S" n="14"/>he that hath married a wife, shall more  
+          <lb ed="#S" n="15"/>easily enjoy the healthfull pleasures  
+          <lb ed="#S" n="16"/>and profitable commodities of this  
+          <lb ed="#S" n="17"/>present life. For married folkes, for  
+          <lb ed="#S" n="18"/>two eyes have fourse, &amp; for two hands  
+          <lb ed="#S" n="19"/>as manie more, which being joyned  
+          <lb ed="#S" n="20"/>together, they may the more easily  
+          <lb ed="#S" n="21"/>dispatch their handie businesses: a 
+          <lb ed="#S" n="22"/>gaine, when the ones two handes are  
+          <lb ed="#S" n="23"/>wearied the handes of the other sup 
+          <lb ed="#S" n="24"/>plie their roome, &amp; keepe their worke  
+          <lb ed="#S" n="25"/>in a forwardnesse still. Marriage there 
+          <lb ed="#S" n="26"/>fore, which in steede of one member  
+          <lb ed="#S" n="27"/>is by increase compact of twain, is bet 
+          <lb ed="#S" n="28"/>ter able to passe through the course  
+          <lb ed="#S" n="29"/>of this worlde, than the single and un 
+          <lb ed="#S" n="30"/>wedded life. Thus much out of Anti 
+          <lb ed="#S" n="31"/>pater. hierocles also in his booke De  
+          <lb ed="#S" n="32"/>nuptys saith: To live with a woman is  
+          <lb ed="#S" n="33"/>verie profitable, even beside the be 
+          <lb ed="#S" n="34"/>getting of children. For first she doth  
+          <lb ed="#S" n="35"/>welcome us home, that are tyred a 
+          <lb ed="#S" n="36"/>broade with labour and travaile, shee  
+          <lb ed="#S" n="37"/>entertayneth us serviceably, and doth  
+          <lb ed="#S" n="38"/>all shee may to recreate our wearie  
+          <lb ed="#S" n="39"/>mindes. She maketh us forget all sor 
+          <lb ed="#S" n="40"/>rowe and sadnesse. For the trouble 
+          <lb ed="#S" n="41"/>some cases of our life, and generally of  
+          <lb ed="#S" n="42"/>care and businesse, while we are occu 
+          <lb ed="#S" n="43"/>pied in matters abroade, in bargai 
+          <lb ed="#S" n="44"/>ning in the countrey, or among our  
+          <lb ed="#S" n="45"/>friendes, are not easily suffered to be  
+          <!--225.xml-->
+          <pb ed="#L" n="225"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="46"/>troubled with our domesticall and  
+          <lb ed="#S" n="47"/>housholde affaires: but when we have  
+          <lb ed="#S" n="48"/>dispatched them, and are once retur 
+          <lb ed="#S" n="49"/>ned to our wives at home, so that our  
+          <lb ed="#S" n="50"/>minds are at quiet, and we restored to  
+          <lb ed="#S" n="51"/>our ease and libertie, then are our com 
+          <lb ed="#S" n="52"/>bersome businesses well lightened, and  
+          <lb ed="#S" n="53"/>eased, whereby they cease to trouble  
+          <lb ed="#S" n="54"/>us any longer. Neither is a wife trou 
+          <lb ed="#S" n="55"/>blesome undoubtedly, but lighteneth  
+          <lb ed="#S" n="56"/>things that are troublesome to us. For  
+          <lb ed="#S" n="57"/>there is nothing so heavie, that a man  
+          <lb ed="#S" n="58"/>and wife living is concorde are not a 
+          <lb ed="#S" n="59"/>ble to beare, especially if they be both  
+          <lb ed="#S" n="60"/>willing to doe their indeavour. And so  
+          <lb ed="#S" n="61"/>foorth.  
+          <lb ed="#S" n="62"/>the second cause why Matrimony  
+          <lb ed="#S" n="63"/>was ordayned, is the begetting of chil 
+          <lb ed="#S" n="64"/>dren for the preservation of mankinde  
+          <lb ed="#S" n="65"/>by increase, and the bringing of them  
+          <lb ed="#S" n="66"/>uppe in the feare of the Lord. For the  
+          <lb ed="#S" n="67"/>Lorde blessed Adam and Eva, saying:  
+          <lb ed="#S" n="68"/>Increase and multiplie, and replenish  
+          <lb ed="#S" n="69"/>the earth. Paul the Apostle in his E 
+          <lb ed="#S" n="70"/>pistle to Titus saith: Speake to the el 
+          <lb ed="#S" n="71"/>der women that they may teach honest thinges, that they may teach ho 
+          <lb ed="#S" n="72"/>nest thinges, that they may make the  
+          <lb ed="#S" n="73"/>younger women to be sober minded,  
+          <lb ed="#S" n="74"/>to love their husbandes, to love their  
+          <lb ed="#S" n="75"/>children, to bee discreete housekee 
+          <lb ed="#S" n="76"/>pers, good, obedient to their hus 
+          <lb ed="#S" n="77"/>bandes. And againe to Timothie: A 
+          <lb ed="#S" n="78"/>dam was not deceived, but the wo 
+          <lb ed="#S" n="79"/>man was seduced, notwithstanding  
+          <lb ed="#S" n="80"/>through bearing of children she shall  
+          <lb ed="#S" n="81"/>bee saved, if they continue in faith,  
+          <lb ed="#S" n="82"/>and charitie, and holinesse with mode 
+          <lb ed="#S" n="83"/>stie. But the begetting of children  
+          <lb ed="#S" n="84"/>were altogether unprofitable, if they  
+          <lb ed="#S" n="85"/>were not well brought up. For the  
+          <lb ed="#S" n="86"/>that loveth her children in deede, doth  
+          <lb ed="#S" n="87"/>bring them up in ye feare of the Lorde.  
+          <lb ed="#S" n="88"/>Which bringing up is no small com 
+          <lb ed="#S" n="89"/>moditie to ye common weale &amp; Church  
+          <lb ed="#S" n="90"/>of God. The glorie also and worship  
+          <lb ed="#S" n="91"/>of God, is greatly augmented, when  
+          <!--226.xml-->
+          <pb ed="#L" n="226"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>as by wedlocke there doth spring up a  
+          <lb ed="#S" n="2"/>great number of men ye acknowledge,  
+          <lb ed="#S" n="3"/>call upon, &amp; worship god as they ought  
+          <lb ed="#S" n="4"/>to doe. The thirde cause why matri 
+          <lb ed="#S" n="5"/>monie was ordeined, ye Apostle Paule  
+          <lb ed="#S" n="6"/>expresseth in these wordes: To avoide  
+          <lb ed="#S" n="7"/>whoredome let everie man have his  
+          <lb ed="#S" n="8"/>owne wife, and every woman her own  
+          <lb ed="#S" n="9"/>husband. It were good and expedient  
+          <lb ed="#S" n="10"/>for a man not to touch a woman, and  
+          <lb ed="#S" n="11"/>to live single, but because this is not  
+          <lb ed="#S" n="12"/>given to all men, as ye Lord in the Gos 
+          <lb ed="#S" n="13"/>pell testifieth, &amp; that concupiscence of  
+          <lb ed="#S" n="14"/>the flesh doeth for the most part, burne  
+          <lb ed="#S" n="15"/>the greatest sort of men, the Lord hath  
+          <lb ed="#S" n="16"/>appointed marriage to be as it were a  
+          <lb ed="#S" n="17"/>remedie against that heate, as the A 
+          <lb ed="#S" n="18"/>postle in another place witnesseth, say 
+          <lb ed="#S" n="19"/>ing: Let them marry which cannot ab 
+          <lb ed="#S" n="20"/>staine: for it is better to marrie than to  
+          <lb ed="#S" n="21"/>burne. By this we learne that the na 
+          <lb ed="#S" n="22"/>turall copanie of a man with his own  
+          <lb ed="#S" n="23"/>wife, is not reputed for a fault or un 
+          <lb ed="#S" n="24"/>cleannesse in the fight of God. Whore 
+          <lb ed="#S" n="25"/>dome is uncleannesse in the eies of the  
+          <lb ed="#S" n="26"/>Lord, because it is directly contrary to  
+          <lb ed="#S" n="27"/>the lawe of God. But God hath allow 
+          <lb ed="#S" n="28"/>ed wedlocke and blessed it, therefore  
+          <lb ed="#S" n="29"/>married folkes are sanctified by ye bles 
+          <lb ed="#S" n="30"/>sing of God through faith and obedi 
+          <lb ed="#S" n="31"/>ence. Neither lacke we here anie evi 
+          <lb ed="#S" n="32"/>dent argumentes, and testimonies of  
+          <lb ed="#S" n="33"/>Paule to prove it by. For to the He 
+          <lb ed="#S" n="34"/>brewes he saide: Wedlocke is honor 
+          <lb ed="#S" n="35"/>able among al men, and teh bed undefi 
+          <lb ed="#S" n="36"/>led: but whoremonders and adulte 
+          <lb ed="#S" n="37"/>rers God will judge. the Apostle here  
+          <lb ed="#S" n="38"/>spake verie reverently, and by the bed  
+          <lb ed="#S" n="39"/>he understood the naturall company of  
+          <lb ed="#S" n="40"/>a man with his wife, which he saieth  
+          <lb ed="#S" n="41"/>plainely is undefiled. What God hath  
+          <lb ed="#S" n="42"/>made cleane, who shall call uncleane?  
+          <lb ed="#S" n="43"/>who can denie, ye to ye cleane all things  
+          <lb ed="#S" n="44"/>are cleane? Paphnutius therefore both  
+          <lb ed="#S" n="45"/>bishop and coufessour judging rightly  
+          <lb ed="#S" n="46"/>of this, did in the Nicene coucell say o 
+          <!--226.xml-->
+          <pb ed="#L" n="226"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>openly: That the lying of a man with his  
+          <lb ed="#S" n="48"/>owne wife is chastitie. Neither was  
+          <lb ed="#S" n="49"/>the most modest Apostle ashamed to  
+          <lb ed="#S" n="50"/>make lawes betwixt a ma &amp; his wife.  
+          <lb ed="#S" n="51"/>For to the Corinthians he saith, Let  
+          <lb ed="#S" n="52"/>the husband give to the wife due bene 
+          <lb ed="#S" n="53"/>volence: likewise also the wife to the  
+          <lb ed="#S" n="54"/>husband. The wife hath not the power  
+          <lb ed="#S" n="55"/>of her owne bodie, but the husbande:  
+          <lb ed="#S" n="56"/>likewise also the husband hath not the  
+          <lb ed="#S" n="57"/>power of his owne bodie, but the wife.  
+          <lb ed="#S" n="58"/>Defraude ye not the one the other, ex 
+          <lb ed="#S" n="59"/>cept it be with both your consents for  
+          <lb ed="#S" n="60"/>a time, that ye may give your selves to  
+          <lb ed="#S" n="61"/>fasting and to prayer: and afterwarde  
+          <lb ed="#S" n="62"/>come together againe, that fathan tept  
+          <lb ed="#S" n="63"/>you not for your incontinencie. These  
+          <lb ed="#S" n="64"/>words of ye Apostle are so evident, that  
+          <lb ed="#S" n="65"/>they neede no exposition at all. In the  
+          <lb ed="#S" n="66"/>same Epistle againe he saith: If thou  
+          <lb ed="#S" n="67"/>marriest a wife, thou sinnest not. And  
+          <lb ed="#S" n="68"/>againe, If a virgine marry, she hath not  
+          <lb ed="#S" n="69"/>sinned. Now what is more excellent,  
+          <lb ed="#S" n="70"/>pure and holy, than virginitie is? But  
+          <lb ed="#S" n="71"/>a virgine sinneth not if the change vir 
+          <lb ed="#S" n="72"/>ginitie for holy matrimonie. Very wel  
+          <lb ed="#S" n="73"/>therefore doeth Chrysostome in a cer 
+          <lb ed="#S" n="74"/>taine homilie say, The first degree of  
+          <lb ed="#S" n="75"/>chastitie is unspotted virginitie, the 2.  
+          <lb ed="#S" n="76"/>is faithfull wedlocke. S. Augustine also  
+          <lb ed="#S" n="77"/>calleth marriage chastity or cotinency:  
+          <lb ed="#S" n="78"/>the place is to be seene in the 19. and 20.  
+          <lb ed="#S" n="79"/>cha. de bono coning ali, and in the 198. E 
+          <lb ed="#S" n="80"/>pist. This is the head fro whence doth  
+          <lb ed="#S" n="81"/>spring ye greatest part of publique ho 
+          <lb ed="#S" n="82"/>nestie. For God alloweth wedlock, but  
+          <lb ed="#S" n="83"/>disalloweth fornication and all kind of  
+          <lb ed="#S" n="84"/>uncleannes. It pleased him by his or 
+          <lb ed="#S" n="85"/>dinance to exclude al uncleannes from  
+          <lb ed="#S" n="86"/>his beleeving servants. Let the saints  
+          <lb ed="#S" n="87"/>therefore, but magistrates especially,  
+          <lb ed="#S" n="88"/>have an especiall eye, not to be slacke  
+          <lb ed="#S" n="89"/>in promoting holie wedlocke, but di 
+          <lb ed="#S" n="90"/>ligent to punish severely all filthie for 
+          <lb ed="#S" n="91"/>nication and other uncleannesse.  
+          <lb ed="#S" n="92"/>This I have hitherto rehearsed some 
+          <!--227.xml-->
+          <pb ed="#L" n="227"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>what largely out of the holy scripture,  
+          <lb ed="#S" n="2"/>to the intent I might prove to al men,  
+          <lb ed="#S" n="3"/>that wedlocke is holie, &amp; that therefore  
+          <lb ed="#S" n="4"/>no ma can be defiled with ye moderate,  
+          <lb ed="#S" n="5"/>holie, &amp; lawful use thereof: and so con 
+          <lb ed="#S" n="6"/>sequently that marriage is permitted  
+          <lb ed="#S" n="7"/>to al sorts of men. For ye Apostle saith:  
+          <lb ed="#S" n="8"/>Let a bishoppe be the husband of one  
+          <lb ed="#S" n="9"/>wife, let him rule his owne house wel,  
+          <lb ed="#S" n="10"/>and have faithfull children. For it is  
+          <lb ed="#S" n="11"/>manifest by ye testimonies of scripture  
+          <lb ed="#S" n="12"/>and ecclesiasticall writers, that the A 
+          <lb ed="#S" n="13"/>postles of Christ and other Apostolical  
+          <lb ed="#S" n="14"/>teachers of ye primitive Church were  
+          <lb ed="#S" n="15"/>married men, and had wives and chil 
+          <lb ed="#S" n="16"/>dren. Neither is there any thing, next  
+          <lb ed="#S" n="17"/>after corrupt doctrine, which doeth  
+          <lb ed="#S" n="18"/>more infect the Church of Christ, and  
+          <lb ed="#S" n="19"/>subvert al ecclesiastical discipline, than  
+          <lb ed="#S" n="20"/>if the ministers of teh churches, which  
+          <lb ed="#S" n="21"/>should be lights of the whole congre 
+          <lb ed="#S" n="22"/>gation, be fornicators or adulterous  
+          <lb ed="#S" n="23"/>persons. That offence especially above  
+          <lb ed="#S" n="24"/>all other, is an hinderaunce and blot to  
+          <lb ed="#S" n="25"/>al kind of honesty: but touching this I  
+          <lb ed="#S" n="26"/>purpose not at this time to discourse so  
+          <lb ed="#S" n="27"/>largely and fully as I might. to this  
+          <lb ed="#S" n="28"/>I adde, ye the band of wedlock is indis 
+          <lb ed="#S" n="29"/>soluble &amp; everlasting, ye is to say, such a  
+          <lb ed="#S" n="30"/>knot as never can be undone. For of  
+          <lb ed="#S" n="31"/>fire is made one flesh and one bodye,  
+          <lb ed="#S" n="32"/>which if you sever, you do utterly mar  
+          <lb ed="#S" n="33"/>it. What God hath joyned together  
+          <lb ed="#S" n="34"/>therefore, let not ma separat. They ther 
+          <lb ed="#S" n="35"/>fore do make a slauhhter of this bodye,  
+          <lb ed="#S" n="36"/>that do comit adulterie. For ye lawes  
+          <lb ed="#S" n="37"/>of God and men admit a divorcement  
+          <lb ed="#S" n="38"/>betwixt a man &amp; his adulterous wife.  
+          <lb ed="#S" n="39"/>And yet let not anye lesse or lighter  
+          <lb ed="#S" n="40"/>cause dissolve this knot betwixt man  
+          <lb ed="#S" n="41"/>and wife, than fornication is. Other 
+          <lb ed="#S" n="42"/>wise God which in the Gospell hath  
+          <lb ed="#S" n="43"/>permitted the lesse, doth not forbid the  
+          <lb ed="#S" n="44"/>greater to bee causes of divorcement.  
+          <lb ed="#S" n="45"/>And in the primitive church the Epi 
+          <lb ed="#S" n="46"/>stles &amp; costitutions of christian princes  
+          <!--227.xml-->
+          <pb ed="#L" n="227"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>do testifie, ye once comiting of fornicati 
+          <lb ed="#S" n="48"/>on was no cause of divorcement. Of  
+          <lb ed="#S" n="49"/>which I have spoken in another place.  
+          <lb ed="#S" n="50"/>But that this holy knot may be the  
+          <lb ed="#S" n="51"/>surer, it is availeable that marriages  
+          <lb ed="#S" n="52"/>be made holily, lawfully, and with dis 
+          <lb ed="#S" n="53"/>cretion in the feare of the Lorde. Let  
+          <lb ed="#S" n="54"/>them not be unwilling agreed unto  
+          <lb ed="#S" n="55"/>and made up by compulsio. First let ye  
+          <lb ed="#S" n="56"/>good liking of their consenting mindes  
+          <lb ed="#S" n="57"/>bee joyned in one, whom the open pro 
+          <lb ed="#S" n="58"/>session of natural consent &amp; outwarde  
+          <lb ed="#S" n="59"/>hand-fasting must afterwarde couple  
+          <lb ed="#S" n="60"/>together. Let the be matched together,  
+          <lb ed="#S" n="61"/>that are not severed by alliaunce of  
+          <lb ed="#S" n="62"/>bloud, and nighnesse of affinitie. Let  
+          <lb ed="#S" n="63"/>them be coupled in one, that may ma 
+          <lb ed="#S" n="64"/>rie together by the lawes of God and  
+          <lb ed="#S" n="65"/>their coutrie, with the consent &amp; coun 
+          <lb ed="#S" n="66"/>sel of their friends &amp; parents. Let them  
+          <lb ed="#S" n="67"/>which minde marriage have a sincere  
+          <lb ed="#S" n="68"/>heart purposely bent to seek their own  
+          <lb ed="#S" n="69"/>safegard &amp; continuall felicitie, that is,  
+          <lb ed="#S" n="70"/>to respect only the wil and pleasure of  
+          <lb ed="#S" n="71"/>God, and not admit anie evil affectios  
+          <lb ed="#S" n="72"/>as counsellers to make up ye marriage  
+          <lb ed="#S" n="73"/>betwixt them. Hierocles in his booke  
+          <lb ed="#S" n="74"/>De nuptys saith: It is meere follie and  
+          <lb ed="#S" n="75"/>lacke of wit which make those things  
+          <lb ed="#S" n="76"/>that of theselves are easie to be borne,  
+          <lb ed="#S" n="77"/>troublesome, and make a wife a gri 
+          <lb ed="#S" n="78"/>nous clog to her husband. For marri 
+          <lb ed="#S" n="79"/>age to many me hath bin intollerable:  
+          <lb ed="#S" n="80"/>not because the wedded state is by de 
+          <lb ed="#S" n="81"/>fault of it selfe or owne proper nature  
+          <lb ed="#S" n="82"/>so troublesome or comberous, but  
+          <lb ed="#S" n="83"/>for our matching as we shoulde not,  
+          <lb ed="#S" n="84"/>it falleth out as wee woulde not, and  
+          <lb ed="#S" n="85"/>causeth our marriages to bee grievous  
+          <lb ed="#S" n="86"/>and noysome. To this ende verily our  
+          <lb ed="#S" n="87"/>daily marriages doe commonly come.  
+          <lb ed="#S" n="88"/>For they marrie wives usually not  
+          <lb ed="#S" n="89"/>for the begetting of children or so 
+          <lb ed="#S" n="90"/>cietie of life: but some for a greate  
+          <lb ed="#S" n="91"/>dowrie, some for a beautifull bodye,  
+          <lb ed="#S" n="92"/>and some beeing seduced by suche  
+          <!--228.xml-->
+          <pb ed="#L" n="228"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>kinde of causes, as it were men abused  
+          <lb ed="#S" n="2"/>by unfaithfull counsellers, have no re 
+          <lb ed="#S" n="3"/>garde to the disposition and maners of  
+          <lb ed="#S" n="4"/>their spouse, but marrie at adventures  
+          <lb ed="#S" n="5"/>to their owne decay, and utter destru 
+          <lb ed="#S" n="6"/>ction. Hereunto belongeth Plutarchs  
+          <lb ed="#S" n="7"/>admonition to parents in his treatise  
+          <lb ed="#S" n="8"/>of bringing uppe of children, where  
+          <lb ed="#S" n="9"/>hee conselleth men to bestowe suche  
+          <lb ed="#S" n="10"/>wives on their sons as are not muche  
+          <lb ed="#S" n="11"/>wealthier nor mightier, than their  
+          <lb ed="#S" n="12"/>children. For a very pithy saying is  
+          <lb ed="#S" n="13"/>that usuall Proverbe: Marrie a wife  
+          <lb ed="#S" n="14"/>of thine owne degree. To be short, let  
+          <lb ed="#S" n="15"/>the feare of God, the word of God, and  
+          <lb ed="#S" n="16"/>earnest prayer powred out to God, bee  
+          <lb ed="#S" n="17"/>alwayes annexed to the beginning of  
+          <lb ed="#S" n="18"/>marriages.  
+          <lb ed="#S" n="19"/>But it is not convenient, that in  
+          <lb ed="#S" n="20"/>lawfull matrimonie, any more should  
+          <lb ed="#S" n="21"/>bee than two alone, to bee joyned toge 
+          <lb ed="#S" n="22"/>ther under one yoke of wedlocke. For  
+          <lb ed="#S" n="23"/>the use of many wives which our fa 
+          <lb ed="#S" n="24"/>thers usurped without anye blame,  
+          <lb ed="#S" n="25"/>may not establish Polygamie for a law  
+          <lb ed="#S" n="26"/>among us at these dayes. The time  
+          <lb ed="#S" n="27"/>of correction is now come to light, and  
+          <lb ed="#S" n="28"/>Messias nowe is corne into the worlde,  
+          <lb ed="#S" n="29"/>who teacheth all rightly, and refour 
+          <lb ed="#S" n="30"/>meth things amisse. hee therefore hath  
+          <lb ed="#S" n="31"/>reduced wedlocke to the first prescri 
+          <lb ed="#S" n="32"/>bed rule and law of matrimonie. Two   
+          <lb ed="#S" n="33"/>(saith the Lord) shal be one flesh. And  
+          <lb ed="#S" n="34"/>the Apostle saith, Let every man have  
+          <lb ed="#S" n="35"/>his owne wife, and every woman her  
+          <lb ed="#S" n="36"/>owne husbande. The multitude of  
+          <lb ed="#S" n="37"/>Salomons concubines thereofre apper 
+          <lb ed="#S" n="38"/>tayne not to us. Wee have not to fol 
+          <lb ed="#S" n="39"/>low the example of Jacob, who mar 
+          <lb ed="#S" n="40"/>ried two sisters. And yet notwithstan 
+          <lb ed="#S" n="41"/>ding the worde of trueth condemmeth  
+          <lb ed="#S" n="42"/>not the second, third, or mary marria 
+          <lb ed="#S" n="43"/>ges, which a man maketh when his  
+          <lb ed="#S" n="44"/>wife is deceased. For that saying of the  
+          <lb ed="#S" n="45"/>Apostle is general to al men, and indu 
+          <lb ed="#S" n="46"/>reth in all ages: Let them marry that  
+          <!--228.xml-->
+          <pb ed="#L" n="228"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>cannot abstaine, for it is better to mar 
+          <lb ed="#S" n="48"/>rie than to burne. Which sentence is  
+          <lb ed="#S" n="49"/>faken out of these words in the gospel:   
+          <lb ed="#S" n="50"/>All men can not receive this saying,  
+          <lb ed="#S" n="51"/>save they to whom it is give. For there  
+          <lb ed="#S" n="52"/>are some chaste which were so borne  
+          <lb ed="#S" n="53"/>out of their monthes womb: and there  
+          <lb ed="#S" n="54"/>are some chaste which were made  
+          <lb ed="#S" n="55"/>chaste of men: &amp; there are some chast  
+          <lb ed="#S" n="56"/>which have made themselves chaste  
+          <lb ed="#S" n="57"/>for the kingdome of heavens sake. He  
+          <lb ed="#S" n="58"/>that is able to receive it, let him re 
+          <lb ed="#S" n="59"/>ceive it. Let him therefore that cannot  
+          <lb ed="#S" n="60"/>receive it, marry a wife, so often as ne 
+          <lb ed="#S" n="61"/>cessitie compelleth hint thereunto.  
+          <lb ed="#S" n="62"/>But now especially it standeth us  
+          <lb ed="#S" n="63"/>in hand to know howe married folkes  
+          <lb ed="#S" n="64"/>must behave themselves, what they  
+          <lb ed="#S" n="65"/>must doe in wedlock, to what end they  
+          <lb ed="#S" n="66"/>must direct their deedes and thoughts,  
+          <lb ed="#S" n="67"/>and how they ought to bee affected to 
+          <lb ed="#S" n="68"/>ward that holy ordinaunce of God al 
+          <lb ed="#S" n="69"/>mightie. Touching which thing I wil  
+          <lb ed="#S" n="70"/>not speake much, but briefly note out  
+          <lb ed="#S" n="71"/>the most necessarie pointes, to give all  
+          <lb ed="#S" n="72"/>men occasion to think with theselves,  
+          <lb ed="#S" n="73"/>and call to minde both more and grea 
+          <lb ed="#S" n="74"/>ter matters which I leave untouched.  
+          <lb ed="#S" n="75"/>First of all let married folkes bee  
+          <lb ed="#S" n="76"/>throughly perswaded and assuredly  
+          <lb ed="#S" n="77"/>certayne, while they live in matri 
+          <lb ed="#S" n="78"/>monie, that they are in the woorke of  
+          <lb ed="#S" n="79"/>God, that they please God, and do an  
+          <lb ed="#S" n="80"/>acceptable thing in the fight of ye Lord,  
+          <lb ed="#S" n="81"/>because of Gods word wherein he bles 
+          <lb ed="#S" n="82"/>sed that kinde of life, and sanctified all  
+          <lb ed="#S" n="83"/>wedded people, which by faith do live  
+          <lb ed="#S" n="84"/>in that woorke and ordinaunce of the  
+          <lb ed="#S" n="85"/>living God. Therefore when married  
+          <lb ed="#S" n="86"/>couples doe patiently suffer the trou 
+          <lb ed="#S" n="87"/>bles, that followe the married life,  
+          <lb ed="#S" n="88"/>while they labour faithfully, while  
+          <lb ed="#S" n="89"/>they doe those thinges decently which  
+          <lb ed="#S" n="90"/>belong to the charge and office of  
+          <lb ed="#S" n="91"/>marryed people, as while the wife  
+          <lb ed="#S" n="92"/>doth love her husband, while shee doth  
+          <!--229.xml-->
+          <pb ed="#L" n="229"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>duetifully obey him, while shee doeth  
+          <lb ed="#S" n="2"/>bring foorth her children with griefe &amp;  
+          <lb ed="#S" n="3"/>paine, &amp; when they are brought foorth,  
+          <lb ed="#S" n="4"/>doeth diligently nourish them, and la 
+          <lb ed="#S" n="5"/>bour to bring them up: while the hus 
+          <lb ed="#S" n="6"/>band doth love his wife, while he doth  
+          <lb ed="#S" n="7"/>mutually helpe her, and faithfully in  
+          <lb ed="#S" n="8"/>all things shew himselfe a careful fa 
+          <lb ed="#S" n="9"/>ther for his family and housholde: in  
+          <lb ed="#S" n="10"/>doing these things, they please God no  
+          <lb ed="#S" n="11"/>lesse, than they doe when they goe to  
+          <lb ed="#S" n="12"/>Church to heare the word of God, and  
+          <lb ed="#S" n="13"/>to worshippe the Lorde. For these  
+          <lb ed="#S" n="14"/>workes of wedlocke are reputed for  
+          <lb ed="#S" n="15"/>good works, as wel as giving of almes,  
+          <lb ed="#S" n="16"/>justice, and making of peace. Marri 
+          <lb ed="#S" n="17"/>ed folkes therfore have neede especial 
+          <lb ed="#S" n="18"/>ly of trueu faith in God the Authour of  
+          <lb ed="#S" n="19"/>wedlocke. For by wedlocke in faith  
+          <lb ed="#S" n="20"/>they shall please the Lorde. This our  
+          <lb ed="#S" n="21"/>Monkes could not abide to heare of, al 
+          <lb ed="#S" n="22"/>though the word of God doth urge it u 
+          <lb ed="#S" n="23"/>pon them, they ceased not to magnifie  
+          <lb ed="#S" n="24"/>their counterfeite holinesse and hypo 
+          <lb ed="#S" n="25"/>criticall vowes.  
+          <lb ed="#S" n="26"/>Secondarily it is required at ye hands  
+          <lb ed="#S" n="27"/>of wedded couples to bee mindfull of  
+          <lb ed="#S" n="28"/>the faith, which they give and take,  
+          <lb ed="#S" n="29"/>that they do not falsely deceive one an 
+          <lb ed="#S" n="30"/>other, but holily keepe the promise that  
+          <lb ed="#S" n="31"/>they make, and troth that they plight,  
+          <lb ed="#S" n="32"/>and to keepe it sincerely both in bodie  
+          <lb ed="#S" n="33"/>and mind. Let neyther of them lust af 
+          <lb ed="#S" n="34"/>ter the bodie of a straunger, nor con 
+          <lb ed="#S" n="35"/>ceieve an hatred or lothsomnes of their  
+          <lb ed="#S" n="36"/>wedded spouse. And thy body, thou that  
+          <lb ed="#S" n="37"/>art a married man, is not they bodie,  
+          <lb ed="#S" n="38"/>but thy wives: as also thy wives body  
+          <lb ed="#S" n="39"/>is not thy wives, but thine.  
+          <lb ed="#S" n="40"/>Thou stealest and doest commit a  
+          <lb ed="#S" n="41"/>robberie, if thou take awaie another  
+          <lb ed="#S" n="42"/>bodies goods, and when thou hast con 
+          <lb ed="#S" n="43"/>veyed it from the proper owner, doest  
+          <lb ed="#S" n="44"/>give it to another. Let the minde of  
+          <lb ed="#S" n="45"/>wedded mates be unspotted, and the  
+          <lb ed="#S" n="46"/>bodie untouched. Everie one when he  
+          <!--229.xml-->
+          <pb ed="#L" n="229"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>first commeth to solomnize wedlocke  
+          <lb ed="#S" n="48"/>by ye holy Ceremonie ordeined for that  
+          <lb ed="#S" n="49"/>purpose, doth promise with an oath in  
+          <lb ed="#S" n="50"/>the name of the Lorde before God and  
+          <lb ed="#S" n="51"/>the Church, that hee will use the com 
+          <lb ed="#S" n="52"/>panie of no woman but her, that hee  
+          <lb ed="#S" n="53"/>will cleave too, love and cherish her a 
+          <lb ed="#S" n="54"/>lone without anie other. This faith  
+          <lb ed="#S" n="55"/>once given, whosoever doth violate,  
+          <lb ed="#S" n="56"/>he is falsely forsworne, and is a brea 
+          <lb ed="#S" n="57"/>ker of a godly promise, and Gods holy  
+          <lb ed="#S" n="58"/>truth.  
+          <lb ed="#S" n="59"/>Neyther is it sufficient for thee to  
+          <lb ed="#S" n="60"/>be faithfull, unlesse thou be courteous  
+          <lb ed="#S" n="61"/>or tradable towarde thy wife, and  
+          <lb ed="#S" n="62"/>dwel with her according to knowledg,  
+          <lb ed="#S" n="63"/>as S. Peter saith. Let the husbande  
+          <lb ed="#S" n="64"/>be the heade of the wife, to wit, her  
+          <lb ed="#S" n="65"/>adviser and counseller, her ruler and  
+          <lb ed="#S" n="66"/>guide, her sweete yoke fellowe and ad 
+          <lb ed="#S" n="67"/>monisher in al her affaires, her assured  
+          <lb ed="#S" n="68"/>ayde and faithfull defender. Let the  
+          <lb ed="#S" n="69"/>wife be obedient unto her husband, eve  
+          <lb ed="#S" n="70"/>as we see the members obey the head,  
+          <lb ed="#S" n="71"/>let her yield her selfe to her husband to  
+          <lb ed="#S" n="72"/>be ruled and governed, let her not de 
+          <lb ed="#S" n="73"/>spise his honest counselles, and indiffe 
+          <lb ed="#S" n="74"/>rent commaundementes: let them  
+          <lb ed="#S" n="75"/>thinke that they twaine are one body,  
+          <lb ed="#S" n="76"/>or the members of one bodie. And  
+          <lb ed="#S" n="77"/>therefore let the learne by the govern 
+          <lb ed="#S" n="78"/>ment of this mortall bodie howe to be 
+          <lb ed="#S" n="79"/>have themselves in the guiding of  
+          <lb ed="#S" n="80"/>wedlocke.  
+          <lb ed="#S" n="81"/>The worthier members doe not de 
+          <lb ed="#S" n="82"/>spite the more unworthie limmes, but  
+          <lb ed="#S" n="83"/>doe rather honour them, lighten their  
+          <lb ed="#S" n="84"/>labour, and ayde and helpe them. A 
+          <lb ed="#S" n="85"/>gaine the more unworthy limmes are  
+          <lb ed="#S" n="86"/>in love with the worthier, not envying  
+          <lb ed="#S" n="87"/>their preeminence any whit at all.  
+          <lb ed="#S" n="88"/>One member breaketh not, or hur 
+          <lb ed="#S" n="89"/>teth another, but all doe mutuallye  
+          <lb ed="#S" n="90"/>cheerish themselves and defend one an 
+          <lb ed="#S" n="91"/>other from harme and injurie. Such  
+          <lb ed="#S" n="92"/>a mutuall knitting together, and was  
+          <!--230.xml-->
+          <pb ed="#L" n="230"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>king, and lone, and charitie, and good 
+          <lb ed="#S" n="2"/>will, and fellowshippe let there be be 
+          <lb ed="#S" n="3"/>twixt man and wife. For to that end  
+          <lb ed="#S" n="4"/>the woman was take out of the mans  
+          <lb ed="#S" n="5"/>bodie, that the husband should cherish  
+          <lb ed="#S" n="6"/>(his wife) his owne bodie. And for that  
+          <lb ed="#S" n="7"/>cause the Apostle saith: So must hus 
+          <lb ed="#S" n="8"/>bandes love their wives, even as their  
+          <lb ed="#S" n="9"/>owne bodies. He that loveth his wife  
+          <lb ed="#S" n="10"/>doeth love himselfe. For no man at  
+          <lb ed="#S" n="11"/>anie time hath hated his owne flesh,  
+          <lb ed="#S" n="12"/>but loveth and cherisheth it, as the  
+          <lb ed="#S" n="13"/>Lorde doth the Church. What may  
+          <lb ed="#S" n="14"/>be said to that moreover, that the Apo 
+          <lb ed="#S" n="15"/>stle in the very same place hath made  
+          <lb ed="#S" n="16"/>the sonne of God and the holy Church  
+          <lb ed="#S" n="17"/>an example for married folkes to fol 
+          <lb ed="#S" n="18"/>lowe in keeping of wedlocke requiring  
+          <lb ed="#S" n="19"/>at the husbands hand to love his wife,  
+          <lb ed="#S" n="20"/>even as Christ hath loved the Church:  
+          <lb ed="#S" n="21"/>and of the wife to reverence her hus 
+          <lb ed="#S" n="22"/>bande and to love him againe, as the  
+          <lb ed="#S" n="23"/>Church doth Christ? Than which ex 
+          <lb ed="#S" n="24"/>ample, there is none in the world more  
+          <lb ed="#S" n="25"/>holy and effectual. For there is no love  
+          <lb ed="#S" n="26"/>greater, tha the love of Christ toward  
+          <lb ed="#S" n="27"/>his Church. Neither is there any love  
+          <lb ed="#S" n="28"/>more chast, tha that which the Church  
+          <lb ed="#S" n="29"/>doth beare to Christ.  
+          <lb ed="#S" n="30"/>It is therfore required at the hands  
+          <lb ed="#S" n="31"/>of wedded ates, mutually to beare  
+          <lb ed="#S" n="32"/>most ardent and holie love the one to  
+          <lb ed="#S" n="33"/>the other. Let them use all things in  
+          <lb ed="#S" n="34"/>common: let them be partakers both  
+          <lb ed="#S" n="35"/>of the same propertie, and the same  
+          <lb ed="#S" n="36"/>adversitie. Let them both drawe un 
+          <lb ed="#S" n="37"/>der one yoke, and beare betwixt them  
+          <lb ed="#S" n="38"/>one an others burden. Briefely, let  
+          <lb ed="#S" n="39"/>them twaine bee the members of one  
+          <lb ed="#S" n="40"/>and the very same bodie. I have more  
+          <lb ed="#S" n="41"/>at large set downe these offices of man  
+          <lb ed="#S" n="42"/>and wife, in my treatise which is cal 
+          <lb ed="#S" n="43"/>ed the Institution of Christian Ma 
+          <lb ed="#S" n="44"/>trimonie.  
+          <lb ed="#S" n="45"/>Lastly, let them bring up their chil 
+          <lb ed="#S" n="46"/>dren in holy discipline, and the feare of  
+          <!--230.xml-->
+          <pb ed="#L" n="230"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>God, to the health of their owne house  
+          <lb ed="#S" n="48"/>and the whole common weale. Paule  
+          <lb ed="#S" n="49"/>saieth: I would have the younger wo 
+          <lb ed="#S" n="50"/>men marrie, to get children &amp; to go 
+          <lb ed="#S" n="51"/>verne the house, for that is honest and  
+          <lb ed="#S" n="52"/>acceptable before God. But touch 
+          <lb ed="#S" n="53"/>ing the bringing up of children, I have  
+          <lb ed="#S" n="54"/>alreadie spoken in the fift Sermon of  
+          <lb ed="#S" n="55"/>this Decade. Now the very begetting  
+          <lb ed="#S" n="56"/>of children alone is verie profitable  
+          <lb ed="#S" n="57"/>both to everie private or particular  
+          <lb ed="#S" n="58"/>house, and also to the common weale:  
+          <lb ed="#S" n="59"/>for heere I will not stand to shew that  
+          <lb ed="#S" n="60"/>the honour and glorie of God, is verie  
+          <lb ed="#S" n="61"/>greatly augmented, if children be not  
+          <lb ed="#S" n="62"/>onely begotten, but also brought up in  
+          <lb ed="#S" n="63"/>the feare of god, and knowledge of his  
+          <lb ed="#S" n="64"/>worde. Hierocles saith: I confesse that  
+          <lb ed="#S" n="65"/>marriage is profitable: especially be 
+          <lb ed="#S" n="66"/>cause it bringeth children forth, which  
+          <lb ed="#S" n="67"/>is in deede a goodly fruit, for they, be 
+          <lb ed="#S" n="68"/>ing of our verie bloud, doe while wee  
+          <lb ed="#S" n="69"/>are in health aide us in all our affaires:  
+          <lb ed="#S" n="70"/>and in old age when yeares come upo  
+          <lb ed="#S" n="71"/>us, they succour us well with all that  
+          <lb ed="#S" n="72"/>they may: they are familier compa 
+          <lb ed="#S" n="73"/>nions of our joy in prosperitie, and in  
+          <lb ed="#S" n="74"/>adversitie are our partners, in sorrow 
+          <lb ed="#S" n="75"/>ing with us, for our heavie mishappes.  
+          <lb ed="#S" n="76"/>And so foorth. Antipater also sayeth:  
+          <lb ed="#S" n="77"/>Man which is indued with a civill dis 
+          <lb ed="#S" n="78"/>position to maintaine societie, must  
+          <lb ed="#S" n="79"/>augment his country and common  
+          <lb ed="#S" n="80"/>wealth with increase of children: for  
+          <lb ed="#S" n="81"/>cities could not have beene preserved  
+          <lb ed="#S" n="82"/>by any meanes at all, unlesse the head  
+          <lb ed="#S" n="83"/>men of everie citie, and the sonnes of  
+          <lb ed="#S" n="84"/>noble Gentlemen, seeing their aunce 
+          <lb ed="#S" n="85"/>tours wither and fall away like goodly  
+          <lb ed="#S" n="86"/>leaves of a faire tree, had married in  
+          <lb ed="#S" n="87"/>time convenient, and lefte behinde  
+          <lb ed="#S" n="88"/>them children as worthie pleantes to  
+          <lb ed="#S" n="89"/>succeede in their Countrie, thereby  
+          <lb ed="#S" n="90"/>to make it flourish for ever, dooing  
+          <lb ed="#S" n="91"/>their best so farre as they coulde, to  
+          <lb ed="#S" n="92"/>keepe it from the assaultes and con 
+          <!--231.xml-->
+          <pb ed="#L" n="231"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>questes of enemies and straungers.  
+          <lb ed="#S" n="2"/>They therefore shooting at nothing  
+          <lb ed="#S" n="3"/>more, than to defend and assist their  
+          <lb ed="#S" n="4"/>countrie, both in their life time, and  
+          <lb ed="#S" n="5"/>when they were dead, did thinke it  
+          <lb ed="#S" n="6"/>most necessarie and especially conve 
+          <lb ed="#S" n="7"/>nient to marrie and bee married, desi 
+          <lb ed="#S" n="8"/>ring thereby both to doe all thinges  
+          <lb ed="#S" n="9"/>that nature requireth, and also those  
+          <lb ed="#S" n="10"/>that touch the health and increase of  
+          <lb ed="#S" n="11"/>their countrey, &amp; most of all the wors 
+          <lb ed="#S" n="12"/>ship of God, &amp;c.  
+          <lb ed="#S" n="13"/>Since therefore that lawful matri 
+          <lb ed="#S" n="14"/>monie is of so great effect and so avay 
+          <lb ed="#S" n="15"/>lable to live wel and happily, the faith 
+          <lb ed="#S" n="16"/>ful do not without cause beginne their  
+          <lb ed="#S" n="17"/>marriages with religio and religious  
+          <lb ed="#S" n="18"/>rites. The Lord verily did presently  
+          <lb ed="#S" n="19"/>in the beginning blesse the first marri 
+          <lb ed="#S" n="20"/>ages of our Parentes Adam and Eve,  
+          <lb ed="#S" n="21"/>and did himselfe couple them in wed 
+          <lb ed="#S" n="22"/>locke. Whereuppon the Churche of  
+          <lb ed="#S" n="23"/>God hath received a custome, that they  
+          <lb ed="#S" n="24"/>which joyne in marriage, before they  
+          <lb ed="#S" n="25"/>dwell together, go into the Temple of  
+          <lb ed="#S" n="26"/>the Lorde, where after praier made in  
+          <lb ed="#S" n="27"/>the middest of the Congregation, they  
+          <lb ed="#S" n="28"/>are joyned together, and blessed by the  
+          <lb ed="#S" n="29"/>Minister of God in the name of GOD  
+          <lb ed="#S" n="30"/>himselfe.  
+          <lb ed="#S" n="31"/>Wherfore in wedlock the first and  
+          <lb ed="#S" n="32"/>chiefest thinges that be required, are  
+          <lb ed="#S" n="33"/>the earnest and continuall prayers  
+          <lb ed="#S" n="34"/>of the married folkes to GOD, that  
+          <lb ed="#S" n="35"/>hee will vouchsafe to make the hus 
+          <lb ed="#S" n="36"/>bands wife, religious, modest, gentle,  
+          <lb ed="#S" n="37"/>honest, painefull, sufferers and lovers  
+          <lb ed="#S" n="38"/>of their wives: and that it will please  
+          <lb ed="#S" n="39"/>him to make ye wives, obedient, meeke,  
+          <lb ed="#S" n="40"/>chaste, faithfull, lovers of their hus 
+          <lb ed="#S" n="41"/>bands and children, huswives and  
+          <lb ed="#S" n="42"/>fruitfull.  
+          <lb ed="#S" n="43"/>For no one man is able to declare  
+          <lb ed="#S" n="44"/>al the evils that come even of one cor 
+          <lb ed="#S" n="45"/>rupt and naughty marriages. Through  
+          <lb ed="#S" n="46"/>it whole houses are wonderfully dis 
+          <!--231.xml-->
+          <pb ed="#L" n="231"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>quieted, all wealth and honesty do ut 
+          <lb ed="#S" n="48"/>terly decay, the children are bastards.  
+          <lb ed="#S" n="49"/>God is offeded and provoked to anger.  
+          <lb ed="#S" n="50"/>&amp; an endlesse mischiefe brought to the  
+          <lb ed="#S" n="51"/>whole common weale. God therefore  
+          <lb ed="#S" n="52"/>must bee earnestly beseeched to blesse al  
+          <lb ed="#S" n="53"/>married people, that both the glory of  
+          <lb ed="#S" n="54"/>his holy name, &amp; the common weales  
+          <lb ed="#S" n="55"/>prosperity, may thereby daily increase  
+          <lb ed="#S" n="56"/>more and more.  
+          <lb ed="#S" n="57"/>I am nowe come to speake of adul 
+          <lb ed="#S" n="58"/>tery, which is a sinne whereby the hus 
+          <lb ed="#S" n="59"/>band goeth to an other woman, or the  
+          <lb ed="#S" n="60"/>wife turneth aside after another man,  
+          <lb ed="#S" n="61"/>to whom they make common the use  
+          <lb ed="#S" n="62"/>of their bodies, which are not their  
+          <lb ed="#S" n="63"/>own bodies now, but their mates in  
+          <lb ed="#S" n="64"/>wedlocke.  
+          <lb ed="#S" n="65"/>Some there are that flatter them 
+          <lb ed="#S" n="66"/>selves, and are of opinion that they are  
+          <lb ed="#S" n="67"/>not culpable of adultery, if they have  
+          <lb ed="#S" n="68"/>the company of any unbetrothed mai 
+          <lb ed="#S" n="69"/>den, or one that is unmarried: or if a  
+          <lb ed="#S" n="70"/>woman play the harlot with an un 
+          <lb ed="#S" n="71"/>wedded man. They will have it (in  
+          <lb ed="#S" n="72"/>Gods name) to be fornication and not  
+          <lb ed="#S" n="73"/>adultery. But the Scripture teacheth  
+          <lb ed="#S" n="74"/>the contrary. Thou goest to an other  
+          <lb ed="#S" n="75"/>woman, thou art an adulterer: Tho  
+          <lb ed="#S" n="76"/>breakest they faith, thou art forsworne:  
+          <lb ed="#S" n="77"/>Thy body is not thine but thy wives,  
+          <lb ed="#S" n="78"/>when therefore thou bestowest thy bo 
+          <lb ed="#S" n="79"/>die on an other, thou committeth ad 
+          <lb ed="#S" n="80"/>ultery. If thou beeing wedded doest  
+          <lb ed="#S" n="81"/>lye with a married wife, thou dou 
+          <lb ed="#S" n="82"/>blest the sinne of thine adultery. This  
+          <lb ed="#S" n="83"/>offence was plagued with most sharpe  
+          <lb ed="#S" n="84"/>punishment even in the beginning al 
+          <lb ed="#S" n="85"/>most, and as soone as the worlde was  
+          <lb ed="#S" n="86"/>created.  
+          <lb ed="#S" n="87"/>Pharao the king of Aegypt commaun 
+          <lb ed="#S" n="88"/>ded Sara Abrahams wife to bee taken  
+          <lb ed="#S" n="89"/>away and carried to his Pallace, that  
+          <lb ed="#S" n="90"/>he might use her as his wife, thinking  
+          <lb ed="#S" n="91"/>verily that shee had beene Abrahams  
+          <lb ed="#S" n="92"/>sister.  
+          <!--232.xml-->
+          <pb ed="#L" n="232"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>But the scripture saieth: The Lorde  
+          <lb ed="#S" n="2"/>vexed Pharao and all his house with  
+          <lb ed="#S" n="3"/>great plagues, because of Sara Abra 
+          <lb ed="#S" n="4"/>hams wife. Lo here the king of Aegypt  
+          <lb ed="#S" n="5"/>is punished with gevous plagues for  
+          <lb ed="#S" n="6"/>his adultery: and yet he knew not that  
+          <lb ed="#S" n="7"/>Sara was Abrahams wife: how great  
+          <lb ed="#S" n="8"/>plagues therfore are prepared for the  
+          <lb ed="#S" n="9"/>men that wittingly &amp; willingly with 
+          <lb ed="#S" n="10"/>out all shame commit adulterie? To  
+          <lb ed="#S" n="11"/>Abimelech king of the Philistines the  
+          <lb ed="#S" n="12"/>Lord doth say: Loe thou shalt die be 
+          <lb ed="#S" n="13"/>cause of the woman, which thou hast  
+          <lb ed="#S" n="14"/>taken away from her husbande. And  
+          <lb ed="#S" n="15"/>yet this king also had taken away Sa 
+          <lb ed="#S" n="16"/>ra, not knowing that shee was Abra 
+          <lb ed="#S" n="17"/>hams wife. Joseph beeing provoked to  
+          <lb ed="#S" n="18"/>adulterie by his maisters wife, doeth  
+          <lb ed="#S" n="19"/>simply saye: Howe shoulde I doe this  
+          <lb ed="#S" n="20"/>great wickednesse, and sinne against  
+          <lb ed="#S" n="21"/>God? Everie worde doth beare some  
+          <lb ed="#S" n="22"/>weight. For adulterie is an heynous  
+          <lb ed="#S" n="23"/>sinne. Whereuppon in the Booke of  
+          <lb ed="#S" n="24"/>Job wee finde these wordes of Job him  
+          <lb ed="#S" n="25"/>selfe. If mine heart have bin decei 
+          <lb ed="#S" n="26"/>ved by a woman, or if I have layde  
+          <lb ed="#S" n="27"/>waite at my neighbors doore, then  
+          <lb ed="#S" n="28"/>let my wife bee an other mansharlot,  
+          <lb ed="#S" n="29"/>and let other men have to do with her.  
+          <lb ed="#S" n="30"/>For this is a wickednesse and sinne  
+          <lb ed="#S" n="31"/>that is worthie to be judged to death.  
+          <lb ed="#S" n="32"/>Yea, it is a fire that utterly should con 
+          <lb ed="#S" n="33"/>sumer and roote out all mind increase.  
+          <lb ed="#S" n="34"/>Job saith, that hee hath not onelie not  
+          <lb ed="#S" n="35"/>committed adultery, but that hee hath  
+          <lb ed="#S" n="36"/>not so much at any time as once given  
+          <lb ed="#S" n="37"/>the attempte to defile an other mans  
+          <lb ed="#S" n="38"/>wife. He confesseth that adultery is a  
+          <lb ed="#S" n="39"/>sin, &amp; so grievous an offence, taht it do 
+          <lb ed="#S" n="40"/>eth deserve to have ye adulterers wife  
+          <lb ed="#S" n="41"/>to be defiled with adultery. He addeth,  
+          <lb ed="#S" n="42"/>that adultery is a fire that utterly co 
+          <lb ed="#S" n="43"/>sumeth and dovoureth al thinges, and  
+          <lb ed="#S" n="44"/>lastly that it is a sinne to be judged &amp;  
+          <lb ed="#S" n="45"/>punished by death.  
+          <lb ed="#S" n="46"/>Moreover Salomon the wisest of al  
+          <!--232.xml-->
+          <pb ed="#L" n="232"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>men saith: May a man take fire in his  
+          <lb ed="#S" n="48"/>bosome &amp; his clothes not bee brent?  
+          <lb ed="#S" n="49"/>Or can one goe uppon hot coales, and  
+          <lb ed="#S" n="50"/>his feete not bee burnt: Even so hee  
+          <lb ed="#S" n="51"/>that goeth into his neighbours wife,  
+          <lb ed="#S" n="52"/>and toucheth her, cannot be unguil 
+          <lb ed="#S" n="53"/>tie. Men doe not utterly despise a  
+          <lb ed="#S" n="54"/>theese, that stealeth to satisfie his  
+          <lb ed="#S" n="55"/>soule when he is hungrie: But if he  
+          <lb ed="#S" n="56"/>may be gotten, he restoreth agayne  
+          <lb ed="#S" n="57"/>seven times as much, or else hee ma 
+          <lb ed="#S" n="58"/>keth recompence with all the sub 
+          <lb ed="#S" n="59"/>staunce of his house. But who so com 
+          <lb ed="#S" n="60"/>mitteth adulterie with a woman, hee  
+          <lb ed="#S" n="61"/>lacketh understanding: and hee that  
+          <lb ed="#S" n="62"/>doth it destroieth his owne soule. He  
+          <lb ed="#S" n="63"/>getteth himselfe a plague and disho 
+          <lb ed="#S" n="64"/>nour, and his reproch shall never bee  
+          <lb ed="#S" n="65"/>put out. For the jealousie and wrath  
+          <lb ed="#S" n="66"/>of the man will not be intreated ney 
+          <lb ed="#S" n="67"/>ther accepteth hee the person  of anye  
+          <lb ed="#S" n="68"/>Mediatour, nor recieveth anie giftes,  
+          <lb ed="#S" n="69"/>howe great forever they bee. In these  
+          <lb ed="#S" n="70"/>words of Salomon many things are to  
+          <lb ed="#S" n="71"/>be noted. First as it cannot otherwise  
+          <lb ed="#S" n="72"/>be, but that fire must burn the garmet  
+          <lb ed="#S" n="73"/>wherein it is carried: so no man can  
+          <lb ed="#S" n="74"/>commit adulterie without damage &amp;  
+          <lb ed="#S" n="75"/>daunger of further punishment. Se 
+          <lb ed="#S" n="76"/>condarily comparison is made betwixt  
+          <lb ed="#S" n="77"/>a theef &amp; an adulterer: not that theft is  
+          <lb ed="#S" n="78"/>therby defended, but because theeves,  
+          <lb ed="#S" n="79"/>although they bee infamous, doe seeme  
+          <lb ed="#S" n="80"/>yet to sinne a great deale lesse than a 
+          <lb ed="#S" n="81"/>dulterers do. For a theefe may make  
+          <lb ed="#S" n="82"/>satisfaction by restoring ye worth of the  
+          <lb ed="#S" n="83"/>thing that he stole, to him, from whom  
+          <lb ed="#S" n="84"/>hee stole it away: but for adulterie no  
+          <lb ed="#S" n="85"/>amends can be made. And what is hee  
+          <lb ed="#S" n="86"/>that woulde not rather wishe to have  
+          <lb ed="#S" n="87"/>Theeves ransacke his Chest, and take  
+          <lb ed="#S" n="88"/>awaye his substaunce, than to have  
+          <lb ed="#S" n="89"/>his wife his dealing, defiled with ad 
+          <lb ed="#S" n="90"/>ulterie?  
+          <lb ed="#S" n="91"/>Moreover Salomo calleth the adul 
+          <lb ed="#S" n="92"/>terer madde and without understan 
+          <!--233.xml-->
+          <pb ed="#L" n="233"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>ding. Adulterie is judged to be a sinne  
+          <lb ed="#S" n="2"/>worthy of death and endlesse infamie.  
+          <lb ed="#S" n="3"/>For the Lord in the lawe doth not say  
+          <lb ed="#S" n="4"/>onely, Thou shalt not commit adulte 
+          <lb ed="#S" n="5"/>rie, But in another place also goeth  
+          <lb ed="#S" n="6"/>on, and addeth: And he that commit 
+          <lb ed="#S" n="7"/>teth adulterie with another mannes  
+          <lb ed="#S" n="8"/>wife, even he that committeth adul 
+          <lb ed="#S" n="9"/>tery with his neighbours wife, let both  
+          <lb ed="#S" n="10"/>the adulterer and the adulteresse bee  
+          <lb ed="#S" n="11"/>slaine. Levit. 20. And this punish 
+          <lb ed="#S" n="12"/>ment of adultery by death was not ab 
+          <lb ed="#S" n="13"/>rogated or chaunged by the very Gen 
+          <lb ed="#S" n="14"/>tiles. For the Romane law called Lex  
+          <lb ed="#S" n="15"/>Julia is very wel knowen, how it com 
+          <lb ed="#S" n="16"/>manded adulterers to be put to death.  
+          <lb ed="#S" n="17"/>Which law was of force in the time of  
+          <lb ed="#S" n="18"/>S. Hierome, as we may gather by the  
+          <lb ed="#S" n="19"/>hystory which he wrate of an adulte 
+          <lb ed="#S" n="20"/>resse, at the chopping off of whole head  
+          <lb ed="#S" n="21"/>seven strokes were give. Neither is it  
+          <lb ed="#S" n="22"/>marvaile undoubtedly, that adultery  
+          <lb ed="#S" n="23"/>was among them of old, and is yet at  
+          <lb ed="#S" n="24"/>this day according to the lawes, to bee  
+          <lb ed="#S" n="25"/>punished by death. For upon that one  
+          <lb ed="#S" n="26"/>many sinnes do depend.  
+          <lb ed="#S" n="27"/>First of all the adulterer is a perju 
+          <lb ed="#S" n="28"/>red man. For he hath broken and vio 
+          <lb ed="#S" n="29"/>lated the faith which he gave opely be 
+          <lb ed="#S" n="30"/>fore God and the face of the Cogrega 
+          <lb ed="#S" n="31"/>tion by calling to witnesse the most  
+          <lb ed="#S" n="32"/>holy and reverend Trinity, when the  
+          <lb ed="#S" n="33"/>minister of Christ did solemnize the  
+          <lb ed="#S" n="34"/>marriage and couple him to his wife,  
+          <lb ed="#S" n="35"/>by giving hand in hande. Secondari 
+          <lb ed="#S" n="36"/>ly the adulterer hath committed theft  
+          <lb ed="#S" n="37"/>and robberie. For whe the adulteresse  
+          <lb ed="#S" n="38"/>doth make her body common to an o 
+          <lb ed="#S" n="39"/>ther man, then doth she set to sale, de 
+          <lb ed="#S" n="40"/>file and marre, not her owne, but her  
+          <lb ed="#S" n="41"/>husbandes bodye. Thirdly bastardes  
+          <lb ed="#S" n="42"/>borne in adulterie do often times en 
+          <lb ed="#S" n="43"/>joy an equall parte of inheritaunce  
+          <lb ed="#S" n="44"/>with the right begotte childre. Which  
+          <lb ed="#S" n="45"/>cannot be without great wrong done  
+          <lb ed="#S" n="46"/>to the lawfull heyres and legitimate  
+          <!--233.xml-->
+          <pb ed="#L" n="233"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>ofspring. For they are against al right  
+          <lb ed="#S" n="48"/>robbed of their due inheritance, wher 
+          <lb ed="#S" n="49"/>of an equall position is given to him, to  
+          <lb ed="#S" n="50"/>whom by lawe no parcell is due. Last 
+          <lb ed="#S" n="51"/>ly beside all these, innumerable mis 
+          <lb ed="#S" n="52"/>chiefers doe spring of adulterie. Since  
+          <lb ed="#S" n="53"/>therefore that it is a Serpent with so  
+          <lb ed="#S" n="54"/>many heads, both the lawes of God &amp;  
+          <lb ed="#S" n="55"/>me doe rightly punish adulterers with  
+          <lb ed="#S" n="56"/>losse of life.  
+          <lb ed="#S" n="57"/>But some jolly fellowes there are  
+          <lb ed="#S" n="58"/>forsooth, that of adultery do make but  
+          <lb ed="#S" n="59"/>a sport. They are perswaded that Da 
+          <lb ed="#S" n="60"/>vids adultery doth make on their side,  
+          <lb ed="#S" n="61"/>and that place of scripture, where wee  
+          <lb ed="#S" n="62"/>read, that the Lord was savourable to  
+          <lb ed="#S" n="63"/>the adulteresse, that was taken eve as  
+          <lb ed="#S" n="64"/>the deede was in doing. Why doe not  
+          <lb ed="#S" n="65"/>these merrye conceyted men consider  
+          <lb ed="#S" n="66"/>howe severely the Lorde did punishe  
+          <lb ed="#S" n="67"/>David for that offence? The bloudye  
+          <lb ed="#S" n="68"/>house of David was immediatly after  
+          <lb ed="#S" n="69"/>defiled with filthie incest. For Amnon  
+          <lb ed="#S" n="70"/>doth perforce defloure his sister Tha 
+          <lb ed="#S" n="71"/>mar. And streight way upon the necke  
+          <lb ed="#S" n="72"/>of that again, his house is defamed by  
+          <lb ed="#S" n="73"/>most cruell parricide, while Absolom  
+          <lb ed="#S" n="74"/>in a banquet murdred his brother Am 
+          <lb ed="#S" n="75"/>non. the verye same Absalom also  
+          <lb ed="#S" n="76"/>Davids sonne, defileth or deflowreth  
+          <lb ed="#S" n="77"/>his fathers wives, and that openly too,  
+          <lb ed="#S" n="78"/>laying all feare of God and shame a 
+          <lb ed="#S" n="79"/>side. Hee driveth his father out of his  
+          <lb ed="#S" n="80"/>kingdome, and hasteneth on to shorten  
+          <lb ed="#S" n="81"/>his daies. Al which calamities David  
+          <lb ed="#S" n="82"/>confesseth, that he doth worthily su 
+          <lb ed="#S" n="83"/>staine, for the adulterie * murther by  
+          <lb ed="#S" n="84"/>him committed. Lastly, many thou 
+          <lb ed="#S" n="85"/>sands of his people were slayne in the  
+          <lb ed="#S" n="86"/>battaile: David himselfe is harly and  
+          <lb ed="#S" n="87"/>with much a doe restored to his king 
+          <lb ed="#S" n="88"/>dome, and afterward beeyng restored,  
+          <lb ed="#S" n="89"/>hee repented his sinne all the dayes of  
+          <lb ed="#S" n="90"/>his life.  
+          <lb ed="#S" n="91"/>Now it is marvel, if adulterers (cou 
+          <lb ed="#S" n="92"/>dering these punishets) will goe on yet  
+          <!--234.xml-->
+          <pb ed="#L" n="234"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>to alledge the exaple of David in de 
+          <lb ed="#S" n="2"/>fence of their naughtinesse. Our Sa 
+          <lb ed="#S" n="3"/>viour did not come into the world to be  
+          <lb ed="#S" n="4"/>a Judge but a Saviour, neither did hee  
+          <lb ed="#S" n="5"/>in any place usurp and take to himselfe  
+          <lb ed="#S" n="6"/>the right of the sword. Who therefore  
+          <lb ed="#S" n="7"/>wil make any marveile at it, to see the  
+          <lb ed="#S" n="8"/>adultresse not condemned by him, to be  
+          <lb ed="#S" n="9"/>stoned to death? yet hee sayde: Hath  
+          <lb ed="#S" n="10"/>no man condemned thee? as if hee  
+          <lb ed="#S" n="11"/>minded not to have resisted the lawe, if  
+          <lb ed="#S" n="12"/>judgement had once passed uppon her.  
+          <lb ed="#S" n="13"/>For he came not to be a patrone to ad 
+          <lb ed="#S" n="14"/>ulterers, not to breake the lawe, but  
+          <lb ed="#S" n="15"/>to fulfille it. But if it like adulterers  
+          <lb ed="#S" n="16"/>wel, that the adulteresse was not con 
+          <lb ed="#S" n="17"/>demned of the Lord, then let them also  
+          <lb ed="#S" n="18"/>like that sentence, wherwith the Hy 
+          <lb ed="#S" n="19"/>storie is ended, when the Lorde saith:  
+          <lb ed="#S" n="20"/>Goe thy waies and sinne no more.  
+          <lb ed="#S" n="21"/>Let them therefore leave off the defile  
+          <lb ed="#S" n="22"/>&amp; destroy themselves with filthy ad 
+          <lb ed="#S" n="23"/>dulerie.  
+          <lb ed="#S" n="24"/>The Lord in his law hath expresse 
+          <lb ed="#S" n="25"/>lye named adulterie alone, but there 
+          <lb ed="#S" n="26"/>withal he doth inclusively understand  
+          <lb ed="#S" n="27"/>all kindes of lust and luxurie, and all  
+          <lb ed="#S" n="28"/>things else which do egge forward and  
+          <lb ed="#S" n="29"/>stirre up fire in men to wantonnesse,  
+          <lb ed="#S" n="30"/>which he forbiddeth as severely as ad 
+          <lb ed="#S" n="31"/>ulterie it selfe. The Lorde in the Gos 
+          <lb ed="#S" n="32"/>pell doth not onely forbid the outward  
+          <lb ed="#S" n="33"/>work of adulterie, but the very affecti 
+          <lb ed="#S" n="34"/>on also and wanton lust of the hearte  
+          <lb ed="#S" n="35"/>and minde. Yee have heard (saith he)  
+          <lb ed="#S" n="36"/>that it was said to them of olde, Thou  
+          <lb ed="#S" n="37"/>shalt not commit adulterie. But I say  
+          <lb ed="#S" n="38"/>unto you, that whosoever looketh on  
+          <lb ed="#S" n="39"/>a woman to lust after her, hath com 
+          <lb ed="#S" n="40"/>mitted adulterie alreadie with her in  
+          <lb ed="#S" n="41"/>his heart.  
+          <lb ed="#S" n="42"/>In the same place he teacheth us to  
+          <lb ed="#S" n="43"/>plucke out our eyes, and cut off our  
+          <lb ed="#S" n="44"/>handes, that is, to extinguish unclean  
+          <lb ed="#S" n="45"/>affectios that rise in our minds, while  
+          <lb ed="#S" n="46"/>yet they be young and beginne to bud,  
+          <!--234.xml-->
+          <pb ed="#L" n="234"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>leaft yer adventure they break out fro  
+          <lb ed="#S" n="48"/>thougthts to deeds.  
+          <lb ed="#S" n="49"/>So then in this Precept every un 
+          <lb ed="#S" n="50"/>cleane thought, al ribaulde talke, and  
+          <lb ed="#S" n="51"/>filthinesse of bodily deedes are utterly  
+          <lb ed="#S" n="52"/>forbidden.  
+          <lb ed="#S" n="53"/>In this precept is forbidden fornica 
+          <lb ed="#S" n="54"/>tion or that kinde of whorehunting,  
+          <lb ed="#S" n="55"/>which is saide to bee the medling of a  
+          <lb ed="#S" n="56"/>single man with an unmarried woma.  
+          <lb ed="#S" n="57"/>This kind of whoredom is thought of  
+          <lb ed="#S" n="58"/>many, either to be a very small offence  
+          <lb ed="#S" n="59"/>or none at all. But such kinde of men  
+          <lb ed="#S" n="60"/>doth the Divel hearte on, bewitch, and  
+          <lb ed="#S" n="61"/>by those ill thoughtes drive on to com 
+          <lb ed="#S" n="62"/>mit that sinne, when as the doctrine of  
+          <lb ed="#S" n="63"/>the Evangelists &amp; Apostles doth teach  
+          <lb ed="#S" n="64"/>us the contrarie. For the Apostles in  
+          <lb ed="#S" n="65"/>that Synodal Epistle, which they sent  
+          <lb ed="#S" n="66"/>from Hierusalem to all nations, do ex 
+          <lb ed="#S" n="67"/>pressely name and forbid fornication.  
+          <lb ed="#S" n="68"/>Saint Peter reckoneth fornication a 
+          <lb ed="#S" n="69"/>mong those filthie sinnes, from which  
+          <lb ed="#S" n="70"/>he would have Christians to bee most  
+          <lb ed="#S" n="71"/>cleare.  
+          <lb ed="#S" n="72"/>Saint Paul saith: Flie fornication.  
+          <lb ed="#S" n="73"/>Again, Let us not be defiled with for 
+          <lb ed="#S" n="74"/>nication, as some of them commit 
+          <lb ed="#S" n="75"/>ted fornication, and fell in one daye  
+          <lb ed="#S" n="76"/>three and twentie thousand. Forni 
+          <lb ed="#S" n="77"/>cation doth directly fight with the co 
+          <lb ed="#S" n="78"/>venant of God, whereby hee is joyned  
+          <lb ed="#S" n="79"/>to us, and wee to him: and whoredom  
+          <lb ed="#S" n="80"/>also spoileth God of his glory, and doth  
+          <lb ed="#S" n="81"/>most filthily pollute the Temple of the  
+          <lb ed="#S" n="82"/>Lorde. Let us heare what the Apo 
+          <lb ed="#S" n="83"/>stle Paul saith touching this matter.  
+          <lb ed="#S" n="84"/>Knowe yee not that your bodies are  
+          <lb ed="#S" n="85"/>the members of Christ? Shal I there 
+          <lb ed="#S" n="86"/>fore take the members of Christ, &amp;  
+          <lb ed="#S" n="87"/>make them the members of an har 
+          <lb ed="#S" n="88"/>lot? God forbidde. What, knowe  
+          <lb ed="#S" n="89"/>yee not that hee that is coupled to an  
+          <lb ed="#S" n="90"/>harlot is one bodie? For two (saieth  
+          <lb ed="#S" n="91"/>hee) shall bee one fleshe. But hee  
+          <lb ed="#S" n="92"/>that is coupled to the Lorde is one  
+          <!--235.xml-->
+          <pb ed="#L" n="235"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>spirite. Flie fornication. Everie sinne  
+          <lb ed="#S" n="2"/>that a man doeth is without the bo 
+          <lb ed="#S" n="3"/>die, but he that committeth fornica 
+          <lb ed="#S" n="4"/>tion, sinneth against his owne bodie.  
+          <lb ed="#S" n="5"/>What, knowe you not that your body  
+          <lb ed="#S" n="6"/>is the temple of the holy Ghost which  
+          <lb ed="#S" n="7"/>is in you, whom ye have of God, &amp; ye  
+          <lb ed="#S" n="8"/>are not your owne. For ye are bought  
+          <lb ed="#S" n="9"/>with a price: Therefore fornication  
+          <lb ed="#S" n="10"/>shutteth fornicators out of ye kingdome  
+          <lb ed="#S" n="11"/>of God. For the same Apostle sayth:  
+          <lb ed="#S" n="12"/>Neither whoremongers nor adulte 
+          <lb ed="#S" n="13"/>rers, shall inherite the kingdome of  
+          <lb ed="#S" n="14"/>God. And therefore in an other place  
+          <lb ed="#S" n="15"/>he suffereth not fornication to bee so  
+          <lb ed="#S" n="16"/>much as once named among Christi 
+          <lb ed="#S" n="17"/>ans, so farre was he from admitting  
+          <lb ed="#S" n="18"/>stews and brothel houses among gods  
+          <lb ed="#S" n="19"/>people.  
+          <lb ed="#S" n="20"/>Moreover whoredome doeth fill the  
+          <lb ed="#S" n="21"/>whole bodie with sundrie diseases, it  
+          <lb ed="#S" n="22"/>depriveth whorehaunters of all their  
+          <lb ed="#S" n="23"/>goods and substance, it bringeth them  
+          <lb ed="#S" n="24"/>to povertie and extreme miserie, and  
+          <lb ed="#S" n="25"/>driveth them at last to utter desperati 
+          <lb ed="#S" n="26"/>on. It overthroweth their same &amp; good  
+          <lb ed="#S" n="27"/>nante, with shame and ignominie: the  
+          <lb ed="#S" n="28"/>view whereof is lively expressed in the  
+          <lb ed="#S" n="29"/>holy Scriptures by the example of  
+          <lb ed="#S" n="30"/>Sampson the strongest man among al  
+          <lb ed="#S" n="31"/>the Israelites.  
+          <lb ed="#S" n="32"/>Salomon therefore the most wise  
+          <lb ed="#S" n="33"/>of all other, doth very fitly in time and  
+          <lb ed="#S" n="34"/>place convenient, admonish all men,  
+          <lb ed="#S" n="35"/>to flie the enticeing baites and flatte 
+          <lb ed="#S" n="36"/>ring allurementes of whorish strum 
+          <lb ed="#S" n="37"/>pets. For the end of the is deadly poy 
+          <lb ed="#S" n="38"/>son, &amp; they throwe a man downe head 
+          <lb ed="#S" n="39"/>long into a bottomlesse pit of endlesse  
+          <lb ed="#S" n="40"/>miseries.  
+          <lb ed="#S" n="41"/>By this lawe also, that kinde of  
+          <lb ed="#S" n="42"/>whoredome is prohibited, which consi 
+          <lb ed="#S" n="43"/>steth in defloration of virgins, and vio 
+          <lb ed="#S" n="44"/>lent rapes, by which children are per 
+          <lb ed="#S" n="45"/>force defiled and carried from their pa 
+          <lb ed="#S" n="46"/>rentes. There is difference betwixt a  
+          <!--235.xml-->
+          <pb ed="#L" n="235"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>rape perforce, and the deflouring of a  
+          <lb ed="#S" n="48"/>maide done without violence.  
+          <lb ed="#S" n="49"/>Sichem defiled Dina the daughter  
+          <lb ed="#S" n="50"/>of Jacob, and although hee desired to  
+          <lb ed="#S" n="51"/>have the deflowred maide to his Wife  
+          <lb ed="#S" n="52"/>and to chaunge his religion, yet not 
+          <lb ed="#S" n="53"/>withstanding hee himselfe is slaine by  
+          <lb ed="#S" n="54"/>Levi and Simeon the brethren of Di 
+          <lb ed="#S" n="55"/>na, his Citie is razed and filled with ye  
+          <lb ed="#S" n="56"/>bloud of murdered men, whose goods  
+          <lb ed="#S" n="57"/>were ransackt and laid open to spoyle.  
+          <lb ed="#S" n="58"/>The hystorie is extant in the 34. of  
+          <lb ed="#S" n="59"/>Gen. For the rape which Roderichus  
+          <lb ed="#S" n="60"/>king of the Gothes in Spaine commit 
+          <lb ed="#S" n="61"/>ted uppon the daughter of Julianus a  
+          <lb ed="#S" n="62"/>Lieuetenant, all Spaine in a manner  
+          <lb ed="#S" n="63"/>was mingled with fire and bloud. For  
+          <lb ed="#S" n="64"/>Volatteranus in his seconde booke of  
+          <lb ed="#S" n="65"/>his Geographie sayeth: Roderychus  
+          <lb ed="#S" n="66"/>reigned three yeares, whose filthie  
+          <lb ed="#S" n="67"/>lust brought an ende as well to the  
+          <lb ed="#S" n="68"/>name, as to the quiet kingdome of  
+          <lb ed="#S" n="69"/>the Gothes in Spaine, by meanes of  
+          <lb ed="#S" n="70"/>the Saracenes that invaded their land.  
+          <lb ed="#S" n="71"/>For when it fell out that he had de 
+          <lb ed="#S" n="72"/>floured the daughter of one Julianus  
+          <lb ed="#S" n="73"/>a Lieuetenaunt of the parte of Mau 
+          <lb ed="#S" n="74"/>ritania that is called Tingitana, pri 
+          <lb ed="#S" n="75"/>vate griefe did pricke her father to  
+          <lb ed="#S" n="76"/>seeke revengement, whereto he used  
+          <lb ed="#S" n="77"/>the commoditie of the place. Where 
+          <lb ed="#S" n="78"/>fore Julianus doth privately call the  
+          <lb ed="#S" n="79"/>Saracenes out of Aphrica: who in  
+          <lb ed="#S" n="80"/>the yeare of grace 714. under the  
+          <lb ed="#S" n="81"/>conduct of their Captaine Muzta,  
+          <lb ed="#S" n="82"/>beeing sent by Miremolinus their  
+          <lb ed="#S" n="83"/>king at that time, entring in through  
+          <lb ed="#S" n="84"/>the streightes of Morocko, did in  
+          <lb ed="#S" n="85"/>two yeare, space subdue all Spaine al 
+          <lb ed="#S" n="86"/>most except Asturia. In the space of  
+          <lb ed="#S" n="87"/>which time it is reported that seaven  
+          <lb ed="#S" n="88"/>hundred thousand men on both sides  
+          <lb ed="#S" n="89"/>were destroyed by that warre where 
+          <lb ed="#S" n="90"/>in also the King which had defloured  
+          <lb ed="#S" n="91"/>the virgine with all his nobilitie was  
+          <lb ed="#S" n="92"/>utterly slaine. In Israel for the Levits  
+          <!--236.xml-->
+          <pb ed="#L" n="236"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>concubine, whom the Citizens of Gi 
+          <lb ed="#S" n="2"/>bea of the Tribe of Benjamin had vi 
+          <lb ed="#S" n="3"/>alently ravished were 25000. Benja 
+          <lb ed="#S" n="4"/>mites slaine, beside the which perished  
+          <lb ed="#S" n="5"/>from among the other eleven Tribes,  
+          <lb ed="#S" n="6"/>whose number amounted to 40000.  
+          <lb ed="#S" n="7"/>men. Neyther is it unknowen to any  
+          <lb ed="#S" n="8"/>that the kings were expelled out of the  
+          <lb ed="#S" n="9"/>Citie of Rome, and Troy being wea 
+          <lb ed="#S" n="10"/>ried with ten yeares war (which trou 
+          <lb ed="#S" n="11"/>bled both the East and West) was at  
+          <lb ed="#S" n="12"/>the last utterly sacked and clean over 
+          <lb ed="#S" n="13"/>throwen, because Tarquinius had per 
+          <lb ed="#S" n="14"/>force ravished Lucretia, and Alexan 
+          <lb ed="#S" n="15"/>der Paris had stolne out of Greece Me 
+          <lb ed="#S" n="16"/>nelaus his Helena another mans wife.  
+          <lb ed="#S" n="17"/>Every age almost doth minister an in 
+          <lb ed="#S" n="18"/>numerable fort of such like examples.  
+          <lb ed="#S" n="19"/>For the most just God hath alwayes  
+          <lb ed="#S" n="20"/>by evident examples declared, howe  
+          <lb ed="#S" n="21"/>greatly he is offended with deflowrers  
+          <lb ed="#S" n="22"/>of virgines, and ravishers of women.  
+          <lb ed="#S" n="23"/>And for that cause are lawes, aud ve 
+          <lb ed="#S" n="24"/>ry sharpe punishmentes ordeyned and  
+          <lb ed="#S" n="25"/>appointed for such lascivious knaves.  
+          <lb ed="#S" n="26"/>Rapes and such villanies committed  
+          <lb ed="#S" n="27"/>perforce, ye lawes doe punish with losse  
+          <lb ed="#S" n="28"/>of life: but to him that doeth defloure  
+          <lb ed="#S" n="29"/>a mayde not violently, the Lorde doth  
+          <lb ed="#S" n="30"/>say, Marrie and endowe her. Other  
+          <lb ed="#S" n="31"/>lawes appoint other penalties. Tou 
+          <lb ed="#S" n="32"/>ching which more is spoken in the civil  
+          <lb ed="#S" n="33"/>lawe.  
+          <lb ed="#S" n="34"/>Moreover Incest is especially prohi 
+          <lb ed="#S" n="35"/>bited. They call Incest an unlawfull  
+          <lb ed="#S" n="36"/>meddling of a man with a woman a 
+          <lb ed="#S" n="37"/>gainst the honour of bloud and affini 
+          <lb ed="#S" n="38"/>tie. For Cestus signifieth the Marri 
+          <lb ed="#S" n="39"/>age girdle which the Bride did weare,  
+          <lb ed="#S" n="40"/>to shewe that the marriage was just  
+          <lb ed="#S" n="41"/>and lawfull. We Germanes call this  
+          <lb ed="#S" n="42"/>sin by the name of Bloutschang, where 
+          <lb ed="#S" n="43"/>by we signifie the sinns committed in  
+          <lb ed="#S" n="44"/>corrupting or defiling our owne bloud  
+          <lb ed="#S" n="45"/>or kinred. In Levitivus after the De 
+          <lb ed="#S" n="46"/>grees of bloud, in which wee are for 
+          <!--236.xml-->
+          <pb ed="#L" n="236"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>bidden to marrie, the Lorde doeth pre 
+          <lb ed="#S" n="48"/>sently adde: In all these be not ye de 
+          <lb ed="#S" n="49"/>filed: For in all those thinges are the  
+          <lb ed="#S" n="50"/>nations defiled, which I cast out be 
+          <lb ed="#S" n="51"/>fore you. And hereby the lande is de 
+          <lb ed="#S" n="52"/>filed, and I have visited the iniquitie  
+          <lb ed="#S" n="53"/>thereof uppon it, and the lande hath  
+          <lb ed="#S" n="54"/>spewed out the inhabitauntes thereof.  
+          <lb ed="#S" n="55"/>Yee shall therefore keepe my statutes  
+          <lb ed="#S" n="56"/>and mine ordinances, and shall not  
+          <lb ed="#S" n="57"/>doe anie of all these abhominations.  
+          <lb ed="#S" n="58"/>For whosoever shall doe so, he shall be  
+          <lb ed="#S" n="59"/>cut off from among his pleople. And  
+          <lb ed="#S" n="60"/>in the 20. Chapter of Leviticus, hee  
+          <lb ed="#S" n="61"/>hath appointed death to be the punish 
+          <lb ed="#S" n="62"/>ment of Incest, which is not changed  
+          <lb ed="#S" n="63"/>by the civill lawes, or Imperiall con 
+          <lb ed="#S" n="64"/>stitutions.  
+          <lb ed="#S" n="65"/>The abhominable sinne of Sodomie  
+          <lb ed="#S" n="66"/>and medling with beasts also is plain 
+          <lb ed="#S" n="67"/>ly forbitden. Against which we have  
+          <lb ed="#S" n="68"/>most evident and expresse Lawes set  
+          <lb ed="#S" n="69"/>downe in the I S. and 20. chapter of Le 
+          <lb ed="#S" n="70"/>viticus. We have also a very severe,  
+          <lb ed="#S" n="71"/>but yet a most just punishment layd by  
+          <lb ed="#S" n="72"/>God himselfe upon the pates of the de 
+          <lb ed="#S" n="73"/>testable Sodomites. For with fire and  
+          <lb ed="#S" n="74"/>stinking brimstone sent down fro hea 
+          <lb ed="#S" n="75"/>ven, he consumed those filthie men to  
+          <lb ed="#S" n="76"/>dust and ashes, which ashes be washed  
+          <lb ed="#S" n="77"/>away with the waves of the dead sea,  
+          <lb ed="#S" n="78"/>because he would not have so much as  
+          <lb ed="#S" n="79"/>the very cinders to remaine of so wic 
+          <lb ed="#S" n="80"/>ked men.  
+          <lb ed="#S" n="81"/>Moreover their whole cities &amp; fruit 
+          <lb ed="#S" n="82"/>full fieldes were burnt with fire. For  
+          <lb ed="#S" n="83"/>it was not requisite that one jot of the  
+          <lb ed="#S" n="84"/>substance of those most wicked men  
+          <lb ed="#S" n="85"/>should remaine undestroyed.  
+          <lb ed="#S" n="86"/>The place where those Cities some  
+          <lb ed="#S" n="87"/>time were situated, is at this day over 
+          <lb ed="#S" n="88"/>flowen with water, &amp; called the dead  
+          <lb ed="#S" n="89"/>Sea. Whereby we doe consequent 
+          <lb ed="#S" n="90"/>ly gather, that the most just God will  
+          <lb ed="#S" n="91"/>not spare the Gentiles, entangled in  
+          <lb ed="#S" n="92"/>the verie same sinne, although for a  
+          <!--237.xml-->
+          <pb ed="#L" n="237"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>time hee wincke at and dissemble it.  
+          <lb ed="#S" n="2"/>Fire shall destroy both them &amp; theirs:  
+          <lb ed="#S" n="3"/>&amp; they themselves shall for ever burne  
+          <lb ed="#S" n="4"/>in hell, where nothing shall remayne  
+          <lb ed="#S" n="5"/>of them, but a reprochfull memorie.  
+          <lb ed="#S" n="6"/>For in the Revelation of our Lord Je 
+          <lb ed="#S" n="7"/>sus Christ to his apostle John we read:  
+          <lb ed="#S" n="8"/>And fire came downe from God out  
+          <lb ed="#S" n="9"/>of heaven, and devoured them, and  
+          <lb ed="#S" n="10"/>the Divell which deceived them was  
+          <lb ed="#S" n="11"/>cast into a lake of fire and brimstone,  
+          <lb ed="#S" n="12"/>where the beast and the false Prophet  
+          <lb ed="#S" n="13"/>shalbe tormented day and night for e 
+          <lb ed="#S" n="14"/>vermore Apoc. 20.  
+          <lb ed="#S" n="15"/>Furthermore all thinges else are  
+          <lb ed="#S" n="16"/>forbidden that doe incite or allure us  
+          <lb ed="#S" n="17"/>to unlawfull lustes, which baytes are  
+          <lb ed="#S" n="18"/>the over nice pranking and decking  
+          <lb ed="#S" n="19"/>the body, evill and wanton company,  
+          <lb ed="#S" n="20"/>gluttony, surfetting and drunkennes.  
+          <lb ed="#S" n="21"/>For Exechiel among the rest of his  
+          <lb ed="#S" n="22"/>Prophecies, sayeth: This was the ini 
+          <lb ed="#S" n="23"/>quitie of Sodome, pride, gluttonie, a 
+          <lb ed="#S" n="24"/>boundaunce of all thinges, and idle 
+          <lb ed="#S" n="25"/>nesse. Men are provoked to lust ey 
+          <lb ed="#S" n="26"/>ther by hearing or reading of disho 
+          <lb ed="#S" n="27"/>nest ditties, and bawdie ballads, or by  
+          <lb ed="#S" n="28"/>looking on or beholding wanton daun 
+          <lb ed="#S" n="29"/>ces, unseemely sightes, ribauld talke,  
+          <lb ed="#S" n="30"/>and filthy examples. They therefore  
+          <lb ed="#S" n="31"/>are by this lawe reproved, which  
+          <lb ed="#S" n="32"/>wincke at, or chearish, which are the  
+          <lb ed="#S" n="33"/>bawedes or bringers together of adul 
+          <lb ed="#S" n="34"/>terous persons. Unto the wicked the  
+          <lb ed="#S" n="35"/>Lorde in the Psalmes doth say: Why  
+          <lb ed="#S" n="36"/>doest thou take my covenaunt in thy  
+          <lb ed="#S" n="37"/>mouth, whereas thou hatest to be re 
+          <lb ed="#S" n="38"/>fourmed, and doest cast my words be 
+          <lb ed="#S" n="39"/>hind thee? when thou sawest a theefe,  
+          <lb ed="#S" n="40"/>thou consentedst unto him: and hast  
+          <lb ed="#S" n="41"/>been partaker with the adulterers, &amp; c.  
+          <lb ed="#S" n="42"/>The just Lorde therefore doth punish  
+          <lb ed="#S" n="43"/>all these offences in wicked men, eve 
+          <lb ed="#S" n="44"/>rie one according to the greatnesse of  
+          <lb ed="#S" n="45"/>the sin. For some sins are farre more  
+          <lb ed="#S" n="46"/>heynous than other some are. Hee is  
+          <!--237.xml-->
+          <pb ed="#L" n="237"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>an adulterer that in his minde doeth  
+          <lb ed="#S" n="48"/>lust after an other mans wife: but hee  
+          <lb ed="#S" n="49"/>sinneth more greevously, if hee inde 
+          <lb ed="#S" n="50"/>vour to finishe in deede his wicked  
+          <lb ed="#S" n="51"/>thought, hee offendeth yet more deepe 
+          <lb ed="#S" n="52"/>ly if hee doe the deede, and sinneth most  
+          <lb ed="#S" n="53"/>of all, if after once, hee fall unto it a 
+          <lb ed="#S" n="54"/>gaine. Likewise the adulterer sinneth,  
+          <lb ed="#S" n="55"/>so doth the bawde, and he also that up 
+          <lb ed="#S" n="56"/>holdeth his adulterie. The whore 
+          <lb ed="#S" n="57"/>monger sinneth deepely, but hee that  
+          <lb ed="#S" n="58"/>defileth himselfe with incest, sinneth  
+          <lb ed="#S" n="59"/>more greevously, and hee most hey 
+          <lb ed="#S" n="60"/>nously of all, that in medling with  
+          <lb ed="#S" n="61"/>beasts, comitteth filthy Sodomy. So  
+          <lb ed="#S" n="62"/>then in this 7. precept charge is given  
+          <lb ed="#S" n="63"/>for the maintenance of shamefastnes,  
+          <lb ed="#S" n="64"/>modestie, sobriety, temperancy, cha 
+          <lb ed="#S" n="65"/>stity, publike honestie, and true ho 
+          <lb ed="#S" n="66"/>linesse of soule and bodie. The next is  
+          <lb ed="#S" n="67"/>for me to say somewhat now touching  
+          <lb ed="#S" n="68"/>continencie.  
+          <lb ed="#S" n="69"/>By abstinence we refraine from o 
+          <lb ed="#S" n="70"/>ther mens goods, and take from no ma  
+          <lb ed="#S" n="71"/>the thing that is his. Some there are  
+          <lb ed="#S" n="72"/>that will have temperancie to extend  
+          <lb ed="#S" n="73"/>farther than continencie: for they wil  
+          <lb ed="#S" n="74"/>make the one to be but a part of the o 
+          <lb ed="#S" n="75"/>ther. I, in this treatise, doe simplye  
+          <lb ed="#S" n="76"/>make continencie the contrarie to in 
+          <lb ed="#S" n="77"/>temperancie or incontinencie. For  
+          <lb ed="#S" n="78"/>continency is a vertue or power of  
+          <lb ed="#S" n="79"/>the minde, received from the spirite of  
+          <lb ed="#S" n="80"/>God, which suppresseth affections, and  
+          <lb ed="#S" n="81"/>doth not in any wife permit unlawful  
+          <lb ed="#S" n="82"/>pleasures. This is conversant &amp; doth  
+          <lb ed="#S" n="83"/>shew it selfe in the common and viual  
+          <lb ed="#S" n="84"/>talke of men, in pleasures that are al 
+          <lb ed="#S" n="85"/>lowed, in apparell, in buildings and  
+          <lb ed="#S" n="86"/>dwelling houses, in meate and drink,  
+          <lb ed="#S" n="87"/>and in other things also. I at this pre 
+          <lb ed="#S" n="88"/>sent will onely examine those poyntes  
+          <lb ed="#S" n="89"/>of continencie, which are already re 
+          <lb ed="#S" n="90"/>hearsed.  
+          <lb ed="#S" n="91"/>First of all it is required of us to  
+          <lb ed="#S" n="92"/>keepe in our tongue, and not to let it  
+          <!--238.xml-->
+          <pb ed="#L" n="238"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>loose at randon to the blaspheming of  
+          <lb ed="#S" n="2"/>Gods glory, or hurt of our neighbour.  
+          <lb ed="#S" n="3"/>Let the talke of a Christian man bee  
+          <lb ed="#S" n="4"/>honest, profitable, and seasoned with  
+          <lb ed="#S" n="5"/>salt, let it bee unacquainted with scof 
+          <lb ed="#S" n="6"/>fing, lightnesse, lying, ribauldrie,  
+          <lb ed="#S" n="7"/>and filthinesse. S. James in the third  
+          <lb ed="#S" n="8"/>Chapter of his Epistle hath spoken  
+          <lb ed="#S" n="9"/>sufficiently of the tongues properties.  
+          <lb ed="#S" n="10"/>In his first Chapter also hee saieth:  
+          <lb ed="#S" n="11"/>Let everie man bee swift to heare.  
+          <lb ed="#S" n="12"/>flowe to speake, and flowe to anger.  
+          <lb ed="#S" n="13"/>And Paul sayeth: Let no filthie com 
+          <lb ed="#S" n="14"/>munication proceede out of your  
+          <lb ed="#S" n="15"/>mouth, but that which is good to e 
+          <lb ed="#S" n="16"/>difie withall, as oft as neede is, that  
+          <lb ed="#S" n="17"/>it maye minister grace unto the hea 
+          <lb ed="#S" n="18"/>rers, and greeve not the holie spirite  
+          <lb ed="#S" n="19"/>of God, by whom yee are sealed un 
+          <lb ed="#S" n="20"/>to the daye of Redemption. And a 
+          <lb ed="#S" n="21"/>gayne: Let not fornication, or anye  
+          <lb ed="#S" n="22"/>uncleannesse, or covetousnesse, bee  
+          <lb ed="#S" n="23"/>once named among you, as it be 
+          <lb ed="#S" n="24"/>commeth Saintes. Neither filthinesse,  
+          <lb ed="#S" n="25"/>nor foolish talking, neyther jesting,  
+          <lb ed="#S" n="26"/>which are not seemely, but rather gi 
+          <lb ed="#S" n="27"/>ving of thankes. Let no man deceive  
+          <lb ed="#S" n="28"/>you with vayne wordes. For, for such  
+          <lb ed="#S" n="29"/>thinges commeth the wrath of God  
+          <lb ed="#S" n="30"/>uppon the children of disobedience.  
+          <lb ed="#S" n="31"/>For in another place hee citeth this  
+          <lb ed="#S" n="32"/>sentence out of Menander and saith:  
+          <lb ed="#S" n="33"/>Ill woordes corrupt good manners.  
+          <lb ed="#S" n="34"/>Moreover a mans minde is bewrayed  
+          <lb ed="#S" n="35"/>by his talke: for of the hearts aboun 
+          <lb ed="#S" n="36"/>dance the mouth doth speake. If ther 
+          <lb ed="#S" n="37"/>fore in any thing then in tongue especi 
+          <lb ed="#S" n="38"/>al it behoveth Christians to be sober &amp;  
+          <lb ed="#S" n="39"/>continent.  
+          <lb ed="#S" n="40"/>The Lord (I confesse) hath graun 
+          <lb ed="#S" n="41"/>ted man the use of certayn pleasures.  
+          <lb ed="#S" n="42"/>For he may lawfully without offence  
+          <lb ed="#S" n="43"/>to God, cloath his body with garmets  
+          <lb ed="#S" n="44"/>soberly, thereby to keepe his limmes  
+          <lb ed="#S" n="45"/>from colde. God hath and doeth allowe  
+          <lb ed="#S" n="46"/>the embracinges of man and wife, in  
+          <!--238.xml-->
+          <pb ed="#L" n="238"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>holy wedlocke. Hee graunteth choyce  
+          <lb ed="#S" n="48"/>of a dwelling place coveniently situa 
+          <lb ed="#S" n="49"/>ted against the untemperatenesse of  
+          <lb ed="#S" n="50"/>the ayre, and biddeth us not to wan 
+          <lb ed="#S" n="51"/>der like beastes and cattell, through  
+          <lb ed="#S" n="52"/>fields and desolate woods. Hee hath for  
+          <lb ed="#S" n="53"/>our necessitie and pleasaunt feeding,  
+          <lb ed="#S" n="54"/>allowed us the use of meate &amp; drinke.  
+          <lb ed="#S" n="55"/>Hee graunteth us quietnesse, ease and  
+          <lb ed="#S" n="56"/>sleepe, which doth wonderfully refresh  
+          <lb ed="#S" n="57"/>the strength that is decayed and tyred  
+          <lb ed="#S" n="58"/>with paynes. Therefore so often as  
+          <lb ed="#S" n="59"/>a godly man doth enjoy them, doth use  
+          <lb ed="#S" n="60"/>them, and is delighted with the honest  
+          <lb ed="#S" n="61"/>pleasure of them, let him give thanks  
+          <lb ed="#S" n="62"/>to God, and use them moderatly in the  
+          <lb ed="#S" n="63"/>feare of the Lorde. For in so doing hee  
+          <lb ed="#S" n="64"/>sinneth not against the Lorde: but by  
+          <lb ed="#S" n="65"/>the abuse of those thinges, by unthak 
+          <lb ed="#S" n="66"/>fulnes for them, and by immoderate u 
+          <lb ed="#S" n="67"/>sing of them, he doeth offend his God &amp;  
+          <lb ed="#S" n="68"/>maker.  
+          <lb ed="#S" n="69"/>For what is allowed or permitted  
+          <lb ed="#S" n="70"/>to married folkes, I have already de 
+          <lb ed="#S" n="71"/>clared in this verie sermon so that I  
+          <lb ed="#S" n="72"/>neede not heare againe to repeat it un 
+          <lb ed="#S" n="73"/>to you. Solomon saith: Be glad with  
+          <lb ed="#S" n="74"/>the wife of thy youth: let her be as the  
+          <lb ed="#S" n="75"/>beloved Hinde and plesaunt Roe: let  
+          <lb ed="#S" n="76"/>her love alwaies refresh thee, and bee  
+          <lb ed="#S" n="77"/>thou still delighted therein, &amp;c. In the  
+          <lb ed="#S" n="78"/>meane time let every one refrain from  
+          <lb ed="#S" n="79"/>all abuse and intemperancie: and if  
+          <lb ed="#S" n="80"/>necessitie at any time require it, let  
+          <lb ed="#S" n="81"/>man and wife lie asunder, as Paul do 
+          <lb ed="#S" n="82"/>eth counsell them: or else let them give  
+          <lb ed="#S" n="83"/>care to the Prophet Joel, who saieth:  
+          <lb ed="#S" n="84"/>Proclaim an holy fast, gather the peo 
+          <lb ed="#S" n="85"/>ple together: let the bridegrome come  
+          <lb ed="#S" n="86"/>forth of his chamber, and the bride out  
+          <lb ed="#S" n="87"/>of his closet.  
+          <lb ed="#S" n="88"/>Our garments must bee cleanely  
+          <lb ed="#S" n="89"/>and honest according to our countrie  
+          <lb ed="#S" n="90"/>fashion to cover and become us, unles  
+          <lb ed="#S" n="91"/>our countrie fashion be too farre out of  
+          <lb ed="#S" n="92"/>order: there must bee in them no hy 
+          <!--239.xml-->
+          <pb ed="#L" n="239"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>pocriticall sluttishnesse, beonde sea  
+          <lb ed="#S" n="2"/>gawdes, newfangled toyes, nor un 
+          <lb ed="#S" n="3"/>seemely fightes. The chiefe Apostles  
+          <lb ed="#S" n="4"/>of Christ Peter and Paule, were not  
+          <lb ed="#S" n="5"/>ashamed in their Epistles to write  
+          <lb ed="#S" n="6"/>somewhat largely touching the man 
+          <lb ed="#S" n="7"/>ner and ordering of womens apparell:  
+          <lb ed="#S" n="8"/>because that kinde of people doe most  
+          <lb ed="#S" n="9"/>of all bende to that foolishe braverie.  
+          <lb ed="#S" n="10"/>Let everie faithfull body thinke what  
+          <lb ed="#S" n="11"/>is seemelie for them to weare, not so  
+          <lb ed="#S" n="12"/>much by their degree in dignitie, or  
+          <lb ed="#S" n="13"/>condition of riches, as by their religi 
+          <lb ed="#S" n="14"/>on. Excesse in everie thing is discom 
+          <lb ed="#S" n="15"/>mended in Christians. And to what  
+          <lb ed="#S" n="16"/>ende doe wee jagge and gath the gar 
+          <lb ed="#S" n="17"/>mentes that are sowed together to co 
+          <lb ed="#S" n="18"/>ver our bodyes, but that thereby  
+          <lb ed="#S" n="19"/>wee may as it were by a most sende  
+          <lb ed="#S" n="20"/>and ridiculous anatomie, open and  
+          <lb ed="#S" n="21"/>laye foorth to the eyes of all men,  
+          <lb ed="#S" n="22"/>what kinde of people wee are in our  
+          <lb ed="#S" n="23"/>inwarde heartes, jagged (God wot)  
+          <lb ed="#S" n="24"/>and ragged, vaine, light, and nothing  
+          <lb ed="#S" n="25"/>founde? And a linnen or wollen gar 
+          <lb ed="#S" n="26"/>ment doeth as well cover and become  
+          <lb ed="#S" n="27"/>the bodie, as damaskes and velvets,  
+          <lb ed="#S" n="28"/>the cost whereof doeth overlade thy  
+          <lb ed="#S" n="29"/>purse with expenses to buye them,  
+          <lb ed="#S" n="30"/>and misshape thee like an ill favoured  
+          <lb ed="#S" n="31"/>picture, when thou we arest them up 
+          <lb ed="#S" n="32"/>on thee.  
+          <lb ed="#S" n="33"/>In buildinges God forbiddeth not  
+          <lb ed="#S" n="34"/>cleanlinesse and necessarie cost, but  
+          <lb ed="#S" n="35"/>sumptuous expense, and gorgeous ex 
+          <lb ed="#S" n="36"/>cesse. For these over brave buildings  
+          <lb ed="#S" n="37"/>are selcome times fniished without  
+          <lb ed="#S" n="38"/>extorting wrong, and over great in 
+          <lb ed="#S" n="39"/>jurie done to the poore. Jeremie brin 
+          <lb ed="#S" n="40"/>geth in the Lord speaking against the  
+          <lb ed="#S" n="41"/>king of Juda, and saying: Woe to him  
+          <lb ed="#S" n="42"/>that buildeth his house with unrigh 
+          <lb ed="#S" n="43"/>teousnesse, and his parlour with the  
+          <lb ed="#S" n="44"/>goods that are wrongfully gotten,  
+          <lb ed="#S" n="45"/>which never recompenseth his neigh 
+          <lb ed="#S" n="46"/>bours labour, nor payeth him his  
+          <!--239.xml-->
+          <pb ed="#L" n="239"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>hyre: Who sayth to himselfe, I will  
+          <lb ed="#S" n="48"/>builde mee a wide house and gorge 
+          <lb ed="#S" n="49"/>ous parlours: who causeth windowes  
+          <lb ed="#S" n="50"/>to bee hewen therein, and the fee 
+          <lb ed="#S" n="51"/>linges and joystes maketh hee of Ce 
+          <lb ed="#S" n="52"/>dar, and painteth them with Sinoper.  
+          <lb ed="#S" n="53"/>Thinkest thou to reigne nowe, that  
+          <lb ed="#S" n="54"/>thou hast incloased thy selfe with  
+          <lb ed="#S" n="55"/>Cedar? Did not thy father eate and  
+          <lb ed="#S" n="56"/>drinke and prosper well, as long as  
+          <lb ed="#S" n="57"/>he executed justice and equitie?  
+          <lb ed="#S" n="58"/>Let none of us therefore builde sump 
+          <lb ed="#S" n="59"/>tuous houses, by robbing the poore  
+          <lb ed="#S" n="60"/>of their hyre for their lobour. Let e 
+          <lb ed="#S" n="61"/>verie one dwell in a house agreeable to  
+          <lb ed="#S" n="62"/>his profession, degree, and condition.  
+          <lb ed="#S" n="63"/>S. Hierome condemneth sumptuous  
+          <lb ed="#S" n="64"/>cost even in Churches and Tem 
+          <lb ed="#S" n="65"/>ples. Neither doe I see what gorgeous  
+          <lb ed="#S" n="66"/>buildinges bring to a manne, but  
+          <lb ed="#S" n="67"/>mischiefe and miserie. Lord, howe un 
+          <lb ed="#S" n="68"/>willingly doe wee die and depart from  
+          <lb ed="#S" n="69"/>godly dwellinges, whereby we double  
+          <lb ed="#S" n="70"/>the feare of death and terrour of sick 
+          <lb ed="#S" n="71"/>nesse? The Patriarches verily did  
+          <lb ed="#S" n="72"/>dwell in tentes, whereby they wit 
+          <lb ed="#S" n="73"/>nessed that they were pilgrims, and  
+          <lb ed="#S" n="74"/>fought another countrie, the heaven 
+          <lb ed="#S" n="75"/>ly Hierusalem.  
+          <lb ed="#S" n="76"/>Continencie in meate and drinke  
+          <lb ed="#S" n="77"/>is not the loathing of wine and vic 
+          <lb ed="#S" n="78"/>tualles, but the moderate using of  
+          <lb ed="#S" n="79"/>them, to supplie our necessitie, and  
+          <lb ed="#S" n="80"/>not to cloye us with gluttonie.  
+          <lb ed="#S" n="81"/>God in the Scripture doeth con 
+          <lb ed="#S" n="82"/>demne gluttonie, surfettinges, riot 
+          <lb ed="#S" n="83"/>tous afterbanquettes, and dronken 
+          <lb ed="#S" n="84"/>nesse, which hee forbiddeth most of  
+          <lb ed="#S" n="85"/>all. For of dronkennesse doe spring  
+          <lb ed="#S" n="86"/>endlesse miseries, and innumerable  
+          <lb ed="#S" n="87"/>mischiefes, greevous diseases, pover 
+          <lb ed="#S" n="88"/>tie, and pinching beggarie. Salo 
+          <lb ed="#S" n="89"/>mon saith: Who hath woe? who hath  
+          <lb ed="#S" n="90"/>sorrowe? who hath strife? who hath  
+          <lb ed="#S" n="91"/>brawling? who hath woundes with 
+          <lb ed="#S" n="92"/>out a cause? who hath redde eyes?  
+          <!--240.xml-->
+          <pb ed="#L" n="240"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>even they that followe the wine, and  
+          <lb ed="#S" n="2"/>seeke excess thereof. Lookke not thou  
+          <lb ed="#S" n="3"/>uppon the wine howe redde it is, and  
+          <lb ed="#S" n="4"/>what a colour it giveth in the glasse:  
+          <lb ed="#S" n="5"/>It goeth downe sweetely, but at the  
+          <lb ed="#S" n="6"/>last it biteth like a serpent, and poy 
+          <lb ed="#S" n="7"/>soneth like an adder. I will not re 
+          <lb ed="#S" n="8"/>hease all which I could alleadge out  
+          <lb ed="#S" n="9"/>of heathen writers, against surfetting  
+          <lb ed="#S" n="10"/>and drunkennesse. Solomon alone in  
+          <lb ed="#S" n="11"/>that one sentence conteyneth a great  
+          <lb ed="#S" n="12"/>deale of matter. Moreover, he that  
+          <lb ed="#S" n="13"/>heareth not Christ, whom is it likely  
+          <lb ed="#S" n="14"/>that he will give eare unto, in all the  
+          <lb ed="#S" n="15"/>worlde? Now Christ in the Gospell by  
+          <lb ed="#S" n="16"/>the parable of the rich glutton, doeth  
+          <lb ed="#S" n="17"/>mervaylous evidently set foorth the  
+          <lb ed="#S" n="18"/>wofull end of insatiable paunches. In  
+          <lb ed="#S" n="19"/>the same Gospell also he taketh occa 
+          <lb ed="#S" n="20"/>sion to touch the surfettings and dron 
+          <lb ed="#S" n="21"/>kennesse of our age, I meane the age  
+          <lb ed="#S" n="22"/>which is immediatly before ye Judge 
+          <lb ed="#S" n="23"/>ment day, where he saieth: As it hap 
+          <lb ed="#S" n="24"/>pened in the dayes of Noe and Lot,  
+          <lb ed="#S" n="25"/>they did eate and drinke even untill  
+          <lb ed="#S" n="26"/>the day that Noe entred into the arke  
+          <lb ed="#S" n="27"/>and that Lot departed from amonge  
+          <lb ed="#S" n="28"/>the Sodomits: and then inncontinent 
+          <lb ed="#S" n="29"/>ly the dluge came, and fire and brim 
+          <lb ed="#S" n="30"/>stone powred downe from heaven,  
+          <lb ed="#S" n="31"/>and destroyed them all. Againe he ad 
+          <lb ed="#S" n="32"/>deth: Take heede to your selves least  
+          <lb ed="#S" n="33"/>at anie time your heartes be overcome  
+          <lb ed="#S" n="34"/>with surfetting and drunkennesse, and  
+          <lb ed="#S" n="35"/>cares of this life, and so that day come  
+          <lb ed="#S" n="36"/>upon you at unawares. For as a snare  
+          <lb ed="#S" n="37"/>shall it come upon all them that dwell  
+          <lb ed="#S" n="38"/>uppon the face of the whole earth.  
+          <lb ed="#S" n="39"/>Watch ye therefore, at all times pray 
+          <lb ed="#S" n="40"/>ing, that ye may escape all these things  
+          <lb ed="#S" n="41"/>and stande before the sonne of man.  
+          <lb ed="#S" n="42"/>And I would to God ye all men would  
+          <lb ed="#S" n="43"/>not write this golden, heavenly, and  
+          <lb ed="#S" n="44"/>divine admonition of our Savior in  
+          <lb ed="#S" n="45"/>their halles, and dining parlours on 
+          <lb ed="#S" n="46"/>ly, but in their severall heartes also.  
+          <!--240.xml-->
+          <pb ed="#L" n="240"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>For since dronkennesse hath in these  
+          <lb ed="#S" n="48"/>our dayes so good intertainment with  
+          <lb ed="#S" n="49"/>all degrees, estates, kindes, and ages,  
+          <lb ed="#S" n="50"/>we doe daily feele the wofull miseries,  
+          <lb ed="#S" n="51"/>that God doth threaten to dronkards  
+          <lb ed="#S" n="52"/>in the 5. and 28. cap. of Esaies Prophe 
+          <lb ed="#S" n="53"/>cie. And it is to be feared greatly, that  
+          <lb ed="#S" n="54"/>the day of the Lord shall sobeinly light  
+          <lb ed="#S" n="55"/>uppon an innumerable fort of dron 
+          <lb ed="#S" n="56"/>kardes to their endlesse paine and ut 
+          <lb ed="#S" n="57"/>ter destruction. Let him heare there 
+          <lb ed="#S" n="58"/>fore, which hath eares to heare.  
+          <lb ed="#S" n="59"/>Neither can I heere refraine, but  
+          <lb ed="#S" n="60"/>needes must recite unto you (dearely  
+          <lb ed="#S" n="61"/>beloved) that which S. Martine ye bi 
+          <lb ed="#S" n="62"/>shop, not of Tours in Fraunce, but of  
+          <lb ed="#S" n="63"/>Dumia in Germanie, who flourished  
+          <lb ed="#S" n="64"/>in ye daies of Justinian the Emperour,  
+          <lb ed="#S" n="65"/>did write to Miro kinge of Gallicia  
+          <lb ed="#S" n="66"/>touching ye ordering and leading a co 
+          <lb ed="#S" n="67"/>tinent life. If (saith he) thou dost love  
+          <lb ed="#S" n="68"/>continencie, cut off superfluitie, and  
+          <lb ed="#S" n="69"/>keepe under thine appetite. Consider  
+          <lb ed="#S" n="70"/>with thy selfe howe much nature re 
+          <lb ed="#S" n="71"/>quireth, and not howe must lust desi 
+          <lb ed="#S" n="72"/>reth. Bridle thy cocupiscnece, and cast  
+          <lb ed="#S" n="73"/>off the alluring baytes that serve to  
+          <lb ed="#S" n="74"/>drawe on hidden pleasures. Eate with 
+          <lb ed="#S" n="75"/>out undigested surfetting, and drinke  
+          <lb ed="#S" n="76"/>without dronkennesse. Neither glut  
+          <lb ed="#S" n="77"/>thy selfe with present delicates, nor  
+          <lb ed="#S" n="78"/>long after deintrelles hard to be come  
+          <lb ed="#S" n="79"/>bye. Let thy dyet bee of cates good  
+          <lb ed="#S" n="80"/>cheape, and sit not downe for pleasure  
+          <lb ed="#S" n="81"/>but for meate. Let hunger, not sauces  
+          <lb ed="#S" n="82"/>provoke thee to eate. Pay but little  
+          <lb ed="#S" n="83"/>for pastimes to delight thee, because  
+          <lb ed="#S" n="84"/>thy onely care should be to leave such  
+          <lb ed="#S" n="85"/>pleasures, that thereby thou in fashio 
+          <lb ed="#S" n="86"/>ning thy selfe to the example of God,  
+          <lb ed="#S" n="87"/>mayest, as much as thou canst, make  
+          <lb ed="#S" n="88"/>haste to reduce thy selfe from the bo 
+          <lb ed="#S" n="89"/>die to the spirite. If thou lovest con 
+          <lb ed="#S" n="90"/>tinencie, then choose not a pleasaunt,  
+          <lb ed="#S" n="91"/>but a wholesome dwelling place, and  
+          <lb ed="#S" n="92"/>make not the Lorde to be knowen by  
+          <!--241.xml-->
+          <pb ed="#L" n="241"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>the gorgeous house, but the house by  
+          <lb ed="#S" n="2"/>the honest landlord. Boast not thy  
+          <lb ed="#S" n="3"/>selfe of that which thou hast not, nor  
+          <lb ed="#S" n="4"/>that which thou hast, neither covet to  
+          <lb ed="#S" n="5"/>seeme more than thou art. But rather,  
+          <lb ed="#S" n="6"/>take heede that thy poverty be not un 
+          <lb ed="#S" n="7"/>cleanly, nor thy niggishnesse filthy, nor  
+          <lb ed="#S" n="8"/>thy simplicitie contemptible, nor thy  
+          <lb ed="#S" n="9"/>lenity fearefull. and though thy estate  
+          <lb ed="#S" n="10"/>be poore, yet let it not be in extreeme  
+          <lb ed="#S" n="11"/>miserie. Neither be out of love with  
+          <lb ed="#S" n="12"/>thine owne degree, not with after the  
+          <lb ed="#S" n="13"/>estate of another mans life. If thou  
+          <lb ed="#S" n="14"/>lovest continencie, avoide dishonest  
+          <lb ed="#S" n="15"/>thinges before they happen: and feare  
+          <lb ed="#S" n="16"/>no man above thine owne conscience.  
+          <lb ed="#S" n="17"/>Thinke that all things are tollerable,  
+          <lb ed="#S" n="18"/>dishonestie excepted. Absteine from  
+          <lb ed="#S" n="19"/>filthie talke, the libertie wherof doeth  
+          <lb ed="#S" n="20"/>nourish unshamefastnesse. Love rather  
+          <lb ed="#S" n="21"/>profitable communication, than mer 
+          <lb ed="#S" n="22"/>rie conceites, or pleasaunt talke: and  
+          <lb ed="#S" n="23"/>set more by the blunt spoken trueth,  
+          <lb ed="#S" n="24"/>than by faire soothing speeches. Thou  
+          <lb ed="#S" n="25"/>maiest sometime mingle mirth with  
+          <lb ed="#S" n="26"/>matters of weight, but it must bee  
+          <lb ed="#S" n="27"/>doone moderately without the hurt  
+          <lb ed="#S" n="28"/>or detriment of thine estate and gra 
+          <lb ed="#S" n="29"/>vitie, For rLaughter is blame-worthy if  
+          <lb ed="#S" n="30"/>it be immoderately used, childishly  
+          <lb ed="#S" n="31"/>squeaked, or taken up by fittes as wo 
+          <lb ed="#S" n="32"/>men are wont to doe. Esteeme not sau 
+          <lb ed="#S" n="33"/>cie scoffing, but civill mirth with cur 
+          <lb ed="#S" n="34"/>teous humanitie. Let thy conceites of  
+          <lb ed="#S" n="35"/>mitth be without byting, thy sportes  
+          <lb ed="#S" n="36"/>not without profite, thy laughter  
+          <lb ed="#S" n="37"/>without unseemely writhing of thy  
+          <lb ed="#S" n="38"/>mouth and visage, thy voyce without  
+          <lb ed="#S" n="39"/>schriking, and thy pace in going with 
+          <lb ed="#S" n="40"/>out hastie shuffling. Let not thy rest  
+          <lb ed="#S" n="41"/>be idlenesse. And when other plaie,  
+          <lb ed="#S" n="42"/>take thou some holie and honest thing  
+          <lb ed="#S" n="43"/>in hand. If thou art content, take  
+          <lb ed="#S" n="44"/>heede of flatterie, and let it greeve thee  
+          <lb ed="#S" n="45"/>as much to bee praised of naughtie  
+          <lb ed="#S" n="46"/>men, as if thou were praised for thine  
+          <!--241.xml-->
+          <pb ed="#L" n="241"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>owne naughtie deedes. Bee the glad 
+          <lb ed="#S" n="48"/>der for it, if thou displeasest evil men,  
+          <lb ed="#S" n="49"/>and impute the evill opinions, which  
+          <lb ed="#S" n="50"/>naughtie men have of thee: for the  
+          <lb ed="#S" n="51"/>best praise that can be given thee. The  
+          <lb ed="#S" n="52"/>hardest worke of continencie, is, to  
+          <lb ed="#S" n="53"/>put away the soothing couresies of  
+          <lb ed="#S" n="54"/>dissembling flatterers, whose faw 
+          <lb ed="#S" n="55"/>ning wordes undoe the minde with  
+          <lb ed="#S" n="56"/>pleasant sensualitie. Presume not too  
+          <lb ed="#S" n="57"/>much upon thy selfe, neither bee thou  
+          <lb ed="#S" n="58"/>arrogant. Submit thy selfe so farre as  
+          <lb ed="#S" n="59"/>thou maiest keepe thy gravitie, and  
+          <lb ed="#S" n="60"/>yet make not thy selfe a footestoole  
+          <lb ed="#S" n="61"/>or cushen for everie man to leane on.  
+          <lb ed="#S" n="62"/>Be tolde of thy faultes willingly, and  
+          <lb ed="#S" n="63"/>suffer thy selfe gladly to be reprehen 
+          <lb ed="#S" n="64"/>ded, If anie man for a cause be angrie  
+          <lb ed="#S" n="65"/>with, and childe thee, acknowledge  
+          <lb ed="#S" n="66"/>thy fault, and let his chiding profite  
+          <lb ed="#S" n="67"/>thee. But if he chide thee without a 
+          <lb ed="#S" n="68"/>nie cause, thinke that thereby he would  
+          <lb ed="#S" n="69"/>have profited thee. Feare not sharpe  
+          <lb ed="#S" n="70"/>but sugred wordes. Doe thou thy selfe  
+          <lb ed="#S" n="71"/>eschue all fortes of vices, and bee not  
+          <lb ed="#S" n="72"/>an over busie searcher out of other  
+          <lb ed="#S" n="73"/>mens faultes, bee thou no sharpefault  
+          <lb ed="#S" n="74"/>finder, but an admonisher without  
+          <lb ed="#S" n="75"/>upbraiding, so that still thy warning  
+          <lb ed="#S" n="76"/>may beare the shewe of chearefull  
+          <lb ed="#S" n="77"/>mirth: and condiscent easily to par 
+          <lb ed="#S" n="78"/>don the errour. Neither praise nor  
+          <lb ed="#S" n="79"/>dispraise anie man overmuch. Be still  
+          <lb ed="#S" n="80"/>and give eare to them that speake, and  
+          <lb ed="#S" n="81"/>be readie to instruct them that doe  
+          <lb ed="#S" n="82"/>hearken: to him taht asketh give a  
+          <lb ed="#S" n="83"/>readie aunsweare, to him that despi 
+          <lb ed="#S" n="84"/>seth thee give place easily, and fall not  
+          <lb ed="#S" n="85"/>out to chiding and cursing. If thou  
+          <lb ed="#S" n="86"/>art continent, have an eye to the mo 
+          <lb ed="#S" n="87"/>tions of thy bodie and minde that they  
+          <lb ed="#S" n="88"/>be not unseemely: and set not light by  
+          <lb ed="#S" n="89"/>them, because no bodie seeth them:  
+          <lb ed="#S" n="90"/>For it maketh no matter if no bodie  
+          <lb ed="#S" n="91"/>see them, so thou thy selfe doest spie  
+          <lb ed="#S" n="92"/>and perceive them. Be mooveable not  
+          <!--242.xml-->
+          <pb ed="#L" n="242"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>light, constant, not stubborne. Bee  
+          <lb ed="#S" n="2"/>liberall to all men, fawning on no  
+          <lb ed="#S" n="3"/>man: familiar with fewe, and upright  
+          <lb ed="#S" n="4"/>to everie one. Beleeve not lightly e 
+          <lb ed="#S" n="5"/>verie rumour, accusation, or concei 
+          <lb ed="#S" n="6"/>ved suspicion. Despise vaine glorie,  
+          <lb ed="#S" n="7"/>and bee no sharpe exactour of the  
+          <lb ed="#S" n="8"/>goods that thou hast. Use fewe  
+          <lb ed="#S" n="9"/>wordes thy selfe, but suffer them that  
+          <lb ed="#S" n="10"/>speake. Bee grave, not rough, nor  
+          <lb ed="#S" n="11"/>contemning the merrie nature. Bee  
+          <lb ed="#S" n="12"/>desirous and appliable to bee taught  
+          <lb ed="#S" n="13"/>wisedome, imparte what thou kno 
+          <lb ed="#S" n="14"/>west to him taht demaundeth without  
+          <lb ed="#S" n="15"/>anie arrogancie, and desire to learne  
+          <lb ed="#S" n="16"/>the things that thou knowest not,  
+          <lb ed="#S" n="17"/>without hiding thine ignoraunce.  
+          <lb ed="#S" n="18"/>A wise man will not chaunge his  
+          <lb ed="#S" n="19"/>common countrie fashion, not make  
+          <lb ed="#S" n="20"/>the people gaze on him with newe  
+          <lb ed="#S" n="21"/>found devises. Thus much have I  
+          <lb ed="#S" n="22"/>hitherto recited touching continencie,  
+          <lb ed="#S" n="23"/>out of the writings of the blessed Bi 
+          <lb ed="#S" n="24"/>shoppe Martine of Dumia. Wee for  
+          <lb ed="#S" n="25"/>our partes must pray to the Lorde,  
+          <lb ed="#S" n="26"/>that hee will vouchsafe to bestow on  
+          <lb ed="#S" n="27"/>us his holie spirite, by which the force  
+          <lb ed="#S" n="28"/>of continencie in all things may take  
+          <lb ed="#S" n="29"/>roote in our hearts, to the bringing  
+          <lb ed="#S" n="30"/>foorth of fruite in our deedes, agreea 
+          <lb ed="#S" n="31"/>ble to the prescript rule of this com 
+          <lb ed="#S" n="32"/>maunded continencie. For unlesse the  
+          <lb ed="#S" n="33"/>holy ghost doe quicken and inspire us,  
+          <lb ed="#S" n="34"/>we doe in vaine give eare to so many  
+          <lb ed="#S" n="35"/>and so good commaundements, and  
+          <lb ed="#S" n="36"/>unlesse we live and leade a temperate  
+          <lb ed="#S" n="37"/>and a sober live, wee are utterly un 
+          <lb ed="#S" n="38"/>worthie to beare the name of Chri 
+          <lb ed="#S" n="39"/>stians.  
+          <lb ed="#S" n="40"/>To this place also doth the treatise  
+          <lb ed="#S" n="41"/>of fasting belong, which I meane to  
+          <lb ed="#S" n="42"/>handle in as fewe wordes, as conve 
+          <lb ed="#S" n="43"/>niently can be: Christian fasting is a  
+          <lb ed="#S" n="44"/>discipline, ordering and chastening of  
+          <lb ed="#S" n="45"/>the bodie for the present necessitie,  
+          <lb ed="#S" n="46"/>which wee beginne and keepe of our  
+          <!--242.xml-->
+          <pb ed="#L" n="242"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>owne accord without compulsion, and  
+          <lb ed="#S" n="48"/>wherewith we humble our selfes in  
+          <lb ed="#S" n="49"/>the fight of God, by drawing from the  
+          <lb ed="#S" n="50"/>bodie the matter that setteth the sieth  
+          <lb ed="#S" n="51"/>on fire, therby to make it obey the spi 
+          <lb ed="#S" n="52"/>rite. For so long as we mortall men  
+          <lb ed="#S" n="53"/>do live in this bodie, the flesh doth still  
+          <lb ed="#S" n="54"/>resist the spirite, and most of all rebel 
+          <lb ed="#S" n="55"/>leth then, when we  with delicates doe  
+          <lb ed="#S" n="56"/>pamper the bodie. Wherefore fasting  
+          <lb ed="#S" n="57"/>doth draw from the bodie everie evil.  
+          <lb ed="#S" n="58"/>which stirreth up and strengtheneth it  
+          <lb ed="#S" n="59"/>against the good commaundements of  
+          <lb ed="#S" n="60"/>Gods holie spirite.  
+          <lb ed="#S" n="61"/>Now the necessitie, for which wee  
+          <lb ed="#S" n="62"/>keepe this fasting, is of two fortes,  
+          <lb ed="#S" n="63"/>publique and private. Wee fast for  
+          <lb ed="#S" n="64"/>the publique or common necessitie,  
+          <lb ed="#S" n="65"/>when some calamitie doeth either op 
+          <lb ed="#S" n="66"/>presse or else hang over the head of  
+          <lb ed="#S" n="67"/>the Church. Oh such a manner of fa 
+          <lb ed="#S" n="68"/>sting we see examples in the 2 chap. of  
+          <lb ed="#S" n="69"/>Joel, and in the 3. of Jonas his prophe 
+          <lb ed="#S" n="70"/>cie: which verie same order in fasting  
+          <lb ed="#S" n="71"/>was used in the time of our Lord A 
+          <lb ed="#S" n="72"/>postles: as it is evidently extant in the  
+          <lb ed="#S" n="73"/>Acts of the Apostle. And this kinde  
+          <lb ed="#S" n="74"/>of fasting doth seeme to have differed  
+          <lb ed="#S" n="75"/>verie little among them of olde, from  
+          <lb ed="#S" n="76"/>a generall mourning: yea it seemeth  
+          <lb ed="#S" n="77"/>altogether to have beene nothing else,  
+          <lb ed="#S" n="78"/>but a kind of lamenting. In the scrip 
+          <lb ed="#S" n="79"/>tures every booke is full of examples,  
+          <lb ed="#S" n="80"/>which teach and instruct as howe the  
+          <lb ed="#S" n="81"/>holy Saints did humble themselves in  
+          <lb ed="#S" n="82"/>the fight of God with true repentance  
+          <lb ed="#S" n="83"/>for their sinnes and offences. Private  
+          <lb ed="#S" n="84"/>necessitie is that for which everie par 
+          <lb ed="#S" n="85"/>ticular man doth fast when hee feeleth  
+          <lb ed="#S" n="86"/>himselfe to be vexed with bodily con 
+          <lb ed="#S" n="87"/>cupiscence, that thereby hee may take  
+          <lb ed="#S" n="88"/>from the flesh the flame and fewell,  
+          <lb ed="#S" n="89"/>least the body at last be fixed and bur 
+          <lb ed="#S" n="90"/>ned. For the Lord in the Gospel saide,  
+          <lb ed="#S" n="91"/>that the children of the bride chamber  
+          <lb ed="#S" n="92"/>do fast when the bridegroome is taken  
+          <!--243.xml-->
+          <pb ed="#L" n="243"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>from them, that is, in a hard and dan 
+          <lb ed="#S" n="2"/>gerous time. The marriage doth sig 
+          <lb ed="#S" n="3"/>nifie the bond whereby we are knit to  
+          <lb ed="#S" n="4"/>Christ in saith, and the holy Ghost.  
+          <lb ed="#S" n="5"/>This yet not withstanding, the godlie  
+          <lb ed="#S" n="6"/>man doth still rejoyce. Hee doth with  
+          <lb ed="#S" n="7"/>giving of thankes, and temperancie  
+          <lb ed="#S" n="8"/>both eate and drinke so much as is suf 
+          <lb ed="#S" n="9"/>ficient, and is delighted also in these  
+          <lb ed="#S" n="10"/>externall giftes of God: but when hee  
+          <lb ed="#S" n="11"/>feeleth that the bridegroome is readie  
+          <lb ed="#S" n="12"/>for to depart, or that he is nowe al 
+          <lb ed="#S" n="13"/>readie almost departed out of his  
+          <lb ed="#S" n="14"/>heart, that is, when hee feeleth that  
+          <lb ed="#S" n="15"/>the spirit is extinguished by the fleshes  
+          <lb ed="#S" n="16"/>wantonnesse, and that sayth doth  
+          <lb ed="#S" n="17"/>once beginne to be colde, then doth hee  
+          <lb ed="#S" n="18"/>settle himselfe to prayer and doeth ap 
+          <lb ed="#S" n="19"/>point a solemne fasting, thereby ei 
+          <lb ed="#S" n="20"/>ther to keepe the bridegroome still, or  
+          <lb ed="#S" n="21"/>else to pull him backe being readie to  
+          <lb ed="#S" n="22"/>departe.  
+          <lb ed="#S" n="23"/>But neither publique nor private  
+          <lb ed="#S" n="24"/>fasting can abide to be enforced. For  
+          <lb ed="#S" n="25"/>they will not be compelled, but desire  
+          <lb ed="#S" n="26"/>to proceede of a free, theerefull, and  
+          <lb ed="#S" n="27"/>voluntarie minde. Unwilling men  
+          <lb ed="#S" n="28"/>doe nothing well. God requireth a  
+          <lb ed="#S" n="29"/>chearefull giver. Moreover, let fa 
+          <lb ed="#S" n="30"/>stings be moderated according to the  
+          <lb ed="#S" n="31"/>qualitie of places, persons, perils, and  
+          <lb ed="#S" n="32"/>temptations: if they be not continual,  
+          <lb ed="#S" n="33"/>yet let them be often, till such time as  
+          <lb ed="#S" n="34"/>we be delivered and ridde utterly of  
+          <lb ed="#S" n="35"/>them. Let them be without supersti 
+          <lb ed="#S" n="36"/>tion and fained hypocrise as our Lord  
+          <lb ed="#S" n="37"/>in the first of S. Mathewes Gospell  
+          <lb ed="#S" n="38"/>hath taught us. Herewithall doe the  
+          <lb ed="#S" n="39"/>wordes of S. Hierome agree very wel,  
+          <lb ed="#S" n="40"/>which he wrote to Nepolianus tou 
+          <lb ed="#S" n="41"/>ching fasting, as followeth, Prescribe  
+          <lb ed="#S" n="42"/>to thy selfe so long a time to fast in, as  
+          <lb ed="#S" n="43"/>thine abilitie will suffer thee to beare.  
+          <lb ed="#S" n="44"/>Let thy fastings be pure, uncorrupt,  
+          <lb ed="#S" n="45"/>simple, moderated, and not super 
+          <lb ed="#S" n="46"/>stitious. What availeth it to eate no  
+          <!--243.xml-->
+          <pb ed="#L" n="243"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>oyle, and to seeke out such seldome  
+          <lb ed="#S" n="48"/>fond cates, as are harde to bee come  
+          <lb ed="#S" n="49"/>by, as figges, pepper, nuttes, dates,  
+          <lb ed="#S" n="50"/>pure flowre for overfine breade, and  
+          <lb ed="#S" n="51"/>honie? The gardens with digging  
+          <lb ed="#S" n="52"/>for novelties, are turned over and  
+          <lb ed="#S" n="53"/>over, beacuse wee will not eate  
+          <lb ed="#S" n="54"/>common cribble breade, and so while  
+          <lb ed="#S" n="55"/>our daintie mouthes seeke after deli 
+          <lb ed="#S" n="56"/>cates, our soules are pulled from  
+          <lb ed="#S" n="57"/>the kingdome of Heaven. I heare  
+          <lb ed="#S" n="58"/>moreover, that some men there are,  
+          <lb ed="#S" n="59"/>which (contrarie to nature) refuse to  
+          <lb ed="#S" n="60"/>drinke water and feede upon breade,  
+          <lb ed="#S" n="61"/>but sucke uppe and swallowe verie  
+          <lb ed="#S" n="62"/>costly suppings, daintie hearbe  
+          <lb ed="#S" n="63"/>broths, and the juce of Beetes, not out  
+          <lb ed="#S" n="64"/>of a cup, but out of a shell. O shame,  
+          <lb ed="#S" n="65"/>blush we not at such fond toyes, and  
+          <lb ed="#S" n="66"/>are wee not ashamed of such supersti 
+          <lb ed="#S" n="67"/>tion? Thus much sayeth Hierome,  
+          <lb ed="#S" n="68"/>And it is evident, that even at this  
+          <lb ed="#S" n="69"/>day this vice is especially received a 
+          <lb ed="#S" n="70"/>mong our wealthie and religious  
+          <lb ed="#S" n="71"/>men.  
+          <lb ed="#S" n="72"/>But the end of Christian fastings,  
+          <lb ed="#S" n="73"/>are, that the Church, or sinner shoulde  
+          <lb ed="#S" n="74"/>submitte and humble them selves be 
+          <lb ed="#S" n="75"/>fore the Lord, that the flesh would be  
+          <lb ed="#S" n="76"/>obedient and subject to the spirite, that  
+          <lb ed="#S" n="77"/>the flesh should not hinder the sinner  
+          <lb ed="#S" n="78"/>to worke righteousnesse, and that the  
+          <lb ed="#S" n="79"/>intent and minde of him that prayeth  
+          <lb ed="#S" n="80"/>shoulde bee the more earnestly bent  
+          <lb ed="#S" n="81"/>toward God. For fasting is of the  
+          <lb ed="#S" n="82"/>number of those workes, which of  
+          <lb ed="#S" n="83"/>themselves are not absolute and per 
+          <lb ed="#S" n="84"/>feit, but have an other meaning, for  
+          <lb ed="#S" n="85"/>which they are ordained to an other  
+          <lb ed="#S" n="86"/>ende and purpose: therefore fasting  
+          <lb ed="#S" n="87"/>is a certaine helpe to the prayers  
+          <lb ed="#S" n="88"/>and vertues of godly men Where 
+          <lb ed="#S" n="89"/>uppon in the Prophetes wee finde,  
+          <lb ed="#S" n="90"/>that the fastings of the Jewes dis 
+          <lb ed="#S" n="91"/>pleased the Lorde: for they did naught  
+          <lb ed="#S" n="92"/>else but fast alone, that is, they did at  
+          <!--244.xml-->
+          <pb ed="#L" n="244"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>a certaine and appointed time abstain  
+          <lb ed="#S" n="2"/>from their usuall maner of eating, but  
+          <lb ed="#S" n="3"/>they restrained not themselves from  
+          <lb ed="#S" n="4"/>sinne and wickednesse, but let their  
+          <lb ed="#S" n="5"/>flesh have the bridle at will, when as  
+          <lb ed="#S" n="6"/>in deede they shoulde have ceassed to  
+          <lb ed="#S" n="7"/>have pampered it, that thereby it be 
+          <lb ed="#S" n="8"/>ing the weaker, the spirite might be:  
+          <lb ed="#S" n="9"/>the stronger to doe and fulfill all sort  
+          <lb ed="#S" n="10"/>of good workes. And therefore, saith  
+          <lb ed="#S" n="11"/>the Lorde: I have not chosen such a  
+          <lb ed="#S" n="12"/>manner of faiting: and the rest as it  
+          <lb ed="#S" n="13"/>foloweth in the 58. chapter of Elaye,  
+          <lb ed="#S" n="14"/>and in the 7. and 8. chapters of Zacha 
+          <lb ed="#S" n="15"/>ries prophecie.  
+          <lb ed="#S" n="16"/>The Apostle Paul verily doth ex 
+          <lb ed="#S" n="17"/>pressly say, that MEate commendeth us  
+          <lb ed="#S" n="18"/>not to God: for neither if wee eate  
+          <lb ed="#S" n="19"/>have wee anie thing the more, neither  
+          <lb ed="#S" n="20"/>if we eate not have we anie thing the  
+          <lb ed="#S" n="21"/>lesse. He therefore doth not fast truely,  
+          <lb ed="#S" n="22"/>which doth abstaine onely at a cer 
+          <lb ed="#S" n="23"/>taine appointed time from certaine  
+          <lb ed="#S" n="24"/>manner of meates, but he which doth  
+          <lb ed="#S" n="25"/>therefore refraine from the pleasures  
+          <lb ed="#S" n="26"/>of the flesh, that thereby hee may make  
+          <lb ed="#S" n="27"/>it subject to the spirit, &amp; do the workes  
+          <lb ed="#S" n="28"/>of faith and charitie, which are accep 
+          <lb ed="#S" n="29"/>table in the sight of the Lord. If there 
+          <lb ed="#S" n="30"/>fore thou doest desire to fast a true  
+          <lb ed="#S" n="31"/>fast, eate, drinke, and sleepe, and take  
+          <lb ed="#S" n="32"/>heede to thy bodie that it waxe not in 
+          <lb ed="#S" n="33"/>solent, fast from all sinne, eate not the  
+          <lb ed="#S" n="34"/>meate of malice, taste not the juncats  
+          <lb ed="#S" n="35"/>of lust and pleasure, and bee not set on  
+          <lb ed="#S" n="36"/>fire with the wine of wantonnesse.  
+          <lb ed="#S" n="37"/>Fast from evill deedes, abstaine from  
+          <lb ed="#S" n="38"/>evill wordes, and refraine thy selfe  
+          <lb ed="#S" n="39"/>from naughtie thoughts. For Basile  
+          <lb ed="#S" n="40"/>also saith: True fasting consisteth in  
+          <lb ed="#S" n="41"/>freenesse from vices, in continencie of  
+          <lb ed="#S" n="42"/>tongue, in suppressing of anger, in  
+          <lb ed="#S" n="43"/>cutting off concupiscence, backbiting,  
+          <lb ed="#S" n="44"/>lying, and perjurie, &amp;c. But even as  
+          <lb ed="#S" n="45"/>the good workes from selves, which  
+          <lb ed="#S" n="46"/>are done by faith, doe not merite the  
+          <!--244.xml-->
+          <pb ed="#L" n="244"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>kingdome of heaven (for that glory is  
+          <lb ed="#S" n="48"/>due to the merite of Christ alone) e 
+          <lb ed="#S" n="49"/>ven so fasting, which is an aide and  
+          <lb ed="#S" n="50"/>helpe to good workes, doth not meri 
+          <lb ed="#S" n="51"/>toriously deserve the kingdome of  
+          <lb ed="#S" n="52"/>God.  
+          <lb ed="#S" n="53"/>But now I see a doubtfull disputa 
+          <lb ed="#S" n="54"/>tion arise among the most divines of  
+          <lb ed="#S" n="55"/>this our age, touching the time and  
+          <lb ed="#S" n="56"/>manner of fastings, and also of ye choice  
+          <lb ed="#S" n="57"/>of meates. Some there are which af 
+          <lb ed="#S" n="58"/>firme and upholde the fastes of Lent,  
+          <lb ed="#S" n="59"/>the embring dayes and such other to  
+          <lb ed="#S" n="60"/>be the fastes which God hath appoin 
+          <lb ed="#S" n="61"/>ted. There are that say thou hast not  
+          <lb ed="#S" n="62"/>fasted, if by any meanes thou tast anie  
+          <lb ed="#S" n="63"/>flesh. And their are, which prescribe  
+          <lb ed="#S" n="64"/>and appoint some certaine houres to  
+          <lb ed="#S" n="65"/>fast in. But I for my part see not a 
+          <lb ed="#S" n="66"/>nie such doctrines to bee taught us in  
+          <lb ed="#S" n="67"/>the Scriptures. For the Lord in the  
+          <lb ed="#S" n="68"/>Gospell kept not any of their devised  
+          <lb ed="#S" n="69"/>fasts, when hee fasted fourtie dayes,  
+          <lb ed="#S" n="70"/>but did altogether abstaine from all  
+          <lb ed="#S" n="71"/>kinds of meate, even as Moses and  
+          <lb ed="#S" n="72"/>Helias had also done: wherefore hee  
+          <lb ed="#S" n="73"/>by taht deede of his, did not give us a 
+          <lb ed="#S" n="74"/>ny law to fast so. Moreover the Lorde  
+          <lb ed="#S" n="75"/>in the gospell doeth evidently teach,  
+          <lb ed="#S" n="76"/>that the thing, which entreth in by the  
+          <lb ed="#S" n="77"/>mouth, doth not defile the ma, but that  
+          <lb ed="#S" n="78"/>which issueth out from his heart. To  
+          <lb ed="#S" n="79"/>the pure are all thinges pure. And  
+          <lb ed="#S" n="80"/>Paul saith: I know, and am perswaded  
+          <lb ed="#S" n="81"/>through the Lorde Jesus Christ, that  
+          <lb ed="#S" n="82"/>nothing is common of it selfe, but to  
+          <lb ed="#S" n="83"/>him that thinketh that anie thing is  
+          <lb ed="#S" n="84"/>common, to him is it common. Again,  
+          <lb ed="#S" n="85"/>Let not him which eateth, despise  
+          <lb ed="#S" n="86"/>him which eateth not, nor let him  
+          <lb ed="#S" n="87"/>which eateth not, judge him which  
+          <lb ed="#S" n="88"/>eateth: for him taht eateth the Lorde  
+          <lb ed="#S" n="89"/>hath taken. Moreover the place is e 
+          <lb ed="#S" n="90"/>vident which the same Paul writeth  
+          <lb ed="#S" n="91"/>in the fourth chapter of his Epistle to  
+          <lb ed="#S" n="92"/>Timothie, where hee affirmeth, that  
+          <!--245.xml-->
+          <pb ed="#L" n="245"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>the forbidding of meates is a doctrine  
+          <lb ed="#S" n="2"/>of devils. Neither needeth anie man  
+          <lb ed="#S" n="3"/>here to tell us any whit of the Tacians  
+          <lb ed="#S" n="4"/>and Encratites: for they did flaunder  
+          <lb ed="#S" n="5"/>the good creatures of God. Paul spea 
+          <lb ed="#S" n="6"/>keth of them, who, although they doe  
+          <lb ed="#S" n="7"/>not utterly condeme meate and ma 
+          <lb ed="#S" n="8"/>riage doe yet notwithstanding forbid  
+          <lb ed="#S" n="9"/>the use of meate.  
+          <lb ed="#S" n="10"/>Furthermore we doe not read that  
+          <lb ed="#S" n="11"/>any lawes were ordeyned in that age  
+          <lb ed="#S" n="12"/>which followeth next after the prea 
+          <lb ed="#S" n="13"/>ching of the Apostles, which did com 
+          <lb ed="#S" n="14"/>maund and prescribe any time and or 
+          <lb ed="#S" n="15"/>der of fasting, or choise of meates. I  
+          <lb ed="#S" n="16"/>will rehearse unto you (dearely belo 
+          <lb ed="#S" n="17"/>ved) the wordes of Irenaeus the mar 
+          <lb ed="#S" n="18"/>tyre, which in the Ecclesiasticall histo 
+          <lb ed="#S" n="19"/>rie of Eusebius, are to be found worde  
+          <lb ed="#S" n="20"/>for worde as they are here set downe.  
+          <lb ed="#S" n="21"/>The ocntroversie is not onely tou 
+          <lb ed="#S" n="22"/>ching Easter day, but also touching  
+          <lb ed="#S" n="23"/>the manner of fasting. For some doe  
+          <lb ed="#S" n="24"/>thinke that the fast ought to be kept  
+          <lb ed="#S" n="25"/>but one day onely, other two, other  
+          <lb ed="#S" n="26"/>more, and some whoale 4.0 dayes, so  
+          <lb ed="#S" n="27"/>that counting the houres of the night  
+          <lb ed="#S" n="28"/>and day, they make a day. Which dif 
+          <lb ed="#S" n="29"/>ference of observing the times, is not  
+          <lb ed="#S" n="30"/>nowe first of all in our age begon, but  
+          <lb ed="#S" n="31"/>was brought in a greate while agoe (as  
+          <lb ed="#S" n="32"/>I suppose) of them which did not sim 
+          <lb ed="#S" n="33"/>ply keepe that, which was taught from  
+          <lb ed="#S" n="34"/>the beginning, but eyther by negli 
+          <lb ed="#S" n="35"/>gence or unskilfulnesse fell afterwarde  
+          <lb ed="#S" n="36"/>into a worser use and custome. And  
+          <lb ed="#S" n="37"/>yet notwithstanding, all these though  
+          <lb ed="#S" n="38"/>they jarred in the observation of times,  
+          <lb ed="#S" n="39"/>were neverthelesse and are agreea 
+          <lb ed="#S" n="40"/>ble with us, neyther hath the discorde  
+          <lb ed="#S" n="41"/>about fasting, broake our concorde in  
+          <lb ed="#S" n="42"/>faith. Thus much Irenaeus. Moreo 
+          <lb ed="#S" n="43"/>ver, Socrates Constantinopolitanus in  
+          <lb ed="#S" n="44"/>the 9. booke and 18. Chapter of his tri 
+          <lb ed="#S" n="45"/>partite historie witnesseth, that about  
+          <lb ed="#S" n="46"/>the yeare of our Lorde 453. in the  
+          <!--245.xml-->
+          <pb ed="#L" n="245"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="47"/>reigne of Theodosius the younger, the  
+          <lb ed="#S" n="48"/>same diversitie was in the Church,  
+          <lb ed="#S" n="49"/>and setteth it downe in these wordes  
+          <lb ed="#S" n="50"/>following: Furthermore they have  
+          <lb ed="#S" n="51"/>not the same kinde of abstinence from  
+          <lb ed="#S" n="52"/>meate: For some doe altogether ab 
+          <lb ed="#S" n="53"/>steine from living creatures: some a 
+          <lb ed="#S" n="54"/>mong living creatures doe eate fishe  
+          <lb ed="#S" n="55"/>onely: some with fish doe feede on  
+          <lb ed="#S" n="56"/>soules also, saying, that they (as Moses  
+          <lb ed="#S" n="57"/>saith) have their substaunce of water:  
+          <lb ed="#S" n="58"/>Some are knowne to absteine from  
+          <lb ed="#S" n="59"/>Hearbes and egges: some doe feede of  
+          <lb ed="#S" n="60"/>drie breade onely: some not so much  
+          <lb ed="#S" n="61"/>as that: some fasting nine houres, doe  
+          <lb ed="#S" n="62"/>then without difference use any kinde  
+          <lb ed="#S" n="63"/>of meate: and innumerable customes  
+          <lb ed="#S" n="64"/>are found among sundrie men. Nowe  
+          <lb ed="#S" n="65"/>the verie same Socrates shewing his  
+          <lb ed="#S" n="66"/>opinion upon that diversitie doth say:  
+          <lb ed="#S" n="67"/>And for because no auncient writing  
+          <lb ed="#S" n="68"/>is found touching this thing, I thinke  
+          <lb ed="#S" n="69"/>that the Apostles lest it free to everie  
+          <lb ed="#S" n="70"/>mans judgement, taht everie one may  
+          <lb ed="#S" n="71"/>worke, not by feare or necessitie, the  
+          <lb ed="#S" n="72"/>thing that is good. Thus farre So 
+          <lb ed="#S" n="73"/>crates. The fastes of Christians ther 
+          <lb ed="#S" n="74"/>fore ought to be free and not bound to  
+          <lb ed="#S" n="75"/>lawes. Apollinus, a certaine aunci 
+          <lb ed="#S" n="76"/>ent and Ecclesiasticall writer dispu 
+          <lb ed="#S" n="77"/>ting against Montanus the heretique  
+          <lb ed="#S" n="78"/>saieth: This is hee which taught that  
+          <lb ed="#S" n="79"/>marriages are undone, and which first  
+          <lb ed="#S" n="80"/>of all hath appointed lawes for men to  
+          <lb ed="#S" n="81"/>fast by. And verily to give about to  
+          <lb ed="#S" n="82"/>set downe to all men, and nations, one  
+          <lb ed="#S" n="83"/>manner of fasting in one appointed  
+          <lb ed="#S" n="84"/>time, one prescribed order, and choice  
+          <lb ed="#S" n="85"/>of meate is a meere follie, &amp; a braine 
+          <lb ed="#S" n="86"/>sicke kinde of madnesse, For according  
+          <lb ed="#S" n="87"/>to the choice of ayre, so are mens bo 
+          <lb ed="#S" n="88"/>dies of sundrie temperatures, and one  
+          <lb ed="#S" n="89"/>kinde of meate doth not stirre men of  
+          <lb ed="#S" n="90"/>sundrie complexions, to one kinde of  
+          <lb ed="#S" n="91"/>affection. The most godly way there 
+          <lb ed="#S" n="92"/>fore, &amp; profitable order for the Church  
+          <!--246.xml-->
+          <pb ed="#L" n="246"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#S" n="1"/>is, that all pastors in everie congrega 
+          <lb ed="#S" n="2"/>tion should teach sobrietie, temperan 
+          <lb ed="#S" n="3"/>cie, and the true fast in deede: not pre 
+          <lb ed="#S" n="4"/>suming to prescribe any lawes for the  
+          <lb ed="#S" n="5"/>choice of meates or times, but leaving  
+          <lb ed="#S" n="6"/>that free to every man &amp; nation, who  
+          <lb ed="#S" n="7"/>undoubtedly will have an especial eye  
+          <lb ed="#S" n="8"/>to temper theselves from the thinges,  
+          <lb ed="#S" n="9"/>by which they perceive ye their health  
+          <lb ed="#S" n="10"/>wilbe indaungered, but most of all in  
+          <lb ed="#S" n="11"/>the time when the fleshe beginneth to  
+          <lb ed="#S" n="12"/>waxe over wanton, or whe some great  
+          <lb ed="#S" n="13"/>peril hangeth over their head. For the  
+          <lb ed="#S" n="14"/>time of fasting is not proroged till an  
+          <lb ed="#S" n="15"/>appointed number of yeares or dayes  
+          <lb ed="#S" n="16"/>be expired, but til the loosenes or wan 
+          <lb ed="#S" n="17"/>tonnesse of the flesh, temptations, or  
+          <lb ed="#S" n="18"/>motions be utterly brideled. Fastings  
+          <lb ed="#S" n="19"/>being so ordered, as they be the exerci 
+          <lb ed="#S" n="20"/>ses of godlines, obteine great praise in  
+          <lb ed="#S" n="21"/>deede in the Church of the Lord.  
+          <lb ed="#S" n="22"/>THus much hitherto touching fa 
+          <lb ed="#S" n="23"/>sting. Now so that uppe this seventh  
+          <lb ed="#S" n="24"/>precept, I say it forbiddeth al intem 
+          <lb ed="#S" n="25"/>perauncie, it commaundeth dolinesse,  
+          <lb ed="#S" n="26"/>and the cleane and lawefull use of all  
+          <lb ed="#S" n="27"/>the members of the whole bodie: and  
+          <lb ed="#S" n="28"/>therefore in this short precept there  
+          <lb ed="#S" n="29"/>is conteined a good part of the doctrine  
+          <lb ed="#S" n="30"/>of Christ and his Apostles. For Paule  
+          <lb ed="#S" n="31"/>to the Thessalonians sayeth: We be 
+          <lb ed="#S" n="32"/>seech you brethren, and exhort you  
+          <lb ed="#S" n="33"/>by the Lorde Jesus, that yee increase  
+          <lb ed="#S" n="34"/>more and more, as yee have received  
+          <lb ed="#S" n="35"/>of us, howe ye ought to walke, and to  
+          <!--246.xml-->
+          <pb ed="#L" n="246"/>
+          <cb ed="#L" n="b"/>
+          <lb ed="#S" n="36"/>please God. For ye knowe what com 
+          <lb ed="#S" n="37"/>maundementes wee gave you by the  
+          <lb ed="#S" n="38"/>Lorde Jesus. For this is the will of God  
+          <lb ed="#S" n="39"/>even your holinesse, that ye should ab 
+          <lb ed="#S" n="40"/>steine from fornication, that everie  
+          <lb ed="#S" n="41"/>one of you should knowe how to pos 
+          <lb ed="#S" n="42"/>sesse his vessel in holinesse and honour,  
+          <lb ed="#S" n="43"/>not in the lust of concupiscence as the  
+          <lb ed="#S" n="44"/>Gentiles which knewe not GOD.  
+          <lb ed="#S" n="45"/>God is a revenger of all such as wee  
+          <lb ed="#S" n="46"/>have forewarned you and testified.  
+          <lb ed="#S" n="47"/>For God hath not called us unto un 
+          <lb ed="#S" n="48"/>cleannesse, but unto holinesse. And  
+          <lb ed="#S" n="49"/>straight way after againe: The God  
+          <lb ed="#S" n="50"/>of peace sanctifie you throughout,  
+          <lb ed="#S" n="51"/>that your whoale spirite, and soule,  
+          <lb ed="#S" n="52"/>and bodie, may bee preserved blame 
+          <lb ed="#S" n="53"/>lesse in the comming of our Lord Jesus  
+          <lb ed="#S" n="54"/>Christ.  
+          <lb ed="#S" n="55"/>I have againe my brethren, passed  
+          <lb ed="#S" n="56"/>beyond the appointed time of an ordi 
+          <lb ed="#S" n="57"/>nary sermon, staying you longer than  
+          <lb ed="#S" n="58"/>I am wont to doe. Pardon this fault,  
+          <lb ed="#S" n="59"/>for (I hope) I have not troubled you  
+          <lb ed="#S" n="60"/>almost two whole houres, without  
+          <lb ed="#S" n="61"/>profiting you any whit at all. Make  
+          <lb ed="#S" n="62"/>your prayers now, &amp; depart in peace.  
+          <lb ed="#S" n="63"/>By the helpe and wil of God I will  
+          <lb ed="#S" n="64"/>within these fewe dayes adde the rest  
+          <lb ed="#S" n="65"/>of the tenne commaundements.  
+          <lb ed="#S" n="66"/>The grace of our Lorde and  
+          <lb ed="#S" n="67"/>savior Jesus Christ be  
+          <lb ed="#S" n="68"/>with you all.  
+          <lb ed="#S" n="69"/>Amen 
+          <!--246.xml-->
+          <pb ed="#L" n="246"/>
+          <cb ed="#L" n="c"/>
+          <lb ed="#S" n="70"/>The ende of the first Tome contey 
+          <lb ed="#S" n="71"/>ning two Decades. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

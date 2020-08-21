@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 1</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 1</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="271-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-V7A8Vb"><!-- d5s1 --> 
+        <head xml:id="UD1xh4-V7A8Vb-Hd1e106">Sermo 1</head>
+        <head xml:id="UD1xh4-V7A8Vb-Hd1e109" type="question-title">
+       De sancta catholica ecclesia, quid sit, quam late pateat, quibus agnoscatur notis, unde oriatur,  
+       quomodo conseruetur. An errare possit? item de potestate et studijs ecclesiae.
+      </head>
+        <p xml:id="UD1xh4-V7A8Vb-d1e112">
+          <!--564.xml-->
+          <pb ed="#Z" n="271-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> SERMONVMDEOAS <!-- delete line -->
+          <lb ed="#Z" n="2"/>QVINTA, AVTHORE HEIN <!-- delete line -->
+          <lb ed="#Z" n="3"/>RTCHO EVLLINGERO. <!-- delete line -->
+          <lb ed="#Z" n="4"/>De sancta catholica ecclesia, quidsit, quam late pateat, quibus agnoscatur notis, unde oriatus,  
+          <lb ed="#Z" n="5"/>quomodo conseruetur. An errare possits item de potestate &amp; studijs ecclesiae.  
+          <lb ed="#Z" n="6"/>SERMO I. 
+          <lb ed="#Z" n="7"/>RDINE rerumque cohaerentium filo ducente, consequenter ab 
+          ar<lb ed="#Z" n="8" break="no"/>tifice &amp; authore omnium Deo, progredimur ad ipsius opus 
+          excel<lb ed="#Z" n="9" break="no"/>lentissimum Ecclesiam. Tanta est enim dei optimi patrisque 
+          beni<lb ed="#Z" n="10" break="no"/>gnissimi bonitas, ut non sibi soli feliciter &amp; beate uiuere, sed &amp;  
+          <lb ed="#Z" n="11"/>omnem felicitatem, &amp; bona sua omnia in nos homines adamatas 
+          <lb ed="#Z" n="12"/>creaturas suas effundere, bonisque suis nos frui modis omnibus cupiat. Ideoque 
+          <lb ed="#Z" n="13"/>homines in hoc niundo uiuentes sibi deligit, quos aliquando ad se transferat,  
+          <lb ed="#Z" n="14"/>in quibus interim, dum hic uiuunt, habitet, quos omnibus bonis suis locupletet, 
+          <lb ed="#Z" n="15"/>in quibus regnet, ipsique eius appellentur nomine, populus inquam, domus, 
+          re<lb ed="#Z" n="16" break="no"/>anum, haereditas, peculium, coetus uel ecclesia dei uiuentis. De qua dicam, 
+          ue<lb ed="#Z" n="17" break="no"/>stris adiutus precibus, quod ipse dominus ecclesiae loqui dederit.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e163">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Ecclesia est uox Graeca, sed usurpata &amp; recepta a Latinis, significans 
+          coe<lb ed="#Z" n="19" break="no"/>tum, communionem uel concionem (Germanice ein Gemeino) populum 
+          in<lb ed="#Z" n="20" break="no"/>quam conuocatum ad audiendum de reipub. negotijs. Sic enim &amp; Lucas hoc 
+          <lb ed="#Z" n="21"/>uocabulo usus legitur in Actis cap. 19. Translatum est autem ad usum sacrum,  
+          <lb ed="#Z" n="22"/>dicique ecclesia coepit coetus uel communio fidelium inuocantium nomen do¬  
+          <lb ed="#Z" n="23"/>mini. Paulus enim dicit se persecutum ecclesiam dei: qui alibi, Potestatem, 
+          in<lb ed="#Z" n="24" break="no"/>quit, accepi a principibus sacerdotum uinciendi omnes qui inuocant nomen 
+          <lb ed="#Z" n="25"/>Christi. sam enim Christi nomen inuocantes uel Christianos appellat, quos ante 
+          <lb ed="#Z" n="26"/>nuncuparat ecclesiam. Vel ecclesia dicitur ab euocando. Graece enim extaeneo 
+          <lb ed="#Z" n="27"/>euoco est. Nam deus ex toto terrarum orbe uniuersalique hominum 
+          congrega<lb ed="#Z" n="28" break="no"/>tionem omnes credentes una cum ipsorum semine euocat ex hoc mundo, ut sint 
+          <lb ed="#Z" n="29"/>eius peculiaris populus, cuius ipse sit uicissim deus: id est, ut sint ecclesia dei 
+          ui<lb ed="#Z" n="30" break="no"/>uentis. Clim coetus uel ecclesia populi ludaici peculium dei, dicebatur 
+          Syna<lb ed="#Z" n="31" break="no"/>goga. Idem enim significat Synagoga quod Ecclesia : sed propter ludaeorum 
+          <lb ed="#Z" n="32"/>pertinaciam implacabileque in Christianam religionem odium, uiluit uox 
+          Syna<lb ed="#Z" n="33" break="no"/>gogae ac serme in usu esse desijt. Non disseremus autem iusta methodo de 
+          ludaeo<lb ed="#Z" n="34" break="no"/>rum, uel Turcarum, uel aliarum exterarum Gentium ecclesijs, quarum plures 
+          <lb ed="#Z" n="35"/>esse nouimus. De ecclesia Christiana fideliumue dicemus: quam Germani 
+          ap<lb ed="#Z" n="36" break="no"/>pellant die Eitq: alludentes fortassis ad Graecorum tupixi. Vocant enim hi xusiut  
+          <lb ed="#Z" n="37"/>dominicam, nimirum domum uel plebem: sicut &amp; Germani die Etroen 
+          nun<lb ed="#Z" n="38" break="no"/>cupant &amp; ipsum dei populum, &amp; locum, in quo hic congregatur ad cultum 
+          dei<lb ed="#Z" n="39" break="no"/>Ante omnia autem describemus Ecclesiam paulo rudius.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e214">
+          <lb ed="#Z" n="40"/><pc type="indent"/> ECCLESIA est uniuersalis fidelium coetus uel multitudo, partim in ipso coelo 
+          <lb ed="#Z" n="41"/>ian agens, partim adhuc in terris uersans : ubi palam in unitate fidei uel 
+          do<lb ed="#Z" n="42" break="no"/>ctrinae uerae sacramentorumque legitima communione consentit non 
+          discindi<lb ed="#Z" n="43" break="no"/>tur, sed in una ueluti domo societateque continetur.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e227">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Haec solet appellari Catholica, id est uniuersalis. Profert enim palmites suos  
+          <!--565.xml-->
+          <pb ed="#Z" n="271-v"/>
+          <lb ed="#Z" n="1"/>in omnia uniuersi mundi loca, &amp; in omnia omnium aetatum tempora, 
+          compre<lb ed="#Z" n="2" break="no"/>henditque in uniuersum omnes totius mundi fideles. Etenim ecclesia dei non est 
+          <lb ed="#Z" n="3"/>affixa regioni, genti, aut familiae, conditioni, aetati, aut sexui: omnes fideles &amp;  
+          <lb ed="#Z" n="4"/>singuli ubi ubi sint, huius ecclesiae ciues &amp; membra sunt. S. Paulus apostolus,  
+          <lb ed="#Z" n="5"/>Non est ludaeus neque Graecus, inquit non est seruus neque liber, non est 
+          mascu<lb ed="#Z" n="6" break="no"/>lus aut foemina. Omnes enim uos unus estis in Christo Iesu.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e250">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Distinguitur ecclesia in triumphantem &amp; militantem. Triumphans est magna 
+          <lb ed="#Z" n="8"/>illa concio sanctorum in coelo spirituum, triumphantium modo de uicto mundo, 
+          <lb ed="#Z" n="9"/>peccato &amp; diabolo, fruentium dei conspectu, in quo est iucunditas gaudiorumque  
+          <lb ed="#Z" n="10"/>satietas omnium. Vnde &amp; in aeternum gloriam dei celebrant, &amp; bonitatem eius 
+          <lb ed="#Z" n="11"/>laudant. Hanc describit graphice beatus Ioannes apostolus in Apocalypsi di- 
+          <lb ed="#Z" n="12"/>cens. Post haec uidi, &amp; ecce turba multa, quam dinumerare nemo poterat, ex 
+          <lb ed="#Z" n="13"/>omnibus gentibus, populis &amp; linguis, stantes ante thronum &amp; in conspectu 
+          <lb ed="#Z" n="14"/>agni amicti stolis albis, &amp; palmae in manibus eorum : &amp; clamabant uoce magna. 
+          <lb ed="#Z" n="15"/>dicentes, Salus ei qui sedet super thronum dei nostri &amp; agno. Et paulo post, Et 
+          <lb ed="#Z" n="16"/>respondit unus de senioribus, &amp; dixit mihi, Hi qui sunt amicti stolis albis, qui  
+          <lb ed="#Z" n="17"/>sunt &amp; unde uenerunt? Et dixi illi, Domine tu scis. Et dixit mihi, Hi sunt qui 
+          <lb ed="#Z" n="18"/>uenerunt ex affictione magna, &amp; dilatauerunt stolas suas, &amp; dealbauerunt eas 
+          <lb ed="#Z" n="19"/>in sanguine agni: ideo sunt ante thronum dei, &amp; seruiunt ei die &amp; nocte in 
+          tem<lb ed="#Z" n="20" break="no"/>plo eius. Et qui sedet in throno habitabit super eos. Non esurient neque sitient 
+          <lb ed="#Z" n="21"/>amplius: neque cadet super eos sol, neque ullus aestus : quoniam agnus qui in 
+          me<lb ed="#Z" n="22" break="no"/>dio throni est reget eos, &amp; deducet eos ad uiuos fontes aquarum. Et abstersurus 
+          <lb ed="#Z" n="23"/>est deus omnem lachrymam ab oculis eorum. Habetis fratres descriptionem 
+          <lb ed="#Z" n="24"/>elegantissimam triumphantis in coelo ecclesiae, &amp; triumphantis quidem per 
+          san<lb ed="#Z" n="25" break="no"/>guinem Iesu Christi, per quem uicerunt, &amp; iam regnant. Christus enim est agnus 
+          <lb ed="#Z" n="26"/>ille dei qui tollit peccatum mundi: per quem omnes qui sanctificati sunt sancti- 
+          <lb ed="#Z" n="27"/>ficantur &amp; sanctificabuntur, uiuunt, a principio mundi ad finem usque 
+          saeculi<lb ed="#Z" n="28" break="no"/>S. Paulus alicubi egregiam nobis huius quoque ecclesiae descriptionem exhibens,  
+          <lb ed="#Z" n="29"/>docet interim nos qui uersamur adhuc in militanti ecclesia, aliqueando ad illam  
+          <lb ed="#Z" n="30"/>transferendos, associandosque sanctis dei angelis, cooptandos item in ordinem 
+          <lb ed="#Z" n="31"/>patriarcharum, collocandosque inter ipsos beatos spiritus, apud ipsum deum 
+          sum<lb ed="#Z" n="32" break="no"/>mum mediatoremque dominum nostrum Iesum Christum. Praedicans enim 
+          ma<lb ed="#Z" n="33" break="no"/>gnitudinem diuinae gratiae per euangelium delatae ad nos, adhortansque ut eam uera 
+          <lb ed="#Z" n="34"/>fide recipiamus, Non accessistis, inquit, ad montem Sina, ad ignem, ad turbinem,  
+          <lb ed="#Z" n="35"/>procellam &amp; caliginem, sed ad montem Sion, ad ciuitatem dei uiuentis, ad 
+          Hie<lb ed="#Z" n="36" break="no"/>rusalem coelestem, &amp; ad coetum innumerabilium angelorum, &amp; ad ecclesiam  
+          <lb ed="#Z" n="37"/>primogenitorum, qui scripti sunt in coelis, &amp; ad iudicem omnium deum, &amp; spi 
+          <lb ed="#Z" n="38"/>ritus iustorum perfectorum, &amp; mediatorem noui testamenti Iesum Christum,  
+          <lb ed="#Z" n="39"/>meliora loquentem quam loquebatur sanguis Abel. Proinde omnes sancti in 
+          <lb ed="#Z" n="40"/>coelis pertinent ad nostrum consortium, imo nos pertinemus ad ipsorum 
+          socie<lb ed="#Z" n="41" break="no"/>tatem. Sumus enim socij &amp; cohaeredes sanctorum ab Adamo ad finem usque 
+          sae<lb ed="#Z" n="42" break="no"/>culi omnium, ac domestici dei. Id quod maximam habet in omni uita hominum 
+          <lb ed="#Z" n="43"/>consolationem aculeosque ad studium uirtutis acutiss. Quid enim est praestantius 
+          <lb ed="#Z" n="44"/>quam domesticum esse dei? Quid obsecro iucundius uel cogitari potest, quam  
+          <lb ed="#Z" n="45"/>nos esse socios patriarcharum, prophetarum, apostolorum, martyrum, omnium 
+          <lb ed="#Z" n="46"/>angelorum, beatorumque spirituum? Hoc beneficium Christus contulit. Huic  
+          <lb ed="#Z" n="47"/>sit laus, gloria, &amp; gratiarumactio in saecula saeculorum, Amen
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e342">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Militans ecclesia coetus est hominum in terris, nomen &amp; religionem Christi 
+          <!--566.xml-->
+          <pb ed="#Z" n="272-r"/>
+          <lb ed="#Z" n="1"/>profitentium, &amp; adhuc militantium in mundo, contra diabolum, peccatum, 
+          car<lb ed="#Z" n="2" break="no"/>nem, &amp; mundum, in castris &amp; sub signis Christi domini. Ea rursus 
+          considera<lb ed="#Z" n="3" break="no"/>tur dupliciter. Vel enim strictius considerata eos duntaxat comprehendit, qui  
+          <lb ed="#Z" n="4"/>non tantum dicuntur, sed etiam reuera sunt ecclesia, fideles &amp; electi dei, uiua 
+          <lb ed="#Z" n="5"/>membra, Christo connexa, non modo uinculis aut notis externis, sed spiritu &amp;  
+          <lb ed="#Z" n="6"/>fide, &amp; aliquando his duntaxat, sine illis. De qua re dicemus postea. Ista interna 
+          <lb ed="#Z" n="7"/>&amp; inuisibilis, dei ecclesia, electa Christi sponsa dici poterat, soli deo cognita, ut 
+          <lb ed="#Z" n="8"/>qui solus nouit qui sint eius. Hanc in primis confitentes symbolo edocti 
+          apo<lb ed="#Z" n="9" break="no"/>itolico dicimus, Credo sanctam ecclesiam catholicam, sanctorum comunionem. 
+          <lb ed="#Z" n="10"/>Ac paucis quidem his uerbis comprehendimus quod sit ecclesia, quid item &amp;  
+          <lb ed="#Z" n="11"/>qualis sit. Principio enim confitemur fuisse, esse, &amp; manere semper ecclesiam  
+          <lb ed="#Z" n="12"/>dei. Deinde quid sit profitentes subijcimus, Sanctorum comunionem: id est,  
+          <lb ed="#Z" n="13"/>credimus ecclesiam aliud non esse quam coetum omnium qui sunt, fuerunt,  
+          <lb ed="#Z" n="14"/>eruntque tam in praesenti quam futuro saeculo, snctorum, qui communia inter 
+          <lb ed="#Z" n="15"/>se habeant omnia a deo sibi concessa bona. Simul etiam exprimimus qualis sit 
+          <lb ed="#Z" n="16"/>ecclesia, nimirum sancta, sponsa inquam Christi purgata &amp; beata. Nam 
+          aposto<lb ed="#Z" n="17" break="no"/>lus Paulus sanctos appellauit mundatos spiritu &amp; sanguine dei nostri: quorum 
+          <lb ed="#Z" n="18"/>bona pars coronas accepit: reliqua easdem in terris certans sibi in coelis 
+          impo<lb ed="#Z" n="19" break="no"/>nendas expectat. Et praecipuum quidem in consideratione ecclesiae caput illud 
+          <lb ed="#Z" n="20"/>est, quod per gratiam dei membra corporis Christi effecti, omniumque cum 
+          san<lb ed="#Z" n="21" break="no"/>ctis omnibus bonorum coelestium participes facti sumus. Etenim non alios 
+          ma<lb ed="#Z" n="22" break="no"/>gis quam nosipsos confitemur esse sanctos.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e400">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Vel certe latius considerata ecclesia, non modo uere fideles &amp; sanctos, sed 
+          il<lb ed="#Z" n="24" break="no"/>los quoque complectitur, qui tametsi nec uere credant, nec mundi uel sancti sint 
+          <lb ed="#Z" n="25"/>conuersatione uitae, ueram tamen religionem cum uere credentibus &amp; sanctis 
+          <lb ed="#Z" n="26"/>dei agnoscunt &amp; profitentur, uirtutes denique palam approbant, scelera 
+          repro<lb ed="#Z" n="27" break="no"/>bant, neque adhuc se separant ab unitate huius sanctae militantis ecclesiae. Qua 
+          <lb ed="#Z" n="28"/>quidem consideratione ne mali quidem uel hypocritae (quales Christi &amp; 
+          aposto<lb ed="#Z" n="29" break="no"/>lorum temporibus in ecclesia fuisse dicuntur ludas, Ananias &amp; Saphira, Simon  
+          <lb ed="#Z" n="30"/>Magus, Demas item, Hymeneus, Alexander, &amp; alij multi) excluduntur ex 
+          ec<lb ed="#Z" n="31" break="no"/>clesia, quae uisibilis &amp; externa dici potest. Aestimatur autem haec rursus uel ex 
+          <lb ed="#Z" n="32"/>aliqua sui parte, uel ex seipsa tota. Consideratur enim Particulariter, &amp; 
+          Vniuer<lb ed="#Z" n="33" break="no"/>saliter. Et particularis quidem ecclesia certo est definita numero, certoque ex loco 
+          <lb ed="#Z" n="34"/>cognosci potest. Ex loco enim indipiscitur nomen, dicta ciuitatum nominibus, 
+          <lb ed="#Z" n="35"/>ut ecclesiae Tigurinorum uel Bernatium, &amp;c. Graeci particulares illas 
+          appel<lb ed="#Z" n="36" break="no"/>lauerunt aaepousiaes. Vulgus dicit parochias, alij &amp; rectius dixere paroecias. 
+          Pa<lb ed="#Z" n="37" break="no"/>roeciam uocant incolatum aut habitaculum adeoque uiciniam, domibus 
+          conti<lb ed="#Z" n="38" break="no"/>guis comprehensam. At solet in ciuitatibus &amp; in agro designatae aedium por- 
+          <lb ed="#Z" n="39"/>tioni &amp; templum &amp; parochus dari, totaque illa area appellari parochia, 
+          Germa<lb ed="#Z" n="40" break="no"/>nice ein Darqeiober ein pfarrEirque ooet ein Eilqbo35. Ac ueteribus parochus 
+          <lb ed="#Z" n="41"/>erat praebitor. Hospitibus enim suppeditabat necessaria, sal in primis &amp; ligna. 
+          <lb ed="#Z" n="42"/>Alij nuncuparunt exhibitorem conuiuij: alij paranymphum. Quia ergo 
+          ec<lb ed="#Z" n="43" break="no"/>clesiarum pastores sunt ueluti paranymphi redemptoris capitisque ecclesiae Chri- 
+          <lb ed="#Z" n="44"/>sti, adducentes ei uirginem castam: quia denique illi ipsi maxime necessaria 
+          po<lb ed="#Z" n="45" break="no"/>pulo dei procurant coelestesque dapes uel epulas instruunt, rectissime pastores 
+          <lb ed="#Z" n="46"/>gregis dominici parochi uel curatores animarum appellantur. De particulari 
+          <lb ed="#Z" n="47"/>ecclesia loquutus dominus in euangelio dixit, Si scandalisans ecclesiam 
+          moni<lb ed="#Z" n="48" break="no"/>tores non audierit, dic ecclesiae. Non potest autem uniuersalis ecclesia conue¬ 
+          <!--567.xml-->
+          <pb ed="#Z" n="272-v"/>
+          <lb ed="#Z" n="1"/>nire unquam ex toto terrarum orbe, ut ei deferantur rebelles: particularibus 
+          <lb ed="#Z" n="2"/>ergo defertur iudicium de contumacibus. Porro Vniuersalis ecclesia ex omni- 
+          <lb ed="#Z" n="3"/>bus colligitur particularibus in uniuerso mundo ecclesijs, omnibusque membris 
+          <lb ed="#Z" n="4"/>suis uisibilibus. Haec illa ipsa est quam modo adumbrauimus, cum latius 
+          con<lb ed="#Z" n="5" break="no"/>sideratam attingeremus.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e475">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Caeterum ecclesia dei Catholica continuo saeculorum ordine (quod &amp; paulo 
+          <lb ed="#Z" n="7"/>ante dicere coeperam) ad nos usque decurrit, &amp; hodie diffusa est per totum 
+          terra<lb ed="#Z" n="8" break="no"/>rum orbem, uisibiliter quidem &amp; inuisibiliter, eritque populus domini &amp; domus 
+          <lb ed="#Z" n="9"/>dei in terris in finem usque saeculi. Etenim nullum unquam saeculum fuit, neque 
+          <lb ed="#Z" n="10"/>ulla unquam aetas erit, in qua sibi non aliquos saltem sanctificarit sanctificetque 
+          <lb ed="#Z" n="11"/>deus, in quibus habitet, qui sint eius peculium &amp; domus sancta. Nam 
+          perpe<lb ed="#Z" n="12" break="no"/>tuam esse ecclesiam testantur etiam ueterum uatum testimonia. Etenim sic legi¬  
+          <lb ed="#Z" n="13"/>mus scriptum Psalmo 132. Dominus elegit zion, elegit eam in habitationem 
+          <lb ed="#Z" n="14"/>sibi. Haec requies mea in saeculum saeculi: hic habitabo, quoniam elegi eam. Et 
+          <lb ed="#Z" n="15"/>iterum, Iuraui Dauidi in sancto meo, semen eius in aeternum manebit, &amp; solium 
+          <lb ed="#Z" n="16"/>eius coram me perstabit ut sol. Quis autem ignorat ista omnia intelligenda esse 
+          <lb ed="#Z" n="17"/>de Christo Dauidis filio &amp; throno eius spiritualique Sione, quae est ecclesia? Ipse 
+          <lb ed="#Z" n="18"/>quoque perpetuitatem ecclesiae significans in euangelio dicit, Ero uobiscum omni- 
+          <lb ed="#Z" n="19"/>bus diebus usque ad consummationem saeculi. Et iterum, Ego rogabo patrem,  
+          <lb ed="#Z" n="20"/>&amp; alium consolatorem dabit uobis, spiritum ueritatis, ut maneat uobiscum in 
+          <lb ed="#Z" n="21"/>aeternum. Huc nimirum &amp; illud ex euangelio pertinet, Et portae inferorum non 
+          <lb ed="#Z" n="22"/>praeualebunt contra ecclesiam. Quae sane maxima est consolatio fidelium in tot 
+          <lb ed="#Z" n="23"/>&amp; tam grauibus persequutionibus ad oppressionem excidiumque ecclesiae institutis.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e518">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Sicut autem Christus suam in terris semper habuit, habet, habebitque 
+          eccle<lb ed="#Z" n="25" break="no"/>siam, ita diabolo quoque, donec hic mundus finiatur, nunquam deerit suus 
+          po<lb ed="#Z" n="26" break="no"/>pulus, in quo regnet. Haec diaboli ecclesia initium accepit a Caino, 
+          progredie<lb ed="#Z" n="27" break="no"/>turque ad ultimum usque impium, medios comprehendens omnes totius mundi 
+          <lb ed="#Z" n="28"/>impios. Comunionem autem in terris uiuentes, cum his qui apud inferos tor- 
+          <lb ed="#Z" n="29"/>quentur habent. Sicut enim omnes pij unum sub capite Christo corpus 
+          con<lb ed="#Z" n="30" break="no"/>stituunt: sic omnes impij sub uno capite sathana unum corpus sunt. Haec 
+          meri<lb ed="#Z" n="31" break="no"/>to appellatur ecclesia malignantium, Sodoma &amp; Gomorra, Babylon, 
+          Congre<lb ed="#Z" n="32" break="no"/>gatio Chore Dathan &amp; Abyrom, synagoga &amp; schola &amp; prostibulum 
+          diaboli<lb ed="#Z" n="33" break="no"/>Antichristi regnum, &amp; si quid aliud his est simile. In hac ecclesia recensentur 
+          <lb ed="#Z" n="34"/>omnes impij &amp; infideles, segregantes se a consortio sanctae matris ecclesiae, aur 
+          <lb ed="#Z" n="35"/>respuentes eius comunionem, quales imprimis sunt illusores dei &amp; uerbi eius,  
+          <lb ed="#Z" n="36"/>blasphemi &amp; persequutores Christi &amp; ecclesiae. Tales sunt hodie gentiles, 
+          Tur<lb ed="#Z" n="37" break="no"/>cae, ludaei, haeretici, schismatici &amp; omnes in uniuersum professi hostes 
+          religio<lb ed="#Z" n="38" break="no"/>nis Christianae. Adde hi &amp; hypocritas. Neque enim leue crimen est, quod ipse 
+          <lb ed="#Z" n="39"/>dominus noster ubique in sancto euangelio tam ardenter accusat &amp; persequitur. 
+          <lb ed="#Z" n="40"/>lnter alia dicit, Veniet dominus serui illius, in die quo non expectat, &amp; hora qua 
+          <lb ed="#Z" n="41"/>ignorat, &amp; dissecabit eum, partemque eius ponet cum hypocritis, illic erit 
+          plora<lb ed="#Z" n="42" break="no"/>tus &amp; stridor dentium. Enormitatem sceleris atrocitate supplicij significauit 
+          <lb ed="#Z" n="43"/>haud dubie. Haec ecclesia sequitur diaboli instinctum &amp; proprij cordis figmenta 
+          <lb ed="#Z" n="44"/>exerceturque in omnipharia blasphemia &amp; impietate, in quibus semetipsam 
+          su<lb ed="#Z" n="45" break="no"/>perat, tandem &amp; ad tartara demergitur, ne uspiam separetur ab eo capite, cui se 
+          <lb ed="#Z" n="46"/>semper tam studiose, imo pertinaciter conglutinauit.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e572">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Obiicis, sat scio, hypocritas me numerasse in externa militantis ecclesiae com 
+          <lb ed="#Z" n="48"/>munione, iam eosdem recensere in consortio diabolicae ecclesiae. Addis, lmpos¬ 
+          <!--568.xml-->
+          <pb ed="#Z" n="273-r"/>
+          <lb ed="#Z" n="1"/>sibile esse eundem communicare posse diuersissimis inter se ecclesijs: dominc 
+          <lb ed="#Z" n="2"/>dicente, Aut facite arborem bonam &amp; fructum eius bonum: aut facite arborem 
+          <lb ed="#Z" n="3"/>uitiosam &amp; fructum eius uitiosum: Paulo item docente nullum esse consortium 
+          <lb ed="#Z" n="4"/>inter Christum &amp; Belial, inter lucem &amp; tenebras, inter ueritatem &amp; mendacium 
+          <lb ed="#Z" n="5"/>hypocrisim uero esse mendacium &amp; tenebras. Video ergo hic mihi commodum 
+          <lb ed="#Z" n="6"/>offerri locum declarandi qua ratione uel quatenus numerauerim in ecclesiae 
+          <lb ed="#Z" n="7"/>consortio hypocritas. Principio distinguimus inter hypocritas. Sunt enim 
+          hy<lb ed="#Z" n="8" break="no"/>pocritae confidentes humanae suae iustitiae, omniaque sua opera facientes ut 
+          ui<lb ed="#Z" n="9" break="no"/>deantur ab hominibus, innitentes pertinaciter humanis traditionibus. His 
+          pro<lb ed="#Z" n="10" break="no"/>prium est non modo ecclesiam, iustitiam Christi docentem, fugere, sed execrari 
+          <lb ed="#Z" n="11"/>item &amp; persequi saeuissime. Huiusmodi fuerunt ludaei &amp; ludaici pharisaei, 
+          qui<lb ed="#Z" n="12" break="no"/>bus cum certamen fuit domino nostro Iesu Christo, &amp; quibus cum hodie 
+          bel<lb ed="#Z" n="13" break="no"/>ligeratur ecclesia. Hi palam sunt membra diabolicae ecclesiae. nec ueniunt in 
+          cen<lb ed="#Z" n="14" break="no"/>sum uel exterioris ecclesiae, imo non sustinerent in ecclesia Christi nominari. 
+          <lb ed="#Z" n="15"/>Sunt rursus hypocritae quidam simulatores. nec suae fidentes iustitiae, nec 
+          admo<lb ed="#Z" n="16" break="no"/>dum curantes traditiones humanas. Hi nec ecclesiam dei odiunt uel fugiunt,  
+          <lb ed="#Z" n="17"/>nec persequuntur, sed foris quidem consentiunt cum ipsa, eandem profitentes 
+          <lb ed="#Z" n="18"/>fidem, ijsdemque sacramentis participantes : intus uero &amp; in animo nec syncere 
+          <lb ed="#Z" n="19"/>credunt nec sancte uiuunt. Ex his alij quidem ad tempus in ecclesiae consortio 
+          <lb ed="#Z" n="20"/>haerent, oblata autem occasione ab ipsa recedunt : ut solent haeretici &amp; 
+          schisma<lb ed="#Z" n="21" break="no"/>tici, &amp; qui ex amicis fiunt inimici. Alij uero ex ipsa nunquam recedunt, sed 
+          <lb ed="#Z" n="22"/>quoad uiuunt continent se in ecclesie contubernio, foris quidem simulantes 
+          re<lb ed="#Z" n="23" break="no"/>ligionem, intus autem suis erroribus &amp; uitijs atque sceleribus indulgentes: 
+          qui<lb ed="#Z" n="24" break="no"/>bus proculdubio externum illud consortium nihil prodest. Oportet enim 
+          ae<lb ed="#Z" n="25" break="no"/>ternum uiuere omnibusque bonis coelestibus participare desiderantibus, 
+          com<lb ed="#Z" n="26" break="no"/>municare cum ecclesia dei, non externa tantum uisibilique societate, sed 
+          commu<lb ed="#Z" n="27" break="no"/>nione interna, ex qua existit uita salusque. De qua suo dicetur loco. Huiusmodi 
+          <lb ed="#Z" n="28"/>uero hypocritae uel simulatores inhaerentes adhuc ecclesiastico corpori 
+          mem<lb ed="#Z" n="29" break="no"/>bra appellantur corporis, dicunturque esse in ecclesia. Quod ut plenius 
+          intelli<lb ed="#Z" n="30" break="no"/>gatur ab omnibus uobis, parabolis aliquot adumbrabimus rem.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e649">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Dicimus malos uel hypocritas perinde in ecclesia esse, sicuti sunt in 
+          frumen<lb ed="#Z" n="32" break="no"/>to paleae, quae reuera alterius naturae sunt, &amp; frumentum non sunt. Sicut ergo 
+          <lb ed="#Z" n="33"/>humano corpori nonnunquam adhaerent membra aut arida, aut putrida, aut 
+          <lb ed="#Z" n="34"/>languentia, quae tametsi uiuis membris spiritu uitali non communicent, 
+          con<lb ed="#Z" n="35" break="no"/>nexione tamen &amp; uinculis quibusdam, uiuis membris adhaerent, unde &amp; 
+          cor<lb ed="#Z" n="36" break="no"/>poris membra partesque appellantur ab hominibus: qui illa ipsa aliquando, ne cae 
+          <lb ed="#Z" n="37"/>tera contagione inficiant, resecant, nonnunquam tolerant ne dum haec resecant,  
+          <lb ed="#Z" n="38"/>totum corpus adducatur in discrimen uitae. Itaratione certa &amp; suo quodam modo 
+          <lb ed="#Z" n="39"/>dicimus hypocritas esse in ecclesia Christi, licet uinculo spiritus, fidei &amp; chari- 
+          <lb ed="#Z" n="40"/>tatis non sint copulati ecclesiae, neque uiua censeantur membra: tolerantur tamen 
+          <lb ed="#Z" n="41"/>ne quid corpori ecclesiastico deterius obtingat: ac resecantur nonnunquam quo 
+          <lb ed="#Z" n="42"/>melius habeat ecclesiastici corporis sanitas. Sed audiamus euangelica &amp; 
+          aposto<lb ed="#Z" n="43" break="no"/>lica testimonia. Dominus in euangelio diserte dicit, in agro dominico seminata 
+          <lb ed="#Z" n="44"/>ab homine malo succrescere zizania: quod &amp; eradicari prohibet ne simul 
+          era<lb ed="#Z" n="45" break="no"/>dicetur &amp; frumentum. En zizania ab homine malo, ab ipso inquam daemone 
+          <lb ed="#Z" n="46"/>seminata, quae non sunt frumentum, proueniunt tamen &amp; sunt in agro dominico. 
+          <lb ed="#Z" n="47"/>Rursus dicit in euangelio dominus, Simile est regnum coelorum uerriculo 
+          <lb ed="#Z" n="48"/>iacto in mare, &amp; ex omni genere contrahenti: quod cum impletum fuisset, sub¬ 
+          <!--569.xml-->
+          <pb ed="#Z" n="273-v"/>
+          <lb ed="#Z" n="1"/>duxerunt in littus, &amp; sedentes, quae bona erant in uasa: quae uero mala, soras 
+          <lb ed="#Z" n="2"/>eiecerunt. En rursus cernis in eadem sagena trahi bonos &amp; malos, ideoque in 
+          eo<lb ed="#Z" n="3" break="no"/>dem regno numerari bonos &amp; malos. In alia quoque parabola comparet inter 
+          <lb ed="#Z" n="4"/>conuiuas quidam non tectus ueste nuptiali: qui ad tempus fertur, tandem a 
+          do<lb ed="#Z" n="5" break="no"/>mino conuiuij eiicitur. Idem alibi dicitur habere uannum aut uentilabrum in 
+          <lb ed="#Z" n="6"/>manu sua, areamque purgare &amp; paleam comburere igni inextinguibili. Proinde 
+          <lb ed="#Z" n="7"/>S. Paulus in epistola ad Corinthios discrimen aliquod constituit inter professos 
+          <lb ed="#Z" n="8"/>ecclesiae Christi hostes, &amp; inter impuros quidem homines, sed nondum tamen 
+          <lb ed="#Z" n="9"/>ecclesiae ac Christi nomen auersantes. Si quis, inquit, cum frater appellatur fur 
+          <lb ed="#Z" n="10"/>sit, aut scortator, aut auarus &amp;c. cum eo ne cibum quidem capiatur. Quid enim  
+          <lb ed="#Z" n="11"/>ad me attinet de hi qui foris sunt iudicare: Eos qui foris sunt deus iudicat. 
+          Fo<lb ed="#Z" n="12" break="no"/>ris, id est extra ecclesiae septa collocat non appellatos fratres, id est non 
+          agnoscen<lb ed="#Z" n="13" break="no"/>tes nomen Christi uel ecclesiae. Intus, id est in societate ecclesiae (inimirum 
+          exte<lb ed="#Z" n="14" break="no"/>rioris) recenset agnoscentes adhuc nomen Christianum, neque opponentes se 
+          <lb ed="#Z" n="15"/>ecclesiasticae disciplinae, quamuis interim contaminati sint sceleribus. Omnium 
+          <lb ed="#Z" n="16"/>autem significantissime beatus Ioannes apostolus dixit, Exierunt ex nobis, sed 
+          <lb ed="#Z" n="17"/>non erant ex nobis. Nam si fuissent ex nobis, permansissent utique nobiscum,  
+          <lb ed="#Z" n="18"/>Nouum uidetur hoc loquutionis genus. Si enim exeuntes de ecclesia, in 
+          socie<lb ed="#Z" n="19" break="no"/>tate ecclesiae non fuerunt, quomodo exire ex ecclesia potuerunt? Potest ne 
+          ali<lb ed="#Z" n="20" break="no"/>quis prodire ex loco, in quem nunquam peruenit, aut in quo nunquam fuit? 
+          <lb ed="#Z" n="21"/>Proinde si hypocritae &amp; mali exierunt ex ecclesia, suerunt certe aliquando in 
+          ec<lb ed="#Z" n="22" break="no"/>clesia, tunc uidelicet, quando ex ipsa nondum exiuerunt &amp; quales reuera 
+          fue<lb ed="#Z" n="23" break="no"/>rant declarauerunt, Rursus quandoquidem exierunt ex ecclesia, apertissime 
+          <lb ed="#Z" n="24"/>ostenderunt nunquam se reuera fuisse uiua &amp; uera Christi &amp; ecclesiae membra,  
+          <lb ed="#Z" n="25"/>tametsi ad tempus ecclesiae membris connumerati sint, Rationem subiungit 
+          <lb ed="#Z" n="26"/>apostolus, Verorum Christi membrorum ingenium est nuspiam Christum &amp;  
+          <lb ed="#Z" n="27"/>ecclesiam deserere, sed perseuerare, adeoque de die in diem magis magisque profi- 
+          <lb ed="#Z" n="28"/>cere. Labuntur quidem sancti, sed non deserunt Christum prorsus. Clamat 
+          <lb ed="#Z" n="29"/>Dauid prolapsus in adulterium &amp; parricidium, Cor mundum crea in me deus,  
+          <lb ed="#Z" n="30"/>&amp; spiritum rectum renoua in uisceribus meis. Ne proiicias me a facie tua, &amp;  
+          <lb ed="#Z" n="31"/>spiritum sanctum tuum ne auferas a me, Redde mihi laetitiam salutaris tui, &amp; 
+          <lb ed="#Z" n="32"/>spiritu principali confirma me. S. Petrus negauit dominum, uicitque spiritum 
+          <lb ed="#Z" n="33"/>bonum caro infirma, sed continuo (domino commouente cor eius) resipuit, &amp;  
+          <lb ed="#Z" n="34"/>exiens de consortio prauo coniunxit se sodalitio bono domini, qui &amp; hunc 
+          la<lb ed="#Z" n="35" break="no"/>psum grauem ei praedixerat, &amp; haec insuper uerba adiunxerat, Oraui pro te, 
+          <lb ed="#Z" n="36"/>ne deficiat fides tua. Et tu aliquando conuersus confirma fratres tuos. Idem  
+          <lb ed="#Z" n="37"/>Petrus alicubi, pluribus a Christo deficientibus, rogatus num &amp; ipse 
+          discessio<lb ed="#Z" n="38" break="no"/>nem paret: respondit, Domine ad quem ibimus? Verba uitae aeternae habes. Et 
+          <lb ed="#Z" n="39"/>nos credimus &amp; cognouimus quod tu es Christus filius dei uiui. Recte ergo 
+          <lb ed="#Z" n="40"/>dixit beatus Ioannes. Exierunt ex nobis, sed non erant ex nobis. Rationem 
+          <lb ed="#Z" n="41"/>suppingit. Si fuissent ex nobis, permansissent utique nobiscum, Quoniam ergc 
+          <lb ed="#Z" n="42"/>non permanserunt nobiscum in societate Christi &amp; ecclesiae, defectione sua a 
+          no<lb ed="#Z" n="43" break="no"/>bis declarauerunt quales hactenus fuerint: nos pro membris ecclesiae 
+          nume<lb ed="#Z" n="44" break="no"/>rauimus, ipsi uero defectione illa sua ostendunt se fuisse paleas in frumento 
+          do<lb ed="#Z" n="45" break="no"/>minico. Sicut enim palea nondum commota aut uentilata uidetur grano tritici 
+          <lb ed="#Z" n="46"/>grauis, uentilata autem uacua &amp; Ieuis apparet separaturque a frumento: ita hy- 
+          <lb ed="#Z" n="47"/>pocritae leui sua defectione approbant se nunquam fuisse semine uerbi dei 
+          gra<lb ed="#Z" n="48" break="no"/>ues &amp; uerum Christi frumentum.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e800">
+          <!--570.xml-->
+          <pb ed="#Z" n="274-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Ex his colligitur doctrina generalis &amp; orthodoxa, non omnes qui dicuntur 
+          <lb ed="#Z" n="2"/>ecclesia &amp; ornant se titulo ecclesiae protinus esse ecclesiam. Diserte enim sub. 
+          <lb ed="#Z" n="3"/>iungit Ioannes, Sed ut manifesti fiant, quod non omnes sint ex nobis. Vnde &amp;  
+          <lb ed="#Z" n="4"/>Paulus ad Rom, dixisse legitur, Non omnes qui sunt ex lsrael, neque quia sunt 
+          <lb ed="#Z" n="5"/>semen Abrahae, mox omnes filij sunt: sed in lsaac uocabitur tibi seme. Proinde 
+          <lb ed="#Z" n="6"/>fideles uera &amp; uiua sunt Christi &amp; sanctorum membra. Interim uero quandiu 
+          <lb ed="#Z" n="7"/>hypocritae uel mali, necdum deterso fuco, quales sint dictis uel factis produnt,  
+          <lb ed="#Z" n="8"/>ut iure excindi queant ex ecclesia, necdum ipsi sua sponte erumpentes Christi 
+          <lb ed="#Z" n="9"/>castra deserunt, &amp; in antichristi uel diaboli tabernacula refugiunt, 
+          agnoscun<lb ed="#Z" n="10" break="no"/>tur utique pro inquilinis ecclesiae, appellanturque ecclesia &amp; ecclesiae membra, aliud 
+          <lb ed="#Z" n="11"/>interim de ipsis iudicante omnium corda inspiciente deo. Exemplo rursus haec 
+          <lb ed="#Z" n="12"/>illustrabo. Quandiu ludas Christi proditor &amp; parricida subdolum, imo 
+          con<lb ed="#Z" n="13" break="no"/>sceleratissimum suum ingenium nullo facto aut dicto publico prodebat, nec 
+          <lb ed="#Z" n="14"/>congregationem Christi &amp; apostolorum deserebat, sed concionabatur &amp; rem 
+          <lb ed="#Z" n="15"/>Christi familiarem curabat, habebatur utique pro apostolo &amp; oeconomo Christi,  
+          <lb ed="#Z" n="16"/>pro membro ecclesiae apostolicae. Eundem tamen dominus &amp; diabolum appel 
+          <lb ed="#Z" n="17"/>labat, &amp; excludebat manifestissime cum loqueretur de electis &amp; ueris ac uiuis  
+          <lb ed="#Z" n="18"/>suis membris : ut iam nihil addubitare possimus ludam non fuisse membrum 
+          <lb ed="#Z" n="19"/>internae &amp; sanctae dei ecclesiae, licet esset membrum exterioris ecclesiae in 
+          nume<lb ed="#Z" n="20" break="no"/>ro recensitus sanctorum. Ideoque non sine causa graui dixerunt alij, Ecclesiam  
+          <lb ed="#Z" n="21"/>dei aliam quidem esse uisibilem &amp; externam, aliam uero inuisibilem &amp; 
+          inter<lb ed="#Z" n="22" break="no"/>nam. Visibilis &amp; externa ecclesia illa est, quae foris ab hominibus ex 
+          ausculta<lb ed="#Z" n="23" break="no"/>tione uerbi domini, &amp; sacramentorum eiusdem participatione, publicaque fidei 
+          <lb ed="#Z" n="24"/>confesione, pro ecclesia agnoscitur. Inuisibilis &amp; interna dicitur, non quod ho 
+          <lb ed="#Z" n="25"/>mines sint inuisibiles, sed quod hominum oculis non appareat, soliusque dei 
+          ocu<lb ed="#Z" n="26" break="no"/>lis pateat qui uere uel ficte credant. Vere enim credentes, membra uera &amp; 
+          ui<lb ed="#Z" n="27" break="no"/>ua sunt huius interioris ecclesiae: quam superius appellaui ecclesiam 
+          militan<lb ed="#Z" n="28" break="no"/>tem strictius consideratam, aliam uero uisibilem illam bonos &amp; malos 
+          compre<lb ed="#Z" n="29" break="no"/>hendentem latius consideratam.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e871">
+          <lb ed="#Z" n="30"/><pc type="indent"/> Nunc quoniam dixi ecclesiam in terris militantem, a deo notis insigniri, ex  
+          <lb ed="#Z" n="31"/>quibus agnosci possit in hoc saeculo, consequenter de his ecclesiae dei externis 
+          <lb ed="#Z" n="32"/>notis dicam. Sunt autem primariae ac potissimae duae. Praedicatio syncera uerbi 
+          <lb ed="#Z" n="33"/>dei, &amp; legitima sacramentorum Christi participatio. Quod alij adijnciunt studium 
+          <lb ed="#Z" n="34"/>pietatis &amp; unitatis, patientiam in cruce, &amp; inuocationem nominis dei per Chri 
+          <lb ed="#Z" n="35"/>stum, ea in his duobus nostris comprehendimus. Paulus ad Ephesios, Chri- 
+          <lb ed="#Z" n="36"/>stus semetipsum exposuit, inquit, pro ecclesia, ut illam sanctificaret mundatam  
+          <lb ed="#Z" n="37"/>lauacro aquae, per uerbum. Habetis in hoc apostoli testimonio notas ecclesiae 
+          <lb ed="#Z" n="38"/>Verbum &amp; sacramentum, per quae sibi Christus parat ecclesiam. Nam gratia 
+          <lb ed="#Z" n="39"/>sua uocat, sanguine Christi purificat: id quod uerbo annunciat ut fide 
+          recipia<lb ed="#Z" n="40" break="no"/>tur, sacramentisque obsignat, ne quid ambigant fideles de salute per Christum 
+          <lb ed="#Z" n="41"/>parta. Et fidelibus quidem sanctisque membris baec proprie conueniunt. Quod 
+          <lb ed="#Z" n="42"/>hypocritae non purgantur, culpa in ipsis, non in deo aut in ministerio sacro, hae- 
+          <lb ed="#Z" n="43"/>ret : uisibiliter certe sanctificantur, unde &amp; pro sanctis habentur ab homini- 
+          <lb ed="#Z" n="44"/>bus, istaque eis improprie competunt. Non dissidet a Paulo Petrus, qui cum 
+          prae<lb ed="#Z" n="45" break="no"/>dicasset Hierosolymitanis uerbum dei, atque hi quid facerent rogarent, 
+          respon<lb ed="#Z" n="46" break="no"/>dit Petrus, Resipiscite, &amp; baptizetur unusquisque uestrum in nomine Iesu Chri- 
+          <lb ed="#Z" n="47"/>sti, in remissionem peccatorum. Baptismum ergo coniunxit doctrinae Petrus,  
+          <lb ed="#Z" n="48"/>sacramentum uerbo. Id quod didicerat ab ipso saluatore in euangelio, secun¬ 
+          <!--571.xml-->
+          <pb ed="#Z" n="274-v"/>
+          <lb ed="#Z" n="1"/>dum Matthaeum, dicente, Docete omnes gentes, baptisantes eos in nomen 
+          pa<lb ed="#Z" n="2" break="no"/>tris &amp; filij &amp; spiritus sancti. Vnde non alia quam haec ipsa uerbi &amp; 
+          sacramen<lb ed="#Z" n="3" break="no"/>torum symbola ecclesiae recensita legis in Actis hisce uerbis, Erant 
+          perseueran<lb ed="#Z" n="4" break="no"/>tes in doctrina apostolorum, &amp; beneficentia, &amp; fractione panis, ac precationi¬  
+          <lb ed="#Z" n="5"/>bus. Vbi coenam domini alterum sacramentum, baptismi sacramento adiectum  
+          <lb ed="#Z" n="6"/>uidetis, unitatis quoque &amp; charitatis studium, item inuocationem nominis diui¬  
+          <lb ed="#Z" n="7"/>ni. His apertis alioqui &amp; firmis satis, adiinciam nihilo minus &amp; alia ex scripturis 
+          <lb ed="#Z" n="8"/>sanctis testimonia. De symbolo uerbi dei uel praedicationis euangelij, ipse apud 
+          <lb ed="#Z" n="9"/>lsaiam dominus dicit, Foedus meum pangam cum eis. Spiritus meus qui super 
+          <lb ed="#Z" n="10"/>te est (ecclesia) &amp; uerba mea quae inserui ori tuo, nunquam excident de ore 
+          <lb ed="#Z" n="11"/>tuo, neque de ore seminis tui, neque de ore nepotum &amp; pronepotum tuorum, di- 
+          <lb ed="#Z" n="12"/>cit dominus a modo &amp; usque in sempiternum. Nam in euangelio quoque dicit 
+          <lb ed="#Z" n="13"/>dominus Iesus,. Qui ex deo est, uerba dei audit. Item, Ques meae uocem meam  
+          <lb ed="#Z" n="14"/>audiunt, &amp; ego cognosco eas, &amp; sequuntur me, &amp; ego uitam aeternam do eis:  
+          <lb ed="#Z" n="15"/>nec peribunt in aeternum. Et iterum, Qui diligit me, sermonem meum 
+          serua<lb ed="#Z" n="16" break="no"/>bit. Qui non diligit me, sermones meos non seruat, Rursus. Omnis qui est ex 
+          ue<lb ed="#Z" n="17" break="no"/>ritate audit uocem meam. Iam quod attinet sacramentorum notas. S. Paulus 
+          <lb ed="#Z" n="18"/>loquens de baptismo sancto, dicit, Per unum spiritum nos omnes in unum cor- 
+          <lb ed="#Z" n="19"/>pus baptizati sumus. Ac idem ille de Coena domini, Vnus panis, inquit, unum 
+          <lb ed="#Z" n="20"/>corpus multi sumus. Nam omnes de eodem pane participamus. Sed &amp; 
+          pocu<lb ed="#Z" n="21" break="no"/>lum quo benedicimus, an non est communio sanguinis Christi? Certissimum 
+          <lb ed="#Z" n="22"/>est itaque, quia diuinis traditum testimonijs, externas ecclesiae notas esse Verbum 
+          <lb ed="#Z" n="23"/>&amp; Sacramentum. Haec enim colligunt nos in societatem unius corporis 
+          eccle<lb ed="#Z" n="24" break="no"/>siastici, &amp; in eadem nos retinent.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e972">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Haec testimonia omnia proprie quidem (quod &amp; paulo ante monui) electis 
+          <lb ed="#Z" n="26"/>dei membris fide &amp; iusta obedientia donatis, hypocritis fide &amp; iusta obedientia 
+          <lb ed="#Z" n="27"/>destitutis, improprie congruunt: quia tamen &amp; hi uocem pastoris externe 
+          au<lb ed="#Z" n="28" break="no"/>diunt, uirtuti operam dant, &amp; palam uel foris conglutinantur sacramentorum 
+          <lb ed="#Z" n="29"/>participatione electis &amp; uere credentibus, corpori inquam Christi uero, 
+          pro<lb ed="#Z" n="30" break="no"/>pter externa illa signa numerantur in ecclesia quandiu ex ipsa non recedunt. 
+          <lb ed="#Z" n="31"/>Vbi &amp; hoc declarandi gratia disputatis de Ecclesiae notis adiincere oportet, lege 
+          <lb ed="#Z" n="32"/>communi has membra ecclesiae insignire. Sunt enim singularia ouaedam 
+          mem<lb ed="#Z" n="33" break="no"/>bra, quae licet his careant notis, communione tamen uerae Christi ecclesiae non 
+          <lb ed="#Z" n="34"/>excluduntur. Certissimum est enim plurimos in orbe terrarum non audire 
+          prae<lb ed="#Z" n="35" break="no"/>dicationem uerbi dei ordinariam, nec ingredi coetum inuocantium deum, aut  
+          <lb ed="#Z" n="36"/>participare sacramentis: non quod ea contemnant, aut a concione abesse 
+          uolu<lb ed="#Z" n="37" break="no"/>pe sit, sed quod necessitate aliqua, ueluti uinculorum, morborum, aut aliorum 
+          <lb ed="#Z" n="38"/>malorum ui inipliciti, quod alioqui desiderant, consequi non possunt, &amp; tamen 
+          <lb ed="#Z" n="39"/>illos ipsos nihilo minus uera &amp; uiua esse Christi &amp; catholicae ecclesiae membra. 
+          <lb ed="#Z" n="40"/>Olim instituerat dominus in populo lsraelis uisibilem ecclesiam, quam lege certa 
+          <lb ed="#Z" n="41"/>colligarat, signisque uisibilibus insigniuerat. Eam si quis spreuisset, aut cum 
+          po<lb ed="#Z" n="42" break="no"/>tuisset audire doctrinam ecclesiasticam, &amp; ingredi sacrum coetum 
+          sacrifica<lb ed="#Z" n="43" break="no"/>reque, subterfugisset, aut etiam conuitijs proscidisset, aut pro diuinitus tradito 
+          <lb ed="#Z" n="44"/>cultu, alienum fuisset amplexus, profecto minime fuisset recensitus in 
+          ordi<lb ed="#Z" n="45" break="no"/>ne &amp; numero populi dei. At erant interim apud gentes per orbem terrae di- 
+          <lb ed="#Z" n="46"/>spersi homines innumeri, qui non communicabant, neque communicare 
+          <lb ed="#Z" n="47"/>poterant cum hoc uisibili coetu populi dei, ac nihilo minus tamen erant 
+          <lb ed="#Z" n="48"/>&amp; huius coetus sancti membra &amp; amici dei omnipotentis. Erant cum rege 
+          <!--572.xml-->
+          <pb ed="#Z" n="275-r"/>
+          <lb ed="#Z" n="1"/>Ioachim Iechonia plures filij dei in Babylonem captiui per 
+          Nabuchodono<lb ed="#Z" n="2" break="no"/>sorem abducti, quibus tamen nihil nocuit separatio a populo dei, 
+          Hierosoly<lb ed="#Z" n="3" break="no"/>mis sub rege Sedechia templum &amp; cultum uisibilem retinente: sicut multis non 
+          <lb ed="#Z" n="4"/>profuit uisibilis congregatio cum populo dei in templo domini, quando 
+          ipso<lb ed="#Z" n="5" break="no"/>rum mentes non essent integrae. Reperias hodie quoque innumeros per maria 
+          <lb ed="#Z" n="6"/>dispersos fideles, ad triremes propter confessionem uerae fidei damnatos : 
+          repe<lb ed="#Z" n="7" break="no"/>rias multos antichristiana captiuitate impeditos, de quibus dicemus sermone 
+          <lb ed="#Z" n="8"/>sequente : reperias item innumeros in Graecia, Natolia, Persia, Arabia, uel in 
+          <lb ed="#Z" n="9"/>Africa Iesu Christi seruos, praestantissima catholicae ecclesiae Christi membra,  
+          <lb ed="#Z" n="10"/>exclusos quidem Machometana impietate &amp; crudelitate a Christianorum 
+          sa<lb ed="#Z" n="11" break="no"/>cris, nihilo minus tamen coniunctissimos eodem spiritu &amp; eadem fide cum  
+          <lb ed="#Z" n="12"/>omnibus ecclesiae membris uisibilibus etiam signis insignitis. Proinde 
+          uer<lb ed="#Z" n="13" break="no"/>bum &amp; sacramentum notae sunt ecclesiae ex lege communi, non submouentes 
+          <lb ed="#Z" n="14"/>a communione fidelium fideles, necessitate aliqua exclusos uisibili coetu fi- 
+          <lb ed="#Z" n="15"/>delium.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1064">
+          <lb ed="#Z" n="16"/><pc type="indent"/> Porro ad plenam signorum ecclesiae cognitionem pertinet &amp; illud, &amp; 
+          qui<lb ed="#Z" n="17" break="no"/>dem in primis, non satis esse Verbum dei uel scripturam iactare, nisi sensum 
+          <lb ed="#Z" n="18"/>quoque natiuum &amp; fidei articulis congruum simul amplectamur, retineamus &amp;  
+          <lb ed="#Z" n="19"/>tueamur. Etenim si corrumpas sensum scripturae, &amp; hunc urgeas in 
+          ecclesia<lb ed="#Z" n="20" break="no"/>iam non ipsam profers scripturam synceram, sed tuam opinionem, &amp; tua 
+          fig<lb ed="#Z" n="21" break="no"/>menta, quae tuo ipsius arbitrio excogitasti. Non repudiabat uerbum domini 
+          <lb ed="#Z" n="22"/>Arianorum ecclesia, imo blasphemos errores suos scripturarum testimonijs &amp; or- 
+          <lb ed="#Z" n="23"/>nare &amp; tueri contendebat. Negabat dominum nostrum Iesum Christum 
+          consubstan<lb ed="#Z" n="24" break="no"/>cialem esse deo patri: quod cum scripturae &amp; orthodoxae fidei sensus inter 
+          pri<lb ed="#Z" n="25" break="no"/>ma fidei capita &amp; asserat &amp; urgeat, profecto non uerbum dei syncerum, utcunque 
+          <lb ed="#Z" n="26"/>id iactaret, sed adulteratum, adeoque haereticam suam opinionem pro 
+          orthodo<lb ed="#Z" n="27" break="no"/>xa scripturae diuinae sententia subijciebat &amp; tuebatur: ideoque non habebat 
+          ue<lb ed="#Z" n="28" break="no"/>rum ecclesiae signum, nec erat uera dei ecclesia. Ex unico hoc exemplo infelici 
+          <lb ed="#Z" n="29"/>aestimare licet omnium aliorum haereticorum ecclesias: quae tametsi uerbi dei 
+          <lb ed="#Z" n="30"/>testimonio non uideantur destitui, reuera tamen uerbi dei puri nihil habent 
+          <lb ed="#Z" n="31"/>reliquum.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1103">
+          <lb ed="#Z" n="32"/><pc type="indent"/> Quod de uerbo dei diximus, etiam de Sacramentorum usu intelligere 
+          ne<lb ed="#Z" n="33" break="no"/>cesse est: nisi enim usurpentur legitime, eo inquam modo, quo instituit ipse 
+          do<lb ed="#Z" n="34" break="no"/>minus, non sunt ecclesiae dei signa. Sacrificabat quidem Ieroboam, &amp; deo 
+          qui<lb ed="#Z" n="35" break="no"/>dem sacrificabat, sed quia non legitime sacrificabat, alienus &amp; defector a uera 
+          <lb ed="#Z" n="36"/>dei ecclesia appellatur. Quid quod ipse Dauid arcam domini exercituum 
+          sum<lb ed="#Z" n="37" break="no"/>ma cum deuotione &amp; maxio cum iubilo deducebat, quoniam uero non legi¬  
+          <lb ed="#Z" n="38"/>time portabatur in humeris sacerdotum, protinus pro letitia magna ingens 
+          lu<lb ed="#Z" n="39" break="no"/>ctus obortus, coarguit non satis esse usurpare sacramenta &amp; instituta domini,  
+          <lb ed="#Z" n="40"/>nisi usurpes legitime. Hoc enim si fiat, agnoscit te deuspro suo. Porro 
+          bapti<lb ed="#Z" n="41" break="no"/>satos quondam ab haereticis, ea de caussa non rebaptizarunt ueteres catholici 
+          <lb ed="#Z" n="42"/>quod heretici non in nomen hominis alicuius, aut in consortium suae 
+          ignoran<lb ed="#Z" n="43" break="no"/>tiae uel haereseos, sed in nomen patris &amp; filij &amp; spiritus sancti tinxerunt, nec 
+          <lb ed="#Z" n="44"/>suum uel haeresiarcharum, sed nomen Christi Iesu inuocarunt. Ergo baptismum 
+          <lb ed="#Z" n="45"/>non haereticorum quidem, sed ecclesiae baptismum, collatum autem ab 
+          haereti<lb ed="#Z" n="46" break="no"/>cis, non reprobantes, ecclesias haereticorum non approbauerunt, ueluti ex 
+          ue<lb ed="#Z" n="47" break="no"/>ro signo ueras declaratas: sed agnouerunt haereticos rebus peculiariter ad 
+          ec<lb ed="#Z" n="48" break="no"/>clesiam ueram pertinentibus uti: neque rei bonae derogari tantillum, si ipsam ma¬ 
+          <!--573.xml-->
+          <pb ed="#Z" n="275-v"/>
+          <lb ed="#Z" n="1"/>lus aliquis administret. Nonlagnoscimus hodie ecclesiam Papae Romanensem 
+          <lb ed="#Z" n="2"/>neotericam (de ueteri illa apostolica nihil iam dicimus) ueram esse Christi eccle 
+          <lb ed="#Z" n="3"/>siam, attamen non retingimus baptisatos a sacerdotibus Romana imbutis cor- 
+          <lb ed="#Z" n="4"/>ruptione. Scimus enim illos baptismolecclesiae Christi, non Papae, in nomen 
+          <lb ed="#Z" n="5"/>sanctae trinitatis, ad articulos fidei catholicae, non ad errores, non ad 
+          superstitio<lb ed="#Z" n="6" break="no"/>nes &amp; impietates papisticas esse tinctos. Denique fatemur ne hodie quidem rei 
+          <lb ed="#Z" n="7"/>diuinae derogare quicquam indignitatem ministri. Ita non repudiamus 
+          Ora<lb ed="#Z" n="8" break="no"/>tionem dominicam, aut Symbolum apostolorum, aut ipsam denique scripturam  
+          <lb ed="#Z" n="9"/>Canonicam, quod his quoque utatur Romana eccesia. Habet enim illa non ex 
+          <lb ed="#Z" n="10"/>semetipsa, sed accepit a uera dei ecclesia. Vnde cum illis in commune utimur 
+          <lb ed="#Z" n="11"/>cum ipsa, non propter ipsant Romanam ecclesiam, sed quia profecta sunt ab ipsa 
+          <lb ed="#Z" n="12"/>uera Christi ecclesia, utimur.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1174">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Praeter illas exteriores ecclesiae notas, quas uere credentes communes 
+          ha<lb ed="#Z" n="14" break="no"/>bent cum hypocritis, sunt interiores quaedam singularesque pijs duntaxat: siue 
+          <lb ed="#Z" n="15"/>illas uincula &amp; dona peculiaria appellare malis. Haec exteriores notas 
+          frugise<lb ed="#Z" n="16" break="no"/>ras reddunt, &amp; sine externis notis, neceslitate aliqua absentibus, acceptos uel 
+          <lb ed="#Z" n="17"/>gratos deo efficiunt. Nam sine his nemo placet deo: in his ergo est uerus typus 
+          <lb ed="#Z" n="18"/>filiorum dei. Sunt autem communio spiritus domini, fides syncera, &amp; charitas 
+          <lb ed="#Z" n="19"/>gemina. His enim fideles uera &amp; uiua Christi membra, primum quidem capiti 
+          <lb ed="#Z" n="20"/>Christo, deinde omnibus membris corporis ecclesiastici coniunguntur. Ac 
+          <lb ed="#Z" n="21"/>pertinet haec consideratio in primis ad cognitionem uerae dei ecclesiae, quae 
+          li<lb ed="#Z" n="22" break="no"/>cet putrida toleret membra, ab his tamen per coniunctionem externam non 
+          pol<lb ed="#Z" n="23" break="no"/>luitur. Perpetuo enim studio se incontaminatam deo seruare contendit. Ac 
+          prin<lb ed="#Z" n="24" break="no"/>cipio Christum nobis coniungi spiritu suo, nos illi conecti animo uel spiritu per 
+          <lb ed="#Z" n="25"/>fidem, ut ipse uiuat in nobis, nos in ipso, docet nos euangelica &amp; apostolica 
+          do<lb ed="#Z" n="26" break="no"/>ctrina. In euangelio enim clamat dominus, Si quis sitit, ueniat ad me &amp; bibat. 
+          <lb ed="#Z" n="27"/>Qui credit in me, sicut dicit scriptura, fumina de uentre eius fsuent aquae uiuae.  
+          <lb ed="#Z" n="28"/>Quibus mox subiungit euangelista, Hoc autem dixit de spiritu, quem accepturi 
+          <lb ed="#Z" n="29"/>erant credentes in ipsum, Rursus in euangelio spiritum suum promittens di- 
+          <lb ed="#Z" n="30"/>scipulis, imo omnibus fidelibus suis, qui semper cum ipsis maneat. In illo die 
+          <lb ed="#Z" n="31"/>cognoscetis, inquit, quod ego sum in patre, &amp; uos in me, &amp; ego in uobis, nimi- 
+          <lb ed="#Z" n="32"/>rum per spiritum sanctum: Ioanne apostolo interpretante &amp; dicente, Per hoc 
+          <lb ed="#Z" n="33"/>scimus quod manet in nobis, per spiritum quem dedit nobis. Et iterum, Ex hoc 
+          <lb ed="#Z" n="34"/>cognoscimus quod in eo manemus &amp; ipse in nobis : quoniam de spiritu suo 
+          <lb ed="#Z" n="35"/>de dit nobis. Non discrepat a beato Ioanne uas electionis Paulus, Romanis scri 
+          <lb ed="#Z" n="36"/>bens &amp; dicens, Si quis spiritum Christi non habet, hic non est eius. Et quicunque 
+          <lb ed="#Z" n="37"/>spiritu dei ducuntur, hi sunt filij dei. lam quod attinet ad fidem ueram 
+          conne<lb ed="#Z" n="38" break="no"/>ctentem nos domino, Paulus, Viuo iam non ego, inquit, sed uiuit in me Chri- 
+          <lb ed="#Z" n="39"/>stus. Vitam autem quam nunc uiuo in carne, per fidem uiuo filij dei: qui 
+          dile<lb ed="#Z" n="40" break="no"/>xit me, &amp; tradidit semetipsum pro me. Et iterum idem, Christus, inquit, 
+          inha<lb ed="#Z" n="41" break="no"/>bitat per fidem in cordibus nostris. Cum quibus sententijs consentiens rursus 
+          <lb ed="#Z" n="42"/>apostolus Ioannes,. Quisquis, inquit, confessus fuerit quod Iesus est filius dei, 
+          <lb ed="#Z" n="43"/>deus in eo manet &amp; ipse in deo. Nam ipse dominus prior in euangelio dixit,  
+          <lb ed="#Z" n="44"/>Qui edit meam carnem &amp; bibit meum sanguinem, i me manet &amp; ego in 
+          illo<lb ed="#Z" n="45" break="no"/>Edit autem &amp; bibit sanguinem Christi qui credit. Proinde spiritu coniungitur 
+          <lb ed="#Z" n="46"/>nobis Christus dominus, nos animo &amp; fide ei connectimur, ueluti corpus 
+          ca<lb ed="#Z" n="47" break="no"/>piti: quo nexu &amp; uinculo carentes, id est, non habentes spiritum Christi neque 
+          <lb ed="#Z" n="48"/>ueram in Christum fidem, uera &amp; uiua Christi membra non sunt : ipso rursus 
+          <!--574.xml-->
+          <pb ed="#Z" n="276-r"/>
+          <lb ed="#Z" n="1"/>domino in euangelio testante &amp; dicente, Si quis in me non manserit, eiectus,  
+          <lb ed="#Z" n="2"/>est foras sicut palmes, &amp; exaruit, &amp; colligunt eos, &amp; in ignem conijciunt, &amp; 
+          ar<lb ed="#Z" n="3" break="no"/>dent. Quae uerba saluatoris imitatus apostolus (quod &amp; modo adduximus) di-¬ 
+          <lb ed="#Z" n="4"/>xit, Qui spiritum Christi non habet, hic non est eius. Caeterum non destituti 
+          <lb ed="#Z" n="5"/>Christi spiritu, dilectione dei ardent. Neque enim a fide separamus dilectionem, 
+          <lb ed="#Z" n="6"/>ipso nos iterum Ioanne docente &amp; dicente, Deus charitas est, &amp; qui manet in 
+          <lb ed="#Z" n="7"/>charitate, in deo manet, &amp; deus in eo. Etenim in euangelio dixit dominus, Si 
+          <lb ed="#Z" n="8"/>quis diligit me, sermonem meum seruabit, &amp; pater meus diliget eum, &amp; ad eum  
+          <lb ed="#Z" n="9"/>ueniemus, &amp; mansionem apud eum faciemus.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1279">
+          <lb ed="#Z" n="10"/><pc type="indent"/> Tametsi uero fides proprie Christo capiti nos coniungat, eadem tamen 
+          con<lb ed="#Z" n="11" break="no"/>nectit nos omnibus etiam membris Christi in terris. Cum enim omnium eadem  
+          <lb ed="#Z" n="12"/>sit fides, &amp; iccirco spiritus idem, non potest non idem os, eadem mens atque 
+          sen<lb ed="#Z" n="13" break="no"/>tentia esse omnibus: quamuis fides nunc non usurpetur pro fiducia tantum in 
+          <lb ed="#Z" n="14"/>misericordiam dei per Iesum Christum, sed &amp; pro confessione fidei externa. 
+          Ean<lb ed="#Z" n="15" break="no"/>dem enim fidem, &amp; unum atque idem caput, uno spiritu &amp; ore confitentes 
+          uni<lb ed="#Z" n="16" break="no"/>uersi, simul etiam profitemur nos omnes unius atque eiusdem corporis esse 
+          mem<lb ed="#Z" n="17" break="no"/>bra. Nec est in mundo ulla res alia, quae animos hominum dissociet 
+          implacabi<lb ed="#Z" n="18" break="no"/>lius, quam fidei uel religionis diuersitas: iccirco nihil est quod nos compingat 
+          <lb ed="#Z" n="19"/>arctius, quam fidei unitas. Descendimus modo ad charitatem, quam dixi 
+          mem<lb ed="#Z" n="20" break="no"/>bra corporis ecclesiastici mutuo inter se connectere. Dicit in euangelio 
+          domi<lb ed="#Z" n="21" break="no"/>nus, Praeceptum nouum do uobis, ut diligatis inuicem, sicut dilexi uos, ut &amp; 
+          <lb ed="#Z" n="22"/>uos diligatis inuicem. In hoc cognoscent omnes, quod discipuli mei sitis, si cha 
+          <lb ed="#Z" n="23"/>ritatem habueritis inter uos mutuam. Indubitatum ergo est, unicam post fidem  
+          <lb ed="#Z" n="24"/>ecclesiae tesseram, esse charitatem, uinculum omnia membra quam arctissime 
+          <lb ed="#Z" n="25"/>connectens. Nascitur ipsa ex comunione Christi unitateque spiritus. Quia enim  
+          <lb ed="#Z" n="26"/>Christus rex caput &amp; pontifex ecclesiae catholicae, omnes nos uno &amp; eodem spi 
+          <lb ed="#Z" n="27"/>ritu donans, omnes sibi adaptauit in membra, filios dei, fratres &amp; cohaeredes,  
+          <lb ed="#Z" n="28"/>quos haud dubie diligit impensissime, non potest non fidelis quilibet summo 
+          <lb ed="#Z" n="29"/>amore coplecti regis capitis &amp; pontificis summi membra &amp; cohaeredes. 
+          Ioan<lb ed="#Z" n="30" break="no"/>nes enim apostolus. Omnis, inquit, qui diligit eum qui genuit, diligit &amp; eum  
+          <lb ed="#Z" n="31"/>qui natus est ex eo. Si quis dixerit, diligo deum, &amp; fratrem suum oderit, 
+          men<lb ed="#Z" n="32" break="no"/>dax est. Qui enim non diligit fratrem suum quem uidet, deum quem non 
+          ui<lb ed="#Z" n="33" break="no"/>det quomodo potest diligere: Paulus ut hanc unitatem &amp; consensionem 
+          mem<lb ed="#Z" n="34" break="no"/>brorum, quam proprijssime exprimeret &amp; oculis nostris ceu contemplandam 
+          <lb ed="#Z" n="35"/>proponeret, parabola utitur, sumpta a mebris humani corporis, et dicit, Quema l 
+          <lb ed="#Z" n="36"/>admodum in uno corpore membra multa habemus, membra uero omnia non  
+          <lb ed="#Z" n="37"/>eundem actum habent: sic multi unum corpus in Christo sumus, sigillatim 
+          au<lb ed="#Z" n="38" break="no"/>tem alij aliorum membra. Idem in 12. prioris ad Corinthios capite copiosius 
+          <lb ed="#Z" n="39"/>significantiusque eandem capitis ac membrorum &amp; horum praecipue 
+          parabo<lb ed="#Z" n="40" break="no"/>lam exponens elegantissimeque expoliens, testificatur inter ima &amp; summa 
+          eccle<lb ed="#Z" n="41" break="no"/>siae membra summum &amp; congruentissimum esse consensum, praeterea sedulam  
+          <lb ed="#Z" n="42"/>solicitudinem &amp; auxilium tum perpetuum tum fidissimum. Ex quibus quidem  
+          <lb ed="#Z" n="43"/>omnibus confit, notas uerae &amp; uiuae Christi ecclesiae esse communionem 
+          spiri<lb ed="#Z" n="44" break="no"/>tus Christi, synceram fidem &amp; charitatem Christianam: sine quibus nemo com 
+          <lb ed="#Z" n="45"/>municat hoc spirituali corpore. Ex his quoque facillimum erit iudicare, sis ne in 
+          <lb ed="#Z" n="46"/>consortio ecclesiae an non sis.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1363">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Praeterea colligimus ex illis quae disseruimus hucusque de signis ecclesiae Chri 
+          <lb ed="#Z" n="48"/>si, unde sit origo. eius, quomodo item plantetur, propagetur &amp; conseruetur 
+          <!--575.xml-->
+          <pb ed="#Z" n="276-v"/>
+          <lb ed="#Z" n="1"/>ecclesia. Origo eius coelestis est. Paulus enim. Quae sursum est Hierusalem (in¬ 
+          <lb ed="#Z" n="2"/>quit loquens de ecclesia) libera est, quae est mater omnium nostrum. Ergo 
+          coe<lb ed="#Z" n="3" break="no"/>lestem uocat ecclesiam, non quod uniuersa habitet in coelis, sed quod agens 
+          ad<lb ed="#Z" n="4" break="no"/>huc in terris originem habeat coelestem. Etenim filij dei non nascuntur ex 
+          car<lb ed="#Z" n="5" break="no"/>ne &amp; sanguine, sed ex coelo, per renouationem sancti spiritus, qui per 
+          praedica<lb ed="#Z" n="6" break="no"/>tionem uerbi diuini plantat fidem in cordibus nostris, per quam fidem effici- 
+          <lb ed="#Z" n="7"/>mur uera Christi &amp; ecclesiae membra. Petrus enim dicit, Renati estis non ex 
+          <lb ed="#Z" n="8"/>semine mortali, sed immortali, per sermonem uiuentis dei &amp; manentis in 
+          aeter<lb ed="#Z" n="9" break="no"/>num. Et Paulus, In Christo Iesu per euangelium, inquit, ego uos genui. Idem  
+          <lb ed="#Z" n="10"/>enim apostolus alibi dicit, <quote xml:id="UD1xh4-V7A8Vb-Qd1e1396" source="http://scta.info/resource/rom10_17">Fides ex auditu est, auditus autem per uerbum dei</quote>.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1400">
+          <lb ed="#Z" n="11"/><pc type="indent"/> Cum autem <quote xml:id="UD1xh4-V7A8Vb-Qd1e1405" source="http://scta.info/resource/rom10_17">fides ex auditu sit, auditus autem per uerbum dei</quote>, &amp; 
+          significan<lb ed="#Z" n="12" break="no"/>ter quidem per uerbum dei, nequit profecto ecclesia oriri aut aedificari decretis 
+          <lb ed="#Z" n="13"/>&amp; doctrinis hominum. Ergo solum dei uerbum ad aedificationem ecclesiae con 
+          <lb ed="#Z" n="14"/>gruere asseueramus. Doctrinae humanae humanam excitant ecclesiam: uerbum 
+          <lb ed="#Z" n="15"/>Christi Christianam extruit. Nam ex carne &amp; sanguine sunt doctrinae humanae.  
+          <lb ed="#Z" n="16"/>Petrus autem uera fide Christum confitens, ideoque impositus fundamento 
+          ec<lb ed="#Z" n="17" break="no"/>clesiae Christo, ab ipso audit Christo, Caro &amp; sanguis non reuelauit tibi, sed 
+          pa<lb ed="#Z" n="18" break="no"/>ter meus qui in coelis est. Ergo &amp; Paulus, Vbi deo uisum est, inquit, ut 
+          praedi<lb ed="#Z" n="19" break="no"/>carem filium eius inter gentes, non contuli cum carne &amp; sanguine. Et reliqua. 
+          <lb ed="#Z" n="20"/>ldem ab aedificatione fidei ac ecclesiae quam manifestissime remouens 
+          huma<lb ed="#Z" n="21" break="no"/>nas doctrinas, &amp; solum dei uerbum commendans, dicit ad Corinthios, 
+          Praedi<lb ed="#Z" n="22" break="no"/>catio mea non erat in persuasorijs humanae sapientiae uerbis, ut fides uestra non 
+          <lb ed="#Z" n="23"/>sit in sapientia hominum, sed in potentia dei. Huc iam pertinent haec Christi 
+          <lb ed="#Z" n="24"/>testimonia. Qui ex deo est, uerbum dei audit. Item. Omnis qui ex ueritate est,  
+          <lb ed="#Z" n="25"/>audit uocem meam. Et adhuc clarius, Ques pastorem sequuntur, quia 
+          noue<lb ed="#Z" n="26" break="no"/>runt uocem eius. Alienum autem non sequentur, sed effugient ab eo: quia non  
+          <lb ed="#Z" n="27"/>nouerunt uocem alienorum. Atqui sub uocem alienorum referimus omnia 
+          de<lb ed="#Z" n="28" break="no"/>creta hominum aliena a doctrina Christi: quibus apostolus Paulus tribuit 
+          qui<lb ed="#Z" n="29" break="no"/>dem sapientiae speciem, sed adimit ueritatem, superstitiosaque appellat. Nam ipse 
+          <lb ed="#Z" n="30"/>dominus noster in euangelio ex propheta lsaia irrefragabile illud profert in 
+          me<lb ed="#Z" n="31" break="no"/>dium, Frustra me colunt, docentes doctrinas, praecepta hominum. Teneamus 
+          <lb ed="#Z" n="32"/>ergo ueram dei ecclesiam non extrui humanis decretis, sed eam solo Christi 
+          uer<lb ed="#Z" n="33" break="no"/>bo fundari, plantari, colligi &amp; extrui.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1457">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Addimus indubitatum esse, eodem dei uerbo ecclesiam dei, ne uel seducatur 
+          <lb ed="#Z" n="35"/>uel dilabatur &amp; pereat, conseruari, nec aliter unquam ullo pacto conseruari 
+          <lb ed="#Z" n="36"/>posse, Paulo iterum testante, &amp; dicente, Christus dedit alios quidem apostolos,  
+          <lb ed="#Z" n="37"/>alios uero prophetas, alios autem euangelistas, alios autem pastores &amp; 
+          docto<lb ed="#Z" n="38" break="no"/>res, ad administrationem sanctorum in opus dispensationis (id est ad docendum 
+          <lb ed="#Z" n="39"/>&amp; dispensandum uerbum) in aedificationem corporis Christi, donec 
+          peruenia<lb ed="#Z" n="40" break="no"/>mus omnes in unitatem fidei &amp; agnitionis filij dei, in uirum perfectum, in men 
+          <lb ed="#Z" n="41"/>suram aetatis plene adultae Christi, ut non amplius simus pueri, qui ffuctuemus 
+          <lb ed="#Z" n="42"/>&amp; circunferamur quouis uento doctrinae, per uersutiam hominum sen 
+          damnan<lb ed="#Z" n="43" break="no"/>tur iterum graui &amp; irrefragabili authoritate hominum doctrinae) per astutiam  
+          <lb ed="#Z" n="44"/>qua adoriuntur nos ut seducant nos : sed ueritatem sectantes in charitate, 
+          ado<lb ed="#Z" n="45" break="no"/>lescamus in illum per omnia, qui est caput, nempe Christus: ex quo totum cor- 
+          <lb ed="#Z" n="46"/>pus si coagmentetur &amp; compingatur per omnem commissuram 
+          administra<lb ed="#Z" n="47" break="no"/>tionis, iuxta actum in mensura uniuscuiusque partis, incrementum corporis 
+          fa<lb ed="#Z" n="48" break="no"/>cit, in aedificationem suijpsius per charitatem. Haec apostoli uerba clariora sunt 
+          <!--576.xml-->
+          <pb ed="#Z" n="277-r"/>
+          <lb ed="#Z" n="1"/>quam ulla indigeant interpretatione copiosiore. Locum aunt hic haberet Ordo 
+          <lb ed="#Z" n="2"/>gubernandi ecclesiam per praedicationem uerbi dei, quam plerique appellant 
+          <lb ed="#Z" n="3"/>ministerium uerbi uel ecclesiae. De quo dicemus, deo uolente, Sermone lls, 
+          <lb ed="#Z" n="4"/>Satis fuerit hic tenere, dominum deum nostrum, datis ecclesiae doctoribus, 
+          ec<lb ed="#Z" n="5" break="no"/>clesiam suam per Verbum, &amp; quidem per solum uerbum suum, fundare, ex- 
+          <lb ed="#Z" n="6"/>truere &amp; conseruare propagareque.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1511">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Veniunt autem in praesenti consideranda duo. Prius, ecclesiam dei propter 
+          <lb ed="#Z" n="8"/>perpetuum ac constans uerbi dei studium appellari Propheticam &amp; 
+          apostoli<lb ed="#Z" n="9" break="no"/>cam, denique &amp; orthodoxam. Prophetica enim &amp; apostolica dicitur, quod 
+          ope<lb ed="#Z" n="10" break="no"/>ra prophetarum &amp; apostolorum primum sit extructa, ac per eorundem doctri- 
+          <lb ed="#Z" n="11"/>nam conseruetur uel hodie, propageturque in finem usque saeculi. Orthodoxa di-s 
+          <lb ed="#Z" n="12"/>citur, quod rectae sententiae opinionis ac hdei sit. Extra ecclesiam enim non est 
+          <lb ed="#Z" n="13"/>uera fides, neque ulla de uera uirtute &amp; selicitate doctrina absoluta. Ecclesiae fi- 
+          <lb ed="#Z" n="14"/>des &amp; doctrina coelitus ab ipso deo reuelata est per Adamum &amp; patriarchas,  
+          <lb ed="#Z" n="15"/>per Mosen &amp; prophetas, per Christum &amp; apostolos. Vnde &amp; mater alibi 
+          dici<lb ed="#Z" n="16" break="no"/>tur. De quo dicemus Sermone proximo.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1536">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Posterius, successionem doctorum uel pastorum ecclesiae sine uerbo dei per 
+          <lb ed="#Z" n="18"/>se nihil probare. Iactant Papisticae ecclesiae propugnatores, se certissimum 
+          ha<lb ed="#Z" n="19" break="no"/>bere signum apostolicae ecclesiae, nimirum in perpetua illa episcoporum suca 
+          <lb ed="#Z" n="20"/>cessione, a sancto Petro per Clementem primum, ad Clementem usque VII. ad 
+          <lb ed="#Z" n="21"/>Paulum item 115: nuper mortuum, &amp; ad lulium usque 11I. non ita pridem 
+          crea<lb ed="#Z" n="22" break="no"/>tum, decurrente. Adijnciunt resecta esse membra quotquot ab illa se separent 
+          <lb ed="#Z" n="23"/>ecclesia, in qua sola reperiatur successio illa apostolica. Nos uero non negamus 
+          <lb ed="#Z" n="24"/>successionem pastorum certam in primitiua ecclesia magni fuisse momenti. Qui 
+          <lb ed="#Z" n="25"/>enim tunc appellabantur, erant pastores, &amp; munia pastorum obibant. Quales 
+          <lb ed="#Z" n="26"/>autem fuerint pastores a saeculis multis, quos Romanae ecclesiae pastores 
+          appel<lb ed="#Z" n="27" break="no"/>lauit Cardinalium, episcoporum mitratorum &amp; sophistarum uulgus, nemo 
+          ne<lb ed="#Z" n="28" break="no"/>scit nisi sensu communi carens. Audit Aacharias propheta sibi suggeri a 
+          do<lb ed="#Z" n="29" break="no"/>mino, Adhuc sume tibi uasa pastoris stulti. Quia ecce ego suscitabo pastorem 
+          <lb ed="#Z" n="30"/>in terra, qui derelicta non uisitabit, dispersum non quaerent, &amp; contritum non  
+          <lb ed="#Z" n="31"/>sanabit, &amp; id quod stat non enutriet, &amp; carnes pinguium comedet, &amp; ungulas 
+          <lb ed="#Z" n="32"/>eorum dissoluet. Vae pastori idolo, qui deserit gregem. Et caetera. Proinde ni- 
+          <lb ed="#Z" n="33"/>hilo plus probant isti continua serie episcoporum, uerbum dei non docentium 
+          <lb ed="#Z" n="34"/>syncere, neque fungentium pastorum munere, quam si mundo ob oculos 
+          sta<lb ed="#Z" n="35" break="no"/>tuant magnam idolorum copiam. Quis enim negare audeat bonam, imo 
+          ma<lb ed="#Z" n="36" break="no"/>ximam partem Romanorum pontificum, post Gregorium magnum, 
+          huius<lb ed="#Z" n="37" break="no"/>modi fuisse idola, huiusmodi lupos &amp; depastores, quales descripsit propheta 
+          <lb ed="#Z" n="38"/>acharias? Quid ergo talium pseudopastorum probaret continua 
+          successio<lb ed="#Z" n="39" break="no"/>Quid quod postremi uniuersam prope ecclesiam traditionibus hominum 
+          opple<lb ed="#Z" n="40" break="no"/>uerunt &amp; uerbum dei partim oppresserunt, partim persecuti sunt? In ueteri 
+          ls<lb ed="#Z" n="41" break="no"/>raelis ecclesia erat continuus ordo pontificum, non interrupta serie, ab ipso 
+          <lb ed="#Z" n="42"/>Aarone ad Vriam usque, sub Achas uiuente, &amp; ad alios usque impios pontifices,  
+          <lb ed="#Z" n="43"/>a uerbo dei ad traditiones hominum, imo &amp; ad idololatriam deficientes. At 
+          <lb ed="#Z" n="44"/>successio illa non probabat idololatras pontifices, cum ecclesia ipsis adherente,  
+          <lb ed="#Z" n="45"/>ueros dei pontifices, ueramque dei esse eeclesiam. Certe prophetae dei ueri, ortho 
+          <lb ed="#Z" n="46"/>doxi &amp; catholici uiri, solumque dei uerbum sine traditionibus, imo contra tradis 
+          <lb ed="#Z" n="47"/>tiones praedicantes, non potuerunt ullam recensere antecessorum sacerdotum non 
+          <lb ed="#Z" n="48"/>interruptam seriem, in qua succederent ipsi, &amp; tamen erant illustrissima ecclesiae 
+          <!--577.xml-->
+          <pb ed="#Z" n="277-v"/>
+          <lb ed="#Z" n="1"/>luminaria, &amp; preclarissima ecclesiae dei membra, credentesque praedicationi 
+          ipso<lb ed="#Z" n="2" break="no"/>rum, nec schilmatici, nec heretici, sed uera Christi ecclesia uel hodie agnoscitur. 
+          <lb ed="#Z" n="3"/>Cum Christus dominus noster, benedictus dei filrus, doceret in terris, 
+          collige<lb ed="#Z" n="4" break="no"/>retque ecclesiam, successio pontificum erat apud aduersarios. At illi ea de cauiam 
+          <lb ed="#Z" n="5"/>non praesidebant uerae dei ecclesiae, Christus haereticae. Sed &amp; Apostoli domini 
+          <lb ed="#Z" n="6"/>nostri non potuerunt pro se &amp; sua doctrina pontificum non interruptam seriem 
+          <lb ed="#Z" n="7"/>proferre. Nam ordinati erant a domino, qui &amp; ipse extra successionem ordinis 
+          <lb ed="#Z" n="8"/>Leuitici, iuxta nouum ordinem Melchizedechicum, a deo creatus erat 
+          ponti<lb ed="#Z" n="9" break="no"/>fex in aeternum, &amp; tamen ecclesia ab ipsis collecta, agnoscitur ab omnibus uera 
+          <lb ed="#Z" n="10"/>&amp; sancta esse ecclesia. llli ipsi apostoli pro ueris suis imitatoribus &amp; successori- 
+          <lb ed="#Z" n="11"/>bus non alios, quam recta ambulantes in doctrina ac uia Christi, agnosci 
+          uolue<lb ed="#Z" n="12" break="no"/>runt. Notissima est enim illa uulgaris Paulina sententia, lmitatores mei estote, 
+          <lb ed="#Z" n="13"/>sicut &amp; ego Christi. Et quamuis haec ad omnes fideles dicat, non ad ministros 
+          <lb ed="#Z" n="14"/>uerbi dei duntaxat, hos tamen in primis tales uult esse imitatores suos, quales 
+          <lb ed="#Z" n="15"/>reliquum Christianorum uulgus, quemlibet utique in sua uocatione. Idem 
+          apo<lb ed="#Z" n="16" break="no"/>stolus loquens Mileti cum episcopis Asianis, inter alia, Ego noui hoc, inquit  
+          <lb ed="#Z" n="17"/>quod ingressuri sint post discessum meum lupi graues in uos, non parcentes 
+          <lb ed="#Z" n="18"/>gregi. Et ex uobis ipsis exorientur uiri, loquentes peruersa, ut abducant disci- 
+          <lb ed="#Z" n="19"/>pulos post se. Paulus apostolus non aliunde quam ex ipsa apostolica ecclesia, 
+          <lb ed="#Z" n="20"/>imo ex coetu uel choro episcoporum &amp; pastorum apostolicorum, deriuat lupos 
+          <lb ed="#Z" n="21"/>&amp; depastores ecclesiae. An uero hi non potuissent pro se &amp; pro caussa sua 
+          cor<lb ed="#Z" n="22" break="no"/>ruptissima adducere seriem apostolicam, se uidelicet ex apostolicis descendere 
+          <lb ed="#Z" n="23"/>pastoribus? Caeterum quoniam perfidi defecerunt a fide, &amp; a doctrina 
+          aposto<lb ed="#Z" n="24" break="no"/>lica, nihil pro ipsis faciebat origo &amp; successio apostolica. Concludimus ergo,  
+          <lb ed="#Z" n="25"/>successionem continuam episcoporum per se nihil probare, imo non esse 
+          suc<lb ed="#Z" n="26" break="no"/>cessionem iustam puritate doctrinae euangelicae &amp; apostolicae carentem,
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1670">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Ideoque Tertullianus magni faciens, &amp; merito quidem, successionem 
+          pasto<lb ed="#Z" n="28" break="no"/>rum in ecclesia continuam, flagitat tamen ipsam doctrinae apostolicae 
+          synceri<lb ed="#Z" n="29" break="no"/>tate approbari: imo ecclesias doctrina pura instructas, nec interim 
+          episcopo<lb ed="#Z" n="30" break="no"/>rum successionem recensere ualentes, pro apostolicis agnoscit. Verba 
+          autho<lb ed="#Z" n="31" break="no"/>ris si quis requirat, haec sund. Caeterum si quae audent interserere se aetati 
+          apo<lb ed="#Z" n="32" break="no"/>stolicae, ut ideo uideantur ab apostolis traditae, quia sub apostolis fuerunt, 
+          pos<lb ed="#Z" n="33" break="no"/>sumus dicere, Aedant igitur origines ecclesiarum suarum, euoluant ordinem 
+          <lb ed="#Z" n="34"/>episcoporum suorum, ita per successiones ab initio decurrentem, ut primus ille 
+          <lb ed="#Z" n="35"/>episcopus aliquem ex apostolis uel apostolicis uiris, qui tamen cum apostolis 
+          <lb ed="#Z" n="36"/>perseuerarit, habuerit authorem &amp; antecessorem. Hoc enim modo apostolicae 
+          <lb ed="#Z" n="37"/>ecclesiae census suos deserunt. Sicut Smyrneorum ecclesia habens Polycarpum,  
+          <lb ed="#Z" n="38"/>ab Ioanne collocatum re ert. Sicut Romanorum Clementem a Petro 
+          ordina<lb ed="#Z" n="39" break="no"/>tum aedit : prinde utique &amp; caeterae exhibent, quos ab apostolis in episcopatum 
+          <lb ed="#Z" n="40"/>constitutos apostolici seminis traduces habeant. Confingant tale aliquid 
+          haere<lb ed="#Z" n="41" break="no"/>tici (quid enim illis post blasphemiam illicitum est?) sed etsi confinxerint, nihil 
+          <lb ed="#Z" n="42"/>promouebunt. Ipsa enim doctrina eorum cum apostolica comparata, ex di- 
+          <lb ed="#Z" n="43"/>uersitate &amp; contrarietate sua pronunciabit, neque apostoli alicuius authoris esse,  
+          <lb ed="#Z" n="44"/>neque apostolici. Quia sicut apostoli non diuersa inter se docuissent: ita &amp; 
+          <lb ed="#Z" n="45"/>apostolici non contraria apostolis aedidissent: nisi illi qui ab apostolis 
+          desciue<lb ed="#Z" n="46" break="no"/>runt, &amp; aliter praedicauerunt. Ad hanc itaque formam prouocabuntur ab illis 
+          <lb ed="#Z" n="47"/>ecclesijs, quae licet nullum ex apostolis aut apostolicis authorem suum 
+          profe<lb ed="#Z" n="48" break="no"/>tant, ut multo posteriores, quae denique quotidie instituuntur, tamen in eadem  
+          <!--578.xml-->
+          <pb ed="#Z" n="278-r"/>
+          <lb ed="#Z" n="1"/>fide conspirantes, non minus apostolicae deputantur pro consanguinitate 
+          do<lb ed="#Z" n="2" break="no"/>ctrinae.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1730">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Idem author loquens de antiqua Romana ecclesia, summamque contexens 
+          <lb ed="#Z" n="4"/>quid docuerit ac didicerit, dicit, Felix ecclesia, cui totam doctrinam apostoli 
+          <lb ed="#Z" n="5"/>cum sanguine suo profuderunt : ubi Petrus passioni dominicae adaequatur: ubi 
+          <lb ed="#Z" n="6"/>Paulus Ioannis exitu coronatur: ubi apostolus Ioannes, posteaquam in oleum 
+          <lb ed="#Z" n="7"/>igneum demersus, nihil passus est, in insulam relegatur. Videamus quid 
+          didi<lb ed="#Z" n="8" break="no"/>cerit, quid docuerit, cum Africanis quoque ecclesijs contesserarit, Vnum deum  
+          <lb ed="#Z" n="9"/>nouit creatorem uniuersitatis : &amp; Christum Iesum ex uirgine Maria filium dei 
+          <lb ed="#Z" n="10"/>creatoris : &amp; carnis resurrectionem : legem &amp; prophetas cum euangelicis &amp;  
+          <lb ed="#Z" n="11"/>apostolicis literis miscet : &amp; inde potat fidem eam: aqua signat: sancto spiritu 
+          <lb ed="#Z" n="12"/>uestit: eucharistia pascit: martyrio exhortatur: &amp; ita aduersus hanc institutio¬  
+          <lb ed="#Z" n="13"/>nem neminem recipit. Haec est institutio. Tantum Tertull, in libro quem 
+          in<lb ed="#Z" n="14" break="no"/>scripsit De praescriptionibus haereticorum.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1760">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Postremum quod obseruemus illud est, Dominum non tantum olim &amp; usque huc t 
+          <lb ed="#Z" n="16"/>dedisse, sed hodie quoque dare doctores &amp; pastores ecclesia : &amp; doctores quidem 
+          <lb ed="#Z" n="17"/>non ductores uel imperatores exercituum, non principes, non milites, non 
+          ho<lb ed="#Z" n="18" break="no"/>mines uafros, dolosis utentes artibus, quas hodie dicunt practicas. Nulla enim  
+          <lb ed="#Z" n="19"/>ratione alia, nullo modo, nulloue instrumento alio, quam doctrina ueritatis &amp;  
+          <lb ed="#Z" n="20"/>pietatis syncera &amp; simplici extruitur, munitur, &amp; conseruatur catholica &amp; 
+          san<lb ed="#Z" n="21" break="no"/>cta dei ecclesia, quam ab initio homines simplices &amp; apostoli Christi 
+          praedica<lb ed="#Z" n="22" break="no"/>tione euangelij fundauerunt, Remouet ergo omnem saecularem sapientiam Pau 
+          <lb ed="#Z" n="23"/>lus, &amp; ait, Ego per infirmitatem &amp; cum timore ac in tremore multo apud uos 
+          <lb ed="#Z" n="24"/>CCorinthi) uersatus sum, &amp; sermo meus &amp; praedicatio mea non erat in 
+          persuaso<lb ed="#Z" n="25" break="no"/>rijs humanae sapientiae uerbis, sed in ostentatione spiritus &amp; potentiae, ut fides 
+          <lb ed="#Z" n="26"/>uestra non sit in sapientia hominum sed in potentia dei, Remouet idem 
+          aposto<lb ed="#Z" n="27" break="no"/>lus omnia confilia dolosa cum omnis generis imposturis, cum ad Thessalonicen 
+          <lb ed="#Z" n="28"/>scribens dicit, Exhortatio nostra non fuit ex impostura, neque ex immunditia, 
+          <lb ed="#Z" n="29"/>neque cum dolo: sed quemadmodum probati fueramus a deo, ut nobis commit- 
+          <lb ed="#Z" n="30"/>teretur euangelium, ita loquimur: non hominibus placentes, sed deo, qui 
+          pro<lb ed="#Z" n="31" break="no"/>bat corda nostra. Neque enim unquam per sermonem adulationis uersati sumus? 
+          <lb ed="#Z" n="32"/>quemadmodum nostis: nec per occasionem auaritiae: deus est testis: neque 
+          quae<lb ed="#Z" n="33" break="no"/>rentes ex hominibus gloriam. Et reliqua. Quapropter desipit insanitque 
+          existi<lb ed="#Z" n="34" break="no"/>mans practicis, id est uafris hominum consilijs insidijsque, uel colligi uel collectam  
+          <lb ed="#Z" n="35"/>conseruari posse ecclesiam. Vere dicitur a uulgo, humana prudentia subuerti 
+          <lb ed="#Z" n="36"/>iterum, quod extructum sit humana prudentia. Praeterea remouet uim &amp; arma 
+          <lb ed="#Z" n="37"/>ab aedificatione ecclesiae ipse dominus cum usum gladij discipulis suis prohibet.  
+          <lb ed="#Z" n="38"/>ac Petro pugnanti iam, dicit, Conuerte gladium in locum suum. Neque uero 
+          <lb ed="#Z" n="39"/>ullos unquam missos legimus milites a domino, qui armata ui mundum sua 
+          <lb ed="#Z" n="40"/>bigant. Quinimo scriptura testatur ipsum hostem dei magnum antichristum  
+          <lb ed="#Z" n="41"/>spiritu oris dominici conficiendum. Vnde dubium non est, figurate exponi 
+          <lb ed="#Z" n="42"/>oportere oninia ea qua passim in prophetis &amp; apud achariam potissimum 
+          <lb ed="#Z" n="43"/>12. capite leguntur de bello omnibus gentibus ab apostolis apostolicisque 
+          ui<lb ed="#Z" n="44" break="no"/>ris inferendo. Etenim apostoli suo more pugnant ut apostoli, non hasta, 
+          gla<lb ed="#Z" n="45" break="no"/>dio &amp; arcu militiae carnalis, sed spiritualis. Gladius apostolicus est uerbum 
+          <lb ed="#Z" n="46"/>dei. Interim uero nemo negat, profuisse aliquando arma corporalis militiae 
+          <lb ed="#Z" n="47"/>apostolicis uiris &amp; ecclesiae, &amp; prodesse uel hodie : nemo negat deum 
+          usurpa<lb ed="#Z" n="48" break="no"/>re opera militum &amp; magistratus frequentissime ad defendendam ecclesiam  
+          <!--579.xml-->
+          <pb ed="#Z" n="278-v"/>
+          <lb ed="#Z" n="1"/>contra impios &amp; tyrannos. Imo fatentur omnes, bonum &amp; pium magistratum  
+          <lb ed="#Z" n="2"/>operam suam debere dei ecclesiae. Neque enim sine causa clarissimus dei 
+          pro<lb ed="#Z" n="3" break="no"/>pheta lsaias, reges appellat ecclesiae nutritios &amp; reginas nutrices. Paulus certe 
+          <lb ed="#Z" n="4"/>oppressus a ludaeis in templo Hierosolymitano, propter praedicationem 
+          euan<lb ed="#Z" n="5" break="no"/>gelij in gentes, armata Cl. Lysiae tribuni Rom. manu eripitur &amp; asseritur: mox 
+          <lb ed="#Z" n="6"/>additis eidem apostolo per eundem tribunum militibus non paucis, nempe 
+          <lb ed="#Z" n="7"/>equitum turma &amp; cohortibus aliquot peditum, incolumis Antipatrida &amp; 
+          Cae<lb ed="#Z" n="8" break="no"/>saream usque ad ludaeae Procos. Felicem deducitur. Id quod non temere tanta di- 
+          <lb ed="#Z" n="9"/>ligentia &amp; copia in Actis apostolorum a Luca comemoratur. Ecclesiastica histo¬  
+          <lb ed="#Z" n="10"/>ria non pauca nobis exempla sanctissimorum principum asserentium &amp; 
+          iuuan<lb ed="#Z" n="11" break="no"/>tium ecclesiam dei recitat. Sed haec alibi a nobis utcunque sunt tractata, 
+          Deca<lb ed="#Z" n="12" break="no"/>dis, ni fallor, secundae, Serm. 7. &amp; S. Haec autem hactenus de Origine ecclesiae 
+          <lb ed="#Z" n="13"/>dei, deque propagatione &amp; conseruatione eiusdem diximus.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e1870">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Hoc loco uideor mihi non admodum incommode quaestionem illam 
+          cele<lb ed="#Z" n="15" break="no"/>brem tractare uel paucis explicare posse, Num ecclesia dei errare possit? Quod 
+          <lb ed="#Z" n="16"/>ut intelligatur perspicacius, excutiam breuibus ipsius quaestionis terminos,  
+          <lb ed="#Z" n="17"/>Ecclesiam dei Catholicam docui comprehendere primum quidem beatos in coelc 
+          <lb ed="#Z" n="18"/>spiritus, deinde in terris omnes fideles Christi, quibus adhaerere dixi malos uel 
+          <lb ed="#Z" n="19"/>hypocritas ad tempus fidem simulantes. lam ergo si intelligamus ecclesiam 
+          bea<lb ed="#Z" n="20" break="no"/>torum spirituum, non errat ea unquam. Si uero intelligamus admixtos bonis 
+          <lb ed="#Z" n="21"/>malos uel hypocritas, &amp; hos quidem solos, per se quidem nihil aliud quam 
+          er<lb ed="#Z" n="22" break="no"/>rant: quatenus uero bonis aut fidelibus coniuncti sunt ac eos sequuntur, uel 
+          <lb ed="#Z" n="23"/>errant uel non errant. Bonorum enim uel fidelium ecclesia in terris errat &amp; non 
+          <lb ed="#Z" n="24"/>errat. Id quod errorum diuersitate expensa, integroque in censum numero 
+          col<lb ed="#Z" n="25" break="no"/>lecto explicabimus. Errorum alij sunt doctrinae &amp; fidei: alij uero uitae &amp; 
+          mo<lb ed="#Z" n="26" break="no"/>rum. Quales utrique sint, nemo ignorat, opinor. Videamus ergo, erret ne fidelis 
+          <lb ed="#Z" n="27"/>ecclesia in terris, &amp; si errat qua in re uel quatenus erret. Quod ad mores &amp; 
+          ui<lb ed="#Z" n="28" break="no"/>tam ecclesiae attinet, non potest se in uniuersum liberare ab erroribus, id est a 
+          <lb ed="#Z" n="29"/>peccatis, Semper enim dum in terris uiuit serio orat, Et remitte nobis debita 
+          <lb ed="#Z" n="30"/>nostra, sicut &amp; nos remittimus debitoribus nostris. Et deus pro sua misericor- 
+          <lb ed="#Z" n="31"/>dia semper expurgat in sanctis reliquias &amp; infirmitates, quandiu in hoc saeculo 
+          <lb ed="#Z" n="32"/>uiuunt, subinde recurrentes &amp; polluentes electos. Non ignoro quid te hic 
+          im<lb ed="#Z" n="33" break="no"/>pediat auditor fidelis. Si non est sancta &amp; pura ecclesia, ais, quomodo 
+          appella<lb ed="#Z" n="34" break="no"/>tur ab apostolo sancta sine macula &amp; ruga? Respondeo, si nolis in terris 
+          agno<lb ed="#Z" n="35" break="no"/>scere ecclesiam, nisi quae in uniuersum omni naeuo careat, nullam omnino cogeris 
+          <lb ed="#Z" n="36"/>agnoscere. Nulla enim talis superstes erit in terris ecclesia, ubi iustissimus deus,  
+          <lb ed="#Z" n="37"/>scriptura testificante, omnia conclusit sub peccatum, ut omnium misereatur. Pau 
+          <lb ed="#Z" n="38"/>lus ergo appellat ecclesiam puram, macula &amp; ruga carentem, propter Christi be- 
+          <lb ed="#Z" n="39"/>neficium &amp; sanctificationem: non quod per se, dum in carne agit, nullas habeat 
+          <lb ed="#Z" n="40"/>maculas, sed quod illae maculae reuera alioqui adhaerentes, propter Christi 
+          inno<lb ed="#Z" n="41" break="no"/>centiam, fide Christum amplexantibus, non imputentur : denique quod illa 
+          ea<lb ed="#Z" n="42" break="no"/>dem in futuro saeculo nullas sit habitura maculas uel rugas. Nam exuta carne, 
+          <lb ed="#Z" n="43"/>omnibus abiectis miserijs, tandem perficietur, ut ei desit nihil. Praeterea dicitur 
+          <lb ed="#Z" n="44"/>ecclesiam esse sine macula, propter assiduum studium ecclesiae, quo contendit &amp; 
+          <lb ed="#Z" n="45"/>annititur modis omnibus, ut quantum possibile est, quam minimum habeat 
+          macu<lb ed="#Z" n="46" break="no"/>larum. Et ea quidem ratione, &amp; maxime imputationis beneficio, non errat &amp; 
+          <lb ed="#Z" n="47"/>uelut impeccabilis &amp; purgatissima est ecclesia. Porro quod ad doctrinam &amp; fide 
+          <lb ed="#Z" n="48"/>attinet, non errat ecclesia Christi. Nam solius pastoris uocem audit, alienorum 
+          <!--580.xml-->
+          <pb ed="#Z" n="279-r"/>
+          <lb ed="#Z" n="1"/>autem non agnoscit : Christum enim unicum pastorem suum sequitur, 
+          dicen<lb ed="#Z" n="2" break="no"/>tem, Ego sum lux mundi: qui sequitur me, non ambulabit in tenebris, sed 
+          ha<lb ed="#Z" n="3" break="no"/>bebit lumen uitae. Paulus quoque ad Timotheum, Haec ad te hactenus dedi, 
+          in<lb ed="#Z" n="4" break="no"/>quit, ut noris quomodo oporteat te in domo dei uersari, quae est ecclesia dei 
+          ui<lb ed="#Z" n="5" break="no"/>uentis, columna &amp; basis ueritatis. Est autem Ecclesia columna &amp; basis 
+          uerita<lb ed="#Z" n="6" break="no"/>tis, quod imposita fundamento prophetarum &amp; apostolorum, ipsi Christo, qui  
+          <lb ed="#Z" n="7"/>est aeterna dei ueritas &amp; robur ecclesiae unicum, ab ipsius comunione accipiat,  
+          <lb ed="#Z" n="8"/>ut &amp; ipsa sit columna &amp; basis ueritatis. Est enim ueritas dei in ecclesia, eademque 
+          <lb ed="#Z" n="9"/>per ministerium ecclesiae propagatur, impetitaqe ab hostibus &amp; oppugnata, 
+          fir<lb ed="#Z" n="10" break="no"/>ma manens, non expugnatur: quatenus scilicet cum Christo concorporata in 
+          <lb ed="#Z" n="11"/>communione Christi perseuerat, sine quo nihil potest, Rursus autem errat 
+          ea<lb ed="#Z" n="12" break="no"/>dem illa ecclesia in doctrina &amp; fide, quoties uidelicet a Christo &amp; a uerbo eius 
+          <lb ed="#Z" n="13"/>auersa, homines carnisque consilia &amp; decreta sectatur. Illud enim deserit, quod 
+          <lb ed="#Z" n="14"/>obstitit hactenus ne aberraret, uerbum dei &amp; Christum. Nemo negat, opinor,. 
+          <lb ed="#Z" n="15"/>eximiam dei fuisse ecclesiam, coetum illum magnum populi lsraelitici in 
+          deser<lb ed="#Z" n="16" break="no"/>to, cum quo foedus pepigerat sacramentisque &amp; institutis ipsum sibi deuinxerat 
+          <lb ed="#Z" n="17"/>dominus. At quam turpiter illa errauerit, dum uerbo dei praeterito, nec 
+          con<lb ed="#Z" n="18" break="no"/>stanter &amp; serio religionis antistite resistente Aarone, uitulum &amp; fudit &amp; diuinis  
+          <lb ed="#Z" n="19"/>prosequutus est honoribus, nemo ignorat. Vbi certe opportunum erit totum 
+          <lb ed="#Z" n="20"/>quoque ecclesiae numerum diligentius inspicere atque censere. Pluribus enim in 
+          <lb ed="#Z" n="21"/>ecclesia errantibus, non consequens est neminem ab errore excipi prorsus. Nam 
+          <lb ed="#Z" n="22"/>ut in lsraelis ecclesia reliquias sibi reseruauit dominus, ipsum inquam 
+          Mosen<lb ed="#Z" n="23" break="no"/>losue, &amp; haud dubie nonnullos alios, &amp; in hoc ipso coetu, &amp; extra hunc coetum  
+          <lb ed="#Z" n="24"/>alicubi, uitulum non adorantes: ita dubium non est, errantibus pluribus in 
+          ec<lb ed="#Z" n="25" break="no"/>clesia, deum sibi misericordia sua certum praeseruare numerum, qui &amp; recte 
+          si<lb ed="#Z" n="26" break="no"/>piat, &amp; quorum fide &amp; diligentia errores destruantur, &amp; errans domini grex 
+          <lb ed="#Z" n="27"/>reducatur in ouile sanctum. Errare ergo dicitur ecclesia, quando pars eius, 
+          re<lb ed="#Z" n="28" break="no"/>licto uerbo dei, errat: eadem non errat in uniuersum tota, quatenus gratia dei 
+          <lb ed="#Z" n="29"/>reseruantur reliquiae, ex quibus ueritas refforeat &amp; iterum quam latissime 
+          pro<lb ed="#Z" n="30" break="no"/>pagetur. S. Paulus appellauit ecclesias Corinthiorum &amp; Galatarum sanctas dei 
+          <lb ed="#Z" n="31"/>ecclesias. Caeterum aberrauerunt hae grauiter in doctrina, in fide, &amp; in moribus,  
+          <lb ed="#Z" n="32"/>Quis autem dubitet plurimos in ijs fuisse syncerissimos purae doctrinae a Paulo 
+          <lb ed="#Z" n="33"/>traditae clutores? Errauit ergo sancta illa ecclesia, quatenus non perstitit in 
+          ue<lb ed="#Z" n="34" break="no"/>ra doctrina : non errauit, quatenus non recessit a ueritate per apostolum 
+          tradita<lb ed="#Z" n="35" break="no"/>Hinc toti mundo inclarescit, uanissimos mendacissimosque esse homines, 
+          lau<lb ed="#Z" n="36" break="no"/>dantes nobis ecclesias non prophetarum &amp; apostolorum fundamento 
+          imposi<lb ed="#Z" n="37" break="no"/>tas, sed super hominum decreta collocatas, quas non uerentur comendare 
+          no<lb ed="#Z" n="38" break="no"/>bis pro uerissimis, quae errare non possint. Clamat Dauid, Solus deus uerax: 
+          <lb ed="#Z" n="39"/>omnis homo mendax. Clamat Ieremias, Verbum domini reprobarunt, quae  
+          <lb ed="#Z" n="40"/>ergo sapientia illis reliqua esse poterit? Proinde errant illae ecclesiae. nec sunt uerae 
+          <lb ed="#Z" n="41"/>dei ecclesiae. Vera ecclesia innititur Christo Iesu, &amp; huius solius uerbo regitur.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2043">
+          <lb ed="#Z" n="42"/><pc type="indent"/> Huic tractationi de uerbo dei, unica omnium in ecclesia gerendarum rerum  
+          <lb ed="#Z" n="43"/>regula, affinis est disputatio de potestate ecclesiae dei in terris, &amp; de studijs eius ? 
+          <lb ed="#Z" n="44"/>quae &amp; ipsa diriguntur ad praescriptum uerbi dei. Priusquam tamen nostram,  
+          <lb ed="#Z" n="45"/>id est scripturis traditam sententiam proferam, recitabo paucis summam eorum 
+          <lb ed="#Z" n="46"/>quae pontificij de hac ipsa re scripta reliquerunt, ac tuentur haud dubie pro or- 
+          <lb ed="#Z" n="47"/>thodoxa doctrina. <name xml:id="UD1xh4-V7A8Vb-Nd1e2059">Ioan. Gerson</name> (non admodum inepte, nisi accedat malignus 
+          <lb ed="#Z" n="48"/>interpres) finiuit potestatem ecclesiasticam, facultatem esse supernaturaliter &amp;  
+          <!--581.xml-->
+          <pb ed="#Z" n="279-v"/>
+          <lb ed="#Z" n="1"/>spiritualiter collatam a domino discipulis, eorumque successoribus legitimis, usque 
+          <lb ed="#Z" n="2"/>in finem saeculi, ad aedificationem ecclesiae militantis, secundum leges 
+          euangeli<lb ed="#Z" n="3" break="no"/>cas, pro consecutione felicitatis aeternae. Petrus autem De Aliaco Card, hanc 
+          <lb ed="#Z" n="4"/>potestatem dixit esse sextuplicem, nempe potestatem consecrationis: sacramen 
+          <lb ed="#Z" n="5"/>torum administrationis: dispositonis ministrorum ecclesiae : praedicationis: 
+          iu<lb ed="#Z" n="6" break="no"/>diciariae correctionis, accipiendique uitae necessaria.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2082">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Potestatem consecrationis illam dicunt, qua sacerdos rite ordinatus conficere 
+          <lb ed="#Z" n="8"/>potest corpus &amp; sanguinem Christi in ara. Eam collatam aiunt discipulis a 
+          do<lb ed="#Z" n="9" break="no"/>mino, hisce uerbis. Hoc facite in mei memoriam. Caeterum sacerdotibus 
+          ho<lb ed="#Z" n="10" break="no"/>die conferri arbitrantur ab episcopo, offerente cum pane calicem, &amp; dicente 
+          <lb ed="#Z" n="11"/>Accipite potestatem offerendi &amp; conficiendi corpus Christi pro uiuis &amp; mor- 
+          <lb ed="#Z" n="12"/>tuis. Hanc praeterea appellant potestatem ordinis &amp; characterem indelebilem,  
+          <lb ed="#Z" n="13"/>Potestatem administrationis sacramentorum, &amp; maxime sacramentum poenitentiae,  
+          <lb ed="#Z" n="14"/>nuncupant Potestatem clauium. Claues faciunt duplices, claues scientiae, 
+          autho<lb ed="#Z" n="15" break="no"/>ritatem scilicet cognoscendi in caussa peccatoris confitentis, &amp; claues 
+          sententio<lb ed="#Z" n="16" break="no"/>nandi, siue aperiendi &amp; claudendi coelum, remittendi uel retinendi peccata. Hanc 
+          <lb ed="#Z" n="17"/>promissam dicunt Petro potestatem, in Matthaeo, dicente domino, Tibi dabo 
+          cla<lb ed="#Z" n="18" break="no"/>ues regni coelorum: collatam aunt discipulis omnibus, apud Ioannem Christo di- 
+          <lb ed="#Z" n="19"/>cente, Quorumcumque remiseritis peccata, remittuntur eis. Sacerdotibus porro 
+          <lb ed="#Z" n="20"/>hodie conferri ab episcopo in consecratione imposits manibus in sacerdotum 
+          <lb ed="#Z" n="21"/>ordinandorum capita, dicente, Accipite spiritum sanctum: quorumcumque remiseritis 
+          <lb ed="#Z" n="22"/>peccata, remittuntur eis. Potestatem dispositonis ministrorum ecclesiae uocant 
+          su<lb ed="#Z" n="23" break="no"/>risdictionem ecclesiasticam, &amp; consistere in quadam praelatione, adeoque in sua 
+          <lb ed="#Z" n="24"/>plenitudine residere in summo pontifice, quo ad totam ecclesiam uniuersalem,  
+          <lb ed="#Z" n="25"/>Solius enim pontificis esse instituere rectores &amp; prelatos in ecclesiastica 
+          hierar<lb ed="#Z" n="26" break="no"/>chia: eo quod ipsi dictum sit, Pasce oues meas. Addunt a pontifice omnem 
+          iu<lb ed="#Z" n="27" break="no"/>risdictionem ecclesiasticam descendere, uel mediate uel immediate, in inferiores 
+          <lb ed="#Z" n="28"/>praesidentes: in quibus limitata sit potestas, pro arbitrio eius qui plenitudinem 
+          <lb ed="#Z" n="29"/>habeat potestatis. Nam episcopum duntaxat potestatem habere in sua diocoesi, 
+          cu<lb ed="#Z" n="30" break="no"/>ratum autem in sua parochia, &amp;c. Potestatem apostolatus uel praedicationis uerbi 
+          <lb ed="#Z" n="31"/>dei dicunt esse authoritatem praedicandi, quam tradiderit dominus discipulis suis,  
+          <lb ed="#Z" n="32"/>dicendo, Exeuntes in orbem uniuersum, praedicate euangelium omni creaturae.  
+          <lb ed="#Z" n="33"/>Asseuerant autem doctores hodie mitti oportere ad praedicandum, non aliunde 
+          <lb ed="#Z" n="34"/>quam ab ipso Petro, id est, eius successore, uel mediate uel immediate, &amp;c. 
+          Po<lb ed="#Z" n="35" break="no"/>testatem iudiciariae correctionis collatam aiunt a domino ipsi Petro, cui ille dixerit,  
+          <lb ed="#Z" n="36"/>Si peccarit in te frater tuus. Et caetera. Nam notissima sunt uerba domini apud 
+          <lb ed="#Z" n="37"/>Matth. in cap. 1E. Aiunt ergo dominum sacerdotibus contulisse potestatem, non 
+          tan<lb ed="#Z" n="38" break="no"/>tum excomunicandi, sed etiam definiendi, discernendi, &amp; statuendi praecepta, 
+          <lb ed="#Z" n="39"/>leges et canones: eo que ibidem dictum sit. Quaecumque ligaueritis super terram, ligata erunt 
+          <lb ed="#Z" n="40"/>&amp; in coelo. Porro potestatem accipiendi uitae necessaria pro laboribus 
+          spirituali<lb ed="#Z" n="41" break="no"/>bus, exhibitam aiunt hisce domini uerbis, Edentes &amp; bibentes quae apud illos sunt,
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2161">
+          <lb ed="#Z" n="42"/><pc type="indent"/> Haec isti docent de potestate ecclesiastica, non modo inepte, sed &amp; false. De 
+          <lb ed="#Z" n="43"/>potestate consecrationis &amp; sacrificandi quam uana &amp; inanis sit, diximus alias 
+          <lb ed="#Z" n="44"/>saepe, &amp; dicemus forte amplius, si uitam prorogarit dominus, suo loco &amp; 
+          tem<lb ed="#Z" n="45" break="no"/>pore. De potestate clauium disputabimus, deo uolente, sub finem 
+          consequen<lb ed="#Z" n="46" break="no"/>tis Sermonis. Attulimus quaedam denique cum dissereremus de Poenitentia &amp; Con 
+          <lb ed="#Z" n="47"/>fessione auriculari. Nugae autem sunt putidae &amp; impudentes, quae garriunt de 
+          <lb ed="#Z" n="48"/>surisdictione ecclesiastica, de plenitudine potestatis summi, id est, Romani pon¬ 
+          <!--582.xml-->
+          <pb ed="#Z" n="280-r"/>
+          <lb ed="#Z" n="1"/>tificis. Id quod dudum toti mundo innotuisse arbitror: ac sequentur nonnulla  
+          <lb ed="#Z" n="2"/>in hisce nostris Sermonibus confutationis argumenta. Quod sibi usurpant 
+          do<lb ed="#Z" n="3" break="no"/>cendi munus, nec ullos legitime praedicare posse, nisi ab ipsis ordinatos, clami¬  
+          <lb ed="#Z" n="4"/>tant, oppressionem uerbi dei suorumque errorum patrocinium &amp; assertionem 
+          <lb ed="#Z" n="5"/>quaerunt. Id quod etiam suo loco tractabitur. Potestate excommunicandi tam  
+          <lb ed="#Z" n="6"/>foede &amp; impudenter abusi sunt, ut non modo ueram disciplinam per eorum 
+          ne<lb ed="#Z" n="7" break="no"/>gligentiam &amp; impiam audaciam amiserit ecclesia, uerum etiam ipsa excomuni- 
+          <lb ed="#Z" n="8"/>catio saeculis aliquot nihil aliud fuerit in manibus pontificum, quam ignis &amp; 
+          gla<lb ed="#Z" n="9" break="no"/>dius, quibus contra ueros Christi confessores fere saeuierunt, ac innoxios Chri- 
+          <lb ed="#Z" n="10"/>sti cultores persecuti sunt. Porro nullam potestatem ministris ecclesiae datam esse 
+          <lb ed="#Z" n="11"/>a domino nouas condendi leges, demonstrabimus suo loco. Potestatem acci- 
+          <lb ed="#Z" n="12"/>piendi necessaria uitae exercuerunt quidem strenue, sed spiritualia interim (in 
+          <lb ed="#Z" n="13"/>recompensationem temporalis messis) non seminarunt, imo dormitantes 
+          per<lb ed="#Z" n="14" break="no"/>miserunt inimico homini zizania serere in agrum dominicum, idque non aliena,  
+          <lb ed="#Z" n="15"/>sed sua ipsorum opera. Quid quod uitae necessarijs non contenti, regna quoque 
+          <lb ed="#Z" n="16"/>subdole inuaserunt, &amp; impudenter ac truculenter obtinuerunt? Qui ergo non 
+          <lb ed="#Z" n="17"/>uidet ecclesiasticam potestatem, ita ut apud istos homines de ea disseritur, &amp; ab  
+          <lb ed="#Z" n="18"/>ipsis usurpatur, meram esse in miseras animas tyrannidem, nihil plane uidet.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2223">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Subiungemus iam ueram, puram, simplicem &amp; perspicuam de potestate 
+          ecclesia<lb ed="#Z" n="20" break="no"/>stica doctrinam. Potestas definitur esse ius aliquid faciendi. Graece appellatur &amp;  
+          <lb ed="#Z" n="21"/>Efacriae, &amp; otunaeuis, quorum prius ius &amp; potestatem, posterius iuris uel potestatis exe 
+          <lb ed="#Z" n="22"/>quendi facultatem significat. Saepe enim fit, ut aliquis habeat potestatem faciendi 
+          <lb ed="#Z" n="23"/>rem aliquam, destituatur autem perficiendi facultate. Deus utrumque potest, &amp; utrumque 
+          <lb ed="#Z" n="24"/>concessit apostolis contra daemonia, Luca testante &amp; dicente, eosoxep gurois 
+          duye<lb ed="#Z" n="25" break="no"/>uip a afouoriaep, dedit eis facultatem &amp; potestatem super omnia daemonia, &amp;c. Est 
+          <lb ed="#Z" n="26"/>autem potestas alia quidem libera &amp; absoluta, alia uero limitata, quam &amp; 
+          ministe<lb ed="#Z" n="27" break="no"/>rialem uocant. Absoluta est, quae libera prorsus nullius alterius arbitrio uel lege  
+          <lb ed="#Z" n="28"/>regitur aut constringitur. Qualis est potestas Christi dicentis in euangelio, Data 
+          <lb ed="#Z" n="29"/>est mihi omnis potestas in coelo &amp; in terra. Euntes ergo docete omnes gentes,  
+          <lb ed="#Z" n="30"/>baptisantes eos, &amp;c. De hac potestate loquens iterum in reuelatione sua beato 
+          <lb ed="#Z" n="31"/>Ioanni apostolo facta, Noli timere, inquit, ego sum primus &amp; nouissimus, ego  
+          <lb ed="#Z" n="32"/>uiuus, &amp; fui mortuus, &amp; ecce sum uiuens in saecula saeculorum: &amp; habeo claues 
+          <lb ed="#Z" n="33"/>inferorum &amp; mortis. Et iterum, Haec dicit sanctus &amp; uerax, qui habet clauem Dauid 
+          <lb ed="#Z" n="34"/>qui aperit, &amp; nemo claudit: claudit, &amp; nemo aperit. Limitata potestas non est 
+          li<lb ed="#Z" n="35" break="no"/>bera, sed absolutae uel alterius maiori potestati subiecta, quae non quiduis, sed 
+          <lb ed="#Z" n="36"/>illud duntaxat potest, qd potestas absoluta uel maiore praeditus potestate 
+          per<lb ed="#Z" n="37" break="no"/>misit, &amp; certa quidem cum conditione permisit. Qualis certe est ecclesiastica potestas,  
+          <lb ed="#Z" n="38"/>recte appellata ministerialis. Exercet enim ecclesia dei potestatem suam sibi ab hoc 
+          <lb ed="#Z" n="39"/>traditam, per ministros suos. Augustinus distinctionem hanc agnoscens, &amp; de 
+          ba<lb ed="#Z" n="40" break="no"/>ptismo loquens, Tractatu in Ioan. 5. Baptizauit Paulus, tanque minister, inquit  
+          <lb ed="#Z" n="41"/>non tanque ipsa potestas : baptizauit autem dominus tanque potestas. Intendite, 
+          po<lb ed="#Z" n="42" break="no"/>tuisset hanc potestatem seruis dare, sed noluit. Si enim daret hanc potestatem seruis,  
+          <lb ed="#Z" n="43"/>id est, ut &amp; ipsorum esset quod domini erat, tot essent baptismata quot serui, &amp;c¬ 
+          <lb ed="#Z" n="44"/>In ecclesia absolutam potestatem ipse sibi Christus retinet. Nam manet caput, rex &amp;  
+          <lb ed="#Z" n="45"/>pontifex ecclesiae in aeternum, nec separatur a corpore suo unque caput illud 
+          uiui<lb ed="#Z" n="46" break="no"/>ficum. Potestatem autem limitatam ecclesiae dedit. Id quod agnoscere oportet : 
+          pote<lb ed="#Z" n="47" break="no"/>statem, inquam, ecclesiasticam certis legibus circum scriptam proficisci a deo, ac ea de 
+          <lb ed="#Z" n="48"/>caussa efficacem esse, ideoque deum in omnibus in primis respici oportere: item  
+          <!--583.xml-->
+          <pb ed="#Z" n="280-v"/>
+          <lb ed="#Z" n="1"/>in hoc esse datam ecclesiae potestatem, ut exerceatur in ecclesiae salutem. Etenim 
+          <lb ed="#Z" n="2"/>S. Paulus, Dedit nobis dominus potestatem, inquit in aedificationem, &amp; non  
+          <lb ed="#Z" n="3"/>in destructionem ecclesiae. Ergo quae in detrimentum &amp; perditionem uergit, 
+          ty<lb ed="#Z" n="4" break="no"/>rannis est sathanica, non potestas a deo proficiscens ecclesiastica. Ac praestat 
+          <lb ed="#Z" n="5"/>hunc finem potestatis ecclesiasticae diligenter tenere.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2307">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Caeterum potestas illa limitata ecclesiae fere in hisce uersatur capitibus, in or- 
+          <lb ed="#Z" n="7"/>dinandis ecclesiarum ministris, in doctrina, &amp; in dijudicatione doctrinarum,  
+          <lb ed="#Z" n="8"/>denique in dispositone rerum ecclesiasticarum. De singulis ordine paucula 
+          dice<lb ed="#Z" n="9" break="no"/>mus, explicantes qualis sit ecclesiae potestas, &amp; quomodo limitetur in singulis 
+          <lb ed="#Z" n="10"/>capitibus. Dominus ipse quidem primos ecclesiae doctores apostolos ordinauit,  
+          <lb ed="#Z" n="11"/>ut omnes homines intelligerent ministerium ecclesiasticum ipsius dei diuinam esse 
+          <lb ed="#Z" n="12"/>institutionem, &amp; non ab hominibus inuentam traditionem. Ergo postque 
+          assum<lb ed="#Z" n="13" break="no"/>ptus esset in coelos dominus, S. Petrus conuocata ecclesia loquitur ex 
+          scriptu<lb ed="#Z" n="14" break="no"/>ris de alio surrogando apostolo in locum proditoris ludae, eo ipso facto 
+          decla<lb ed="#Z" n="15" break="no"/>rans ecclesiae a deo datam esse eligendi ministros uel doctores potestatem. Eadem  
+          <lb ed="#Z" n="16"/>ecclesia mox &amp; diaconos septem, ita suadente Petro apostolis, nimirum spiritu 
+          <lb ed="#Z" n="17"/>sancto inspiratis, elegit. Antiochena ecclesia manifeste instructa a spiritu sancto, 
+          <lb ed="#Z" n="18"/>Paulum &amp; Barnabam, licet iam olim ad ministerium designatos, ordinat &amp; mit- 
+          <lb ed="#Z" n="19"/>tit. Leguntur praeterea in Actis apostolorum ecclefiae, apostolis ita iubentibus,  
+          <lb ed="#Z" n="20"/>doctores ad ministerium sacrum quoties res postulabat ordinasse. At non 
+          ordi<lb ed="#Z" n="21" break="no"/>nabant interim quoslibet, sed idoneos, id est tales, quales legibus expressis 
+          po<lb ed="#Z" n="22" break="no"/>stea descripserunt, Si quis esset inculpabilis, unius uxoris maritus, uigilans, 
+          so<lb ed="#Z" n="23" break="no"/>brius, &amp;c. Notus est enim Canon apostolicus aeditus 1. Timoth. 3. cap. Sed di- 
+          <lb ed="#Z" n="24"/>cemus, deo uolente, de Ordinatione ministrorum Sermone huius Decad. 3. Si 
+          <lb ed="#Z" n="25"/>uero accepit ecclesia potestatem ponendi ministros ecclesiarum idoneos, certe 
+          <lb ed="#Z" n="26"/>negabit ecclesiam facultate destitutam esse deponendi indignos &amp; impios 
+          <lb ed="#Z" n="27"/>seductores : corrigendi denique ea quae huic uidentur deesse ordini necessaria.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2358">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Quoniam uero ministri praecipue ad docendum deliguntur, ecclesia potestatem  
+          <lb ed="#Z" n="29"/>habet docendi, adhortandi, consolandi, &amp;c. per ministros suos legitimos: 
+          do<lb ed="#Z" n="30" break="no"/>cendi autem non quidlibet, sed quod traditum accepit a domino, per doctrinam 
+          <lb ed="#Z" n="31"/>prophetarum &amp; apostolorum. Docete eos, ait dominus, quae ego praecepi uobis. 
+          <lb ed="#Z" n="32"/>ste, praedicate euangelium omni creaturae. Et Paulus, Segregatus sum ad 
+          praedi<lb ed="#Z" n="33" break="no"/>candum euangelium, quod ante promisit per prophetas suos in scripturis sanctis. 
+          <lb ed="#Z" n="34"/>Est autem hoc docendi ministerium aliud nihil quam potestas clauium, quas accepit 
+          <lb ed="#Z" n="35"/>ecclesia: officium, inquam, ligandi &amp; soluendi, aperiendi atque claudendi coelum, 
+          <lb ed="#Z" n="36"/>Acceperunt alibi quoque a domino apostoli potestatem super omnia: super omnia, 
+          <lb ed="#Z" n="37"/>inquam, non absolute, sed super omnia daemonia, &amp; non super omnes angelos 
+          <lb ed="#Z" n="38"/>&amp; homines: &amp; quam in daemones potestatem acceperunt ne ipsam quidem abso 
+          <lb ed="#Z" n="39"/>lutam acceperunt. Additur enim, Vt expellerent eos. Proinde non potuerunt 
+          <lb ed="#Z" n="40"/>pro suo arbitrio cum demonibus agere quod uoluerunt, sed quod &amp; quantum ille 
+          <lb ed="#Z" n="41"/>uoluit cui absoluta est in daemonas potestas. Et ut daemonas expellere ex homi 
+          <lb ed="#Z" n="42"/>nibus non immittere, etsi uoluissent maxime, potuerunt: ita de morbis non po 
+          <lb ed="#Z" n="43"/>tuerunt agere quod uoluerunt. Alioqui enim non reliquisset S. Paulus 
+          Tro<lb ed="#Z" n="44" break="no"/>phimum Mileti languentem, tantopere ipsi in ministerio sacro utilem. 
+          Euocas<lb ed="#Z" n="45" break="no"/>sent, si quiduis potuissent duo in Samaria discipuli, ignem coelitus, atque ita 
+          sup<lb ed="#Z" n="46" break="no"/>plicium sumpsissent de Samaritanis inhumanis &amp; barbaris hominibus Christo 
+          <lb ed="#Z" n="47"/>doino negantibus hospitium. Pari modo illi ipsi apostoli claues, id est potestatem 
+          <lb ed="#Z" n="48"/>acceperunt ligandi &amp; soluendi, aperiendi &amp; claudendi coelum, remittendi &amp; re¬ 
+          <!--584.xml-->
+          <pb ed="#Z" n="281-r"/>
+          <lb ed="#Z" n="1"/>tinendi peccata, sed limitatam plane. Non enim potuerunt soluere quae erant 
+          <lb ed="#Z" n="2"/>ligata apud inferos, neque ligare eos qui uiuebant in coelis. Neque enim dixit. Quae 
+          <lb ed="#Z" n="3"/>ligaueritis in coelo, sed quaecunque ligaueritis super terram. Nec dixit, Quaecunque 
+          <lb ed="#Z" n="4"/>solueritis in inferno, sed quaecunque solueritis super terram, Rursus super ipsam 
+          <lb ed="#Z" n="5"/>quoque terram non potuerunt quos ipsi uoluerunt uel ligare uel soluere. Nam  
+          <lb ed="#Z" n="6"/>fide destitutum hominem non potuerunt soluere, id est a peccatis liberatum 
+          de<lb ed="#Z" n="7" break="no"/>nunciare, Rursus illuminatum fide &amp; serio poenitentem, nequaquam ligare, id 
+          <lb ed="#Z" n="8"/>est damnationi adiudicare, potuerunt. Decipiunt totum terrae orbem qui aliter 
+          <lb ed="#Z" n="9"/>docent homines de potestate clauium. Id quod copiosius suo loco tractabimus, 
+          <lb ed="#Z" n="10"/>Similiter accepit ecclesia a Christo potestatem administrandi sacramenta per 
+          <lb ed="#Z" n="11"/>ministros, sed non pro suo arbitrio, sed secundum uoluntatem dei &amp; ritum ac  
+          <lb ed="#Z" n="12"/>rationem ab ipso domino traditam. Non potest ecclesia sacramenta instituere,  
+          <lb ed="#Z" n="13"/>neque immutare fines &amp; usum sacramentorum.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2441">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Porro Ecclesiam dijudicare posse doctrinas, uel ex una hac Pauli apostoli 
+          sen<lb ed="#Z" n="15" break="no"/>tentia claret, Prophetae duo aut tres loquantur in ecclesia, &amp; caeteri dijudicent.  
+          <lb ed="#Z" n="16"/>Alibi idem. Omnia probate, inquit, quod bonum est tenete. Nam &amp; beatus 
+          Ioan<lb ed="#Z" n="17" break="no"/>nes dixit, Charissimi, ne cuiuis spiritui credatis, sed probate spiritus an ex deo 
+          <lb ed="#Z" n="18"/>sind. Caeterum est certa huius quoque dijudicationis ratio. Non enim pro suo arbia 
+          <lb ed="#Z" n="19"/>trio iudicat ecclesia, sed ex spiritus sancti sententia ad normam regulamque sacri 
+          ca<lb ed="#Z" n="20" break="no"/>nonis, Seruatur hic quoque ordo moderatio &amp; charitas. Ergo si quando ecclesia 
+          <lb ed="#Z" n="21"/>dei pro potestate accepta a domino synodum conuocat, sicuti apostolos domini  
+          <lb ed="#Z" n="22"/>conuocasse legimus in Actis apostolorum, grauissimam ob caussam, non indulget hic 
+          <lb ed="#Z" n="23"/>rursum carnali ingenio, spiritui sese regendam exhibet, omniaque sua ad regulam  
+          <lb ed="#Z" n="24"/>uerbi dei &amp; charitatis geminae probat. Ergo nouas leges non condit: sicuti &amp;  
+          <lb ed="#Z" n="25"/>Hierosolymitana imo apostolica ecclesia dicit &amp; spiritui sancto &amp; ecclesiae 
+          pla<lb ed="#Z" n="26" break="no"/>eere ne quid oneris imponatur Christifidelibus, nisi paucula quaedam eaqenecs, 
+          <lb ed="#Z" n="27"/>saria, nec citra nec contra scripturas sanctas. Iam sunt res ecclesiasticae 
+          multipli<lb ed="#Z" n="28" break="no"/>ces, quas bene ordinandi disponendique pro hominum utilitate facultatem habet ecas 
+          <lb ed="#Z" n="29"/>clesia : cuius generis ea sunt quae uersantur circa externum cultum in loco &amp; in tem 
+          <lb ed="#Z" n="30"/>pore: qualis est prophetia uel linguarum interpretatio &amp; scholae. Habet item 
+          ec<lb ed="#Z" n="31" break="no"/>clesia quod iudicet in caussis matrimonij: in primis uero censuram habet inorum, 
+          <lb ed="#Z" n="32"/>admonitiones, supplicia, denique &amp; excomunicationem uel excidium ex corpore 
+          <lb ed="#Z" n="33"/>ecclesiastico. Nam &amp; hanc sibi datam, ait apostolus, in extructionem tamen, non 
+          <lb ed="#Z" n="34"/>in destructionem. Omnia enim haec quae commemorauimus &amp; similia limitata 
+          <lb ed="#Z" n="35"/>sunt regula uerbi &amp; charitatis, exemplis item sacris &amp; rationibus deductis ex 
+          <lb ed="#Z" n="36"/>scriptura sacra. De quibus omnibus forte dicam suo loco copiosius.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2494">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Haec dixi hactenus de Ecclesiastica potestate, de qua ostendi aduersarios con  
+          <lb ed="#Z" n="38"/>traria his largo quidem ore praedicare, sed tam crasse proponere, ut uel pueris appa 
+          <lb ed="#Z" n="39"/>reat quid querant quidue tueantur, non ecclesiasticam potestatem, sed suam auaritiam, 
+          <lb ed="#Z" n="40"/>libidinem &amp; tyrannidem. Veritas canonica docet Christum in ecclesia absolutam 
+          <lb ed="#Z" n="41"/>uel plenariam obtinere &amp; exercere potestatem, ministerialem dedisse ecclesiae, quae 
+          <lb ed="#Z" n="42"/>ipsam fere per ministros exercet et religiose quidem hanc ad normam ybi dei exercet.
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2511">
+          <lb ed="#Z" n="43"/><pc type="indent"/> His ad hunc modum expensis minime laboriosum erit studia sanctae dei eccle 
+          <lb ed="#Z" n="44"/>siae agnoscere. Exercet enim sicut iam iam comemoraui potestatem a domino  
+          <lb ed="#Z" n="45"/>acceptam religiosissime &amp; fidelissime, in hoc ut deo seruiat sancta sit, &amp; ipsi 
+          pla<lb ed="#Z" n="46" break="no"/>ceat: &amp; ut per enumerationem saltem aliquid studiorum eius singulariter 
+          come<lb ed="#Z" n="47" break="no"/>morem, Ante omnia deum unum &amp; trinum adorat, inuocat, amat &amp; colit: 
+          incon<lb ed="#Z" n="48" break="no"/>sulto huius dei ueri uerbo nihil agit. Etenim ad normam uerbi dei omnia sua, 
+          <!--585.xml-->
+          <pb ed="#Z" n="281-v"/>
+          <lb ed="#Z" n="1"/>coponit, ex uerbo dei iudicat, eodem omnia sua aedificia extruit, extructa 
+          conser<lb ed="#Z" n="2" break="no"/>uat, collapsaque reparat siue restaurat. Coetus &amp; congregationes sanctorum in 
+          <lb ed="#Z" n="3"/>terris ardenter prouehit &amp; diligit. In his diligenter auscultat praedicationi 
+          uer<lb ed="#Z" n="4" break="no"/>bi dei, sacramentis religiose &amp; cum gaudio quidem magnoque rerum coelestium 
+          <lb ed="#Z" n="5"/>desiderio participat. Orat deum per intercessorem unicum Christum, firma cum 
+          <lb ed="#Z" n="6"/>fide, ardenter, assidue &amp; intentissime. Laudat dei bonitatem &amp; maiestatem perpetuo. 
+          <lb ed="#Z" n="7"/>summoque cum iubilo diuinis beneficijs gratias agit. Instituta Christi omnia &amp;  
+          <lb ed="#Z" n="8"/>singula plurimi facit, neque negligit ulla. Agnoscit autem in primis omnia uitae,  
+          <lb ed="#Z" n="9"/>salutis, iustitiae &amp; felicitatis suae ab unico se habere dei filio domino nostro Iesu 
+          <lb ed="#Z" n="10"/>Christo : utpote qui unus ipsam elegerit, deinde &amp; per spiritum &amp; sanguinem 
+          <lb ed="#Z" n="11"/>suum sanctificarit, feceritque ecclesiam, id est populum dilectum, cuius ipse sit unicus 
+          <lb ed="#Z" n="12"/>rex, redemptor, pontifex &amp; conseruator, extra quem nulla sit salus. Ergo in solo 
+          <lb ed="#Z" n="13"/>deo per dominum nostrum Iesum Christum tota acquiescit, hunc unice desiderat &amp; 
+          <lb ed="#Z" n="14"/>diligit, propter hunc omnia huius mundi amittere adeoque &amp; uitam cum sanguine 
+          <lb ed="#Z" n="15"/>profundere gaudet. Indiuulse ergo per fidem Christo inhaeret, neque aliud odit 
+          <lb ed="#Z" n="16"/>acerbius, quam defectionem a Christo ac desperationem. Nam sine Christo 
+          ni<lb ed="#Z" n="17" break="no"/>hil in uniuersa uita iucundum uidetur. Cum sathana ueluti cum hoste capitali 
+          <lb ed="#Z" n="18"/>inimicitias exercet implacabiles. Haeresibus &amp; erroribus constanter &amp; pruden 
+          <lb ed="#Z" n="19"/>ter repugnat. Simplicitatem fidei Christianae, &amp; doctrinae apostolicae synceritatem 
+          <lb ed="#Z" n="20"/>diligentissime custodit. lllibatam se, quantum fieri potest, a mundo &amp; carne omnique  
+          <lb ed="#Z" n="21"/>carnali &amp; spirituali contagione seruat. Ergo coetus illegitimos &amp; prophana 
+          sa<lb ed="#Z" n="22" break="no"/>cra cum nepharijs hominibus fugit &amp; modis omnibus execratur, Christum sponte 
+          <lb ed="#Z" n="23"/>&amp; diserte etiam in uitae periculo dictis &amp; factis confitetur. Afflictionibus quidem  
+          <lb ed="#Z" n="24"/>exercetur, sed non frangitur. Vnitatem &amp; concordiam sedulo custodit. Omnia &amp;  
+          <lb ed="#Z" n="25"/>singula corporis sui membra, charitate summa prosequitur. Benefacit omni- 
+          <lb ed="#Z" n="26"/>bus, quantum permittunt uires &amp; facultates. Nemini nocet. Condonat 
+          liben<lb ed="#Z" n="27" break="no"/>ter. Tolerat infrmos fraterne, donec prouehantur ad perfectiora. Per 
+          super<lb ed="#Z" n="28" break="no"/>biam non effertur, sed humilitate retinetur in obedientia, in moderatione &amp; in 
+          <lb ed="#Z" n="29"/>omnibus officijs pietatis. Sed quis obsecro uel copiosissima alioqui nedum breui 
+          <lb ed="#Z" n="30"/>hac enumeratione omnia &amp; singula sanctae ecclesiae studia recitet? Quis uero 
+          <lb ed="#Z" n="31"/>non cupiat membrum esse congregationis tam diuinae &amp; plane coelestis?
+        </p>
+        <p xml:id="UD1xh4-V7A8Vb-d1e2599">
+          <lb ed="#Z" n="32"/><pc type="indent"/> Subiungerem his protinus quae residua sunt de unitate ecclesiae catholicae,  
+          <lb ed="#Z" n="33"/>de diuisione eiusdem, alijsque ad hanc considerationem pertinentibus, nisi 
+          cer<lb ed="#Z" n="34" break="no"/>nerem uos audiendo fessos, finem sermonis cupide expectare. Differemus 
+          er<lb ed="#Z" n="35" break="no"/>go reliqua in crastinum. lam uero sublatis in coelum mentibus nostris, domino 
+          <lb ed="#Z" n="36"/>deo nostro gratias agamus, qui per dilectum filium suum purificauit &amp; 
+          aggre<lb ed="#Z" n="37" break="no"/>gauit nos in populum sibi selectissimum, &amp; omnium coelestium bonorum 
+          hae<lb ed="#Z" n="38" break="no"/>redem. Ipsi sit laus &amp; gloria in saecula saeculorum. Amen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

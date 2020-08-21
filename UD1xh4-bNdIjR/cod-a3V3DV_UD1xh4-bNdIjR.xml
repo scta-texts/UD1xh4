@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 2</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 2</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="189-v"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-bNdIjR"><!-- d4s2 --> 
+        <head xml:id="UD1xh4-bNdIjR-Hd1e106">Sermo 2</head>
+        <head xml:id="UD1xh4-bNdIjR-Hd1e109" type="question-title">
+       De Poenitentia et causis eius. De Confessione et remissione peccatorum, de Satisfactione 
+       et indulgentijs, de Vetere et Nouo homine, hominisque uiribus, ex reliquis  
+       ad poenitentiam pertinentibus.
+      </head>
+        <p xml:id="UD1xh4-bNdIjR-d1e112">
+          <lb ed="#Z" n="28"/><pc type="indent"/> De Poenitentia &amp; causis eius. De Confessione &amp; remissione peccatorum, de Satisfactione 
+          <lb ed="#Z" n="29"/>&amp; indulgentijs, de Vetere &amp; Nouo homine, hominisque uiribus, ex reliquis  
+          <lb ed="#Z" n="30"/>ad poenitentiam pertinentibus. SERMO II 
+          <lb ed="#Z" n="31"/>ROMISI proximo Sermone, habito de Euangelio Iesu Christi, disser 
+          <lb ed="#Z" n="32"/>tationem De Poenitentia, quam hodierno Sermone, deo &amp; uestris pre 
+          <lb ed="#Z" n="33"/>cibus adiuuantibus, proferam in medium.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e129">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Poenitere dicuntur Latinis, quos taedet atque pudet rei commisses. Be 
+          <lb ed="#Z" n="35"/>neficium contulisti, arbitraris te contulisse indigno, ideoque doles: is dolor est 
+          poe<lb ed="#Z" n="36" break="no"/>nitentia. Germani appellamus den ruwen Graeci nominant Metanoeam. Tradunt 
+          <lb ed="#Z" n="37"/>autem eius linguae peritiores metanoein a posterius intelligendo dici : ut metanoea 
+          <lb ed="#Z" n="38"/>ibi proprie locum habeat, ubi homo lapsus, re perperam peracta, demum in se 
+          re<lb ed="#Z" n="39" break="no"/>dit, &amp; de errore sarciendo cogitat, Refertur ergo non ad mentem tantum, sed &amp;  
+          <lb ed="#Z" n="40"/>ad opus. Qui enim intelligit se deliquisse, de emendatione consultat. Ita iam displi 
+          <lb ed="#Z" n="41"/>cere incipit, quod olim placuit: ita fugis modo, quod sectabaris aliquando 
+          cupi<lb ed="#Z" n="42" break="no"/>dissime. Porro Hebraei uocant poenitentiam Theschuah, nimirum conuersionem, 
+          <lb ed="#Z" n="43"/>uel reditionem, aut reuersionem in uiam &amp; ad mentem. Videtur metaphora 
+          sum<lb ed="#Z" n="44" break="no"/>pta ab illis qui aberrarunt ab itinere, sed redeunt in uiam tandem. Id quod ad 
+          men<lb ed="#Z" n="45" break="no"/>tem &amp; ad mores factaue hominum transfertur.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e159">
+          <lb ed="#Z" n="46"/><pc type="indent"/> Est autem uarius huius uocabuli usus. Significat enim mutationem consilij 
+          <!--402.xml-->
+          <pb ed="#Z" n="190-r"/>
+          <lb ed="#Z" n="1"/>concepti aut rei alicuius. Nam per Ieremiam dicit dominus, Si conuersi fuerint a 
+          <lb ed="#Z" n="2"/>malo, poenitebit &amp; me mali quod eis irrogaturus eram. Poenitet ergo deum, cum 
+          <lb ed="#Z" n="3"/>institutum mutat: non poenitet, cum non mutat. Paulus, Sine poenitentia, ait, sunt  
+          <lb ed="#Z" n="4"/>dona &amp; uocatio dei. Et Dauid, lurauit dominus, &amp; non poenitebit eum. Alicubi  
+          <lb ed="#Z" n="5"/>poenitentia deo tropice tribuitur secundum affectum humanum : ut cum dicit,  
+          <lb ed="#Z" n="6"/>Poenitet me fecisse hominem. Alioqui sua natura deum non poenitet, more 
+          hu<lb ed="#Z" n="7" break="no"/>mano, ut uidelicet dolore tangatur, &amp; ei displiceat modo quod placuerat prius,  
+          <lb ed="#Z" n="8"/>sed mutat factum. Apud scriptores ecclesiasticos poenitere dicuntur, qui 
+          pecca<lb ed="#Z" n="9" break="no"/>ta commissa, praescripta per formulam poenitendi poena, luunt. Scriptura alicubi 
+          <lb ed="#Z" n="10"/>usurpat pro toto euangelij negotio. Sic in Actis legimus Gentibus deum 
+          conces<lb ed="#Z" n="11" break="no"/>sisse poenitentiam ad uitam. Sed in hac disputatione nostra usurpabimus pro con 
+          <lb ed="#Z" n="12"/>uersione ad dominum, pro agnitione peccatorum, pro dolore propter peccata com- 
+          <lb ed="#Z" n="13"/>missa concepto, pro mortificatione &amp; innouatione uitae, breuiter pro mutatione, 
+          <lb ed="#Z" n="14"/>emendatione uel correctione uitae in melius: id quod Germanice uocamus <foreign>Bele 
+          <lb ed="#Z" n="15"/>rung / Enderung ober Besserung</foreign>.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e206">
+          <lb ed="#Z" n="16"/><pc type="indent"/> Nec minus uarie definita est a scriptoribus Poenitentia: consentiunt tamen om 
+          <lb ed="#Z" n="17"/>nes esse conuersionem ad deum, pristinaeque uitae &amp; sententiae immutationem. 
+          Dici<lb ed="#Z" n="18" break="no"/>mus itaque poenitentiam esse ueram ad deum conuersionem, qua ex timore dei syncero 
+          <lb ed="#Z" n="19"/>humiliati, peccata nostra agnoscimus, ueteremque hominem mortificantes, 
+          spiritua<lb ed="#Z" n="20" break="no"/>liter innouamur. Habet haec definitio capita, quae paulo fusius sparsa explicataque  
+          <lb ed="#Z" n="21"/>diligentius, totam nobis naturam poenitentiae exponunt oculisque subijciunt.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e223">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Principio dicimus poenitentiam ueram esse ad deum conuersionem. Nam pau  
+          <lb ed="#Z" n="23"/>lo post ostendemus duplicem esse poenitentiam, ueram &amp; falsam. Et Petrus 
+          aposto<lb ed="#Z" n="24" break="no"/>lus, Poenitemini, inquit, &amp; conuertimini, ut deleantur peccata uestra, consequenti 
+          <lb ed="#Z" n="25"/>ueluti interpretans, quid intellexerit per praecedens, per poenitentiam utique 
+          con<lb ed="#Z" n="26" break="no"/>uersionem, certe ad eum a quo erant auersi. Nam aliquis est respectus inter 
+          con<lb ed="#Z" n="27" break="no"/>uersionem &amp; auersionem. Si nunquam auersus fuisses, nulla certe opus esset conuer 
+          <lb ed="#Z" n="28"/>sione. Auersi autem sumus omnes a deo uero, iusto &amp; bono, &amp; a sancta eius 
+          uolun<lb ed="#Z" n="29" break="no"/>tate, ad diabolum &amp; ad prauam uoluntatem nostram. Oportet itaque rursus 
+          con<lb ed="#Z" n="30" break="no"/>uerti nos a diabolo, &amp; a uita menteque pristina praua, ad deum uiuentem, &amp; ad 
+          san<lb ed="#Z" n="31" break="no"/>ctam eius uoluntatem. Significanter uero dicimus ad deum, non ad creaturas, non  
+          <lb ed="#Z" n="32"/>ad ulla praesidia humana. Dicit enim apud Ieremiam dominus, Si reuerti 
+          uolue<lb ed="#Z" n="33" break="no"/>ris lsrael, ad me reuertere. Proinde qui non conuertuntur ad deum, nec eius 
+          uo<lb ed="#Z" n="34" break="no"/>luntati sanctae se conformant, utcunque ad creaturas, &amp; ad alia ab hominibus inuen 
+          <lb ed="#Z" n="35"/>ta media, conuertantur, reuera inter poenitentes habendi non sunt.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e257">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Porro nemo est qui hic non uideat ad poenitentiam in nobis excitandam, opus 
+          <lb ed="#Z" n="37"/>esse praedicatione uel doctrina ueritatis, quae nos doceat quis sit deus ad quem 
+          <lb ed="#Z" n="38"/>conuertamur, quid bonum &amp; sanctum, ad quod conuertamur, quis diabolus, &amp;  
+          <lb ed="#Z" n="39"/>quid malum &amp; falsum, a quo auertamur, denique quid in mente &amp; uita nostra emen 
+          <lb ed="#Z" n="40"/>dandum sit, &amp; quomodo. Certe prophetae &amp; apostoli domini ad poenitentiam 
+          ad<lb ed="#Z" n="41" break="no"/>hortantes homines, multum &amp; diu haerent atque laborant in describenda dei 
+          natu<lb ed="#Z" n="42" break="no"/>ra, bonitate, iustitia, ueritate &amp; misericordia, in describendis uitae legibus officijsque  
+          <lb ed="#Z" n="43"/>hominum: item in accusandis &amp; exaggerandis peccatis hominum, quibus 
+          mi<lb ed="#Z" n="44" break="no"/>nas graues &amp; horrendas diuini iudicij hypotyposes coniungunt: id quod in 
+          pro<lb ed="#Z" n="45" break="no"/>phetis ubique obuium legitur. Ideoque non desunt qui in praesenti iubeant homini- 
+          <lb ed="#Z" n="46"/>bus, quos ad poenitentiam pertrahere uolumus, legem praedicare: quod ut non oppu 
+          <lb ed="#Z" n="47"/>gno, sed maxime approbo, ita simul admoneo praedicationem quoque euangelicam  
+          <lb ed="#Z" n="48"/>obiicere hominibus peccata, &amp; accusare grauiter. Dijs enim in euangelio dicit,  
+          <!--403.xml-->
+          <pb ed="#Z" n="190-v"/>
+          <lb ed="#Z" n="1"/>Cum uenerit spiritus sanctus, arguet mundum de peccato, quia non crediderunt 
+          <lb ed="#Z" n="2"/>in me. Vnde S. Petrus in Actis apostolorum, Peccata ludaeis commissa exprobrans 
+          <lb ed="#Z" n="3"/>simul &amp; Christum fidemque in Christum praedicans, adhortatur ludaeos ad 
+          poeni<lb ed="#Z" n="4" break="no"/>tentiam. Notissimi sunt loci in cap. Acto. 2. &amp; 3. S. Paulus Athenienses pertractu 
+          <lb ed="#Z" n="5"/>rus ad poenitentiam, dicit, Tempora huius ignorantiae, cum deus hucusque 
+          dissi<lb ed="#Z" n="6" break="no"/>mulauerit, nunc annunciat hominibus, ut omnes ubique resipiscant, eo quod 
+          sta<lb ed="#Z" n="7" break="no"/>tuit diem, in quo iudicaturus est orbem terrarum, cum iustitia per Christum. 
+          Di<lb ed="#Z" n="8" break="no"/>scant hic quibus commissum est homines doctrina pertrahere ad poenitentiam. 
+          <lb ed="#Z" n="9"/>multa libertate &amp; prudentia uti ut omnes peccatum suum &amp; peccati grauitatem  
+          <lb ed="#Z" n="10"/>agnoscant. Praeterea excitat deus homines ad poenitentiam, non tantum uerbo 
+          <lb ed="#Z" n="11"/>suo, sed etiam uarijs afilictionibus &amp; poenis. Imo omnes mundi calamitates sunt 
+          <lb ed="#Z" n="12"/>conciones quaedam inuitantes ad poenitentiam. Vt enim nihil ex prophetarum  
+          <lb ed="#Z" n="13"/>scriptis adducam, an non dominus noster in euangelio, audita strage, quam 
+          aedi<lb ed="#Z" n="14" break="no"/>derat Pontius Pilatus, caesis Galilaeis, calamitateque decem &amp; octo hominum, quos 
+          <lb ed="#Z" n="15"/>ruina turris in Siloe oppresserat, protinus ita pronunciat, An arbitramini illos prae 
+          <lb ed="#Z" n="16"/>caeteris fuisse peccatores? Non certe: imo nisi resipueritis, omnes simul peribitis. 
+          <lb ed="#Z" n="17"/>Certum est itaque bella, famem &amp; pestes semper omnes nos inuitare ad 
+          poeniten<lb ed="#Z" n="18" break="no"/>tiam, hortari inquam ut sceleribus calcatis ad deum conuertamur studeamusquam 
+          <lb ed="#Z" n="19"/>integritati.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e334">
+          <lb ed="#Z" n="20"/><pc type="indent"/> Porro frustra praedicatur nobis poenitentia, nisi timore in animis nostris 
+          con<lb ed="#Z" n="21" break="no"/>cepto, iudicium uel iram dei propter commissa peccata, reuereamur. Excitat hunc  
+          <lb ed="#Z" n="22"/>quidem foris doctrina &amp; disciplina exterior, sicuti modo commemorauimus, 
+          ue<lb ed="#Z" n="23" break="no"/>rum nihil efficit sola, nisi intus, id est in animis nostris commoueamur at spiritu dei 
+          <lb ed="#Z" n="24"/>sancto. Ideoque in Threnis clamat propheta leremias, Conuerte nos domine, &amp; con 
+          <lb ed="#Z" n="25"/>uertemur. Et 31. cap. Conuerte me domine, &amp; conuertar: quoniam tu es dominus 
+          <lb ed="#Z" n="26"/>deus meus. Et postquam conuersus sum, poenituit me mali. S. Petrum legimus 
+          <lb ed="#Z" n="27"/>ostiariae &amp; militum uocibus impulsum, turpiter abnegasse Christum : galli uero 
+          <lb ed="#Z" n="28"/>cantu reuocatum redijsse ad poenitentiam. Sed cantus galli commouit, non per se 
+          <lb ed="#Z" n="29"/>quidem, sed coniunctus cum uerbo Christi, dicentis, Amen dico tibi, non canet 
+          <lb ed="#Z" n="30"/>gallus, donec ter me negaueris. Vnde Matthaeus dicit, Et recordatus est Petrus 
+          <lb ed="#Z" n="31"/>uerbi Iesu, qui dixerat ei, Priusquam gallus cantet, ter me negabis, &amp;c. Cum his con  
+          <lb ed="#Z" n="32"/>currit ocultior animi tractus. Tetigit enim cor Petri bonus dominus, testante euan 
+          <lb ed="#Z" n="33"/>gelista, &amp; dicente, Et conuersus dominus, intuitus est Petrum, Respectus ille 
+          domi<lb ed="#Z" n="34" break="no"/>ni emolliuit &amp; retraxit in perniciem ruentis cor Petri. Proinde si aures nostrae 
+          per<lb ed="#Z" n="35" break="no"/>stringantur uerbo domini, &amp; corda nostra eiusdem spiritu imbuantur uel tangan 
+          <lb ed="#Z" n="36"/>tur, deum poenitentes serio reuerebimur.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e374">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Simul autem humiliati coram iustissimo &amp; sanctissimo deo, quem tantopere 
+          <lb ed="#Z" n="38"/>&amp; offendimus &amp; irritauimus peccatis nostris, iudicium eius iustum esse contra nos 
+          <lb ed="#Z" n="39"/>fatemur, imo &amp; omnia peccata quae uerbo dei nobis obiiciuntur ingenue 
+          agno<lb ed="#Z" n="40" break="no"/>scentes confitemur, dicentes cum prophetis, Tu quidem domine iustus es, uerax 
+          <lb ed="#Z" n="41"/>es, &amp; iusta sunt iudicia tua: nos uero sumus iniustissimi, mendacissimi, sceleratissi 
+          <lb ed="#Z" n="42"/>mique &amp; nephandis flagitijs adoperti. Nihil est sani uel integri in nobis. Omnia nc 
+          <lb ed="#Z" n="43"/>stra sunt corruptissima, deploratissimaque. Peccauimus, iniqui fuimus, impie 
+          egi<lb ed="#Z" n="44" break="no"/>mus, desciuimus a te. Seruis tuis prophetis contradiximus, uerbis ueracissimi oris 
+          <lb ed="#Z" n="45"/>tui non obediuimus. Tibi ergo o deus iustitia debetur, nobis autem pudor. Hanc 
+          <lb ed="#Z" n="46"/>humiliationem liberamque confessionem peccatorum requirit deus a 
+          poenitenti<lb ed="#Z" n="47" break="no"/>bus. De qua paulo post plura dicemus. lam enim redimus ad copiosiorem 
+          Timo<lb ed="#Z" n="48" break="no"/>ris dei explanationem.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e404">
+          <!--404.xml-->
+          <pb ed="#Z" n="191-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Loquimur autem in praesenti de syncero dei timore. Fatemur enim duplicem  
+          <lb ed="#Z" n="2"/>esse dei timorem, Syncerum &amp; Ilnsyncerum. Syncerus dei timor conspicitur in fi 
+          <lb ed="#Z" n="3"/>delibus, estque pia reuerentia, constans amore &amp; honore numinis. Propheta enim  
+          <lb ed="#Z" n="4"/>deum loquentem inducens, Filius honorat patrem, inquit, &amp; seruus dominum. Si 
+          <lb ed="#Z" n="5"/>ergo pater, ubi honor? Si dominus, ubi timor? Et Paulus, Non accepistis, ait, 
+          spi<lb ed="#Z" n="6" break="no"/>ritum seruitutis iterum ad timorem, sed accepistis spiritum adoptionis per quem 
+          <lb ed="#Z" n="7"/>clamamus abba pater. Timor ergo dei syncerus in poenitentibus non est metus 
+          <lb ed="#Z" n="8"/>seruilis poenae, sed solicitum studium amore &amp; honore dei mixtum. Honesta 
+          ma<lb ed="#Z" n="9" break="no"/>trona metuit maritum: timet filia ingenua parentem, sed amat interim parentem  
+          <lb ed="#Z" n="10"/>uel maritum quaeque suum, studioque sancto nititur eius retinere gratiam, amittere 
+          <lb ed="#Z" n="11"/>metuit. Ideoque poenitentes deum non tantum metuunt, quia sciunt, spiritu dei do¬  
+          <lb ed="#Z" n="12"/>cti, se designasse ea ob quae abdicari meruerant: sed etiam ipsum diligunt ut 
+          pa<lb ed="#Z" n="13" break="no"/>trem, ideoque dolent ex animo propter commissa peccata, &amp; reconciliari deo patri 
+          <lb ed="#Z" n="14"/>benignissimo ante omnia cupiunt.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e443">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Nam cum timore hoc dei syncero coniunctus est dolor ex spiritu dei propter 
+          <lb ed="#Z" n="16"/>peccata commissa conceptus. S. Paulus duplicis meminit Doloris. Qui secundum 
+          <lb ed="#Z" n="17"/>deum est dolor, inquit, is poenitentiam ad salutem haud poenitendam parit, 
+          con<lb ed="#Z" n="18" break="no"/>tra mundi dolor mortem affert. Secundum deum doluit rex &amp; propheta Dauid 
+          <lb ed="#Z" n="19"/>clamans, Sagittae tuae in me defixae sunt, &amp; depressa est super me manus tua. Nihil 
+          <lb ed="#Z" n="20"/>integrum est in carne mea, propter indignationem tuam: non est pax ossibus meis,  
+          <lb ed="#Z" n="21"/>propter peccatum meum. Et quae sequuntur Psal. 38. Qui tametsi de morbo 
+          gra<lb ed="#Z" n="22" break="no"/>ui sit conscriptus, adumbrat interim quantus sit dolor in sanctis propter offensum 
+          <lb ed="#Z" n="23"/>peccatis patrem benignissimum, Secundum deum doluit peccatrix illa, apud Lu 
+          <lb ed="#Z" n="24"/>cam, quae a tergo domini pedibus prouoluta, hos lachrymis rigauit &amp; tersit 
+          rur<lb ed="#Z" n="25" break="no"/>sum capillis, Secundum deum doluit beatus Petrus apostolus, qui &amp; ipse 
+          amaris<lb ed="#Z" n="26" break="no"/>sime fesse legitur. Dolet pijs quod tam benignum patrem usqueadeo offenderint 
+          <lb ed="#Z" n="27"/>turpiter. Neque arbitror ulla uerba doloris acerbitatem assequi. Contrarium in 
+          im<lb ed="#Z" n="28" break="no"/>poenitentibus studium Ieremias describens, dicit, Nunquid sic cadunt homines,  
+          <lb ed="#Z" n="29"/>ut non resurgant? Num sic aliquis deffectit, ut non redeat? Qui fit igitur, ut 
+          po<lb ed="#Z" n="30" break="no"/>pulus iste Hierosolymitanus auertatur auersione tam pertinaci? Attendi &amp; 
+          au<lb ed="#Z" n="31" break="no"/>scultaui, non loquebantur rectum: nemo erat quem poeniteret mali sui, ut 
+          dice<lb ed="#Z" n="32" break="no"/>ret. Quid feci.: Quisque illorum ad suum cursum tendit, perinde ut equus in 
+          prae<lb ed="#Z" n="33" break="no"/>lium effusus,
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e488">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Mundi dolor hominum est ignorantium deum, carentiumque fide &amp; dilectione 
+          <lb ed="#Z" n="35"/>dei uera, imo succumbentium sub onere moeroris uel aduersitatum adeoque &amp; pec 
+          <lb ed="#Z" n="36"/>catorum. Eadem fere ratio est &amp; lnsynceri timoris dei. Nam impij cum suo capite 
+          <lb ed="#Z" n="37"/>diabolo deum timent, non ut patrem, quem offendisse doleat, cui reconciliari 
+          cu<lb ed="#Z" n="38" break="no"/>piant tanquam patri, sed tanquam tortorem, quia uindicem esse iustum 
+          intelli<lb ed="#Z" n="39" break="no"/>gunt. Cum luda itaque lschariota recurrunt tandem ad laqueum. Nullus in his 
+          a<lb ed="#Z" n="40" break="no"/>mor dei, nullus honor, nullum studium, nulla reuerentia, sed odium dei, horror 
+          <lb ed="#Z" n="41"/>&amp; desperatio. Talem uero timorem negauit beatus Ioannes apostolus &amp; euange 
+          <lb ed="#Z" n="42"/>lista esse in charitate, sed dicit perfectam charitatem eijcere timorem: non illum utique  
+          <lb ed="#Z" n="43"/>qui est initium sapientiae domini, sed illum de quo haec hactenus.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e513">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Hinc uero colligimus poenitentibus in primis necessariam esse fidem in deum  
+          <lb ed="#Z" n="45"/>&amp; in meritum Christi. Quo nomine arbitror multos fidem constituisse partem poe 
+          <lb ed="#Z" n="46"/>nitentiae. Quod ut non ualde oppugno, sic uideo S. Paulum, ueluti distincta collo 
+          <lb ed="#Z" n="47"/>casse poenitentiam &amp; fidem, cum in Actis 20. cap. dicit, se ludaeis &amp; Gentibus 
+          te<lb ed="#Z" n="48" break="no"/>stificatum in deum poenitentiam &amp; fidem in Iesum Christum. Videntur itaque di- 
+          <!--405.xml-->
+          <pb ed="#Z" n="191-v"/>
+          <lb ed="#Z" n="1"/>uersa esse poenitentia &amp; fides : non quod uera poenitentia sine fide esse possit, sed 
+          <lb ed="#Z" n="2"/>quod illa distingui, non confundi debeant. Fidem ueram scimus omnes non esse 
+          <lb ed="#Z" n="3"/>sine operibus dlege utique communi) sed distinguimus tamen inter fidem &amp; opera, 
+          <lb ed="#Z" n="4"/>ut interim illa non separemus aut laceremus: ita agnoscimus cohaerere 
+          poeniten<lb ed="#Z" n="5" break="no"/>tiae uerae fidem ueram. Contendere nolo pars ne sit an alias adhaereat. Stultissimum 
+          <lb ed="#Z" n="6"/>mihi esse uidetur, res diuinas ubique ad praecepta dialectica astringere uelle. Neque 
+          <lb ed="#Z" n="7"/>hoc ab apostolis domini didicimus. Monuimus in Sermone de Euangelio( quod 
+          <lb ed="#Z" n="8"/>modo repetimus) agnitionem peccatorum per se non impetrare gratiam uel 
+          pec<lb ed="#Z" n="9" break="no"/>catorum remisionem: sicut nec morbi agnitio remedium est morbi. Et damnati 
+          <lb ed="#Z" n="10"/>peccata sua agnoscunt, sed non ideo sanantur. Agnitio peccati quaedam est 
+          prae<lb ed="#Z" n="11" break="no"/>paratio ad fidem. Agnitio morbi, occasionem suppenditat cogitandi de medicina.  
+          <lb ed="#Z" n="12"/>Addimus his in praesenti, ne ipsum quidem dei timorem quantumuis syncerum,  
+          <lb ed="#Z" n="13"/>non ipsum dolorem propter peccata conceptum, licet maximum, non 
+          humilia<lb ed="#Z" n="14" break="no"/>tionem quamuis subiectissimam, per se ipsam, poenitentes deo acceptos facere, sed 
+          <lb ed="#Z" n="15"/>magis ingressum ad cognitionem Christi praestruere, adeoque ad ipsum Christum  
+          <lb ed="#Z" n="16"/>incarnatum &amp; crucifixum pro nobis, adducere, &amp; huic uni nos uiuificandos &amp;  
+          <lb ed="#Z" n="17"/>purgandos imponere. Qui enim uere conuertitur ad deum, certe a semetipso &amp; ab  
+          <lb ed="#Z" n="18"/>omnibus praesidijs auertitur. Qui uere timet deum, &amp; ex animo dolet, propter pec 
+          <lb ed="#Z" n="19"/>cata commissa, timet &amp; dolet nec hoc tantum, sed quia deprehendit se totum cor- 
+          <lb ed="#Z" n="20"/>ruptum, nihil habere sani uel integri: imo quia reueretur deum ut patrem, detegit  
+          <lb ed="#Z" n="21"/>ei ut medico uulnera, &amp; eidem ut amantissimo reconciliari cupit. Et cum hic uera 
+          <lb ed="#Z" n="22"/>pietas clamet, neminem posse reconciliari deo patri, nisi per unigenitum filium,  
+          <lb ed="#Z" n="23"/>hunc fide apprehendit poenitens. Fides in solam dei gratiam uel misericordiam,.  
+          <lb ed="#Z" n="24"/>in Christo nobis exhibitam, fundatur, creditque poenitens se deo gratum esse 
+          pro<lb ed="#Z" n="25" break="no"/>pter Christum. Deo ergo supplicat, &amp; totum se deo committit, sicut Dauid fecisse 
+          <lb ed="#Z" n="26"/>legitur, &amp; filius ille prodigus Lucae 55. capite. Habet hic locum doctrina de 
+          e<lb ed="#Z" n="27" break="no"/>uangelio &amp; de fide in Iesum Christum, item de remissione peccatorum, de 
+          qui<lb ed="#Z" n="28" break="no"/>bus dixi superius.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e592">
+          <lb ed="#Z" n="29"/><pc type="indent"/> lnterim modis omnibus mentes poenitentium confirmandas esse censeo mul 
+          <lb ed="#Z" n="30"/>tis &amp; disertis scripturae testimonijs aeditis de remisione peccatorum plenaria, ne 
+          <lb ed="#Z" n="31"/>quid ambigamus in tentationibus nostris. Vbi tamen perpetuo pro assertione 
+          <lb ed="#Z" n="32"/>gloriae unigeniti filij dei repetens inculco, remitti poenitentibus peccata, non 
+          pro<lb ed="#Z" n="33" break="no"/>pter poenitentiam, quatenus ea nostrum opus est, sed quatenus poenitentia com- 
+          <lb ed="#Z" n="34"/>plectitur renouationem hominis per spiritum sanctum &amp; fidem ueram, quae 
+          me<lb ed="#Z" n="35" break="no"/>dico nos tradit Christo, qui sanat omnes morbos nostros, i&amp; colligat omnes 
+          con<lb ed="#Z" n="36" break="no"/>tritiones nostras. Et quamuis haec tractatio proprie ad fidei &amp; euangelij locum 
+          <lb ed="#Z" n="37"/>pertineat, de quibus quantum per compendium fieri potuit ante disserui, 
+          recita<lb ed="#Z" n="38" break="no"/>bo tamen hic claras aliquot de gratia dei &amp; remisione peccatorum sententias.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e617">
+          <lb ed="#Z" n="39"/><pc type="indent"/> Dauid Psal. 193. canit, Benedic anima mea dominum, &amp; noli obliuisci eorum 
+          <lb ed="#Z" n="40"/>quae in te contulit. Qui condonat omnes iniquitates tuas: qui sanat omnes 
+          mor<lb ed="#Z" n="41" break="no"/>bos tuos,. Qui uindicat ab interitu uitam tuam, &amp; undique te cumulat benignitate 
+          <lb ed="#Z" n="42"/>&amp; misericordia. Non rependit nobis pro peccatis nostris, neque retribuit nobis 
+          se<lb ed="#Z" n="43" break="no"/>cundum iniquitates nostras. Nam quanto interuallo coelum altius est terra, 
+          tan<lb ed="#Z" n="44" break="no"/>tum praeualet benignitas eius erga timentes ipsum. Et quam longe distat ortus 
+          <lb ed="#Z" n="45"/>solis ab occasu, tam longe remouit a nobis scelera nostra. Vtque pater miseretur 
+          li<lb ed="#Z" n="46" break="no"/>berorum, ita dominus miseretur timentium eum. Ipse enim nouit nos fragiles esse 
+          <lb ed="#Z" n="47"/>sad peccandum propensos) recordans quod sumus puluis.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e640">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Isaias in 1. cap. dicit, Sic dicit dominus, Si peccata uestra fuerint ut coccus,  
+          <!--406.xml-->
+          <pb ed="#Z" n="192-r"/>
+          <lb ed="#Z" n="1"/>niue reddentur albiora: si rubuerint instar purpurae, sicut natiua lana fient. Idem  
+          <lb ed="#Z" n="2"/>in quadragesimotertio capite inducit loquentem deum, ac dicentem, Ego ego ille 
+          <lb ed="#Z" n="3"/>ipse sum, qui deleo transgressiones tuas, idque propter me, &amp; peccatorum tuorum 
+          <lb ed="#Z" n="4"/>non recordabor.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e660">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Apud Ieremiam in 31. cap. quod &amp; Paulus repetijt in 8. &amp; 10. cap. ad Hebr, di- 
+          <lb ed="#Z" n="6"/>cit dominus, Hoc est foedus meum quod feriam cum eis post dies istos. Propitius 
+          <lb ed="#Z" n="7"/>ero iniquitatibus eorum, &amp; peccati eorum non recordabor amplius, 
+          <lb ed="#Z" n="8"/>Ezechielis 36. ait dominus, Spargam super uos aquas mundas, &amp; 
+          mundabi<lb ed="#Z" n="9" break="no"/>mini ab omnibus inquinamentis uestris. Et dabo uobis cor nouum &amp; spiritum 
+          no<lb ed="#Z" n="10" break="no"/>uum: auferam cor lapideum de carne uestra, &amp; dabo uobis carneum. Ego uos 
+          li<lb ed="#Z" n="11" break="no"/>berabo ab omnibus immunditijs uestris. Non propter uos ego facio: dicit dominus 
+          <lb ed="#Z" n="12"/>deus: hoc notum sit uobis, &amp;c
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e681">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Daniel in 9. cap. manifestum Confessionis peccatorum exemplum relinquit  
+          <lb ed="#Z" n="14"/>nobis, praeterea disertis uerbis dicit, per Messiam condonata esse peccata, expiatam 
+          <lb ed="#Z" n="15"/>iniquitatem, &amp; adductam iustitiam sempiternam. Sic acharias propheta in cap. 
+          <lb ed="#Z" n="16"/>3. asserit, iniquitatem terrae unico Christi sacrificio esse expiatam.  
+          <lb ed="#Z" n="17"/>Dominus in euangelio secundum Matthaeum dicit, Non opus habent qui ua 
+          <lb ed="#Z" n="18"/>lidi sunt medico, sed qui male habent. Nec ueni ad uocandum iustos, sed 
+          peccato<lb ed="#Z" n="19" break="no"/>res ad poenitentiam. Ideoque Iesus est appellatus. Angelus enim, Is saluum faciet 
+          <lb ed="#Z" n="20"/>inquit, populum suum a peccatis suis. Et S. Paulus ad Timoth. dixit, Certus 
+          ser<lb ed="#Z" n="21" break="no"/>mo &amp; dignus quem modis omnibus amplectamur, quod Christus Iesus uenit in 
+          <lb ed="#Z" n="22"/>mundum, ut peccatores saluos faceret. 
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e706">
+          <lb ed="#Z" n="23"/><pc type="indent"/> In eodem euangelio dicit dominus. Omne peccatum &amp; conuitium remittetur 
+          <lb ed="#Z" n="24"/>hominibus: at conuitium in spiritum sanctum non remittetur hominibus. Et 
+          qui<lb ed="#Z" n="25" break="no"/>cunque dixerit uerbum aduersus filium hominis, remittetur: qui autem dixerit 
+          ad<lb ed="#Z" n="26" break="no"/>uersus spiritum sanctum, non remittetur ei, neque in praesenti saeculo, neque in 
+          futu<lb ed="#Z" n="27" break="no"/>ro. De peccato in spiritum sanctum dixi alias. Huc pertinent omnia exempla libe 
+          <lb ed="#Z" n="28"/>ralissimae condonationis peccatorum quae commemorantur in historia 
+          euange<lb ed="#Z" n="29" break="no"/>lica, ueluti mulieris peccatricis, Lucae 7. item Ioan. 4. &amp; g. Matthaei, achaei, S. Pe- 
+          <lb ed="#Z" n="30"/>tri, Latronis in cruce. Quis uero commemoret paucis omnia?Huc pertinent para 
+          <lb ed="#Z" n="31"/>bolae tres ex 15. cap. euangelij secundum Lucam.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e729">
+          <lb ed="#Z" n="32"/><pc type="indent"/> In euangelio Ioannis clamat praecursor domini, &amp; ait, Ecce agnus dei qui 
+          <lb ed="#Z" n="33"/>tollit peccatum mundi. Item ad discipulos suos ait dominus, Quoruncunque 
+          remi<lb ed="#Z" n="34" break="no"/>seritis peccata, remittuntur eis, &amp;c.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e739">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Petrus apostolus in Actis clamat, Christo omnes prophete testimonium serunt,  
+          <lb ed="#Z" n="36"/>quod remisionem peccatorum accepturus sit per nomen eius quisquis crediderit in 
+          <lb ed="#Z" n="37"/>eum. Idem in sua epist. Christus peccata nostra ipse pertulit in corpore suo super 
+          <lb ed="#Z" n="38"/>lignum, quo peccatis mortui, iustities uiueremus : cuius eiusdem uibice sanati fuistis,  
+          <lb ed="#Z" n="39"/>Paulus apost. in 2. ad Cor. 5. cap. ait, Deus erat in Christo, mundum reconcilians 
+          <lb ed="#Z" n="40"/>sibi, non imputans eis peccata sua. Eum enim qui non nouit peccatum, pro nobis pec 
+          <lb ed="#Z" n="41"/>catum fecit, ut nos efficeremur iustitia dei per illum. Et in 10. cap. ad Heb. dicit idem,  
+          <lb ed="#Z" n="42"/>Christus una pro peccatis oblata uictima, perpetuo sedet ad dexteram dei, id quod 
+          <lb ed="#Z" n="43"/>superest expectans, donec reddantur inimici ipsius scabellum pedum eius. 
+          Vni<lb ed="#Z" n="44" break="no"/>ca enim oblatione perfectos effecit in perpetuum eos qui sanctificantur. 
+          <lb ed="#Z" n="45"/>Porro beatus Ioannes apostolus &amp; euangelista non minus clare quam euiden 
+          <lb ed="#Z" n="46"/>ter testatur, dicens, Sanguis Iesu Christi filij dei emundat nos ab omni peccato. Et 
+          <lb ed="#Z" n="47"/>iterum, Et ipse est propitiatio pro peccatis nostris: non pro nostris autem tantum,  
+          <lb ed="#Z" n="48"/>sed etiam pro totius mundi.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e773">
+          <!--407.xml-->
+          <pb ed="#Z" n="192-v"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Caeterum uanissimi &amp; ipsius sathanae nuncij sunt, Nouatiani &amp; 
+          Anabapti<lb ed="#Z" n="2" break="no"/>stae, fingentes baptismo purgari nos in uitam angelicam, quae nullis porro 
+          sordi<lb ed="#Z" n="3" break="no"/>bus polluatur: si autem polluatur, nullam polluto expectandam esse ueniam. Nam  
+          <lb ed="#Z" n="4"/>ut multa alia transeam scripturae loca, nonne S. Petrus baptismo consecratus fuit 
+          <lb ed="#Z" n="5"/>deo: an nen bonam dei gratiam gustauerat? Certe cum praeclaram fecisset confessionem 
+          <lb ed="#Z" n="6"/>audit a domino, Beatus es Simon Bar lona. Caro &amp; sanguis non reuelauit tibi, sed 
+          <lb ed="#Z" n="7"/>pater meus qui est in coelis. Idem roganti domino, Num &amp; uos uultis abire : om- 
+          <lb ed="#Z" n="8"/>nium nomine respondens, dixit, Domine ad quem ibimus? Verba uitae aeternae 
+          <lb ed="#Z" n="9"/>habes : &amp; nos credimus &amp; cognouimus quod tu es Christus filius dei uiui. At idem 
+          <lb ed="#Z" n="10"/>hic Petrus, post baptismum &amp; gustatam dei gratiam, peccat, nec leuiter quidem  
+          <lb ed="#Z" n="11"/>peccat, sed grauissime, ipsum abnegans &amp; abiurans dominum. An uero propter 
+          <lb ed="#Z" n="12"/>peccatum eius omni uenia excidit: an praeclusus est ipsi ad deum reditus? Minime 
+          <lb ed="#Z" n="13"/>Gentium. Audito enim galli gallinacei cantu, uerborum domini recordatur, in se 
+          <lb ed="#Z" n="14"/>descendit, &amp; quid egerit expendit, sset amare, &amp; in grauem se luctum tradit. Non 
+          <lb ed="#Z" n="15"/>tamen diu in ipso conficiebatur sine consolatione. Tertia enim mox insequenti die 
+          <lb ed="#Z" n="16"/>angeli, mulierculis ad sepulchrum domini uenientibus, dicunt Dicite discipulis 
+          <lb ed="#Z" n="17"/>eius &amp; Petro, quod resurrexerit, &amp; praecedat uos in Galilaeam. En singulariter uult 
+          <lb ed="#Z" n="18"/>dominus innotescere Petro quod resurrexerit. Cur autem singulariter Petro. Quia  
+          <lb ed="#Z" n="19"/>reliquis peccarat grauius: non quod peccatum Petri probaret dominus, sed quod 
+          <lb ed="#Z" n="20"/>nobis declarare uellet ueniam consequi poenitentes, quoties conuertuntur ad gra 
+          <lb ed="#Z" n="21"/>tiam dei coelestem. Nec uero multos post dies restituit Petrum ministerio, 
+          com<lb ed="#Z" n="22" break="no"/>mendatis ipsi ouibus suis, Praeterea dicit dominus apud Ieremiam ad populum 
+          <lb ed="#Z" n="23"/>liraelis, Si quisquam uxorem suam dimittat, &amp; illa ab ipso diuertens alteri 
+          nupse<lb ed="#Z" n="24" break="no"/>rit, nunquid ille ad ipsam reuertetur? An uero non est polluta terra illa?: An non 
+          <lb ed="#Z" n="25"/>cum multis fornicata es? Sed reuertere ad me, dicit dominus. Et Galatae recte insti 
+          <lb ed="#Z" n="26"/>tuti ab apostolo Paulo, per pseudoapostolos seducti, defecerant a ueritate euange 
+          <lb ed="#Z" n="27"/>lica: &amp; tamen ueniam consequuntur. Corinthij quoque in multis scientes &amp; uolen 
+          <lb ed="#Z" n="28"/>tes post acceptam gratiam peccauerunt : sed resipiscentibus promittit nihilo mi- 
+          <lb ed="#Z" n="29"/>nus S. apostolus condonationem delictorum a domino. Quid uero manifestius 
+          <lb ed="#Z" n="30"/>est, quam quod omnes sancti quotidie &amp; serio uereque, non hypocritice uel 
+          menda<lb ed="#Z" n="31" break="no"/>citer, orant. Dimitte nobis debita nostra. Hoc qui orant, fatentur se esse 
+          peccato<lb ed="#Z" n="32" break="no"/>res. Interim promittit dominus se exauditurum orantes fide, remittuntur ergo 
+          e<lb ed="#Z" n="33" break="no"/>tiam illa peccata orantibus, quae homines post cognitam uel indeptam patrarunt 
+          <lb ed="#Z" n="34"/>gratiam. Loca uero ex epistola ad Hebraeos, quae pro suo dogmate 
+          confirman<lb ed="#Z" n="35" break="no"/>do producunt Nouatiani, alias excussimus, ut hic nihil sit necesse ijs inhaerere 
+          <lb ed="#Z" n="36"/>operosius.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e860">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Iam uero, ut summam colligamus eorum quae hactenus disputauimus de Poe 
+          <lb ed="#Z" n="38"/>nitentia, teneamus poenitentiam esse conuersionem ad deum, quam etsi uerbo suo 
+          <lb ed="#Z" n="39"/>&amp; alijs rationibus excitet, praecipue tamen spiritu suo efficit ut reuereamur 
+          ip<lb ed="#Z" n="40" break="no"/>sum, deum, inquam, iustum, a quo auersi fueramus, dolentes ex animo patrem op 
+          <lb ed="#Z" n="41"/>timum peccatis nostris esse offensum. Nam humiliati coram aeterna sanctissimaque  
+          <lb ed="#Z" n="42"/>maiestate eius, agnoscimus quae nobis obijciuntur per uerbum dei peccata: agno 
+          <lb ed="#Z" n="43"/>scimus nihil esse in nobis integri. Cupimus autem reconciliari cum deo: quod cum  
+          <lb ed="#Z" n="44"/>non possit fieri, nisi per solum mediatorem Christum dominum, hunc fide appre 
+          <lb ed="#Z" n="45"/>hendimus, per quem ab omnibus peccatis absoluti, sancti &amp; iusti a deo reputamur. 
+          <lb ed="#Z" n="46"/>Hoc beneficium quicunque synceriter agnoscunt, non possunt non odisse 
+          pecca<lb ed="#Z" n="47" break="no"/>tum, ueteremque mortificare hominem. Subiungerem ergo nunc alia membra ad 
+          <lb ed="#Z" n="48"/>poenitentiam pertinentia, uidelicet mortificationem ueteris hominis &amp; innoua¬ 
+          <!--408.xml-->
+          <pb ed="#Z" n="193-r"/>
+          <lb ed="#Z" n="1"/>tionem spiritus, nisi res ipsa postularet aliquid dicere de Confessione peccatorum 
+          <lb ed="#Z" n="2"/>&amp; de Satisfactione pro peccatis. De his enim nonnulli aliena a ueritate docent, qui  
+          <lb ed="#Z" n="3"/>de Poenitentia disserunt. Ne ergo nesciat c. V. quid de his sentiat secundum 
+          ue<lb ed="#Z" n="4" break="no"/>ritatem, non grauabor his explicandis immorari nonihil. Spero autem ex his 
+          fru<lb ed="#Z" n="5" break="no"/>ctum ad c. V. non poenitendum rediturum.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e905">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Confiteri uel Confessio uarie usurpatur in scripturis sanctis. Significat enim  
+          <lb ed="#Z" n="7"/>laudare dominum &amp; gratias agere pro acceptis beneficijs. Vnde confessio poni 
+          <lb ed="#Z" n="8"/>tur pro laude &amp; gratiarum actione. Propheta enim canit. Confitemini domino,  
+          <lb ed="#Z" n="9"/>quoniam bonus, quoniam in aeternum misericordia eius. Paulus ad Titum, 
+          lo<lb ed="#Z" n="10" break="no"/>quens de hypocritis, ait, Confitentur se nosse deum, factis autem negant: ubi 
+          Con<lb ed="#Z" n="11" break="no"/>fiteri significat dicere, profiteri uel iactare. Alicubi est confidere &amp; niti diuines bo 
+          <lb ed="#Z" n="12"/>nitati, sed &amp; hanc fiduciam cum dictis tum factis testari. Sic usurpauit S. Ioannes 
+          <lb ed="#Z" n="13"/>. Ioannis 4. &amp; Paulus ad Rom. 19. Est praeterea confiteri, deo dare gloriam &amp; 
+          a<lb ed="#Z" n="14" break="no"/>gnoscere ingenue peccatum &amp; iudicium quod tibi obiicitur. Solomo in Prouer. 
+          <lb ed="#Z" n="15"/>cap. 28. dicit, Qui celat iniquitates suas (imo &amp; has ueluti defendit)nil 
+          prospe<lb ed="#Z" n="16" break="no"/>rum habebit: qui autem confitetur &amp; deserit, huic fit misericordia. Vsurpat He- 
+          <lb ed="#Z" n="17"/>braeus sermo in hac sententia uerbum ladah, pro quo nostri reponunt confiteri. 
+          <lb ed="#Z" n="18"/>Est autem Iadah proijcere uel dimittere, ueluti cum arcus intentus remittit. Et Mo 
+          <lb ed="#Z" n="19"/>daeh perinde est ac si tu dicas confitens, uel cedens, uelutique herbam praebens. Deus  
+          <lb ed="#Z" n="20"/>enim accusat nos, &amp; criminis poenaeque reos agit. Id non protinus agnoscit caro, 
+          <lb ed="#Z" n="21"/>sed ueluti intentus arcus manet tandem uero remissa pertinacia agnoscit, quod 
+          <lb ed="#Z" n="22"/>deus obiicit: haec agnitio modaeh, id est confessio est. Sed &amp; Germanice dicimus, 
+          <lb ed="#Z" n="23"/>i:e bat gelassen. tt bat gesonelltycum significamus uel rem aliquam cessisse lo 
+          <lb ed="#Z" n="24"/>co, uel nominem confessum esse quod aliquandiu uel negauit, uel dissimulauit.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e950">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Caeterum non est unius generis Confessio peccatorum. Est enim Diuina, est 
+          <lb ed="#Z" n="26"/>&amp; Humana. Primum dicemus de Diuina, deinde de Humana. Diuinam appella  
+          <lb ed="#Z" n="27"/>mus, quae clara in scripturis sanctis testimonia uel exempla habet, &amp; ab ipso deo 
+          <lb ed="#Z" n="28"/>instituta est. Ea est peccati, quod obiicitur nobis, ingenua agnitio professioque, qua 
+          <lb ed="#Z" n="29"/>omnem deo gloriam, nobis autem confusionem tribuimus, deumque &amp; proximum, 
+          <lb ed="#Z" n="30"/>contra quem peccauimus, deprecamur. Obiicitur autem nobis peccatum ab ipso 
+          <lb ed="#Z" n="31"/>deo, qui foris per uerbum uel per ministerium hominum, aliqueando &amp; per signa 
+          <lb ed="#Z" n="32"/>atque portenta, intus autem spiritus sui arcano afflatu, &amp; peccati &amp; poene reos agit,  
+          <lb ed="#Z" n="33"/>liberam &amp; ingenuam a nobis deposcens peccatorum confessionem. Spontaneam 
+          <lb ed="#Z" n="34"/>enim &amp; ingenuam, non simulatam aut extortam approbat. Certe ciues 
+          Hieroso<lb ed="#Z" n="35" break="no"/>lymitani &amp; populus ludaicae regionis sua sponte ad Ioannis baptismum ueniunt,  
+          <lb ed="#Z" n="36"/>confitentes peccata sua: quae ipsis beatus Ioannes praedicatione sua obiecerat. Et 
+          <lb ed="#Z" n="37"/>post ascensionem Christi in coelos, accusat peccatum populi ludaici beatus 
+          Pe<lb ed="#Z" n="38" break="no"/>trus: accusationem uero mox sequitur in historia. His auditis compuncti sunt cor 
+          <lb ed="#Z" n="39"/>de: &amp; dixerunt ad Petrum, &amp; reliquos apostolos, Quid faciemus uiri fratres? Et 
+          <lb ed="#Z" n="40"/>quae sequuntur Acto. cap. 2. Magister quoque carceris Philippici, postquam terrae 
+          <lb ed="#Z" n="41"/>motum sensisset, exilijt, &amp; uerbis apostolicis instructus peccata sua confitetur. Sic 
+          <lb ed="#Z" n="42"/>etiam uiri Ephesij, artibus dediti magicis, audita calamitate, quam daemon intule 
+          <lb ed="#Z" n="43"/>rat filijs Sceue, eiusdem artis consortibus, timent, uenientesque confitentur peccata 
+          <lb ed="#Z" n="44"/>sua. His caussis potissimum fere exoritur peccatorum confessio.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e997">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Porro diuinitus institutae confessionis alia quidem deo fit: alia proximo. Quae 
+          <lb ed="#Z" n="46"/>deo fit, uel priuata est, uel publica. Priuatim confitemur deo, quando excutimus 
+          <lb ed="#Z" n="47"/>corda nostra coram deo, soliqe abscondita pectoris nostri recludimus, 
+          agnoscen<lb ed="#Z" n="48" break="no"/>tes quae in nobis sunt peccata, precamurque ut nostri misereatur. Haec confessio ad 
+          <!--409.xml-->
+          <pb ed="#Z" n="193-v"/>
+          <lb ed="#Z" n="1"/>remissionem peccatorum consequendam necessaria est. Nisi enim corruptionem 
+          <lb ed="#Z" n="2"/>&amp; iniustitiam nostram agnoscamus, nunquam fide uera apprehendemus Chri- 
+          <lb ed="#Z" n="3"/>stum, per quem solum iustificamur. Non autem arbitramur poenitentibus prope 
+          <lb ed="#Z" n="4"/>randum esse ad ullum alium confessorem, cui peccata confiteantur quam ad deum, 
+          <lb ed="#Z" n="5"/>Hic enim solus peccata remittit &amp; delet. Hic medicus est, cui uni oportet 
+          retege<lb ed="#Z" n="6" break="no"/>re uel aperire uulnera. Hic offensus est a nobis, ab eo ergo petenda pax &amp; 
+          recon<lb ed="#Z" n="7" break="no"/>ciliatio. Hic solus inspicit corda &amp; scrutatur renes, soli ergo aperienda sunt pecto 
+          <lb ed="#Z" n="8"/>ra. Hic peccatores ad se uocat: ad ipsum ergo festinemus, procidamus, 
+          confitea<lb ed="#Z" n="9" break="no"/>mur &amp; ueniam petamus. Haec confessio, si animo in deum intento fiat, licet ore fie 
+          <lb ed="#Z" n="10"/>ri nequeat, recipitur a deo, cordium inspectore, Rursus si confiteamur ore, corde 
+          <lb ed="#Z" n="11"/>uero in deum intenti non simus, licet ipsi deo uel pontifici confiteamur, non 
+          cu<lb ed="#Z" n="12" break="no"/>rat confessionem uanam dominus. De uera illa quae deo fit confessione loquutus 
+          <lb ed="#Z" n="13"/>sum cum in definitione Poenitentiae dixi poenitentes peccata sua agnoscere. De 
+          <lb ed="#Z" n="14"/>hac loquitur multis in locis scriptura. Dauid in Psalmis orat &amp; confitetur dicens,  
+          <lb ed="#Z" n="15"/>Miserere mei deus, secundum magnam misericordiam tuam,. Quoniam peccata 
+          <lb ed="#Z" n="16"/>mea agnosco, &amp; peccatum meum coram me semper. Tibi soli peccaui, &amp; malum co 
+          <lb ed="#Z" n="17"/>ram te feci. Et reliqua. Et in alio Psalmo, Delictum cognitum tibi feci, &amp; iniustitiam  
+          <lb ed="#Z" n="18"/>meam non abscondi. Dixi, Confitebor aduersum me iniustitiam meam domino,  
+          <lb ed="#Z" n="19"/>&amp; tu remisisti impietatem peccati mei. In euangelio docet dominus noster orare, &amp;  
+          <lb ed="#Z" n="20"/>inter orandum confiteri &amp; dicere, Remitte nobis debita nostra, sicut &amp; nos remitti 
+          <lb ed="#Z" n="21"/>mus debitoribus nostris. Sic autem orantes confitentesque iussit secedere in 
+          cubicu<lb ed="#Z" n="22" break="no"/>lum, ut patri coelesti soli cor nostrum cordisque nostri pateat deuotio. Filius prodi 
+          <lb ed="#Z" n="23"/>gus priuatim in campo apud porcos confessionem sui peccati componit &amp; soli pa 
+          <lb ed="#Z" n="24"/>tri ossert. Et publicanus ille in euangelio, qui confertur cum pharisaeo, tundit 
+          pe<lb ed="#Z" n="25" break="no"/>ctus &amp; querula uoce apud semetipsum confitens dicit, Deus propitius esto mihi 
+          <lb ed="#Z" n="26"/>peccatori. Audiamus iam &amp; Ioannem apostolum ac euangelistam, totum hoc quod 
+          <lb ed="#Z" n="27"/>dici uere potest de hac confessione comprehendentem &amp; dicentem, Si dixerimus 
+          <lb ed="#Z" n="28"/>peccatum non habemus, nos ipsos fallimus, &amp; ueritas in nobis non est. Si confi- 
+          <lb ed="#Z" n="29"/>teamur peccata nostra, fidelis est &amp; iustus, ut remittat nobis peccata nostra, &amp; 
+          e<lb ed="#Z" n="30" break="no"/>mundet nos ab omni iniquitate. Hanc priuatam confessionem quae fit deo, sequi  
+          <lb ed="#Z" n="31"/>tur confessio uoluntaria apud homines. Humiliantur enim poenitentes, quoties 
+          <lb ed="#Z" n="32"/>ipsa res, gloria dei &amp; incolumitas proximi poscit, &amp; coram hominibus etiam testan 
+          <lb ed="#Z" n="33"/>tur se peccasse deo. Sic enim Dauid Nathano obiicienti peccatum, clamauit, 
+          Pec<lb ed="#Z" n="34" break="no"/>caui domino. Sic Sachaeus intelligens calumnijs peti dominum, confitetur palam  
+          <lb ed="#Z" n="35"/>peccatum suum, &amp; emendationem promittit.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1089">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Publice quidem ita deo confitemur, sicut modo diximus, sed magis 
+          tamen<lb ed="#Z" n="37" break="no"/>cum audito uerbo ueritatis, publica illa forma solennique, uel in templo uel alias in 
+          <lb ed="#Z" n="38"/>coetu aliquo coram hominibus, recitantes peccata admissa, imploramus a 
+          miseri<lb ed="#Z" n="39" break="no"/>corde deo ueniam. Quondam certe in ueteri populo instituit dominus, ut praeeun 
+          <lb ed="#Z" n="40"/>te sacerdote, uerbis conceptis, totus populus sequens, peccata sua palam 
+          confite<lb ed="#Z" n="41" break="no"/>retur in templo. Vnde haud dubie etiam hodie receptum est in ecclesia 
+          Christia<lb ed="#Z" n="42" break="no"/>norum, praeeunte conceptis uerbis pastore uel doctore ecclesiastico, post finitam  
+          <lb ed="#Z" n="43"/>scripturarum expositonem &amp; paulo antequam dimittatur concio, confiteri palam  
+          <lb ed="#Z" n="44"/>in templo omnia contra deum commissa delicta, &amp; implorare diuinam misericor 
+          <lb ed="#Z" n="45"/>diam. Notae sunt confessiones peccatorum publicae ab Esdra, Daniele, &amp; Nehemia 
+          <lb ed="#Z" n="46"/>factae. Publicam confessionem peccatorum illam fuisse interpretor, quam fecisse 
+          <lb ed="#Z" n="47"/>ludaeos author est S. Matthaeus in cap. 3. Tota enim ludaea egressa est ad Ioannem 
+          <lb ed="#Z" n="48"/>praecursorem domini, ac baptizabantur ab eo in lordane, confitentes peccata sua. 
+          <!--410.xml-->
+          <pb ed="#Z" n="194-r"/>
+          <lb ed="#Z" n="1"/>Nam cum baptismum publice reciperent, ea ipsa re confitebantur palam 
+          pecca<lb ed="#Z" n="2" break="no"/>ta sua. Baptismus enim est signaculum expurgationis peccatorum : ergo qui 
+          ba<lb ed="#Z" n="3" break="no"/>ptizantur, confitentur se esse peccatores. Qui non baptizabantur, arbitrabantur 
+          <lb ed="#Z" n="4"/>se alias purgatos esse, neque ulla indigere sanctificatione. Publice peccata sua confi 
+          <lb ed="#Z" n="5"/>tebantur Ephesij, qui magicos libros comportatos igni concremarunt, concreman 
+          <lb ed="#Z" n="6"/>do enim confitebantur se scelus igni piandum admisisse.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1138">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Iam quae proximo fit confessio talis est, Offendisti proximum tuum, uel is te 
+          <lb ed="#Z" n="8"/>iniuria affecit, iccirco dissidetis odiaque exercetis mutua: hic certe cogitandum est i 
+          <lb ed="#Z" n="9"/>de reconciliatione, alter ergo alterum accedens, culpam uel errorem admissum, 
+          <lb ed="#Z" n="10"/>&amp; fateatur &amp; deprecetur, alter confitenti, benigne peccatum condonet &amp; cum i- 
+          <lb ed="#Z" n="11"/>pso in gratiam redeat. De hac confessione loquutus beatus Iacobus apostolus, di 
+          <lb ed="#Z" n="12"/>xit, Confitemini alterutrum peccata uestra, &amp; orate pro uobis inuicem, ut 
+          salue<lb ed="#Z" n="13" break="no"/>mini. Quia dominus &amp; saluator noster prior in haec uerba nos docuit, Si 
+          obtule<lb ed="#Z" n="14" break="no"/>ris munus tuum ad altare dloquitur autem illis quibus adhuc in usu erant 
+          sacrifi<lb ed="#Z" n="15" break="no"/>cia legalia) &amp; ibi recordatus fueris, quod frater tuus aliquid habet contra te, 
+          re<lb ed="#Z" n="16" break="no"/>linque illic munus tuum coram altari, &amp; abi, prius reconcilieris fratri tuo: &amp; tunc 
+          <lb ed="#Z" n="17"/>uenies &amp; offeres tuum munus. Huc pertinet &amp; parabola domini, exposita Matt.  
+          <lb ed="#Z" n="18"/>18. de coniecto in perpetuos carceres, qui gratiam expertus domini, saeuiebat in 
+          <lb ed="#Z" n="19"/>conseruum suum, cui nihil condonare uolebat. Nam in Matth. 6. cap. dicit 
+          domi<lb ed="#Z" n="20" break="no"/>nus, Si remiseritis hominibus errata sua, remittet uobis &amp; pater coelestis. Si uero 
+          <lb ed="#Z" n="21"/>non remiseritis, non remittet uobis pater coelestis. Non quod propter 
+          remissio<lb ed="#Z" n="22" break="no"/>nem nostram condonentur nobis peccata. Sic enim remissio non esset gratuita,  
+          <lb ed="#Z" n="23"/>sed ex merito &amp; recompensatione. lam uero cum gratis condonantur per fidem  
+          <lb ed="#Z" n="24"/>certe animus ille irreconciliabilis ac durus, certum est argumentum, nullam esse 
+          <lb ed="#Z" n="25"/>fidem in homine duro, pertinace, implacabilique. At ubi non est fides, ibi nulla 
+          re<lb ed="#Z" n="26" break="no"/>missio. Spontanea ergo remissio, signum est euidens, &amp; natiuus fructus fidei 
+          ue<lb ed="#Z" n="27" break="no"/>rae &amp; gratiae diuinae in nobis.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1188">
+          <lb ed="#Z" n="28"/><pc type="indent"/> His duobus generibus confessionis adijnciunt quidam illam, qua pressi scele 
+          <lb ed="#Z" n="29"/>re aliquo graui consilium petunt, uel at pastore gregis dominici, uel ab alio legis dei 
+          <lb ed="#Z" n="30"/>perito. Caeterum illa potius est Consultatio quam Confessio. Haec autem nullibi 
+          <lb ed="#Z" n="31"/>uel praecepta est uel prohibita, ideoque libera. Proinde nemo cogi debet ad istam con 
+          <lb ed="#Z" n="32"/>sultationem. Si uero frater aliquis, uel a ministro ecclesiae, uel at priuato aliquo fra 
+          <lb ed="#Z" n="33"/>tre consilium petat, charitas iubet, si possis, inseruire fratri. Imo si non petat, 
+          ui<lb ed="#Z" n="34" break="no"/>deas autem periclitari fratrem, charitas iterum iubet te periclitantem admonere, 
+          <lb ed="#Z" n="35"/>&amp; tractare ut fratrem. Nam Paulus ad Galatas, Fratres, inquit, etiamsi 
+          praeoccu<lb ed="#Z" n="36" break="no"/>patus fuerit homo in aliquo lapsu, uos qui spirituales estis instaurate eiusmodi 
+          <lb ed="#Z" n="37"/>hominem spiritu lenitatis: considerans teipsum, ne tu quoque tenteris. Alij aliorum 
+          <lb ed="#Z" n="38"/>onera portate: &amp; sic adimplete legem Christi. Sed haec nihil ad Confessionem pec 
+          <lb ed="#Z" n="39"/>catorum, redimus ergo ad institutum.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1218">
+          <lb ed="#Z" n="40"/><pc type="indent"/> Ista diximus hactenus de diuinitus instituta confessione peccatorum, subiun 
+          <lb ed="#Z" n="41"/>gemus iam quaedam de Confessione peccatorum instituta ab hominibus. Ea est 
+          <lb ed="#Z" n="42"/>duplicis generis, uidelicet Publica &amp; ritualis uel caeremonialis, quam fere 
+          appel<lb ed="#Z" n="43" break="no"/>larunt Exhomologesim: &amp; Priuata uel arcana, dicta auricularis. Publicam uoco 
+          <lb ed="#Z" n="44"/>ritualem, quia non tam cognitio &amp; confessio est peccati, quam actus 
+          poenitentia<lb ed="#Z" n="45" break="no"/>lis. <ref xml:id="UD1xh4-bNdIjR-Rd1e1234">Isidorus enim Hispalen episcopus libro Etymol. 6. cap. 18. Exhomologesis</ref>, 
+          in<lb ed="#Z" n="46" break="no"/>quit, prosternendi &amp; humiliandi hominis disciplina est, habitu atque uictu, sacco &amp;  
+          <lb ed="#Z" n="47"/>cinere incubare, corpus sordibus obscurare, animum moeroribus deiicere, illa  
+          <lb ed="#Z" n="48"/>quae peccauit, tristi tractatione mutare. Haec lsidori episcopi uerba non recitassem 
+          <!--411.xml-->
+          <pb ed="#Z" n="194-v"/>
+          <lb ed="#Z" n="1"/>c. V. utpote authoris non admodum illustris, nisi eadem fere legerentur in libro 
+          <lb ed="#Z" n="2"/>Tertulliani scripto de Poenitentia: nisi &amp; exemplum suppeditaret Eusebius, qui Ec 
+          <lb ed="#Z" n="3"/>cles: hist. lib. 5. cap. ultimo, Natalis, inquit, martyr deceptus ab haereticis, tandem er 
+          <lb ed="#Z" n="4"/>rorem intelligens, mane consurgit, cilicio se induit, et cinere conspergit, ac multis 
+          <lb ed="#Z" n="5"/>Iachrymis errorem suum deffens, ante pedes se zephyrini episcopi prosternit, &amp;  
+          <lb ed="#Z" n="6"/>uestigijs omnium, non modo clericorum, sed etiam laicorum, multa cum 
+          lamen<lb ed="#Z" n="7" break="no"/>tatione prouolutus in Iachrymas omnem prouocauit ecclesiam, ut indulgentiam  
+          <lb ed="#Z" n="8"/>sibi a Christo continuis &amp; iugibus pro ipso precibus implorarent. De ritibus 
+          poe<lb ed="#Z" n="9" break="no"/>nitentiae paulo post dicemus. Non autem uidetur haec ritualis poenitentia, sicut ue 
+          <lb ed="#Z" n="10"/>teribus in usu fuit, diuinitus esse praecepta, ut uel hodie quicumque scelus aliquod pa 
+          <lb ed="#Z" n="11"/>trauit, cogatur mox palam poenitere, ad eum quem isti usurparunt modum. Vbi 
+          <lb ed="#Z" n="12"/>enim legitur peccatrici uel adulterae mulieri talis in euangelio iniuncta esse poeni 
+          <lb ed="#Z" n="13"/>tentia? Recipiuntur alij multi peccatores per Christum in gratiam dei sine huius 
+          <lb ed="#Z" n="14"/>modi poenitentia. Notissimum est enim quid egerit Christus dominus cum 
+          Mat<lb ed="#Z" n="15" break="no"/>thaeo, cum zachaeo, cum Petro negatore &amp; alijs multis. Proinde non temere 
+          cre<lb ed="#Z" n="16" break="no"/>dimus episcopos ac sacerdotes ueteres, disciplinae gratia, &amp; quo minor esset peccam 
+          <lb ed="#Z" n="17"/>di licentia, inuenisse publicam illam poenitendi rationem. Certe Hermius Sozco 
+          <lb ed="#Z" n="18"/>menus Salaminius historiae ecclesiasticae scriptor egregius, li. hist. 7. cap. 16. Ab ini 
+          <lb ed="#Z" n="19"/>tio, inquit, sacerdotibus placuit, ut uelut in theatro, teste multitudine ecclesiae, pec 
+          <lb ed="#Z" n="20"/>catamanifestarentur. En sacerdotibus placuit, ait. Addit institutum fuisse presbyte 
+          <lb ed="#Z" n="21"/>rum ad quem qui deliquissent accedentes peccata confiterentur, deinde etiam audirent 
+          <lb ed="#Z" n="22"/>mulctam quid uidelicet faciendum esset luendumue. Idem mox describit et Romanes ec 
+          <lb ed="#Z" n="23"/>clesiae morem poenitendi. Deinde subdit, In Constantinopolitana ecclesia presby 
+          <lb ed="#Z" n="24"/>ter poenitentibus deputatus, hoc munere functus est, donec mulier quaedam nobi 
+          <lb ed="#Z" n="25"/>lis propter peccata qua confessa fuerat, ab huiusmodi presbytero ieiunare deoque 
+          <lb ed="#Z" n="26"/>supplicare iussa, &amp; eam ob caussam ecclesiae immorata, a diacono scortationis sce 
+          <lb ed="#Z" n="27"/>lere polluta fuisse proderetur. Ob quam caussam sacerdotibus plurimum 
+          detraheba<lb ed="#Z" n="28" break="no"/>tur. Nectarius uero episcopus perplexus quid commisso facinori copeteret, diaco 
+          <lb ed="#Z" n="29"/>num illum qui scelus hoc ausus fuerat, diaconatu priuauit. Et quoniam nonulli 
+          <lb ed="#Z" n="30"/>suadebant ut unicuique liberum permitteret, secundum quod sibijpsi bene conscius 
+          <lb ed="#Z" n="31"/>esset &amp; bona fiducia esse posset, ad communionem mysteriorum accedere, 
+          mu<lb ed="#Z" n="32" break="no"/>nus illud presbyterij poenitentiarij sustulit: &amp; ex eo inualuit consilium illud Necta 
+          <lb ed="#Z" n="33"/>rio datum, &amp; iam quoque permanet. Et caetera. Idem in capitis initio, Primus 
+          Ne<lb ed="#Z" n="34" break="no"/>ctarius Constantinopolitanus episcopus, inquit, presbyterum qui poenitentibus 
+          <lb ed="#Z" n="35"/>deputatus erat sustulit ex ecclesia: quem fere omnes episcopi sunt secuti. Haec 
+          il<lb ed="#Z" n="36" break="no"/>le. Non abrogasset autem exhomologesim sanctus alioqui episcopus Nectarius,  
+          <lb ed="#Z" n="37"/>si intellexisset diuinitus esse institutam : nec licuisset etiam abrogare. Sciuit ergo, 
+          <lb ed="#Z" n="38"/>sicuti &amp; Sozomenus confitetur, episcoporum consilio formam illam usurpatam  
+          <lb ed="#Z" n="39"/>esse in ecclesia. Neque legimus Ioannem Chrysost, qui proxime Nectario successit 
+          <lb ed="#Z" n="40"/>&amp; diligentissimus seuerissimusque episcopus fuit, ritualem illam abrogatam restituis 
+          <lb ed="#Z" n="41"/>se poenitentiam. Scribit enim Homelia 31. in epistola Pauli ad Heb. Non dico tibi 
+          <lb ed="#Z" n="42"/>ue ut te prodas in publicum, neque ut te apud alios accuses : sed obedire te uolo prophe 
+          <lb ed="#Z" n="43"/>tae dicenti, Reuela domino uiam tuam. Ante deum ergo confitere peccata tua, 
+          a<lb ed="#Z" n="44" break="no"/>pud uerum iudicem, cum oratione delicta pro iniuria: non lingua, sed conscientiae 
+          <lb ed="#Z" n="45"/>tuae memoria. Et tunc demum crede te misericordiam posse consequi, si habueris in 
+          <lb ed="#Z" n="46"/>mente tua continue, &amp;c, Rursus in Psal. 56. Si confunderis alicui dicere quia pecca 
+          <lb ed="#Z" n="47"/>sti, dicito ea quotidie in anima tua. Non dico ut confitearis ea conseruo tuo ut 
+          expro<lb ed="#Z" n="48" break="no"/>bret, dic deo tuo qui curat ea. Si non dixeris, non ignorat ea deus, q praesto erat cum 
+          <!--412.xml-->
+          <pb ed="#Z" n="195-r"/>
+          <lb ed="#Z" n="1"/>ea faceres. Et idem iterum alicubi, Non te in conseruorum tuorum theatrum te 
+          <lb ed="#Z" n="2"/>duco: non hominibus peccata tua detegere cogo. Repete coram deo conscientiam  
+          <lb ed="#Z" n="3"/>tuam, &amp; explica. Ostende domino praestantissimo medico tua uulnera, &amp; pete ab  
+          <lb ed="#Z" n="4"/>eo medicinam. Item, Caue homini dixeris, ne tibi opprobret. Neque enim conseruo 
+          <lb ed="#Z" n="5"/>est confitendum, qui in publicum proferat, sed domino, qui tui curam gerit, qui  
+          <lb ed="#Z" n="6"/>&amp; humanus est &amp; medicus: ei ergo ostendes uulnera. Sed &amp; dominum idem ille 
+          <lb ed="#Z" n="7"/>loquentem inducit, Non cogo te in medium prodire theatrum, ac multos adhibere 
+          te<lb ed="#Z" n="8" break="no"/>stes: mihi soli dic peccatum tuum priuatim, ut sanem ulcus. Haec Chrysost, omnia 
+          <lb ed="#Z" n="9"/>arguunt clare satis ritualem illam poenitentiam ( sicuti aliquando usurpata est in 
+          <lb ed="#Z" n="10"/>ecclesia) non a deo institutam, denique nulla iniuria ex ecclesia submotam, neque 
+          <lb ed="#Z" n="11"/>mox a sanctis episcopis restitutam fuisse. In Romana ecclesia multas remansisse 
+          <lb ed="#Z" n="12"/>reliquias illius non omnino uane perhibent. Sed quid ad nos quid ecclesia 
+          quaeli<lb ed="#Z" n="13" break="no"/>bet sibi sumpserit uel seruandum uel deponendum: Hoc magis inquiramus quid 
+          <lb ed="#Z" n="14"/>tradiderit nobis Christus, quidue docuerint apostoli. De quorum doctrina iam sa 
+          <lb ed="#Z" n="15"/>tis dictum arbitror.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1389">
+          <lb ed="#Z" n="16"/><pc type="indent"/> Priuata uel arcana confessio peccatorum fieri consueuit remotis arbitris solis  
+          <lb ed="#Z" n="17"/>sacerdotibus. Insusurrat enim aliquis clanculum peccata sua in aurem sacerdotis, 
+          <lb ed="#Z" n="18"/>confessionibus clancularijs deputati, absolutusqe ab hoc, conceptis uerbis, 
+          existi<lb ed="#Z" n="19" break="no"/>mat se purgatum esse ab omnibus peccatis. Ideoque Auricularem appellaui. Hanc  
+          <lb ed="#Z" n="20"/>ignorauerunt tempora apostolica, &amp; quanquam olim radices agere coeperit, 
+          libe<lb ed="#Z" n="21" break="no"/>ra tamen ab initio fuit. Praecepta demum &amp; rigide extorta legitur a Rom. Pont.  
+          <lb ed="#Z" n="22"/>in longe corruptissimo ecclesiae statu, nempe cum numeraretur annus domini 
+          <lb ed="#Z" n="23"/>millesimus ducentesimus decimusquintus, aut circiter. Disputatum est tamen per 
+          <lb ed="#Z" n="24"/>80. annos aut plures priusquam lege certa imponeretur omnibus, deo ne 
+          confi<lb ed="#Z" n="25" break="no"/>teri satis sit, an sacerdoti quoque confiteri oporteat ad repurganda peccata? Hugo 
+          <lb ed="#Z" n="26"/>in libro de Ecclesiastica potestate ligandi &amp; soluendi sic reliquit scriptum, 
+          Auda<lb ed="#Z" n="27" break="no"/>cter dico, si ante sacerdotis absolutionem ad communionem corporis &amp; sanguinis 
+          <lb ed="#Z" n="28"/>domini quis accesserit, pro certo sibi manducat &amp; bibit iudicium, etiamsi eum mul 
+          <lb ed="#Z" n="29"/>tum poeniteat &amp; uehementer doleat &amp; ingemiscat. Haec Hugo certe audacter di- 
+          <lb ed="#Z" n="30"/>xit, nisi falsum nos doceat uerbum dei. Floruit hic author circa annum domini 
+          <lb ed="#Z" n="31"/>1130. Secutus est hunc non ita longo interuallo <name xml:id="UD1xh4-bNdIjR-Nd1e1426">Petrus Lombardus</name>, uulgo Magi¬  
+          <lb ed="#Z" n="32"/>ster sententiarum appellatus, nimirum quod sententias patrum collegerit, &amp; 
+          do<lb ed="#Z" n="33" break="no"/>ctrinam patrum ueluti per compendium mundo proposuerit: de cuius opere quale 
+          <lb ed="#Z" n="34"/>sit nunc non pronuncio. Eloruisse putatur circa annum domini 1150. <ref xml:id="UD1xh4-bNdIjR-Rd1e1436">In 
+          Sententia<lb ed="#Z" n="35" break="no"/>rum lib. 4 distinct. 17. &amp; 18.</ref> ex patrum authoritate primum indicat sufficere 
+          con<lb ed="#Z" n="36" break="no"/>fessionem peccatorum soli deo factam. Deinde alias subijcit sententias contrarium 
+          <lb ed="#Z" n="37"/>docentes. Postremo sua etiam interposita sententia concludit, Ex his indubitanter 
+          <lb ed="#Z" n="38"/>ostenditur, oportere deo primum, &amp; deinde sacerdoti offerre confessionem, nec 
+          <lb ed="#Z" n="39"/>aliter posse perueniri ad ingressum paradysi, si adsit facultas. Item, Certificatum  
+          <lb ed="#Z" n="40"/>est, quod non sufficit confiteri deo sine sacerdote : nec est uere humilis &amp; 
+          poeni<lb ed="#Z" n="41" break="no"/>tens, si non desiderat &amp; requirit sacerdotis iudicium. <name xml:id="UD1xh4-bNdIjR-Nd1e1454">Petro Lombardo</name> fuit magis 
+          <lb ed="#Z" n="42"/>ingenuus <name xml:id="UD1xh4-bNdIjR-Nd1e1460" ref="#Gratian">Gratianus</name> Decretorum consarcinator, qui eodem cum <name xml:id="UD1xh4-bNdIjR-Nd1e1463" ref="#Lombard">Lombardo</name> cla 
+          <lb ed="#Z" n="43"/>ruit tempore. Nihil is certi definit, sed proposits in utranque partem sententijs, &amp;  
+          <lb ed="#Z" n="44"/>quod peccata oporteat confiteri sacerdoti, &amp; quod non oporteat, iudicium lectori 
+          <lb ed="#Z" n="45"/>liberum permittit. Sic enim concludit, <quote xml:id="UD1xh4-bNdIjR-Qd1e1472" source="http://scta.info/resource/gd-p2c33q3d1-d1e944">Quibus authoritatibus uel rationibus 
+          u<lb ed="#Z" n="46" break="no"/>traque sententia confessionis &amp; satisfactionis innitatur, in medium breuiter ex- 
+          <lb ed="#Z" n="47"/>posuimus. Cui autem horum potius adhaerendum sit, lectoris iudicio 
+          reserua<lb ed="#Z" n="48" break="no"/>tur. Vtraque enim fautores habet sapientes &amp; religiosos uiros.</quote> Haec <ref xml:id="UD1xh4-bNdIjR-Rd1e1482">
+            <name xml:id="UD1xh4-bNdIjR-Nd1e1484">Gratia¬ 
+          <!--413.xml-->
+          <pb ed="#Z" n="195-v"/>
+              <lb ed="#Z" n="1"/>nus</name> prope finem Distinct, prima de Poenitentia</ref>. 
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1495">
+          <lb ed="#Z" n="2"/><pc type="indent"/> Post quinquaginta annos secutus est Lotharius Leuita doctor Parisien 
+          dili<lb ed="#Z" n="3" break="no"/>gens <name xml:id="UD1xh4-bNdIjR-Nd1e1502" ref="#Lombard">Lombardi</name> sectator. Hic creatus Pontifex Romanus, &amp; Innocentius tertius 
+          <lb ed="#Z" n="4"/>uocatus, Romae concilium coegit generale, quod appellatur Lateranen. in quo le 
+          <lb ed="#Z" n="5"/>gem tulit, quam recitat <ref xml:id="UD1xh4-bNdIjR-Rd1e1510" target="http://scta.info/resource/cice-l5t38-d1e286" synch="5-70">Gregor. 12X. in Decretali sua de Poenitentijs &amp; 
+          Remissio<lb ed="#Z" n="6" break="no"/>nibus lib. 5. cap. 12.</ref> in baec prope uerba. <quote xml:id="UD1xh4-bNdIjR-Qd1e1515" source="http://scta.info/resource/nhyjhg-d1e214-d1e101" synch="1-66">Omnis utriusque sexus fidelis, postquam ad 
+          <lb ed="#Z" n="7"/>annos discretionis peruenerit, omnia sua, solus, peccata, saltem semel in anno fi- 
+          <lb ed="#Z" n="8"/>deliter confiteatur proprio sacerdoti: &amp; iniunctam sibi poenitentiam proprijs 
+          ui<lb ed="#Z" n="9" break="no"/>ribus studeat adimplere: suscipiens reuerenter ad minus in pascha eucharistiae sa 
+          <lb ed="#Z" n="10"/>cramentum. Nisi forte de proprij sacerdotis consilio, ob aliquam rationabilem 
+          caus<lb ed="#Z" n="11" break="no"/>sam ad tempus ab huiusmodi perceptione duxerit abstinendum. Alioqui &amp; 
+          ui<lb ed="#Z" n="12" break="no"/>uens ab ingressu ecclesiae arceatur, &amp; moriens Christiana careat sepultura.</quote> Haec 
+          <lb ed="#Z" n="13"/>illa est lex noua, quae plurima habet absurda &amp; impia. Et ut pleraque non 
+          comme<lb ed="#Z" n="14" break="no"/>morem, sed unum duntaxat &amp; alterum. An non impium est ad proprium nescio 
+          <lb ed="#Z" n="15"/>quem sacerdotem relegare peccatorem, cum dominus Christus ecclesiae suae mi- 
+          <lb ed="#Z" n="16"/>nistros tantum &amp; praecones dederit, ipse solus maneat sacerdos uniuersalis &amp; 
+          cu<lb ed="#Z" n="17" break="no"/>iusque proprius in ecclesia ad finem usque saeculi: ad quem unum fideles ministri a 
+          <lb ed="#Z" n="18"/>semetipsis omnes confitendum relegat peccatores : Ioannes enim dixit, Non sum 
+          <lb ed="#Z" n="19"/>ego Christus, sed missus ante illum, ut testimonium ei feram. Quid quod impijssi 
+          <lb ed="#Z" n="20"/>mum est confessioni nostrae &amp; absolutioni sacerdotis, ueluti operi humano, 
+          attri<lb ed="#Z" n="21" break="no"/>buere peccatorum remisionem? Et quis obsecro omnia sua peccata homini sacer 
+          <lb ed="#Z" n="22"/>doti confiteri possit? An non Ieremias clamat, Prauum est cor hominis &amp; 
+          inscru<lb ed="#Z" n="23" break="no"/>tabile? An non Dauid canit, Delicta quis intelligit: ab ocultis meis munda me. Im 
+          <lb ed="#Z" n="24"/>possibile est homini omnia sua confiteri peccata. Ergo dum huic, lege adactus, ani 
+          <lb ed="#Z" n="25"/>mum ratiocinationi applicat, non poterit non altissime in desperationis immergi 
+          <lb ed="#Z" n="26"/>barathrum. Et tantum onus, ueluti ad salutem consequendam necessarium, impo 
+          <lb ed="#Z" n="27"/>nitur liberis Christi fidelium collis : idque contra decretum apostolicum scriptum  
+          <lb ed="#Z" n="28"/>Actor. 15s. Quid autem proprijs suis uiribus perficiat peccator? Quae obsecro 
+          no<lb ed="#Z" n="29" break="no"/>bis ad bonum sunt uires?
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1569">
+          <lb ed="#Z" n="30"/><pc type="indent"/> Pudet autem &amp; piget me impudentiae istorum hominum, cum confessionem 
+          <lb ed="#Z" n="31"/>illam suam auricularem, ueluti a domino institutam, iam quoque ex scripturis or- 
+          <lb ed="#Z" n="32"/>nare &amp; confirmare uolentes, illud domini dictum Leproso proserunt, Vade 
+          osten<lb ed="#Z" n="33" break="no"/>de te sacerdoti. Non autem hunc locum solum torquent impudentissime contra 
+          <lb ed="#Z" n="34"/>natiuum sensum, sed omnia alia scripturae, quae citare solent, testimonia 
+          corrum<lb ed="#Z" n="35" break="no"/>punt. Vnum ex multis proferam, <ref xml:id="UD1xh4-bNdIjR-Rd1e1585" target="http://scta.info/resource/bb-d4e22215-d1e193" synch="4-40">
+            <name xml:id="UD1xh4-bNdIjR-Nd1e1587">Bonauentura</name> in Commentarijs suis ad 
+          senten<lb ed="#Z" n="36" break="no"/>tias magistri lib. 4. distinct. 17. quaest. 3.</ref> fingit duo esse in confessione : Vnum 
+          for<lb ed="#Z" n="37" break="no"/>male, nempe absolutionem, uel medicandi potestatem: &amp; hanc ait subministratis 
+          <lb ed="#Z" n="38"/>clauibus institutam esse a domino. Alterum uero materiale, nimirum detectionem 
+          <lb ed="#Z" n="39"/>peccati: &amp; hanc dicit dominum non instituisse per se sed tantum insinuasse. Mox 
+          <lb ed="#Z" n="40"/>enim haec subijcit uerba, Et ideo confessio fuit a domino insinuata, ab apostolis 
+          in<lb ed="#Z" n="41" break="no"/>stituta, ab episcopo Hierosolymitano Iacobo uidelicet promulgata. Sicut enim  
+          <lb ed="#Z" n="42"/>sententiam de non seruandis legalibus promulgauit, Actor. 15. sic &amp; confessionem 
+          <lb ed="#Z" n="43"/>omnibus peccantibus imposuit, dicens. Confitemini alterutrum peccata 
+          uestra<lb ed="#Z" n="44" break="no"/>Haec ille. Quis uero non miretur caecitatem illius saeculi? Agnoscit scriptor non 
+          <lb ed="#Z" n="45"/>institutam esse a domino confessionem auricularem, nisi implicite &amp; ueluti ex 
+          qua<lb ed="#Z" n="46" break="no"/>dam consequentia: apostolos autem explicasse mentem Christi &amp; instituisse illam¬  
+          <lb ed="#Z" n="47"/>porro S. Iacobum omnium apostolorum nomine, lata sententia, promulgasse. 
+          Pro<lb ed="#Z" n="48" break="no"/>mulgationis uerba subijcit haec, Confitemini alterutrum peccata uestra. Quid est 
+          <!--414.xml-->
+          <pb ed="#Z" n="196-r"/>
+          <lb ed="#Z" n="1"/>autem torquere scripturas si hoc non est : Cernit uel cecissimus, inermes esse istos 
+          <lb ed="#Z" n="2"/>pugiles in hac palestra, qui telum huiusmodi proserunt, non utique fraxineum, sed 
+          <lb ed="#Z" n="3"/>prorsus betaceum, quod interim ipsi ueluti Hectoream aut Ac hilleam hastam ui 
+          <lb ed="#Z" n="4"/>brant. Planissimum est, apostolum non loqui de confessione arca na auriculari, sed 
+          <lb ed="#Z" n="5"/>de ea quae reciprocatione quadam ab illis fit, qui se mutuum offenderunt, modo 
+          <lb ed="#Z" n="6"/>autem libere &amp; alternis peccata sua inuicem confitentes mutuum rursus 
+          recon<lb ed="#Z" n="7" break="no"/>ciliantur &amp; orant pro inuicem. De qua nonnihil dixi paulo superius. Non uident 
+          <lb ed="#Z" n="8"/>duo esse in uerbis apostoli, quae diligentius perpensa, ipsos plane ridiculos 
+          red<lb ed="#Z" n="9" break="no"/>dunt. Principio enim utitur apostolus dictione &amp;aais, quod significat mutuo, 
+          in<lb ed="#Z" n="10" break="no"/>uicem, uicissim, alterutrum &amp; quasi reciproce. Inde sic colligimus, Si iuxta 
+          prae<lb ed="#Z" n="11" break="no"/>ceptum apostoli inuicem confiteri oportet: &amp; einsis significat alterutrum, uel ui 
+          <lb ed="#Z" n="12"/>cissim, id est confiteatur peccata alius alij, uel per uices, ut reuera significat: 
+          ne<lb ed="#Z" n="13" break="no"/>cesse est ut postquam laici sacerdotibus confessi sunt, sacerdotes uicissim confi- 
+          <lb ed="#Z" n="14"/>teantur laicis. Id enim est alterutrum confiteri. Dicimus enim Qoop exansus, id 
+          <lb ed="#Z" n="15"/>est amant se inuicem, hoc est alter alterum, uel reciproce. Quod si hoc graue est 
+          <lb ed="#Z" n="16"/>presbyteris, agnoscant hunc locum apostoli nihil facere pro arcana &amp; auriculari 
+          <lb ed="#Z" n="17"/>illa confessione quam ipsi ad commodum suum finxerunt. Deinde subdit 
+          laco<lb ed="#Z" n="18" break="no"/>bus, Et orate pro uobis inuicem, ut salui sitis. Sociat ergo, &amp; ueluti sub unum 
+          iu<lb ed="#Z" n="19" break="no"/>gum connectit, confessionem &amp; orationem. Inde rursus ita colligimus, Si solis 
+          sa<lb ed="#Z" n="20" break="no"/>cerdotibus confitendum est, pro solis orandum est sacerdotibus. Sed non 
+          oran<lb ed="#Z" n="21" break="no"/>dum est pro solis sacerdotibus, ergo non confitendum solis sacerdotibus, sed 
+          alteru<lb ed="#Z" n="22" break="no"/>trum. Idem locus Iacobi non intelligi debet de confessione auriculari occulta, sed 
+          <lb ed="#Z" n="23"/>de publica illa, qua in concordiam per mutuam delicti confessionem redeunt illi, 
+          <lb ed="#Z" n="24"/>qui mutuis sese offenderant iniurijs : &amp; iam reconciliati orant pro se inuicem, ut 
+          <lb ed="#Z" n="25"/>saluentur, Relinquimus ergo indubitatum, auricularis confessionis defensores 
+          <lb ed="#Z" n="26"/>non probasse, neque probare posse, illam a deo esse institutam.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1680">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Ruentem uero quibusdam fulcris sustentare firmareque cupientes, subijciunt  
+          <lb ed="#Z" n="28"/>confessionem illam suam in ecclesia retinendam saltem propter disciplinam 
+          uel<lb ed="#Z" n="29" break="no"/>erubescentiam, ob quam plerique peccent minus. Deinde etiam propter priuatam  
+          <lb ed="#Z" n="30"/>absolutionem consolationemque euangelij peculiarem uel singularem. Si uero con  
+          <lb ed="#Z" n="31"/>fessio auricularis tam est utilis ecclesiae, quam isti uolunt uideri, qui factum est 
+          <lb ed="#Z" n="32"/>quod ea caruerit ecclesia annis a temporibus apostolorum amplius mille? Mirum  
+          <lb ed="#Z" n="33"/>est ipsam nullibi ab apostolis uel usurpatam uel praeceptam. At constat interim ue 
+          <lb ed="#Z" n="34"/>tera tempora Christi aduentum praecedentia, nihil de hac confessione uel 
+          som<lb ed="#Z" n="35" break="no"/>niasse: &amp; apostolos nulla re necessaria destituisse dei ecclesiam. lam qualem disci- 
+          <lb ed="#Z" n="36"/>plinam plantarit in ecclesia dei, probant impura flagitia &amp; actus nepharij. 
+          Didi<lb ed="#Z" n="37" break="no"/>cerunt cum confitens tum confessor horrenda ex circunstantiarum discussione 
+          <lb ed="#Z" n="38"/>scelera. Caussae uel occasiones suppeditatae sunt stupris &amp; adulterijs. Tentata est 
+          <lb ed="#Z" n="39"/>in Confessionibus, imo &amp; corrupta saepius quam prosit, aut referre conueniat, 
+          uir<lb ed="#Z" n="40" break="no"/>ginum matronarumque pudicitia. Omnia hominum secreta expiscati sunt 
+          confes<lb ed="#Z" n="41" break="no"/>sores illi. Id quod non parum profuit ad stabiliendam ipsorum tyrannidem. 
+          Pro<lb ed="#Z" n="42" break="no"/>fecto potuerunt confessores illi singulos, quos uocant confessionis filios, commo 
+          <lb ed="#Z" n="43"/>dius depraedari &amp; deglubere : quia non ignorauerunt quas quisque haberet, aut 
+          <lb ed="#Z" n="44"/>quomodo parasset facultates. Et cum primores reipub. scirent sacerdotes probe 
+          <lb ed="#Z" n="45"/>scelerum suorum esse conscios, non potuerunt non metuere sacerdotes. Ita fiebat 
+          <lb ed="#Z" n="46"/>ut minus strenue se opponerent sacerdotum extremae corruptioni &amp; libidini, alio¬  
+          <lb ed="#Z" n="47"/>qui minime in populo dei ferendae. Auditae sunt uoces. Ego ad unguem ex 
+          Con<lb ed="#Z" n="48" break="no"/>fessionibus quales in hac urbe sint uiri, mulieres, &amp; uirgines, didici &amp; teneo co¬ 
+          <!--415.xml-->
+          <pb ed="#Z" n="196-v"/>
+          <lb ed="#Z" n="1"/>gnitissimum. Ego quenque pro suo ingenio tractare noui. Omnes me metuunt 
+          <lb ed="#Z" n="2"/>&amp; reuerentur: quia intelligunt me ipsis perspexisse in animi ipsorum penitissima 
+          <lb ed="#Z" n="3"/>penetralia. Effutita sunt nonnunquam confessionis secreta cum periculo capitis 
+          <lb ed="#Z" n="4"/>confitentium. Proditiones concinnatae sunt ex confessionibus, nec paucae nec 
+          <lb ed="#Z" n="5"/>exiguae. Egregie uero profectum est, si unius hominis, confessoris inquam, pudo 
+          <lb ed="#Z" n="6"/>re, uerecundiaque carnali, non timore dei syncero desinimus peccare, cum deum  
+          <lb ed="#Z" n="7"/>non ueremur habere testem conscientiae nostrae, neque ad iudicium eius expaue 
+          <lb ed="#Z" n="8"/>scimus. Quid quod confessione hac auriculari stabilita in ecclesia, nihil efficitur 
+          <lb ed="#Z" n="9"/>aliud, quam ut praeceptum dei uilescat propter traditionem nostram, rariusque ipsi 
+          <lb ed="#Z" n="10"/>deo confiteamur. Quoties enim in memoriam ueniunt peccata, securi illa 
+          expe<lb ed="#Z" n="11" break="no"/>ctoramus, donec confitendi tempus adueniat. At cum aduenit, quis oro ad 
+          con<lb ed="#Z" n="12" break="no"/>fessionem alacri mente accedit: ludicent ergo prudentes auditores, qualis haec di 
+          <lb ed="#Z" n="13"/>sciplina sit, &amp; quam deo placere possit.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1765">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Quod de absolutione priuata affertur, commentum est humanum plane: quod 
+          <lb ed="#Z" n="15"/>nullum in sacris literis uel praeceptum uel exemplum habet, Reuera at peccatis a 
+          <lb ed="#Z" n="16"/>poena &amp; a culpa nemo absoluit, nisi solus deus, cuius solius est haec gloria. Mini¬  
+          <lb ed="#Z" n="17"/>ster euangelica prae dicatione uel consolatione annunciat &amp; testificatur credenti 
+          <lb ed="#Z" n="18"/>peccata esse remissa. Haec ergo condonationis praedicatio ex ore uel uerbo dei 
+          pe<lb ed="#Z" n="19" break="no"/>tita, absolutio est, qua minister absoluit. Nec redditur baec efficacior, si eam 
+          priua<lb ed="#Z" n="20" break="no"/>tim insusurret minister peccatori in aurem. Publica euangelij praedicatio, ab ipso 
+          <lb ed="#Z" n="21"/>Christo domino sic instituta, satisfacit animo fideli, qui non tam respicit ad ministri 
+          <lb ed="#Z" n="22"/>gestum, quam ad ueritatem eius cuius nomine minister agit. Verum, Si peccator, 
+          in<lb ed="#Z" n="23" break="no"/>quiunt, priuatm ad se dici audiat, Ego te absoluo a peccatis tuis, idque clauium uirtu 
+          <lb ed="#Z" n="24"/>te, rectius intelligit sibi remissa esse peccata, quam cum in genere praedicatur 
+          re<lb ed="#Z" n="25" break="no"/>missio. Nos uero apestolorum exemplum opponimus, quos cum audissent 
+          Hiero<lb ed="#Z" n="26" break="no"/>solymitani, copuncti corde, dixerunt, Quid faciemus uiri fratres ? Respondit 
+          Pe<lb ed="#Z" n="27" break="no"/>trus, Resipiscite, &amp; baptisetur unusquisque uestrum sub nomine Iesu Christi in 
+          re<lb ed="#Z" n="28" break="no"/>misionem peccatorum, &amp;c. Et accesserunt illo die animae circiter ter mille. At quis  
+          <lb ed="#Z" n="29"/>non intelligit tantae multitudini simul &amp; baptismum esse collatum &amp; uniuersaliter 
+          <lb ed="#Z" n="30"/>praedicatam remisionem peccatorum, non autem singulis in aurem insusurratum,  
+          <lb ed="#Z" n="31"/>Remittuntur tibi frater peccata tua? Ac reuera potest uir religiosus ueram in Chri- 
+          <lb ed="#Z" n="32"/>stum fidem, per quam remissio peccatorum confertur, non minus solide discere ex 
+          <lb ed="#Z" n="33"/>publica praedicatione euangelij, quam ex huiusmodi susurris. Praesertim cum prae 
+          <lb ed="#Z" n="34"/>dicatio publica praeceptum dei habeat: susurri contra non item: denique cum euange 
+          <lb ed="#Z" n="35"/>lium dei uel publice praedicatum gratiam singulis applicet, sed &amp; sacramenta 
+          testifi<lb ed="#Z" n="36" break="no"/>centur remisionem peccatorum, &amp; dona coelestia esse singulorum credentium in 
+          <lb ed="#Z" n="37"/>Christum. Haec non dico, quod iniquum putem, si ita casus ferat, priuatim uni aut  
+          <lb ed="#Z" n="38"/>alteri praedicare euangelium, aut uerbis Christi promittere remisionem 
+          pecca<lb ed="#Z" n="39" break="no"/>torum credenti: sed contra illos disputo, qui arbitrantur publicam &amp; generalem  
+          <lb ed="#Z" n="40"/>(ita ut &amp; ab apostolis usurpata est ) praedicationem, omnibus singulisque 
+          annun<lb ed="#Z" n="41" break="no"/>ciantem fidelibus peccatorum remisionem, minime sufficere, nisi peccator 
+          acce<lb ed="#Z" n="42" break="no"/>dens ad sacerdotem, peccata sua confiteatur, &amp; ab eodem priuatim &amp; petat &amp; ac 
+          <lb ed="#Z" n="43"/>cipiat singularem absolutionem. Nam propter illam priuatam absolutionem, cen 
+          <lb ed="#Z" n="44"/>sent retinendam confessionem priuatam uel auricularem.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1836">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Sed nolumus, aiunt, ut omnia uel singula recitentur peccata cum suis circum 
+          <lb ed="#Z" n="46"/>stantijs. Quid tum postea. Quis obsecro iussit uel aliqua in aurem sacerdotis pec 
+          <lb ed="#Z" n="47"/>cata insusurrare: Primitiua ecclesia, nec pauca, nec plura delicta confiteri solebat 
+          <lb ed="#Z" n="48"/>sacerdotibus. <name xml:id="UD1xh4-bNdIjR-Nd1e1847">Bonauentura</name> testatur ante <name xml:id="UD1xh4-bNdIjR-Nd1e1851">Innocentium</name> eius nominis tertium,  
+          <!--416.xml-->
+          <pb ed="#Z" n="197-r"/>
+          <lb ed="#Z" n="1"/>non habitos pro haereticis, qui affirmarunt confessionem soli deo, sacerdotibus 
+          <lb ed="#Z" n="2"/>praeteritis, factam, sufficere fidelibus : caeterum post decretum ab illo aeditum de 
+          <lb ed="#Z" n="3"/>confessione, etiam proprio sacerdoti facienda, haereticos iudicari, docentes soli deo 
+          <lb ed="#Z" n="4"/>confiteri. Quasi uero Innocentius potuerit nouum condere fidei dogma, quo 
+          ca<lb ed="#Z" n="5" break="no"/>ruit ecclesia annis a Christo 1200. &amp; amplius. Si itaque isti qui ante Innocentium 
+          ui<lb ed="#Z" n="6" break="no"/>xerunt omnes subterfugerunt haereseos iudicium: si Nectarius cum 
+          Constanti<lb ed="#Z" n="7" break="no"/>nopolitana ecclesia non damnatus legitur, propter exhomologesim abrogatam 
+          eie<lb ed="#Z" n="8" break="no"/>ctamque ex ecclesia, quae tamen auriculari confessione uidetur fuisse praestantior 
+          <lb ed="#Z" n="9"/>multo: nemo pius haud dubie condemnabit nos, qui fatemur diuinitus institutam  
+          <lb ed="#Z" n="10"/>confessionem, quae fieri solet deo &amp; proximo: duntaxat autem explodimus 
+          arca<lb ed="#Z" n="11" break="no"/>nam illam auricularemque confessionem, utpote plus incommodorum ecclesiae dei 
+          <lb ed="#Z" n="12"/>afferentem quam honestae commoditatis.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1885">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Et quia hactenus de Confessione auriculari arcana haec diximus, cui tractatio  
+          <lb ed="#Z" n="14"/>de Satisfactione adhaeret, dicerem nonnihil &amp; de hac uel ex necessitate, nisi de 
+          ea<lb ed="#Z" n="15" break="no"/>quantum satis est, disseruissem in alijs Sermonibus huius operis, uelut Decad. 
+          <lb ed="#Z" n="16"/>Ser. 6. &amp; 9. item in Decad. 3. ubi disputo de afflictionibus sanctorum, item eiusdem 
+          <lb ed="#Z" n="17"/>Decad, Ser. 10. &amp; Decad. 4. ubi tracto euangelium. Docent Sacerdotes &amp; 
+          Mona<lb ed="#Z" n="18" break="no"/>chi, non satis esse ad expiationem peccati poenitentiam &amp; fidem in Christum, nisi 
+          ac<lb ed="#Z" n="19" break="no"/>cedat &amp; satisfactio nostrorum operum: quae comemorant, saccum, ieiunia, 
+          lachry<lb ed="#Z" n="20" break="no"/>mas, preces, eleemosynas, oblationes, corporis afflictiones uarias, passagia, &amp; hi 
+          <lb ed="#Z" n="21"/>similia permulta. Nam his poenam peccatis (quorum culpam duntaxat condonatam  
+          <lb ed="#Z" n="22"/>aiunt) debitam, ceu nimbo effuso deleri affirmant. At nos docuimus ex scripturis 
+          ca<lb ed="#Z" n="23" break="no"/>nonicis, deum non tantum culpam peccatorum, sed &amp; poenam condonare gratis. 
+          Do<lb ed="#Z" n="24" break="no"/>cuimus homines non per opera &amp; merita sua iustificari, sed mera dei gratia per fidem 
+          <lb ed="#Z" n="25"/>Iesu Christi. Alioqui enim frustra carnem induisset, &amp; in mortem crucis acerbissimam 
+          <lb ed="#Z" n="26"/>sese tradidisset Christus. lam addimus, Si non per opera iustificamur: ergo nec ope 
+          <lb ed="#Z" n="27"/>ribus nostris satisfacimus pro peccatis. Nam quod summam attinet (discrimem 
+          in<lb ed="#Z" n="28" break="no"/>terim aliquod agnosco, non utranque confundo) in idem recidunt iustificatio &amp; 
+          sa<lb ed="#Z" n="29" break="no"/>tisfactio. lustificatione Christi absoluimur. Satisfactione Christi absoluimur, uel 
+          <lb ed="#Z" n="30"/>potius propter ipsam absoluimur. Christus est iustitia nostra : ergo &amp; satisfactio. 
+          <lb ed="#Z" n="31"/>In Christo est redemptionis pretium, non in nobis. Si pro nobisipsis satisfacimus,  
+          <lb ed="#Z" n="32"/>pretium redemptionis est in nobisipsis. Sumus ergo ipsi nobisipsis Christi &amp; 
+          salua<lb ed="#Z" n="33" break="no"/>tores. Id quod Christum abolet, &amp; iccirco extreme blasphemum est. Moses in sua 
+          <lb ed="#Z" n="34"/>lege nullo negotio omnia de satisfactione operum nostrorum argumenta dissoluit. 
+          <lb ed="#Z" n="35"/>Describens enim formam expiandi peccata, nihil in hominum operibus 
+          consti<lb ed="#Z" n="36" break="no"/>tuit, sed totum in sacrificijs. Atqui his unicum Christi sacrificium praefiguratum  
+          <lb ed="#Z" n="37"/>esse, concordes fatemur omnes. Huic accedit quod unicam noui testamenti praedi 
+          <lb ed="#Z" n="38"/>catio &amp; promissio illa est, Placatus ero super iniustitijs eorum &amp; peccatis, ac 
+          ini<lb ed="#Z" n="39" break="no"/>quitatum eorum non recordabor amplius. Vbi autem talis est remissio, ibi nulla  
+          <lb ed="#Z" n="40"/>est oblatio uel satisfactio pro peccato. His adde quod credimus remissionem 
+          pec<lb ed="#Z" n="41" break="no"/>catorum. Si uero debitor creditori satisfacit, quid hic oro remittit? Articulus ergo 
+          <lb ed="#Z" n="42"/>hic fidei &amp; primaria promissio &amp; praedicatio testamenti noui subruitur doctrina 
+          <lb ed="#Z" n="43"/>de Satisfactionibus nostrorum pro peccatis operum.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e1956">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Agnoscimus lachrymas, ieiunia, saccum, eleemosynas, &amp; alia pietatis, 
+          humilia<lb ed="#Z" n="45" break="no"/>tionis, charitatisque opera suum locum habere in poenitentia. De qua re dicetur suo lo 
+          <lb ed="#Z" n="46"/>co: sed his satisfieri pro peccatis negamus modis omnibus, ne pretium redemptio¬  
+          <lb ed="#Z" n="47"/>nis Christi euacuemus. Agnoscimus alicubi dmim de ijs sumpsisse supplicium uel poe 
+          <lb ed="#Z" n="48"/>nam quibus peccatum condonarat, ut de Adamo &amp; Eua parentibus nostris, ac de 
+          <!--417.xml-->
+          <pb ed="#Z" n="197-v"/>
+          <lb ed="#Z" n="1"/>Dauide rege adultero &amp; parricida. Sed demostrauimus afffictiones illas non fuisse 
+          <lb ed="#Z" n="2"/>satisfactiones pro peccatis, quae condonarat deus, sed exercitia disciplinae &amp; 
+          humi<lb ed="#Z" n="3" break="no"/>liationis dei, retinentis sic suos in officio, declarantisque omnibus quam odiat scele 
+          <lb ed="#Z" n="4"/>ra, licet ipsa condonet gratis. Ergo ne propter gratuitam remisionem ad 
+          peccan<lb ed="#Z" n="5" break="no"/>dum faciles simus, supplicia irrogat eis quos nobis statuit exempla. Neque legimus 
+          <lb ed="#Z" n="6"/>sanctos afflictionibus suis simpliciter tribuisse iustificationis aut satisfactionis be 
+          <lb ed="#Z" n="7"/>neficium. Consilium quidem dat propheta Daniel potentissimo regi 
+          Nabuchodono<lb ed="#Z" n="8" break="no"/>sori, &amp; ait, Peccata tua in iustitia redimantur, &amp; iniquitates tuae in misericordia 
+          <lb ed="#Z" n="9"/>pauperum. Sed ita futurae regis uitae, &amp; administrationi regni, praeceptum datur. 
+          <lb ed="#Z" n="10"/>Oppresserat hactenus multas gentes rex, &amp; peccarat immisericordia: suadet ergo 
+          <lb ed="#Z" n="11"/>ut uitae genus pristinum mutet, &amp; iustitiam colat, beneficentiamque praestet omnibus, 
+          <lb ed="#Z" n="12"/>Proinde non loquitur de satisfactione pro peccatis apud deum, sed apud homines. 
+          <lb ed="#Z" n="13"/>Non enim est in alio quoquam salus quam in Christo. Quod si quis pertinaciter 
+          in<lb ed="#Z" n="14" break="no"/>haereat literae, dicimus lustitiam Christianorum esse fidem, qua proprie expiantur 
+          <lb ed="#Z" n="15"/>peccata: fidem autem non esse sine beneficentia uel charitate, cui improprie tribui 
+          <lb ed="#Z" n="16"/>tur iustificatio. De qua re dixi cum disputarem de Bonis operibus.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2009">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Ergo cum S. Petrus ex Solomone pronunciat, Charitas opperit multitudinem 
+          <lb ed="#Z" n="18"/>peccatorum, opperiendi uerbum, non pro expiandi usurpatur: solo enim Christi san 
+          <lb ed="#Z" n="19"/>guine expiantur &amp; purgantur peccata, sed pro auertendi. Vt enim sui amor omnium 
+          <lb ed="#Z" n="20"/>fere scelerum origo est: ita charitas omnium pene scelerum propulsatrix creditur. 
+          Di<lb ed="#Z" n="21" break="no"/>lectio enim proximo malum non operatur. lam quod sententiam euangelicam, 
+          ipsa<lb ed="#Z" n="22" break="no"/>inquam, saluatoris uerba obiiciunt, Remittantur peccata eius multa, quoniam di 
+          <lb ed="#Z" n="23"/>lexit multum: non intelligunt aa quod fere redditur per quia, uel quoniam, hic 
+          illa<lb ed="#Z" n="24" break="no"/>tionis esse notam, nec alium colligi sensum, quam hunc ipsum, Remittantur 
+          pecca<lb ed="#Z" n="25" break="no"/>taeius multa, iccirco dilexit multum: uel unde factum est quod diligat multum. Nec 
+          <lb ed="#Z" n="26"/>torquemus hic uerba euangelica ad sententiam repugnantem. Praecedit enim in hi- 
+          <lb ed="#Z" n="27"/>storia euangelica, Principio, Cum non essent soluendo, donauit utrisque. Si 
+          dona<lb ed="#Z" n="28" break="no"/>uit, Si non erant soluendo: ergo non remisit propter dilectionem. Alioqui soluis 
+          <lb ed="#Z" n="29"/>sent nec donasset quicquam. Deinde praecedit, Vter horum plusldiliget? Ait Si 
+          <lb ed="#Z" n="30"/>mon, Is cui plus condonauit, Respondere ergo dominus aliud nihil potuit, quam  
+          <lb ed="#Z" n="31"/>hoc, Plurimum huic mulieri condonaui, ideo dilexit plurimum. Sic, inquam, dile 
+          <lb ed="#Z" n="32"/>ctio est ex remisione, &amp; remissio nequaquam ex dilectione. Imo sequitur 
+          proti<lb ed="#Z" n="33" break="no"/>nus, Dixit autem ad mulierem, Fides tua saluam te fecit, uade cum pace. 
+          Conclu<lb ed="#Z" n="34" break="no"/>dimus ergo, unicam modo esse satisfactionem pro peccatis totius mundi, Christum  
+          <lb ed="#Z" n="35"/>utique oblatum pro nobis, qui fide eius efficimur participes.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2054">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Quemadmodum uero Satisfactiones sacerdotum &amp; monachorum doctrina 
+          <lb ed="#Z" n="37"/>nobis obtrusas non agnoscimus, ita Indulgentias pontificias modis omnibus 
+          de<lb ed="#Z" n="38" break="no"/>testamur. Appellarunt isti lndulgentias beneficam criminum condonationem &amp;  
+          <lb ed="#Z" n="39"/>remissionem uel culpae, uel poenae, uel utriusque: nimirum ex potestate clauium co 
+          <lb ed="#Z" n="40"/>lata a domino: &amp; propter meritum sanguinis martyrum (ita enim loquuntur) 
+          con<lb ed="#Z" n="41" break="no"/>cedenda rite contritis &amp; confessis. Solent enim indulgentes patres rigorem &amp; seue 
+          <lb ed="#Z" n="42"/>ritatem satisfactionis suo imr asitam arbitrio, suis illis indulgentijs rursus remittere. 
+          <lb ed="#Z" n="43"/>Reuera sicut ille dixit, Blanda patrum segnes reddit indulgentia natos: ita indulgen 
+          <lb ed="#Z" n="44"/>tiae ueram poenitentiam corruperunt. Nullibi uero legas pontificibus talem 
+          cla<lb ed="#Z" n="45" break="no"/>uium potestatem esse collatam, qualem isti fingunt. Legimus quidem apostolis 
+          <lb ed="#Z" n="46"/>claues datas esse a domino: sed hae aliud nihil sunt quam ministerium praedicandi 
+          <lb ed="#Z" n="47"/>euangelij. Quod suo loco demonstrabimus. Euangelium autem promittit nobis re 
+          <lb ed="#Z" n="48"/>misionem poenae &amp; culpae propter Christum fidemque in ipsum. Hoc ipsum ad¬ 
+          <!--418.xml-->
+          <pb ed="#Z" n="198-r"/>
+          <lb ed="#Z" n="1"/>monet, uenturos in fine saeculi homines qui dicturi sint, Nos sumus Christi, id est, 
+          <lb ed="#Z" n="2"/>qui ea sibijpsis tribuant quae solius sunt Christi, qualis praecipue est peccatorum 
+          re<lb ed="#Z" n="3" break="no"/>missio. At ab his fugere, eosque ueluti seductores modis omnibus cauere praecipit. 
+          <lb ed="#Z" n="4"/>Eadem ueritas euangelica docet fideles solo sanguine filij dei mundari. Indulgen 
+          <lb ed="#Z" n="5"/>tiae illorum promittunt hominibus emundationem per sanguinem S. Petri &amp; Pauli 
+          <lb ed="#Z" n="6"/>beatorumque martyrum. Sunt ergo prophanatio sanguinis filij dei. Sancti lauant sto 
+          <lb ed="#Z" n="7"/>las suas in sanguine agni, non in bulla uel arca indulgentiaria, non in sanguine mar 
+          <lb ed="#Z" n="8"/>tyrum. Imo negat ipse Paulus. nec se, nec Petrum, nec ullum alium sanctorum pro ec 
+          <lb ed="#Z" n="9"/>clesia dei crucifixum. Indulgentiae uero ita proponuntur nobis, ut uideatur deus no 
+          <lb ed="#Z" n="10"/>bis propter sanguinem martyrum placatus esse. Pugnant ergo indulgentiae cum scri 
+          <lb ed="#Z" n="11"/>ptura apostolica. Monui aunt in Sermone de Bonis operibus in his Pauli uerbis,  
+          <lb ed="#Z" n="12"/>Suppleo in corpore meo, ea quae supersunt passionibus Christi, pro corpore eius,  
+          <lb ed="#Z" n="13"/>quod est ecclesia, supplementum illud non referri ad opus expiationis Christi, quod 
+          <lb ed="#Z" n="14"/>consummatum est, nisi falsum testificatus sit ultimum exhalans spiritum, dicens, Con 
+          <lb ed="#Z" n="15"/>summatum est, sed ad eas afflictiones quibus Christi membra, id est fideles, 
+          exer<lb ed="#Z" n="16" break="no"/>centur cruce, quoad uiuunt, in hac carne. Certe dominus afflictiones illatas 
+          fide<lb ed="#Z" n="17" break="no"/>libus habet pro suis. Dixit enim Paulo, Saule Saule, quid me persequeris ? 
+          Praete<lb ed="#Z" n="18" break="no"/>rea cum dicit, Pro ecclesia, non intelligit pro expiatione ecclesiae, sed pro aedificatio 
+          <lb ed="#Z" n="19"/>ne atque profectu. Et graues a ludaeis persecutiones sustinuit Paulus quod Gentibus 
+          <lb ed="#Z" n="20"/>praedicaret euangelium. Sed &amp; exemplum rarissimae patientiae in ipso ecclesiae exhi 
+          <lb ed="#Z" n="21"/>beri oportuit. Quid quod iam dudum ab alijs obiecta est indulgentiarum asserto 
+          <lb ed="#Z" n="22"/>ribus pia haec beati Leonis Papae sententia ex epist. Si. Quamuis multorum 
+          sancto<lb ed="#Z" n="23" break="no"/>rum in conspectu domini mors pretiosa fuerit, nullius tamen sontis occisio propi 
+          <lb ed="#Z" n="24"/>tiatio fuit mundi. Item, Accepere iusti, non dederunt coronas: &amp; de fortitudine fi- 
+          <lb ed="#Z" n="25"/>delium nata sunt exempla patientiae, non dona iustitiae. Singulares quippe eorum 
+          <lb ed="#Z" n="26"/>mortes fuere: nec alterius quispiam debitum suo sine persoluit, cum unus 
+          extite<lb ed="#Z" n="27" break="no"/>rit dominus Christus, in quo omnes crucifixi, omnes mortui, sepulti, suscitati. 
+          <lb ed="#Z" n="28"/>Haec ille. Diuino ergo &amp; humano testimonio euicimus euidentissime, 
+          indulgen<lb ed="#Z" n="29" break="no"/>tias collatas peccatoribus ex merito uel thesauro sanguinis martyrum, meras esse 
+          <lb ed="#Z" n="30"/>in deum blasphemias &amp; apertas in beatos martyres iniurias.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2156">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Dixi hactenus de Indulgentijs gratis quondam collatis a pontificibus, quam¬  
+          <lb ed="#Z" n="32"/>uis hae sint hodie rarae &amp; praetenues: dicam modo paucula de lndulgentijs quas lon s 
+          <lb ed="#Z" n="33"/>ge maiore parte diuendunt. Vendere indulgentias nepharium est in ecclesia dei 
+          fa<lb ed="#Z" n="34" break="no"/>cinus, quo non multa inuenias atrociora. Atqui hoc uulgare est, &amp; fuit iam annis  
+          <lb ed="#Z" n="35"/>multis Romanis Pontificibus &amp; ipsorum nuncijs, quos appellarunt apostolicos. 
+          <lb ed="#Z" n="36"/>Nec habent ex scripturis sanctis uerbum quod praetexant facinori 
+          nephandissi<lb ed="#Z" n="37" break="no"/>mo. Et ut iam non commemorem quod Indulgentiae nihil sunt nisi nomen sine re, 
+          <lb ed="#Z" n="38"/>quodque eo nomine foede imponitur miseris mortalibus : certe Christus summus 
+          <lb ed="#Z" n="39"/>&amp; unicus ecclesiae suae catholicae sanctaeque pontifex, in diebus carnis sues, uendentes 
+          <lb ed="#Z" n="40"/>&amp; ementes flagello, ceu impudentes e templo dei canes, exturbauit. Idque fecit bis. 
+          <lb ed="#Z" n="41"/>Semel in principio concionis uel praedicationis suae: iterum autem sub finem 
+          fere<lb ed="#Z" n="42" break="no"/>Principio haec addidit uerba, Auferte ista hinc. nec facite domum patris mei, do¬  
+          <lb ed="#Z" n="43"/>mum mercatus. Posterius adiecit haec, Scriptum est, Domus mea domus orationis 
+          <lb ed="#Z" n="44"/>uocabitur: at uos fecistis illam speluncam latronum. Iam uero Simon magus in Actis 
+          <lb ed="#Z" n="45"/>apost, uidens quod per impositonem manuum apostolorum daretur spiritus san 
+          <lb ed="#Z" n="46"/>ctus, obtulit eis pecunias, dicens, Date &amp; mihi potestatem istam, ut cuicunque impo 
+          <lb ed="#Z" n="47"/>suero manus, accipiat spiritum sanctum. Audi uero quomodo hanc petitionem ab  
+          <lb ed="#Z" n="48"/>ipso exceperit Petrus, Pecunia tua, inquit, tecum sit in perditionem : quoniam  
+          <!--419.xml-->
+          <pb ed="#Z" n="198-v"/>
+          <lb ed="#Z" n="1"/>donum dei existimasti pecunijs parari. Non est tibi pars neque sors in ratione hac. 
+          <lb ed="#Z" n="2"/>Cor enim tuum non est rectum coram deo. En dona dei non parantur pecunijs,  
+          <lb ed="#Z" n="3"/>En cor eorum non est rectum, qui negotiationem exercent in rebus religionis. En 
+          <lb ed="#Z" n="4"/>non habent sortem ullam in regni coelorum haereditate, uel in euangelica ratione. 
+          <lb ed="#Z" n="5"/>Quid ergo iam dicemus de lndulgentijs, quas redemptum uenales exponunt 
+          nun<lb ed="#Z" n="6" break="no"/>cij apostolici? Quid dicemus de ipsis nuncijs, &amp; nuncios mittente Papa? Socios 
+          <lb ed="#Z" n="7"/>uidelicet esse Simonis, non Petri, sed magi. Petrus enim, ex iusta dei sententia, 
+          ta<lb ed="#Z" n="8" break="no"/>libus maledixit. Pecunia, inquit, uestra uobiscum sit in perditionem. Grauissimum 
+          <lb ed="#Z" n="9"/>&amp; horrendum, sed iustissimum est hoc dei iudicium. Idem apostolus Petrus 
+          prae<lb ed="#Z" n="10" break="no"/>uidens tales in ecclesia aliquando futuros mercatores, in epist. su. posteriore, 
+          Fue<lb ed="#Z" n="11" break="no"/>runt, inquit, &amp; pseudoprophetae in populo, quemadmodum &amp; inter uos erunt 
+          <lb ed="#Z" n="12"/>falsi doctores, qui clam inducent sectas perniciosas, etiam dominum qui illos mer 
+          <lb ed="#Z" n="13"/>catus est, abnegantes, accersentes sibi celerem interitum, &amp; plerique sequentur 
+          il<lb ed="#Z" n="14" break="no"/>lorum exitia, per quos uia ueritatis blasphemabitur: &amp; per auaritiam factitijs 
+          ser<lb ed="#Z" n="15" break="no"/>monibus de uobis negotiabuntur. Quid enim est factitijs sermonibus per 
+          auari<lb ed="#Z" n="16" break="no"/>tiam negotiari, lucrumque facere ex misera plebecula, si hoc non est, quod aiunt isti 
+          <lb ed="#Z" n="17"/>se plenariam peccatorum remisionem conferre confessis &amp; contritis? Si enim quis 
+          <lb ed="#Z" n="18"/>agnoscat peccata sua &amp; uera fide conuertatur ad deum per Christum, etiam sine 
+          <lb ed="#Z" n="19"/>istorum indulgentijs consequitur plenariam peccatorum condonationem. Fucum  
+          <lb ed="#Z" n="20"/>ergo faciunt simplicibus uersutissimi, &amp; pro pecunia diuendunt quod nunquam 
+          <lb ed="#Z" n="21"/>habuerunt neque ulla pecunia unquam comparari potest. Et haec de Indulgentijs 
+          <lb ed="#Z" n="22"/>illis hucusque. De quibus alij disputarunt copiosius. Ego ex paucis illis arbitror 
+          <lb ed="#Z" n="23"/>quemuis nullo negotio intellecturum quid de eis iudicet.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2253">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Enauigauimus tandem ex cautibus illis scopulisque, quos eam ob caussam 
+          ac<lb ed="#Z" n="25" break="no"/>cessimus, ut omnia periustrantes loca periculosiora, admoneremus imperitiores 
+          <lb ed="#Z" n="26"/>ne impingant alicubi, faciantque naufragium, existimantes in illis esse neruos 
+          poe<lb ed="#Z" n="27" break="no"/>nitentiae ueros, in quibus plurimum est diuinae offensionis, Relictis ergo illis, 
+          re<lb ed="#Z" n="28" break="no"/>dimus ad illustrandum postremum poenitenties membrum, quo comemorauimus 
+          <lb ed="#Z" n="29"/>poenit: ntes ueterem hominem mortificare, spiritualiter autem innouari. Ante om- 
+          <lb ed="#Z" n="30"/>nia e go dicendum esse uidetur, quis sit uetus homo, quis homo nouus uel regeni 
+          <lb ed="#Z" n="31"/>tus, quae sint hominis uires. Deinceps enim rectius intelligemus quid sit 
+          mortifi<lb ed="#Z" n="32" break="no"/>ca e ueterem hominem, quid renouari spiritu. Veterem hominem totum hoc 
+          <lb ed="#Z" n="33"/>esse dicimus, quod habemus ex natura, uel ab ipso primo parente nostro, non 
+          cor<lb ed="#Z" n="34" break="no"/>pus duntaxat intel igentes, uel carnem corporis crassiorem partem, sed ipsam ani¬  
+          <lb ed="#Z" n="35"/>mam, cum suis uiribus potentijs uel facultatibus. Ergo dum alicubi in sacris 
+          lite<lb ed="#Z" n="36" break="no"/>ris Caro ponitur pro homine, non intelligere licet tantum corporis partem 
+          cras<lb ed="#Z" n="37" break="no"/>siorem, sed iunctam simul cum anima, eiusque facultatibus, hoc est totum nondum 
+          <lb ed="#Z" n="38"/>regeneratum hominem Dominus enim in euangelio, Qued natum est, inquit, ex 
+          <lb ed="#Z" n="39"/>carne caro est: &amp; quod nascitur ex spiritu spiritus est. Atque haec quidem profert de 
+          <lb ed="#Z" n="40"/>hominis renascentia, quae non fit secundum carnem (uti falso imaginabatur Nico 
+          <lb ed="#Z" n="41"/>demus) sed secundum spiritum. Caro ergo comprehendit naturales animae uires 
+          <lb ed="#Z" n="42"/>siue potentias, adeoque totum illud quod ab Adamo parente omnium nostrum ha 
+          <lb ed="#Z" n="43"/>bemus. Nouus homo dicitur regeneratus per spiritum dei in Christo, uel reforma 
+          <lb ed="#Z" n="44"/>tus ad imaginem Christi, cum omnibus spiritus diuini donis &amp; uirtutibus. Alicubi 
+          <lb ed="#Z" n="45"/>&amp; fere in antithesi significatur idem per uocabulum Spiritus. Atque hic locus 
+          re<lb ed="#Z" n="46" break="no"/>quirit dissertationem de Viribus hominis. De quibus etiamsi disputarim nonihil 
+          <lb ed="#Z" n="47"/>in Sermone de Libertate &amp; Seruitute, item de Peccato, proferam tamen hic quae 
+          <lb ed="#Z" n="48"/>praesenti caussae putauero sufficere.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2311">
+          <!--420.xml-->
+          <pb ed="#Z" n="199-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Sunt duae animae nostrae partes, uel facultates. Intellectus &amp; Voluntas. Intel 
+          <lb ed="#Z" n="2"/>lectus discernit inter obiecta, quid recipiendum, quidue repellendum sit: &amp; est qua 
+          <lb ed="#Z" n="3"/>si animae lumen &amp; dux. Voluntas eligit. Habet enim uelle &amp; nolle: quae rursus ab  
+          <lb ed="#Z" n="4"/>alijs impelluntur facultatibus uel uiribus. Porro intellectus duplex est. Vel enim 
+          <lb ed="#Z" n="5"/>intelligimus terrena, uel coelestia. Terrena uoco quae non ad futuram, sed praesen 
+          <lb ed="#Z" n="6"/>tem uitam pertinent: quo referimus artes liberales &amp; mechanicas, politiam &amp; oeco 
+          <lb ed="#Z" n="7"/>nomiam. Per res coelestes intelligo ipsum deum, felicitatem &amp; uitam eternam, dei 
+          <lb ed="#Z" n="8"/>cognitionem &amp; omnis generis uirtutes, fidem, spem, dilectionem, iustitiam, 
+          san<lb ed="#Z" n="9" break="no"/>ctimoniam, innocentiam. lam uideamus quid possit intellectus hominis, Rerum  
+          <lb ed="#Z" n="10"/>terrenarum iudicium uel intelligentia non omnino nulla est in homine, sed ea 
+          <lb ed="#Z" n="11"/>tamen ualde imbecillis ac infirmata. Quae ergo est in homine, a deo est: quod imbe 
+          <lb ed="#Z" n="12"/>cillis est, ex hominum uitio &amp; corruptione est. Auget autem dona sua hominibus 
+          <lb ed="#Z" n="13"/>beneficus dominus, quo fit ut admiranda efficiat hominis ingenium. Ob quam  
+          <lb ed="#Z" n="14"/>rem legimus in sacris literis &amp; artes &amp; ingenia hominum subijci deo. In rebus au 
+          <lb ed="#Z" n="15"/>tem coelestibus cognoscendis prorsus caligat per se humanum ingenium, 
+          acutis<lb ed="#Z" n="16" break="no"/>simum quidem a deo conditum ab initio, sed parentis nostri culpa prorsus 
+          uitia<lb ed="#Z" n="17" break="no"/>tum. Ideo enim dixit in euangelio Christus, Nemo uenit ad me, nisi pater meus tra 
+          <lb ed="#Z" n="18"/>xerit eum. Est scriptum in prophetis, Erunt omnes docti a deo. Et Paulus, Anima 
+          <lb ed="#Z" n="19"/>lis homo, ait, non accipit ea quae sunt spiritus dei: stultitia siquidem illi sunt, nec po 
+          <lb ed="#Z" n="20"/>test cognoscere quod spiritualiter dijudicantur. Animalis, id est uetus ille homo 
+          <lb ed="#Z" n="21"/>nondum spiritu dei regenitus, non est truncus carens omni sensu. Nam si omni 
+          <lb ed="#Z" n="22"/>careret rationis discursu, quomodo stultitia uideretur doctrina euangelica? 
+          Au<lb ed="#Z" n="23" break="no"/>dit ergo &amp; intelligit ex dono dei uerba &amp; sensum scripturae diuinae : sed propter 
+          <lb ed="#Z" n="24"/>corruptionem non afficitur ijs, non recte iudicat de ijs, stultitia ipsi uidentur, 
+          nec<lb ed="#Z" n="25" break="no"/>dum percipit illa spiritualiter dijudicari oportere: quia nondum regenitus est, spi 
+          <lb ed="#Z" n="26"/>rituque dei uero lumine adhuc destituitur. Alibi idem apostolus, Non idonei sumus,  
+          <lb ed="#Z" n="27"/>ait, ex nobis ipsis, cogitare quicquam, taquam ex nobis ipsis, sed omnis idoneitas 
+          <lb ed="#Z" n="28"/>nostra ex deo est. Ideoque tam frequens est in scripturis mentio illuminationis: id 
+          <lb ed="#Z" n="29"/>quod sine caussa fieret, si per se lucidus &amp; non tenebris obscuratus esset hominis 
+          <lb ed="#Z" n="30"/>intellectus. Proinde congenita est omnibus hominibus caecitas cordis, uel mentis,  
+          <lb ed="#Z" n="31"/>dubitatio in promissis dei, incredulitas &amp; peruersissimum in omnibus coelestibus 
+          <lb ed="#Z" n="32"/>rebus iudicium. Licet enim intellectum acceperit homo a deo, propter corruptio 
+          <lb ed="#Z" n="33"/>nem tamen ignorantia hominis peculiare ac proprium est. In suo enim regno 
+          uer<lb ed="#Z" n="34" break="no"/>satur cum caecutit, errat, dubitat nec credit nec donis a deo concessis bene, hoc est 
+          <lb ed="#Z" n="35"/>ad salutem suam &amp; gloriam dei, utitur.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2395">
+          <lb ed="#Z" n="36"/><pc type="indent"/> Videamus iam quid possit Veteris hominis uoluntas. Ea cum sequatur 
+          du<lb ed="#Z" n="37" break="no"/>cem caecum, hoc est intellectum corruptissimum, nemini obscurum est quid eligat,  
+          <lb ed="#Z" n="38"/>aut quo perueniat. Et ut maxime uerum &amp; bonum intelligat, attamen uoluntas 
+          <lb ed="#Z" n="39"/>nauiculae instar ui procellarum, id est affectuum, agitatur, Raptatur enim sursum 
+          <lb ed="#Z" n="40"/>&amp; deorsum, spe, metu, libidine, dolore, indignatione, ut non nisi pessima quaeque &amp;  
+          <lb ed="#Z" n="41"/>deligat &amp; sectetur. De se enim ipso S. Apostolus loquens, Noui, inquit, quod non 
+          <lb ed="#Z" n="42"/>habitet in me, hoc est in carne mea, bonum. Nam uelle adest mihi, at ut faciam bo 
+          <lb ed="#Z" n="43"/>num non reperio. Non enim quod uolo, facio bonum, sed quod nolo malum, hoc 
+          <lb ed="#Z" n="44"/>ago. Si uero haec de seipso iam utique regenito praedicat apostolus Paulus, quid ob 
+          <lb ed="#Z" n="45"/>secro dicemus de Voluntate ueteris hominis? Vult is omnia quae deus non uult,  
+          <lb ed="#Z" n="46"/>perque omnia scelerum genera grassans, foedam suam explet libidinem: hoc est, prae 
+          <lb ed="#Z" n="47"/>bet membra sua serua immunditiae &amp; iniquitati, ad aliam atque aliam iniquitatem.  
+          <lb ed="#Z" n="48"/>Exempla plurima exhibent nobis cum sacrae literae tum experientia quotidiana.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2427">
+          <!--421.xml-->
+          <pb ed="#Z" n="199-v"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Opponamus his modo nouum hominem. Hic est spiritu dei per fidem Iesu 
+          <lb ed="#Z" n="2"/>Christi regeneratus. Est autem regeneratio, innouatio hominis, qua per spiritum  
+          <lb ed="#Z" n="3"/>sanctum in fide Iesu Christi, qui fueramus filij Adae &amp; irae, renascimur filij dei, &amp;  
+          <lb ed="#Z" n="4"/>prinde deponimus in diem ueterem hominem, nouumque induimus, qui 
+          intelle<lb ed="#Z" n="5" break="no"/>ctu &amp; uoluntate deo libere seruit, Regeneratio haec animi non corporis 
+          renoua<lb ed="#Z" n="6" break="no"/>tio est: quemadmodum alibi audiuimus ex 3. cap. Ioannis. Author regenerationis  
+          <lb ed="#Z" n="7"/>est spiritus sanctus coelitus homini donatus. Homini autem fideli. Datur enim do 
+          <lb ed="#Z" n="8"/>num spiritus sancti propter Christum, &amp; credentibus in Christum. Hic dei 
+          spiri<lb ed="#Z" n="9" break="no"/>tus testatur una cum spiritu nostro, quod simus filij dei, &amp; iccirco haeredes. Sumus 
+          <lb ed="#Z" n="10"/>ergo noua creatura, reparati iam ad imaginem dei, praediti nouo ingenio: quo fit 
+          <lb ed="#Z" n="11"/>ut in diem ueterem illum hominem deponamus, nouum uero induamus: quod fit 
+          <lb ed="#Z" n="12"/>dum ambulamus, non pro ingenio carnali in concupiscentijs carnis, sed in nouita 
+          <lb ed="#Z" n="13"/>te sensus pro ingenio sancti spiritus, per quem sumus regeniti. Manet eadem 
+          qui<lb ed="#Z" n="14" break="no"/>dem in nobis corporis substantia &amp; forma, animus mutatur, innouatur 
+          intelle<lb ed="#Z" n="15" break="no"/>ctus &amp; uoluntas. Nam per spiritum dei illuminatur intellectus, con fertur fides si 
+          <lb ed="#Z" n="16"/>mul &amp; cognitio uera dei, omniumque rerum coelestium, pelluntur autem incredu 
+          <lb ed="#Z" n="17"/>litas, ignorantia, hoc est tenebrae ueteris hominis, iuxta illud apostoli, Per Christum 
+          <lb ed="#Z" n="18"/>estis in omnibus ditati, in omni sermone &amp; cognitione. Item, Nos non spiritum 
+          <lb ed="#Z" n="19"/>mundi accepimus, sed spiritum qui est ex deo, ut sciamus quae a Christo donata 
+          <lb ed="#Z" n="20"/>sunt nobis. Et iterum, Nos mentem Christi tenemus, Rursus, Non necesse 
+          habe<lb ed="#Z" n="21" break="no"/>tis ut quisquam doceat uos : sed sicut ipsa unctio docet uos de omnibus &amp; uerax 
+          <lb ed="#Z" n="22"/>est, manete in ea. In hac hominis regeneratione accipit &amp; uoluntas uirtutem 
+          coe<lb ed="#Z" n="23" break="no"/>lestem efficiendi bonum quod intellexit per spiritum sanctum, ut uelit &amp; eligat 
+          <lb ed="#Z" n="24"/>opereturque bonum quod deus ostendit: nolit, odiat &amp; repellat malum, quod deus  
+          <lb ed="#Z" n="25"/>prohibuit. Paulus enim, Noui humiliari, ait, noui et excellere. Omnia possum per 
+          <lb ed="#Z" n="26"/>Christum, qui me corroborat. Et iterum ad Philip. Vobis donatum est, ait, pro Chri 
+          <lb ed="#Z" n="27"/>sto non solum ut in eum credatis, uerum etiam ut pro illo patiamini, Rursus &amp;  
+          <lb ed="#Z" n="28"/>multo clarius, Deus est is qui agit in uobis, &amp; ut uelitis, &amp; ut efficiatis, pro bono 
+          <lb ed="#Z" n="29"/>animi proposito. Caeterum quod faciunt spiritu dei renati, libere non coacte, non 
+          <lb ed="#Z" n="30"/>inuite faciunt. Nam sicut hilarem datorem requirit deus: ita ubi spiritus domini 
+          <lb ed="#Z" n="31"/>est, ibi libertas est. Et acharias pater diui Baptistae, Vt sine timore, inquit, de ma 
+          <lb ed="#Z" n="32"/>nu inimicorum liberati seruiremus ipsi, in sanctitate &amp; iustitia coram ipso, cunctis 
+          <lb ed="#Z" n="33"/>diebus uitae nostrae. Quin ipse in euangelio dominus noster dicit, Si manseritis in 
+          <lb ed="#Z" n="34"/>sermone meo, uere discipuli mei estis, &amp; cognoscetis ueritatem, &amp; ueritas liberos 
+          <lb ed="#Z" n="35"/>reddet uos. Item, Si uos filius liberauerit, uel liberos reddiderit, uere liberi eritis. 
+          <lb ed="#Z" n="36"/>De hac filiorum dei libertate disserui Sermo. 9. Decad. 3.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2513">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Hanc libertatem filiorum dei libenter agnoscimus : superbas quorundam di- 
+          <lb ed="#Z" n="38"/>sputationes de libero arbitrio, quasi rerum coelestium aliquid ex nobisipsis possi 
+          <lb ed="#Z" n="39"/>mus, non agnoscimus. Interim hominem non subijcimus fatali necessitati, neque  
+          <lb ed="#Z" n="40"/>culpam mali retorquemus in deum. Sicuti alicubi declarauimus copiosius. Et S. 
+          <lb ed="#Z" n="41"/>Augustinus in certamine contra Pelagianos disputationem suam sic temperauit,  
+          <lb ed="#Z" n="42"/>ut gratiae diuinae bonum tribuerit, malum uero nostrae naturae: adeo ut liberum 
+          <lb ed="#Z" n="43"/>arbitrium, quod nobis ssensu non abrupto, sed expenso &amp; sano) concedit, gratiae 
+          <lb ed="#Z" n="44"/>in nobis operanti, imo regenerationi spiritus magis, quam nobisipsis tribuerit. Pro 
+          <lb ed="#Z" n="45"/>feram ac recitabo hic C. V. unicum modo ex libris eius testimonium. Id est tale, De 
+          <lb ed="#Z" n="46"/>Correptione &amp; gratia cap. 1. dicit, Liberum arbitrium &amp; ad malum &amp; ad bonum 
+          <lb ed="#Z" n="47"/>faciendum, confitendum est nos habere: sed in malo faciendo liber est quisque iusti 
+          <lb ed="#Z" n="48"/>tiae seruusque peccati: in bono autem liber esse nullus potest, nisi fuerit liberatus ab 
+          <!--422.xml-->
+          <pb ed="#Z" n="200-r"/>
+          <lb ed="#Z" n="1"/>eo qui dixit, Si uos filius liberauerit, tunc uere liberi eritis. Nec ita ut cum quisque 
+          <lb ed="#Z" n="2"/>fuerit a peccati damnatione liberatus, iam non indigeat sui liberatoris auxilio : sed 
+          <lb ed="#Z" n="3"/>ita potius ut ab illo audiens, Sine me nihil potestis facere, dicat ei &amp; ipse, Adiutor 
+          <lb ed="#Z" n="4"/>meus esto: ne derelinquas me. Hanc FiDEM quae sine dubio VERA &amp; propheti 
+          <lb ed="#Z" n="5"/>ca &amp; apostolica fides est, etiam in fratre nostro Floro inuenisse me gaudeo. Intelli 
+          <lb ed="#Z" n="6"/>genda est enim gratia dei per Iesum Christum dominum nostrum: qua sola homi 
+          <lb ed="#Z" n="7"/>nes liberantur a malo, &amp; sine qua nullum prorsus siue cogitando, siue uolendo &amp;  
+          <lb ed="#Z" n="8"/>amando, siue agendo faciunt bonum. Non solum ut monstrante ipsa quid facien 
+          <lb ed="#Z" n="9"/>dum sit sciant: uerumetiam ut praestante ipsa, faciant cum dilectione quod sciunt. 
+          <lb ed="#Z" n="10"/>Et quae sequuntur. Hactenus enim recitauimus <name xml:id="UD1xh4-bNdIjR-Nd1e2568" ref="#Augustine">S. Augustini</name> sententiam de libero 
+          <lb ed="#Z" n="11"/>hominis arbitrio, de quo haec obiter dixisse satis est: redeo iam ad institutum nostrum.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2575">
+          <lb ed="#Z" n="12"/><pc type="indent"/> Audiuimus quis sit uetus homo, quis nouus, &amp; quomodo renouemur per 
+          <lb ed="#Z" n="13"/>spiritum: iam ergo cum dicimus poenitentes ueterem hominem mortificare, et sp 
+          <lb ed="#Z" n="14"/>ritu uel spiritualiter innouari, nihil aliud dicimus quam poenitentes omnes 
+          affe<lb ed="#Z" n="15" break="no"/>ctus, sensus uel cupiditates carnis, ipsum, inquam, intellectum quem habemus ex 
+          <lb ed="#Z" n="16"/>ueteri Adamo, una cum uoluntate, non tantum fuspectum habere impietatis, sed con 
+          <lb ed="#Z" n="17"/>uictum quoque, ideoque in gerendis rebus, in omnibus cogitationibus, dictis &amp; factis 
+          <lb ed="#Z" n="18"/>nuspiam admittere in consilium, sed oppugnare &amp; iugulare studio perpetuo: e di 
+          <lb ed="#Z" n="19"/>uerso omnibus consilijs, dictis &amp; factis nostris adhibere uel admittere, precibusquam 
+          <lb ed="#Z" n="20"/>uocare magistrum illum coelestem Christi spiritum, cuius magisterio &amp; ductu, 
+          <lb ed="#Z" n="21"/>sentiamus, iudicemus, loquamur, operemur, id est, uel omittamus uel faciamus,  
+          <lb ed="#Z" n="22"/>quod in archetypo nostro, ad cuius imaginem reformari oportet, didicimus, ut 
+          <lb ed="#Z" n="23"/>porro studeamus sanctimoniae, iustitiae, beneficentiaeque. Sed hoc totum 
+          intellige<lb ed="#Z" n="24" break="no"/>mus adhuc rectius &amp; clarius ex uerbis apostoli dicentis, Hoc dico &amp; testor per do 
+          <lb ed="#Z" n="25"/>minum, ne posthac ambuletis, quemadmodum &amp; reliquae gentes ambulant in ua 
+          <lb ed="#Z" n="26"/>nitate mentis suae, dum mentem habent obtenebratam, abalienati a uita dei, 
+          pro<lb ed="#Z" n="27" break="no"/>pter ignorantiam quae est in illis, &amp; excaecationem cordis eorum, qui posteaquam  
+          <lb ed="#Z" n="28"/>peruenerunt eo ut dolere desierint, semetipsos dediderunt lasciuiae, ad patrandum 
+          <lb ed="#Z" n="29"/>immundiciam omnem cum auiditate. Vos autem non sic didicistis Christum, siqui 
+          <lb ed="#Z" n="30"/>dem illum audistis, &amp; in eo docti fuistis, quemadmodum est ueritas in Iesu, depone 
+          <lb ed="#Z" n="31"/>re iuxta priorem couersationem ueterem hominem, qui corrumpitur iuxta 
+          concu<lb ed="#Z" n="32" break="no"/>piscentias erroris: renouari uero spiritu mentis uestre, &amp; induere nouum hominem, 
+          <lb ed="#Z" n="33"/>qui iuxta deum conditus est per iustitiam &amp; sanctitatem ueritatis. Et reliqua quae 
+          <lb ed="#Z" n="34"/>leguntur ad Ephes. 4. cap. Idem apostolus ad Coloss. 3. cap. Mortificate, inquit,  
+          <lb ed="#Z" n="35"/>membra uestra terrestria, stuprum, immunditiam, mollitiem, concupiscentiam ma 
+          <lb ed="#Z" n="36"/>lam &amp; auaritiam, quae est idololatria, ob quae uenire solet ira dei in filios 
+          intracta<lb ed="#Z" n="37" break="no"/>biles: inter quos ambulabatis quondam cum uiueretis in his. Nunc autem deponite 
+          <lb ed="#Z" n="38"/>&amp; uos omnia, iram, indignationem, malitiam, maledicentiam turpiloquentiam ab 
+          <lb ed="#Z" n="39"/>ore uestro: ne mentiamini alij aduersus alios, posteaquam exuistis ueterem homi- 
+          <lb ed="#Z" n="40"/>nem cum factis suis, &amp; induistis nouum, qui renouatur ad agnitionem et imaginem 
+          <lb ed="#Z" n="41"/>eius qui condidit illum. Sitis igitur induti taquam electi dei, sancti ac dilecti uisce 
+          <lb ed="#Z" n="42"/>ra miserationum, comitatem, modestiam, mansuetudinem, senitatem, sufferentes 
+          <lb ed="#Z" n="43"/>uos inuicem, &amp; condonantes uobis mutuo, si quis aduersus aliquem habuerit que 
+          <lb ed="#Z" n="44"/>relam. Et reliqua. Quibus si adiincias eiusdem apostoli disputata de eadem caussa 
+          <lb ed="#Z" n="45"/>in 6. cap. ad Romanos uiuidiora erunt singula.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2652">
+          <lb ed="#Z" n="46"/><pc type="indent"/> Haec uero apostoli uerba erudiunt nos non tantum quis sit homo uetus, quis  
+          <lb ed="#Z" n="47"/>nouus, quid sit mortificare ueterem hominem, &amp; quomodo poenitentes 
+          reparen<lb ed="#Z" n="48" break="no"/>tur nouitate spiritus seu mentis: sed etiam qui nam sint digni poenitentia fructus,  
+          <!--423.xml-->
+          <pb ed="#Z" n="200-v"/>
+          <lb ed="#Z" n="1"/>nimirum recitatae uirtutes illae, uel officia illa uitae erga deum &amp; erga proximum, 
+          <lb ed="#Z" n="2"/>Debemus deo timorem siue reuerentiam, humiliationem, agnitionem nostri, fidem, 
+          <lb ed="#Z" n="3"/>spem, odium peccati, &amp; iustitiae studium, proximo charitatem seu beneficentiam  
+          <lb ed="#Z" n="4"/>innocentiamque. Huiusmodi fructus a gente ludaica postulauit beatus Ioannes 
+          Ba<lb ed="#Z" n="5" break="no"/>ptista, cum dixit, Facite fructus qui poenitentiam deceant. Nam apud Lucam 
+          ro<lb ed="#Z" n="6" break="no"/>gatus a plebe, a publicanis, &amp; a satellitibus uel stipendiarijs, praesidiarijsue 
+          militi<lb ed="#Z" n="7" break="no"/>bus, quid ipsi poenitentia dignum faciant, non aliud quam quod modo diximus 
+          <lb ed="#Z" n="8"/>praescribit. Nam dominus ipse per lsaiam in 5. cap. non alios commemorauit 
+          fru<lb ed="#Z" n="9" break="no"/>ctus. Et in Reuelatione sua S. Ioanni facta, Memor esto (loquitur autem ministro 
+          <lb ed="#Z" n="10"/>ecclesiae Ephesinae) unde excideris, &amp; age poenitentiam, &amp; prima opera fac. Cum 
+          <lb ed="#Z" n="11"/>quibus congruunt haec Pauli apostoli uerba coram Agrippa dicentis, Praedicaui 
+          <lb ed="#Z" n="12"/>ludaeis &amp; gentibus, adhortans ut poenitentiam agerent, &amp; conuerterentur ad 
+          <lb ed="#Z" n="13"/>deum, opera facientes digna ijs qui resipuissent. Ac idem in 2. ad Corinth. 7. cap. 
+          <lb ed="#Z" n="14"/>Tristitia, inquit, quae secundum deum est, poenitentiam ad salutem non poeniten 
+          <lb ed="#Z" n="15"/>dam efficit. Ecce enim hoc ipsum quod secundum deum contristati estis, 
+          quan<lb ed="#Z" n="16" break="no"/>tum produxit in uobis studium: Imo defensionem, imo indignationem, imo timo 
+          <lb ed="#Z" n="17"/>rem, imo desiderium, imo zelum, imo uindictam? Est autem studium diligentia ac 
+          <lb ed="#Z" n="18"/>curatissima corrigendi quod peccatum est. Certe ex incuria &amp; socordia exoritur 
+          <lb ed="#Z" n="19"/>peccandi assuetudo &amp; securitas. Defendunt poenitentes non sua peccata, sed apo 
+          <lb ed="#Z" n="20"/>logia utuntur erga deum deprecatiua. Hypocritae se excusant &amp; tergiuersantur,  
+          <lb ed="#Z" n="21"/>neque peccata ingenue agnoscentes, neque culpam deprecantes. Quem uere 
+          poeni<lb ed="#Z" n="22" break="no"/>tet, excandescit in semetipsum propter consceleratos mores uitamque turpiter trans 
+          <lb ed="#Z" n="23"/>actam. Vindicta quam in se exercet affligendo semetipsum, praeuertit 
+          imminen<lb ed="#Z" n="24" break="no"/>tem dei iram. Porro timore cauet sibi ne peccet in posterum. Nam contemptus nu 
+          <lb ed="#Z" n="25"/>minis, est origo omnium scelerum, &amp; uinculum uitae impoenitentis. Dei quoque coele 
+          <lb ed="#Z" n="26"/>stiumque rerum desiderio rapitur qui uere poenitet: inardescit zelo, quo fit ut nec 
+          <lb ed="#Z" n="27"/>cunctetur, nec frigide aut segniter agat quod agendum sibi ex uerbo dei didicit. 
+          <lb ed="#Z" n="28"/>Breuiter quod agit, ex animo intimisque uisceribus agit. Sic enim dicit magnus dei 
+          <lb ed="#Z" n="29"/>propheta Moses, Si conuersus fueris ad dominum deum tuum, &amp; uoci eius 
+          obe<lb ed="#Z" n="30" break="no"/>dieris toto corde tuo &amp; tota anima tua : conuertet quoque dominus deus tuus 
+          ca<lb ed="#Z" n="31" break="no"/>ptiuitatem tuam, &amp; intimis uisceribus miserationis afficietur erga te. Haec de 
+          poe<lb ed="#Z" n="32" break="no"/>nitentiae fructibus.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2736">
+          <lb ed="#Z" n="33"/><pc type="indent"/> Ex illis omnibus hoc quoque colligimus, poenitentiam (cuius unicus scopus 
+          <lb ed="#Z" n="34"/>est, imaginis dei, olim per Adamum defoedatae, noua per spiritum Christi repara 
+          <lb ed="#Z" n="35"/>tio in nobis) non paucorum dierum aut certi temporis opus esse, sed totius uitae 
+          <lb ed="#Z" n="36"/>nostrae custodiam perpetuam, adeoque innouationem quotidianam. Nam 
+          regene<lb ed="#Z" n="37" break="no"/>rati sancto dei spiritu, nunquam sic purgantur, ut nihil carnis uel peccati affectuumque 
+          <lb ed="#Z" n="38"/>sentiant. Semper obuersatur oculis sanctorum haec nunquam expectoranda bea 
+          <lb ed="#Z" n="39"/>tissimi Pauli sententia, Noui quod non habitet in me, hoc est, in carne mea bonum, 
+          <lb ed="#Z" n="40"/>Nam uelle adest mihi, at ut faciam bonum non reperio. Non enim quod uolo facio 
+          <lb ed="#Z" n="41"/>bonum, sed quod nolo malum, hoc ago. Circumferimus enim reliquias carnis per om 
+          <lb ed="#Z" n="42"/>nem uitam. Vnde est in sanctis bellum perpetuum, infensissimumque. Partim enim  
+          <lb ed="#Z" n="43"/>obtemperant spiritui, partim labefactantur a carne. Spiritu eriguntur sursum in 
+          <lb ed="#Z" n="44"/>contemplationem &amp; desiderium rerum coelestium. Carne uero deprimuntur in 
+          <lb ed="#Z" n="45"/>terrena, solicitanturque illecebris huius saeculi. Ideo enim apostolus dixit, Caro con 
+          <lb ed="#Z" n="46"/>cupiscit aduersus spiritum, &amp; spiritus aduersus carnem. Haec autem inter se 
+          mu<lb ed="#Z" n="47" break="no"/>tuo aduersantur, ut non quaecunque uolueritis faciatis. Nam &amp; alibi, Idem ego 
+          <lb ed="#Z" n="48"/>mente quidem, inquit, seruio legi dei, carne uero legi peccati. Equidem accedunt 
+          <!--424.xml-->
+          <pb ed="#Z" n="201-r"/>
+          <lb ed="#Z" n="1"/>his artes doli &amp; incessabiles mille artificis sathanae tentationes. Labor itaque &amp; pe 
+          <lb ed="#Z" n="2"/>riculum uere poenitentis, hoc est Christiani hominis, sic increscit, ut oratio nostra 
+          <lb ed="#Z" n="3"/>uix consequatur.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2785">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Quis autem non uideat hic quanta opus sit poenitentibus uigilantia, abstinen 
+          <lb ed="#Z" n="5"/>tia, assiduitate, fortitudine &amp; patientia? Quantis sit opus precibus, &amp; his quidem  
+          <lb ed="#Z" n="6"/>ardentissimis &amp; perpetuis ? Proponamus nobis in hac difficili pugna 
+          strenuissi<lb ed="#Z" n="7" break="no"/>mi pugilis institutionem S. Pauli apostoli. Nam haec esse poterit uice prolixissimi 
+          <lb ed="#Z" n="8"/>commentarij. Etenim abunde quomodo nos geramus in pugna, &amp; quomodo 
+          uin<lb ed="#Z" n="9" break="no"/>camus, imo &amp; triumphemus, docebit. Sic dicit ad Ephesios, Sitis fortes per 
+          domi<lb ed="#Z" n="10" break="no"/>num fratres, perque potentiam roboris illius. Induite totam armaturam dei, ut pos 
+          <lb ed="#Z" n="11"/>sitis stare aduersus assultus diaboli. Quoniam non est nobis lucta (duntaxat) 
+          ad<lb ed="#Z" n="12" break="no"/>uersus carnem &amp; sanguinem, sed aduersus principatus, aduersus potestates, 
+          ad<lb ed="#Z" n="13" break="no"/>uersus mundi dominos, rectores tenebrarum saeculi huius, aduersus spirituales 
+          <lb ed="#Z" n="14"/>astutias in coelestibus. Quapropter assumite uniuersam armaturam dei, ut 
+          possi<lb ed="#Z" n="15" break="no"/>tis resistere in die malo, &amp; omnibus peractis stare. State igitur succincti lumbos ue 
+          <lb ed="#Z" n="16"/>ritate, induti thoracem iustitiae, calceati pedes praeparatione euangelij pacis, in om- 
+          <lb ed="#Z" n="17"/>nibus, assumpto scuto fidei: quo possitis omnia tela maligni ignita extinguere: &amp;  
+          <lb ed="#Z" n="18"/>galeam salutis accipite, &amp; gladium spiritus, qui est uerbum dei. Per omnem 
+          pre<lb ed="#Z" n="19" break="no"/>cationem &amp; orationem omni tempore precantes in spiritu, &amp; in hoc ipsum 
+          uigi<lb ed="#Z" n="20" break="no"/>lantes cum omni assiduitate. Et reliqua Ephes.6.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2825">
+          <lb ed="#Z" n="21"/><pc type="indent"/> Veniunt ergo hic quoque commemoranda externa poenitentiae exercitia siue 
+          <lb ed="#Z" n="22"/>ritus poenitentiales, quibus sese exercent sancti in domanda uel humilianda 
+          car<lb ed="#Z" n="23" break="no"/>ne, deinde ad testificandam ecclesiae poenitentiam. Hi sunt squalor, Iachrymae, 
+          ge<lb ed="#Z" n="24" break="no"/>mitus, saccus, ieiunium, clamor, deploratio, neglectus &amp; odium splendoris, 
+          appa<lb ed="#Z" n="25" break="no"/>ratus, &amp; etiam concessae uoluptatis: quae etsi fiant, non tamen ex animo &amp; ex uera 
+          <lb ed="#Z" n="26"/>fide siant, prorsus nihil prosunt. Verum praestat haec discere &amp; quasi in tabula 
+          de<lb ed="#Z" n="27" break="no"/>picta contueri in uerbo dei syncero. Sic dicit Ioel propheta, Conuertimini ad me, 
+          <lb ed="#Z" n="28"/>inquit dominus, in toto corde uestro, ieiunio, fetu &amp; lamento: &amp; scindite cor 
+          ue<lb ed="#Z" n="29" break="no"/>strum, &amp; non uestimenta uestra. Conuertimini autem ad dominum deum uestrum,  
+          <lb ed="#Z" n="30"/>quia beneficus est, propensus ad misericordiam, longanimis &amp; multae bonitatis,  
+          <lb ed="#Z" n="31"/>&amp; qui poenitentia ducitur super malo. Quis scit si conuertatur ac poeniteat, &amp; re 
+          <lb ed="#Z" n="32"/>linquat post se benedictionem. Clangite tuba in Sion, sanctificate ieiunium, 
+          in<lb ed="#Z" n="33" break="no"/>dicite coetum, congregate populum, sanctificate coetum, congregate senes, 
+          colli<lb ed="#Z" n="34" break="no"/>gite puerulos &amp; lactentes ubera. Egrediatur sponsus de cubiculo suo, &amp; sponsa 
+          <lb ed="#Z" n="35"/>de uelo suo. Inter uestibulum &amp; altare plorent sacerdotes ministri domini, dicentque:  
+          <lb ed="#Z" n="36"/>Parce domine populo tuo, &amp; ne permittas ut haereditas tua probrum fiat, aut ut 
+          <lb ed="#Z" n="37"/>eis imperitent gentes. Cur dicerent in populis, Vbi est deus eorum? Hisce diuinis  
+          <lb ed="#Z" n="38"/>&amp; clarissimis preceptionibus adiinciemus modo egregium ex ijsdem scripturis Ni 
+          <lb ed="#Z" n="39"/>niuitarum uere poenitentium exemplum. De ijs sic reliquit scriptum beatus 
+          pro<lb ed="#Z" n="40" break="no"/>pheta lonas, Crediderunt Niniuitae deo, &amp; ieiunio indicto a magno ad paruum  
+          <lb ed="#Z" n="41"/>usque saccos induerunt. Peruenit ea res ad regem Niniuiticum, qui de solio suo 
+          con<lb ed="#Z" n="42" break="no"/>surgens paludamento suo a se posito, saccum induit &amp; in puluere sedit. Ad haec in 
+          <lb ed="#Z" n="43"/>tota urbe ex mandato regis publico aedicto proclamatum est, Neque homo neque iu 
+          <lb ed="#Z" n="44"/>menta neque greges quicquam gustent neque pascantur neque bibant : quin saccis 
+          o<lb ed="#Z" n="45" break="no"/>periantur &amp; homines &amp; iumenta strenueque clament ad deum. Conuertatur 
+          deni<lb ed="#Z" n="46" break="no"/>que quisque a uia sua mala, &amp; a uiolentia &amp; iniuria quae est in manibus eorum,  
+          <lb ed="#Z" n="47"/>Quis scit an conuertatur deus &amp; poeniteat auersus a furore irae suae, ut non perea 
+          <lb ed="#Z" n="48"/>mus. Caeterum praestat audire quam efficax sit uera poenitentia. Sequitur ergo in 
+          <!--425.xml-->
+          <pb ed="#Z" n="201-v"/>
+          <lb ed="#Z" n="1"/>lona, Vidit itaque deus opera eorum, quod a uijs suis malis auersi essent, &amp; ipse 
+          quo<lb ed="#Z" n="2" break="no"/>que ductus est poenitentia super malo quod eis inferre decreuerat. Non em intulit.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2898">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Obseruandum est hic quoque C. V. duplicem esse poenitentiam, nempe Priuatam  
+          <lb ed="#Z" n="4"/>uel occultam, &amp; Publicam uel solennem. Priuatam quisque apud semetipsum in oc- 
+          <lb ed="#Z" n="5"/>culto agit, quoties contra deum peccauit, sed in se interim descendit, lumineque uerbi 
+          <lb ed="#Z" n="6"/>dei omnes pectoris sui recessus perlustrat, ac deo confitetur peccata, hunc oftensum 
+          <lb ed="#Z" n="7"/>esse dolet, ad hunc conuertitur, hunc sibi in Christo placatum credit, propter hunc 
+          <lb ed="#Z" n="8"/>odit peccatum, &amp; studet iustitiae &amp; innocentiae. Publica uel solennis locum habet in 
+          <lb ed="#Z" n="9"/>magnis calamitatibus, in fame, lue, uel bello: ac de hac in primis intelligenda sunt 
+          <lb ed="#Z" n="10"/>uerba Ioelis prophetae. Habet tamen priuata poenitentia multa comunia cum 
+          so<lb ed="#Z" n="11" break="no"/>lenni. Petrus enim amare fset: ieiunant priuatim poenitentes, &amp; abstinent seueriter 
+          <lb ed="#Z" n="12"/>ab omnibus concessis uoluptatibus nedum ab illecebris carnis ac mundi. Caeterum  
+          <lb ed="#Z" n="13"/>Sderunt in primis fucum, hypocrisim &amp; ostentationem uanam, quoscunque uel 
+          pri<lb ed="#Z" n="14" break="no"/>uatim, uel publice poenitet. Est praeterea libera utraque &amp; sponte quidem suscepta, 
+          <lb ed="#Z" n="15"/>non extorta uel uiolenta, sed alacri ultroneoque profecta spiritu. Vrget quidem seue 
+          <lb ed="#Z" n="16"/>riter doctor ueritatis pastorque ecclesiasticus omnes peccatores, ut incunctanter ue 
+          <lb ed="#Z" n="17"/>ram agant super peccatis suis poenitentiam, sed nemini tamen lege lata imponit cer 
+          <lb ed="#Z" n="18"/>tam formulam praescribentem tempus, modum, locum, numerum, sed cuique libera haec 
+          <lb ed="#Z" n="19"/>relinquit, modo secundum praescriptum scriptures quisque quod decet faciat. Publica 
+          <lb ed="#Z" n="20"/>uero poenitentia fere indici solet &amp; recipi ab ecclesia, cum pietas poscit ipsaque cogit 
+          <lb ed="#Z" n="21"/>necessitas, ac quid &amp; quomodo agenda sint omnia una cum uerbo dei ostendit,  
+          <lb ed="#Z" n="22"/>Rursus constat duplicem esse poenitentiam. Est enim poenitentia uera, est &amp; 
+          poeni<lb ed="#Z" n="23" break="no"/>tentia falsa. Veram exercet homo regeneratus per spiritum S. in fide Iesu Christi,  
+          <lb ed="#Z" n="24"/>eaque fuco caret, &amp; habet omnia de quibus hactenus disserui. Exempla uerae poeni 
+          <lb ed="#Z" n="25"/>tentiae plurima suppeditant literae sanctae cum noui tum ueteris testamenti, quae 
+          <lb ed="#Z" n="26"/>&amp; pulcherrime superiora omnia declarant. Praeclara sunt patris nostri Adami &amp;  
+          <lb ed="#Z" n="27"/>Euae, Populi lsraelitici Exodi 33. item in libris ludicum, &amp; in libris Reg. Excellunt 
+          <lb ed="#Z" n="28"/>tamen in his Dauidis 2. Sam. 12. &amp; t. Par. 21. Manassis item &amp; losiae 2. Reg. 33. &amp;  
+          <lb ed="#Z" n="29"/>34. In euangelio offerunt se exempla Matthaei, achaei, Peccatricis, &amp; Petri, ut 
+          <lb ed="#Z" n="30"/>multa alia taceam. Porro falsa poenitentia ficto proficiscitur pectore: &amp; quamuis in 
+          <lb ed="#Z" n="31"/>speciem uideatur habere uera poenitentiae attributa, quia tamen caret conuersione 
+          <lb ed="#Z" n="32"/>ad deum &amp; bona in eundem fiducia, insyncera imo falsa est. ludae enim lschario¬  
+          <lb ed="#Z" n="33"/>tis poenitentiam falsam fuisse longe est certissimum: attamen confitebatur 
+          pecca<lb ed="#Z" n="34" break="no"/>tum, testimonium praebebat ueritati, denique pretium sanguinis acceptum a 
+          sacer<lb ed="#Z" n="35" break="no"/>dotibus, ijsdem multa cum indignatione doloreque restituit : caeterum quando ad 
+          <lb ed="#Z" n="36"/>Christum se non conuertit, omni fiducia in eius coniecta misericordiam, nullo cum  
+          <lb ed="#Z" n="37"/>fructu poenitentiam egit. Et nullo quidem cum fructu sese excruciant &amp; 
+          poeni<lb ed="#Z" n="38" break="no"/>tentiam agunt omnes hypocritae &amp; fide carentes euangelica.
+        </p>
+        <p xml:id="UD1xh4-bNdIjR-d1e2981">
+          <lb ed="#Z" n="39"/><pc type="indent"/> Felicissimi autem sunt, qui uere ex animo &amp; ex fide uera agunt poenitentiam. 
+          <lb ed="#Z" n="40"/>Infinita enim bona accipiunt a deo munificentissimo: qui redit in gratiam cum 
+          poe<lb ed="#Z" n="41" break="no"/>nitentibus, amans iam quos prius propter uitam consceleratam oderat infensissime 
+          <lb ed="#Z" n="42"/>sed iustissime. Supplicia quoque quae inferre statuerat, conuertit in munera. 
+          Poeni<lb ed="#Z" n="43" break="no"/>tentes enim bonis omnigenis temporalibus &amp; aeternis implet. Intellexit autem ex 
+          <lb ed="#Z" n="44"/>alijs Sermonibus C. V. tanta a deo beneficia nobis conferri, non propter nostra ope 
+          <lb ed="#Z" n="45"/>ra poenitentiae, sed propter Christum, cui soli fidunt sancti, non operibus 
+          poeniten<lb ed="#Z" n="46" break="no"/>tiae, licet sanctissimis. Hunc enim quia diligit pater, nosque fide Christo sumus 
+          in<lb ed="#Z" n="47" break="no"/>siti, &amp; nos amat &amp; opera nostra deo placent, quae cum remunerat, gratiam suam in 
+          <lb ed="#Z" n="48"/>nobis coronat, Rursus infelicissimos esse necesse est impoenitentes. Audiunt qui¬ 
+          <!--426.xml-->
+          <pb ed="#Z" n="202-r"/>
+          <lb ed="#Z" n="1"/>bus deum delictis &amp; facinoribus offenderunt adque uindictam prouocarunt, sed 
+          <lb ed="#Z" n="2"/>interim non cogitant quomodo iam iam ad supplicium de sontibus sumendum 
+          pro<lb ed="#Z" n="3" break="no"/>deunti deo occurrant, gratiamque eius impetrent. Quid ergo his restat aliud quam  
+          <lb ed="#Z" n="4"/>certissimum &amp; atrocissimum excidium, cum animae tum corporis, adde &amp; fortu 
+          <lb ed="#Z" n="5"/>narum, denique rerum omnium quas in hoc amarunt saeculo. Recordari hic conuenit 
+          <lb ed="#Z" n="6"/>grauissimae sententiae domini Iesu, in haec uerba in euangelio pronunciatae, Vae 
+          <lb ed="#Z" n="7"/>tibi Chorazin, uae tibi Bethsaida: quoniam si in urbe Tyri aut Sidonis factae fuissent 
+          <lb ed="#Z" n="8"/>uirtutes, quae factae sunt in uobis, olim in sacco &amp; cinere poenituissent. Attamen 
+          <lb ed="#Z" n="9"/>dico uobis, Tyro, Sidoni &amp; Sodomae tolerabilius erit in die iudicij quam uobis. 
+          <lb ed="#Z" n="10"/>Notissima est omnibus arbor ficus infrugifera, cuius mentio fit in euangelio, quae 
+          <lb ed="#Z" n="11"/>iudicio dei exaruit, nimirum in exemplum &amp; terrorem omnium impoenitentium. 
+          <lb ed="#Z" n="12"/>Quid futurum putamus nostri saeculi hominibus, tanta cum audacia poenitentiam 
+          <lb ed="#Z" n="13"/>tot annis praedicatam contemnentibus? Sunt alij quidem euangelicae ueritatis, ut 
+          <lb ed="#Z" n="14"/>uideri uolunt, studiosi: sunt alij hostes contemptores &amp; persequutores 
+          euangelij<lb ed="#Z" n="15" break="no"/>inuenias item ingentem turbam Lucianicorum, Epicureorum &amp; Atheorum : cumque 
+          <lb ed="#Z" n="16"/>omnes ex aequo fere poenitentiam suauiter, imo petulanter irrideant, non possumus 
+          <lb ed="#Z" n="17"/>aliud quam horrendum dei iudicium contra huiusmodi impoenitentes expectare. 
+          <lb ed="#Z" n="18"/>Qui sibi consultum uolunt, mature conuertantur ad dumim, reputentque secum non 
+          se<lb ed="#Z" n="19" break="no"/>mel nec leuiter, quanta sit iactura retinere haec fluxa huius mundi gaudia, &amp; inte 
+          <lb ed="#Z" n="20"/>rim amittere eterna. Mature faciat quisque quod uidet fieri eo melius, quo fit citius,  
+          <lb ed="#Z" n="21"/>Nolo tamen quenquam desperare in suis peccatis, modo poenitentiae medelam 
+          <lb ed="#Z" n="22"/>non aspernetur pertinaciter, neque propter facilitatem benignitatemque patris coelt 
+          <lb ed="#Z" n="23"/>stis, malitiose &amp; per contemptum poenitentiam differat in finem usque. Si uero car 
+          <lb ed="#Z" n="24"/>ne mundo &amp; sathana praepeditus aliquis, serius mentem poenitentiae applicarit,  
+          <lb ed="#Z" n="25"/>nolo &amp; hunc desperare. Et quoniam dissertationem de poenitentia prolixius, quam  
+          <lb ed="#Z" n="26"/>putaram, produxi, ut finem sermoni imponam, recitabo iam epilogi uice aurea 
+          <lb ed="#Z" n="27"/>plane uerba sancti martyris Christi &amp; episcopi Carthaginensis beati Cypriani, sic 
+          <lb ed="#Z" n="28"/>contra Demetrianum scribentis, Credite &amp; uiuite, &amp; qui nos ad tempus persequi 
+          <lb ed="#Z" n="29"/>mini, in aeternum gaudete nobiscum. Quando isthinc excessum fuerit, nullus iam  
+          <lb ed="#Z" n="30"/>locus poenitentiae est, nullus satisfactionis effectus. Hic uita aut amittitur, aut 
+          te<lb ed="#Z" n="31" break="no"/>netur. Hic saluti aeternae cultu dei &amp; fructu fidei prouidetur. Nec quisquam aut pec 
+          <lb ed="#Z" n="32"/>catis retardetur aut annis, quo minus ueniat ad consequendam salutem. In isto 
+          ad<lb ed="#Z" n="33" break="no"/>huc mundo manenti poenitentia nulla sera est. Patet ad indulgentiam aditus : &amp;  
+          <lb ed="#Z" n="34"/>quaerentibus atque intelligentibus ueritatem facilis accessus est. Tu sub ipso licet  
+          <lb ed="#Z" n="35"/>exitu &amp; uitae temporalis occasu pro delictis roges deum, qui unus &amp; uerus est, con 
+          <lb ed="#Z" n="36"/>fessionem &amp; fidem eius agnitionis implores, uenia confitenti datur, &amp; credenti 
+          in<lb ed="#Z" n="37" break="no"/>dulgentia salutaris de diuina pietate conceditur, &amp; ad immortalitatem sub ipsa 
+          <lb ed="#Z" n="38"/>morte transitur. Hanc gratiam Christus impartit: hoc munus misericordiae suae tri 
+          <lb ed="#Z" n="39"/>buit subigendo mortem tropheo crucis, redimendo credentem pretio sanguinis 
+          <lb ed="#Z" n="40"/>sui, reconciliando hominem deo patri, uiuificando mortalem regeneratione coele 
+          <lb ed="#Z" n="41"/>sti. Hunc si fieri potest sequamur omnes, huius sacramento &amp; signo censeamur. 
+          <lb ed="#Z" n="42"/>Hic nobis uiam uitae aperit. Hic ad paradysum reduces facit. Hic ad coelorum 
+          re<lb ed="#Z" n="43" break="no"/>gna perducit. Cum ipso semper uiuemus, &amp; facti per ipsum filij dei, cum ipso sem 
+          <lb ed="#Z" n="44"/>per exultabimus, ipsius cruore reparati. Erimus Christiani cum Christo simul 
+          <lb ed="#Z" n="45"/>gloriosi, de deo patre beati, de perpetua uoluptate laetantes semper in conspectu 
+          <lb ed="#Z" n="46"/>dei, &amp; agentes deo gratias semper. Neque enim poterit nisi &amp; laetus semper esse &amp;  
+          <lb ed="#Z" n="47"/>gratus, qui cum morti fuisset obnoxius, factus est immortalitate securus,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

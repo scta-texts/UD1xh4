@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 1</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 1</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="89-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-D2jg3q"><!-- d3s1 --> 
+      <!-- decade 3 -->
+        <head xml:id="UD1xh4-D2jg3q-Hd1e108">Sermo 1</head>
+        <head xml:id="UD1xh4-D2jg3q-Hd1e111" type="question-title">
+       De quarto secundae tabulae praecepto, quod in Decalogo octauum est, Non furtum facias. 
+       De proprietate rerum, iusteque parandis opibus, contra furti species varias. 
+      </head>
+        <p xml:id="UD1xh4-D2jg3q-d1e114">
+          <!--200.xml-->
+          <pb ed="#Z" n="89-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> De quarto secundae tabulae praecepto, quod in Decalogo octauum est, Non furtum facias. 
+          <lb ed="#Z" n="2"/>De proprietate rerum, iusteque parandis opibus, tontra furti species uarias. 
+          <lb ed="#Z" n="3"/>SERMO I. 
+          <lb ed="#Z" n="4"/>AD VITAM familiamque sustentandam alendamque opus est homini fa 
+          <lb ed="#Z" n="5"/>cultatibus terrenis, proxime itaque post mandata de uita conseruan 
+          <lb ed="#Z" n="6"/>da &amp; matrimonio sancte colendo, quarto mandato praecipitur 
+          <lb ed="#Z" n="7"/>de facultatibus siue opibus, nimirum recte parandis, possidendis,  
+          <lb ed="#Z" n="8"/>usurpandis, administrandisque, ne eas paremus furto aut artibus 
+          <lb ed="#Z" n="9"/>malis, ne possideamus iniuste, neue usurpemus aut dispensemus 
+          <lb ed="#Z" n="10"/>illegitime. lustitia exigit ut rebus bene utamur, &amp; ut suum cuique tribuamus: &amp;  
+          <lb ed="#Z" n="11"/>cum leges diuinae, iustitiae sint leges. necessario praecipiunt, NON FVRTVM 
+          <lb ed="#Z" n="12"/>FACIAS. Habemus rursus uerba oppido paucula, sed sensus eorum patet 
+          la<lb ed="#Z" n="13" break="no"/>tissime. Prohibetur enim hoc mandato ipsum furtum, prohibentur omnes artes 
+          <lb ed="#Z" n="14"/>malae, dolus malus, omnis impostura, adeoque ipsa auaritia, prohibetur otium, pro 
+          <lb ed="#Z" n="15"/>digalitas seu profusio, &amp; omnis iniustitia : praecipitur praeterea iustitia, maxime in 
+          <lb ed="#Z" n="16"/>contractibus &amp; commercijs. Certe ex acquisitione, possessione, &amp; dispensatione 
+          <lb ed="#Z" n="17"/>bonorum temporalium mirificae excitantur in mundo apud homines turbae : opor- 
+          <lb ed="#Z" n="18"/>tuit ergo deum in lege sua, qua hominum saluti commodo &amp; tranquillitati consu 
+          <lb ed="#Z" n="19"/>lit, modum statuere, &amp; certam rationem bonorum terrenorum indicare: id quod 
+          <lb ed="#Z" n="20"/>hac lege praestitit: quae quo rectius intelligatur, dicemus in praesenti, domino 
+          in<lb ed="#Z" n="21" break="no"/>spirante, de proprietate rerum, rebusque iuste parandis: in qua quidem tractatio¬  
+          <lb ed="#Z" n="22"/>ne aperiet sese uniuersa furti consideratio per species eius uarias.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e170">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Proprietas enim &amp; possessio rerum non prohibetur mandato hoc, sed ne 
+          pa<lb ed="#Z" n="24" break="no"/>remus opes ullas artibus iniustis, ne possideamus iniuste, aut dispensemus 
+          ini<lb ed="#Z" n="25" break="no"/>que: imo statuitur &amp; confirmatur hoc praecepto rerum proprietas. Prohibet enim  
+          <lb ed="#Z" n="26"/>furta dominus, ergo statuit &amp; confirmat rerum proprietatem. Quid enim furari 
+          <lb ed="#Z" n="27"/>possis, si omnia sint communia? suum enim non alienum surripuisti, si alteri suam 
+          <lb ed="#Z" n="28"/>suffuratus fueris substantiam. Sed prohibet deus furta, ergo rerum proprietatem  
+          <lb ed="#Z" n="29"/>munit hac lege lata. Quoniam uero sunt non pauci ex furiosa Anabaptistarum  
+          <lb ed="#Z" n="30"/>turba, qui negant rerum proprietatem, apertis aliquot scriptures testimonijs illam  
+          <lb ed="#Z" n="31"/>demonstrabo, De Abraham, qui in sacris appellatur pater fidei, praedicat Eliezer,  
+          <lb ed="#Z" n="32"/>&amp; dicit, Locupletauit dominus herum meum insigniter, ut potens seu opulentus 
+          <lb ed="#Z" n="33"/>sit, deditque illi greges &amp; armenta, argentum &amp; aurum, seruos &amp; ancillas: ac dedit 
+          <lb ed="#Z" n="34"/>filio suo omnia quae habet. En locuples fuit Abraham, &amp; possedit proprietatis 
+          iu<lb ed="#Z" n="35" break="no"/>re, quae ipsi dedit dominus : &amp; ista omnia haereditatis titulo ut peculium filio 
+          reli<lb ed="#Z" n="36" break="no"/>quit. Ergo opes proprias possedit lsaac &amp; lacob. Deus quoque per Mosen induxit 
+          <lb ed="#Z" n="37"/>lsraelitas suum populum in terram promissam, in qua sorte tribubus per losue di 
+          <lb ed="#Z" n="38"/>stribuit terram, singulis suis assignatis possessionibus : sed &amp; legibus cauit ne illae 
+          <lb ed="#Z" n="39"/>confunderentur. In Solomone &amp; Prophetis sunt praeceptiones &amp; sententiae 
+          mul<lb ed="#Z" n="40" break="no"/>tae huc pertinentes. Scio autem quid obiiciant turbatores. Haec testimonia e ueteri 
+          <lb ed="#Z" n="41"/>testamento petita non constringere Christianos. Et quanquam demonstrare possem 
+          <!--201.xml-->
+          <pb ed="#Z" n="89-v"/>
+          <lb ed="#Z" n="1"/>illos locos in tali nos caussa constringere, malo tamen breuitatis gratia certa 
+          ali<lb ed="#Z" n="2" break="no"/>quot testimonia ex noui testamenti scriptis proferre. Laudat dominus Iesus in suis 
+          <lb ed="#Z" n="3"/>cultoribus opera misericordiae, quod pascunt esurientes, potant sitientes, induunt 
+          <lb ed="#Z" n="4"/>uestibus nudos, captos &amp; aegrotantes inuisunt, &amp; exules atque uagos inducunt in 
+          <lb ed="#Z" n="5"/>aedes suas. Concedit ergo suis rerum proprietatem, ex qua praestent alijs 
+          benefi<lb ed="#Z" n="6" break="no"/>centiam, &amp; indigentibus quidem. Sublata autem rerum proprietate, sublata erit 
+          <lb ed="#Z" n="7"/>&amp; beneficentia eleemosynaque. Nam si omnia sunt communia, nihil tude tuis, sed 
+          <lb ed="#Z" n="8"/>omnia ex communibus bonis elargiris. Sed apostolus Paulus ad Corinthios 
+          iu<lb ed="#Z" n="9" break="no"/>bet quemlibet apud se eleemosynam reponere, quam ipse accipiat ab eis, ubi 
+          Co<lb ed="#Z" n="10" break="no"/>rinthum redierit. Praecipit item tantum quisque conferat, quantum suggerit animi 
+          <lb ed="#Z" n="11"/>promptitudo, &amp; quantum quisque possidet, non quantum non possidet: neque ita 
+          <lb ed="#Z" n="12"/>conferat ut accipientibus sit superffuitas, dantibus autem angustia &amp; indigentia. 
+          <lb ed="#Z" n="13"/>Idem apostolus, Obsecramus uos fratres, inquit, ut in hoc incumbatis, ut quieti 
+          <lb ed="#Z" n="14"/>sitis &amp; agatis res proprias, &amp; operemini proprijs manibus uestris, sicuti uobis prae 
+          <lb ed="#Z" n="15"/>cepimus : &amp; ut uos geratis honeste erga extraneos, &amp; nulla re uobis sit opus. 
+          Hu<lb ed="#Z" n="16" break="no"/>ius generis alia ex alijs epistolis proferre possem : sed sufficiunt haec abunde 
+          de<lb ed="#Z" n="17" break="no"/>monstrantia proprietatem rerum hominibus Christianis in utroque testamento 
+          <lb ed="#Z" n="18"/>esse permissam.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e259">
+          <lb ed="#Z" n="19"/><pc type="indent"/> Legimus sane in Actis apostolorum priscis &amp; apostolicae ecclesiae indigenis 
+          <lb ed="#Z" n="20"/>omnia fuisse communia: sed adijnciuntur in eodem libro quae declarant qualis illa  
+          <lb ed="#Z" n="21"/>fuerit communio. Nemo eorum quae possidebat, ait Lucas, suum esse dicebat. En 
+          <lb ed="#Z" n="22"/>possidebant primi Christiani domos proprias, proprios agros, &amp; proprias opes 
+          <lb ed="#Z" n="23"/>alias: sed ita interim possidebant, quasi non propriae sed aliorum quoque &amp; ueluti 
+          <lb ed="#Z" n="24"/>communes essent, ut nihilo minus proprietatis ius maneret apud possessores: sicu 
+          <lb ed="#Z" n="25"/>bi uero postularet necessitas, uendebant agros aut aedes, &amp; inopiae subueniebant 
+          <lb ed="#Z" n="26"/>egentium. Si uendebant, certe propria erant quae uendebant. Nullus enim uir bo 
+          <lb ed="#Z" n="27"/>nus uendit aliena, sed propria aut ea quae tanquam propria accepit 
+          procuranda<lb ed="#Z" n="28" break="no"/>Praeterea S. Petrus totam hanc componens controuersiam, ad Ananiam dicit,  
+          <lb ed="#Z" n="29"/>Nonne prorsus tibi manebat ager, &amp; uenundatus adhuc in tua erat potestate? 
+          <lb ed="#Z" n="30"/>Quorsum ergo attinebat mentiri spiritui sancto, &amp; fraudare de pretio agri, interim  
+          <lb ed="#Z" n="31"/>nihilo minus quasi totum contuleris pretium profiteri? Potuisset Ananias agrum  
+          <lb ed="#Z" n="32"/>non uendere, &amp; cum uendiderat, nihilo minus retinere integram pecuniam : non  
+          <lb ed="#Z" n="33"/>fuisset ea de causa ex sanctorum ecclesia exclusus uel exturbatus. Liberum ergo 
+          <lb ed="#Z" n="34"/>erat, ut hodie quoque est, uendere uel non uendere possessiones, &amp; in comune con 
+          <lb ed="#Z" n="35"/>ferre sustentandis pauperibus. Proinde locus ille in Actis apostolicis non tollit ius 
+          <lb ed="#Z" n="36"/>proprietatis, neque praecipit communionem talem, qualem Anabaptistae uolunt 
+          sta<lb ed="#Z" n="37" break="no"/>tuere. Et quoniam intelligo quosdam ualde pertinaciter literae inhaerere &amp; urgere 
+          <lb ed="#Z" n="38"/>communionem illam, non pigebit &amp; aliorum de hoc iudicium C. V. recitare, 
+          eo<lb ed="#Z" n="39" break="no"/>rum inquam qui ex scripturarum collatione hoc negotium illustrissimum plane 
+          <lb ed="#Z" n="40"/>reddiderunt. Quod Acto. 2. legitur. Omnes autem qui credebant erant 
+          coniun<lb ed="#Z" n="41" break="no"/>cti, non est intelligendum quod monachorum more desertis quisque proprijs 
+          aedi<lb ed="#Z" n="42" break="no"/>bus, in communi ijsdem aedibus conuixerint, sed ut statim eodem loco subditur,  
+          <lb ed="#Z" n="43"/>ln templo erant quotidie perdurantes unanimiter: non quod in aedibus suis interea 
+          <lb ed="#Z" n="44"/>non comederint aut necessitati naturae consuluerint, aut quod uniuersi suas uen 
+          <lb ed="#Z" n="45"/>diderint aedes, cum mox subijciatur, Frangentes panes per singulas domos. Si pa 
+          <lb ed="#Z" n="46"/>nes per singulas domos fregerunt, respondeant isti per quas domos Christiani 
+          <lb ed="#Z" n="47"/>Hierosolymis panes fregerint. Per infidelium ne? Non opinor. Ergo per fidelium 
+          <lb ed="#Z" n="48"/>domos frangebant panem, sumentes cibum. Quomodo igitur uniuersi domos 
+          <!--202.xml-->
+          <pb ed="#Z" n="90-r"/>
+          <lb ed="#Z" n="1"/>suas uendiderunt aut reliquerunt, quomodo coenobitarum more cohabitarunt?  
+          <lb ed="#Z" n="2"/>Nihil ergo est aliud quod Lucas dicit, Quotquot crediderant erant coniuncti 
+          <lb ed="#Z" n="3"/>quam erant frequentes in templo. Nihil ergo fuit illa communicatio bonorum 
+          in<lb ed="#Z" n="4" break="no"/>ter Christianos aliud quam quod ditiores domos, agros, &amp; praedia uendebant, ut 
+          <lb ed="#Z" n="5"/>collatis in unum pecunijs succurreretur pauperioribus, ne famis improbitate 
+          ada<lb ed="#Z" n="6" break="no"/>cti ad ludaismum reuerterentur. Quin plerisque Actorum locis legimus, 
+          Christia<lb ed="#Z" n="7" break="no"/>nos domos &amp; propriarum facultatum sibi retinuisse administrationem, ut Acto. 
+          <lb ed="#Z" n="8"/>9. legitur de Tabitha qua plena fuerit operibus bonis, tunicas &amp; uestes faciens ui 
+          <lb ed="#Z" n="9"/>duis &amp; pauperibus. 12. cap. legimus Petrum apostolum eductum e carcere uenisse 
+          <lb ed="#Z" n="10"/>ad domum Mariae matris Ioannis cognomento Marci, ubi multi erant congregati 
+          <lb ed="#Z" n="11"/>orantes. Non dicit habitantes, sed orantes, ut intelligas in ea domo conuenisse 
+          ec<lb ed="#Z" n="12" break="no"/>clesiam ad orandum, Rursus cap. 9. manet Petrus apud Simonem coriarium dies 
+          <lb ed="#Z" n="13"/>multos, utique apud hominem Christianum aedes suas retinentem. Et cap. 11. disci- 
+          <lb ed="#Z" n="14"/>puli prout cuique suppetebat, subsidium mittebant fratribus habitantibus in ludaea. 
+          <lb ed="#Z" n="15"/>Ecce, Prout cuique, ait, suppetebat. Quid autem cuique suppetere potuisset, si nihil 
+          <lb ed="#Z" n="16"/>possedissent? 16. cap. Lydia purpuraria cum esset baptizata dicebat, Si me fidelem  
+          <lb ed="#Z" n="17"/>domino iudicatis, introite in domum meam, &amp; manete apud me. Cur non dicit,  
+          <lb ed="#Z" n="18"/>Vendite domum meam: sed, Introite in domum meam: nisi quia ita domum suam 
+          <lb ed="#Z" n="19"/>possidebat fidelis facta, ut hanc &amp; apostolis communem faceret? Et cap. 20. gloria 
+          <lb ed="#Z" n="20"/>tur Paulus se non concupiuisse ullius aurum, argentum, aut uestem pretiosam. 
+          <lb ed="#Z" n="21"/>Quam haberent autem ista rationem, si non liceret Christianis retinere rerum 
+          sua<lb ed="#Z" n="22" break="no"/>rum possessionem? Et cap. 21. Philippus Caesariae domum &amp; quatuor filias habet, 
+          <lb ed="#Z" n="23"/>Cur domum suam non uendidit? Et Philemon hospes Pauli, non solum domum, 
+          <lb ed="#Z" n="24"/>sed &amp; seruum habet, Relinquitur ergo pro compertissimo, consilium sancti 
+          spiri<lb ed="#Z" n="25" break="no"/>tus minime fuisse, ut tale uitae genus statuatur quale isti fingunt, sed ut quisque do¬  
+          <lb ed="#Z" n="26"/>mum suam bene gubernet, &amp; fratrum necessitatibus pro sua uirili consulat. Huc  
+          <lb ed="#Z" n="27"/>pertinent loci quoque alij, i. Timoth. 5. ad Titum 2. 1. Thess. 4. &amp; 2. Thess. 3. Et cum 
+          <lb ed="#Z" n="28"/>in omnibus prope epistolis parentibus &amp; liberis, coniugibus, dominis &amp; seruis 
+          <lb ed="#Z" n="29"/>praecipit quid agant, quid aliud quam administrationem domesticam bene 
+          insti<lb ed="#Z" n="30" break="no"/>tuit? Haec hactenus.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e397">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Quid quod diuites fuisse dicuntur multi in euangelio &amp; in scriptis 
+          apostolo<lb ed="#Z" n="32" break="no"/>rum cultores dei: Ioseph ab Arimathaea, qui dominum crucifixum sepeliuit, &amp; di 
+          <lb ed="#Z" n="33"/>ues &amp; discipulus Christi fuisse praedicatur. Diuites erant mulieres quae dominum 
+          <lb ed="#Z" n="34"/>sequutae a Galilaea, domino &amp; discipulis ex suis subministrabant facultatibus. Di 
+          <lb ed="#Z" n="35"/>ues erat Eunuchus reginae Candaces thesaurarius. Diues fuit loppensis Tabitha, 
+          <lb ed="#Z" n="36"/>quam S. Petrus e morte reuocauit in uitam, ac diuitias illas suas liberaliter 
+          sparse<lb ed="#Z" n="37" break="no"/>rat in pauperes. Diues fuit Lydia purpuraria. Diuites fuere innumeri alij uere pij 
+          <lb ed="#Z" n="38"/>&amp; fideles. Ergo quod dominus adolescenti dicit, Si uis perfectus esse, uade uende 
+          <lb ed="#Z" n="39"/>quae habes, &amp; da pauperibus, &amp; habebis thesaurum in coelo, &amp; ueni sequere 
+          me<lb ed="#Z" n="40" break="no"/>non est generalis lex aut doctrina simplex ad omnes pertinens, sed demonstratio  
+          <lb ed="#Z" n="41"/>duntaxat, quod adolescens ille, ad quem haec dixit, nondum usqueadeo perfecte 
+          <lb ed="#Z" n="42"/>legem absoluisset, sicuti absoluisse se existimabat. Nam arbitrabatur sibi nihil 
+          de<lb ed="#Z" n="43" break="no"/>esse. Pluris faciebat adolescens diuitias suas, quam deum &amp; uocem dei mandantis,  
+          <lb ed="#Z" n="44"/>Abijt enim tristis, nec fecit quod imperauerat dominus: itaque declarauit se nondum 
+          <lb ed="#Z" n="45"/>implesse leoem. Sed &amp; ex alijs locis colligere possumus dominum cultores suos 
+          <lb ed="#Z" n="46"/>non deiecisse ad mendicitatem, Nec puduit Paulum apostolum leges ferre 
+          diuiti<lb ed="#Z" n="47" break="no"/>bus, praescribereque quomodo se gerant. Diuitibus, inquit, in praesenti saeculo, 
+          prae<lb ed="#Z" n="48" break="no"/>cipe ne elato sintanimo, neque spem ponant in diuitijs incertis, sed in deo uiuente, 
+          <!--203.xml-->
+          <pb ed="#Z" n="90-v"/>
+          <lb ed="#Z" n="1"/>qui praebet nobis omnia affatim ad fruendum, ut benefaciant, ut diuites sint ope 
+          <lb ed="#Z" n="2"/>ribus bonis, ut faciles sint ad impartiendum, libenter communicantes, reconden 
+          <lb ed="#Z" n="3"/>tes sibi ipsis fundamentum bonum in posterum, ut apprehendant uitam aeternam. 
+          <lb ed="#Z" n="4"/>Huc iam pertinent admonitiones saluatoris dicentis, Non potestis deo seruire &amp;  
+          <lb ed="#Z" n="5"/>mammonae. Item, Diuitiae spinae sunt, quae praefocant semen uerbi dominici. Item,  
+          <lb ed="#Z" n="6"/>Amen dico uobis, diues difficile intrabit in regnum. coelorum. Facilius est 
+          came<lb ed="#Z" n="7" break="no"/>lum per foramen acus transire, quam diuitem in regnum dei ingredi. Et ut animi 
+          <lb ed="#Z" n="8"/>diuitum non sunt deiiciendi aut adigendi ad desperationem, quasi diuites saluari 
+          <lb ed="#Z" n="9"/>non possint: ita rursus admonendi sunt periculorum, ne securi indormiant diui¬  
+          <lb ed="#Z" n="10"/>tijs &amp; seducantur a sathana, abutanturque diuitijs, quin illis potius recte utantur 
+          <lb ed="#Z" n="11"/>iuxta canonem apostolicum iam iam recensitum. Damnauit Gangrensis, sane an 
+          <lb ed="#Z" n="12"/>tiqua synodus, docentes diuites fideles qui non omnibus renunciant quae 
+          possi<lb ed="#Z" n="13" break="no"/>dent, spem apud dominum non habere. S. Augustinus in Catalogo haereticorum 
+          <lb ed="#Z" n="14"/>ponit &amp; numerat Apostolicos. Hi arrogantissime seipsos hoc nomine ornantes,  
+          <lb ed="#Z" n="15"/>non recipiebant in communionem suam, utentes coniugibus &amp; res proprias 
+          pos<lb ed="#Z" n="16" break="no"/>sidentes. Addit, Ideo isti sunt haeretici, quoniam se ab ecclesia separantes, nullam  
+          <lb ed="#Z" n="17"/>spem putant eos habere, qui utuntur his rebus quibus ipsi carent. Encratitis isti si 
+          <lb ed="#Z" n="18"/>miles sunt. Nam &amp; Apotactitae appellantur. Et diuitiae quidem, per se, non sunt 
+          <lb ed="#Z" n="19"/>malae, imo sunt dona dei. Abusus reddit eas prauas. Sed de usu postea dicetur.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e485">
+          <lb ed="#Z" n="20"/><pc type="indent"/> Sequitur iam consideratio de parandis facultatibus siue rebus ad uitam fami 
+          <lb ed="#Z" n="21"/>liamque sustentandam necessarijs. De acquirendis rebus copiosissima est apud 
+          lu<lb ed="#Z" n="22" break="no"/>risperitos disputatio. Tradunt enim res acquiri lure gentium &amp; lure ciuili. lure 
+          <lb ed="#Z" n="23"/>gentium, ut Occupatione. Captiuitate, Inuentione, Natiuitate, Alluuione, 
+          Spe<lb ed="#Z" n="24" break="no"/>cificatione, Accessione, Confusione, Aedificatione. Plantatione, Satione, 
+          Cultu<lb ed="#Z" n="25" break="no"/>ra, Traditione. lure ciuili, ut Vsucapione, Praescriptione, Donatione, 
+          Testamen<lb ed="#Z" n="26" break="no"/>to, Legato, Fideicommisso, Successione, Arrogatione, Adiectione. De quibus 
+          or<lb ed="#Z" n="27" break="no"/>dine disserere nimis operosum &amp; C. V. non admodum utile foret. 
+          Attemperabi<lb ed="#Z" n="28" break="no"/>mus ergo hunc nostrum sermonem nostris moribus, proferemusque nobis maxi- 
+          <lb ed="#Z" n="29"/>me necessaria. Ante omnia claudendus est oculus nequam, ne seducamur nimia 
+          <lb ed="#Z" n="30"/>cupiditate. Lucerna corporis, ait in euangelio dominus, est oculus. Si igitur 
+          ocu<lb ed="#Z" n="31" break="no"/>lus tuus simplex fuerit, totum corpus lucidum erit. Quod si oculus tuus malus 
+          <lb ed="#Z" n="32"/>fuerit, totum corpus tuum tenebrosum erit. Mens hominis fide imbuta &amp; concu 
+          <lb ed="#Z" n="33"/>piscentijs non infecta &amp; corrupta, lumen praefert omnibus actionibus hominis 
+          <lb ed="#Z" n="34"/>Si uero mens fuerit corrupta, corruptae erunt actiones hominis omnes. Copescen 
+          <lb ed="#Z" n="35"/>da est ergo fide &amp; recta opinione nimia cupiditas auaritiaque, quae existunt ex diffi 
+          <lb ed="#Z" n="36"/>dentia, &amp; omnia consilia dicta &amp; facta hominis contaminant atque prophanant. V 
+          <lb ed="#Z" n="37"/>autem compescere ualeamus, coelesti gratia opus est, quam pius quisque pijs ambit 
+          <lb ed="#Z" n="38"/>precibus. Necesse est doctrinam de his saluatoris nostri, &amp; doctrinam sanctorum 
+          <lb ed="#Z" n="39"/>apostolorum eius, semper habeamus ante oculos adeoque pectori nostro teneamus 
+          <lb ed="#Z" n="40"/>insculptam. Neque illa immensa est. Tres recitabimus charitati uestrae locos, duos 
+          <lb ed="#Z" n="41"/>quidem ex euangelio, &amp; tertium ex Paulo: in quibus uelut in compendio 
+          absolu<lb ed="#Z" n="42" break="no"/>tissimo habeatis comprehensa quaecunque requiri possunt a ueris dei cultoribus. In 
+          <lb ed="#Z" n="43"/>euangelio secundum Matthaeum dicit dominus, Ne reponatis uobis thesauros in 
+          <lb ed="#Z" n="44"/>terra, ubi erugo &amp; tinea corrumpit, &amp; ubi fures perfodiunt ac furantur: sed 
+          recon<lb ed="#Z" n="45" break="no"/>dite uobis thesauros in coelo, ubi neque erugo neque dnea corrumpit, &amp; ubi fures non 
+          <lb ed="#Z" n="46"/>perfodiunt neque furantur. Nam ubi fuerit thesaurus uester, ibi erit &amp; cor uestrum, 
+          <lb ed="#Z" n="47"/>Nemo potest duobus dominis seruire. Aut enim unum odio habebit, &amp; alterum  
+          <lb ed="#Z" n="48"/>diliget: aut uni adhaerebit, &amp; alterum contemnet. Non potestis deo seruire &amp; mam¬  
+          <!--204.xml-->
+          <pb ed="#Z" n="91-r"/>
+          <lb ed="#Z" n="1"/>monae. Propterea dico uobis. ne soliciti sitis pro uita uestra quid edatis &amp; quid bi 
+          <lb ed="#Z" n="2"/>batis, neque pro corpore uestro, quibus induamini. Nonne uita pluris est quam ci- 
+          <lb ed="#Z" n="3"/>bus, &amp; corpus pluris quam indumentum? Intuemini uolucres coeli: quia non serunt,  
+          <lb ed="#Z" n="4"/>neque metunt neque conuehunt in horrea, &amp; pater uester coelestis alit illas? Nonne 
+          <lb ed="#Z" n="5"/>uos longe praecellitis illas? Quis autem ex uobis solicite cogitando potest addere 
+          <lb ed="#Z" n="6"/>ad staturam suam cubitum unum? Ac die indumento quid estis soliciti? 
+          Conside<lb ed="#Z" n="7" break="no"/>rate lilia agri quomodo crescant : non laborant neque nent: attamen dico uobis ne 
+          <lb ed="#Z" n="8"/>Solomonem quidem in uniuersa gloria ssua sic amictum fuisse ut unum ex his. Quod 
+          <lb ed="#Z" n="9"/>si gramen agri quod hodie cum sit, cras in clibanum mittitur, deus sic uestit, an 
+          <lb ed="#Z" n="10"/>non multo magis uos, o parum fidentes? Ne sitis igitur soliciti, dicentes, Quid ede 
+          <lb ed="#Z" n="11"/>mus, aut quid bibemus, aut quo operiemur? Nam ista omnia gentes exquitunt.  
+          <lb ed="#Z" n="12"/>Nouit enim pater uester coelestis uos opus habere his omnibus. Quaerite autem  
+          <lb ed="#Z" n="13"/>primum regnum dei, &amp; iustitiam eius, &amp; haec omnia adiincientur uobis. Ne sitis 
+          <lb ed="#Z" n="14"/>igitur soliciti in crastinum. Nam crastinus dies curabit quae sua sunt. Sufficit sua 
+          <lb ed="#Z" n="15"/>diei afflictio. Haec dominus noster apud Matth. in cap. 6.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e588">
+          <lb ed="#Z" n="16"/><pc type="indent"/> Rursus in euangelio secundum Lucam in cap. 12. dicit idem dominus noster,  
+          <lb ed="#Z" n="17"/>Videte &amp; cauete ab auaritia: quia non in eo ut supersit cuipiam, uita eius est ex 
+          <lb ed="#Z" n="18"/>facultatibus ipsius: id est uita non opus hhabet superfluis: uel, nullius uita opus ha 
+          <lb ed="#Z" n="19"/>bet ut illi supersit aliquid. Dixit autem hanc illis similitudinem, Hominis 
+          cuius<lb ed="#Z" n="20" break="no"/>dam diuitis uberes fructus ager attulit, &amp; cogitabat apud se dicens, Quid 
+          fa<lb ed="#Z" n="21" break="no"/>ciam: quia non habeo ubi recodam fructus meos. Et dixit, Hoc faciam, destruam  
+          <lb ed="#Z" n="22"/>horrea mea &amp; maiora extruam, &amp; illuc congregabo omnes prouentus meos &amp;  
+          <lb ed="#Z" n="23"/>bona mea: &amp; dicam animae mees, Anima habes multa bona reposita in multos 
+          an<lb ed="#Z" n="24" break="no"/>nos, requiesce, comede, bibe, gaude. Dixit autem illi deus, Stulte, hac nocte ani 
+          <lb ed="#Z" n="25"/>mam tuam repetunt abs te: quae uero parasti cui cedent? Sic qui recondit sibijpsi 
+          <lb ed="#Z" n="26"/>nec est erga deum diues.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e615">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Praeceptorem &amp; magistrum in omnibbus sequutus S. Paulus uas electionis cla  
+          <lb ed="#Z" n="28"/>mat, Est quaestus magnus pietas cum animo sua sorte contento. Nihil enim intuli 
+          <lb ed="#Z" n="29"/>mus in mundum, uidelicet nec efferre quicquam possumus: sed habentes alimen 
+          <lb ed="#Z" n="30"/>ta &amp; quibus tegamur, his contenti erimus. Caeterum qui uolunt ditescere incidunt 
+          <lb ed="#Z" n="31"/>in tentationem &amp; laqueum &amp; cupiditates multas stultas ac noxias, quae 
+          demer<lb ed="#Z" n="32" break="no"/>gunt homines in exitium &amp; interitum. Siquidem radix malorum omnium est aua 
+          <lb ed="#Z" n="33"/>ritia siue studium pecuniae: quam quidam dum appetunt, aberrauerunt a fide, &amp;  
+          <lb ed="#Z" n="34"/>seipsos implicuerunt doloribus multis. Fu uero homo dei ista fuge, sectare autem  
+          <lb ed="#Z" n="35"/>iustitiam, pietatem, fidem, charitatem, patientiam, mansuetudinem, &amp;c. Quicunque 
+          <lb ed="#Z" n="36"/>ergo laboribus aut negotiatione uictum &amp; necessaria uitae suae &amp; suorum quaere 
+          <lb ed="#Z" n="37"/>re instituit, hisce diuinis praeceptis ceu theriaca ac pharmaco quodam animum  
+          <lb ed="#Z" n="38"/>suum praemuniat contra uenenatas cupiditates &amp; auaritiam pestilentissimam.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e645">
+          <lb ed="#Z" n="39"/><pc type="indent"/> Vbi uero animum antidoto euangelicae &amp; apostolicae doctrinae praemuniuit,  
+          <lb ed="#Z" n="40"/>adiinciat mox animum ad laborem &amp; negotiationem. Deligat autem quisque nego¬  
+          <lb ed="#Z" n="41"/>tiationem utilem &amp; honestam, non curiosam, non ulli damnosam. Otium denique  
+          <lb ed="#Z" n="42"/>fugiat ut pestem. Audiamus rursus hac in causa uerba plane diuina apostoli, Prae 
+          <lb ed="#Z" n="43"/>cipimus uobis fratres per nomen domini nostri Iesu Christi, ut subducatis uos ab  
+          <lb ed="#Z" n="44"/>omni fratre, qui inordinate se gerit et non iuxta institutionem quam accepit a no 
+          <lb ed="#Z" n="45"/>bis. Etenim cum essemus apud uos, hoc praecipiebamus uobis, ut si quis nollet 
+          o<lb ed="#Z" n="46" break="no"/>perari, is nec ederet. Audimus enim quosdam uersantes inter uos inordinate, 
+          ni<lb ed="#Z" n="47" break="no"/>hil operis facientes, sed curiose agentes. lis autem qui sunt eiusmodi praecipimus 
+          <lb ed="#Z" n="48"/>&amp; obsecramus per dominum nostrum Iesum Christum, ut cum quiete operantes 
+          <!--205.xml-->
+          <pb ed="#Z" n="91-v"/>
+          <lb ed="#Z" n="1"/>suum ipsorum panem edant. Damnata sunt omnibus saeculis &amp; apud omnes 
+          ho<lb ed="#Z" n="2" break="no"/>mines cordatos &amp; otia &amp; curiosa negotia. Hesiodus dixit,  
+          <lb ed="#Z" n="3"/>llli pariter indignantur &amp; dij &amp; homines, quisquis otiosus 
+          <lb ed="#Z" n="4"/>Vixerit, fucis absque aculeis similis studio,  
+          <lb ed="#Z" n="5"/>Qui apum opus sine labore comedunt. Sophocles item,  
+          <lb ed="#Z" n="6"/>Nil boni, ait, parit otium inane.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e689">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Deus enim otiantibus haud assistit. Porro curiosa negotia artes sunt male feria 
+          <lb ed="#Z" n="8"/>torum &amp; male ingeniosorum hominum, quibus proximis graues sunt &amp; 
+          impo<lb ed="#Z" n="9" break="no"/>nunt hominibus, exercentes quidem negotiationem aliquam, sed illegitimam &amp;  
+          <lb ed="#Z" n="10"/>alijs inutilem, sibi uero utilissimam: cuius quidem generis usurarij monopolae &amp;  
+          <lb ed="#Z" n="11"/>propolae alijque negotioso otio se saginantes habent artes plurimas. Qui uero non la 
+          <lb ed="#Z" n="12"/>boribus suis uel negotiatione aequa sed per haereditates acceptas diuites sunt, 
+          co<lb ed="#Z" n="13" break="no"/>gitent apud se quo pacto paratae sint opes quae iam ad ipsos per haereditatem 
+          deuo<lb ed="#Z" n="14" break="no"/>lutae sunt: &amp; si intelligunt se haeredes esse opum iniustarum, sint benefici, nec 
+          con<lb ed="#Z" n="15" break="no"/>duplicent malum, ut quod male partum est, iniquissime possideant &amp; sceleratius 
+          <lb ed="#Z" n="16"/>multo concoquant. Ne fidant istis opibus. neque sint otiosi, agant semper aliquid 
+          ho<lb ed="#Z" n="17" break="no"/>nesti. Fere tamen fit, ut male partum male dilabatur. Optimum ergo fuerit uel bo 
+          <lb ed="#Z" n="18"/>ni, iusti &amp; benefici hominis esse haeredem, uel laboribus proprijs &amp; negotiatione 
+          <lb ed="#Z" n="19"/>iusta parare facultates, quibus tuam &amp; familiae uitam sustentes.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e721">
+          <lb ed="#Z" n="20"/><pc type="indent"/> Video autem hic haerere multos, addubitareque primo, an contractus &amp; 
+          com<lb ed="#Z" n="21" break="no"/>mercia licita sint, deinde quae nam negotiatio ex omnibus maxime conueniat ho 
+          <lb ed="#Z" n="22"/>mini pio. His paucula baec expendenda propono. Principio constat contractus fe 
+          <lb ed="#Z" n="23"/>re uoluntarios esse commerciaque spontanea, ut quisque hic quod uelit quod condu 
+          <lb ed="#Z" n="24"/>cat &amp; maxime deceat deliberare &amp; eligere possit. Huius enim generis sunt 
+          com<lb ed="#Z" n="25" break="no"/>mutatio rerum, fideiussio, locatio, conductio, deposito, mutuum, pactio, uenditio,  
+          <lb ed="#Z" n="26"/>emptio, &amp; alia his similima. Hisce rebus, sicut ipsa experientia euincit, carere non 
+          <lb ed="#Z" n="27"/>possunt homines etiam sanctissimi, donec in hoc mundo uiuunt. Nec legis domi 
+          <lb ed="#Z" n="28"/>num ullibi prohibuisse huiusmodi commercia &amp; contractus, imo format illos, 
+          in<lb ed="#Z" n="29" break="no"/>stituens rempub. lsraelis ut agnoscere oporteat illas esse ordinationes diuinas: ab  
+          <lb ed="#Z" n="30"/>usus, dolus, impostura &amp; confidentia in istis prohibentur uerbo dei. Ergo si quis  
+          <lb ed="#Z" n="31"/>
+          <!-- extra line that needs to be deleted -->
+          <lb ed="#Z" n="32"/>ijs utatur moderate, neque innitatur &amp; inhaereat, non peccat. Audiamus denuo 
+          a<lb ed="#Z" n="33" break="no"/>postolum clamantem. Qui habent uxores, sint tanquam non habeant: &amp; qui 
+          plo<lb ed="#Z" n="34" break="no"/>rant, tanquam non plorent: &amp; qui gaudent, tanquam non gaudeant: et qui emunt,  
+          <lb ed="#Z" n="35"/>tanquam non possideant : &amp; qui utuntur mundo hoc, tanquam non utantur. 
+          <lb ed="#Z" n="36"/>Praeterit enim habitus huius mundi. Pari modo nullibi legimus prohibita esse lu 
+          <lb ed="#Z" n="37"/>cra iusta &amp; aequa. Imo benedicit dominus laboribus &amp; negotiationibus suorum,  
+          <lb ed="#Z" n="38"/>ut quemadmodum in uirtutibus ita pariter crescant &amp; in opibus. Exemplum hu 
+          <lb ed="#Z" n="39"/>ius praebent Abraham, Isaac &amp; Iacob. Et apostoli non iubent nos nullum sperare 
+          <lb ed="#Z" n="40"/>lucrum, sed nolunt nos turpis lucri esse cupidos.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e772">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Negotiationes quidem hominum sunt uariae. Ac uarijs quidem multisque indi 
+          <lb ed="#Z" n="42"/>gent res hominum. Est negotium siue labor crassior, qui manibus roboreque 
+          cor<lb ed="#Z" n="43" break="no"/>poris magis quam arte, quamuis non sine ingenio, perficitur. Est &amp; ingenij labor 
+          <lb ed="#Z" n="44"/>subtilior, qui tametsi extra corpus &amp; uires hominis non fiat, ingenio tamen 
+          ma<lb ed="#Z" n="45" break="no"/>gis quam robore perficitur. Prioris generis sunt artificia omnia, siue artes ut 
+          uo<lb ed="#Z" n="46" break="no"/>cant mechanicae, quibus annumeramus mercaturam, agriculturam &amp; pecuariam. 
+          <lb ed="#Z" n="47"/>Posterioris generis sunt studia literarum, medicinae, iurisprudentiae, praesertim 
+          <lb ed="#Z" n="48"/>theologiae, philosophiae quoque, denique gubernatio. Ac patriarchae quidem 
+          homi<lb ed="#Z" n="49" break="no"/>nes innocentissimi &amp; excellentissimi fere fuerunt agricolae, aut exercuerunt pe¬ 
+          <!--206.xml-->
+          <pb ed="#Z" n="92-r"/>
+          <lb ed="#Z" n="1"/>cuariam. Exempla sunt plurima, Abelis, Noe, Abrahae, Isaac, Iacobi, lob, &amp; alio¬  
+          <lb ed="#Z" n="2"/>rum. Leuitae &amp; prophetae uixerunt ex literarum studio siue ministerio ecclesiasti 
+          <lb ed="#Z" n="3"/>co. Mercatura nullibi damnatur in sacris literis: damnantur autem mercatores 
+          <lb ed="#Z" n="4"/>deum non timentes &amp; requirentes, homines uersipelles ac impostores. Nam Iaco 
+          <lb ed="#Z" n="5"/>bus apostolus domini, Age nunc qui dicitis, inquit. Hodie &amp; cras eamus in hane 
+          <lb ed="#Z" n="6"/>ciuitatem &amp; transigamus ibi annum unum, &amp; mercemur &amp; lucrum faciamus (qui 
+          <lb ed="#Z" n="7"/>ignoratis quid futurum sit postero die. Quae est enim uita uestra? Vapor enim est 
+          <lb ed="#Z" n="8"/>qui ad exiguum tempus apparet, &amp; deinde euanescit) pro eo quod dicere debue 
+          <lb ed="#Z" n="9"/>ritis, Si dominus uoluerit, &amp; si uixerimus, faciamus hoc aut illud. Nec 
+          uitupera<lb ed="#Z" n="10" break="no"/>tur in Actis apostolorum purpuraria illa quod uenderet purpuram. Nam in enco 
+          <lb ed="#Z" n="11"/>mio probae matris familias laudatur materfamilias ex mercatura. Ex gubernatio¬  
+          <lb ed="#Z" n="12"/>ne uixerunt optimi quique reges, Ioseph Aegypti saluator, &amp; Daniel satrapa Baby 
+          <lb ed="#Z" n="13"/>loniae &amp; Mediae. Nam ut multa sunt in corpore hominis membra, &amp; uarius est  
+          <lb ed="#Z" n="14"/>usus membrorum, omnia tamen in summa concordia tendunt ad 
+          conseruatio<lb ed="#Z" n="15" break="no"/>nem incolumitatis corporis: ita uaria ordinauit deus negotia &amp; artificia, quae 
+          ta<lb ed="#Z" n="16" break="no"/>men omnia seruire uult incolumitati reipublicae.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e834">
+          <lb ed="#Z" n="17"/><pc type="indent"/> lam uero quae ex his omnibus negotiationibus homini pio amplectenda aut  
+          <lb ed="#Z" n="18"/>suscipienda sit, non est meum pronunciare. Expendat quisque apud se quae 
+          attuli<lb ed="#Z" n="19" break="no"/>mus hucusque, deinde exploret seipsum, ad quas res, aut ad quae negotia animus 
+          <lb ed="#Z" n="20"/>maxime propendeat, ad quae sit utilis &amp; idoneus: inspiciat item diligenter quae ar 
+          <lb ed="#Z" n="21"/>tes sint maxime simplices &amp; secundum naturam, quae item quam minimum cogna 
+          <lb ed="#Z" n="22"/>tionis habeant cum dolo &amp; impostura, aut quae minimum abstrahant a deo &amp; iustitia. 
+          <lb ed="#Z" n="23"/>His expensis deligat quisque quod putauerit maxime conuenire &amp; salutare esse cum 
+          <lb ed="#Z" n="24"/>animae tum corpori suo. Non possumus omnes agros colere, nec congruunt om 
+          <lb ed="#Z" n="25"/>nibus literarum studia, pauci gubernant rempublicam, nec artificijs exercendis 
+          <lb ed="#Z" n="26"/>omnes ubique idonei sunt. Habet suum quisque genium, habet inspirationem a do¬  
+          <lb ed="#Z" n="27"/>mino, habet amicorum consilia &amp; auxilia, habet occasiones uarias, habet regulam  
+          <lb ed="#Z" n="28"/>uerbi dei: hi acquiescat, ut primas interim tribuat praeceptionibus diuinis.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e864">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Caeterum laboranti iam &amp; negotianti, post recitatos canones necessarij sunt 
+          <lb ed="#Z" n="30"/>&amp; sequentes. Principio enim caueda erit cuique profusio siue luxus in cibo, potu, 
+          <lb ed="#Z" n="31"/>uestibus, cultu corporis &amp; aedificijs, fugiendi sumptus inutiles ac uani. Nam do¬  
+          <lb ed="#Z" n="32"/>minus uult unumquemlibet suas retinere non prodigere res. Odit &amp; execratur 
+          <lb ed="#Z" n="33"/>dominus luxum &amp; inanes sumptus siue superbiam. Praeterea qui sui 
+          profu<lb ed="#Z" n="34" break="no"/>sus est, aliena fere appetit : unde innumera exoriuntur mala, furta, insidiae,  
+          <lb ed="#Z" n="35"/>doli, imposturae, adde &amp; caedes ac seditiones. Deinde strenuus sit qui laborat aut  
+          <lb ed="#Z" n="36"/>negotiatur, sit per omnia uigilans &amp; laborum tolerans, non segnis, mollis,  
+          <lb ed="#Z" n="37"/>iners. Fideliter &amp; diligenter agat omnia. Displicet deo ingnauia socordiaue. 
+          <lb ed="#Z" n="38"/>Displicet supina rei familiaris negligentia. Laudat scriptura fideles 
+          laborato<lb ed="#Z" n="39" break="no"/>res, &amp; negotiatores probos &amp; industrios. Audiamus quaeso auream 
+          sapientissi<lb ed="#Z" n="40" break="no"/>mi mortalium Solomonis doctrinam ita dicentis, Ipiger ad formicam, inspice 
+          <lb ed="#Z" n="41"/>uias eius, ut sapiens fias. Ea enim cum neque principem, neque exactorem aut  
+          <lb ed="#Z" n="42"/>ducem habeat, tamen aestate cibum suum parat, &amp; in messe alimentum suum 
+          <lb ed="#Z" n="43"/>comportat. Quandiu piger dormies: &amp; quando a somno tuo surges? Paululum 
+          <lb ed="#Z" n="44"/>dormiendum : paululum dormitandum : paululum complicandae manus ad 
+          dor<lb ed="#Z" n="45" break="no"/>miendum. Interim uero ceu uiator ueniet egestas tua, &amp; inopia tua ceu uir scu 
+          <lb ed="#Z" n="46"/>to munitus, Rursus clamat Dauid in Psalmis, Beati omnes qui timent 
+          domi<lb ed="#Z" n="47" break="no"/>num, qui ambulant in uijs eius. Labores manuum tuarum manducabis, beatus es,  
+          <lb ed="#Z" n="48"/>&amp; bene tibi erit. Quid quod dominus deus Adamum in paradyso &amp; felicissimo 
+          <!--207.xml-->
+          <pb ed="#Z" n="92-v"/>
+          <lb ed="#Z" n="1"/>uitae ftatu noluit otiosum uiuere: Nam culturn horti ipsi iniunxit. Otiosi ergo ho 
+          <lb ed="#Z" n="2"/>mines omnium mortalium infelicissimi sunt: ita &amp; ignaui non aliud sunt, quam  
+          <lb ed="#Z" n="3"/>telluris inutile pondus. Postremo curet negotiator ne cui damnum det sua 
+          nego<lb ed="#Z" n="4" break="no"/>tiatione, Regulam hic sibi praefigat in omnibus negotijs. Quod tibi uelis fieri, 
+          fe<lb ed="#Z" n="5" break="no"/>ceris alteri: &amp; quod tibi nolis fieri, alteri ne feceris. Porro datur damnum 
+          duplici<lb ed="#Z" n="6" break="no"/>ter, nempe retinendo uel auferendo: uidelicet si retineas quod debes, &amp; tuum non 
+          <lb ed="#Z" n="7"/>aest: uel auferas quod alterius est, &amp; quod tibi non debet. Verum de damno in 
+          re<lb ed="#Z" n="8" break="no"/>tinendo aut auferendo dicam iam paulo fusius, ut ex his rectius intelligatur 
+          man<lb ed="#Z" n="9" break="no"/>datum domini, Non furtum facias, &amp; quae nam sint furti species.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e935">
+          <lb ed="#Z" n="10"/><pc type="indent"/> Aiunt furtum esse fraudulosam contrectationem rei alienae, mobilis &amp; corpo 
+          <lb ed="#Z" n="11"/>ralis, quae fit inuito domino, lucri faciendi gratia, uel ipsius rei, uel etiam usus eius,  
+          <lb ed="#Z" n="12"/>possessionisue. Proinde furiosum non dicunt committere furtum : quod in ipso 
+          <lb ed="#Z" n="13"/>nulla sit euidens doli machinatio. Neque illum furti argui posse tradunt, qui per er 
+          <lb ed="#Z" n="14"/>rorem non malitiam alienam rem abstulit pro sua. Caeterum contrectare dicitur 
+          <lb ed="#Z" n="15"/>non is solum qui manibus rem apprehendit, sed qui quouis modo eam subtrahit 
+          <lb ed="#Z" n="16"/>iusti possessoris dominio. Inuito autem domino dici aiunt, non tantum si 
+          uiolen<lb ed="#Z" n="17" break="no"/>ter ipsi eripiatur, sed etiam nescienti: aut si sciat, non possit tamen prohibere: aut 
+          <lb ed="#Z" n="18"/>cum possit, certas ob causas nolit. Nec temere adiungitur furtum fieri lucri 
+          gra<lb ed="#Z" n="19" break="no"/>tia. Nam si quis ludens, aut aliam ob caussam honestam aliquid auferat, minim¬  
+          <lb ed="#Z" n="20"/>furtum committit. Furti uero genera duo faciunt, Manifestum, utpote, in quo 
+          de<lb ed="#Z" n="21" break="no"/>prehenditur fur: &amp; non manifestum, nempe si post furtum furti conuincatur. De 
+          <lb ed="#Z" n="22"/>his copiose disseritur Digestorum lib. 47. tit. 2. &amp;c. Nos redimus ad propositonem 
+          <lb ed="#Z" n="23"/>nostram explicandam.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e970">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Damnum das retinendo, quando in contrahendo non iusta uteris mensura, 
+          <lb ed="#Z" n="25"/>non pondere iusto. Huc pertinet collybus iniustus &amp; fraudulentus. Collybus aunt 
+          <lb ed="#Z" n="26"/>ait Pollux, est permutatio pecuniae. De his recitabimus modo praecepta &amp; senten 
+          <lb ed="#Z" n="27"/>tias domini dei nostri. In Leuitico legis, Ne feceritis quidpiam iniqui in iudicio,  
+          <lb ed="#Z" n="28"/>in dimensione, in pondere &amp; mensura. Bilanx iusta, lapides iusti, epha (modium 
+          <lb ed="#Z" n="29"/>uel quartale mensura aridorum) &amp; hin iustum, diquidorum mensura sextarium  
+          <lb ed="#Z" n="30"/>uel cyathus) iustum sit uobis. Ego dominus deus uester qui eduxi uos e terra Ae- 
+          <lb ed="#Z" n="31"/>gypti. Et in Deuteronomio legimus, Ne sint tibi in sacculo tuo diuersi lapides, ma 
+          <lb ed="#Z" n="32"/>gnus scilicet &amp; paruus. Ne sint tibi in domo tua diuersa epha, magnum scilicet &amp; 
+          <lb ed="#Z" n="33"/>paruum (ut uidelicet in recipiendo aut emendo utaris magno, in erogando autem  
+          <lb ed="#Z" n="34"/>uel uendendo paruo) sed pondus aequum &amp; iustum sit tibi: &amp; epha aequum &amp; iu 
+          <lb ed="#Z" n="35"/>stum sit tibi, ut prorogentur dies tui super terram, quam dominus deus daturus 
+          <lb ed="#Z" n="36"/>est tibi. Nam abominatio domino deo tuo est, quicunque ista facit, &amp; quicunque 
+          in<lb ed="#Z" n="37" break="no"/>quitatem perpetrat. Ad baec pertinet haec Solomonis sententia ex Prouerbijs, 
+          Di<lb ed="#Z" n="38" break="no"/>uerso pondere uti, aut diuersa mensura, ambo haec detestatur &amp; abominatur do¬  
+          <lb ed="#Z" n="39"/>minus. Quid autem grauius &amp; horribilius audiri, imo &amp; cogitari poterat, quam  
+          <lb ed="#Z" n="40"/>hominem esse abominationem deo? Apud Micheam in 6. cap. minatur praeterea 
+          <lb ed="#Z" n="41"/>dominus uarias &amp; graues poenas, quas irrogare uelit iniusto pondere &amp; iniqua  
+          <lb ed="#Z" n="42"/>utentibus mensura. Quin ergo fugiamus iniquitatem &amp; iniustitiam, ac eligamus 
+          <lb ed="#Z" n="43"/>potius felices quam infelices esse, audiamusque ipsum dominum dicentem, Mensu 
+          <lb ed="#Z" n="44"/>ram bonam &amp; pressam &amp; concussam &amp; superfuentem dabunt in sinum uestrum, 
+          <lb ed="#Z" n="45"/>Eadem quippe mensura qua metimini, alij metientur uobis. Persuasissimum 
+          er<lb ed="#Z" n="46" break="no"/>go habeamus, fraude &amp; furto partas res neque diu fsorituras neque futuras 
+          no<lb ed="#Z" n="47" break="no"/>bis salutares.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1026">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Rursus retinendo dant alijs damnum quotquot haereditates alijs debitas oc¬ 
+          <!--208.xml-->
+          <pb ed="#Z" n="93-r"/>
+          <lb ed="#Z" n="1"/>cupant: qui frustrantur &amp; fallunt in contractibus, in pactis aut conuentionibus: 
+          <lb ed="#Z" n="2"/>qui simulant se dare quod dolo malo aut mutant aut apud se retinent, corruptum 
+          <lb ed="#Z" n="3"/>autem aut uitiosum dant. Ea reuera baec deceptio &amp; fraus est siue dolus. Constat 
+          <lb ed="#Z" n="4"/>autem alienarum haereditatum possessores &amp; breui uita, &amp; nulla uti fortuna 
+          feli<lb ed="#Z" n="5" break="no"/>ci. De fraudulentis pronunciat Solomon, fraudulentos nullum inuenturos 
+          lu<lb ed="#Z" n="6" break="no"/>crum. Lucrum enim iniustum utcunque sit grande, detrimentum tamen uerius 
+          <lb ed="#Z" n="7"/>quam lucrum uocari meretur.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1051">
+          <lb ed="#Z" n="8"/><pc type="indent"/> Huc pertinent res inuentae, quas tu repetenti negas, quasi non inueneris uel 
+          <lb ed="#Z" n="9"/>tui sint iuris. Huc pertinet depositum &amp; pignus retentum. Deposuit apud te, qui  
+          <lb ed="#Z" n="10"/>peregre abijt, pocula argentea &amp; auri pondo, quod sperauit ista apud te tuto 
+          la<lb ed="#Z" n="11" break="no"/>tere: tu uero redeunti &amp; reposcenti depositum negas, suffuratus es, praeterea fidem 
+          <lb ed="#Z" n="12"/>amici fefellisti &amp; conduplicasti peccatum. Oppignorauit uir pauper tibi rem sibi 
+          <lb ed="#Z" n="13"/>charam &amp; pretiosam, quam cum repetit annumerata tibi pecunia tua quam 
+          mu<lb ed="#Z" n="14" break="no"/>tuo a te acceperat, negas tu pignus, &amp; confingis calumnias, uterisque dolo malo ut 
+          <lb ed="#Z" n="15"/>pignore fraudes pauperem : suffuratus es pignus. Tulit praeterea dominus alias 
+          <lb ed="#Z" n="16"/>de pignore accipiendo leges populo suo huc quoque pertinentes. In Deut, enim di- 
+          <lb ed="#Z" n="17"/>cit, Nemo pignoris loco accipiat inferiorem &amp; superiorem molarem. Nam is 
+          ui<lb ed="#Z" n="18" break="no"/>tam oppignorauit. Id enim perinde est ac si dixisset, Ne pignoris loco id 
+          accepe<lb ed="#Z" n="19" break="no"/>ris a proximo tuo, quo sibi &amp; suis uictum quaerit ac parat. Vitam enim seu uictum  
+          <lb ed="#Z" n="20"/>illi sustulisses. Et mox, Cum mutuo dederis aliquid proximo tuo, ne ingrediaris 
+          <lb ed="#Z" n="21"/>in domum eius ut pignus inde tollas: sed sta foris, ut uir ille ad te pignus proferat. 
+          <lb ed="#Z" n="22"/>Prohibet truculentiam &amp; ne diuites sint crudeles in scrutandis pauperum 
+          domi<lb ed="#Z" n="23" break="no"/>bus, neue sint morosi in recipiendo pignore. Iterum uero addit dominus, Quod 
+          <lb ed="#Z" n="24"/>si uir huiusmodi pauper est, non dormies in pignore eius : omnino reddes illi 
+          pig<lb ed="#Z" n="25" break="no"/>nus cum sol occidit, ut is dormiat in uestimento suo, beneque &amp; fausta tibi imprece 
+          <lb ed="#Z" n="26"/>tur: &amp; id erit tibi iustitia coram domino deo tuo.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1096">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Postremo grauissimum proximo damnum retinendo dant, quicunque laboris 
+          <lb ed="#Z" n="28"/>mercedem detinent. Detinetur ea dupliciter. Vel enim nunquam soluis 
+          merce<lb ed="#Z" n="29" break="no"/>dem : Vel soluis grauatim, differs diu nimis, sed &amp; de mercede aliquid detrahis,.  
+          <lb ed="#Z" n="30"/>Caeterum uocabulum mercenariorum patet &amp; ipsum latissime, &amp; extendit se ad 
+          <lb ed="#Z" n="31"/>omnes quoque artifices. Vulgus diuitum utitur fere opera artificum, &amp; mercedem  
+          <lb ed="#Z" n="32"/>consignare iubet in codices rationarios, interim cum istos egere intelligit, nihil 
+          <lb ed="#Z" n="33"/>tamen numerat, imo postulantes debitum saeuis dictis excipit &amp; uacuos dimittit. 
+          <lb ed="#Z" n="34"/>lnterea superbiunt stulti &amp; impij diuites, &amp; luxu prodigunt res suas (imo non iam  
+          <lb ed="#Z" n="35"/>suas sed alienas quoque) turpissime. Sed audiamus iudicia &amp; leges dei nostri super 
+          <lb ed="#Z" n="36"/>hac re pronunciatas. In Deut. sic legimus, Ne neges aut ui retineas mercedem 
+          mer<lb ed="#Z" n="37" break="no"/>cenario pauperi &amp; inopi, siue sit de fratribus tuis, siue peregrinis tuis qui sunt in 
+          <lb ed="#Z" n="38"/>terra tua atque intra portas tuas. Die suo dabis ei mercedem suam, neque sol occidat 
+          <lb ed="#Z" n="39"/>super eum: quoniam pauper est &amp; ad mercedem attollit animum suum (id est spe 
+          <lb ed="#Z" n="40"/>uitae collocat in eam, utpote uicturus ex ea) ne contra te ad dominum clamet, &amp;  
+          <lb ed="#Z" n="41"/>cedat tibi in peccatum. Cum hac diuina lege congruunt haec apostoli lacobi 
+          uer<lb ed="#Z" n="42" break="no"/>ba, Ecce merces operariorum, qui messuerunt regiones uestras, quae fraude non  
+          <lb ed="#Z" n="43"/>reddita est a uobis, clamat, &amp; clamores eorum in aures domini sabaoth introierunt,  
+          <lb ed="#Z" n="44"/>Quid horribilius audiri poterat: clamat merces detenta laboris, &amp; clamat quidem  
+          <lb ed="#Z" n="45"/>in coelum: adde, &amp; ingreditur clamor in aures dei iustissimi, seuerissimi, 
+          potentis<lb ed="#Z" n="46" break="no"/>simique? Quid aliud iam expectent fraudatores illi quam poenam grauissimam?  
+          <lb ed="#Z" n="47"/>Rectissime ergo breuissimeque hoc negotium concludens &amp; omnibus optime consu 
+          <lb ed="#Z" n="48"/>lens Tobias, Ne morentur, inquit, apud te ullius hominis, cuius opera usus fueris,  
+          <!--209.xml-->
+          <pb ed="#Z" n="93-v"/>
+          <lb ed="#Z" n="1"/>merces: sed eam protinus illi depende. Etenim tibi quoque deum colenti gratia 
+          <lb ed="#Z" n="2"/>referetur.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1156">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Sequitur membrum alterum, damnum uidelicet quod auferendo datur: id 
+          <lb ed="#Z" n="4"/>quod multiplex est. Primum autem locum habet ipsum furtum, (de quo &amp; paulo 
+          <lb ed="#Z" n="5"/>ante diximus aliquid, ) quod non in pecunia duntaxat ablata committitur, sed in 
+          <lb ed="#Z" n="6"/>mercibus quibusuis, in agris, in terminis transponendis, &amp; in iure cuiusque quod 
+          <lb ed="#Z" n="7"/>transfertur, negatur, aufertur, aut malitiose contraque &amp; citra conscientiam &amp; con 
+          <lb ed="#Z" n="8"/>sensum alterius, hoc est iusti possessoris, differtur. Nam in lege Leuit. 19. ait 
+          domi<lb ed="#Z" n="9" break="no"/>nus, Non furabimini, ne mentiamini, nemo dolo malo agat cum proximo suo. Et 
+          <lb ed="#Z" n="10"/>Paulus ad Ephesios ait, Deposito mendacio, loquamini ueritatem quisque cum pro 
+          <lb ed="#Z" n="11"/>ximo suo : quoniam sumus inuicem membra. Qui furabatur non amplius 
+          fure<lb ed="#Z" n="12" break="no"/>tur, magis autem laboret operando manibus quod bonum est, ut possit impartiri 
+          <lb ed="#Z" n="13"/>ei qui opus habuerit. Haec extendere licet ad omnia pene hominis officia. Qui¬  
+          <lb ed="#Z" n="14"/>cunque enim debitum negat officium, nec facit quod facere iure deberet, in hoc 
+          <lb ed="#Z" n="15"/>mandatum delinquit: ueluti si pater suae familiae suum neget officium: rursus si fa 
+          <lb ed="#Z" n="16"/>milia rem familiarem dissipet, &amp; patremfamilias rite inuigilantem rei domesticae 
+          <lb ed="#Z" n="17"/>decipiat, &amp; prodigendo &amp; suffurando perdat. Item si dominus aut herus (quan¬ 
+          <lb ed="#Z" n="18"/>quam haec referri possint ad titulum de dato damno retinendo) nimis sit rigidus 
+          <lb ed="#Z" n="19"/>colonis suis: aut si coloni otiosi deuorent substantiam domini, uel negligant agri- 
+          <lb ed="#Z" n="20"/>culturam, &amp; luxu prodigant res. Ita peccat seruus in hoc praeceptum, si non om- 
+          <lb ed="#Z" n="21"/>nibus modis omnes res heri sui curet &amp; prouehat fidelissime. Pari modo &amp; in suis 
+          <lb ed="#Z" n="22"/>officijs peccant ancillae contra dominas. Certe apostolus Paulus ad hoc 
+          manda<lb ed="#Z" n="23" break="no"/>tum respiciens praecipit Tito &amp; ait, Seruos hortare ut suis dominis pareant, in om- 
+          <lb ed="#Z" n="24"/>nibus illis placeant nec sint responsatores, aut suffurantes, sed fidem omnem 
+          prae<lb ed="#Z" n="25" break="no"/>stent optimam, ut doctrinam seruatoris nostri dei ornent in omnibus. Paria incul 
+          <lb ed="#Z" n="26"/>cat idem apostolus ad Ephes. 6. Coloss. 3. 1. Tim. 6. Hic enim locum habet doctrina 
+          <lb ed="#Z" n="27"/>de officijs dominorum &amp; seruorum (quod uidelicet attinet rem familiarem) &amp; 
+          <lb ed="#Z" n="28"/>si quid aliud est huius generis.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1216">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Huc pertinent Rapina &amp; Fraus, quarum utraque latissime patet. Fraus immensa 
+          <lb ed="#Z" n="30"/>est: nam iniquitas hominum abyssus est, artes hominum multiplices ac uariae sunt,  
+          <lb ed="#Z" n="31"/>quas nemo facile enumerauerit omnes. Et Rapina uim habet non semper 
+          arma<lb ed="#Z" n="32" break="no"/>tam, sed &amp; ingenio &amp; lingua instructam: nec agunt in syluis duntaxat &amp; campis 
+          <lb ed="#Z" n="33"/>raptores, sed in medijs quoque urbibus. Eripis res suas proximo tuo, titulo aut sub 
+          <lb ed="#Z" n="34"/>specie iuris, nempe dum loquentia muneribus aut alijs artibus extorques apud 
+          <lb ed="#Z" n="35"/>iudices sententiam pro tua iniquitate, rapuisti. Sunt qui donationis titulo 
+          inte<lb ed="#Z" n="36" break="no"/>gras haereditates iustis praeripiunt haeredibus. Hae &amp; similes artes uel imposturae 
+          <lb ed="#Z" n="37"/>partim sub rapinam, partim sub fraudes, omnes autem sub furtum ueniunt.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1240">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Alea quamuis habeat consensum mutuum ludentium, quia tamen quisque 
+          al<lb ed="#Z" n="39" break="no"/>teri suas res eripere ardet, diuisoremque fortunarum caecam fortunam, id est talos 
+          <lb ed="#Z" n="40"/>aut chartas lusorias, constituit, merito alea damnatur a theologis. Et lustinianus 
+          <lb ed="#Z" n="41"/>lmperator, uti extat Cod. lib. 3. tit. ultimo, commodis subiectorum prospiciens, 
+          de<lb ed="#Z" n="42" break="no"/>creuit ut nulli liceat in publicis uel priuatis domibus ludere: quamuis enim 
+          alea<lb ed="#Z" n="43" break="no"/>rum lusus antiqua res sit, prodijsse tamen in lachrymas: multos enim perdere om. 
+          <lb ed="#Z" n="44"/>nem substantiam propriam, tandem &amp; in blasphemias in deum prorumpere. 
+          Alio<lb ed="#Z" n="45" break="no"/>qui nemo ignorat ingenij &amp; corporis exercitia, a ueneno lucri aliena, neque 
+          impli<lb ed="#Z" n="46" break="no"/>cita damno proximi &amp; proprio, non esse illicita.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1263">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Vsura est cum alteri concedis usum tui peculij, utpote agri, uel domus, uel 
+          <lb ed="#Z" n="48"/>pecuniae, uel alterius alicuius rei, unde in annum percipis fructum aliquem. Ha¬ 
+          <!--210.xml-->
+          <pb ed="#Z" n="94-r"/>
+          <lb ed="#Z" n="1"/>bes enim uillam, praedium, agros, prata, pascua, uineas, aedes, pecunias, quas 
+          elo<lb ed="#Z" n="2" break="no"/>cas alteri, sub certa pactione foenoris ad te redeuntis. Hic contractus, haec pactio 
+          <lb ed="#Z" n="3"/>per se non est illicita aut scripturis sanctis damnata. Et Vsurae uocabulum 
+          inho<lb ed="#Z" n="4" break="no"/>nestum non est, abusus reddidit inhonestum, ut non immerito hodie omnibus sit 
+          <lb ed="#Z" n="5"/>abominandum. Damnatur enim usura in scripturis, quatenus coniungitur cum  
+          <lb ed="#Z" n="6"/>iniquitate &amp; pernicie proximi. Quis enim prohibeat elocare usum agri, domus, 
+          <lb ed="#Z" n="7"/>pecuniae, &amp; inde aequum aliquem fructum percipere? Emptio enim, locatio, &amp; si- 
+          <lb ed="#Z" n="8"/>miles contractus liciti sunt. Et ut dantis est benefacere: ita accipientis est benefi- 
+          <lb ed="#Z" n="9"/>cium non gratis usurpare in dantis detrimentum. Beneficij meri alia est 
+          conside<lb ed="#Z" n="10" break="no"/>ratio. De ea legis Lucae sexto capite, Si mutuum dederitis his, a quibus speratis,  
+          <lb ed="#Z" n="11"/>&amp;c. Et lurisperiti de hi ita constituunt, non esse usuram, quando pacto de 
+          retro<lb ed="#Z" n="12" break="no"/>uendendo creditae pecuniae apponitur aliqua pensio extra sortem danda a 
+          debi<lb ed="#Z" n="13" break="no"/>tore: quia mutuum esse desinit, quod ita alterius usui subijcitur, ut debitore 
+          no<lb ed="#Z" n="14" break="no"/>lente, non liceat creditori illud repetere, donec ipse pensionem, ad quam se 
+          debi<lb ed="#Z" n="15" break="no"/>tor astrinxit, soluat. Nam tale creditum transit in contractum emptionis. Dicunt 
+          <lb ed="#Z" n="16"/>ergo Vsuram in solo mutuo (quod debet esse gratuitum) committi, non in 
+          reli<lb ed="#Z" n="17" break="no"/>quis contractibus. Sit in hisce commercijs utrique praefixa regula. Quod tibi uelis 
+          <lb ed="#Z" n="18"/>fieris, alteri feceris : &amp; quod tibi nolis fieri, alteri ne feceris. Et illa apostoli, Nemo 
+          <lb ed="#Z" n="19"/>circumueniat in negotio fratrem suum. Scio quid adferatur de pecunia, hanc 
+          <lb ed="#Z" n="20"/>non ita ut agros &amp; uineas manere, sed usu consumi, ergo nullo iure posse ullum 
+          <lb ed="#Z" n="21"/>a peccunijs fructum percipi. Sed si quis altori det pecuniam, qui praedium aut 
+          uil<lb ed="#Z" n="22" break="no"/>lam, agros aut uineas ea pecunia sibi comparet, negotietur denique &amp; lucretur. 
+          <lb ed="#Z" n="23"/>non uideo cur uir bonus non fructum aequum de pecunia elocata uelut ex 
+          fun<lb ed="#Z" n="24" break="no"/>do aiccipere possit. Potuisset qui elocauit pecuniam, emere praedium, ex quo 
+          to<lb ed="#Z" n="25" break="no"/>tus ad ipsum ementem redijsset fructus: iam uero alteri concedit pecuniae usum 
+          <lb ed="#Z" n="26"/>ad luculentam istius utilitatem. Parat is sibi accepta mutuo aut per contractum 
+          <lb ed="#Z" n="27"/>data pecunia peculium, ex cuius prouentu totam suam alit familiam, portionem 
+          <lb ed="#Z" n="28"/>interim condictam ei pendit, a quo accepit pecuniam, quam cum restituit 
+          inte<lb ed="#Z" n="29" break="no"/>gram, ius proprietatis redemit, ac se a pensione annua liberauit. In hac pactione 
+          <lb ed="#Z" n="30"/>nemo opinor dixerit usura opprimi pauperem, cum ipsa res potius clamet, 
+          pau<lb ed="#Z" n="31" break="no"/>perem usura tali iuuari. Vsura ergo prohibetur in uerbo domini quatenus 
+          mor<lb ed="#Z" n="32" break="no"/>det (ut scripturae uerbo utar) proximum, quatenus ei nocet &amp; ipsum perdit. Sic 
+          <lb ed="#Z" n="33"/>enim dicit dominus in Leuitico, Si ad inopiam fuerit redactus frater tuus, 
+          nuta<lb ed="#Z" n="34" break="no"/>ueriitque manus eius tecum (id est si facultas eius apud te deficere incoeperit) siue 
+          <lb ed="#Z" n="35"/>aduena fuerit, siue inquilinus, corrobora eum ut tecum uiuat. Ne acceperis ab eo 
+          <lb ed="#Z" n="36"/>foenius, neque plus aequo : sed time dominum ut tecum uiuere possit frater tuus,  
+          <lb ed="#Z" n="37"/>Ne des illi pecuniam tuam ad foenus, neque des illi alimentum tuum ad nimium  
+          <lb ed="#Z" n="38"/>siue excessum, siue superabundantiam. Ego dominus deus uester. Improbat 
+          er<lb ed="#Z" n="39" break="no"/>go dominus omnes auarorum &amp; impostorum artes, quibus non tantum modum 
+          <lb ed="#Z" n="40"/>excedunt in foenore exigendo, sed in hunc maxime finem pecunias &amp; res suas 
+          <lb ed="#Z" n="41"/>elocant alijs, ut hac ueluti occasione rebus suis omnibus exuant. Artes 
+          usurario<lb ed="#Z" n="42" break="no"/>rum iniquissimas nemo opinor paucis exposuerit, cum in diem exoriantur noue. 
+          <lb ed="#Z" n="43"/>Recitabo ergo hic domini iudicium contra usurariorum aliquot in mutuando 
+          <lb ed="#Z" n="44"/>locando diuendendoque scelestissimas artes atque sordes, ut quisque deinde 
+          simili<lb ed="#Z" n="45" break="no"/>ter iudicet de similibus. Ita loquitur propheta Amos capite S. Audite istud uos 
+          <lb ed="#Z" n="46"/>qui anheli absorbetis pauperes, &amp; afflictos e terra exterminatis, dicentes, Post men 
+          <lb ed="#Z" n="47"/>sem uenum exponemus annonam, &amp; exacta hebdomade aperiemus frumentum, 
+          <lb ed="#Z" n="48"/>epha diminuemus, siclo autem addemus, &amp; bilancem dolo deprauabimus, ut com¬ 
+          <!--211.xml-->
+          <pb ed="#Z" n="94-v"/>
+          <lb ed="#Z" n="1"/>paremus nobis tenues argento, &amp; inopem pro pari calceamentorum, deinde &amp;  
+          <lb ed="#Z" n="2"/>quisquilias frumento distrahemus. Iurauit dominus per excellentiam ipsius 
+          la<lb ed="#Z" n="3" break="no"/>cob, Non perpetuo obliuioni tradam omnia opera eorum. An non huius rei 
+          gra<lb ed="#Z" n="4" break="no"/>tia terra contremiscat: an non omnis inhabitans eam lugeat. Quin uniuersa ea ut 
+          <lb ed="#Z" n="5"/>fluuius intumescet, &amp;c
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1394">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Proinde ne ira dei in regna &amp; respublicas propter iniquaslusuras &amp; 
+          perdito<lb ed="#Z" n="7" break="no"/>perdentesque usurarios deseuiat sancti magistratus erit cohercere usurarios aequis  
+          <lb ed="#Z" n="8"/>legibus, constituereque pro temporum &amp; locorum, personarum &amp; rerum 
+          qualita<lb ed="#Z" n="9" break="no"/>te, quod aequum iustum &amp; sanctum fuerit ne in mutuando, elocando, emendo, &amp;  
+          <lb ed="#Z" n="10"/>uendendo usurarij miserum opprimant populum, sed aequitas &amp; iustitia 
+          serue<lb ed="#Z" n="11" break="no"/>tur in omnibus. Habet huius sui officij elegans exemplum magistratus in 
+          Nehe<lb ed="#Z" n="12" break="no"/>mia cohercente auaritiam, crudelitatem, &amp; summam iniustitiam usurariorum &amp;  
+          <lb ed="#Z" n="13"/>oppressorum miserae plebeculae lsraeliticae. Extat fuse descriptum in historia Ne- 
+          <lb ed="#Z" n="14"/>hemiae cap. 5. Iniquis ergo &amp; iniustis negotiatoribus &amp; usurarijs eorumque auaritiae 
+          <lb ed="#Z" n="15"/>nolo his patrocinari: sed dico illos uictitare sanguine &amp; ex uisceribus ciuium: &amp;  
+          <lb ed="#Z" n="16"/>certe damnandos fore, nisi poeniteat eos sceleris. Obiicio illis hoc ueluti naturae 
+          <lb ed="#Z" n="17"/>decretum,. Quod tibi nolis fieri, alteri ne feceris. Veniebant &amp; publicani ad Ioan 
+          <lb ed="#Z" n="18"/>nem ut baptizarentur ab ipso, &amp; dicebant, Magister quid faciemus? At ille dixit 
+          <lb ed="#Z" n="19"/>eis, Nihil amplius quam quod constitutum est uobis exigatis. Publicani 
+          uictita<lb ed="#Z" n="20" break="no"/>bant ex publicis illis uectigalibus, quae redemerant certa &amp; praesenti pecunia a Ro- 
+          <lb ed="#Z" n="21"/>manis. Publicanos autem hos non iubebat relinquere negotiationem, sed 
+          consti<lb ed="#Z" n="22" break="no"/>tuto pretio esse contentos. Ita usurarijs &amp; negotiatoribus omnibus idem inculco, 
+          <lb ed="#Z" n="23"/>Nihil amplius quam quod constitutum est uobis exigatis. Quod si certa constitu 
+          <lb ed="#Z" n="24"/>tione aut ordinatione magistratus caretis, age ualeat apud uos aequitas, humani¬  
+          <lb ed="#Z" n="25"/>tas &amp; charitas, ualeat lex communis. Omnia quaecunque uolueritis ut faciant 
+          uo<lb ed="#Z" n="26" break="no"/>bis homines, sic &amp; uos facite illis. Si oculus tuus simplex fuerit, ait dominus, totum 
+          <lb ed="#Z" n="27"/>corpus lucidum erit: quod si lumen quod est in te, tenebrae fuerint, ipse tenebrae 
+          <lb ed="#Z" n="28"/>quantae?
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1447">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Sacrilegium direptio est rerum sacrarum, deo inquam dicatarum. Habet enim  
+          <lb ed="#Z" n="30"/>ecclesia dei opes uel facultates sacras, quibus partim doctrinam synceram seu mi- 
+          <lb ed="#Z" n="31"/>nisterium ecclesiae sanctum, partim pauperes ecclesiae fideles sustentet. Habet item 
+          <lb ed="#Z" n="32"/>opes ad sarta tectaque templi aediumque sacerdotalium, &amp; xenodochiorum aut ho 
+          <lb ed="#Z" n="33"/>spitalium : denique ad subuentionem communem in publicis &amp; grauibus calami¬  
+          <lb ed="#Z" n="34"/>tatibus. Sacrilegi ergo sunt, qui facultates ecclesiasticas a legitimo &amp; sacro usu ad 
+          <lb ed="#Z" n="35"/>prophanum &amp; impium transserunt, illasque prodigunt uenationibus, pompis, 
+          su<lb ed="#Z" n="36" break="no"/>perstitionibus, scortatione, alea, poculis &amp; luxu. Quibus rebus hodie grauiter 
+          <lb ed="#Z" n="37"/>peccatur cum ab episcopis tum magistratibus. Nec est quod abusum illum 
+          foedissi<lb ed="#Z" n="38" break="no"/>mum aliud consequatur quam ingens aliquod infortunium, nec una aliqua aut  
+          <lb ed="#Z" n="39"/>modica calamitas. Nam ut in pauperibus ipse dei filius Christus dominus noster 
+          <lb ed="#Z" n="40"/>spoliatur atque defraudatur: ita interit doctrina pietatis, pereunt studia honesta, ac 
+          <lb ed="#Z" n="41"/>destituuntur oues Christi bonis &amp; fidelibus pastoribus, fiuntque praeda lupis &amp; 
+          la<lb ed="#Z" n="42" break="no"/>tronibus. Caeterum inter sacrilegos minime recensendi sunt proceres &amp; antistites 
+          <lb ed="#Z" n="43"/>sancti religionis, quales fuerunt aliquot reges luda, &amp; in primis Ezechias, ac 
+          ali<lb ed="#Z" n="44" break="no"/>quot ueteris ecclesiae episcopi uel pastores, qui grauibus bellis atterentibus respu 
+          <lb ed="#Z" n="45"/>blicas uel regna, aut fame, uel alia calamitate publica premente, imo &amp; conficiente 
+          <lb ed="#Z" n="46"/>miseros mortales, thesauris illis sacris minime pepercerunt, sed euacuatis scrinijs 
+          <lb ed="#Z" n="47"/>subuenerunt sacra pecunia oppressis. Fuissent autem enormes sacrilegi, si inani¬  
+          <lb ed="#Z" n="48"/>matis uasis perpecissent, animata autem ab interitu non uindicassent. Elegans est 
+          <!--212.xml-->
+          <pb ed="#Z" n="95-r"/>
+          <lb ed="#Z" n="1"/>hac de re locus apud D. Ambrosium Officiorum lib. 2. cap. 2g. Sunt &amp; exempla 
+          <lb ed="#Z" n="2"/>egregia in Ecclessiastica historia. Inter sacrilegos comemorantur a theologis &amp; 
+          Si<lb ed="#Z" n="3" break="no"/>moniaci, Chanamei inquam, id est mercatores rerum diuinarum &amp; ecclesiastica. 
+          <lb ed="#Z" n="4"/>rum. Talis enim refertur fuisse horum patriarcha Simon Magus in Actis 
+          aposto<lb ed="#Z" n="5" break="no"/>lorum. In iure ciiuili qui ambitiose suffragia hominis clancularijs largitionibus 
+          <lb ed="#Z" n="6"/>emunt, ut ipsis publica munera &amp; dignitates conferantur, incidunt in crimen am  
+          <lb ed="#Z" n="7"/>bitus, &amp; centum aureis cum infamia puniebantur quondam. Sed quia haec nihil 
+          <lb ed="#Z" n="8"/>ad sacrilegium, redimus in uiam. Sacrilegi sunt quicunque bona ecclesiae debita. 
+          <lb ed="#Z" n="9"/>decimas scilicet &amp; census, uel non soluunt, uel maligne soluunt. Extant minae atro 
+          <lb ed="#Z" n="10"/>ces prophetarum contra sacrilegos. Haggeus testatur non aliam esse caussam 
+          qua<lb ed="#Z" n="11" break="no"/>re fruges male uel parce proueniant, quam quod populus non solueret quae debe 
+          <lb ed="#Z" n="12"/>bat templo. Apud Malachiam fertilitatem promittit populo si liberaliter soluat tri 
+          <lb ed="#Z" n="13"/>buta &amp; uectigalia ecclesiastica. Possunt autem ministri ecclesiarum ijs 
+          uectigali<lb ed="#Z" n="14" break="no"/>bus uti iure optimo, perinde ut alij utuntur prouentu agri a se culti. Id quod testa 
+          <lb ed="#Z" n="15"/>tur dominus Numeri 18. cui succinit apostolus 1. Cor. 9. Sed &amp; ipse dominus 
+          le<lb ed="#Z" n="16" break="no"/>sus de stipendio suo eleemosynas pauperibus distribuebat, uti uidere est apud lo 
+          <lb ed="#Z" n="17"/>annem in cap. 13. Sacrilegium committunt &amp; mendici, nomine Christi abutentes,  
+          <lb ed="#Z" n="18"/>&amp; egestatem praetexentes ignauiae. Praecipit Timotheo apostolus ne ignauos 
+          hu<lb ed="#Z" n="19" break="no"/>iusmodi hypocritas recipiat in curam ecclesiae. Sacrilegium uero omnium maxi- 
+          <lb ed="#Z" n="20"/>mum est, si quis gloriam dei transferat ad creaturas.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1542">
+          <lb ed="#Z" n="21"/><pc type="indent"/> Peculatus furti genus est quod committitur in opibus publicis, aut pertinen 
+          <lb ed="#Z" n="22"/>tibus ad principem. Parit hoc nouas subinde exactiones, ut maior sit occasio atque  
+          <lb ed="#Z" n="23"/>copia expilandi improbis magnatibus. Propter hos forte dixit Cato Romanus,  
+          <lb ed="#Z" n="24"/>Priuati fures in neruo &amp; compede uitam agunt, publici uero in auro &amp; purpura. 
+          <lb ed="#Z" n="25"/>Peculatores sunt praeterea omnes qui tributa &amp; uectigalia magistratui debita uel 
+          <lb ed="#Z" n="26"/>non pendunt uel pendunt maligne. Peculatores sunt omnes quotquot abutuntur 
+          <lb ed="#Z" n="27"/>opibus publicis.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1561">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Plagiarij sunt qui quos liberos norunt uendunt, aut seruos alienos furto ab¬  
+          <lb ed="#Z" n="29"/>ducunt : genus furti appellant plagium. In hunc censum ueniunt qui seditione, 
+          <lb ed="#Z" n="30"/>per suasione, doctrinaque seditiosa mancipia siue seruos &amp; ancillas abstrahunt ab  
+          <lb ed="#Z" n="31"/>obedientia dominorum, liberos a reuerentia &amp; obseruantia parentum. Cumque im  
+          <lb ed="#Z" n="32"/>peratores mercenariae militiae inuitis parentibus cohortes militum, 
+          promissioni<lb ed="#Z" n="33" break="no"/>bus dementatos &amp; artibus irretitos, abducant, qui nunquam ad parentes redeunt,  
+          <lb ed="#Z" n="34"/>sed in bello pereunt, aliquem certe inter plagiarios locum habent. Quondam fuit 
+          <lb ed="#Z" n="35"/>capitale plagium, sicuti claret ex 21. cap. Exodi, &amp; lege Constantini, quae habetur 
+          <lb ed="#Z" n="36"/>Cod. lib. 9. titulo 20.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1585">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Abigei sunt qui &amp; abactores dicuntur, ac iumenta aliena abducunt. Quibus  
+          <lb ed="#Z" n="38"/>annumerantur qui mutuo acceptis abutuntur iumentis: qui item periclitantibus,  
+          <lb ed="#Z" n="39"/>cum possent, non subueniunt. Nam dominus in lege errantia reducere iussit, &amp;  
+          <lb ed="#Z" n="40"/>suo restituere domino.
+        </p>
+        <p xml:id="UD1xh4-D2jg3q-d1e1597">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Haec hactenus fratres dixi de uarijs furti speciebus, &amp; iuste acquirendis 
+          opi<lb ed="#Z" n="42" break="no"/>bus, adde &amp; de rerum proprietate.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 1</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 1</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="177-v"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-Y2eV31"><!-- d4s1 --> 
+        <head xml:id="UD1xh4-Y2eV31-Hd1e106">Sermo 1</head>
+        <head xml:id="UD1xh4-Y2eV31-Hd1e109" type="question-title">
+       De Euangelio gratiae dei, qui filium mundo dedit, et; in hoc uerae salutis omnia, ut credentes 
+       in ipsum, uitam consequamur aeternam.
+      </head>
+        <p xml:id="UD1xh4-Y2eV31-d1e112">
+          <!--377.xml-->
+          <pb ed="#Z" n="177-v"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> De Euangelio gratiae dei, qui filium mundo dedit, &amp; in hoc uerae salutis omnia, ut credentes 
+          <lb ed="#Z" n="2"/>in ipsum, uitam consequamur aeternam. SERMO I. 
+          <lb ed="#Z" n="3"/>OS T expositonem legis, eorumque capitum quae cum lege cognata 
+          <lb ed="#Z" n="4"/>sunt, aut legi utcunque adhaerent, transeundum modo uidetur ad tra 
+          <lb ed="#Z" n="5"/>ctationem Euangelij, cuius in expositone legis &amp; alias crebra inci 
+          <lb ed="#Z" n="6"/>dit mentio. Quemadmodum autem hactenus charitatis uestrae pre 
+          <lb ed="#Z" n="7"/>cibus ad deum adiutus sum, ita preces uestras iterum, &amp; 
+          ardentissi<lb ed="#Z" n="8" break="no"/>mas quidem illas, in praesenti caussa, postulo.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e137">
+          <lb ed="#Z" n="9"/><pc type="indent"/> EVANGELIVM uox est Graeca, sed a Latinis &amp; Germanis recepta, 
+          ho<lb ed="#Z" n="10" break="no"/>dieque ueluti propria usurpata. Componitur ab eu, quod bonum est, &amp; gyeao nun 
+          <lb ed="#Z" n="11"/>cio. Significat ergo euangelium bonum nuncium seu felicem praedicationem: 
+          qua<lb ed="#Z" n="12" break="no"/>lis fit cum fusis hostibus, uel urbem obsidione graui liberauimus, uel claram ab 
+          ho<lb ed="#Z" n="13" break="no"/>stibus reportauimus uictoriam. Attribuitur cuilibet fausto nuncio de re quauis 
+          <lb ed="#Z" n="14"/>feliciter perfecta. Libenter ea uoce usi sunt apostoli: non tam quod prophetae eam  
+          <lb ed="#Z" n="15"/>prius quoque usurparunt, quam quod salutis nostrae negotium per Christum perfe 
+          <lb ed="#Z" n="16"/>ctum, cui accommodarunt, mirifice &amp; comprehendit &amp; oculis uelut spectandum  
+          <lb ed="#Z" n="17"/>proponit. Inducit lsaias Christum dominum ita loquentem, beato Luca interpre 
+          <lb ed="#Z" n="18"/>te, Spiritus domini super me, propterea quod unxit me, quaeaVenioudoe, id est, ad 
+          e<lb ed="#Z" n="19" break="no"/>uangelisandum uel ad praedicandum euangelium misit me, ut sanem contritos 
+          <lb ed="#Z" n="20"/>corde, ut praedicem captiuis remisionem, &amp; caecis uisum, ut emittam confractos 
+          <lb ed="#Z" n="21"/>per remisionem, ut praedicem annum domini acceptum. En ipse Saluator apud 
+          <lb ed="#Z" n="22"/>prophetam &amp; euangelistam exponit nobis uocabulum euangelij, quale sit, aut 
+          <lb ed="#Z" n="23"/>quid possit, Misit me pater, inquit, ut annunciem euangelium pauperibus. Mox 
+          <lb ed="#Z" n="24"/>autem quinam illi pauperes sint, subiungit. Qui sunt contrito corde, uel animo con 
+          <lb ed="#Z" n="25"/>fracto, nimirum qui nihil integritatis aut sanitatis in seipsis reperiunt, totique de suis 
+          <lb ed="#Z" n="26"/>desperantes uiribus, a medico Christo pendent. Euangelium porro quod afflictis 
+          <lb ed="#Z" n="27"/>his annunciatur, tale est, uenisse coelitus dei filium sanandis morbidis. Quibus 
+          in<lb ed="#Z" n="28" break="no"/>super &amp; alia coniungit illustrandi gratia, uenisse dei filium, ut praedicet captiuis 
+          <lb ed="#Z" n="29"/>remisionem, &amp; caecis uisum, &amp;c. Etenim tenentur captiui omnes mortales in 
+          uin<lb ed="#Z" n="30" break="no"/>culis damnationis: omnes seruiunt seruitutem grauissimam sub tyranno 
+          crude<lb ed="#Z" n="31" break="no"/>lissimo sathana: omnes caeci, detinentur in tenebris errorum. Atque his 
+          annuncia<lb ed="#Z" n="32" break="no"/>tur redemptio uel liberatio, uerus utique annus iubileus. Haec uero annunciatio lae 
+          <lb ed="#Z" n="33"/>tissima appellatur Euangelium.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e195">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Euangelium ergo ab omnibus fere definitur ad hunc modum. Euangelium 
+          <lb ed="#Z" n="35"/>est uerbum bonum &amp; suaue, testimoniumque certissimum diuinae erga nos gratiae 
+          <lb ed="#Z" n="36"/>in Christo credentibus exhibitae. Vel, Euangelium est clarissima aeterni dei 
+          coeli<lb ed="#Z" n="37" break="no"/>tus delata sententia, absoluentis omnes credentes ab omnibus peccatis, &amp; id 
+          qui<lb ed="#Z" n="38" break="no"/>dem gratis, propter Christum, promittentisque uitam aeternam. Colliguntur baec ex 
+          <lb ed="#Z" n="39"/>testimonijs euangelistarum &amp; apostolorum. Nam S. Lucas inducit angelum do¬  
+          <lb ed="#Z" n="40"/>mini loquentem ad pauidos attonitosque pastores, ac dicentem, Ne timeatis: ecce 
+          <lb ed="#Z" n="41"/>enim euangelizo uobis gaudium magnum, quod futurum est toti populo: quia 
+          <!--378.xml-->
+          <pb ed="#Z" n="178-r"/>
+          <lb ed="#Z" n="1"/>natus est uobis hodie seruator, qui est Christus dominus in ciuitate Dauid. Exi- 
+          <lb ed="#Z" n="2"/>mit pastoribus omnem pauorem euangelio, id est, annunciatione salutifera, quae 
+          ple<lb ed="#Z" n="3" break="no"/>na est gaudij. Ea est, quod natus est saluator mundi Christus dominus : &amp; nobis 
+          <lb ed="#Z" n="4"/>quidem, id est, in salutem hominum natus. S. Paulus dicit Euangelium esse a deo 
+          pro<lb ed="#Z" n="5" break="no"/>missum ante, per prophetas, in scripturis sanctis, de filio suo, qui genitus sit ex se 
+          <lb ed="#Z" n="6"/>mine Dauid, secundum carnem, qui declaratus sit filius dei cum petentia, secundum 
+          <lb ed="#Z" n="7"/>spiritum sanctificationis, ex eo quod resurrexit ex mortuis. Et iterum, Euangelium 
+          <lb ed="#Z" n="8"/>est praeconium Iesu Christi, iuxta reuelationem mysterij, temporibus aeternis taciti,  
+          <lb ed="#Z" n="9"/>manifestati uero nunc, &amp; per scripturas propheticas, iuxta delegationem aeterni 
+          <lb ed="#Z" n="10"/>dei, in obedientiam fidei, in omnes gentes patefacti. Idem adhuc breuius, Euangelium 
+          <lb ed="#Z" n="11"/>est potentia dei, ait, ad salutem omni credenti. Id est, Euangelium est praedicatio diui  
+          <lb ed="#Z" n="12"/>nae potentiae, per quam saluantur credentes. Potentia autem dei Christus est. Hic  
+          <lb ed="#Z" n="13"/>enim brachium dicitur patris, gloria eiusdem, uirtus &amp; splendor. Caeterum credenti 
+          <lb ed="#Z" n="14"/>salutaris est Christus, &amp; omni quidem credenti. Omnium enim saluator est.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e252">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Ex his omnibus talem colligimus sancti euangelij descriptionem, 
+          Euange<lb ed="#Z" n="16" break="no"/>lium est coelestis diuinae erga nos gratiae praedicatio, qua toti mundo in 
+          indigna<lb ed="#Z" n="17" break="no"/>tione dei constituto, annunciatur deus &amp; pater ille coelestis placatus in filio suo 
+          <lb ed="#Z" n="18"/>unigenito, domino nostro Iesu Christo, quem sicut patribus sanctis olim promise 
+          <lb ed="#Z" n="19"/>rat, nobis exhibuerit, &amp; in ipso plene omnia uitae beatae &amp; salutis aeternae, utpote 
+          <lb ed="#Z" n="20"/>qui pro nobis incarnatus, mortuus, ex mortuis iterum excitatus, &amp; in coelum subla 
+          <lb ed="#Z" n="21"/>tus, dominus &amp; saluator solus constitutus sit noster, modo peccata nostra agnoscen 
+          <lb ed="#Z" n="22"/>tes, credamus in eum.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e273">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Longa est descriptio, fateor: sed illud quoque apud te cogites uelim, negotium 
+          <lb ed="#Z" n="24"/>quod hic describitur &amp; ipsum esse amplissimum copiosissimumque: quod iccirco &amp;  
+          <lb ed="#Z" n="25"/>definitione &amp; descriptione, omnium oculis, qua potui luce, clarissimum 
+          exposui<lb ed="#Z" n="26" break="no"/>Paucioribus ergo uti, nec potui nec debui. Habet descriptio illa suas partes, 
+          qui<lb ed="#Z" n="27" break="no"/>bus sigillatim explicatis illustratisque, quisque spero perspiciet totam euangelij 
+          natu<lb ed="#Z" n="28" break="no"/>ram, caussas, effectus, &amp; quaecunque de ipso cognoscere conuenit.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e290">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Principio Euangelium coeleste esse nuncium, non terrenum, illud maxime 
+          ar<lb ed="#Z" n="30" break="no"/>guit, quod ipse pater coelestis primum annunciauit euangelium afflictis parentibus 
+          <lb ed="#Z" n="31"/>nostris in paradyso : promittens filium suum, qui incarnandus caput serpentis sit 
+          <lb ed="#Z" n="32"/>conculcaturus. Deinde apostolus Paulus disertis uerbis, Deus, inquit, multifariam 
+          <lb ed="#Z" n="33"/>multisque modis locutus est patribus, per prophetas, extremis uero diebus hisce lo 
+          <lb ed="#Z" n="34"/>cutus est nobis per filium. Nam &amp; Ioannes prior testificans, dixisse legitur, Deum  
+          <lb ed="#Z" n="35"/>nemo uidit unquam: unigenitus filius qui est in sinu patris, ipse enarrauit. Item  
+          <lb ed="#Z" n="36"/>Qui e supernis uenit, supra omnes est. Qui e terra profectus est, terrenus est, &amp; e 
+          <lb ed="#Z" n="37"/>terra loquitur. Qui e coelo uenit, supra omnes est, &amp; quod uidit &amp; audiuit, hoc te 
+          <lb ed="#Z" n="38"/>statur. Huc pertinet quod prophetae credunt inspirati a sancto spiritu prophetasse, 
+          <lb ed="#Z" n="39"/>At hi praenunciarunt in scripturis sanctis euangelium: Cuius quidem potissima 
+          ca<lb ed="#Z" n="40" break="no"/>pita coelitus descendentes angeli, hominibus annunciauerunt. Nam incarnatio fi- 
+          <lb ed="#Z" n="41"/>lij dei, ab archangelo Gabriele primum diuae uirgini, deinde Iosepho putatiuo pa 
+          <lb ed="#Z" n="42"/>renti adeoque castissimae uirginis tutori, annunciatur. Idem angelus pastoribus praedi 
+          <lb ed="#Z" n="43"/>cat natiuitatem filij dei. Mulieribus uero ad sepulchrum uenientibus, uolentibusquam, 
+          <lb ed="#Z" n="44"/>pro more gentis, corpus domini inungere, angeli nunciant dominum resurrexisse 
+          <lb ed="#Z" n="45"/>ex mortuis. Iidem apostolis, ascendente domino, conuertentibus defixisque suis in 
+          nu<lb ed="#Z" n="46" break="no"/>bes oculis, attestantur ipsum esse sublatum in coelum, indeque uenturum iudicare 
+          <lb ed="#Z" n="47"/>uiuos &amp; mortuos. His omnibus accedit patris eterni e coelo super dominum nostrum 
+          <lb ed="#Z" n="48"/>delata uox. Hic est filius meus dilectus, in quo placatus sum, ipsum audite. Et 
+          <!--379.xml-->
+          <pb ed="#Z" n="178-v"/>
+          <lb ed="#Z" n="1"/>hoc patris testimonium maximo spiritu prosequens repetit beatus apostolus Pe- 
+          <lb ed="#Z" n="2"/>trus in 2epist. cap. 5. Proinde sermo euangelij diuinus est sermo, coelo delatus, 
+          ir<lb ed="#Z" n="3" break="no"/>refragabilisque, cui qui credunt, uerbo aeterni dei credunt: qui non credunt, uerbum 
+          <lb ed="#Z" n="4"/>dei uiui contemnunt atque abijciunt. Non enim desinit esse uerbum dei, licet 
+          annun<lb ed="#Z" n="5" break="no"/>cietur per homines. Nam de apostolis legimus dixisse dominum, Non uos estis lo 
+          <lb ed="#Z" n="6"/>uentes, sed spiritus patris mei qui in uobis est. Ideoque non leguntur discessisse 
+          <lb ed="#Z" n="7"/>Hierosolyma, nisi prius instructi ex alto, &amp; accepto spiritu sancto. Nec est quod 
+          <lb ed="#Z" n="8"/>uerbum dei ad apostolos duntaxat alligemus, quasi post apostolos nemo 
+          praedi<lb ed="#Z" n="9" break="no"/>cet uerbum dei. Nam dominus noster diserte dicit apud Ioannem, Amen dico uo- 
+          <lb ed="#Z" n="10"/>bis, qui recipit quencunque misero, me recipit: qui autem me recipit, recipit eum qui 
+          <lb ed="#Z" n="11"/>me misit. Mittit autem dominus noster, summus ille pontifex ecclesiae suae 
+          catho<lb ed="#Z" n="12" break="no"/>licae, non apostolos tantum, sed omnes legitime uocatos, afferentesque uerbum Chri- 
+          <lb ed="#Z" n="13"/>sti. Ergo de omnibus ministris ecclesiae legitimis intelligimus quae ore diuino in 
+          <lb ed="#Z" n="14"/>haec uerba pronunciata legimus, Quorumcunque remiseritis peccata, remittuntur 
+          <lb ed="#Z" n="15"/>eis: quoruncunque retinueritis, retenta sunt eis. Et iterum, Quicquid solueris in ter 
+          <lb ed="#Z" n="16"/>ra, erit solutum in coelis: &amp; quicquid alligaueris in terra, erit alligatum &amp; in coelo. 
+          <lb ed="#Z" n="17"/>Nam alibi quoque dicit dominus, Amen dico uobis, Tolerabilius erit terrae 
+          Sodo<lb ed="#Z" n="18" break="no"/>morum &amp; Gomorrheorum in die iudicij, quam ciuitati illi quae uos non excipit,  
+          <lb ed="#Z" n="19"/>neque sermones uestros audit. Quis uero ignorat quam nephario scelere se 
+          pollue<lb ed="#Z" n="20" break="no"/>rint defoedarintque ciues Sodomae: &amp; quod dominus igni sulphure &amp; pice coelitus 
+          <lb ed="#Z" n="21"/>demissis, sceleratissimos concremauerit? Quis ergo non colligat inde multo 
+          pec<lb ed="#Z" n="22" break="no"/>care grauius rebelles &amp; blasphemos contra Christi euangelium, eosdemque iusto uin 
+          <lb ed="#Z" n="23"/>dici deo multo grauiores poenas uel hic uel in futuro saeculo, uel utrobique 
+          datu<lb ed="#Z" n="24" break="no"/>ros : Credamus ergo euangelio filij dei, mundo a patre primum, deinde a 
+          patriar<lb ed="#Z" n="25" break="no"/>chis, mox a prophetis, tandem &amp; ab unigenito dei filio &amp; apostolis eius annuncia 
+          <lb ed="#Z" n="26"/>to: quorum uox coelestis uel hodie nobis personat in ore ministrorum euangelium 
+          <lb ed="#Z" n="27"/>nobis syncere praedicantium.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e400">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Deinde considerandum nobis quid annunciet mundo coelestis illa praedicatio  
+          <lb ed="#Z" n="29"/>euangelij. Gratiam utique patris nostri coelestis. Nam apostolus Paulus in Actis 
+          <lb ed="#Z" n="30"/>cap. 20. dicit se accepisse ministerium a domino Iesu, ad testificandum euangelium 
+          <lb ed="#Z" n="31"/>gratiae dei. Dicendum ergo in praesenti de gratia dei, quantum huic loco satis sit. 
+          <lb ed="#Z" n="32"/>Varius est autem uocabuli graties usus in literis sacris, quemadmodum &amp; in 
+          pro<lb ed="#Z" n="33" break="no"/>phanis literis. Significat in sacris gratiarumactionem: item beneficium &amp; eleemo 
+          <lb ed="#Z" n="34"/>synam, ut 2. Corinth. S. Significat &amp; laudem &amp; recompensationem, ueluti cum 
+          <lb ed="#Z" n="35"/>apostolus dicit, Si cum bene facitis, affligimini, suffertis: ea est gratia apud deum,  
+          <lb ed="#Z" n="36"/>Significat &amp; facultatem, ut cum dicimus aliquem habere gratiam docendi, &amp; fun 
+          <lb ed="#Z" n="37"/>ctionem gerendi officij. Apostolus enim dicit se accepisse gratiam: ac mox per 
+          in<lb ed="#Z" n="38" break="no"/>terpretationem subiungit, muneris apostolici functionem. Praeterea dona dei gra 
+          <lb ed="#Z" n="39"/>tia appellantur: quia gratis conseruntur. Apostolus tamen ad Rom. 5. cap. 
+          distin<lb ed="#Z" n="40" break="no"/>guit donum a gratia. Etenim Gratia fere significat fauorem &amp; beneuolentiam nu 
+          <lb ed="#Z" n="41"/>minis erga nos. Donum uero, ipsum munus quod datur a deo ex beneuolentia, ut  
+          <lb ed="#Z" n="42"/>est fides, constantia, integritas. Gratiam apud deum inuenisse dicuntur, quibus im 
+          <lb ed="#Z" n="43"/>pendio fauet deus, &amp; quos complectitur ex animo. Sic Noe inuenit gratiam in 
+          <lb ed="#Z" n="44"/>oculis domini: Ioseph inuenit gratiam in oculis principis carceris. Et diua uirgo 
+          <lb ed="#Z" n="45"/>legitur inuenisse gratiam apud dominum: nimirum quod esset deo dilecta, in ma 
+          <lb ed="#Z" n="46"/>ximo apud deum pretio, utpote quam singulariter delegerat.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e445">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Caeterum hoc loco Gratia est dei fauor beneuolentiaque numinis aeterni, qua pro 
+          <lb ed="#Z" n="48"/>immensa sua bonitate homines gratis propter Christum complectitur, uocat, iu¬ 
+          <!--380.xml-->
+          <pb ed="#Z" n="179-r"/>
+          <lb ed="#Z" n="1"/>stificat, &amp; saluat. Videtur autem ante omnia indaganda esse caussa diuini erga 
+          <lb ed="#Z" n="2"/>nos amoris. Videmus enim quandam esse correlationem inter fauorem dei, &amp; nos 
+          <lb ed="#Z" n="3"/>quos fauore suo prosequitur. Nec difficile nec prolixi operis erit inuenire. Nam  
+          <lb ed="#Z" n="4"/>in nobis nihil est quod miretur deus, uel quo possit moueri uel excitari ad nos con 
+          <lb ed="#Z" n="5"/>plectendos: imo quoniam omnes sumus peccatores impurissimi, &amp; ille interim  
+          <lb ed="#Z" n="6"/>sanctus &amp; iustus, scelerumque uindex est, in nobis certe inuenit, propter quod 
+          irasca<lb ed="#Z" n="7" break="no"/>tur iustaque prosequatur uindicta. Caussam ergo diuini erga nos amoris, non in no 
+          <lb ed="#Z" n="8"/>bis, non extra deum in re ulla alia, quando homine nihil sit praestantius, sed in ip 
+          <lb ed="#Z" n="9"/>so deo eiusque natura esse oportet. Porro scriptura ueracissima proponit nobis deum 
+          <lb ed="#Z" n="10"/>natura sua bonum, clementem, &amp; ut Paulus dicit, philanthropon, amatorem 
+          in<lb ed="#Z" n="11" break="no"/>quam hominum, qui suae naturae filium unicum pro rendemptione nostra miserit: 
+          <lb ed="#Z" n="12"/>unde iam consequens est, deum gratis ex semetipso &amp; propter filium, non propter 
+          <lb ed="#Z" n="13"/>ullam aliam caussam amare hominem. Vbi protinus omnia praeparamenta, 
+          inci<lb ed="#Z" n="14" break="no"/>tamenta, aut merita hominum igni diuini amoris dissoluta abeunt in fumum. Nam  
+          <lb ed="#Z" n="15"/>gratia dei prorsus est gratuita, ac nisi sit talis, non uideo quomodo appellari 
+          pos<lb ed="#Z" n="16" break="no"/>sit gratia. Sed praestat in re maximi momenti aperta scripturae sanctae testimonia 
+          <lb ed="#Z" n="17"/>proferre, quibus animi nostri confirmentur contra omnes nugas sophisticas &amp; sa 
+          <lb ed="#Z" n="18"/>thanicas tentationes. Dominus noster in euangelio, Sic deus, inquit, dilexit mun 
+          <lb ed="#Z" n="19"/>dum, ut filium suum unigenitum daret pro mundo : ut omnis qui credit in eum, 
+          <lb ed="#Z" n="20"/>non pereat, sed habeat uitam aeternam. En dilectio dei, quae est fauor ille amorque 
+          <lb ed="#Z" n="21"/>numinis nos coplectentis, caussa est salutis nostrae. Nam Christus passus pro 
+          no<lb ed="#Z" n="22" break="no"/>bis salus nostra est. At hunc ex dilectione dedit nobis pater deus. Neque cogitare 
+          <lb ed="#Z" n="23"/>possumus deum nostra dilectione commotum esse ad amorem mutuum, &amp; ut pro 
+          <lb ed="#Z" n="24"/>nobis daret filium. Nam ante conditum mundum statuit nos redimere per filium. 
+          <lb ed="#Z" n="25"/>Sed &amp; ipse Ioannes euangelista in Canonica fua, In hoc est charitas, inquit non 
+          <lb ed="#Z" n="26"/>quod nos dilexerimus deum: sed quod ipse dilexerit nos, &amp; misit filium suum 
+          pro<lb ed="#Z" n="27" break="no"/>pitiationem pro peccatis nostris.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e516">
+          <lb ed="#Z" n="28"/><pc type="indent"/> His testimonijs licet clarissimis &amp; firmissimis, subiungemus tamen aliquot 
+          S<lb ed="#Z" n="29" break="no"/>Pauli testimonia, ut sic plus lucis caussae nostrae affulgeat &amp; inclarescat maximus 
+          <lb ed="#Z" n="30"/>totius doctrinae euangelicae &amp; apostolicae consensus. Paulus ergo ad Romanos,  
+          <lb ed="#Z" n="31"/>Omnes, ait, peccauerunt &amp; destituuntur gloria dei. lustificantur autem gratis,  
+          <lb ed="#Z" n="32"/>per illius gratiam, per redemptionem quae est in Christo Iesu. Idem ad Ephesios scri- 
+          <lb ed="#Z" n="33"/>bit, Gratia estis seruati per fidem, idque non ex uobis: dei donum est, non ex operi- 
+          <lb ed="#Z" n="34"/>bus, ne quis glorietur. Item ad Titum, Bonitas &amp; erga homines amor apparuit ser 
+          <lb ed="#Z" n="35"/>uatoris nostri dei : non ex operibus iustitiae nostrae, quae faciebamus nos: sed secun 
+          <lb ed="#Z" n="36"/>dum suam misericordiam saluos nos fecit. Ita in 2. ad Timoth. 5. cap. dicit, Deus sal. 
+          <lb ed="#Z" n="37"/>uos fecit nos &amp; uocauit uocatione sancta, non secundum opera nostra, sed secun 
+          <lb ed="#Z" n="38"/>dum suum propositum &amp; gratiam, quae data est nobis per Christum. Non 
+          arbi<lb ed="#Z" n="39" break="no"/>tror his pro caussa nostra uel fingi potuisse aliud &amp; appositum magis &amp; euiden¬  
+          <lb ed="#Z" n="40"/>tius. Claret iam omnino dei gratiam prorsus esse gratuitam, utpote omnia nostra 
+          <lb ed="#Z" n="41"/>ppera &amp; merita excludentem. Et hic gratuius dei amor est unica euangelij 
+          caus<lb ed="#Z" n="42" break="no"/>sa origoque uerissima. Vnde nimirum a Paulo euangelium appellatur gratiae.  
+          <lb ed="#Z" n="43"/>praeconium.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e555">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Porro etsi gratia dei a nobis non pendeat, attamen non manet uel heret in deo 
+          <lb ed="#Z" n="45"/>otiosa, quasi extra nos alienaque a nobis, ut quae nec sentiatur nec operetur in 
+          no<lb ed="#Z" n="46" break="no"/>bis. Intelleximus enim ex citatis testimonijs, gratiam fauorem esse in deo qua nos 
+          <lb ed="#Z" n="47"/>homines prosequatur. Intelleximus gratia saluari homines: Quia enim diligit 
+          ho<lb ed="#Z" n="48" break="no"/>mines deus, perire noluit, iccirco ex gratia filium misit, qui liberet ab interitu, &amp; in 
+          <!--381.xml-->
+          <pb ed="#Z" n="179-v"/>
+          <lb ed="#Z" n="1"/>quo inclarescat toti mundo &amp; iustitia dei &amp; misericordia. Atqui liberantur soli cre 
+          <lb ed="#Z" n="2"/>dentes, rursus ergo quod gratia operetur in homine habet. Effuso enim spiritu 
+          <lb ed="#Z" n="3"/>sancto in corda nostra, intellectus &amp; uoluntas in fide instruuntur. Breuiter, 
+          gra<lb ed="#Z" n="4" break="no"/>tia (quod &amp; in finitione diximus) uocat, iustificat &amp; saluat, siue glorificat 
+          creden<lb ed="#Z" n="5" break="no"/>tes : ut totum salutis nostrae negotium omnesque uirtutes piorum unicae dei gratiae 
+          <lb ed="#Z" n="6"/>(cuius operationem ubique agnoscimus) feramus acceptum. Id rursus diuino adde 
+          <lb ed="#Z" n="7"/>&amp; humano ostenditur testimonio. Paulus ad Romanos. Quos, inquit, praesciuit,  
+          <lb ed="#Z" n="8"/>eosdem &amp; praefiniuit : &amp; quos praefiniuit, eosdem &amp; uocauit : &amp; quos uocauit,  
+          <lb ed="#Z" n="9"/>eosdem &amp; iustificauit: quos autem iustificauit, hos &amp; glorificauit. Quid igitur di- 
+          <lb ed="#Z" n="10"/>cemus ad haec? Si deus pro nobis, quis contra nos? Qui proprio filio non pepercit,  
+          <lb ed="#Z" n="11"/>sed pro nobis omnibus tradidit illum, qui fieri potest, ut non &amp; cum eodem om- 
+          <lb ed="#Z" n="12"/>nia nobis donet: Idem ad Ephesios primo capite totum electionis &amp; salutis 
+          nego<lb ed="#Z" n="13" break="no"/>tium cum omnibus suis partibus ad gratiam dei retulit. Porro sancti patres in 
+          Con<lb ed="#Z" n="14" break="no"/>cilio Mileuentano, inter quos sedit &amp; beatus Augustinus, de gratia dei sequens 
+          <lb ed="#Z" n="15"/>condiderunt decretum, Si quis sine gratia dei, credentibus, uolentibus, desideran 
+          <lb ed="#Z" n="16"/>tibus, conantibus, studentibus, petentibus, quaerentibus, pulsantibus nobis, 
+          mise<lb ed="#Z" n="17" break="no"/>ricordiam dicit conferri diuinitus, non autem ut credamus, uelimus, uel haec om 
+          <lb ed="#Z" n="18"/>nia, sicut oportet omnia agere ualeamus, per infusionem &amp; inspirationem sancti 
+          <lb ed="#Z" n="19"/>spiritus in nobis fieri confitetur: &amp; aut humilitati aut obedientiae humanae, subiun 
+          <lb ed="#Z" n="20"/>git gratiae adiutorium: nec ut obedientes &amp; humiles simus ipsius gratiae donum 
+          <lb ed="#Z" n="21"/>esse consentit, resistit apostolo dicenti, Quid enim habes quod non accepisti? Et 
+          <lb ed="#Z" n="22"/>gratia dei sum id quod sum. Haec illi. Expensis autem his cum diuinis tum huma 
+          <lb ed="#Z" n="23"/>nis testimonijs, neminem porro futurum arbitror, qui non intelligat id esse dei 
+          gra<lb ed="#Z" n="24" break="no"/>tiam quod diximus, nempe fauorem beneuolentiamque numinis aeterni, qua pro 
+          <lb ed="#Z" n="25"/>immensa sua bonitate homines gratis propter Christum complectatur, uocet, 
+          iu<lb ed="#Z" n="26" break="no"/>stificet &amp; saluet.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e630">
+          <lb ed="#Z" n="27"/><pc type="indent"/> D. Aurel. Augustino grauis fuit pugna cum Pelagio Brittone super negotio 
+          <lb ed="#Z" n="28"/>gratiae dei. Hic enim per gratiam aliud nihil intelligebat quam beneficium 
+          ctea<lb ed="#Z" n="29" break="no"/>tionis: quod ut ille non negabat esse gratiam, ita urgebat apostolos maxime loqui 
+          <lb ed="#Z" n="30"/>de gratia illa gratuita qua gratis nullo nostro merito propter Christum seruamur. 
+          <lb ed="#Z" n="31"/>Hoc eo constantius urgebat, quod uideret Pelagium haereticum asserere 
+          huma<lb ed="#Z" n="32" break="no"/>nam naturam sibi sufficere, non solum ad facienda, uerum etiam ad perficienda 
+          <lb ed="#Z" n="33"/>mandata domini per liberum arbitrium. Sed de his religiosissime &amp; copiosissime 
+          <lb ed="#Z" n="34"/>disputat S. August. epist. 95. ad Innocentium. Ex neotericis plerique gratiam partiti 
+          <lb ed="#Z" n="35"/>sunt, docendi caussa, in gratiam gratum facientem, &amp; gratis datam. Item in 
+          gra<lb ed="#Z" n="36" break="no"/>tiam operantem, &amp; cooperantem. Denique in gratiam praeeuntem uel 
+          praeuenien<lb ed="#Z" n="37" break="no"/>tem, &amp; subsequentem. llli ipsi operationes seu effectus gratiae hoc ferme modo 
+          an<lb ed="#Z" n="38" break="no"/>numerant, Gratia sanat animam, efficitque eadem ut uelit bonum, deinde quod uo 
+          <lb ed="#Z" n="39"/>luit, efficaciter operetur: sed &amp; in bono perseueret, &amp; tandem ad gloriam 
+          perue<lb ed="#Z" n="40" break="no"/>niat sempiternam.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e664">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Caeterum nos non tam soliciti sumus in recensendis aliorum sententijs quid 
+          <lb ed="#Z" n="42"/>quisque senserit: quod praeterea immensi laboris, nec meae esset facultatis: quam in 
+          <lb ed="#Z" n="43"/>proferenda sententia scripturae sanctae (quae una &amp; sola est recte iudicandi sentien 
+          <lb ed="#Z" n="44"/>dique regula) quid illa inquam nos sentire iubeat. Id quod in superiore nostra disser 
+          <lb ed="#Z" n="45"/>tatione de gratia dei &amp; breuiter &amp; luculenter satis ostendisse spero. Sed &amp; 
+          conse<lb ed="#Z" n="46" break="no"/>quens disputatio de Christo, in quo excellentissimam in nos gratiam coelestem 
+          <lb ed="#Z" n="47"/>transfudit pater, sarciet si quid illis deesse uidetur.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e683">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Priusquam autem hinc discedamus, admonendum existimaui, non inter se 
+          <!--382.xml-->
+          <pb ed="#Z" n="180-r"/>
+          <lb ed="#Z" n="1"/>oracula uerbi dei confligere, cum legimus uel audimus saluari homines gratia 
+          <lb ed="#Z" n="2"/>dei uel gratis: saluari dilectione dei: saluari per misericordiam dei: saluari per Chri 
+          <lb ed="#Z" n="3"/>stum: saluari per sanguinem uel mortem, uel incarnationem Christi: saluari per fi 
+          <lb ed="#Z" n="4"/>dem in Christum, uel in misericordiam aut gratiam dei. Haec enim omnia in idem  
+          <lb ed="#Z" n="5"/>recidunt, &amp; omnem gloriam caussamque salutis humanae, uerae dei misericordiae,  
+          <lb ed="#Z" n="6"/>uel gratiae transcribunt. Gratiae pignus imo saluator est unigenitus dei filius do¬  
+          <lb ed="#Z" n="7"/>minus noster in mortem traditus. Meram gratiam in Christo apprehendit 
+          syn<lb ed="#Z" n="8" break="no"/>cera fides.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e710">
+          <lb ed="#Z" n="9"/><pc type="indent"/> Ideoque exposits ijs quae in genere de gratia dei dicere, pro mea exilitate potui, 
+          <lb ed="#Z" n="10"/>descendo iam ad singulare illud gratiae dei opus tractandum, quod non est aliud, 
+          <lb ed="#Z" n="11"/>quam quod misericors pater nobis exhibuit filium, ad eum omnino modum, ac 
+          <lb ed="#Z" n="12"/>quem nobis in prophetis promisit, &amp; in ipso omnia plene beatae uitae aeternaeque sa 
+          <lb ed="#Z" n="13"/>lutis : cum ipse sit dominus &amp; Messias, siue saluator unicus &amp; uerus, qui pro 
+          no<lb ed="#Z" n="14" break="no"/>bis incarnatus, mortuus, exuscitatus &amp; in coelos receptus est. Nam Christus rex 
+          <lb ed="#Z" n="15"/>&amp; pontifex, id est saluator noster, scopus imo stella, ipseque sol est praedicationis 
+          e<lb ed="#Z" n="16" break="no"/>uangelicae. In istis autem sigillatim explicandis hoc utemur ordine. Principio 
+          re<lb ed="#Z" n="17" break="no"/>citabimus eximias aliquot e lege &amp; prophetis promisiones de Christo ecclesiae a 
+          <lb ed="#Z" n="18"/>deo propositas, &amp; eas maxime quas &amp; ipsi attigerunt apostoli Christi. Deinde 
+          de<lb ed="#Z" n="19" break="no"/>monstrabimus deum praestitisse quod promisit, id est ostendemus quod filium suum 
+          <lb ed="#Z" n="20"/>unigenitum nobis exhibuit : &amp; quod is sit uerus &amp; expectatus ille dominus &amp;  
+          <lb ed="#Z" n="21"/>Messias siue saluator. Postremo indicabimus in filio hoc, patrem mundo esse 
+          pla<lb ed="#Z" n="22" break="no"/>catum, uel reconciliatum: in quo etiam dederit nobis plene omnia uitae beatae &amp;  
+          <lb ed="#Z" n="23"/>salutis aeternae. Ipse enim incarnatus est pro nobis, mortuus &amp; ex mortuis 
+          excita<lb ed="#Z" n="24" break="no"/>tus, postremo &amp; in coelum receptus. Atque in his latent uiuae euangelij uenae, 
+          pro<lb ed="#Z" n="25" break="no"/>fundentes salutares aquas ad uitam aeternam. In his enim est solida consolatio fi- 
+          <lb ed="#Z" n="26"/>delium, &amp; tranquillitas placidissima. Sine his non est ulla uita uel quies.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e753">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Promissiones de Christo a deo in scriptura sancta edite, triplices sunt. Ita uero 
+          <lb ed="#Z" n="28"/>perspicuitatis gratia unius &amp; eiusdem generis promisiones iuxta tempora 
+          par<lb ed="#Z" n="29" break="no"/>tior. Priores sunt factae Patriarchis, uel primis illis patribus ante legem latam: &amp;  
+          <lb ed="#Z" n="30"/>hae rursus sunt duplicis generis. Aliae enim planae sunt, simplicibus sententijs,  
+          <lb ed="#Z" n="31"/>absque ulla figura uel typo enunciatae. Aliae uero typicae &amp; figuratae sunt. Prima &amp;  
+          <lb ed="#Z" n="32"/>clarissima promissionum fit ex ipso dei ore ad parentes nostros Adamum &amp; Euam, 
+          <lb ed="#Z" n="33"/>morte &amp; calamitatibus diroque pauore oppressos: quae ueluti columna &amp; 
+          funda<lb ed="#Z" n="34" break="no"/>mentum est totius religionis Christianae &amp; praedicationis euangelicae: ex qua om 
+          <lb ed="#Z" n="35"/>nes fere aliae promisiones dependent. Sic autem dicit dominus, Inimicitias ponam 
+          <lb ed="#Z" n="36"/>inter te(serpentem intelligit ipsum sathanam) &amp; inter illam mulierem: inter semen 
+          <lb ed="#Z" n="37"/>tuum &amp; femen illius: ipsum conteret tibi caput : &amp; tu conteres eius calcaneum. 
+          Se<lb ed="#Z" n="38" break="no"/>men promittit his uerbis deus, &amp; semen quidem non uiri, sed mulieris: &amp; excellen 
+          <lb ed="#Z" n="39"/>tissimae quidem mulieris, nimirum beatissimae uirginis Maries, benedictae illius 
+          in<lb ed="#Z" n="40" break="no"/>ter mulieres. Ea enim non ex semine uiri, sed ex spiritu sancto concepit, &amp; uirgc 
+          <lb ed="#Z" n="41"/>peperit Christum dominum: qui moriendo &amp; resurgendo caput, id est regnum sa 
+          <lb ed="#Z" n="42"/>thanae, ipsum, inquam, peccatum, mortem &amp; condemnationem non tantum 
+          uexa<lb ed="#Z" n="43" break="no"/>uit uel uulnerauit, sed contriuit, omni sathanica potestate seu tyrannide e medio 
+          <lb ed="#Z" n="44"/>sublata. Interim sathanas calcaneum Christi contriuit: id est, id quod in Christo 
+          <lb ed="#Z" n="45"/>quasi infimum erat, carnem, exquisitissime per membra sua, Caiapham, Pontium 
+          <lb ed="#Z" n="46"/>Pilatum, per ludaeos &amp; Gentes tormentis &amp; morte attriuit atque confecit. Dicit 
+          e<lb ed="#Z" n="47" break="no"/>nim in Psalmis dominus, Vermis sum &amp; non homo. In puluerem redegerunt 
+          ui<lb ed="#Z" n="48" break="no"/>tam meam. Verum resurrexit iterum ex mortuis. Alioqui enim caput serpentis 
+          <!--383.xml-->
+          <pb ed="#Z" n="180-v"/>
+          <lb ed="#Z" n="1"/>non contriuisset, factusque est saluator omnium credentium in ipsum. Ex hac 
+          pro<lb ed="#Z" n="2" break="no"/>misione deriuatur singularis &amp; celebris illa, quam patri nostro Abrahae hisce uer 
+          <lb ed="#Z" n="3"/>bis angelus domini recitat, Benedicentur in semine tuo omnes gentes orbis. At 
+          <lb ed="#Z" n="4"/>Paulus ad Galatas disertis uerbis declarat nostrum illud esse semen benedictum 
+          <lb ed="#Z" n="5"/>Abrabae promissum. Semen autem appellatur dominus noster propter primam  
+          <lb ed="#Z" n="6"/>illam promisionem Adamo &amp; Euae factam, &amp; quoniam propter nos incarnatus 
+          <lb ed="#Z" n="7"/>&amp; uerus homo factus est. Nec pugnat haec promissio cum prima. Licet enim semen 
+          <lb ed="#Z" n="8"/>uel filius Abrahae nunc nominetur Christus dominus, non tamen alia ratione ad 
+          <lb ed="#Z" n="9"/>Abrahamum refertur, quam per uirginem, quae erat filia Abrabae &amp; mater Chri- 
+          <lb ed="#Z" n="10"/>sti domini. Quid autem confert nobis sua incarnatione filius Abrahe? Benedicit. 
+          <lb ed="#Z" n="11"/>Benedictio autem opponitur maledictioni. Ergo quicquid contraximus ex 
+          Ada<lb ed="#Z" n="12" break="no"/>mi peccato maledictionis, id sanat in nobis Christus, &amp; benedicit nos omni 
+          bene<lb ed="#Z" n="13" break="no"/>dictione spirituali. Nec beneficium hoc paucis confert, sed omnibus totius orbis 
+          <lb ed="#Z" n="14"/>gentibus, in ipsum credentibus.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e840">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Iacob patriarcha inspiratus spiritu dei, fata filiorum &amp; res futuras praedicens,  
+          <lb ed="#Z" n="16"/>ubi ad ludam filium uenisset, inter alia ait, Non recedet sceptrum de luda, &amp; legis  
+          <lb ed="#Z" n="17"/>lator (uel scriba) de pedibus eius, donec ueniat Schilo, &amp; ad illum gentes confluent 
+          <lb ed="#Z" n="18"/>En his non tantum promittitur Messias, sed insuper ostenditur tempus, quando 
+          <lb ed="#Z" n="19"/>incarnandus sit, ostenditur item quis &amp; quantus ille futurus sit, Regnum, inquit  
+          <lb ed="#Z" n="20"/>permanebit sub luda usque ad Christi aduentum. Et quamuis tribus luda reges non 
+          <lb ed="#Z" n="21"/>sit semper habitura, non deerunt tamen proceres, duces, legislatores, docti ac prae 
+          <lb ed="#Z" n="22"/>sides populi. Ideoque fides euangelicae historiae testatur Christum uenisse tunc cum  
+          <lb ed="#Z" n="23"/>omnis potestas imperitandi translata esset ad Romanos, quorum lmperatori Au 
+          <lb ed="#Z" n="24"/>gusto censum ludaei appenderunt. Schilo autem significat felicitatem siue 
+          autho<lb ed="#Z" n="25" break="no"/>rem felicitatis, copiaecornu &amp; abundantiam omnium rerum optimarum. Thesau 
+          <lb ed="#Z" n="26"/>rus enim omnium bonorum Christus est. Et Chaldaeus interpres pro Schilo 
+          re<lb ed="#Z" n="27" break="no"/>posuit Christus. Caeterum confluent ad ipsum, ut saluatorem suum, omnes 
+          gen<lb ed="#Z" n="28" break="no"/>tes: quod &amp; prophetae postea clarissime declarauerunt, Isaias in capite secundo, 
+          <lb ed="#Z" n="29"/>&amp; Michaeas in 4.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e876">
+          <lb ed="#Z" n="30"/><pc type="indent"/> Porro typi &amp; figurae Christi sunt, Noe in arca seruatus. Nam seruantur 
+          fide<lb ed="#Z" n="31" break="no"/>les in Christo: sicuti S. Petrus testatur, 5. Pet. 3. Immolatur ab Abrahamo filius uni 
+          <lb ed="#Z" n="32"/>genitus lsaac, &amp; in iugo quodam eius montis, in quo post multos annos 
+          immola<lb ed="#Z" n="33" break="no"/>tur dei filius. Venditur ethnicis a fratribus suis Ioseph. Coniicitur idem in 
+          carce<lb ed="#Z" n="34" break="no"/>rem: sed liberatus saluator fit, &amp; ab omni populo conseruator salutatur regni Ae- 
+          <lb ed="#Z" n="35"/>yptiaci. Haec omnia praefigurarunt Christum dominum, 
+          <lb ed="#Z" n="36"/>&amp; <!-- extra line that needs to be deleted -->
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e897">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Posteriores promisiones &amp; ipsae sunt duplices, retectae &amp; uelatae siue 
+          figura<lb ed="#Z" n="38" break="no"/>tae. Continentur autem in lege &amp; in prophetis ad tempora usque captiuitatis Baby 
+          <lb ed="#Z" n="39"/>sonicae. Prophetiam, de uenturo propheta omnium maximo, Mosis, citat beatus 
+          <lb ed="#Z" n="40"/>apostolus Petrus in Actis cap. 3. Figuratae promisiones Christi sunt sacrificia, quae 
+          <lb ed="#Z" n="41"/>Paulus in epistola ad Hebreos enarrat miro copendio. Agnum pascalem idem in 
+          <lb ed="#Z" n="42"/>Sprioris ad Corinthios una cum beato Petro in 1. capite prioris epistolae 
+          accom<lb ed="#Z" n="43" break="no"/>modat Christo. Idem petram percussam &amp; aqua manantem, appellat Christum,  
+          <lb ed="#Z" n="44"/>Ipse Christus dicit in euangelio Ioannis, se praefiguratum esse aeneo serpente exal 
+          <lb ed="#Z" n="45"/>tato in deserto : cuius mysterium alicubi plenius enarraui. Sunt alia huius generis 
+          <lb ed="#Z" n="46"/>plurima: quorum non minimam partem attigi cum dissererem de Caeremonijs &amp;  
+          <lb ed="#Z" n="47"/>earum, significatione. Vnde qui uolet repetat. Non figuratae promisiones fere 
+          <lb ed="#Z" n="48"/>sunt innumerae in Psalmis &amp; prophetis. Sed &amp; ipse dominus in euangelio 
+          secun<lb ed="#Z" n="49" break="no"/>dum Lucam, testatur totum suum negotium descriptum contineri in lege, in 
+          <!--384.xml-->
+          <pb ed="#Z" n="181-r"/>
+          <lb ed="#Z" n="1"/>prophetis, &amp; in Psalmis. Cumque S. Petrus euangelium praedicasset, &amp; in hoc Chri 
+          <lb ed="#Z" n="2"/>stum ac remisionem peccatorum promisisset omnibus credentibus, subiungit pro 
+          <lb ed="#Z" n="3"/>tinus, Quin &amp; omnes prophetae a Samuele ac deinceps quotquot locuti sunt 
+          an<lb ed="#Z" n="4" break="no"/>nunciauerunt diesistos. Certe Dauid Psalmo 2. 22. &amp; 110. geminam Christi indo 
+          <lb ed="#Z" n="5"/>lem, diuinam &amp; humanam, clare designauit. Idem praedicationem eius salutarem,  
+          <lb ed="#Z" n="6"/>sacerdotium aeternum, redemptionem aeternam, per mortem acerbissimam, 
+          tan<lb ed="#Z" n="7" break="no"/>tum non inspectanda oculis omnium proposuit. Quid dicam de lsaia propheta, 
+          <lb ed="#Z" n="8"/>qui optimo iure non a postremo ecclesiae Christianae doctore appellatus est euan 
+          <lb ed="#Z" n="9"/>gelista, quasi historiam scripserit rerum gestarum non gerendarum per Christum, 
+          <lb ed="#Z" n="10"/>Hunc proponit ille nobis uerum deum, &amp; hominem uerum, natum secundum 
+          <lb ed="#Z" n="11"/>carnem de uirgine intemerata: qui praedicet uerbum uitae, pascatque tanquam 
+          bo<lb ed="#Z" n="12" break="no"/>nus pastor trepidas ouiculas, qui sit lumen gentium usque ad extrema terrae: qui cae 
+          <lb ed="#Z" n="13"/>cos illuminet, claudos &amp; uarijs morbis confectos sanet, qui a suis proditus 
+          con<lb ed="#Z" n="14" break="no"/>spuatur, alapis caedatur, &amp; inter latrones suspensus, hostia pro delicto, offeratur,  
+          <lb ed="#Z" n="15"/>denique &amp; qui intercedat pro transgressoribus, ut ipse iustus omnes credentes 
+          iu<lb ed="#Z" n="16" break="no"/>stificet. Legatur lsaias in cap. 7. 8. 9. 11. 28. 40. 40. 59. 53. &amp; in postremis prophetiae 
+          <lb ed="#Z" n="17"/>suae capitibus omnibus, in quibus &amp; ecclesiam Christianam plenissime describit. Ic 
+          <lb ed="#Z" n="18"/>nas manifestissimum mortis &amp; resurrectionis dominicae typum praetulit. 
+          Mi<lb ed="#Z" n="19" break="no"/>chaeas etiam locum Bethlehem designat, in quo Messias nascatur, cuius originem, 
+          <lb ed="#Z" n="20"/>diuinae utique naturae, mox refert ad aeternitatem. Idem praedicit euangelicam  
+          <lb ed="#Z" n="21"/>praedicationem ex urbe Hierosolymorum in totum terrarum orbem fore dissemi 
+          <lb ed="#Z" n="22"/>nandam. Ieremias dicit deum Dauidi excitaturum uerum semen siue germen, id 
+          <lb ed="#Z" n="23"/>est, expectatum Messiam. Allusit autem ad legem de excitando semine fratris 
+          la<lb ed="#Z" n="24" break="no"/>tam. Virgo enim spiritu sancto foecunda genuit: &amp; eum quidem genuit, cuius no 
+          <lb ed="#Z" n="25"/>men est lehouah, deus utique uerus &amp; essentialis: quem lsaias nominauit Emanue 
+          <lb ed="#Z" n="26"/>lem, &amp; qui uera est iustitia credentium. Nam per Christum iustificantur 
+          creden<lb ed="#Z" n="27" break="no"/>tes. Etenim idem propheta in cap. 31. promittit in Christo &amp; plenariam peccatorum 
+          <lb ed="#Z" n="28"/>remisionem, &amp; spiritus sancti gratiam uberrimam: quam &amp; Ioel propheta non  
+          <lb ed="#Z" n="29"/>obticuit. Haec autem paucula ex multis delibaui duntaxat. Toti enim 
+          propheta<lb ed="#Z" n="30" break="no"/>rum libri in negotio Christi exponendo uersantur.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e998">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Postremae de Christo promisiones sub ipsa captiuitate Babylonica, &amp; mox 
+          <lb ed="#Z" n="32"/>post captiuitatem, a deo, prophetis reuelatae, &amp; ecclesiae dei sunt propositae. 
+          Prophe<lb ed="#Z" n="33" break="no"/>tat Ezechiel de pastore Dauide, &amp; ouibus pastorem illum suspicientibus: quae ipse 
+          <lb ed="#Z" n="34"/>dominus in euangelio secundum Ioannem de seipso exponit. Idem multa 
+          disse<lb ed="#Z" n="35" break="no"/>rit de gratia &amp; plenaria gratuitaque peccatorum remisione per Christum conferen 
+          <lb ed="#Z" n="36"/>da, in primis 34. 36. &amp; 37. cap. Daniel habet quidem uisiones &amp; somnia multa: sed 
+          <lb ed="#Z" n="37"/>in his ita nobis exhibet Christum, ut non posset melius, illustrius, elegantius. In 
+          <lb ed="#Z" n="38"/>2. cap. commonstrat nobis regnum eius eternum, indicatque Christum sub monar 
+          <lb ed="#Z" n="39"/>chia Romanorum uenturum, tum cum principes Romani affinitatibus sibi 
+          mu<lb ed="#Z" n="40" break="no"/>tuo connexi, mutuis sint interituri armis. Quod quidem impletum est imperitan 
+          <lb ed="#Z" n="41"/>tibus Pompeio &amp; lulio, Antonio item &amp; Octauio Augusto. Ia cognitissimae sunt 
+          <lb ed="#Z" n="42"/>septimanae Danielis in 9. capite, ubi Christum &amp; tempora Christi repudiumque 
+          <lb ed="#Z" n="43"/>gentis ludaice propter incredulam perfidiam toti mundo tantum non digito mon 
+          <lb ed="#Z" n="44"/>strat. Haggeus templum extruit, sed uerum templum, Christianam utique ecclesiam, 
+          <lb ed="#Z" n="45"/>acharias multa Christi mysteria eleganter tradit. Proponit nobis Christum 
+          re<lb ed="#Z" n="46" break="no"/>gem &amp; pontificem. Commendat nobis unicum illud sacrificium, aeternum, effi- 
+          <lb ed="#Z" n="47"/>cax satis, expiandis omnibus totius mundi peccatis. Legatur cap. 3. 9. 14. imo 
+          to<lb ed="#Z" n="48" break="no"/>tus Christum &amp; regnum Christi nos docet. Malachias premittit praecursorem do¬  
+          <!--385.xml-->
+          <pb ed="#Z" n="181-v"/>
+          <lb ed="#Z" n="1"/>mino Christo, &amp; non pauca Christi mysteria tractat. Vnde cernimus uerissime 
+          <lb ed="#Z" n="2"/>scripsisse Paulum, deum ante promisisse euangelium per prophetas suos, in scri- 
+          <lb ed="#Z" n="3"/>pturis sanctis.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1051">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Ex his uero sanctis promissionibus colligimus &amp; illud, non plura aut 
+          diuer<lb ed="#Z" n="5" break="no"/>sa esse euangelia (quanquam non negemus eandem historiam euangelicam diuer 
+          <lb ed="#Z" n="6"/>sis scriptam esse authoribus) sed unum duntaxat esse &amp; quasi aeternum. Nam 
+          il<lb ed="#Z" n="7" break="no"/>lud ipsum euangelium quod hodie nobis annunciatur, ab exordio mundi 
+          patri<lb ed="#Z" n="8" break="no"/>bus annunciatum est. Certissimum enim est euangelio seruatos esse ipsum 
+          Ada<lb ed="#Z" n="9" break="no"/>mum, Euam, Abelem, omnes patriarchas &amp; prophetas, sed &amp; ueteris testamenti 
+          o<lb ed="#Z" n="10" break="no"/>mnes fideles. Id quod alibi quoque satis copiose sumus prosecuti.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1070">
+          <lb ed="#Z" n="11"/><pc type="indent"/> Descendimus nunc ad alterum caput, ostensuri deum patrem fideliter quod 
+          <lb ed="#Z" n="12"/>promisit patribus, praestitisse nobis, exhibito unigenito suo filio: qui sit uerus &amp;  
+          <lb ed="#Z" n="13"/>expectatus ille Messias benedictus in saecula. In ea caussa illustranda diligenter la 
+          <lb ed="#Z" n="14"/>borarunt euangelistae &amp; apostoli domini, ut nemo fidelius &amp; melius. Genus Chri 
+          <lb ed="#Z" n="15"/>sti ostendunt Dauidicum &amp; ex Abrabae prosapia descendens: matrem uirginem,  
+          <lb ed="#Z" n="16"/>quae conceperit ex spiritu sancto, &amp; uirgo pepererit. Tempus quoque consignant 
+          <lb ed="#Z" n="17"/>quo reuelatus est Christus, id quod omnibus punctis respondet uaticinijs prophe 
+          <lb ed="#Z" n="18"/>tarum. Addunt &amp; locum natiuitatis Christi congruere prophetiae Michaeae. Iam  
+          <lb ed="#Z" n="19"/>apparet in oriente stella, quae magos, uiros primarios &amp; sapientissimos, inuitat ad 
+          <lb ed="#Z" n="20"/>salutandum nuper natum regem. Adsunt ergo, &amp; in urbe Hierosolymorum 
+          regia<lb ed="#Z" n="21" break="no"/>palam, &amp; natum Messiam &amp; se adorandi eius gratia ex oriente aduenisse profi- 
+          <lb ed="#Z" n="22"/>tentur. Verbis facta respondent. Nam indicio stellae repertum adorant, &amp; 
+          muneri<lb ed="#Z" n="23" break="no"/>bus ipsi oblatis quanti Christum faciant minime obscure declarant. In ipsa urbe 
+          <lb ed="#Z" n="24"/>Hierosolymorum regia, uirorum iustissimus Simeo cum iubilo cordis maximo, &amp;  
+          <lb ed="#Z" n="25"/>gratulatione pijssima, in templo palam testatur deum pro aeterna sua ueritate &amp;  
+          <lb ed="#Z" n="26"/>constantia exhibuisse mundo filium unigenitum, quem patribus promiserat: simul 
+          <lb ed="#Z" n="27"/>profitens tranquillissimo iam se animo moriturum. Caussam subiungit. Quia ui 
+          <lb ed="#Z" n="28"/>derunt oculi mei salutare tuum, nimirum illum Schilo, id est felicitatorem saluato 
+          <lb ed="#Z" n="29"/>remque, quem o deus, statuisti proponere omnibus populis, lumem ad reuelationem 
+          <lb ed="#Z" n="30"/>gentium, &amp; gloriam plebis tuae lzrael: id est, ut tenebras discutiens, gentibus lumen 
+          <lb ed="#Z" n="31"/>praeferat ueritatis &amp; uitae easque illuminet, &amp; gloria uitaque sit populi 
+          lzraelitici<lb ed="#Z" n="32" break="no"/>Huc pertinet etiam testimonium clarissimi uiri zachariae sacratissimi sacerdotis 
+          <lb ed="#Z" n="33"/>dei, testificantis atque dicentis, Benedictus dominus deus lzrael, quia uisitauit &amp; re 
+          <lb ed="#Z" n="34"/>demit populum suum. Et erexit cornu salutis nobis in domo Dauid pueri sui. Sicut 
+          <lb ed="#Z" n="35"/>loquutus est per os sanctorum qui a saeculo fuerunt prophetarum suorum. Et reli 
+          <lb ed="#Z" n="36"/>qua quae leguntur Lucae cap. 1. Porro Sacharie huius filius beatissimus Ioannes,  
+          <lb ed="#Z" n="37"/>baptista cognominatus, quo ex mulieribus non legitur natus sanctior alter, digito 
+          <lb ed="#Z" n="38"/>in Christum Iesum extento, demonstrat hunc illum esse expectatum Messiam, quem 
+          <lb ed="#Z" n="39"/>promiserint omnes prophetae, deumque hoc exhibito liberasse fidem suam, &amp; se 
+          to<lb ed="#Z" n="40" break="no"/>tum cum omnibus bonis suis effudisse in credentes. Quinimo expectante 
+          populo<lb ed="#Z" n="41" break="no"/>ut Lucas habet, &amp; cogitantibus omnibus in cordibus suis de Ioanne num, ipse es 
+          <lb ed="#Z" n="42"/>set ille Christus, respondit Ioannes, dicens uniuersis, Ego quidem aqua baptizo 
+          <lb ed="#Z" n="43"/>uos, sed ueniet fortior me, cuius non sum dignus soluere corrigiam 
+          calciamento<lb ed="#Z" n="44" break="no"/>rum: ipse uos baptizabit spiritu sancto &amp; igni. Et apud Ioannem legimus, 
+          Poste<lb ed="#Z" n="45" break="no"/>ro die uidet Ioannes Iesum uenientem ad se, &amp; ait, Ecce agnus ille dei, qui tollit 
+          pec<lb ed="#Z" n="46" break="no"/>catum mundi: Hic est de quo dicebam, Post me ueniet uir, qui me antecessit, quia 
+          <lb ed="#Z" n="47"/>prior me erat, &amp; ego nesciebam eum: sed ut manifestus fiat lsraeli, propterea ueni 
+          <lb ed="#Z" n="48"/>ego aqua baptisans. Et mox, Vidi spiritum descendentem specie columbae de coelos 
+          <!--386.xml-->
+          <pb ed="#Z" n="182-r"/>
+          <lb ed="#Z" n="1"/>&amp; mansit super eum. Et ego non noueram eum: sed qui misit me, ut baptizarem 
+          <lb ed="#Z" n="2"/>aqua, is dixit mihi, Super quem uideris spiritum descendentem &amp; manentem 
+          su<lb ed="#Z" n="3" break="no"/>per eum, hic est qui baptizat spiritu sancto. Et ego uidi &amp; testatus sum hunc esse 
+          <lb ed="#Z" n="4"/>filium dei Rursus cum discipuli Ioannis inuiderent Christo domino felicem 
+          suc<lb ed="#Z" n="5" break="no"/>cessum, dolerentque Ioannem prae Christo ueluti negligi, dixit discipulis suis 
+          Ioan<lb ed="#Z" n="6" break="no"/>nes, Ipsi uos testes estis quod dixerim, non sum ego Christus, sed missus sum ante 
+          <lb ed="#Z" n="7"/>illum. Qui habet sponsam sponsus est: amicus autem sponsi qui stat &amp; audit eum,  
+          <lb ed="#Z" n="8"/>gaudio gaudet propter uocem sponsi. Hoc ergo gaudium meum impletum est. I 
+          <lb ed="#Z" n="9"/>lum oportet crescere, me uero minui. Pater diligit filium, &amp; omnia dedit illi in 
+          ma<lb ed="#Z" n="10" break="no"/>num. Qui credit in filium, habet uitam aeternam: qui non credit in filium, non 
+          ui<lb ed="#Z" n="11" break="no"/>debit uitam: sed ira dei manet super eum. Firma, euidentia &amp; clara sunt haec testi 
+          <lb ed="#Z" n="12"/>monia, solaque pro hac poterant sufficere caussa. Verum adiinciamus adhuc paucu 
+          <lb ed="#Z" n="13"/>la ex multis, declarantia Christum nobis esse exhibitum. Ipse ergo dominus noster,  
+          <lb ed="#Z" n="14"/>quem Messiam esse credimus, prodit, diu multumque Ioannis commendatus 
+          testi<lb ed="#Z" n="15" break="no"/>monio, &amp; ipse uerbum uitae annunciat. Nullis autem unquam saeculis alius fuisse 
+          <lb ed="#Z" n="16"/>legitur, qui tanta docuerit cum gratia. Simul autem opera aedidit stupenda, quae 
+          <lb ed="#Z" n="17"/>facile quis sit coarguunt, &amp; uel renitentem auditorem attrahunt. Facilis &amp; 
+          beni<lb ed="#Z" n="18" break="no"/>gnus erat peccatoribus, subinde repetens his se seruandis &amp; ad poenitentiam uo- 
+          <lb ed="#Z" n="19"/>candis aduenisse. Ergo cum aliquando ad ipsum discipuli Ioannis uenirent 
+          roga<lb ed="#Z" n="20" break="no"/>rentque, Tu ne ille es qui uenturus est, an alterum expectabimus : respondit, Ite &amp;  
+          <lb ed="#Z" n="21"/>renunciate ea Ioanni, quae uidetis &amp; auditis. Caeci uisum recipiunt, &amp; claudi am  
+          <lb ed="#Z" n="22"/>bulant, laeprosi mundantur, &amp; surdi audiunt, mortui excitantur, &amp; pauperes 
+          lae<lb ed="#Z" n="23" break="no"/>tum accipiunt euangelij nuncium. His autem, doctrina inquam &amp; operibus, uel 
+          <lb ed="#Z" n="24"/>uirtutibus suis, demonstrare uoluit se mundo exhibitum esse Messiam uerum, nec 
+          <lb ed="#Z" n="25"/>alium expectandum. Nam &amp; in schola Nazarethana lectio lsaiae testimonio de uen 
+          <lb ed="#Z" n="26"/>turo Messia expositoque ostendit scripturam eam esse impletam. Vbi protinus hoc 
+          <lb ed="#Z" n="27"/>subiungitur in historia. Et omnes testimonium illi dabant, &amp; mirabantur super 
+          <lb ed="#Z" n="28"/>gratia sermonum qui procedebant ex ore ipsius, Rursus apud Ioanem in 10. cap. 
+          <lb ed="#Z" n="29"/>circundederunt dominum ludaei &amp; dixerunt, Quousque animam nostram 
+          suspen<lb ed="#Z" n="30" break="no"/>dis? Si tu es Christus, dic nobis ingenue, Respondit eis lesus. Dixi uobis: uos 
+          au<lb ed="#Z" n="31" break="no"/>tem non creditis. Opera quae ego facio nomine patris mei, haec testimonium 
+          red<lb ed="#Z" n="32" break="no"/>dunt de me. Sed uos non creditis, quia non estis de ouibus meis. Et mox, Vos di- 
+          <lb ed="#Z" n="33"/>citis me blasphemare quia dixerim, Filius dei sum. Si non facio opera patris mei, 
+          <lb ed="#Z" n="34"/>nolite credere mihi: sin facio, &amp; si mihi non credatis, operibus credite: ut cognosca 
+          <lb ed="#Z" n="35"/>tis &amp; credatis quod pater in me est, &amp; ego in eo. Certe Ioan. 7. legimus, Qui credi 
+          <lb ed="#Z" n="36"/>derunt in eum, dixerunt, Christus cum uenerit num signa plura aedet ijs, quae hic 
+          <lb ed="#Z" n="37"/>aedidit:? Id est, ut maxime donemus alium esse Christum expectandum, hoc tamen 
+          <lb ed="#Z" n="38"/>certissimum est alium illum non posse plura &amp; maiora designare miracula. Creda 
+          <lb ed="#Z" n="39"/>mus ergo hunc uerum esse Messiam. Coram Caiapha summo pontifice &amp; Conci 
+          <lb ed="#Z" n="40"/>lio uniuersali lsraeliticorum procerum: item coram Pontio Pilato in foro 
+          Roma<lb ed="#Z" n="41" break="no"/>ni imperij, disertis &amp; minime obscuris uerbis confessus est dominus noster Chri 
+          <lb ed="#Z" n="42"/>stus se esse uerum illum &amp; expectatum Messiam. Equidem, sicuti de eo 
+          praedixe<lb ed="#Z" n="43" break="no"/>runt prophetae, mortuus est sponte pro peccatoribus, resurrexit deinde tertia die 
+          <lb ed="#Z" n="44"/>a mortuis, ascendit in coelum, sedetque ad dexteram dei patris. Et euangelistae dicta 
+          <lb ed="#Z" n="45"/>&amp; facta Christi fideliter recitantes, diligenter praecipuis subiungunt. Hoc totum 
+          <lb ed="#Z" n="46"/>factum aut dictum est, ut impleretur quod dictum erat a propheta. Proinde non  
+          <lb ed="#Z" n="47"/>uidetur operaepretium uaticinia prophetarum colligere &amp; his antithesi committe 
+          <lb ed="#Z" n="48"/>re dicta &amp; facta Christi, atque ex consensione manifestissima concludere, deum prae 
+          <!--387.xml-->
+          <pb ed="#Z" n="182-v"/>
+          <lb ed="#Z" n="1"/>stitisse nobis quod patribus promisit exhibito filio unigenito, qui sit uerus &amp; ex- 
+          <lb ed="#Z" n="2"/>pectatus Messias. Hoc enim fecerunt euangelistae, &amp; id quidem tanta cum fide &amp;  
+          <lb ed="#Z" n="3"/>diligentia ut nemo possit euidentius &amp; melius. Huc referre licet omnia quae dixi 
+          <lb ed="#Z" n="4"/>Sermonibus superioribus de significatione, uel mysterijs, impletione &amp; 
+          abroga<lb ed="#Z" n="5" break="no"/>tione legis. Et ut nobis non tanta sit testimoniorum copia, an non unicum hoc 
+          <lb ed="#Z" n="6"/>quod apud Ioannem in 4. cap. legimus uice multorum millium esse poterat? Dicit 
+          <lb ed="#Z" n="7"/>mulier illa Samaritana ad dominum, Scio quod Messias uenturus sit, qui dicitur 
+          <lb ed="#Z" n="8"/>Christus : cum ergo uenerit ille, nobis nunciabit omnia, Respondit ei Iesus: Ego 
+          <lb ed="#Z" n="9"/>sum qui loquor tibi. En quid poterat dici clarius? Ego inquit sum Messias, ego 
+          in<lb ed="#Z" n="10" break="no"/>quam qui tibi loquor modo, qui ab initio dixi, Si scires donum dei, &amp; quis sit qui 
+          <lb ed="#Z" n="11"/>tibi dicit, Da mihi quod bibam, tu petisses ab eo, &amp; dedisset tibi aquam uiuam.¬ 
+          <lb ed="#Z" n="12"/>Quisquis enim biberit ex aqua quam ego dabo ei, non sitierit in aeternum: sed 
+          a<lb ed="#Z" n="13" break="no"/>qua quam dabo ei fiet in eo fons aquae, salientis in uitam aeternam. Infelicissimi er 
+          <lb ed="#Z" n="14"/>go omnium mortalium &amp; aridissimi sunt, qui alium post dominum nostrum Mel 
+          <lb ed="#Z" n="15"/>siam expectant. Petrus bene longa oratione scripturis &amp; firmis rationibus 
+          in<lb ed="#Z" n="16" break="no"/>structa, in Actis aposto. cap. 2. demonstrat, Iesum dominum nostrum illum esse ue 
+          <lb ed="#Z" n="17"/>rum Messiam. Hac enim sententia Sermonem suum concludit, Certo sciat ergo to 
+          <lb ed="#Z" n="18"/>ta domus lsrael, quod dominum &amp; Christum fecerit deus, hunc Iesum quem uos 
+          <lb ed="#Z" n="19"/>crucifixistis. Ad eundem scopum tendit &amp; doctissima copiosissimaque oratio 
+          pro<lb ed="#Z" n="20" break="no"/>tomartyris Stephani, quae exhibetur nobis Actor. 7. cap. In S. cap. Philippus Ae- 
+          <lb ed="#Z" n="21"/>thiopi ostendit ex uaticinio lsaiae, Iesum esse Christum. S. Paulus in omnibus 
+          sy<lb ed="#Z" n="22" break="no"/>nagogis non aliam proponit propositonem quam hanc demostrandam, Iesus est 
+          <lb ed="#Z" n="23"/>Christus, id est Iesus est rex, pontifex atque saluator fidelium. In capite autem 13. co 
+          <lb ed="#Z" n="24"/>piosa oratione eandem illustrat atque deciarat. Haec autem euidentissima &amp; 
+          claris<lb ed="#Z" n="25" break="no"/>sima diuines scripturae testimonia proculdubio satisfaciunt minime rixosis nec per 
+          <lb ed="#Z" n="26"/>tinacibus. Nolo operosius &amp; curiosius in praesenti disputare contra tergiuersato 
+          <lb ed="#Z" n="27"/>res ludaeos, alium expectantes Messiam, nostrum autem illum dominum, filium 
+          <lb ed="#Z" n="28"/>dei &amp; Mariae uirginis, negantes esse uerum Messiam. Sentiunt miseri uerissimum 
+          <lb ed="#Z" n="29"/>esse, quod in euangelio praedixit ipsis dominus, dicens, Cum uideritis 
+          abomina<lb ed="#Z" n="30" break="no"/>tionem desolationis, quae dicta est a Daniele propheta, stantem in loco sancto, qui 
+          <lb ed="#Z" n="31"/>legit intelligat. Tunc qui in ludaea sunt fugiant ad montes. Vae autem praegnanti 
+          <lb ed="#Z" n="32"/>bus &amp; lactantibus in illis diebus. Erit enim afflictio magna. Et iterum de urbe lo 
+          <lb ed="#Z" n="33"/>quens Hierosolymorum, Dies, inquit, uenient in te, &amp; circundabunt te inimici 
+          <lb ed="#Z" n="34"/>tui uallo, &amp; cingent &amp; coangustabunt te undique, &amp; solo aequabunt te, &amp; filios 
+          <lb ed="#Z" n="35"/>tuos qui in te sunt. Et non relinquent in te lapidem super lapidem: eo quod non 
+          <lb ed="#Z" n="36"/>cognoueris tempus uisitationis tuae. Et iterum, Erit ira in populo hoc: &amp; cadent 
+          <lb ed="#Z" n="37"/>acie gladij, &amp; captiui ducentur in omnes gentes. Et Hierusalem calcabitur a gen 
+          <lb ed="#Z" n="38"/>tibus, donec impleantur tempora gentium. Haec quia sentiunt ad uerbum ita esse 
+          <lb ed="#Z" n="39"/>impleta sicut a Christo in euangelio fuerunt praedicta, quare miseri non dant 
+          glo<lb ed="#Z" n="40" break="no"/>riam deo, &amp; in reliquis etiam credunt euangelio, agnoscentes Iesum Christum 
+          <lb ed="#Z" n="41"/>dei &amp; Mariae uirginis filium, dominum nostrum, uerum &amp; expectatum uenisse 
+          <lb ed="#Z" n="42"/>Messiam? Quid habent quod pertinaci suae incredulitati obtendant? 
+          Carue<lb ed="#Z" n="43" break="no"/>runt hactenus a mille quingentis annis &amp; amplius patria sua, terra inquam illa  
+          <lb ed="#Z" n="44"/>patribus promissa, melle &amp; lacte manante: caruerunt prophetis: caruerunt 
+          cul<lb ed="#Z" n="45" break="no"/>tu celebri, &amp; legitimo. Vbi enim est templum? Vbi est summus pontifex? Vbi est 
+          <lb ed="#Z" n="46"/>ara? Vbi sunt instrumenta sacra: Vbi sacrificia quae offerantur secundum 
+          lege<lb ed="#Z" n="47" break="no"/>Omnis gloria populi dei translata est ad Christianos. Hi gaudent uocari filij 
+          Abra<lb ed="#Z" n="48" break="no"/>hae: hi exultant in promissionibus patribus factis: hi celebrant &amp; praedicant patres. 
+          <!--388.xml-->
+          <pb ed="#Z" n="183-r"/>
+          <lb ed="#Z" n="1"/>hi recte iudicant de lege, &amp; de foedere domini: hi habent scripturas sanctas, &amp; in 
+          <lb ed="#Z" n="2"/>his explicandis sunt felicissimi: hi habent templum uerum, summum pontificem, 
+          <lb ed="#Z" n="3"/>uerum altare thymiamatis &amp; holocaustorum, Christum: hi habent uerum cultum 
+          <lb ed="#Z" n="4"/>olim in externis praefiguratum caeremonijs. Sicuti demonstraui cum tractarem  
+          <lb ed="#Z" n="5"/>Caeremonias ludaicas. Vocatae sunt gentes ex omnibus mundi plagis ad Christum, 
+          <lb ed="#Z" n="6"/>Omnes &amp; singulae promisiones de uocatione gentium abundantissime sunt im 
+          <lb ed="#Z" n="7"/>pletae, &amp; implentur etiam hodie. Nos iam sumus genus electum, iuxta S. Petri do 
+          <lb ed="#Z" n="8"/>ctrinam, regale sacerdotium, gens sancta, populus peculiaris, in hoc uocati, ut prae 
+          <lb ed="#Z" n="9"/>dicemus uires illius, qui e tenebris nos uocauit in admirabilem lucem suam. Nisi 
+          <lb ed="#Z" n="10"/>ergo malint infelices ludaei in diem crassioribus implicari erroribus, &amp; 
+          calamita<lb ed="#Z" n="11" break="no"/>tibus torqueri innumeris, tandem uero perire in aeternum, iuxta Christi domini 
+          <lb ed="#Z" n="12"/>comminationem, conuertantur ad Christum fide, &amp; adorent illum nobiscum, in 
+          <lb ed="#Z" n="13"/>quo sperauerunt patres ipsorum, &amp; in quo solo est salus &amp; uita. Nam ut uerbis 
+          <lb ed="#Z" n="14"/>apostoli hunc locum concludam, Deus manifestatus est in carne, iustificatus est 
+          <lb ed="#Z" n="15"/>in spiritu, uisus est angelis, praedicatus est gentibus, fides illi habita est in 
+          mun<lb ed="#Z" n="16" break="no"/>do, receptus est in gloria. Qui autem illi crediderit, in aeternum uiuet, neque 
+          confun<lb ed="#Z" n="17" break="no"/>detur unquam.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1415">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Restat exponenda pars postrema, comprehendens patrem coelestem in filio  
+          <lb ed="#Z" n="19"/>suo unigenito domino nostro Iesu Christo esse placatum, qui prius mundo fuerat 
+          <lb ed="#Z" n="20"/>iratus. Ostendendum ergo in primis deum uniuerso mundo iratum fuisse. Id quod  
+          <lb ed="#Z" n="21"/>non erit difficile. Nam peccatis irascitur deus. Totus autem mundus peccato 
+          te<lb ed="#Z" n="22" break="no"/>netur obnoxius, iccirco necesse est iustissimum deum uniuerso mundo ualde ira 
+          <lb ed="#Z" n="23"/>sci. Et Paulus, Palam fit ira dei, inquit, de coelo, aduersus omnem impietatem &amp; 
+          in<lb ed="#Z" n="24" break="no"/>iustitiam hominum. Idem dicit omnes homines peccato esse obnoxios: ad quod 
+          <lb ed="#Z" n="25"/>confirmandum has copias ex scripturis producit, dicens, Non est iustus, ne unus 
+          <lb ed="#Z" n="26"/>quidem: non est qui intelligat non est qui requirat deum. Omnes deflfexerunt 
+          si<lb ed="#Z" n="27" break="no"/>mul, inutiles facti sunt: non est qui exerceat bonitatem, non est usque ad unum. 
+          Se<lb ed="#Z" n="28" break="no"/>pulchrum apertum guttur eorum: linguis suis ad dolum usi sunt, uenenum 
+          aspi<lb ed="#Z" n="29" break="no"/>dum sub labijs eorum. Quorum os execratione &amp; amarulentia plenum est: uelo 
+          <lb ed="#Z" n="30"/>ces pedes eorum ad effundendum sanguinem. Contritio &amp; calamitas in uijs 
+          eo<lb ed="#Z" n="31" break="no"/>rum, &amp; uiam pacis non cognouerunt. Non est timor dei coram oculis eorum. lam  
+          <lb ed="#Z" n="32"/>ne lsraelitae responderent, haec nihil pertinere ad populum dei, sed ad impios &amp;  
+          <lb ed="#Z" n="33"/>ethnicos, subiungit, Scimus autem quod quaecunque lex dicit, his qui sub lege sunt 
+          <lb ed="#Z" n="34"/>dicat, ut omne os obturetur, &amp; obnoxius fiat totus mundus deo. Nemo hic 
+          exci<lb ed="#Z" n="35" break="no"/>pitur. Nam ad Galatas quoque idem apostolus dixit, Conclusit omnes sub 
+          pec<lb ed="#Z" n="36" break="no"/>catum, ut omnium misereatur. Proinde consequitur, totum mundum fuisse 
+          indi<lb ed="#Z" n="37" break="no"/>gnationi dei iustissimi subiectum. De quo dicitur &amp; ad Ephes. 2. cap. &amp; 4. &amp; 5.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1462">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Huic autem impio mundo placatus uel reconciliatus est pater coelestis, per fi- 
+          <lb ed="#Z" n="39"/>lium unigenitum dominum nostrum Iesu Christum. Quod unico ipsius patris 
+          te<lb ed="#Z" n="40" break="no"/>stimonio abunde satis demonstraturum me confido. Principio enim pater uoce 
+          <lb ed="#Z" n="41"/>coelitus in terram, &amp; super Christum, iam a baptismo ascendentem, deinde etiam  
+          <lb ed="#Z" n="42"/>trans figurantem se in conspectu delectorum discipulorum suorum, delata, diserte 
+          <lb ed="#Z" n="43"/>testificans, dicit, Hic est filius meus dilectus, in quo placata, reconciliata uel 
+          pro<lb ed="#Z" n="44" break="no"/>pitiata est anima mea, Ipsum audite. Legitur hoc testimonium &amp; ab lsaia in 
+          q4a2<lb ed="#Z" n="45" break="no"/>cap. praenunciatum esse, Repetijt hoc beatus apostolus Petrus in 2. epist. cap. ¬  
+          <lb ed="#Z" n="46"/>Paulus uero hoc ipsum quasi illustrauit, &amp; dixit, In filio complacitum est patri uni 
+          <lb ed="#Z" n="47"/>uersam plenitudinem inhabitare, &amp; per eum cuncta reconciliare erga se, pacifica 
+          <lb ed="#Z" n="48"/>tis per sanguinem crucis eius per eundem, siue quae in terra sunt, siue quae in coe¬ 
+          <!--389.xml-->
+          <pb ed="#Z" n="183-v"/>
+          <lb ed="#Z" n="1"/>lis. In coelis aunt pater est, in terra homines sumus. Mediator Christus est, qui 
+          me<lb ed="#Z" n="2" break="no"/>dius intercedit, ac nos patri suo recociliat, ut iam smus dilecti patris, in dilecto suo 
+          <lb ed="#Z" n="3"/>filio. Nam in epist. ad Ephesios dicit idem apostolus, Charos nos reddidit per dile 
+          <lb ed="#Z" n="4"/>ctum : per quem habemus redemptionem, per sanguinem ipsius, remisionem 
+          <lb ed="#Z" n="5"/>peccatorum, iuxta diuitias gratiae suae. Omnia haec plenius intelligentur ex 
+          se<lb ed="#Z" n="6" break="no"/>quentibus.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1507">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Nunc enim demonstro deum patrem in filio suo dedisse nobis plene omnia ui 
+          <lb ed="#Z" n="8"/>tae beatae &amp; salutis aeternae. Duo commemoro uitam beatam &amp; salutem aeternam.  
+          <lb ed="#Z" n="9"/>Beatam uitam intolligo uitam sanctam &amp; piam, quam uiuimus tranquille &amp; 
+          ho<lb ed="#Z" n="10" break="no"/>neste in hoc saeculo. Salus aeterna, est felicitas illa saeculi futuri, quam expectamus 
+          <lb ed="#Z" n="11"/>firma spe. Habemus autem in Christo plenissimam beatae uitae doctrinam traditam 
+          <lb ed="#Z" n="12"/>nobis per euangelium, in quo &amp; exemplum uitae Christi comprehendimus. Certe 
+          <lb ed="#Z" n="13"/>pater coelestis hunc nobis doctorem proposuit, &amp; dixit, Hunc audite. Et ipse in 
+          <lb ed="#Z" n="14"/>euangelio secundum Matthaeum, Ne uocemini magistri, inquit: unus enim noster 
+          <lb ed="#Z" n="15"/>est magister, nempe Christus, qui in euangelio Ioannis appellatur Lux 
+          mundi<lb ed="#Z" n="16" break="no"/>Hic alibi quoque testatur doctrinam suam contineri in scriptura sancta : unde &amp;  
+          <lb ed="#Z" n="17"/>discipulos suos relegat ad scripturas sanctas diligenter legendas. At de hi 
+          Gen<lb ed="#Z" n="18" break="no"/>tium adeoque uniuersae ecclesiae doctor Paulus. Omnis scriptura, inquit, diuinitus 
+          <lb ed="#Z" n="19"/>inspirata, &amp; utilis ad doctrinam, ad redargutionem, ad correctionem, ad 
+          institu<lb ed="#Z" n="20" break="no"/>tionem, quae est in iustitia, ut integer sit dei homo ad omne opus bonum 
+          appara<lb ed="#Z" n="21" break="no"/>tus. Proinde licet totus mundus insaniat, traditionumque uiuarum non 
+          scriptura<lb ed="#Z" n="22" break="no"/>rum assertores dentibus frendant, firmum tamen stat stabitque uerbum apostoli 
+          te<lb ed="#Z" n="23" break="no"/>stificantis doctrinam scripturarum siue Christianam, esse per omnia 
+          absolutissi<lb ed="#Z" n="24" break="no"/>mam. De qua re cum in Decad. 5. primis Sermonibus disputauerim, hic certe sum 
+          <lb ed="#Z" n="25"/>succinctior. Qu od autem attinet ad salutem aeternam per Christum nobis plene 
+          pa<lb ed="#Z" n="26" break="no"/>ratam siue partam, ita habet res, Salus aeterna, est aeterni dei uisio uel perfruitio,  
+          <lb ed="#Z" n="27"/>ergo &amp; cum eodem indissociata coniunctio. Nam Dauid dicit, Satietas 
+          gaudio<lb ed="#Z" n="28" break="no"/>rum in conspectu tuo est, &amp; iucunditates in dextera tua in perpetuum. Et beatus 
+          <lb ed="#Z" n="29"/>Ioannes, Nunc quidem filij dei sumus, ait, &amp; nondum apparuit quod futuri sumus, 
+          <lb ed="#Z" n="30"/>Scimus autem quoniam si apparuerit, similes ei erimus : quoniam uidebimus eum  
+          <lb ed="#Z" n="31"/>sicuti est. Caeterum in euangelio dicit dominus, Beati mundo corde: quoniam ipsi 
+          <lb ed="#Z" n="32"/>deum uidebunt. Omnes autem homines cordibus praediti sunt impuris: nullus er 
+          <lb ed="#Z" n="33"/>go deum uidebit. Quia nulla impuritas permanet apud ignem consumentem. Sa 
+          <lb ed="#Z" n="34"/>lus ergo nobis nisi purgatis communicari non potuit. Atqui sine sanguinis 
+          effu<lb ed="#Z" n="35" break="no"/>sione non fit purgatio uel peccatorum remissio : non arietum quidem uel 
+          hirco<lb ed="#Z" n="36" break="no"/>rum, sed filij dei sanguinem puto. Assumpsit itaque carnem &amp; sanguinem nostrum 
+          <lb ed="#Z" n="37"/>dei filius, uenit in mundum, mortem uolens propter nos subijt, &amp; sanguinem suum 
+          <lb ed="#Z" n="38"/>in remisionem peccatorum nostrorum effudit, atque eo modo credentes purgauit,  
+          <lb ed="#Z" n="39"/>ut iam mundi queant habitare cum deo sanctissimo, qui est ignis consumens. Hic  
+          <lb ed="#Z" n="40"/>uero locum habent incarnatio domini nostri Iesu Christi, mors, resurrectio ex mor 
+          <lb ed="#Z" n="41"/>tuis, &amp; ascensio in coelos, quorum meminimus superius in descriptione 
+          Euange<lb ed="#Z" n="42" break="no"/>lij. His enim constat totum reconciliationis mysterium. De his in praesenti ea de 
+          <lb ed="#Z" n="43"/>caussa fusius non disserimus, quod symbolum apostolorum exponentes, ea quan 
+          <lb ed="#Z" n="44"/>tum satis esse uidebatur, tractauimus : unde iam repeti &amp; huic negotio 
+          applica<lb ed="#Z" n="45" break="no"/>ri possunt.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1595">
+          <lb ed="#Z" n="46"/><pc type="indent"/> Quod autem unus uel solus Christus uita &amp; salus nostra sit, &amp; absolutissima 
+          <lb ed="#Z" n="47"/> quidem salus &amp; uita, potest colligi ex superioribus, nihilo minus adferam testimo 
+          <lb ed="#Z" n="48"/>nia aliquot quo &amp; firmior &amp; perspicacior fiat euangelicae ueritatis synceritas &amp; 
+          <!--390.xml-->
+          <pb ed="#Z" n="184-r"/>
+          <lb ed="#Z" n="1"/>ueritas. In solo Christo esse uitam &amp; salutem nostram, ita ut extra Christum nullibi 
+          <lb ed="#Z" n="2"/>prorsus uel uita uel salus sit, testatur ipse dominus in euangelio dicens, Amen 
+          a<lb ed="#Z" n="3" break="no"/>men dico uobis, qui non intrat per ostium in stabulum ouium, sed ascendit aliun 
+          <lb ed="#Z" n="4"/>de, ille fur est &amp; latro. Amen amen dico uobis, ego sum ostium ouium: omnes quot- 
+          <lb ed="#Z" n="5"/>quot ante me uenerunt, fures sunt &amp; latrones. Ecce unicum modo ostium est, quo 
+          <lb ed="#Z" n="6"/>patet ad uitam aditus. Christus autem hoc ostium est. Qui ergo per alia media 
+          <lb ed="#Z" n="7"/>quam per Christum eluctantur ad uitam &amp; salutem aeternam, fures sunt &amp; 
+          latro<lb ed="#Z" n="8" break="no"/>nes. Christo enim suam suffurantur gloriam, qui solus est &amp; manet saluator: &amp; suas 
+          <lb ed="#Z" n="9"/>ipsorum animas trucidant. Idem saluator in euangelio dicit, Ego sum uia, ueritas 
+          <lb ed="#Z" n="10"/>&amp; uita. Nemo uenit ad patrem, nisi per me. An non pauculis his uerbis omnia 
+          sa<lb ed="#Z" n="11" break="no"/>lutis media exclusit ac repulit, se solum uitam &amp; salutem constituens? Certe locu 
+          <lb ed="#Z" n="12"/>tionis genus, Nemo uenit ad patrem nisi per me, id omnino pollet quod hoc, Per 
+          <lb ed="#Z" n="13"/>solum Christum peruenitur ad patrem. Iam &amp; apostoli Christi Christum solum 
+          <lb ed="#Z" n="14"/>ita nobis proposuerunt, ut nemo non possit intelligere, extra Christum nullibi 
+          in<lb ed="#Z" n="15" break="no"/>ueniri uitam. S. Petrus apostolus in Actis, Nec est in alio quoquam salus (inquit  
+          <lb ed="#Z" n="16"/>Nec enim aliud nomen est sub coelo datum inter homines, in quo oporteat nos sal 
+          <lb ed="#Z" n="17"/>uos fieri. Paulus quoque ad Romanos 5. cap. subinde repetit, per unius hominis 
+          <lb ed="#Z" n="18"/>Iesu Christi iustitiam iustificatos esse omnes credentes. Idem, Per hunc, inquit an 
+          <lb ed="#Z" n="19"/>nunciatur uobis peccatorum remissio: &amp; ab omnibus a quibus non potuistis per 
+          <lb ed="#Z" n="20"/>legem Mosis iustificari, per hunc omnis qui credit iustificatur. Cuius quidem 
+          ge<lb ed="#Z" n="21" break="no"/>neris &amp; alia profert in 2. cap. ad Galatas. Constat ergo per solum Christum 
+          creden<lb ed="#Z" n="22" break="no"/>tibus conferri peccatorum remisionem &amp; uitam aeternam: quae sicut extra Chri- 
+          <lb ed="#Z" n="23"/>stum non sunt, ita per nulla media conseruntur extra Christum. Et nos de Remis- 
+          <lb ed="#Z" n="24"/>sione peccatorum, qui praecipuus est Euangelij locus, disseruimus copiosius 
+          Ser<lb ed="#Z" n="25" break="no"/>mone 9. Decad. . sed &amp; alibi quoque.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1664">
+          <lb ed="#Z" n="26"/><pc type="indent"/> Iam quod dominus noster plene absoluat a peccatis, plene peccata remittat 
+          <lb ed="#Z" n="27"/>plene saluet, ita ut nihil desiderari possit amplius, adeoque quod ipse dominus sits 
+          <lb ed="#Z" n="28"/>plenitudo absolutissima credentium, extra quem credentes nihil uel cupiunt 
+          am<lb ed="#Z" n="29" break="no"/>plius ad uitam &amp; salutem, uel desiderare possunt, ipse rursus in euangelio tradit 
+          <lb ed="#Z" n="30"/>cum dicit. Omnis qui bibit ex aqua hac, sitiet iterum : quisquis autem biberit ex 
+          <lb ed="#Z" n="31"/>aqua quam ego dedero ei, uiuet aeternum. Et iterum, Ego sum panis uitae. Qui ue 
+          <lb ed="#Z" n="32"/>nit ad me non esuriet : &amp; qui credit in me non sitiet unquam. Apostoli ergo cum 
+          <lb ed="#Z" n="33"/>edissent hunc panem coelestem, id est, cum credidissent in Christum dei filium, 
+          mul<lb ed="#Z" n="34" break="no"/>tis discedentibus relinquentibusque Christum, rogati num &amp; ipsi abire statuant, re 
+          <lb ed="#Z" n="35"/>spondent, Domine ad quem ibimus ? Verba uitae aeternae habes, &amp; nos credimus 
+          <lb ed="#Z" n="36"/>&amp; cognouimus quod tu es Christus filius dei uiui. En nec uolunt nec possunt 
+          de<lb ed="#Z" n="37" break="no"/>serere dominum. Quia nullus alius est cui se coniungere queant. Solus enim hic 
+          <lb ed="#Z" n="38"/>uita est &amp; salus credentium, &amp; adeo plene absoluta, ut in solo acquiescant. Cum  
+          <lb ed="#Z" n="39"/>doctrina euangelica congruit doctrina apostolica. Paulus enim ad Coloss. In filio,  
+          <lb ed="#Z" n="40"/>inquit, complacitum est patri uniuersam plenitudinem inhabitare. Et iterum, In fi 
+          <lb ed="#Z" n="41"/>lio inhabitat omnis plenitudo deitatis corporaliter, &amp; estis in illo completi. Et in 
+          <lb ed="#Z" n="42"/>epistola ad Hebr, asserit credentes plenariam habere peccatorum remisionem: 
+          <lb ed="#Z" n="43"/>quia cessent sacrificia offerri pro peccatis, deumque promittere per Ieremiam 
+          pro<lb ed="#Z" n="44" break="no"/>phetam tam perfectam remissionem peccatorum, ut nolit horum uel meminisse 
+          <lb ed="#Z" n="45"/>unquam. Proinde quicunque Christum fide possident, plenissime omnia uitae &amp; 
+          sa<lb ed="#Z" n="46" break="no"/>lutis possident. Huc pertinet tota ad Hebraeos epistola. Huc pertinet epilogus 8. 
+          <lb ed="#Z" n="47"/>Sermonis Decad. 5. quo recensemus quos nobis in Christo thesauros dederit 
+          pa<lb ed="#Z" n="48" break="no"/>ter coelestis.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1717">
+          <!--391.xml-->
+          <pb ed="#Z" n="184-v"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Ex his ultro consequitur, illos nondum intellexisse uerum Christi euangelium, 
+          <lb ed="#Z" n="2"/>neque syncere praedicare euangelium, quicunque uel non soli uel non plene omnia 
+          <lb ed="#Z" n="3"/>salutis &amp; uitae uni tribuunt Christo domino uero Messies. Impium &amp; blasphemum 
+          <lb ed="#Z" n="4"/>est, hominibus &amp; rebus homine inserioribus deterioribusque gloriam attribuere 
+          <lb ed="#Z" n="5"/>Christi. Praecipua Christianae religionis exercitia huius nihil sibi uendicant. Nam  
+          <lb ed="#Z" n="6"/>doctrina syncera recta ad Christum ducit. Oratio in nomine Christi inuocat, 
+          lau<lb ed="#Z" n="7" break="no"/>dat &amp; agit gratias. Sacramenta obsignant &amp; figurant Christi mysteria. Opera 
+          ue<lb ed="#Z" n="8" break="no"/>ro fidei, ex debito, licet interim sponte, fiunt: quia sumus conditi ad opera 
+          bona<lb ed="#Z" n="9" break="no"/>lmo tantummodo propter Christum deo placent. Ipse enim uitis est, nos sumus 
+          <lb ed="#Z" n="10"/>palmites. Ita omnis gloria Christo illibata seruatur: quae certissima ueri 
+          euan<lb ed="#Z" n="11" break="no"/>gelij nota est.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1750">
+          <lb ed="#Z" n="12"/><pc type="indent"/> Hactenus uero audiuimus, deum patrem misericordiarum gratuita 
+          suamise<lb ed="#Z" n="13" break="no"/>ricordia humani generis misertum, cum luto tartareo infixum, imo immersum 
+          <lb ed="#Z" n="14"/>prorsus inhaereret, filium suum unigenitum, ita ut in prophetis promiserat, mi- 
+          <lb ed="#Z" n="15"/>sisse in mundum, qui e luto extraheret nos, nobisque omnia uitae &amp; salutis plene ex 
+          <lb ed="#Z" n="16"/>hiberet. In eo enim reconciliatus est, qui pro nobis incarnatus, mortuus, ex mor- 
+          <lb ed="#Z" n="17"/>tuis iterum excitatus, &amp; in coelum receptus est.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1767">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Et quamuis ex his omnibus utcumque colligi possit, quorum sit illa salus, &amp; quibus 
+          <lb ed="#Z" n="19"/>annuncianda uideatur gratia, res tamen ipsa postulat ut expresse &amp; diserte osten 
+          <lb ed="#Z" n="20"/>damus, Christum &amp; Christi gratiam euangelio allatam uel annunciatam 
+          pertine<lb ed="#Z" n="21" break="no"/>re ad omnes. Minime enim fingere oportet, duos esse in coelis positos libros, in 
+          <lb ed="#Z" n="22"/>quorum altero inscripti legantur saluandi, ac necessitate quadam ir refragabili 
+          qui<lb ed="#Z" n="23" break="no"/>dem saluandi, utcunque reluctentur uerbo Christi &amp; atrocia designent ffagitia: in 
+          <lb ed="#Z" n="24"/>altero autem consignatos contineri damnandos, qui non possint non, 
+          quantum<lb ed="#Z" n="25" break="no"/>uis religiose uiuant, damnari. Teneamus potius sanctum Christi euangelium 
+          ge<lb ed="#Z" n="26" break="no"/>neraliter uniuerso mundo praedicare gratiam dei, remisionem peccatorum, &amp; 
+          ui<lb ed="#Z" n="27" break="no"/>tam aeternam. In hac uero sententia oportet confirmare mentes uerbo dei, 
+          colle<lb ed="#Z" n="28" break="no"/>ctis aliquot scriptures sanctae locis claris, &amp; minime dubijs aut obscuris. Cuius 
+          qui<lb ed="#Z" n="29" break="no"/>dem generis sunt illae sententiae, Benedicentur in semine tuo omnes gentes orbis. 
+          <lb ed="#Z" n="30"/>Gene. 22. Omnis qui inuocarit nomen domini, saluus erit. Ioelis 2. Omnes nos 
+          <lb ed="#Z" n="31"/>quasi oues errauimus : &amp; posuit deus in eo iniquitatem omnium nostrum. Isaiae 53. 
+          <lb ed="#Z" n="32"/>Omnessitientes uenite ad aquas. Isaiae 55. Innumera sunt huius generis in ueteri 
+          <lb ed="#Z" n="33"/>testamento testimonia. In euangelio dicit dominus. Omnis qui petit accipit, &amp; 
+          qui<lb ed="#Z" n="34" break="no"/>cunque quaerit inuenit, &amp;c. Matthaei 7. Venite ad me omnes, qui laboratis &amp; one 
+          <lb ed="#Z" n="35"/>rati estis, &amp; ego refocillabo uos. Matth. 51. Docete omnes gentes, baptisantes eos 
+          <lb ed="#Z" n="36"/>in nomen patris, &amp;c. Matthaei 98. Ite in mundum uniuersum &amp; praedicate 
+          euan<lb ed="#Z" n="37" break="no"/>gelium omni creaturae. Qui crediderit &amp; baptisatus fuerit, saluus erit. Marci 
+          16<lb ed="#Z" n="38" break="no"/>Sic deus dilexit mundum, ut filium suum unigenitum daret, ut omnis qui credit 
+          <lb ed="#Z" n="39"/>in eum non pereat, sed habeat uitam aeternam. Ioan. 3. In Actis apostolorum dicit 
+          <lb ed="#Z" n="40"/>beatus Petrus, Reipsa comperior quod non sit respectus personarum apud deum, 
+          <lb ed="#Z" n="41"/>sed in quauis gente, quae timet ipsum, &amp; operatur iustitiam, is acceptus est illi: 
+          <lb ed="#Z" n="42"/>Acto. 10. Paulus quoque ad Romanos 3. lustitia, inquit, dei per fidem Iesu Christi 
+          <lb ed="#Z" n="43"/>in omnes, &amp; super omnes qui credunt. Et 19. cap. Idem dominus omnium est, ait,  
+          <lb ed="#Z" n="44"/>diues in omnes inuocantes se. In epistola ad Titum dicit, Apparuit gratia dei salu 
+          <lb ed="#Z" n="45"/>tifera omnibus hominibus. Et in prima ad simoth. 2. cap. Deus cunctos homines 
+          <lb ed="#Z" n="46"/>l uult saluos fieri, &amp; ad agnitionem ueritatis uenire. Haec &amp; alia his similia certe cla 
+          <lb ed="#Z" n="47"/>ra sunt testimonia, quibus tuto nituntur omnes pij.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1836">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Si uero rogas qui fiat quod non omnes salui fiant, cum dominus uelit omnes 
+          <!--392.xml-->
+          <pb ed="#Z" n="185-r"/>
+          <lb ed="#Z" n="1"/>homines saluos fieri, &amp; ad agnitionem ueritatis uenire ? Respondet dominus in 
+          <lb ed="#Z" n="2"/>euangelio &amp; ait, Multi quidem sunt uocati, pauci uero electi. Id quod adhuc 
+          cla<lb ed="#Z" n="3" break="no"/>rius &amp; pleniusexponit Lucae 14. ubi reddit caussas in parabola quare bona homi 
+          <lb ed="#Z" n="4"/>num pars salutem aeternam non consequatur, quia terrena perituraquoe praefert coe 
+          <lb ed="#Z" n="5"/>lestibus. Alius enim aliud suae praetexebat inobedientiae. Hic uillam emerat: ille 
+          <lb ed="#Z" n="6"/>iuga boum : erat qui uxorem duxisset. Ita in euangelio secundum Ioannem dicit 
+          <lb ed="#Z" n="7"/>dominus, Haec est condemnatio, quod lux uenit in mundum, &amp; homines magis di- 
+          <lb ed="#Z" n="8"/>fexerunt tenebras quam lucem. Congruit cum doctrina euangelica sermo aposto 
+          <lb ed="#Z" n="9"/>licus 2. Cor. 4. cap. Et in 1. ad Timoth. 4. cap. dicit apostolus, Deus est seruator om 
+          <lb ed="#Z" n="10"/>nium hominum, maxime fidelium. Vnde colligimus deum in praedicatione euan 
+          <lb ed="#Z" n="11"/>gelij sui abs quolibet nostrum requirere fidem: cum alias constet fide participes nos 
+          <lb ed="#Z" n="12"/>fieri omnium bonorum Christi. Et certe correlatio est inter fidem &amp; euangelium. 
+          <lb ed="#Z" n="13"/>Dominus enim in euangelio secundum Marcum praedicationi euangelij fidem  
+          <lb ed="#Z" n="14"/>coniungit. Et Paulus dicit sibi ministerium euangelij commissum in obedientiam  
+          <lb ed="#Z" n="15"/>fidei. Idem, Euangelium, inquit, est uirtus dei ad salutem omni credenti. Idem ad 
+          <lb ed="#Z" n="16"/>Rom. 10. gradatione quadam ostendit euangelium fide percipi. Vt autem fides 
+          <lb ed="#Z" n="17"/>possit in animis hominum legitime plantari, necesse est praeire praedicationem 
+          poe<lb ed="#Z" n="18" break="no"/>nitentiae. Vnde in descriptione euangelij sub finem dixi, modo peccata nostra ag 
+          <lb ed="#Z" n="19"/>noscentes credamus in Christum: id est dominus erit saluator noster conferens 
+          <lb ed="#Z" n="20"/>nobis uitam, si agnouerimus peccata, crediderimusque in eum. Ideoque hic locum ha 
+          <lb ed="#Z" n="21"/>bent poenitentia &amp; fides. De Fide disputaui Sermone 4. 5. &amp; 6. Decad. I. De 
+          Poe<lb ed="#Z" n="22" break="no"/>nitentia postea disseram Sermone peculiari: hic summam duntaxat rerum, &amp; quan 
+          <lb ed="#Z" n="23"/>tum illustrando euangelio satis esse putauero, perstringam.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1896">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Ipse dominus noster requirit in praedicatione euangelica, poenitentiam &amp; fi- 
+          <lb ed="#Z" n="25"/>dem: nec alia uia, cum ipse euangelium praedicaret, processit. Marcus enim, Venit  
+          <lb ed="#Z" n="26"/>Iesus in Galilaeam, inquit, praedicans euangelium regni dei, &amp; dicens, Impletum est 
+          <lb ed="#Z" n="27"/>tempus, instatque regnum dei, resipiscite &amp; credite euangelio: nec aliter discipulos 
+          <lb ed="#Z" n="28"/>suos instruxit, cum eos ad praedicandum euangelium nationibus amandaret. Lu 
+          <lb ed="#Z" n="29"/>cas enim habet, Christus discipulis suis dixit, Sic scriptum est, &amp; sic oportebat Chri- 
+          <lb ed="#Z" n="30"/>stum pati &amp; resurgere a mortuis tertio die, &amp; praedicari in nomine eius 
+          poeniten<lb ed="#Z" n="31" break="no"/>tiam &amp; remisionem peccatorum in omnes gentes. Magistrum sequutus 
+          discipu<lb ed="#Z" n="32" break="no"/>lus Paulus in Actis, Scitis, inquit, ut nihil suffugerim eorum, quae essent in rem 
+          ue<lb ed="#Z" n="33" break="no"/>stram, quin annunciarem uobis &amp; docerem uos publice &amp; domestice, testificans 
+          <lb ed="#Z" n="34"/>ludaeis simul &amp; Graecis, eam quae erga deum est poenitentiam, ac fidem quae est erga 
+          <lb ed="#Z" n="35"/>dominum nostrum Iesum. Certe in epistola sua ad Romanos, qua methodice 
+          tra<lb ed="#Z" n="36" break="no"/>ctat euangelium, auspicatur euangelij praedicationem a peccato, ludaeos &amp; Gentes 
+          <lb ed="#Z" n="37"/>peccati conuincens. Hoc autem facit hoc consilio &amp; in hunc finem, ut quisque in 
+          se<lb ed="#Z" n="38" break="no"/>metipsum descendens agnoscat se nihil habere iustitiae, sed ex sua natura filium 
+          <lb ed="#Z" n="39"/>esse irae, mortis uel condemnationis, non quod talis peccatorum agnitio per se nos 
+          <lb ed="#Z" n="40"/>efficiat deo gratos, aut mereatur remisionem peccatorum ac uitam aeternam, sed 
+          <lb ed="#Z" n="41"/>quod hominis animum suo modo praeparet ad percipiendam fidem in Christum  
+          <lb ed="#Z" n="42"/>adeoque ad ipsum Christum amplectendum, qui est iustitia nostra. Nam ualidi non  
+          <lb ed="#Z" n="43"/>opus habent medico, sed languidi. Ergo qui arbitrantur se sine peccatis mundos,  
+          <lb ed="#Z" n="44"/>uel iustos esse, Christum aspernantur : contra qui animi morbos sentiunt, &amp; ex 
+          <lb ed="#Z" n="45"/>animo fatentur se esse peccatores &amp; iniustos, diffidentes suis meritis &amp; uiribus,  
+          <lb ed="#Z" n="46"/>anheli festinant ad Christum. Quod cum fit, offert se Christus in euangelio, 
+          pro<lb ed="#Z" n="47" break="no"/>mittens eis peccatorum remisionem &amp; uitam aeternam : quippe cum uenerit 
+          sa<lb ed="#Z" n="48" break="no"/>nandis aegris saluandisque peccatoribus. Caeterum promissio fide non operibu 
+          <!--393.xml-->
+          <pb ed="#Z" n="185-v"/>
+          <lb ed="#Z" n="1"/>recipitur, ideoque euangelium &amp; in euangelio Christus fide recipitur. Etenim di- 
+          <lb ed="#Z" n="2"/>stinguendum erit diligenter inter praecepta &amp; promisiones. Nam hae recipiuntur 
+          <lb ed="#Z" n="3"/>fide: illa perficiuntur operibus. Vnde Paulus dixisse legitur, Si ex lege est 
+          haere<lb ed="#Z" n="4" break="no"/>ditas, non iam est ex promisione. Atqui Abrabae per promisionem donauit deus, 
+          <lb ed="#Z" n="5"/>Idem apostolus ad Romanos conferens inter se legem &amp; euangelium, lustitia, 
+          in<lb ed="#Z" n="6" break="no"/>quit, quae est ex lege sic habet, Qui fecerit ea, uiuet in eis. Fidei aunt iustitia sic 
+          ha<lb ed="#Z" n="7" break="no"/>bet, Si credideris, saluus eris. Lex itaque nititur operibus, quibus iustitiam tribuere 
+          <lb ed="#Z" n="8"/>uidetur. Sed quia nemo factis praestat legem, nemo certe per facta uel legem 
+          iusti<lb ed="#Z" n="9" break="no"/>ficatur. Euangelium non innititur operibus. Nam peccatores nihil in seipsis agno 
+          <lb ed="#Z" n="10"/>scunt quam peccatum. Totos enim corruptos se esse sentiunt: iccirco confugiunt 
+          <lb ed="#Z" n="11"/>ad misericordiam dei, cuius promissis fidunt, sperantes se gratis consequuturos 
+          <lb ed="#Z" n="12"/>ueniam, &amp; propter Christum receptos esse in numerum filiorum dei. Plura hic di 
+          <lb ed="#Z" n="13"/>cerem de Fide in dominum Iesum, de remisione peccatorum haereditateque uitae 
+          <lb ed="#Z" n="14"/>aeternae, nisi in 1. Decad, id fuse proposuissem. Hinc obiter colligimus, Euangelium 
+          <lb ed="#Z" n="15"/>non syncere praedicari, quando docetur propter opera uel merita nostra Christi 
+          <lb ed="#Z" n="16"/>uitam nobis communicari. Nam gratis sine omni respectu operum nostrorum, siue 
+          <lb ed="#Z" n="17"/>praecedentium, siue sequentium, per fidem saluamur.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e1995">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Et quamuis hoc argumentum tractauerim semel &amp; iterum in hisce nostris ser 
+          <lb ed="#Z" n="19"/>i monibus, quia tamen in eo uoluitur cardo doctrinae euangelicae, &amp; hoc dogma 
+          <lb ed="#Z" n="20"/>(nempe fide non operibus recipi Christum) a multis acerrime oppugnatur, duos 
+          <lb ed="#Z" n="21"/>tantum locos, sed maxime illustres, pro eius declaratione &amp; confirmatione 
+          ad<lb ed="#Z" n="22" break="no"/>ducam, alterum quidem ex euangelio Christi domini, alterum ex epistolis 
+          san<lb ed="#Z" n="23" break="no"/>cti Pauli.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2012">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Dominus noster Iesus Christus compendium uerae salutis traditurus, id est 
+          e<lb ed="#Z" n="25" break="no"/>uangelium uitae praedicaturus Nicodemo, in euangelio Ioannis, auspicatur at poe 
+          <lb ed="#Z" n="26"/>nitentia, totumque sibi ipsum eripit Nicodemum, nullis relictis ei meritis quibus fi- 
+          <lb ed="#Z" n="27"/>dere possit. Dum enim primam hominis natiuitatem prorsus damnat, ut quae ad 
+          <lb ed="#Z" n="28"/>uitam aeternam nihil conferat consequendam, quid quaeso reliquit Nicodemo, in 
+          <lb ed="#Z" n="29"/>quo gloriari queat? Diserte enim dicit, Amen amen dico tibi, nisi quis natus fuerit 
+          <lb ed="#Z" n="30"/>e supernis, non potest uidere regnum dei. Si prima natiuitas &amp; eius facultates ad 
+          <lb ed="#Z" n="31"/>regnum dei possent prouehere, quid quaeso opus erat natiuitate secunda? Secunda 
+          <lb ed="#Z" n="32"/>natiuitas fit opera spiritus sancti, qui coelitus in corda nostra transfusus, inducit 
+          <lb ed="#Z" n="33"/>nos in cognitionem nostri, ut facile perspiciamus firmiterque teneamus, adde &amp; 
+          sen<lb ed="#Z" n="34" break="no"/>tiamus in carne nostra non esse uitam aut iustitiam ullam : &amp; prinde neminem  
+          <lb ed="#Z" n="35"/>suis uiribus aut meritis seruari. Quid ergo ? Pergit spiritus &amp; docet, sicuti &amp; uox 
+          <lb ed="#Z" n="36"/>euangelij foris personat, fide nos per meritum filij dei seruari. Nam in euangelio 
+          <lb ed="#Z" n="37"/>ait dominus, Nemo ascendit in coelum, nisi qui descendit de coelo, filius hominis 
+          <lb ed="#Z" n="38"/>qui est in coelo. Clarius enim alibi dicit, Nemo uenit ad patrem nisi per me. Et 
+          ite<lb ed="#Z" n="39" break="no"/>rum ad Nicodemum, Sicut Moses exaltauit serpentem in deserto, ita exaltari opor- 
+          <lb ed="#Z" n="40"/>tet filium hominis, ut omnis qui credit in eum non pereat, sed habeat uitam 
+          aeter<lb ed="#Z" n="41" break="no"/>nam. Moses autem suspendit serpentem in deserto ad salutem morientium e uene 
+          <lb ed="#Z" n="42"/>no uel ex morsu serpentium. Moriebantur enim euestigio quos pupugissent 
+          dip<lb ed="#Z" n="43" break="no"/>sades. Quod si quis ueneno infectus aeneum aspexisset serpentem, innoxia 
+          redde<lb ed="#Z" n="44" break="no"/>batur ueneni uis, neque moriebatur afflictus: Nec erat in castris lsraelitarum 
+          ul<lb ed="#Z" n="45" break="no"/>lum remedium aliud, quam hoc unicum: hoc qui spreuit, interijt. Non 
+          depel<lb ed="#Z" n="46" break="no"/>lebatur enim uis ueneni, non seruabatur uita morientis, uel precibus ullis uel 
+          <lb ed="#Z" n="47"/>sacrificijs multis, uel herbis salutaribus, uel ullo alio medicamine, uel ulla alia 
+          ra<lb ed="#Z" n="48" break="no"/>tione. Si quis uoluisset euadere mortis periculum, serpentem aeneum suspensum 
+          <!--394.xml-->
+          <pb ed="#Z" n="186-r"/>
+          <lb ed="#Z" n="1"/>inspicere oportebat. Porro serpens ille aeneus Christum dominum nostrum praefi 
+          <lb ed="#Z" n="2"/>gurauit: qui sublatus in crucem salus unica constituitur a deo. Sed quibus 
+          obtin<lb ed="#Z" n="3" break="no"/>git illa salus? Aspicientibus exaltatum. Aspicereinterpretatur dominus, &amp; 
+          repo<lb ed="#Z" n="4" break="no"/>nit pro eo credere. Proinde nulla opera, nulla media alia, nulla merita seruant nos 
+          <lb ed="#Z" n="5"/>a morte aeterna, a ui peccati seu ueneni ab antiquo serpente nobis omnibus 
+          affla<lb ed="#Z" n="6" break="no"/>ti: Sola fides, quae Christum credit propter peccata nostra exaltatum, in quo uno 
+          <lb ed="#Z" n="7"/>uita sit ac salus certissima, uiuificat. Audi quid his praeterea subiungat dominus, 
+          <lb ed="#Z" n="8"/>Nicodemum in uera fide adhuc plenius erudiens, &amp; caussam salutis nostrae meram 
+          <lb ed="#Z" n="9"/>dei gratiam constituens, quae fide percipiatur. Sic enim deus dilexit mundum, 
+          in<lb ed="#Z" n="10" break="no"/>quit, ut filium suum unigenitum daret: ut omnis qui credit in eum non pereat, sed 
+          <lb ed="#Z" n="11"/>habeat uitam aeternam. Non enim misit deus filium suum in mundum, ut 
+          condem<lb ed="#Z" n="12" break="no"/>net mundum, sed ut seruetur mundus per eum, Qui credit in eum, non condem 
+          <lb ed="#Z" n="13"/>natur: qui uero non credit, iam condemnatus est: quia non credit in nomen 
+          uni<lb ed="#Z" n="14" break="no"/>geniti filij dei. En quid poterat dici clarius? Fide Christi participes efficimur. 
+          Fi<lb ed="#Z" n="15" break="no"/>dem toties repetendo inculcauit, ne quis de tam illustri doctrina uel tantillum 
+          ad<lb ed="#Z" n="16" break="no"/>dubitaret. Si uero hic parum apud te ualet Christi authoritas, cuius quaeso 
+          uale<lb ed="#Z" n="17" break="no"/>bit? Sed ualet, sat scio. Audi tamen adhuc dilectum domino discipulum in 
+          episto<lb ed="#Z" n="18" break="no"/>la sua haec domini uerba ueluti declarantem declarandoque repetentem &amp; toti 
+          mun<lb ed="#Z" n="19" break="no"/>do ualidissime inculcantem atque clamantem, Si testimonium hominum accipimus, 
+          <lb ed="#Z" n="20"/>testimonium dei maius est : quoniam hoc est testimonium dei, quo testificatus est 
+          <lb ed="#Z" n="21"/>de filio suo,. Qui credit in filium, habet testimonium in seipso. Qui non credit 
+          deo<lb ed="#Z" n="22" break="no"/>mendacem facit eum: quia non credidit in testimonium quod deus testatus est de 
+          <lb ed="#Z" n="23"/>filio. Et hoc est testimonium quod uitam aeternam dedit nobis deus, &amp; haec uita in 
+          <lb ed="#Z" n="24"/>filio eius est. Qui habet filium, habet uitam: qui non habet filium dei, uitam non ha 
+          <lb ed="#Z" n="25"/>bet. Habere autem filium dei quid aliud est quam credere? Nam hic sensus 
+          colli<lb ed="#Z" n="26" break="no"/>gitur ex praecedentibus: quae tam sunt clara, ut his aliquid addere, non sit agere 
+          <lb ed="#Z" n="27"/>aliud, quam exorientem solem iuuare aut illustrare uelle candela aliqua sebacea.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2134">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Iam ad locum Pauli descendimus. Extat is in 3. &amp; 4. cap. ad Romanos, Absque  
+          <lb ed="#Z" n="29"/>lege, ait, iustitia dei manifestata est, dum comprobatur testimonio legis &amp; prophe 
+          <lb ed="#Z" n="30"/>tarum. Praedicat hoc loco Paulus euangelium luculentissime. Non enim scio si  
+          <lb ed="#Z" n="31"/>ullibi hoc fecerit clarius. Docet autem quomodo iustificemur apud deum, quae 
+          <lb ed="#Z" n="32"/>sit uera iustitia &amp; salus hominum, &amp; per quid obueniat nobis. Dicit iustitiam dei, 
+          <lb ed="#Z" n="33"/>id est, quam confert deus, uel quae consistit &amp; ualet coram deo, reuelari absque lege,  
+          <lb ed="#Z" n="34"/>id est, obtingere nobis nullo legis adminiculo, nimirum nullo praesidio uel 
+          meri<lb ed="#Z" n="35" break="no"/>to operum legis. Quod enim attinet testimonium legis, adde &amp; prophetarum, 
+          te<lb ed="#Z" n="36" break="no"/>stificantur concorditer, dei iustitia iustificari credentes. Porro quae nam sit dei 
+          iu<lb ed="#Z" n="37" break="no"/>stitia mox sequitur, lustitia uero dei per fidem Iesu Christi in omnes &amp; super om- 
+          <lb ed="#Z" n="38"/>nes qui credunt. lustitia, inquit, qua de loquimur, quae iustificat &amp; saluat, non est 
+          <lb ed="#Z" n="39"/>hominis uel humana, sed dei uel diuina iustitia. Vt enim solus deus iustus est, ita 
+          <lb ed="#Z" n="40"/>iustitia dei uera &amp; sola est iustitia saluans. Comunicat is eam per fidem Iesu Chri- 
+          <lb ed="#Z" n="41"/>sti, nempe si credamus in Christum. Nec hic excluditur a iustitia uel salute ullus,  
+          <lb ed="#Z" n="42"/>Diserte enim dicit Paulus, In omnes &amp; super omnes, qui credunt. Proinde om- 
+          <lb ed="#Z" n="43"/>nes credentes in Christum dei filium pro iustis reputat deus. Caussam autem cur 
+          <lb ed="#Z" n="44"/>dei non hominis iustitiae salutem tribuat, uel cur euangelium dei nobis iustitiam  
+          <lb ed="#Z" n="45"/>commendet, subiungit, &amp; ait, Non enim est distinctio: omnes peccauerunt, ac 
+          de<lb ed="#Z" n="46" break="no"/>stituuntur gloria dei. Quia enim omnes homines natura sua gloria dei 
+          destituun<lb ed="#Z" n="47" break="no"/>tur, carentes utique uera imagine dei ad quam erant conditi ab initio, certe omnes 
+          <lb ed="#Z" n="48"/>iniusti sunt ac peccatores : prinde nulla est in eis iustitia, nihil habent quo apud 
+          <!--395.xml-->
+          <pb ed="#Z" n="186-v"/>
+          <lb ed="#Z" n="1"/>deum glorientur. Peccatores enim a tribunali dei quid obsecro reportant aliud, 
+          <lb ed="#Z" n="2"/>quam confusionem &amp; ignominiam? Et quia omnes homines tales sunt, non teme 
+          <lb ed="#Z" n="3"/>re subdit apostolus, lustificantur gratis per illius gratiam, per redemptionem in 
+          <lb ed="#Z" n="4"/>Christo Iesu: quem proposuit deus propitiationem uel reconciliationem per fidem 
+          <lb ed="#Z" n="5"/>in eius sanguine. Quod perinde est ac si dixisset, Mera dei gratia uel misericordia, 
+          <lb ed="#Z" n="6"/>&amp; nullo merito plane, propter Christum iustificantur homines : si uidelicet 
+          cre<lb ed="#Z" n="7" break="no"/>dant quod deus filium dederit mundo, ut sanguinem suum funderet, &amp; 
+          peccato<lb ed="#Z" n="8" break="no"/>res purgatos reconciliaret deo. Quibus uerbis significantissime modus &amp; ratio  
+          <lb ed="#Z" n="9"/>tota sanctificandi, purificandi, uel iustificandi plenissime est exposita. Sed praestat 
+          <lb ed="#Z" n="10"/>apostoli uerba repetere, &amp; penitius considerare. lustificantur gratis, ait. Quare ue 
+          <lb ed="#Z" n="11"/>ro gratis. Quia per meram dei gratiam, nullo se nostro merito aut opere 
+          admiscen<lb ed="#Z" n="12" break="no"/>te. Omnes enim homines peccatores sunt: unde nihil quod adferant habent: ideoque  
+          <lb ed="#Z" n="13"/>gratuito iustificantur. Nam idem apostolus in 11. ad Romanos cap. Si per gratiam, 
+          <lb ed="#Z" n="14"/>ait, saluamur, non iam ex operibus: quandoquidem gratia, iam non est gratia : sin 
+          <lb ed="#Z" n="15"/>ex operibus, iam non est gratia. Verum sequitur mox in Paulo, quod clarissimum 
+          <lb ed="#Z" n="16"/>alioqui negotium adhuc illustret magis, Per redemptionem, quae est in Christo.  
+          <lb ed="#Z" n="17"/>Gratiae merae opus est salus &amp; iustitia nostra : quia redempti sumus. Quod enim  
+          <lb ed="#Z" n="18"/>nos nostrasque uires &amp; opera nostra attinet, serui eramus diaboli &amp; mortis, quia 
+          <lb ed="#Z" n="19"/>peccatores. Deus autem misso filio redemit nos, cum adhuc dei hostes uincti tene 
+          <lb ed="#Z" n="20"/>remur. Ergo gratis redemit: quod &amp; lsaias propheta in 52. cap. non obscuris 
+          uer<lb ed="#Z" n="21" break="no"/>bis futurum praedixit. Caeterum, non est in alio quoquam, quam in Christo 
+          domi<lb ed="#Z" n="22" break="no"/>no nostro, salus uera. Proposuit enim aeterno suo consilio coelestis pater filium 
+          <lb ed="#Z" n="23"/>suum dominum nostrum Iesum Christum propitiationem, nimirum ut is esset re- 
+          <lb ed="#Z" n="24"/>conciliatio nostra, propter quem placatus nos adoptat in filios dei. Verum non  
+          <lb ed="#Z" n="25"/>alia ratione, quam per fidem in eius sanguinem. Id est, si credamus missum a 
+          pa<lb ed="#Z" n="26" break="no"/>tre filium effudisse sanguinem, quo purgatos nos iustos &amp; sanctos statuat deo pa 
+          <lb ed="#Z" n="27"/>tri. Vbi iterum uidemus, fide in Christum gratis constare salutem nostram,
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2246">
+          <lb ed="#Z" n="28"/><pc type="indent"/> His ad hunc modum exposits, protinus quam late pateat redemptionis, 
+          iusti<lb ed="#Z" n="29" break="no"/>ficationisue beneficium indicans, subdit, Ad ostensionem iustitiae suae propter 
+          re<lb ed="#Z" n="30" break="no"/>misionem praeteritorum peccatorum quae deus tolerauit: ad ollendendam 
+          iusti<lb ed="#Z" n="31" break="no"/>tiam suam in praesenti tempore. Proposuit deus Christum, inquit, unicam 
+          propi<lb ed="#Z" n="32" break="no"/>tiationem, ut ostenderet unicam esse omnium saeculorum iustitiam, ipsum, inquam, 
+          <lb ed="#Z" n="33"/>Christum, &amp; eorum quidem iustitiam qui credunt. Duo autem tempora 
+          comme<lb ed="#Z" n="34" break="no"/>morat, Vetus illud patrum, &amp; nostrum quo hodie uiuimus. Vetus praecedit 
+          ad<lb ed="#Z" n="35" break="no"/>uentum Christi, nostrum sequitur extenditurque usque in finem saeculi. Et ueteris 
+          <lb ed="#Z" n="36"/>quidem saeculi peccata tolerauit deus sua illa longanimitate, propter Christum, per 
+          <lb ed="#Z" n="37"/>quem condonauit. Nec nobis hodie aliam proponit iustitiam quam Christum, fide 
+          <lb ed="#Z" n="38"/>percipiendum. Nam minime obscuris uerbis ab apostolo subiungitur, In hoc ut 
+          <lb ed="#Z" n="39"/>ipse sit iustus, &amp; iustificans eum qui est ex fide Iesu. Quasi dicat. Haec aunt huc ten 
+          <lb ed="#Z" n="40"/>dunt, ut intelligamus omnes homines esse iniustos &amp; peccatores, solum autem  
+          <lb ed="#Z" n="41"/>deum esse iustum, extra quem nulla sit iustitia: iustitiam uero suam omnibus com  
+          <lb ed="#Z" n="42"/>municare quotquot credunt in Christum, nimirum quod propter ipsum nobis 
+          <lb ed="#Z" n="43"/>placatus sit pater, &amp; quod propter ipsum reputemur iusti &amp; sancti.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2284">
+          <lb ed="#Z" n="44"/><pc type="indent"/> His apostoli uerbis refutantur duo ualde impij &amp; blasphemi errores 
+          quorun<lb ed="#Z" n="45" break="no"/>dam. Alter eorum est qui aiunt patres nostros non fide in Christum, sed per lege 
+          <lb ed="#Z" n="46"/>&amp; merita propria esse iustificatos. Christum enim passum esse non pro illis, sed 
+          <lb ed="#Z" n="47"/>duntaxat pro sui saeculi hominibus &amp; insequentibus. Alter est dicentium Christum 
+          <lb ed="#Z" n="48"/>pro ueteribus, pro originali duntaxat peccato, non pro nobis aut pro nostris om 
+          <!--396.xml-->
+          <pb ed="#Z" n="187-r"/>
+          <lb ed="#Z" n="1"/>nibus peccatis perlitasse, ideoque nos pro nostris oportere satisfacere. 
+          Aposto<lb ed="#Z" n="2" break="no"/>lus autem Paulus hoc loco condemnat utramque sententiam. Nam &amp; beatus Ioan 
+          <lb ed="#Z" n="3"/>nes euangelista S. Paulo accinens, Sanguis, inquit, filij dei emundat nos ab omni 
+          <lb ed="#Z" n="4"/>peccato. Ipse enim est propitiatio pro peccatis nostris : non pro nostris autem tan 
+          <lb ed="#Z" n="5"/>tum, sed etiam pro totius mundi. Itaque meritum redemptionis Christi extendit se 
+          <lb ed="#Z" n="6"/>ad omnes utriusque testamenti fideles.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2316">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Pergit apostolus Paulus &amp; ijs quae proposuit infert, Vbi igitur gloriatio? Ex- 
+          <lb ed="#Z" n="8"/>clusa est. Per quam legem? Operum? Non, imo per legem fidei. Colligit doctrina 
+          <lb ed="#Z" n="9"/>euangelica hactenus proposita de fide iustificante, omnem propriae iustitiae gloria 
+          <lb ed="#Z" n="10"/>tionem, omnem de meritis iactationem sublatam euanuisse. Non per legem 
+          ope<lb ed="#Z" n="11" break="no"/>rum, id est, per doctrinam de operibus, quae nos fere infsare solet: sed per legem fi 
+          <lb ed="#Z" n="12"/>dei, id est, per doctrinam fidei, quae euacuatis nobis nihil nisi humilem inopiae con  
+          <lb ed="#Z" n="13"/>fessionem relinquit, gratiaeque in Christo omnia tribuit. Tadem uero principalem  
+          <lb ed="#Z" n="14"/>propositonem colligens insert. Constituimus ergo, fide iustificari hominem 
+          abs<lb ed="#Z" n="15" break="no"/>que operibus legis. Haec summa est breuissima totius euangelij, iustificari nos, id 
+          <lb ed="#Z" n="16"/>est, absolui a peccatis, a lata mortis uel condemnationis sententia, sanctificari 
+          au<lb ed="#Z" n="17" break="no"/>tem &amp; adoptari in numerum filiorum dei, fide, id est, fiducia in nomen Christi,  
+          <lb ed="#Z" n="18"/>qui datus est nobis saluator at patre unicus. Et hic nominatim excluduntur 
+          ope<lb ed="#Z" n="19" break="no"/>ra, ne ulla nobis suppeditetur occasio implicandi fidem operibus, aut operibus 
+          <lb ed="#Z" n="20"/>eam tribuendi gloriam, quae uni fidei uel potius Christo domino, cui fides 
+          inniti<lb ed="#Z" n="21" break="no"/>tur, debetur.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2352">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Propositionem autem propositam confirmat mox argumentis, simul indicans,  
+          <lb ed="#Z" n="23"/>hanc salutem communem esse ludaeis &amp; Gentibus, dicens, An ludaeorum deus 
+          <lb ed="#Z" n="24"/>tantum: An non &amp; Gentium: Certe et Gentium. Quandoquidem unus deus qui 
+          <lb ed="#Z" n="25"/>iustificabit circuncisionem ex fide : &amp; praeputium per fidem. Anatura dei quod 
+          <lb ed="#Z" n="26"/>dixit confirmat. Vnus est duntaxat deus, natura sua uita &amp; iustitia. Et hic est 
+          lu<lb ed="#Z" n="27" break="no"/>daeorum &amp; Gentium deus: ergo utriusque gentis uita est &amp; iustitia: quam fide 
+          con<lb ed="#Z" n="28" break="no"/>fert: fides ergo iustificat. Hoc declaratur uel Cornelij Centurionis exemplo. lusti 
+          <lb ed="#Z" n="29"/>ficatur enim, imo iustificatus uisibiliter demisso spiritu sancto comprobatur, cum 
+          <lb ed="#Z" n="30"/>nec circuncisus esset nec seruasset legem, sed audisset modo euangelij praedicatio 
+          <lb ed="#Z" n="31"/>nem ac credidisset in Christum. Caeterum non solum Cornelium deus sic iustifica 
+          <lb ed="#Z" n="32"/>uit, sed omnes alias gentes iustificabit fide: neque aliter quam per fidem ludaeos 
+          <lb ed="#Z" n="33"/>quoque purgabit. Sequitur in Paulo, Legem igitur irritam facimus per fidem: 
+          Ab<lb ed="#Z" n="34" break="no"/>sit. Imo legem stabilimus. Solent enim operum uel potius iustificationis operum 
+          <lb ed="#Z" n="35"/>assertores obiicere, Si fides in Christum iustificat sola, inutilis est ergo lex uel 
+          le<lb ed="#Z" n="36" break="no"/>gis doctrina. Quorsum enim praecipitur ut bona faciamus opera, si non 
+          iustifi<lb ed="#Z" n="37" break="no"/>cant: Respondet apostolus, Fide non aboleri legem, imo stabiliri magis. Cum enim 
+          <lb ed="#Z" n="38"/>fides in Christum recta tendit, in quo omnem plenitudinem quaerit &amp; inuenit:  
+          <lb ed="#Z" n="39"/>ac lex ipsa paedagogus est ad Christum, omniaque sub peccatum concludit, ut iusti 
+          <lb ed="#Z" n="40"/>ficatio ex fide detur credentibus, clarum est fidei doctrina legem minime destrui 
+          <lb ed="#Z" n="41"/>aut obscurari, sed confirmari, illustrarique.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2399">
+          <lb ed="#Z" n="42"/><pc type="indent"/> Pergit apostolus in confirmatione sua &amp; dicit, Quid igitur dicemus Abraham  
+          <lb ed="#Z" n="43"/>patrem nostrum inuenisse secundum carnem? Nam si Abraham ex operibus iusti 
+          <lb ed="#Z" n="44"/>ficatus fuit, habet quod glorietur: at non apud deum. Quid enim scriptura dicit? 
+          <lb ed="#Z" n="45"/>Credidit Abraham deo, &amp; imputatum est ei ad iustitiam. Multa quidem sunt san 
+          <lb ed="#Z" n="46"/>ctorum patrum exempla: uerum apostolus sibi ex omnibus Abrahae solius propo 
+          <lb ed="#Z" n="47"/>suit tractandum. Nam in scripturis appellatur pater credentium. Vnde certum  
+          <lb ed="#Z" n="48"/>est, liberos ad eum modum fore iustificandos, ad quem modum pater iustificatus 
+          <!--397.xml-->
+          <pb ed="#Z" n="187-v"/>
+          <lb ed="#Z" n="1"/>docetur. Id quod apostolus disertis uerbis expressit in fine capitis 4. Deinde A- 
+          <lb ed="#Z" n="2"/>braham multis clarus fuit operibus bonis, prae caeteris sanctis patribus : ergo si quis  
+          <lb ed="#Z" n="3"/>alius potuisset iustificari suis operibus uel meritis, potuisset prae caeteris 
+          Abra<lb ed="#Z" n="4" break="no"/>ham. Sed quia fide non operibus iustificatus est, constat omnes sanctos fide non  
+          <lb ed="#Z" n="5"/>operibus &amp; iustificatos esse, &amp; iustificari. Praeterea uixit ante legem per Mosen 
+          <lb ed="#Z" n="6"/>reuelatam annis 430. unde opera eius nequaquam possunt a contentiosis 
+          oppu<lb ed="#Z" n="7" break="no"/>gnatoribus iustificationis fidei, appellari opera legis. Ergo quae fecit opera, ex fi- 
+          <lb ed="#Z" n="8"/>de fecit, &amp; opera eius fuerunt opera fidei, nec tame ijs est iustificatus, sed fide. Ma 
+          <lb ed="#Z" n="9"/>net ergo omnis iustificationis gloria fidei, &amp; illibata quidem ac impermixta. Quid,  
+          <lb ed="#Z" n="10"/>inquit, dicemus Abrahamum patrem nostrum inuenisse secundum carnem, qua 
+          <lb ed="#Z" n="11"/>tenus uidelicet homo est &amp; nos ex ipso. Quid inquam dicemus illum meruisse? 
+          <lb ed="#Z" n="12"/>Ad hanc interrogationem reponenda est responsio, Nihil inuenit, nihil operibus 
+          <lb ed="#Z" n="13"/>suis meruit. Sequitur enim probatio, Si operibus meruit aliquid uel iustificatus 
+          <lb ed="#Z" n="14"/>est Abraham, habet quod glorietur. Atqui non habet quod glorietur: ergo operi- 
+          <lb ed="#Z" n="15"/>bus non est iustificatus. Deus enim solus iustus est, &amp; hanc suam gloriam sibi 
+          in<lb ed="#Z" n="16" break="no"/>communicatam alijs soli retinet, iustificans gratis eos qui sunt ex fide Iesu Christi, 
+          <lb ed="#Z" n="17"/>ut laudetur gratia eius. Ceterum ipse Paulus adducto scripturae loco, ostendit A- 
+          <lb ed="#Z" n="18"/>brahamum non habuisse unde gloriaretur. Quid enim, inquit, scriptura dicit? Cre 
+          <lb ed="#Z" n="19"/>didit Abraham deo, &amp; imputatum est ei ad iustitiam. En clarissime dicit scriptura 
+          <lb ed="#Z" n="20"/>Abrahamum fide esse iustificatum, imo fidem imputatam esse pro iustitia, adeoque  
+          <lb ed="#Z" n="21"/>Abrahamum propter fidem iustum fuisse reputatum a iustissimo deo. Sed 
+          audia<lb ed="#Z" n="22" break="no"/>mus ipsum Paulum instituto suo locum scripturae applicantem. Sequitur ergo,  
+          <lb ed="#Z" n="23"/>Ei uero qui operatur, merces non imputatur secundum gratiam, sed secundum 
+          <lb ed="#Z" n="24"/>debitum. Porro ei qui non operatur, sed credit in eum qui iustificat impium, 
+          im<lb ed="#Z" n="25" break="no"/>putatur fides sua ad iustitiam. Quae sane uerba in huiusmodi ratiocinationes bre 
+          <lb ed="#Z" n="26"/>ues concludi possunt, Quisquis opere suo aliquid promeretur, ei certe merces ut 
+          <lb ed="#Z" n="27"/>debita redditur, non gratis imputatur. Imputatur autem Abrahae fides ad 
+          iusti<lb ed="#Z" n="28" break="no"/>tiam: ergo iustitiam non ut mercedem debitam, sed gratuito accepit. Et iterum, Ei 
+          <lb ed="#Z" n="29"/>qui non operatur, sed credit in eum qui iustificat impium, imputatur fides ad 
+          iu<lb ed="#Z" n="30" break="no"/>stitiam. Abrahae autem imputata est fides ad iustitiam: ergo fide consequutus est 
+          <lb ed="#Z" n="31"/>iustitiam, non operibus. Habet autem emphasim quod dicit, Sed credit in eum 
+          <lb ed="#Z" n="32"/>qui iustificat impium. Significatur enim iustificandum nihil afferre, nisi miseriae,  
+          <lb ed="#Z" n="33"/>imo impietatis propriae agnitionem, quae misericordiam quaerat. Intelligit enim se 
+          <lb ed="#Z" n="34"/>destitui operibus perfectis, &amp; coram iudicio dei subsistere potentibus. Confugit 
+          <lb ed="#Z" n="35"/>ergo ad mi sericordiam dei, pro certo praesumens, fidei iustitiam esse praesidium pec 
+          <lb ed="#Z" n="36"/>catoris gratuito saluandi. Obseruandum hic iustitiam Christianam dici &amp; esse im  
+          <lb ed="#Z" n="37"/>putatiuam. Quod sane omnem nostram gloriationem confringit. Opponitur 
+          e<lb ed="#Z" n="38" break="no"/>nim debito, imputatio. Nullo nobis debito obstringitur deus propter nos aut pro 
+          <lb ed="#Z" n="39"/>pter nostra opera, nisi quatenus ipse se nobis obstrinxit ex misericordia. Et multa 
+          <lb ed="#Z" n="40"/>sunt in nobis quae iustitiae perfectionem impediunt. Vnde Dauid clamauit, Ne in 
+          <lb ed="#Z" n="41"/>tres in iudicium cum seruo tuo: quia non iustificabitur in conspectu tuo ullus ui 
+          <lb ed="#Z" n="42"/>uens. Deus ergo gratuito nobis imputat iustitiam fidei : id est reputat nos pro 
+          iu<lb ed="#Z" n="43" break="no"/>stis, quia credimus ipsi per filium. Sic in euangelica parabola legimus dominum  
+          <lb ed="#Z" n="44"/>dixisse, Cum autem debitores non essent soluendo, condonauit utrisque debitum¬  
+          <lb ed="#Z" n="45"/>Condonat enim &amp; nobis debita siue peccata deus, non reputans illa nobis: sed nos 
+          <lb ed="#Z" n="46"/>pro iustis habens propter Christum.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2523">
+          <lb ed="#Z" n="47"/><pc type="indent"/> Clarissime etenim testificans in epistola ad Corinthios secunda, idem hic A- 
+          <lb ed="#Z" n="48"/>po. tolus, dicit, Erat Deus in Christo, mundum sibi reconcilians, non imputando 
+          <!--398.xml-->
+          <pb ed="#Z" n="188-r"/>
+          <lb ed="#Z" n="1"/>hominibus peccata. Deinde continuo post adiincit, Eum qui peccatum non 
+          noue<lb ed="#Z" n="2" break="no"/>rat, pro nobis peccatum fecit, ut essemus iustitia dei in illo. Quid apertius requi¬  
+          <lb ed="#Z" n="3"/>ras, quam nos coram deo iustos censeri, quia Christi sacrificio expiata sint 
+          pecca<lb ed="#Z" n="4" break="no"/>ta nostra, ne amplius sub reatu nos teneant?
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2544">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Pergimus &amp; alia S. Pauli argumenta, non minus firma quam haec hactenus 
+          <lb ed="#Z" n="6"/>fuerunt, recensere. Sequitur, Quemadmodum &amp; Dauid explicat beatificationem 
+          <lb ed="#Z" n="7"/>hominis, cui deus imputat iustitiam absque operibus, Beati quorum remissae sunt ini 
+          <lb ed="#Z" n="8"/>quitates: &amp; quorum obtecta sunt peccata. Beatus uir, cui non imputauerit domi 
+          <lb ed="#Z" n="9"/>nus peccatum. Principio claris &amp; disertis uerbis quid intendat adserere uel 
+          con<lb ed="#Z" n="10" break="no"/>firmare, exprimens constituit, nempe sanctis deum imputare iustitiam absque 
+          ope<lb ed="#Z" n="11" break="no"/>ribus. Quid poterat dici clarius? Id ut commostret testimonium Dauidis profert,  
+          <lb ed="#Z" n="12"/>quod membra fere tria habet. Principio, Beati, inquit, quorum remissae sunt 
+          ini<lb ed="#Z" n="13" break="no"/>quitates. Deinde, Beati quorum obtecta sunt peccata. Postremo, Beatus uir cui 
+          <lb ed="#Z" n="14"/>non imputauerit deus peccatum. Vis autem argumentationis seu demonstratio 
+          <lb ed="#Z" n="15"/>nis est in uerbis Remittere. Obtegere &amp; Non imputare, Remittit creditor debito 
+          <lb ed="#Z" n="16"/>ri quod non numerauit, siue uero numerare possit siue non possit. Nos deo hic 
+          <lb ed="#Z" n="17"/>annumerare nihil possumus, Remissio ergo merae liberalitatis &amp; gratiae munus 
+          <lb ed="#Z" n="18"/>est. Non enim potest creditor remittere quod annumeratum est. Cum hoc facit 
+          uo<lb ed="#Z" n="19" break="no"/>cabulum Donare, &amp; donum in scripturis, in hac eadem causa eodem modo 
+          usur<lb ed="#Z" n="20" break="no"/>patum. Vnde Paulus, Deus Abrahae donauit, ait, haereditatem: ergo non meruit 
+          <lb ed="#Z" n="21"/>operibus. Obtegitur autem res aliqua foeda oculos offendens hominum, interim  
+          <lb ed="#Z" n="22"/>uero res foeda latet adhuc sub tectorio, licet oculis hominum non appareat. Et pec 
+          <lb ed="#Z" n="23"/>cata nostra contegit misericors dominus, non ut non sint, sed ne appareant aut iu 
+          <lb ed="#Z" n="24"/>dicentur. Id quod gratiae est munus, non meriti. Tectorium enim aliud non est, d san 
+          <lb ed="#Z" n="25"/>guis filij dei : propter hunc enim non danamur peccatores. lam uero iure posset no 
+          <lb ed="#Z" n="26"/>bis dominus imputare peccatum: sed ex gratia non imputat. Omnia haec euidenter con 
+          <lb ed="#Z" n="27"/>firmant atque demonstrant, iustitiam gratuito per fidem absque operibus imputari nobis,
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2597">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Idem hic Pauli ex Dauide sumptus locus &amp; alia nobis controuersa dogmata 
+          <lb ed="#Z" n="29"/>discutit &amp; illustrat. Discimus enim quod iustificatio aliud nihil sit quam 
+          beatifica<lb ed="#Z" n="30" break="no"/>tio, peccatorum remissio, &amp; adoptio in numerum filiorum dei. Discimus Paulum 
+          <lb ed="#Z" n="31"/>loqui non tantum de operibus legis caeremonialibus, sed de omnis generis 
+          sancto<lb ed="#Z" n="32" break="no"/>rum bonis operibus. Discimus item remitti &amp; condonari &amp; peccata &amp; 
+          iniquita<lb ed="#Z" n="33" break="no"/>tes, id est omnia omnis generis peccata fidelium. Discimus praeterea plene remit- 
+          <lb ed="#Z" n="34"/>ti peccata, non culpam duntaxat sed etiam poenam: quam quidam aiunt 
+          retineri<lb ed="#Z" n="35" break="no"/>non enim imputat peccata. Alibi dicit se peccatorum nullam prorsus memoriam  
+          <lb ed="#Z" n="36"/>habiturum. Postremo discimus satisfactiones pro peccatis ab hominibus inuentas,  
+          <lb ed="#Z" n="37"/>uanissimum esse commentum, ex diametro pugnans cum doctrina apostolica.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2622">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Adduxi hucusque locos maxime illustres, alterum quidem ex euangelio Christi, 
+          <lb ed="#Z" n="39"/>alterum ex epist. ad Romanos Pauli, quibus demonstrare uolui, Christum per euan 
+          <lb ed="#Z" n="40"/>gelium nobis annunciatum, non operibus sed fide recipi: ac spero me diuinis 
+          te<lb ed="#Z" n="41" break="no"/>stimonijs rem maximi momenti sic declarasse, ut nemo sit porro qui anceps &amp; 
+          du<lb ed="#Z" n="42" break="no"/>bius haereat. His illud maxime certe necessarium adiincio, omnibus in ecclesia Chri- 
+          <lb ed="#Z" n="43"/>sti sanctis &amp; bonis uiris modis omnibus annitendum, ut impolluta &amp; syncera 
+          <lb ed="#Z" n="44"/>haec euangelij doctrina maneat. Nullo enim modo admittendum est, ut 
+          iustifica<lb ed="#Z" n="45" break="no"/>tionis portio fidei &amp; misericordiae dei, portio operibus fidei &amp; meritis nostris 
+          <lb ed="#Z" n="46"/>transcribatur. Id enim si fiat, actum est de euangelio. Vrgendum ergo unice &amp;  
+          <lb ed="#Z" n="47"/>incessanter omnibus nobis censeo, fide absque operibus, gratia, inquam, &amp; 
+          miseri<lb ed="#Z" n="48" break="no"/>cordia dei per solum Christum iustificari, saluari uel beari credentes. Ac multas 
+          <!--399.xml-->
+          <pb ed="#Z" n="188-v"/>
+          <lb ed="#Z" n="1"/>quidem ob caussas hoc dogma euangelij syncerum &amp; incommixtum seruari opor- 
+          <lb ed="#Z" n="2"/>tere in ecclesia arbitror, maxime uero propter has sequentes.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2658">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Principio constat iam saepe repetitam doctrinam de gratia dei in filio suo 
+          uni<lb ed="#Z" n="4" break="no"/>co per solam fidem iustificante, tot inde a mundi exordio diuinis testimonijs, 
+          de<lb ed="#Z" n="5" break="no"/>nionstrationibus determinationibusque, etiam irrefragabilium conciliorum, &amp; 
+          pro<lb ed="#Z" n="6" break="no"/>positam &amp; inculcatam esse, ut ipse omnium saeculorum in ueritate coelitus 
+          reue<lb ed="#Z" n="7" break="no"/>lata consensus sanctissimorumque in toto mundo hominum authoritas nos inuitet 
+          <lb ed="#Z" n="8"/>ad retinendum dogma illud impollutum. Habemus beati patris nostri Abrahae 
+          <lb ed="#Z" n="9"/>iustificationem non ab obscuro aliquo authore, sed a doctore gentium organoque  
+          <lb ed="#Z" n="10"/>dei selectissimo Paulo, paucis ante expositam. Habemus gloriosissimi regis 
+          Da<lb ed="#Z" n="11" break="no"/>uidis, uiri parati secundum cor dei, proaui Christi domini nostri, doctrinam de iu 
+          <lb ed="#Z" n="12"/>stificatione ab eodem enarratam apostolo Paulo. Fuerunt autem in ecclesia dei 
+          <lb ed="#Z" n="13"/>semper primae authoritatis Abraham atque Dauid. Quibus accedit totum omnium 
+          <lb ed="#Z" n="14"/>prophetarum collegium. Petrus enim apostolus, Christo omnes prophetae, ait, 
+          te<lb ed="#Z" n="15" break="no"/>stimonium serunt, quod remisionem peccatorum accepturus sit per nomen eius 
+          <lb ed="#Z" n="16"/>quisquis crediderit in eum. Sed &amp; modo ex ore Pauli audiuimus, iustitiam dei gra 
+          <lb ed="#Z" n="17"/>tis per fidem absque lege collatam, comprobari testimonio legis &amp; prophetarum,  
+          <lb ed="#Z" n="18"/>Habemus ipsum quoque dei filium Iesum Christum dominum nostrum, 
+          authorita<lb ed="#Z" n="19" break="no"/>te omnes in mundo praestantissimos longe excellentem. Is ueluti Concilijs 
+          qui<lb ed="#Z" n="20" break="no"/>busdam celebratis definit quod modis omnibus retinendum suademus. Collectis 
+          <lb ed="#Z" n="21"/>enim discipulis suis apud Caesaream Philippicam interrogauit quid de ipso 
+          sen<lb ed="#Z" n="22" break="no"/>tiant, Respondentibus autem uarie, ex diuersis uulgi opinionibus, certam ex 
+          ip<lb ed="#Z" n="23" break="no"/>sis confessionem requirit. Hic Petrus omnium nomine, Tues, inquit, Christus ille 
+          <lb ed="#Z" n="24"/>filius dei uiuentis. Ad quem dominus dixit, Beatus es Simon Bar lona, quia caro 
+          <lb ed="#Z" n="25"/>&amp; sanguis non reuelauit tibi, sed pater meus qui est in coelis. Duo his determinat.  
+          <lb ed="#Z" n="26"/>Prius, Veram fidem beatificare. Nec dubium quin beatificandi uerbo utatur 
+          si<lb ed="#Z" n="27" break="no"/>cuti modo in Paulo usurpatum ex Dauide audiuimus. Posterius. Fidem 
+          beatifi<lb ed="#Z" n="28" break="no"/>cantem non esse opus nostrae naturae, sed donum dei coeleste. Deinde uero 
+          Simo<lb ed="#Z" n="29" break="no"/>ni Petro ex memorabili illa uerae fidei confessione nomen imponit, ad aeternam  
+          <lb ed="#Z" n="30"/>rei memoriam, &amp; ad mysterij huius significationem in omnium animis 
+          retinen<lb ed="#Z" n="31" break="no"/>dam. Petrus Christum petram erat confessus. Apetra ergo Petrum denominat,  
+          <lb ed="#Z" n="32"/>quasi tu dicas uiuo lapidi uiuum impositum, &amp; a Christo Christianum. Imo ne 
+          <lb ed="#Z" n="33"/>quis uniuersale negotium ad catholicam ecclesiam pertinens, ad unum Petrum  
+          <lb ed="#Z" n="34"/>astringeret, ipse dominus uniuersali ecclesiae ista adaptat, &amp; dicit, Et super hanc pe 
+          <lb ed="#Z" n="35"/>tram aedificabo ecclesiam meam : &amp; portae inferorum non praeualebunt aduersus 
+          <lb ed="#Z" n="36"/>eam. Quasi dicat, Quod modo in te factum est Petre, posthac fiet in omnibus fi- 
+          <lb ed="#Z" n="37"/>delibus. Tu per fidem mihi petrae impositus &amp; membrum ecclesiae factus es. 
+          Con<lb ed="#Z" n="38" break="no"/>stituo ergo, ut quisquis me petram confitetur, sit membrum ecclesiae, beatus, 
+          iu<lb ed="#Z" n="39" break="no"/>stus, a diabolo &amp; ui mortis liberatus. Erit confessio tua, id est, ego Christus dei fi- 
+          <lb ed="#Z" n="40"/>lius, quem confessus es, fundamentum ecclesiae : cui qui fide imponuntur, salui &amp;  
+          <lb ed="#Z" n="41"/>beati futuri sunt. Nam &amp; Paulus dixit, Fundamentum aliud non potest poni, quam  
+          <lb ed="#Z" n="42"/>quod positum est, quod est Iesus Christus. Et Ioannes apostolus, Haec est uictoria, 
+          <lb ed="#Z" n="43"/>ait, quae uicit mundum, fides uestra. lam ne Petrus cum alijs condiscipulis nesci- 
+          <lb ed="#Z" n="44"/>ret qua uia alij homines in consortium ecclesiae &amp; communionem cum Christo 
+          <lb ed="#Z" n="45"/>admitterentur, subiungit protinus, Et dabo tibi claues regni coelorum: &amp; quicquid 
+          <lb ed="#Z" n="46"/>solueris in terra, erit solutum &amp; in coelis, &amp;c. Claues autem dedit cum apostolos 
+          <lb ed="#Z" n="47"/>ad praedicandum euangelium amandauit. Praedicatione ergo euangelij (quae 
+          cla<lb ed="#Z" n="48" break="no"/>uis est regni coelorum,) aperitur coelum &amp; indicatur uia quomodo Christo &amp; ec¬ 
+          <!--400.xml-->
+          <pb ed="#Z" n="189-r"/>
+          <lb ed="#Z" n="1"/>clesiae inserti haeredes fiamus uitae aeternae, nimirum per fidem in Christum, quam  
+          <lb ed="#Z" n="2"/>docet nos Christi euangelium. Haec de Caesarien. Concilio hactenus. Extat apud 
+          <lb ed="#Z" n="3"/>Ioannem aliud, Capernaiticum, frequens &amp; celebre. In magna enim discipulorum 
+          <lb ed="#Z" n="4"/>&amp; hominum frequentia determinat, fide in Christum uitam parari aeternam: nec 
+          <lb ed="#Z" n="5"/>aliam esse uiam ad uitam perueniendi, nisi edamus eius carnem, &amp; bibamus eius 
+          <lb ed="#Z" n="6"/>sanguinem: id est, nisi in ipsum credamus. Cumque inter auditores schisma fieret 
+          <lb ed="#Z" n="7"/>multis a Christo deficientibus, rogat discipulos suos intimos, num &amp; ipsi uelint 
+          a<lb ed="#Z" n="8" break="no"/>postatare, respondit Petrus omnium nomine, Cum in te Christe salus sit &amp; uita, 
+          <lb ed="#Z" n="9"/>non possumus uita participare cupientes a te diuertere, ideoque per fidem tibi 
+          fir<lb ed="#Z" n="10" break="no"/>miter &amp; aeternum adhaerebimus. Porro Concilia hic comemoranda ueniunt apo 
+          <lb ed="#Z" n="11"/>stolica duo. Alterum quidem nemo negauerit fuisse uereoecumenicum. Erant in 
+          <lb ed="#Z" n="12"/>eo uiri religiosi ex omni natione earum quae sub coelo sunt. In eo disertissimis uer 
+          <lb ed="#Z" n="13"/>bis docuit Petrus, Christum esse saluatorem mundi, cui qui credit habeat uitam  
+          <lb ed="#Z" n="14"/>aeternam. Notus est locus Actor. cap. 2. Apud principes ludaeorum idem 
+          aposto<lb ed="#Z" n="15" break="no"/>lus demonstrat non in alio quam in Christo esse salutem. Extat locus in Actis apost. 
+          <lb ed="#Z" n="16"/>cap. 3. Idem facit apud Gentium primitias, apud Cornelium &amp; suos cap. 19. 
+          Alte<lb ed="#Z" n="17" break="no"/>rum concilium &amp; ipsum fuit celeberrimum, &amp; omnibus dotibus maximis instru 
+          <lb ed="#Z" n="18"/>ctissimum, &amp; describitur Actor. 15. In eo obtinuit baec proposito, fidem absque ope 
+          <lb ed="#Z" n="19"/>ribus gratis iustificare. De qua re alias copiose disserui. His uero omnibus 
+          osten<lb ed="#Z" n="20" break="no"/>sum uolo, ideo dogma de iustificante absque operibus fide, in ecclesia impermixtum  
+          <lb ed="#Z" n="21"/>&amp; syncerum retineri oportere, quia, ut sic dicam, catholicissimum &amp; 
+          irrefraga<lb ed="#Z" n="22" break="no"/>bile est : cui hic quoqe ab apostolo Paulo anathematismus accessit, Etiamsi nos aut  
+          <lb ed="#Z" n="23"/>angelus e coelo praedicarit uobis euangelium, praeter id quod praedicauimus 
+          uo<lb ed="#Z" n="24" break="no"/>bis, anathema sit.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2818">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Secunda caussa cur praestet hoc dogma syncerum retinere in ecclesia, illa est,  
+          <lb ed="#Z" n="26"/>quod hoc uel luxato, periclitabitur gloria Christi. Haec enim &amp; obscuratur &amp; 
+          cor<lb ed="#Z" n="27" break="no"/>rumpitur in animis hominum (in seipsa manet alioqui integerrima &amp; illustrissima 
+          <lb ed="#Z" n="28"/>semper) si iustitiam qua coram deo consistimus coeperimus etiam partiri nostris 
+          <lb ed="#Z" n="29"/>operibus ac meritis. Haec enim est gloria filij dei, quod aliud nomen sub coelo non 
+          <lb ed="#Z" n="30"/>est datum hominibus in quo oporteat saluos fieri. Hinc dixit Paulus, Christus uo 
+          <lb ed="#Z" n="31"/>bis factus est otiosus, quicunque per legem iustificamini a gratia excidistis. Et iterum 
+          <lb ed="#Z" n="32"/>Non aspernor gratiam dei. Nam si per legem est iustitia: igitur Christus frustra mor- 
+          <lb ed="#Z" n="33"/>tuus est. Si frustra mortuus est, perijt gloria crucis Christi.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2842">
+          <lb ed="#Z" n="34"/><pc type="indent"/> Tertia caussa est nostrae salutis certa &amp; constantissima ratio. Incertissima esset 
+          <lb ed="#Z" n="35"/>salus nostra si a nostris penderet meritis atque operibus, qui propter agnatam 
+          no<lb ed="#Z" n="36" break="no"/>bis corruptionem, nisi insaniamus prorsus, cum lobo dicimus, Si habuero 
+          quip<lb ed="#Z" n="37" break="no"/>piam iustum non respondebo, sed meum iudicem deprecabor. Paulus ergo recte 
+          <lb ed="#Z" n="38"/>pronunciauit, Si ex lege haereditas est, inanis facta est fides, irrita facta est 
+          pro<lb ed="#Z" n="39" break="no"/>missio. Propterea ex fide, ut secundum gratiam, quo firma sit promissio 
+          uniuer<lb ed="#Z" n="40" break="no"/>so semini.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2861">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Quarta caussa est, quod hac doctrina maxime reparatur in nobis imago dei, 
+          <lb ed="#Z" n="42"/>ad quam initio sumus conditi. Fide enim in nobis habitat &amp; uiuit Christus, qui 
+          hu<lb ed="#Z" n="43" break="no"/>militate nostra delectatur. Excitatur autem in nobis imago diaboli, cum in 
+          no<lb ed="#Z" n="44" break="no"/>bisipsis superbire &amp; gloriam dei usurpare incipimus. Hoc fit proculdubio, cum  
+          <lb ed="#Z" n="45"/>nobisipsis iustitiam &amp; salutem attribuimus: quasi nostris operibus &amp; meritis 
+          re<lb ed="#Z" n="46" break="no"/>gnum dei promereamur. Diabolus superbit conaturque ad se gloriam dei rapere. 
+          <lb ed="#Z" n="47"/>Sancti agnoscunt se uera dei gratia misericordiaque saluari: unde omnem deo 
+          glo<lb ed="#Z" n="48" break="no"/>riam tribuunt, sibi confusionem &amp; ignominiam. Quo haud dubie pertinet para¬ 
+          <!--401.xml-->
+          <pb ed="#Z" n="189-v"/>
+          <lb ed="#Z" n="1"/>bola euangelica de pharisaeo gloriante in suis bonis operibus, &amp; de publicano cla 
+          <lb ed="#Z" n="2"/>mante, Deus propitius esto mihi peccatori: quorum hic magis quam ille 
+          iustifica<lb ed="#Z" n="3" break="no"/>tus in domum suam descendisse legitur.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2893">
+          <lb ed="#Z" n="4"/><pc type="indent"/> Quinta caussa est, peccati aestimatio. Certe non grandis uidetur culpa quam  
+          <lb ed="#Z" n="5"/>coram deo diluere possunt humana opera. Verum scriptura sancta demonstrat 
+          <lb ed="#Z" n="6"/>peccata non potuisse expiari, nisi ipsius filij dei morte &amp; sanguine innoxio. Inde 
+          <lb ed="#Z" n="7"/>uero cordatus quisque colligit, peccatum in oculis dei rem esse longe deterrimam  
+          <lb ed="#Z" n="8"/>atque prorsus horribilem. Vnde mox exoritur in sanctis diligens contra peccatum  
+          <lb ed="#Z" n="9"/>uigilia, &amp; perpetua sortis nostrae, profecto miserrimae, deploratio &amp; humilitas 
+          mo<lb ed="#Z" n="10" break="no"/>destiaque exquisitissima. Possem his adhuc plures attexere caussas, cur modis 
+          om<lb ed="#Z" n="11" break="no"/>nibus omnes adniti &amp; laborare deceat, ut dogma hoc, Gratia dei, in unigenito 
+          <lb ed="#Z" n="12"/>dei filio, per fidem, non per opera iustificari ecclesiam catholicam, syncerum &amp; im  
+          <lb ed="#Z" n="13"/>permixtum retineatur in ecclesia: sed has minime contentiosis sufficere spero. 
+          <lb ed="#Z" n="14"/>Nullum hic periculum est ne uilescant opera bona. De quibus dixi suo loco. Si 
+          <lb ed="#Z" n="15"/>qui uero contra manifestam ueritatem euangelicam rixari perrexerint, ijs illud 
+          <lb ed="#Z" n="16"/>Pauli obiicio, neque nos neque ecclesias dei in huiusmodi aperta luce altercari.
+        </p>
+        <p xml:id="UD1xh4-Y2eV31-d1e2925">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Summa uero omnium eorum quae hactenus de euangelio disserui, haec est,  
+          <lb ed="#Z" n="18"/>Omnes quotquot in mundo sunt homines sua natura seruos esse peccati, diaboli 
+          <lb ed="#Z" n="19"/>mortisque aeternae. nec solui, nec liberari posse ulla re alia quam gratuita dei gratia 
+          <lb ed="#Z" n="20"/>&amp; redemptione quae est in unigenito dei filio domino nostro Iesu Christo. Cuius 
+          <lb ed="#Z" n="21"/>quidem redemptionis fiant participes soli credentes. Nam qui per ueram fidem  
+          <lb ed="#Z" n="22"/>filium dei, euangelio annunciatum, recipiunt, simul iustificantur, id est absoluun 
+          <lb ed="#Z" n="23"/>tur at peccatis suis, sanctificantur, fiuntque haeredes uitae aeternae. Qui uero per 
+          in<lb ed="#Z" n="24" break="no"/>credulitatem cordisque duritiem, Christum non recipiunt, aeternis poenis &amp; uincu 
+          <lb ed="#Z" n="25"/>lis sunt addicti. Nam ira dei manet super eos. Agamus ergo gratias redemptori 
+          <lb ed="#Z" n="26"/>nostro deo, obsecrantes ut nos in uera fide retineat, prouehat, &amp; in uitam aeternam  
+          <lb ed="#Z" n="27"/>perducat. Amen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

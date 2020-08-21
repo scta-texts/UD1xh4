@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 5</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 5</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="51-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-mOvINz"><!-- d2s5 --> 
+        <head xml:id="UD1xh4-mOvINz-Hd1e106">Sermo 5</head>
+        <head xml:id="UD1xh4-mOvINz-Hd1e109" type="question-title">
+       De primo secundae tabulae praecepto, 
+       quod ordine in Decalogo quintum est, de honorandis parentibus
+      </head>
+        <p xml:id="UD1xh4-mOvINz-d1e112">
+          <lb ed="#Z" n="15"/><pc type="indent"/> De primo secundae tabulae praecepto, quod ordine in Decalogo quintum est, de honorandis parentibus, 
+          <lb ed="#Z" n="16"/>SERMO V. 
+          <lb ed="#Z" n="17"/>E QVITVR tabula legis diuinae secunda, quam deo inspirante &amp; iu 
+          <lb ed="#Z" n="18"/>uante ea exponam breuitate, qua enarraui primam. Et ut prima docuit 
+          <lb ed="#Z" n="19"/>dilectionem dei, ita secunda tradit dilectionem proximi, erudiens 
+          om<lb ed="#Z" n="20" break="no"/>nes homines quae nam sint officia proximo debita, &amp; quomodo 
+          uiua<lb ed="#Z" n="21" break="no"/>mus in hoc saeculo honeste, humaniter &amp; tranquille. Bonus enim dominus uult 
+          <lb ed="#Z" n="22"/>nos uiuere commode &amp; suauiter. Nos quoniam id nolumus agnoscere, neque man 
+          <lb ed="#Z" n="23"/>datis eius bonis obtemperare, nostris uitijs &amp; malis aceruamus in capita nostra 
+          <lb ed="#Z" n="24"/>cumulum malorum. Continet tabula baec sex precepta, quorum primum est tale,  
+          <lb ed="#Z" n="25"/>HONORA PATREM TVVM ET MATREM TVAM, VT 
+          <lb ed="#Z" n="26"/>SIS LONGAEVVS SVPER TERRAM QVAM DOMINVS 
+          <lb ed="#Z" n="27"/>DEVS TVVS DABIT TIBI. Recte orditur secundam tabulam ab 
+          ho<lb ed="#Z" n="28" break="no"/>norandis parentibus. Nam post pietatem in deum, proxima est pietas in parentes,  
+          <lb ed="#Z" n="29"/>a quibus post deum habemus uitam, &amp; qui inaestimandis uigilijs &amp; laboribus immen 
+          <lb ed="#Z" n="30"/>sis nos educarunt ab insantia. Ac naturalis quidem ordo requirit ut semper 
+          prae<lb ed="#Z" n="31" break="no"/>cedant praestantiora.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e152">
+          <lb ed="#Z" n="32"/><pc type="indent"/> Distinguemus hoc mandatum perspicuitatis gratia in tres partes. Primo ex- 
+          <lb ed="#Z" n="33"/>plicabimus qui gradus &amp; quae genera hominum coprehendantur sub uocabulo 
+          <lb ed="#Z" n="34"/>parentum. Secundo inuestigabimus quis nam sit ille honor &amp; quam late pateat,  
+          <lb ed="#Z" n="35"/>quem iubet dominus impendere parentibus. Postremo attingemus &amp; 
+          promissio<lb ed="#Z" n="36" break="no"/>nem pijs factam liberis, &amp; inde colligemus poenam impijs destinatam.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e166">
+          <lb ed="#Z" n="37"/><pc type="indent"/> Parentes qui sint nemo ignorat. Dedit hos nobis dominus deus noster ut ab 
+          <lb ed="#Z" n="38"/>ipsis acciperemus initium uitae, qui nutrirent &amp; educarent nos, qui denique ex bar 
+          <lb ed="#Z" n="39"/>baris &amp; semibrutis uere homines facerent. Maius est beneficium quod liberis con-  
+          <lb ed="#Z" n="40"/>serunt parentes, maior labor &amp; sumptus quem faciunt, maior cura, dolor &amp; aerum  
+          <lb ed="#Z" n="41"/>na, quam quisquam uel eloquentissimus enumerauerit. Significanter autem non  
+          <lb ed="#Z" n="42"/>patris tantum, sed &amp; matris nomen exprimitur in lege, ne propter sexus 
+          imbecil<lb ed="#Z" n="43" break="no"/>litatem uideretur citra grauem noxam contemni. Plus laboris dolorisque sustinent 
+          <lb ed="#Z" n="44"/>&amp; sentiunt piae matres in partu, educatione &amp; nutritione liberorum quam patres. 
+          <lb ed="#Z" n="45"/>Magna ergo de causa &amp; matris nomen in praecepto diserte est expressum. 
+          Com<lb ed="#Z" n="46" break="no"/>prehendimus autem hic quoque auum &amp; auiam, abauum &amp; abauiam, omniaque hu¬ 
+          <!--125.xml-->
+          <pb ed="#Z" n="51-v"/>
+          <lb ed="#Z" n="1"/>ius generis alia. Comprehendimus secundo loco patriam cuiusque in qua natus est 
+          <lb ed="#Z" n="2"/>quisque, quae aluit, fouit, ornauit atque defendit. Comprehendimus tertio loco princi 
+          <lb ed="#Z" n="3"/>pes seu magistratus, Senatores enim seu principes &amp; patres &amp; pastores populi in 
+          <lb ed="#Z" n="4"/>sacris nuncupantur. Xenophon putauit bonum principem nihil distare a bono 
+          <lb ed="#Z" n="5"/>patre. Quarto loco recenseantur parentum nomine Tutores, quos appellant 
+          ad<lb ed="#Z" n="6" break="no"/>uocatos pupillorum aut orphanorum. Succedunt enim in locum demortuorum 
+          <lb ed="#Z" n="7"/>parentum, sumpta cura &amp; tutela liberorum, quos ueluti proprios &amp; ex se genitos 
+          <lb ed="#Z" n="8"/>(hic enim affectus in eis sit oportet) educant, tuentur &amp; prouehunt. Quibus 
+          accen<lb ed="#Z" n="9" break="no"/>sendi sunt magistri artium, opifices. Hi enim docent iuuenes seu adolescentes ho 
+          <lb ed="#Z" n="10"/>nestum aliquod artificium, quo quisque sibi honeste uictum paret, erudiunt in 
+          bo<lb ed="#Z" n="11" break="no"/>nis moribus, &amp; quodammodo hominem adhuc rudem expoliunt perficiuntque.  
+          <lb ed="#Z" n="12"/>Quinto reputantur pro parentibus ministri, doctores, &amp; pastores ecclesiarum,  
+          <lb ed="#Z" n="13"/>quos ipse Paulus patres uocauit, non tam propter curam &amp; amorem quibus affe 
+          <lb ed="#Z" n="14"/>cti sunt erga discipulos ac ouiculas, quam quod per euangelium generamur Chri- 
+          <lb ed="#Z" n="15"/>sto. Sexto loco ueniunt numerandi consanguinei &amp; affines, frater &amp; soror, 
+          nepo<lb ed="#Z" n="16" break="no"/>tes &amp; neptes, socrus &amp; nurus, socer &amp; gener : qui inter se necessitudine ceu 
+          ner<lb ed="#Z" n="17" break="no"/>uis membra connectuntur &amp; conseruantur. Vltimo uero loco senes, uiduae, 
+          pu<lb ed="#Z" n="18" break="no"/>pilli, imbecilles &amp; infirmi parentibus nostris coniunguntur: quorum causam non 
+          <lb ed="#Z" n="19"/>uno loco commendauit nobis scriptura diuina. Habetis fratres quos intelligamus 
+          <lb ed="#Z" n="20"/>in hoc primo mandato secundae tabulae esse parentes &amp; parentum nomine 
+          com<lb ed="#Z" n="21" break="no"/>prehensos &amp; commendatos: iam audite quem his debeamus honorem, &amp; quis uel 
+          <lb ed="#Z" n="22"/>quid sit honor ille quem debemus parentibus.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e244">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Honorare significat in scripturis uaria, &amp; in praesenti quidem magnificare, re 
+          <lb ed="#Z" n="24"/>uereri, plurimi facere, ceu rem a deo institutam uenerari &amp; pro diuino beneficio,  
+          <lb ed="#Z" n="25"/>pro re diuina sancta, utili &amp; necessaria agnoscere, amare &amp; laudare. Honorare est 
+          <lb ed="#Z" n="26"/>morem gerere aut obedire, &amp; obedire quidem, tanquam ipsi deo, a quo praeceptam 
+          <lb ed="#Z" n="27"/>ac cui acceptam esse nouimus nostram obedientiam. Alioqui parentibus &amp; 
+          ma<lb ed="#Z" n="28" break="no"/>ioribus iniqua uel facientibus uel praecipientibus non est aut imitatione aut obe- 
+          <lb ed="#Z" n="29"/>dientia obtemperandum. Nam posteriora praecepta reseruntur ad priora. At in 
+          <lb ed="#Z" n="30"/>secundo didicimus deum iniquitatem patrum requirere in filijs, iccirco minime 
+          <lb ed="#Z" n="31"/>parendum parentibus praecipientibus contra deum &amp; contra legem dei. Non 
+          obe<lb ed="#Z" n="32" break="no"/>diebat lonathan patri suo Saulo persecutionem mandanti contra Dauidem: ac 
+          <lb ed="#Z" n="33"/>laudem inde adeptus est in sacris literis maximam. Tres Danielis socij Nabuchodo 
+          <lb ed="#Z" n="34"/>nosori obtemperabant per omnia, &amp; amabant ipsum, ac obseruabant ceu maxi- 
+          <lb ed="#Z" n="35"/>mum &amp; potentissimum imo &amp; munificentissimum regem, caeterum praecipientem 
+          <lb ed="#Z" n="36"/>idololatriam tantum non contempserunt. Et S. Petrus qui docuit obedientiam &amp;  
+          <lb ed="#Z" n="37"/>honorem quem debemus parentibus &amp; magistratui exhibere, praecipientibus prin 
+          <lb ed="#Z" n="38"/>cipibus &amp; patribus populi ne porro annunciaret populo Christum crucifixum,  
+          <lb ed="#Z" n="39"/>respondit. Oportere deo plus obedire quam hominibus. Sed quid multis haec enu 
+          <lb ed="#Z" n="40"/>mero, cum dominus haec &amp; alia similia in hanc breuem concluserit sententiam¬  
+          <lb ed="#Z" n="41"/>Si quis uenit ad me, nec odit patrem suum, aut matrem suam, &amp; uxorem, &amp; filios,  
+          <lb ed="#Z" n="42"/>&amp; fratres, &amp; sorores, praeterea autem &amp; animam suam, non potest meus esse disci 
+          <lb ed="#Z" n="43"/>pulus, Praeterea honoras parentes cum non contemnis, non negligis, cum te 
+          ipso<lb ed="#Z" n="44" break="no"/>rum nec piget nec pudet propter afflictam fortunam. Honoras parentes cum 
+          iu<lb ed="#Z" n="45" break="no"/>uas consilio &amp; auxilio, confectos uidelicet diuturna etate, uel subleuas inopia op 
+          <lb ed="#Z" n="46"/>pressos, uel iuuas alioqui laborantes. Hoc enim uere &amp; proprie est parentes 
+          ho<lb ed="#Z" n="47" break="no"/>norare teste &amp; interprete ipso domino apud Matth. in cap. 15. consulere inquam pa 
+          <lb ed="#Z" n="48"/>rentibus &amp; opitulari, eos tueri uel defendere, imo te totum adeoque ipsam uitam  
+          <lb ed="#Z" n="49"/>eis impendere.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e306">
+          <!--126.xml-->
+          <pb ed="#Z" n="52-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Iam quo plus lucis &amp; euidentiae habeant ista omnia, conferemus aut 
+          applica<lb ed="#Z" n="2" break="no"/>bimus hunc honorem septem illis gradibus uel membris, ex quibus intelligat 
+          quis<lb ed="#Z" n="3" break="no"/>que quomodo debitum honorem parentibus, patriae, magistratui, &amp; alijs supra 
+          <lb ed="#Z" n="4"/>memoratis impendat. Parentibus quia honorem debemus, certe magnifice de eis 
+          <lb ed="#Z" n="5"/>est sentiendum, quod a deo nobis dati sunt, ut eos reuereamur, amemus, &amp; modis 
+          <lb ed="#Z" n="6"/>omnibus suspiciamus, idque propter dominum: qui certo contemnetur si pergamus 
+          <lb ed="#Z" n="7"/>parentes aspernari, &amp; de ipsis sentire uulgariter. Nec interest digni ne an indigni 
+          <lb ed="#Z" n="8"/>sint, quibus honorem deferre iubet dominus. Nam qualescunque tandem sint, non  
+          <lb ed="#Z" n="9"/>tamen sine dei prouidentia hunc locum assecuti sunt, cuius ratione ipse legislator 
+          <lb ed="#Z" n="10"/>eos honorari uoluit, Reuerentiam itaque &amp; affectum filialem sonet quicquid 
+          lin<lb ed="#Z" n="11" break="no"/>gua liberorum dixerit. Ex affectu &amp; reuerentia tali obediant parentibus liberi. Si 
+          <lb ed="#Z" n="12"/>morosiores aut iniquiores uideantur, dissimulemus prudenter, &amp; declinemus 
+          in<lb ed="#Z" n="13" break="no"/>terim a malo in quod nos uidebantur impulsuri, &amp; ita rem temperemus, ut quam  
+          <lb ed="#Z" n="14"/>minimum fieri potest offendamus parentes. lonathas filius Saulis religiosissimus 
+          <lb ed="#Z" n="15"/>&amp; pijssimus sit nobis exemplum. Vidit is magno cum dolore &amp; molestia furores 
+          <lb ed="#Z" n="16"/>contra Dauidem &amp; iniuriam patris contra seipsum, tolerauit tamen dissimulauitque 
+          <lb ed="#Z" n="17"/>prudenter, alicubi etiam &amp; in loco reprehendit, nullibi iniquitatem patris 
+          adiu<lb ed="#Z" n="18" break="no"/>uit, semper iusto &amp; bonis adhaesit, pertinaciam patris deplorauit, uim uero inferre 
+          <lb ed="#Z" n="19"/>paranti patri, audacius non restitit, sed fuga sibi consuluit, interea nihilominus di- 
+          <lb ed="#Z" n="20"/>lexit patrem, orauit pro eius salute, ac in reliquis filium praestitit 
+          obsequentissi<lb ed="#Z" n="21" break="no"/>mum. Hoc scilicet officium est pij filij. Hoc exemplum quilibet nostrum in obser 
+          <lb ed="#Z" n="22"/>uandis parentibus etiam duris &amp; iniquis studiose imitari conabitur. Nemo 
+          aspe<lb ed="#Z" n="23" break="no"/>rius responset, imo prorsus nullo modo responset parentibus: nemo maledicat pa 
+          <lb ed="#Z" n="24"/>tri aut matri: nisi supremi &amp; iustissimi dei maledictionem certo reportare cupiat. 
+          <lb ed="#Z" n="25"/>Si pauperes sunt parentes, si deformes, si laborent uitijs, ne illuserit his quisquam,.  
+          <lb ed="#Z" n="26"/>nemo nostrum contemnat. Ne simus ingrati erga optime meritos. Nutriamus, fo 
+          <lb ed="#Z" n="27"/>ueamus, iuuemus eos in omnibus, imo impendamus illis &amp; nos ipsos &amp; nostra 
+          <lb ed="#Z" n="28"/>omnia. Omnia enim nostra illorum sunt: omnia nostra ab illis habemus, sine 
+          qui<lb ed="#Z" n="29" break="no"/>bus non uiueremus. Meminerimus quantopere hanc legem commendarit nobis 
+          <lb ed="#Z" n="30"/>apud Matthaeum dominus. Inspiciatur cap. 15. Meminerimus quid Gentibus 
+          fue<lb ed="#Z" n="31" break="no"/>rit &amp;meopyein, nimirum mutuam officij uicem rependere, maxime nutricandi 
+          fo<lb ed="#Z" n="32" break="no"/>uendique eos a quibus aliquando fueris enutritus : ut cum liberi parentes aetate 
+          fes<lb ed="#Z" n="33" break="no"/>sos uicissim alunt fouentque. Et extat lex apud Gentes pietatis magistra, quae edicit 
+          <lb ed="#Z" n="34"/>ut liberi parentes alant, aut uinciantur. Hanc legem quam multi mortales 
+          negli<lb ed="#Z" n="35" break="no"/>gunt, sola Ciconia inter omnia animantium genera exprimit. Siquidem reliqua  
+          <lb ed="#Z" n="36"/>tantisper amant agnoscuntque parentes, dum egent illorum ad nutricationem ope 
+          <lb ed="#Z" n="37"/>ra: una ciconia parentes senecta defectos, uicissim alit, &amp; uolandi impotentes, 
+          hu<lb ed="#Z" n="38" break="no"/>meris gestat.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e396">
+          <lb ed="#Z" n="39"/><pc type="indent"/> Extant apud Gentiles piae &amp; elegantes sententiae de honorandis parentibus, 
+          <lb ed="#Z" n="40"/>Isocrates, Talem erga parentes te praesta, ait, quales se tibi tuos liberos exhibere  
+          <lb ed="#Z" n="41"/>optares. Anaximenes dixit, llle sui genitoris apprime amator est, qui operam dat 
+          <lb ed="#Z" n="42"/>ut patrem sine ulla molestia plurimum exhileret. Plato quoque in Legibus putat eum  
+          <lb ed="#Z" n="43"/>ingentem domi tenere thesaurum, quicunque patrem uel matrem, aut horum 
+          pa<lb ed="#Z" n="44" break="no"/>rentes senio confectos domi alit, nec alio simulachro in aedibus opus esse 
+          existi<lb ed="#Z" n="45" break="no"/>mat, cum omne studium conuertere iubeat ad rite colendos parentes. Idem, 
+          Pa<lb ed="#Z" n="46" break="no"/>rentibus, inquit, uiuentibus debita omnium antiquissima prima &amp; maxima 
+          per<lb ed="#Z" n="47" break="no"/>soluamus. Putare enim quisque debet omnia quae possidet eorum esse, qui 
+          genue<lb ed="#Z" n="48" break="no"/>runt &amp; educarunt, ita ut haec illis omnia pro uiribus ministrare debeat : primum  
+          <!--127.xml-->
+          <pb ed="#Z" n="52-v"/>
+          <lb ed="#Z" n="1"/>quidem externa bona: deinde corporis : postremo quae ad animum pertinent, haec 
+          <lb ed="#Z" n="2"/>omnia uidelicet mutuo data persoluens, &amp; pro curis doloribusque priscis parentum  
+          <lb ed="#Z" n="3"/>in senecta recentes reddens, quando maxime indigent. In uerbis quin etiam per 
+          <lb ed="#Z" n="4"/>totam uitam parentes uenerari maxime decet. Leuium enim uolatiliumque uerbo 
+          <lb ed="#Z" n="5"/>rum grauissima imminet poena. Nam omnibus proposita est Nemesis iudicij an 
+          <lb ed="#Z" n="6"/>gelus horum omnium consideratrix. Oportet ergo iratis animumque explentibus 
+          <lb ed="#Z" n="7"/>cedere, seu uerbis siue rebus id faciant, non ignorantes patrem iure admodum fi- 
+          <lb ed="#Z" n="8"/>lio succensere, si quando iniuriam sibi ab eo fieri arbitretur : Mortuis uero 
+          paren<lb ed="#Z" n="9" break="no"/>tibus monumenta decentissima, sed temperanter tamen construamus. Haec si ser 
+          <lb ed="#Z" n="10"/>uabimus, praemia a dijs reportabimus maxima. Haec Plato. Sanctus Hieronymus 
+          <lb ed="#Z" n="11"/>dicit, Matribus debitam impendite reuerentiam, quae uobis uteri labore 
+          seruien<lb ed="#Z" n="12" break="no"/>tes, pondus uestri corporis tolerant, atque ignotam portantes insantiam, famulatum  
+          <lb ed="#Z" n="13"/>quendam exhibent nascituris. Illo tempore non sibi tantum mater esurit nec 
+          ac<lb ed="#Z" n="14" break="no"/>ceptos sola digerit cibos. Materno uictu alitur &amp; ille qui latet, eiusque membra 
+          al<lb ed="#Z" n="15" break="no"/>terius comestione pascuntur ut homo futurus alienis morsibus saturetur. Quid 
+          <lb ed="#Z" n="16"/>ipsa memorem nutrimenta, &amp; tenerae insantiae dulces iniurias, quas nutritoris 
+          <lb ed="#Z" n="17"/>affectus de suis paruulis sumit: Quid cibos in matre confectos, qui foemineis 
+          ma<lb ed="#Z" n="18" break="no"/>nantes ex membris lacteum soluuntur in succum, &amp; fauces inualidas liquido 
+          sa<lb ed="#Z" n="19" break="no"/>pore perfundunt: Cogente natura sumunt insantes de matre quod bibant, &amp; 
+          den<lb ed="#Z" n="20" break="no"/>te non nato hoc sibi currentibus labris eliciunt quod non sit necesse mordere. Ser 
+          <lb ed="#Z" n="21"/>uiunt materna posteris pectora, seruiunt ipsis incunabulis, manus &amp; terga 
+          mem<lb ed="#Z" n="22" break="no"/>bris deuota lactentium gratos artus accipiunt. Optat mater paruulum crescere, 
+          <lb ed="#Z" n="23"/>optat cito uidere maiorem. His tot tantisque praecedentibus factis, matri debet tota 
+          <lb ed="#Z" n="24"/>alacritate seruiri,. Reddatur naturae debitum, reddatur &amp; posteris quod debetur. 
+          <lb ed="#Z" n="25"/>Exolue fili quod debes, &amp; officia debita qualicunque exhibe samulatu. Quia paren 
+          <lb ed="#Z" n="26"/>tibus nemo potest reddere quod debetur. Haec ille
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e482">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Porro patriam quisque suam merito magnifacit, amat, prouehere cupit, ornatque 
+          <lb ed="#Z" n="28"/>suis uirtutibus, iuuat omnigenis beneficijs, defendit ipsam strenue &amp; pugnat pro 
+          <lb ed="#Z" n="29"/>ea fortissime, siquidem necesse sit ipsam asserere a latronibus. Quid est obsecro ci 
+          <lb ed="#Z" n="30"/>uitatis forma, ut ille dicebat, iucundius, in qua recte constituta est ecclesia, in qua 
+          <lb ed="#Z" n="31"/>legitime colitur deus &amp; obeditur(fide &amp; dilectione, quantum scilicet gratiae con- 
+          <lb ed="#Z" n="32"/>cesserit deus) uerbo dei: in qua magistratus tuetur disciplinam &amp; bonas &amp; aequas 
+          <lb ed="#Z" n="33"/>leges, ciues obtemperant, sunt concordes, habent suos coetus uerae religionis &amp;  
+          <lb ed="#Z" n="34"/>iudiciorum causa, habent congressus honestissimos, in templis, in curia, in 
+          scho<lb ed="#Z" n="35" break="no"/>lis, colunt uirtutem &amp; literarum studia, quaerunt uictum honestis artibus, quibus 
+          <lb ed="#Z" n="36"/>uita opus habet, cultura agrorum, mercatura, opificijs, educant liberos, beneficijs 
+          <lb ed="#Z" n="37"/>prosequuntur parentes, pauperes, peregrinos. Sunt ergo in hac republica 
+          uirgi<lb ed="#Z" n="38" break="no"/>nes, nuptae, pueri, senes, matronae, uiduae, pupilli. Si qui pro ingenio humanospec 
+          <lb ed="#Z" n="39"/>cant contra leges, puniuntur, defenduntur innoxij, foret pax, iustitia, &amp; 
+          huma<lb ed="#Z" n="40" break="no"/>nitas. Quis autem aequis &amp; patientibus oculis uideat talem rempublicam, patriam 
+          <lb ed="#Z" n="41"/>scilicet suam, uel a seditiosis ciuibus, uel ab externo milite turbari, uexari, subuer 
+          <lb ed="#Z" n="42"/>ti atque discerpi? Seditionibus uel bellis subuertuntur cum studijs omnes uirtutes,  
+          <lb ed="#Z" n="43"/>constuprantur uirgines &amp; matronae, afficiuntur contumelia senes, perit religio &amp;  
+          <lb ed="#Z" n="44"/>omnia pietas. Ergo fortissimus militiae imperator Ioab contra Syros pugnaturus 
+          <lb ed="#Z" n="45"/>pro patria, ad Abisai fratrem suum dixit, Si fuerint Syri me ualidiores, opem mihi 
+          <lb ed="#Z" n="46"/>feres: sin filij Ammon tibi praeualuerint, adero tibi auxilium laturus. Sis ergo 
+          for<lb ed="#Z" n="47" break="no"/>tis &amp; pugnemus fortiter pro populo nostro &amp; pro ciuitatibus dei nostri. Domi- 
+          <lb ed="#Z" n="48"/>nus autem faciat quod bonum est in oculis suis. ludas quoque Machabaeus uir in 
+          <!--128.xml-->
+          <pb ed="#Z" n="53-r"/>
+          <lb ed="#Z" n="1"/>lsraelitica gente clarissimus bellator, &amp; in patriam suam pijssimus, milites seu ci- 
+          <lb ed="#Z" n="2"/>ues suos ad pugnam contra hostes animans, llli nos aggrediuntur, ait, copia, per 
+          <lb ed="#Z" n="3"/>iniuriam, ut nos cum uxoribus &amp; liberis nostris deleant &amp; depraedentur, nos 
+          au<lb ed="#Z" n="4" break="no"/>tem pugnamus pro uita legibusque nostris: ac deus illos in conspectu nostro confi- 
+          <lb ed="#Z" n="5"/>ciet. Sed &amp; ipsi ciues se mutuo adhortantes, clamant, Submoueamus a populo no 
+          <lb ed="#Z" n="6"/>stro afflictionem hanc, &amp; progente sacrisque nostris dimicemus. Nec est quod 
+          quis<lb ed="#Z" n="7" break="no"/>quam nostrum dicat haec esse opera legalia, quae nihil ad nos qui in ecclesia Chri- 
+          <lb ed="#Z" n="8"/>sti sumus, pertineant. Nam apostolus Paulus de fide Christiana loquens ad Heb.  
+          <lb ed="#Z" n="9"/>lsti per fidem, inquit, expugnauerunt regna, operati sunt iustitiam, effecti sunt 
+          <lb ed="#Z" n="10"/>robusti in bello, incursiones auerterunt exterorum. Proinde cum eadem utrisque 
+          <lb ed="#Z" n="11"/>sit fides, licet nobis quoque iusto bello tueri patriam, religionem, uirgines, senes, 
+          uxo<lb ed="#Z" n="12" break="no"/>res, liberos, libertatem &amp; facultates. Impij sunt in patriam, &amp; peccant contra hoc 
+          <lb ed="#Z" n="13"/>praeceptum qui praetextu fidei deserunt bello afflictam patriam, nec asserunt a 
+          bar<lb ed="#Z" n="14" break="no"/>baris exterisque nationibus aut militibus, uita in ipsum mortis praesentissimum 
+          pe<lb ed="#Z" n="15" break="no"/>riculum profusa. Beatus Ioannes, Per hoc cognouimus charitatem, ait, quoniam  
+          <lb ed="#Z" n="16"/>ille animam suam pro nobis posuit, &amp; nos debemus pro fratribus animas ponere. 
+          <lb ed="#Z" n="17"/>Milites mercenarij, qui iniquam pro stipendio militiam sequuntur, uenalia haben 
+          <lb ed="#Z" n="18"/>tes corpora sua, iudicabunt ciues desertores patriae. Nam animas suas deponunt 
+          <lb ed="#Z" n="19"/>propter pauculos aliquot coronatos: quas ciues molliculi &amp; effoeminati uel 
+          peri<lb ed="#Z" n="20" break="no"/>clitari nolunt pro religione, magistratu, uxoribus, liberis &amp; uniuersa facultate sua. 
+          <lb ed="#Z" n="21"/>Quid oro dicent patriae desertores in die illa, qua rependet dominus &amp; pijs &amp; im  
+          <lb ed="#Z" n="22"/>pijs in patriam, cum uiderint se longe uinci a Gentilibus uirtute : Curtius 
+          Roma<lb ed="#Z" n="23" break="no"/>nus adolescens nobilissimus, in hiatum fori ingentem sese praecipitem dedit, ut sua 
+          <lb ed="#Z" n="24"/>morte spontanea seruaret patriam. P. Decius pater &amp; P. Decius filius deuouerunt 
+          <lb ed="#Z" n="25"/>capita sua pro salute reipublicae ac fortiter occubuerunt amore patriae. Codrus 
+          <lb ed="#Z" n="26"/>rex Atheniensium pijssimus, cum ex oraculo Apollinis intellexisset Athenas non  
+          <lb ed="#Z" n="27"/>posse seruari, nisi morte regis, ac hostes ea de caussa praecepissent, ne quis corpus 
+          <lb ed="#Z" n="28"/>regis uulneraret, deposuit Codrus cultum regium &amp; uulgariter uestitus irruit in 
+          <lb ed="#Z" n="29"/>hostes, atque quendam ex ijs in caedem suam compulit. Phileni fratres patriae quam  
+          <lb ed="#Z" n="30"/>uitae suae longiores terminos esse maluerunt, ideoque uiuos se terra obrui passi sunt.  
+          <lb ed="#Z" n="31"/>Quid uero nos pro salute &amp; incolumitate patriae sustinemus? Hierocles. Est 
+          pa<lb ed="#Z" n="32" break="no"/>tria, ait, uelut alter quidam deus &amp; primus maximusque parens. Quare qui nomen 
+          <lb ed="#Z" n="33"/>ei imposuit, a reipsa non temere patriam appellauit, uocabulo quidem a patre 
+          de<lb ed="#Z" n="34" break="no"/>ducto, pronunciato tamen foeminina terminatione, ut ex utroque parente mixtum 
+          <lb ed="#Z" n="35"/>esset. Atque haec ratio insinuat patriam unam ex aequo duobus parentibus 
+          colen<lb ed="#Z" n="36" break="no"/>dam esse: &amp; cum praeferat honorem patriae ne simul quidem parentes ambos 
+          ma<lb ed="#Z" n="37" break="no"/>ioris fieri concedit, sed aequali honore dignatur.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e618">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Orandum est praeterea sedulo pro incolumitate patriae. Babylon non erat 
+          lu<lb ed="#Z" n="39" break="no"/>daeorum patria, sed quia ad spacium septuaginta annorum, propter peccata, a 
+          deo<lb ed="#Z" n="40" break="no"/>in Babylonem relegati erant ludei, Babylon reputabatur iam pro patria. Ideoque Ie 
+          <lb ed="#Z" n="41"/>remias, Aedificate domos, ait, &amp; inhabitate, plantate hortos &amp; comedite fructus 
+          <lb ed="#Z" n="42"/>eorum. Ducite uxores &amp; generate filios &amp; filias, ac ipsis filijs &amp; filiabus dabitis con 
+          <lb ed="#Z" n="43"/>iuges, ut generent liberos. Quaerite pacem eius ciuitatis, ad quam ego uos 
+          tran<lb ed="#Z" n="44" break="no"/>stuli, &amp; orate dominum pro ea, quoniam uestra pax &amp; incolumitas coniuncta est 
+          <lb ed="#Z" n="45"/>cum illius pace. cap. 20. Grauissime ergo peccant patriae proditores, quos leges 
+          <lb ed="#Z" n="46"/>propter sceleris atrocem enormitatem in partes dissecant. 
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e641">
+          <lb ed="#Z" n="47"/><pc type="indent"/> De Magistratu dicemus alias: quantum uero praesenti loco satis fuerit, dicit  
+          <lb ed="#Z" n="48"/>sanctus Petrus, Deum timete, regem honorate. Agnoscamus ergo magistratum  
+          <!--129.xml-->
+          <pb ed="#Z" n="53-v"/>
+          <lb ed="#Z" n="1"/>a deo ad utilitatem hominum esse ordinatum, ac deum per magistratum nobis 
+          con<lb ed="#Z" n="2" break="no"/>ferre maxima beneficia. Vigilant pro repub. principes, si functioni suae uere 
+          re<lb ed="#Z" n="3" break="no"/>spondent ac non sint tyranni, iudicant populum, dirimunt lites, iustitiam 
+          conser<lb ed="#Z" n="4" break="no"/>uant, plectunt noxios, tuentur innocentes, pugnant pro populo. Et propter ex- 
+          <lb ed="#Z" n="5"/>cellentiam sui muneris &amp; summi &amp; maxime necessarij, deus ipse suum nomen ma 
+          <lb ed="#Z" n="6"/>gistratui communicat, appellans principes aut senatores deos, ut uel ipsa 
+          appel<lb ed="#Z" n="7" break="no"/>latione ipsi admoneantur sui officij, &amp; subditi discant ipsos reuereri. Deus bonus 
+          <lb ed="#Z" n="8"/>est, iustus, aequus, personam non accipit nec munera. Talis sit oportet &amp; bonus iu 
+          <lb ed="#Z" n="9"/>dex aut magistratus. Anachoretae &amp; Monachi laudarunt institutum suum, ac tan 
+          <lb ed="#Z" n="10"/>tum non supra astra hoc extulerunt : ego uero iudico plus esse uerarum uirtutum  
+          <lb ed="#Z" n="11"/>in uno uiro politico magistratum gerente ac rite suo defungente officio, quam in 
+          <lb ed="#Z" n="12"/>multis chiliadibus &amp; optimorum anachoretarum, qui praeterea suae uocationis &amp;  
+          <lb ed="#Z" n="13"/>instituti nullum habent expressum dei uerbum: ut pigeat me sanctissimum 
+          magi<lb ed="#Z" n="14" break="no"/>stratum contulisse cum his qui nihil habent cum illis conferendum: imo labores &amp;  
+          <lb ed="#Z" n="15"/>ordinationem dei utilem fugiund. Certe si princeps ex fide suum faciat officium 
+          <lb ed="#Z" n="16"/>in repub. ingentem sibi coaceruat uere bonorum operum cumulum, &amp; laudem sem 
+          <lb ed="#Z" n="17"/>piternam. Ergo obediendum est magistratui &amp; legibus eius aequis &amp; bonis. Nulla  
+          <lb ed="#Z" n="18"/>est commouenda contra ipsum seditio. Magistratui non maledicendum : uel ipso 
+          <lb ed="#Z" n="19"/>deo in lege sua mandante &amp; dicente, Dijs non maledices, &amp; principem populi tui 
+          <lb ed="#Z" n="20"/>non execraberis. Sicubi peccauerit, geramus nos erga ipsum tanquam erga 
+          pa<lb ed="#Z" n="21" break="no"/>trem. De quo superius dixi.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e700">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Fit perfrequenter ut Senatores bene uelint religioni, iustitiam promoueant pu 
+          <lb ed="#Z" n="23"/>blicam, leges defendant, honestati faueant, interim laborent suis uitijs imo 
+          scele<lb ed="#Z" n="24" break="no"/>ribus. Propter haec autem non erunt a populo contemnendi aut e gradu deiicien 
+          <lb ed="#Z" n="25"/>di. Habuit Dauid sua uitia, alioqui optimus princeps. Suo adulterio plurimum 
+          in<lb ed="#Z" n="26" break="no"/>commodauit regno. Peccauit tamen grauiter Absolom, qui ipsum solio 
+          deturba<lb ed="#Z" n="27" break="no"/>re uoluit. Ita sunt in alijs principibus non pauca scelera, quae tamen ad seditionem 
+          <lb ed="#Z" n="28"/>non commouent neque commouere debent populum religiosum, modo ualeat 
+          ni<lb ed="#Z" n="29" break="no"/>hilominus iustitia, bonaeque leges &amp; pax publica defendantur. Orandum est sedulo 
+          <lb ed="#Z" n="30"/>&amp; ardenter pro magistratu. luuandus est a nobis consilio &amp; auxilio, quoties ipsa 
+          <lb ed="#Z" n="31"/>poposcerit res. Non parcendum uel facultatibus uel nostrorum ipsorum 
+          corpo<lb ed="#Z" n="32" break="no"/>ribus. Contulerunt in commune sancti opes suas, magistratum iuuantes, quoties 
+          <lb ed="#Z" n="33"/>incolumitas publica poposcit. Pugnarunt omnibus saeculis pro iudicibus &amp; regi 
+          <lb ed="#Z" n="34"/>bus atque magistratibus suis lsraelitae &amp; omnes populi sano utentes sensu ac 
+          iudi<lb ed="#Z" n="35" break="no"/>cio. Pugnarunt &amp; principes pro populo uicissim. llla itaque pietatis officia ualeant 
+          <lb ed="#Z" n="36"/>&amp; uigeant etiam hodie in omnibus regnis ciuitatibus &amp; rebuspublicis. Tribuat 
+          <lb ed="#Z" n="37"/>quaeque gens suo magistratui quod uel lege uel ex consuetudine aut propter 
+          ne<lb ed="#Z" n="38" break="no"/>cessitatem debet. Paulus enim apostolus, Reddite, inquit, omnibus quod 
+          debe<lb ed="#Z" n="39" break="no"/>tis, cui tributum tributum, cui uectigal uectigal, cui timorem timorem, cui 
+          hono<lb ed="#Z" n="40" break="no"/>rem honorem, Rom. 13.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e745">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Tutores quoniam successerunt in locum parentum, &amp; officia parentum 
+          de<lb ed="#Z" n="42" break="no"/>functorum praestant liberis, merentur certe debitam parentibus gratiam, 
+          uideli<lb ed="#Z" n="43" break="no"/>cet amorem, reuerentiam, gratitudinem &amp; obedientiam. Ita fere iudico de opifici 
+          <lb ed="#Z" n="44"/>bus &amp; artificiorum magistris, qui ut patris animum, amorem, studium, fidem &amp;  
+          <lb ed="#Z" n="45"/>diligentiam erga discipulum suscipere debent, ita hic merito magistrum suspicit,  
+          <lb ed="#Z" n="46"/>gi ueneratur, metuit &amp; audit ut patrem. Caeterum est hic detestanda in magistris ne 
+          <lb ed="#Z" n="47"/>. gligentia, sed &amp; non ferenda in discipulis proteruia &amp; barbaries. Discant ergo in 
+          <lb ed="#Z" n="48"/>praesentiarum magistri patres esse, nec aliter erga discipulos affecti, quam erga suos 
+          <!--130.xml-->
+          <pb ed="#Z" n="54-r"/>
+          <lb ed="#Z" n="1"/>ipsorum filios. Doceant artificium, instruant in moribus &amp; omnibus uitae 
+          parti<lb ed="#Z" n="2" break="no"/>bus, discipulos, ea diligentia &amp; fide, qua uterentur erga filios proprios, Rursus 
+          <lb ed="#Z" n="3"/>discant iuuenes infringere ingenitam barbariem, ac frenum inijcere iuuenilibus 
+          <lb ed="#Z" n="4"/>cupiditatibus: discant humiliari, subesse, silere, reuereri, timere, amare, &amp; obedire. 
+          <lb ed="#Z" n="5"/>Agnoscant sibi magistros a deo esse datos, ideoque deum contemni in magistris. Sint 
+          <lb ed="#Z" n="6"/>ergo diligentes, seduli &amp; fideles in opere. Experiatur magister studium &amp; propen 
+          <lb ed="#Z" n="7"/>sam uoluntatem erga ipsum, erga artificium &amp; erga praecepta artis. Meditetur 
+          <lb ed="#Z" n="8"/>quisque &amp; exerceat opere diligenter, quod ore traditum est a magistro. Non 
+          parca<lb ed="#Z" n="9" break="no"/>tur uigilijs &amp; laboribus. Sit gratus fideliter docenti magistro, ut saepius roganti de 
+          <lb ed="#Z" n="10"/>modo agendi, dignetur fideliter indicare omnia. Ingratitudo &amp; indiligentia disci- 
+          <lb ed="#Z" n="11"/>puli, reddit nonnunquam segnem magistrum. Per caetera time deum, &amp; sis 
+          reli<lb ed="#Z" n="12" break="no"/>giosus. Foris ne misceare blasphemorum &amp; luxuriosorum consortio, honeste te 
+          ge<lb ed="#Z" n="13" break="no"/>rito, neminem lacessito, neminem contemnito, nulli maledicito, paci studeto, om 
+          <lb ed="#Z" n="14"/>nes honorato, omnibus prodesse contendito. Domi promoueto domini tui utilita 
+          <lb ed="#Z" n="15"/>tem, nihil damni uel ipsi uel rebus ipsius inferto, si quis uel intulit uel inferre uo- 
+          <lb ed="#Z" n="16"/>luerit, mature admoneto: occasiones rixarum aut malorum pro tua facultate 
+          so<lb ed="#Z" n="17" break="no"/>pito: quod domi audieris ne efferto, rursus quod foris audieris ne in domum impor 
+          <lb ed="#Z" n="18"/>tato. Sis taciturnus, pacificus, iustus, castus, abstinens, temperans, uerax, &amp; facilis 
+          <lb ed="#Z" n="19"/>ad quaelibet honesta &amp; domestica seruitia. Caue tibi ab ijs ex quibus exoriuntur 
+          <lb ed="#Z" n="20"/>suspiciones malae &amp; noxiae. Ne audacius contrectaueris magistri uel uxorem uel 
+          fi<lb ed="#Z" n="21" break="no"/>lias, aut etiam ancillas, ne colloquaris uel liberius uel secreto. Arbitrare, uti reuera 
+          <lb ed="#Z" n="22"/>res est, uxorem magistri tui matrem esse tuam, filias sorores. Has polluere est scelus 
+          <lb ed="#Z" n="23"/>grande &amp; enorme. Sit iuuenum quisque mundus non sordidus, facilis, iustus, ac cibi 
+          <lb ed="#Z" n="24"/>uulgaris, non palato delicato &amp; moroso. Sed quid multis? lmo pectore quisque 
+          ado<lb ed="#Z" n="25" break="no"/>lescentum recondat retineatque iuuenum officium esse, castum se seruare ab omni im  
+          <lb ed="#Z" n="26"/>munditia, subesse non dominari, seruire omnibus, semper discere, pauca loqui, nun 
+          <lb ed="#Z" n="27"/>quam quicquam insolentius iactare, non responsare, multa uero pati &amp; dissimulare.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e829">
+          <lb ed="#Z" n="28"/><pc type="indent"/> De honorandis ecclesiarum ministris qui sunt pastores, doctores, &amp; patres 
+          po<lb ed="#Z" n="29" break="no"/>puli Christiani, multa solent ab illis adferri, quibus gratius est dominium quam mi  
+          <lb ed="#Z" n="30"/>nisterium. Nos agnoscere debemus illos nobis esse datos a domino, &amp; per illos nos 
+          <lb ed="#Z" n="31"/>bis loqui dominum. De ijs loquor, qui non sua nobis adferunt somnia, sed uerbum 
+          <lb ed="#Z" n="32"/>uer itatis. De his enim dixit in euangelio dominus: Qui uos audit, me audit: qui 
+          <lb ed="#Z" n="33"/>os spernit, me spernit. Proinde ministerium quoque ipsum est a domino, per quod 
+          <lb ed="#Z" n="34"/>salutem nostram operatur dominus. Ideoque obediendum est ministris recte suo 
+          u<lb ed="#Z" n="35" break="no"/>tentibus ministerio, bene de his sentiendum, amandi sunt, &amp; pro eis assidue oran 
+          <lb ed="#Z" n="36"/>dum est. Et cum ij nobis seminent spiritualia, ijsdem non neganda est messis cor- 
+          <lb ed="#Z" n="37"/>porea ac teporalis. Nam dignus est operarius mercede sua. Et si Romanorum 
+          prae<lb ed="#Z" n="38" break="no"/>ses apud ludaeos, apostolo Paulo non negauit auxilium contra ludaeorum 
+          latroci<lb ed="#Z" n="39" break="no"/>nium conceptum &amp; contra manifestam uim, certe Christianus magistratus 
+          nun<lb ed="#Z" n="40" break="no"/>quam negabit pijs Christi &amp; ecclesiarum ministris defensionem. Huc iam 
+          perti<lb ed="#Z" n="41" break="no"/>nent S. Pauli testimonia. In1. ad Thessal. cap. ult, Rogamus, inquit, uos fratres, ut 
+          <lb ed="#Z" n="42"/>agnoscatis eos qui laborant inter uos, &amp; qui praesunt uobis in domino &amp; admonent 
+          <lb ed="#Z" n="43"/>uos, ut habeatis illos in summo pretio per charitatem, propter opus illorum, pacem 
+          <lb ed="#Z" n="44"/>habete cum illis. Idem ad Heb, Parete ijs qui praesunt uobis, ait, &amp; concedite: siqui  
+          <lb ed="#Z" n="45"/>dem illi uigilant pro animabus uestris, tanquam rationem reddituri, ut cum gaudio hoc 
+          <lb ed="#Z" n="46"/>faciant, &amp; non gementes. Nam id est inutile uobis. Etenim quanta calamitas &amp; regnis  
+          <lb ed="#Z" n="47"/>&amp; populis exoriatur ex contemptu uerbi dei ac ministrorum, multa nos docere 
+          <lb ed="#Z" n="48"/>possunt exepla, illud in primis quod hisce uerbis describitur in ult. cap. 2. lib. Para. 
+          <!--131.xml-->
+          <pb ed="#Z" n="54-v"/>
+          <lb ed="#Z" n="1"/>Misit dominus deus patrum eorum ad eos mane surgendo, &amp; nuncios suos 
+          mit<lb ed="#Z" n="2" break="no"/>tendo, quoniam parcere cupiebat populo suo atque habitaculo suo. At illi 
+          subsan<lb ed="#Z" n="3" break="no"/>nabant nuncios dei, &amp; contemnebant uerba eius, illudentes prophetis eius, 
+          do<lb ed="#Z" n="4" break="no"/>nec ascenderet furor domini contra populum suum, &amp; donec nullum esset 
+          reme<lb ed="#Z" n="5" break="no"/>dium. His congruunt per omnia, uerba saluatoris nostri in euangeliodicentis,  
+          <lb ed="#Z" n="6"/>Mitto ad uos prophetas &amp; sapientes, quorum aliquot flagellabitis &amp; occidetis, ut 
+          <lb ed="#Z" n="7"/>ueniat super uos omnis sanguis iustus qui effusus est super terram a sanguine Abel 
+          <lb ed="#Z" n="8"/>iusti usque ad sanguinem zachariae filij Barachiae, quem occidistis inter templum 
+          <lb ed="#Z" n="9"/>&amp; altare. Et reliqua. Notus est enim charitati uestrae locus, qui extat Matth. 23. 
+          <lb ed="#Z" n="10"/>Cauendum ergo modis omnibus ne contemnamus deum loquentem nobis in 
+          uer<lb ed="#Z" n="11" break="no"/>bo suo per seruos suos prophetas.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e906">
+          <lb ed="#Z" n="12"/><pc type="indent"/> Consanguineis &amp; affinibus debemus iuxta hoc praeceptum amorem, 
+          reueren<lb ed="#Z" n="13" break="no"/>tiam, auxilium, consolationem, &amp; omnem denique humanitatem. Damnantur hoc 
+          <lb ed="#Z" n="14"/>praecepto sicut &amp; apostolicis scriptis z3oo, qui uidelicet nullo erga suos naturali 
+          <lb ed="#Z" n="15"/>affectu commouentur. Est naturalis quaedam affectio, beneuolentia, amor &amp; com 
+          <lb ed="#Z" n="16"/>miseratio (quae scriptura uiscera uocat) in patre &amp; matre erga liberos, in fratre erga 
+          <lb ed="#Z" n="17"/>fratrem, in consanguineo aut affine erga consanguineum &amp; affinem. Egregia sunt 
+          <lb ed="#Z" n="18"/>nobis in scripturis exempla proposita in Abrahamo paternis uisceribus amante 
+          <lb ed="#Z" n="19"/>filium lsaac, in Iosepho item diligente patrem Iacob, &amp; fratres suos, praesertim 
+          au<lb ed="#Z" n="20" break="no"/>tem uterinum fratrem Beniamin. Habent egregium, quod socrus &amp; nurus imiten 
+          <lb ed="#Z" n="21"/>tur, exemplum in Noemi &amp; Ruth. Fere odiunt se mutuo socrus &amp; nurus, unde 
+          <lb ed="#Z" n="22"/>multa mala deriuantur in familias. Discant ergo ex lepido illo exemplo, 
+          quomo<lb ed="#Z" n="23" break="no"/>do se gerant utraque ex parte, Reputet socrus nurum esse filiam: uti reuera est: 
+          nu<lb ed="#Z" n="24" break="no"/>rus socrum colat &amp; reuereatur ueluti matrem. Vtrinque permulta dissimulanda,  
+          <lb ed="#Z" n="25"/>multa boni consulenda &amp; benigne perferenda. Condonanda multa, nec 
+          ceden<lb ed="#Z" n="26" break="no"/>dus locus garrulis obtrectatoribus atque suspicionibus prauis. Eximius thesaurus 
+          <lb ed="#Z" n="27"/>est familiae concordia: malum inexphcabile &amp; perniciosissimum discordia domus, 
+          <lb ed="#Z" n="28"/>De beneficijs &amp; honore exhibendo nepotibus notus est locus Pauli 1. Timoth.5 .
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e946">
+          <lb ed="#Z" n="29"/><pc type="indent"/> Postremo extat etiam peculiaris lex in uerbo dei de senibus honorandis, 
+          prae<lb ed="#Z" n="30" break="no"/>cipiens surgere coram cano capite. Honorandi ergo sunt senes, quos merito 
+          ma<lb ed="#Z" n="31" break="no"/>gni facimus, agnoscentes in ipsis dei beneficium non uulgare, longaeuitatem, &amp;  
+          <lb ed="#Z" n="32"/>quod diuturna omnium rerum experientia multam sibi sapientiam &amp; prudentiam 
+          <lb ed="#Z" n="33"/>ccmpararunt, unde nos suis possunt iuuare consilijs. Laudandi sunt itaque, ut 
+          om<lb ed="#Z" n="34" break="no"/>nes intelligant &amp; praedicent canos esse coronam gloriae. Praeterea si desint senio 
+          <lb ed="#Z" n="35"/>confectis facultates, nostra copia ipsorum debet subleuare inopiam. Breuiter non  
+          <lb ed="#Z" n="36"/>negabimus ulla senibus officia humanitatis. Simili ratione comendantur hic 
+          no<lb ed="#Z" n="37" break="no"/>bis uiduae, orphani, pupilli, pauperes, peregrini, aegrotantes &amp; calamitosi. Ideo au 
+          <lb ed="#Z" n="38"/>tem quondam contulere opes liberaliter homines pij &amp; benefici, ne quid rerum 
+          <lb ed="#Z" n="39"/>necessariarum deesset senibus, uiduis, pupillis &amp; pauperibus. Appellantur ea bo- 
+          <lb ed="#Z" n="40"/>na hodie Facultates ecclesiasticae: quae haud dubie recte dispensantur si cesserint 
+          <lb ed="#Z" n="41"/>his, quibus donatae sunt. In legibus Caesarum uidere licet quondam publicas aedes 
+          <lb ed="#Z" n="42"/>&amp; opes, singulis hominum egentium generibus, fuisse extructas atque destinatas. 
+          <lb ed="#Z" n="43"/>Nam mentio fit Orphanotrophiorum, Gerontocomiorum, Ptochotrophiorum,  
+          <lb ed="#Z" n="44"/>Nosocomiorum, &amp; Brephotrophiorum. Hodie supersunt nobis Coenobia &amp; Ho 
+          <lb ed="#Z" n="45"/>spitalia, quorum pleraque singulis illis, nempe orphanis, senibus, pauperibus 
+          lan<lb ed="#Z" n="46" break="no"/>guentibus seu aegrotantibus &amp; insantibus peculiaria habent destinata loca. Inex- 
+          <lb ed="#Z" n="47"/>piabile peccatum committunt, quicunque opes &amp; loca senibus &amp; pauperibus 
+          con<lb ed="#Z" n="48" break="no"/>secrata, alijs usibus dedicant, atque algentibus esurientibusque senibus &amp; paupe¬ 
+          <!--132.xml-->
+          <pb ed="#Z" n="55-r"/>
+          <lb ed="#Z" n="1"/>ribus, luxu opes pauperum prodigunt. Et hactenus quidem docuimus 
+          quomo<lb ed="#Z" n="2" break="no"/>do parentes, &amp; illi qui sub parentum nomine comprehenduntur, honorandi sint.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1002">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Restat tertium &amp; ultimum ut inspiciamus quid promittat dominus cultoribus 
+          <lb ed="#Z" n="4"/>pijs parentum, unde mox colligamus quid mali immineat impijs parentum con- 
+          <lb ed="#Z" n="5"/>temptoribus. Dominus ergo in lege dicit, Vt sis longaeuus super terram, quam 
+          do<lb ed="#Z" n="6" break="no"/>minus deus tuus dabit tibi. Sensus est, Honora patrem et matrem, quo per longum 
+          <lb ed="#Z" n="7"/>uitae spacium frui tibi diu liceat ea terrae possessione, quae tibi futura est in gratiae 
+          <lb ed="#Z" n="8"/>meae testimonium. Haec proprie ad ludaeos pertinent. Caeterum optime &amp; uerissi 
+          <lb ed="#Z" n="9"/>me scribitur in hunc locum a pijssimo quodam Christi seruo,. Quia tota terra fide 
+          <lb ed="#Z" n="10"/>libus benedicta est, praesentem uitam inter dei benedictiones merito reponimus: 
+          <lb ed="#Z" n="11"/>quare ad nos similiter spectat ista promissio, quatenus fcilicet diuinae beneuolen 
+          <lb ed="#Z" n="12"/>tiae documentum nobis est praesentis uitae duratio. Certe promittit pijs parentum 
+          <lb ed="#Z" n="13"/>cultoribus in quauis terra habitantibus omnimodam benedictionem &amp; felicitatem  
+          <lb ed="#Z" n="14"/>copiamque rerum temporalium, cum uitae iucunda diuturnitate. Apostolus enim Pau 
+          <lb ed="#Z" n="15"/>lus haec interpretans Ephes. 5. cap. Vt bene tibi sit, inquit, et sis longaeuus in terra: 
+          <lb ed="#Z" n="16"/>quamlibet utique significans, &amp; benedictionem domini temporalem promittens. 
+          <lb ed="#Z" n="17"/>Colligimus ergo diuersa minari &amp; irrogari impijs parentum contemptoribus. 
+          E<lb ed="#Z" n="18" break="no"/>xemplis &amp; alijs scripturae locis haec reddentur illustriora. Cham maledictionem 
+          <lb ed="#Z" n="19"/>accepit a patre Noe quod parum reuerenter sese gessisset erga patrem ebrium li 
+          <lb ed="#Z" n="20"/>cet. Ioseph fit princeps Aegypti, quod a puero in deum pius, magnificaret &amp; 
+          <lb ed="#Z" n="21"/>magno honore prosequeretur patrem suum Iacob. Solomon Prouerbiorum 17. 
+          <lb ed="#Z" n="22"/>clamat, Non recedet malum a domo ingrati. Item, Contumelijs afficiens patrem  
+          <lb ed="#Z" n="23"/>&amp; contemnens senectam matris suae, confundetur &amp; in opprobrijs erit. Filius 
+          de<lb ed="#Z" n="24" break="no"/>relinquens custodire disciplinam patris, meditabitur sermones malitiae. 
+          Maledi<lb ed="#Z" n="25" break="no"/>centi patri &amp; matri extinguetur lumen, &amp; pupillae oculorum eius uidebunt tene 
+          <lb ed="#Z" n="26"/>bras. Nam monstra non homines sunt, qui impij sunt in parentes, praesertim illi 
+          <lb ed="#Z" n="27"/>qui non modo negligunt aut contemnunt, sed etiam feriunt aut alioqui male 
+          tra<lb ed="#Z" n="28" break="no"/>ctant parentes. Hos trucidari iubet dominus, ut beneficio lucis indignos, qui non  
+          <lb ed="#Z" n="29"/>recognoscunt quorum opera in illam peruenerint. Qui maledixerit patri aut ma 
+          <lb ed="#Z" n="30"/>tri, ait dominus, morte moriatur. Et iterum, Qui percusserit patrem suum aut ma 
+          <lb ed="#Z" n="31"/>trem suam, morte moriatur. Notissima est omnibus lex Pompeia lata contra par 
+          <lb ed="#Z" n="32"/>ricidas. Praestat hic quoque audire Gentilium iudicia.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1072">
+          Homerus,  
+          <lb ed="#Z" n="33"/>Nec nutricandi officium genitoribus unquam  
+          <lb ed="#Z" n="34"/>Persoluit charis, breue at illi contigit aeuum,  
+          <lb ed="#Z" n="35"/>Et antiquissimus poeta Orpheus canit,  
+          <lb ed="#Z" n="36"/>luppiter inspicit illos qui colunt iura parentum, 
+          <lb ed="#Z" n="37"/>Et qui negligunt prae animi impudentia. 
+          <lb ed="#Z" n="38"/>Ac illis quidem benignus &amp; mitis bona largitur,  
+          <lb ed="#Z" n="39"/>His uero infensus indignatur per furias. 
+          <lb ed="#Z" n="40"/>Sunt enim uehementes in terra parentum furiae.  
+          <lb ed="#Z" n="41"/>lam &amp; Euripides tragicus dicit,  
+          <lb ed="#Z" n="42"/>Quisquis in uita sua parentes colit,  
+          <lb ed="#Z" n="43"/>Hic &amp; uiuus &amp; defunctus dijs charus est.  
+          <lb ed="#Z" n="44"/>Sed &amp; Menander Comicus dixit,  
+          <lb ed="#Z" n="45"/>Cum parentibus causam agens aut litigans insanis o miser. 
+          <lb ed="#Z" n="46"/>Parentes magnum sunt numen prudentibus, 
+          <lb ed="#Z" n="47"/>Vergilius inter immania scelera quae apud inferos horrendum puniuntur 
+          ae<lb ed="#Z" n="48" break="no"/>ternis &amp; insandis poenis, &amp; haec commemorat,  
+          <!--133.xml-->
+          <pb ed="#Z" n="55-v"/>
+          <lb ed="#Z" n="1"/>Hic quibus inuisi fratres, dum uita manebat,  
+          <lb ed="#Z" n="2"/>Pulsatusue parens.. Et mox, 
+          <lb ed="#Z" n="3"/>Vendidit hic auro patriam dominumque potentem 
+          <lb ed="#Z" n="4"/>lmposuit, fixit leges pretio atque refixit, &amp;c. . Cecinit in Odis Flaccus,  
+          <lb ed="#Z" n="5"/>Dulce &amp; decorum est pro patria mori. Silius ltalicus,  
+          <lb ed="#Z" n="6"/>lamque hoc ne dubites longaeui nate parentis 
+          <lb ed="#Z" n="7"/>Accipe, &amp; aeterno fixum sub pectore serua, 
+          <lb ed="#Z" n="8"/>Succensere nephas patriae. nec foedior ulla  
+          <lb ed="#Z" n="9"/>Culpa sub extremas fertur mortalibus umbras. 
+          <lb ed="#Z" n="10"/>Sic docuere senes, &amp;c.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1135">
+          <lb ed="#Z" n="11"/><pc type="indent"/> Haec testimonia non frustra commemoro, ut ex his colligat c.V. sceleris 
+          hu<lb ed="#Z" n="12" break="no"/>ius atrocitatem, quod usqueadeo grauiter ipsae etiam Gentes accusauerunt atque 
+          <lb ed="#Z" n="13"/>condemnatunt. Occidit Cain fratrem suum Abelum, sed perpetuam sibi 
+          inelui<lb ed="#Z" n="14" break="no"/>bilemque ea re ignominiam contraxit adeoque inussit. Conuitia intoleranda coniecit 
+          <lb ed="#Z" n="15"/>in Dauidem ordinarium suum magistratum Semei, sed commeritas pendit 
+          poe<lb ed="#Z" n="16" break="no"/>nas. Seditiosus &amp; impius est Absolom in patrem Dauidem, sed crinibus 
+          implici<lb ed="#Z" n="17" break="no"/>tus arbori, confoditur horribiliter pendens inter coelum &amp; terram. Occisores pro 
+          <lb ed="#Z" n="18"/>phetarum nuncupauit dominus progeniem uiperarum ac diaboli filios. Si qui 
+          <lb ed="#Z" n="19"/>uero unquam contumelia senes affecerunt &amp; conturbarunt uiduas, non impune 
+          <lb ed="#Z" n="20"/>tulerunt. Clamat enim in lege dominus, Viduam &amp; pupillum non affliges. Si ue 
+          <lb ed="#Z" n="21"/>ro affligere eos pergatis, indubie ad me clamabunt &amp; ego certissime exaudiam  
+          <lb ed="#Z" n="22"/>eos: &amp; indignabitur furor meus, percutiamque uos gladio, &amp; erunt uxores uestrae 
+          <lb ed="#Z" n="23"/>uiduae, &amp; filij uestri pupilli. Sed haec hactenus.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1167">
+          <lb ed="#Z" n="24"/><pc type="indent"/> S. Paulus hanc domini legem producens in epist. ad Ephes: pulchre 
+          accom<lb ed="#Z" n="25" break="no"/>modat nostrae eruditioni. Dicit enim, Filij obedite parentibus uestris in domino. 
+          <lb ed="#Z" n="26"/>Nam id est iustum. Honora patrem tuum &amp; matrem: quod est praeceptum primum  
+          <lb ed="#Z" n="27"/>in promisione, ut bene tibi sit &amp; sis longaeuus in terra. Patres ne prouocetis ad 
+          <lb ed="#Z" n="28"/>iram liberos uestros, sed educetis eos per eruditionem et correptionem domini. His prae 
+          <lb ed="#Z" n="29"/>scribit tam parentibus quam liberis suum officium. Tria requirit at parentibus, ut 
+          <lb ed="#Z" n="30"/>educent liberos, erudiant &amp; corripiant. Parentum est enim liberos nutrire &amp; ale 
+          <lb ed="#Z" n="31"/>re, siue educare, ac ad iustam usque prouehere aetatem, qua iam non sumptibus &amp;  
+          <lb ed="#Z" n="32"/>cura parentum, sed absoluti iam ex proprijs uiuant laboribus. Parentum est 
+          eru<lb ed="#Z" n="33" break="no"/>dire &amp; recte instituere liberos. Eruditio seu institutio illa uersatur in tribus, in 
+          re<lb ed="#Z" n="34" break="no"/>ligione, in moribus, &amp; in artificio.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1194">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Iam quod religionem attinet, habet ipsa initia quaedam, rudimenta inquam seu 
+          <lb ed="#Z" n="36"/>Catechesin, habet deinde scripturas tradentes uerbum dei, &amp; pleniorem omnium 
+          <lb ed="#Z" n="37"/>rerum diuinarum expositonem: habet item mysteria signa sacra seu sacramenta. 
+          <lb ed="#Z" n="38"/>Si paterfamilias uersatur in populo, qui ueram religionem colit &amp; cultum dei 
+          le<lb ed="#Z" n="39" break="no"/>gitimum &amp; ueros fideles &amp; religiosos Christi ministros doctoresque habet, curet ut li 
+          <lb ed="#Z" n="40"/>beri eant in coetus sacros, &amp; discant ex doctore ecclesiastico religionem. Nihilo 
+          <lb ed="#Z" n="41"/>minus requirat domi a liberis quid didicerint in concione sacra. Addant patres 
+          <lb ed="#Z" n="42"/>&amp; matres domi priuatam suam operam, doceant liberos praecepta dei, doceant sym 
+          <lb ed="#Z" n="43"/>bolum apostolorum, doceant orationem dominicam, tradant breuem &amp; certam  
+          <lb ed="#Z" n="44"/>ex scripturis rationem de sacramentis. Exerceant frequenter cum liberis 
+          catechis<lb ed="#Z" n="45" break="no"/>mum, inserant sententias maxime necessarias de fide &amp; officijs uitae. Caeterum si 
+          <lb ed="#Z" n="46"/>paterfamilias in populo uersetur, qui persequitur fidem &amp; doctrinam Christianam  
+          <lb ed="#Z" n="47"/>&amp; cultus dei legitimos odit, nec coetus sacros, nec ministros Christi ueros 
+          agno<lb ed="#Z" n="48" break="no"/>scit : ut fit in captiuitatibus Tureicis ac persecutionibus nostri saeculi grauibus,  
+          <!--134.xml-->
+          <pb ed="#Z" n="56-r"/>
+          <lb ed="#Z" n="1"/>cauebit sibi ab idololatria, neque accedet ipse ad prophanos coetus, neque familiam  
+          <lb ed="#Z" n="2"/>suam accedere sinat, sed domi suae potius in uera religione instituat : primum qui 
+          <lb ed="#Z" n="3"/>dem in Catechesi, deinde in perfectiore theologia,. Praeter haec quoties res &amp; usus 
+          <lb ed="#Z" n="4"/>postulauerit, palam &amp; libere confiteatur Christum &amp; euangelium. Tales enim eccle 
+          <lb ed="#Z" n="5"/>sias in domibus magnarum urbium tempore apostolorum &amp; in grauibus illis 
+          per<lb ed="#Z" n="6" break="no"/>secutionibus antiquis fuisse apparet ex epistolis apost. Pauli &amp; historijs. Nec ueri 
+          <lb ed="#Z" n="7"/>simile est ludaeos in captiuitate Babylonica, ut maxime externum sacrificium non  
+          <lb ed="#Z" n="8"/>habuerint, omni prorsus cultu caruisse. Daniel tametsi non sacrificauit, adorauit 
+          <lb ed="#Z" n="9"/>tamen certis horis interdiu in aedibus suis proprijs. Domus Cornelij apud 
+          Caesa<lb ed="#Z" n="10" break="no"/>ream ecclesia erat in qua Petrus praedicabat in coetu uere ecclesiastico: ac ipsus 
+          <lb ed="#Z" n="11"/>dum loppe templum non haberet in quo oraret, ascendit in superiora domus. Neque  
+          <lb ed="#Z" n="12"/>dubium est quin ecclesiam instituerit in Aethyopia princeps ille eunuchus 
+          Can<lb ed="#Z" n="13" break="no"/>daces reginae, cuius mentio fit in Actis apost. Meminerint qui usu publico 
+          legiti<lb ed="#Z" n="14" break="no"/>moque sacramentorum carent, sibi non esse fraudi aut reputari pro culpa, quod non 
+          <lb ed="#Z" n="15"/>proprio, sed alieno delicto committitur. Quanquam &amp; in hac causa possit dominus 
+          <lb ed="#Z" n="16"/>suis salubre inspirare consilium. Caeterum ubi per domini gratiam licet publicos 
+          <lb ed="#Z" n="17"/>coetus sacros celebrare, &amp; liberam apertam &amp; ueram praedicationem euangelij au 
+          <lb ed="#Z" n="18"/>dire, denique sacramentis Christi participare, tum desinunt priuatae illae ac domesti 
+          <lb ed="#Z" n="19"/>cae ecclesie: non quod domus pij patrisfamilias non sit ac maneat semper ecclesia, 
+          <lb ed="#Z" n="20"/>sed quod auscultatio uerbi dei, preces, &amp; celebratio sacramentorum publica &amp;  
+          <lb ed="#Z" n="21"/>omnibus sanctis communis esse debeat. Merito enim damnantur Anabaptistarum  
+          <lb ed="#Z" n="22"/>&amp; omnium sectariorum furtiua conuenticula.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1280">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Audiamus nunc etiam scripturarum testimonia, quae praecipiunt omnibus pa 
+          <lb ed="#Z" n="24"/>tribus familias, familiam suam sancte instituant in uera religione, adde &amp; expla¬  
+          <lb ed="#Z" n="25"/>nent liberis sacramentorum rationem. Deut. 6. dicit Moses, Audi lsrael, dominus 
+          <lb ed="#Z" n="26"/>deus noster deus unus est. Diliges itaque dominum deum tuum toto corde tuo et tota 
+          <lb ed="#Z" n="27"/>anima tua, &amp; tota uirtute tua. Sintque uerba ista quae ego tibi hodie praecipio in cor 
+          <lb ed="#Z" n="28"/>de tuo. Et inculcabis ea filijs tuis : &amp; loqueris de eis cum domi tue resides, &amp; cum  
+          <lb ed="#Z" n="29"/>in uia incedis, cum cubitum uadis &amp; cum surgis. Ligabis denique ea in signum ad 
+          ma<lb ed="#Z" n="30" break="no"/>num tuam, eruntque monumenta inter oculos tuos. Scribes quoque ea super postes 
+          <lb ed="#Z" n="31"/>domus tuae &amp; in portis tuis. Et iterum, Cum interrogauerit te posterioribus tempo 
+          <lb ed="#Z" n="32"/>ribus filius tuus, &amp; dixerit,. Quid sibi uolunt haec testimonia, ritus &amp; iudicia quae 
+          <lb ed="#Z" n="33"/>praecepit nobis dominus deus noster: respondebis filio tuo, Serui fuimus Pharao 
+          <lb ed="#Z" n="34"/>nis in Aegypto: &amp; eduxit nos dominus ex Aegypto manu ualida, ediditque signa 
+          <lb ed="#Z" n="35"/>&amp; portenta magna, idque nobis spectantibus, nosque eduxit illinc, &amp; dedit nobis 
+          om<lb ed="#Z" n="36" break="no"/>nia praecepta &amp; statuta haec ut faceremus, &amp; timeremus dominum deum nostrum,  
+          <lb ed="#Z" n="37"/>Huc pertinent multa Psal. 7S. Exodi 13. iterum dicit dominus, Sanctifica mihi omne 
+          <lb ed="#Z" n="38"/>primogenitum. Cumque interrogarit te posteris saeculis filius tuus dicens. Quid hoc? 
+          <lb ed="#Z" n="39"/>dices ad eum, Dominus interfecit omne primogenitum Aegypti, et iccirco ego sacri- 
+          <lb ed="#Z" n="40"/>fico domino omne primogenitum masculinum, Rursus in 12. cap. exponens dominus 
+          <lb ed="#Z" n="41"/>uel Moses domini nomine mysterium uel sacramentum Paesae inter alia dicit, Cum 
+          dixe<lb ed="#Z" n="42" break="no"/>rint uobis filij uestri, quae est ista religio? dicetis, Victima transitus domini est, quan 
+          <lb ed="#Z" n="43"/>do transiuit super domos filiorum lsrael, &amp;c. Testimonia haec clara sunt, nec ulla 
+          in<lb ed="#Z" n="44" break="no"/>digent expositone operosiore. Addamus ergo his alia qua parens doceat liberos.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1331">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Erudiat in moribus. Agrestes fere nascimur, &amp; barbaris siue incultis sunt mo 
+          <lb ed="#Z" n="46"/>moribus pueri omnes: quod malum conduplicatur assuetudine &amp; consortio ru¬  
+          <lb ed="#Z" n="47"/>stico. Mature itaque formet parens pueri mores, qui ipsum domi &amp; foris ornent. Tra 
+          <lb ed="#Z" n="48"/>dat quomodo se incessu, corporis motu ac habitu, quomodo se in templo, in foro, 
+          <!--135.xml-->
+          <pb ed="#Z" n="56-v"/>
+          <lb ed="#Z" n="1"/>ad mensam, in hominum frequentia omnibusque locis decenter gerat. Extant ea de 
+          <lb ed="#Z" n="2"/>re elegantes libelli, ut nihil uobis opus sit meis praeceptionibus.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1353">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Postremo tradat parens liberos fidis &amp; peritis artificibus aut opificibus, qua 
+          <lb ed="#Z" n="4"/>ipsos doceant artem aliquam manuariam, qua sibi uictum aliquando quaerant ac 
+          <lb ed="#Z" n="5"/>parent. Prius tamen exploranda sunt ingenia, quae quibus idonea sint artibus ac 
+          <lb ed="#Z" n="6"/>delectentur. Nam inuita Minerua nihil feliciter perfeceris. Si quos habeas 
+          litera<lb ed="#Z" n="7" break="no"/>rum studijs idoneos, pijssime facies consecrando tales ministerijs ecclesiae seu scho 
+          <lb ed="#Z" n="8"/>lae. llli uero uituperandi sunt parentes, qui liberos educant in otio altissimo. Tam 
+          <lb ed="#Z" n="9"/>etsi enim auri aceruos ingentes ipsis relinquant, perire tamen &amp; diripi possunt 
+          o<lb ed="#Z" n="10" break="no"/>pes amplissimae pauculis horis. Quo tunc confugiet miser tellurisque inutile 
+          pon<lb ed="#Z" n="11" break="no"/>dus? Massilienses non recipiebant in ciuium numerum, qui non didicisset 
+          artifi<lb ed="#Z" n="12" break="no"/>cium. Nam ciue perdito nihil est urbibus pestilentius. Quis autem magis 
+          perdi<lb ed="#Z" n="13" break="no"/>tus ciuis censeatur quam is qui otio assuetus delicijsque, modo autem hi per 
+          repen<lb ed="#Z" n="14" break="no"/>tinum aut inopinatum casum aut per luxum destitutus, ac in summa constitutus 
+          <lb ed="#Z" n="15"/>inopia, iniustissimas planeque seditiosas animo suo rationes alias opes acquirendi 
+          <lb ed="#Z" n="16"/>uersat? Praeterea usurpata est apud ueteres paroemia omnibus parentibus 
+          obser<lb ed="#Z" n="17" break="no"/>uatu dignissima, Artem quaeuis alit terra. Ea sententia significatum est certissimum 
+          <lb ed="#Z" n="18"/>uiaticum esse eruditionem aut artificium aliquod. Nam haec neque eripi possunt a 
+          <lb ed="#Z" n="19"/>latronibus, &amp; quocunque terrarum abeas, te comitantur, nihil adferentia sarcinae.  
+          <lb ed="#Z" n="20"/>Ergo si fortuna auferat liberis tuis opes relictas, si docuisti eos artificium, tenent 
+          <lb ed="#Z" n="21"/>quo sibi uictum parent. Deijciuntur reges ex opibus maximis &amp; dignitate regia, 
+          <lb ed="#Z" n="22"/>ut mirum non sit si inferiores regibus spolientur facultatibus suis, aut iubeantur 
+          <lb ed="#Z" n="23"/>ire in exilium. Dionysius Syracusanus propter tyrannidem legitur exutus impe 
+          <lb ed="#Z" n="24"/>rio. Sed qui rex fuerat Corinthum abijt, Corinthi ludum aperuit, ac pueros literas 
+          <lb ed="#Z" n="25"/>ac musicam docuit: qua re uictum sibi parauit. Miserrimus autem &amp; deploratus 
+          <lb ed="#Z" n="26"/>fuisset, si nihil unquam didicisset, sed in regias duntaxat opes sperasset. Vana spes 
+          <lb ed="#Z" n="27"/>perdidisset illum. Nam perijsset inedia. Haec de eruditione.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1411">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Restat ut dicamus de Correptione. Consistit haec partim in uerbis, partim in 
+          <lb ed="#Z" n="29"/>uerberibus. Vtraque suum modum &amp; rationem certam habeant, ne quid nimis,  
+          <lb ed="#Z" n="30"/>Admonitio quae uerbis fit, non sit acerbior delicti merito. Sit grauis, ssed non 
+          per<lb ed="#Z" n="31" break="no"/>petua. Perpetua obiurgatio abit in contemptum. Inuenias item puerois apud quos 
+          <lb ed="#Z" n="32"/>plus efficias lenitate. Ac nisi laudem admisceas aliquando, bonique coinsulas res di 
+          <lb ed="#Z" n="33"/>ligenter, etsi non plene aut feliciter expeditas, uidebis hos certo animos 
+          despon<lb ed="#Z" n="34" break="no"/>dere. Neque uero nimium oneris imponendum arbitror humeris iuuenum, &amp; 
+          spon<lb ed="#Z" n="35" break="no"/>te onera ferentium. Verbera non infligantur nisi maximis de caussis, neque 
+          infli<lb ed="#Z" n="36" break="no"/>gantur unquam ab irato patre, &amp; infligantur moderate, ad emendationem non de 
+          <lb ed="#Z" n="37"/>fectionem., Semper insideat animis parentum illud aureum Pauli dictum, Patres 
+          <lb ed="#Z" n="38"/>ne prouocentis ad iram liberos uestros. Saeuitia enim pereunt &amp; optima ingenia. 
+          <lb ed="#Z" n="39"/>De moderata correctione loquens Solomon, Virga, inquit, &amp; obiurgatio dat 
+          sa<lb ed="#Z" n="40" break="no"/>pientiam, &amp; puer sibi dimissus confundit matrem suam. Item, Castiga filium tuum  
+          <lb ed="#Z" n="41"/>&amp; quietus eris, dabitque delicias animae tuae. Indulgentiam haec uel paternam uel ma 
+          <lb ed="#Z" n="42"/>ternam condemnant, quae multos corrumpit liberos. Non minus autem a patribus 
+          <lb ed="#Z" n="43"/>indulgentia peccatur quam saeuitia. Heli in scripturis pessime audit propter indul 
+          <lb ed="#Z" n="44"/>gentiam nimiam, perit misere, &amp; perdit secum perditos nebulones filios 
+          audacis<lb ed="#Z" n="45" break="no"/>simos atque impijssimos. Quid quod Deut. 21. iubentur ipsi parentes filios rebelles 
+          <lb ed="#Z" n="46"/>protrahere ad tribunal &amp; ibi accusare capitaliter? Exemplo hoc alias seuero 
+          uo<lb ed="#Z" n="47" break="no"/>luit deus alios in officio retinere filios. Nam deus est deus salutis, non perditionis, 
+          <lb ed="#Z" n="48"/>adeo ut cum rebelles sua culpa pereunt, perditionem eam ipse conuertat ad salu 
+          <!--136.xml-->
+          <pb ed="#Z" n="57-r"/>
+          <lb ed="#Z" n="1"/>tem obedientium. Teneant ergo pectoribus suis patres hanc ex euangelio infixam  
+          <lb ed="#Z" n="2"/>sententiam, Non est uoluntas coram patre uestro coelesti ut pereat unus de 
+          pusil<lb ed="#Z" n="3" break="no"/>lis illis. Qui offenderit tales, expedit ei ut suspendatur mola asinaria in collum eius,  
+          <lb ed="#Z" n="4"/>ac demergatur in profundum maris.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1473">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Porro de officio filiorum disputauimus iam ante ubi docuimus quomodo 
+          ho<lb ed="#Z" n="6" break="no"/>norandi sint parentes. Paulus uno uerbo multa complexus, dicit, Filij obedite pa 
+          <lb ed="#Z" n="7"/>rentibus uestris in domino. Causam addit: Nam id iustum est, Rationem iterum  
+          <lb ed="#Z" n="8"/>subiungit: Nam deus hoc praecepit. Agnoscant ergo liberi parentum uigilias &amp;  
+          <lb ed="#Z" n="9"/>labores educationi insumptos, ac grati rebusque praesentibus contenti sint. Cum 
+          e<lb ed="#Z" n="10" break="no"/>rudiuntur at parentibus, discant sedulo, &amp; sint religiosi lacob, non prophani Esau. 
+          <lb ed="#Z" n="11"/>Discant asuescere bonis moribus. Discant artes libenter. Subiiciant se 
+          correctio<lb ed="#Z" n="12" break="no"/>ni. Ne irritent aut ad iram prouocent parentes. Eligant sua sponte magis quam uer 
+          <lb ed="#Z" n="13"/>beribus &amp; iurgijs adacti sapere &amp; parere. Si paucula relinquant liberis parentes 
+          <lb ed="#Z" n="14"/>decedentes, ne obloquantur defunctis. Docuit te artificium aut artem aliquam 
+          pa<lb ed="#Z" n="15" break="no"/>rens, satis amplum reliquit patrimonium. Sed &amp; frugalitas ac parsimonia magnum 
+          <lb ed="#Z" n="16"/>est uectigal. Instituit te sancte &amp; pulchre in moribus, in uera sapientia &amp; religione 
+          <lb ed="#Z" n="17"/>pater, haereditatem legauit longe opulentissimam. Quid enim sunt opes 
+          amplissi<lb ed="#Z" n="18" break="no"/>mae in manibus stulti &amp; irreligiosi uiri relictae, quam gladius in manibus furiosi? 
+          <lb ed="#Z" n="19"/>Abunde opulentus es ex parentum haereditate relicta, si pius es, laboriosus, dili¬  
+          <lb ed="#Z" n="20"/>gens &amp; probus. Diuturniores &amp; beatiores sunt fere opes nostro labore partae,  
+          <lb ed="#Z" n="21"/>quam ab alijs relictae.
+        </p>
+        <p xml:id="UD1xh4-mOvINz-d1e1513">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Rursus sesquihoram in explicando hoc argumento de colendis parentibus 
+          <lb ed="#Z" n="23"/>insumpsimus, diutius quam par erat charitatem uestram detinentes. Sed dabitis 
+          <lb ed="#Z" n="24"/>hoc studio &amp; amori Non nescio quam necessarium sit multis hoc argumentum, 
+          <lb ed="#Z" n="25"/>Diutius ergo his inhaesi. Vtilia enim &amp; necessaria charitati uestrae non modo tra 
+          <lb ed="#Z" n="26"/>dere sed etiam inculcare modis omnibus satago. Dominus concedat uobis 
+          om<lb ed="#Z" n="27" break="no"/>nibus uberrimam iacti seminis in corda uestra uerbi sui segetem. Oremus, &amp;c. 
+          <lb ed="#Z" n="28"/>De secundo secundae tabulae praecepto, quod ordine in Decalogo sextum est, Non occides.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

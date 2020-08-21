@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 9</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 9</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="28-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-SJPiPd"><!-- d1s9 --> 
+        <head xml:id="UD1xh4-SJPiPd-Hd1e106">Sermo 9</head>
+        <head xml:id="UD1xh4-SJPiPd-Hd1e109" type="question-title">De postremis fidei Christianae articulis symbolo apostolorum comprehensis.</head>
+        <p xml:id="UD1xh4-SJPiPd-d1e112">
+          <!--78.xml-->
+          <pb ed="#Z" n="28-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> De postremis fidei Christianae articulis symbolo apostolorum comprehensit. 
+          <lb ed="#Z" n="2"/>SERMO IX. 
+          <lb ed="#Z" n="3"/>NVOCEMVS patrem nostrum in coelis, per dominum nostrum 
+          le<lb ed="#Z" n="4" break="no"/>sum Christum, ut gratiam suam in nos transfundat, quo postremam 
+          par<lb ed="#Z" n="5" break="no"/>tem expositonis articulorum fidei Christianae multo cum fructu ex- 
+          <lb ed="#Z" n="6"/>pediamus.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e133">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Articulus fidei nonus sic habet, SANCTAM ECCLESIAM CA 
+          <lb ed="#Z" n="8"/>THOLICAM, SANCTORVM COMMVNI ONEM. Post confess 
+          <lb ed="#Z" n="9"/>sionem fidei in sanctam trinitatem &amp; in mysterium filij dei domini nostri Iesu Chri- 
+          <lb ed="#Z" n="10"/>sti, denique in sanctificatorem &amp; reparatorem omnium spiritum sanctum: quart 
+          <lb ed="#Z" n="11"/>ordine iam enumeratur fructus uel uirtus, effectus &amp; finis fidei, que uidelicet con 
+          <lb ed="#Z" n="12"/>tingant &amp; donentur fidelibus. Obuenit his communio cum deo &amp; cum omnibus 
+          <lb ed="#Z" n="13"/>sanctis, sanctificatio, remissio peccatorum, resurrectio carnis &amp; uita sempiterna. 
+          <lb ed="#Z" n="14"/>De his ordine dicemus quantum facultatis dederit benignus dominus.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e154">
+          <lb ed="#Z" n="15"/><pc type="indent"/> Porro repetendum est ex articulo 8. Credo, Credo inquam sanctam ecclesiam  
+          <lb ed="#Z" n="16"/>catholicam. Contendunt hic imperiti quidam confitendum esse, Credo in sanctam  
+          <lb ed="#Z" n="17"/>ecclesiam. Nimirum quod scriptum sit in Constantinopolitano symbolo, Et in spi 
+          <lb ed="#Z" n="18"/>ritum sanctum dominum uiuificantem: qui ex patre filioque procedit, qui cum 
+          pa<lb ed="#Z" n="19" break="no"/>tre &amp; filio simul adoratur &amp; conglorificatur, qui locutus est per prophetas in unam 
+          <lb ed="#Z" n="20"/>catholicam &amp; apostolicam ecclesiam. Nam haec ita distinguunt ut sicut repetunt 
+          <lb ed="#Z" n="21"/>ex praecedentibus credo &amp; intelligunt, Credo in spiritum sanctum dominum: ita 
+          <lb ed="#Z" n="22"/>Credo hic quoque repetunt, &amp; hunc sensum colligunt, Credo in unam catholicam  
+          <lb ed="#Z" n="23"/>&amp; apostolicam ecclesiam. Caeterum preter necessitatem &amp; contra pietatem uerba 
+          <lb ed="#Z" n="24"/>symboli ita detorquent. Nam refertur hoc, In unam catholicam &amp; apostolicam ec  
+          <lb ed="#Z" n="25"/>clesiam non ad uerbum Credo, sed ad spiritum sanctum, nempe quod is locutus 
+          <lb ed="#Z" n="26"/>sit per prophetas in unam catholicam &amp; apostolicam ecclesiam. Significamus enim  
+          <lb ed="#Z" n="27"/>&amp; confitemur unum atque eundem spiritum omnia egisse in utroque testamento, 
+          con<lb ed="#Z" n="28" break="no"/>tra eos qui confinxerunt duos sibi quasi contrarios spiritus. Sed &amp; beatus 
+          Cypria<lb ed="#Z" n="29" break="no"/>nus in expositone symboli apostolici, Non dixit in sanctam ecclesiam, ait, nec in 
+          <lb ed="#Z" n="30"/>remisionem peccatorum, nec in carnis resurrectionem. Si enim addidisset In 
+          prae<lb ed="#Z" n="31" break="no"/>positonem, una eademque uis fuisset cum superioribus. Ne autem in illis quidem  
+          <lb ed="#Z" n="32"/>uocabulis ubi de diuinitate fides ordinatur, In deo patre dicitur, &amp; in Iesu Christo 
+          <lb ed="#Z" n="33"/>filio eius, &amp; in spiritu sancto: in caeteris uero ubi non de diuinitate, sed de 
+          creatu<lb ed="#Z" n="34" break="no"/>ris ac mysterijs sermo est, In praeposito non additur, ut dicatur, In sanctam 
+          eccle<lb ed="#Z" n="35" break="no"/>siam, sed sanctam ecclesiam credendam esse, non ut in deum, sed ut ecclesiam deo 
+          <lb ed="#Z" n="36"/>congregatam: &amp; remissionem peccatorum credendam esse, non in remissionem 
+          <lb ed="#Z" n="37"/>peccatorum: &amp; resurrectionem carnis, non in resurrectionem carnis. Hac itaque 
+          <lb ed="#Z" n="38"/>praepositonis syllaba creatora creaturis secernitur, &amp; diuina separantur ab 
+          hu<lb ed="#Z" n="39" break="no"/>manis. Haec Cyprianus.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e213">
+          <lb ed="#Z" n="40"/><pc type="indent"/> S. Augustinus de fide &amp; symbolo legit, Credo sanctam ecclesiam: &amp; non, Cre 
+          <lb ed="#Z" n="41"/>do in sanctam ecclesiam. Allegantur praeterea uerba eius ad Neophytos de 
+          Con<lb ed="#Z" n="42" break="no"/>secrat. Distinct. 4. cap. Prima, Non diximus ut in ecclesiam quasi in deum 
+          crede<lb ed="#Z" n="43" break="no"/>retis, sed intelligite nos dixisse, ut in ecclesia sancta catholica conuersantes in deum  
+          <lb ed="#Z" n="44"/>crederetis.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e227">
+          <lb ed="#Z" n="45"/><pc type="indent"/> Multo clarius autem Paschasius in lib. 5. de spiritu sancto cap. 5. Credimus 
+          ec<lb ed="#Z" n="46" break="no"/>clesiam, inquit, quasi regenerationis matrem: non in ecclesiam credimus quasi in 
+          <lb ed="#Z" n="47"/>salutis authorem. Qui in ecclefiam credit, in hominem credit. Non enim homo ex 
+          <!--79.xml-->
+          <pb ed="#Z" n="28-v"/>
+          <lb ed="#Z" n="1"/>ecclesia, sed ecclefia coepit esseex homine, Recede itaque ex hac blasphemiae 
+          per<lb ed="#Z" n="2" break="no"/>suasione, ut in aliquam humanam te aestimes debere credere creaturam : cum om 
+          <lb ed="#Z" n="3"/>nino nec in angelum nec in archangelum sit credendum. Imperitia nonullorum 
+          <lb ed="#Z" n="4"/>praepositonem In, uelut de proxima uicinaque sententia in consequentem traxit &amp; 
+          <lb ed="#Z" n="5"/>rapuit, &amp; ex superfluo imprudenter apposuit. Caeterum hic liber S. Paschasij 
+          ual<lb ed="#Z" n="6" break="no"/>de probatus est a beato Gregorio magno Romano episcopo.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e254">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Quid quod <ref xml:id="UD1xh4-SJPiPd-Rd1e259">
+            <name xml:id="UD1xh4-SJPiPd-Nd1e261">Thomas Aquinas</name> disputans de fide lib. 2. part. 2. artic. 9. quaest. I.</ref> 
+          <lb ed="#Z" n="8"/>ait? Si dicitur, Credo in sanctam ecclesiam, intelligendum quod fides nostra refer 
+          <lb ed="#Z" n="9"/>tur ad spiritum sanctum qui sanctificat ecclesiam: ut sit sensus, Credo in spiritum 
+          <lb ed="#Z" n="10"/>sanctum sanctificantem ecclesiam. Sed melius est &amp; secundum communiorem 
+          u<lb ed="#Z" n="11" break="no"/>sum ut non ponatur ibi In, sed simpliciter dicatur sanctam ecclesiam catholicam¬  
+          <lb ed="#Z" n="12"/>sicut etiam Leo papa dicit. Haec ille. Habetis sententias ueterum ecclesiae 
+          docto<lb ed="#Z" n="13" break="no"/>rum, Cypriani, Augustini, Gregorij, Paschasij, Leonis papae, sed &amp; Thomae Aqui 
+          <lb ed="#Z" n="14"/>natis, qui in hisce postremis temporibus docuit. Intellexit autem charitas uestra 
+          <lb ed="#Z" n="15"/>ex rationibus desumptis ex scriptura canonica, confitendum esse sanctam 
+          catho<lb ed="#Z" n="16" break="no"/>licam, &amp; non credendum in sanctam catholicam ecclesiam.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e285">
+          <lb ed="#Z" n="17"/><pc type="indent"/> Videndum porro quid ecclesia dicatur, &amp; quid catholica ecclesia. Ecclesia 
+          pro<lb ed="#Z" n="18" break="no"/>prie est concio, populus inquam euocatus aut collectus ad audiendum de 
+          reipu<lb ed="#Z" n="19" break="no"/>blicae negotijs. In praesenti est omnium profitentium nomen Christi coetus, 
+          com<lb ed="#Z" n="20" break="no"/>munio aut collectio, multitudo &amp; societas. Catholica id est uniuersalis dicitur haec  
+          <lb ed="#Z" n="21"/>societas, quia per omnia loca &amp; tempora extenditur. Sancti enim omnes ita uniun 
+          <lb ed="#Z" n="22"/>tur ut membra in uno corpore quae ab uno dependent capite. Ergo uniuersitas 
+          <lb ed="#Z" n="23"/>totaque multitudo fidelium dicitur ecclesia. Non enim restricta est ecclesia Christi 
+          <lb ed="#Z" n="24"/>in angulum aliquem Aphricae Donatianicum: extendit se per orbem terrae &amp; ad 
+          <lb ed="#Z" n="25"/>omnia tempora, &amp; complectitur omnes fideles ab ipso Adamo ad ultimum usque 
+          <lb ed="#Z" n="26"/>sanctum qui futurus est ante finem mundi. Habet haec particulares ecclesias, 
+          Ec<lb ed="#Z" n="27" break="no"/>clesiam inquam Adae &amp; patriarcharum, Ecclesiam Mosis &amp; prophetarum ante 
+          na<lb ed="#Z" n="28" break="no"/>tiuitatem Christi, Ecclesiam Christianam quae a Christo denominatur: &amp; Aposto 
+          <lb ed="#Z" n="29"/>licam, apostolica doctrina collectam in nomine Christi. Ecclesiam denique Hieroso 
+          <lb ed="#Z" n="30"/>lymitanam, Antiochenam, Alexandriuam, Romanam, Asiaticam, Aphricanam,  
+          <lb ed="#Z" n="31"/>Europeam, Orientalem, Occidentalem, &amp;c. Et hae tamen omnes ueluti membra 
+          <lb ed="#Z" n="32"/>unius corporis sub unico capite Christo ( solus enim Christus est caput ecclesiae 
+          <lb ed="#Z" n="33"/>suae, non tantum triumphantis, sed &amp; militantis) unicam duntaxat constituunt 
+          ca<lb ed="#Z" n="34" break="no"/>tholicam ecclesiam: in qua non reperiuntur uel haereses uel schismata, ideo etiam  
+          <lb ed="#Z" n="35"/>appellatur orthodoxa, nimirum a recta &amp; uera opinione, sententia, fide atque 
+          do<lb ed="#Z" n="36" break="no"/>ctrina. In sola enim ecclesia est uera fides, &amp; extra ecclesiam dei nulla est ueritas.  
+          <lb ed="#Z" n="37"/>nulla salus.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e334">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Confitemur autem hoc articulo quod omnes fideles per totum terrarum or- 
+          <lb ed="#Z" n="39"/>bem dispersi, sed &amp; qui hodie uiuunt in coelis, quotquot inquam saluati sunt, &amp; in 
+          <lb ed="#Z" n="40"/>finem usque saeculi nascentur saluandi, unum sint corpus, nacti societatem &amp; 
+          parti<lb ed="#Z" n="41" break="no"/>cipationem cum deo &amp; inter se mutuam. Et quoniam nemo cum deo uniri potest 
+          <lb ed="#Z" n="42"/>nisi &amp; ipse sanctus atque purus sit, quemadmodum deus sanctus &amp; purus est, ideo 
+          <lb ed="#Z" n="43"/>credimus sanctam esse ecclesiam, id est sanctificatam per deum patrem in 
+          sangui<lb ed="#Z" n="44" break="no"/>ne filij &amp; dono spiritus sancti. Testimonia plura audiuimus in superioribus 
+          con<lb ed="#Z" n="45" break="no"/>cionibus. Vnum Pauli satis fuerit quod ad Ephes: ita legitur scriptum, Christus 
+          <lb ed="#Z" n="46"/>dilexit ecclesiam, &amp; tradidit semetipsum pro ea, ut illam sanctificaret mundatam 
+          Ia<lb ed="#Z" n="47" break="no"/>uacro aquae per uerbum, ut adhiberet eam sibi ipsi gloriosam ecclesiam non 
+          ha<lb ed="#Z" n="48" break="no"/>bentem maculam aut rugam, &amp;c. Ex quibus uerbis etiam hoc intelligimus, eccle¬ 
+          <!--80.xml-->
+          <pb ed="#Z" n="29-r"/>
+          <lb ed="#Z" n="1"/>siam appellari incontaminatam &amp; prorsus puram, non propter ipsam, sed propter 
+          <lb ed="#Z" n="2"/>Christum. Ita enim sancta est ecclesia Christi ut quotidie proficiat, nondum quoad 
+          <lb ed="#Z" n="3"/>in terris uiuit, perfecta sit. In Christo tamen eius sanctitas perfectissima est. Quo 
+          <lb ed="#Z" n="4"/>nimirum pertinet illa egregia domini uox, Qui letus est, non opus habet, nisi ut 
+          <lb ed="#Z" n="5"/>pedes lauet, sed est mundus totus. Propter Christum enim lauantem sanguine suo, 
+          <lb ed="#Z" n="6"/>fideles perfecte mundati sunt, sed quia caro repugnat quoad uiuitur in terris 
+          spi<lb ed="#Z" n="7" break="no"/>ritui, opus est pijs pedes, id est carnis reliquias &amp; maculas ex quotidiana mundi 
+          <lb ed="#Z" n="8"/>conuersatione aspersas, eluere atque extergere spiritu ac fide.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e383">
+          <lb ed="#Z" n="9"/><pc type="indent"/> Sed quorsum pertinet quod appenditur Sanctorum communionem? Ea uer 
+          <lb ed="#Z" n="10"/>ba non habentur neque apud Cyprianum, neque apud Augustinum, neqe ab eis ex- 
+          <lb ed="#Z" n="11"/>ponuntur. Vnde uerisimile est adiecta esse interpretandi gratia: ut enim 
+          appare<lb ed="#Z" n="12" break="no"/>ret ecclesiam catholicam esse societatem &amp; contubernium fidelium, adiecit 
+          San<lb ed="#Z" n="13" break="no"/>ctorum communionem, id est, quae ecclesia est communio sanctorum. Sanctos ap 
+          <lb ed="#Z" n="14"/>pellauit Paulus fideles sanguine &amp; spiritu dei sanctificatos. Sed &amp; Communionis 
+          <lb ed="#Z" n="15"/>uocabulum plurimum habet euidentiae &amp; consolationis. Primo enim innuit inter 
+          <lb ed="#Z" n="16"/>nos &amp; deum esse communionem, id est societatem &amp; participationem, &amp; per con 
+          <lb ed="#Z" n="17"/>sequens omnium bonorum coelestium communicationem. Deinde intelligimus 
+          <lb ed="#Z" n="18"/>societatem &amp; participatum esse nobis cum omnibus sanctis, cum in coelis tum in 
+          <lb ed="#Z" n="19"/>terris uiuentibus. Horum enim membra sumus sub uno capite Christo. Ioannes 
+          <lb ed="#Z" n="20"/>enim apostollus dicit, Quod uidimus &amp; audiuimus annunciamus uobis, ut &amp; uos 
+          <lb ed="#Z" n="21"/>societatem habeatis nobiscum, &amp; focietas uestra sit cum patre &amp; filio eius Iesu 
+          <lb ed="#Z" n="22"/>Christo. Huc pertinet similitudo elegans de corpore &amp; membris sub uno capite, 
+          <lb ed="#Z" n="23"/>copiose tractata ab apostolo Paulo. Quis uero satis digne praestantiam doni bene 
+          <lb ed="#Z" n="24"/>ficijque dei explicuerit, quod nos sumus participes dei cum quo arctissimam con- 
+          <lb ed="#Z" n="25"/>iunctionem imo communionem habemus cum omnibus bonis coelestibus? Quid 
+          <lb ed="#Z" n="26"/>iucundius auditu est quam quod omnes sancti tam in coelis quam in terris fratres 
+          <lb ed="#Z" n="27"/>nostri sunt, &amp; nos istorum membra participesque &amp; socij sumus? Benedictus deus 
+          <lb ed="#Z" n="28"/>qui nobis in Christo tam liberaliter benedixit. In hunc locum pertinet tractatio 
+          <lb ed="#Z" n="29"/>sacramentorum, de quibus alias, sicut &amp; de Ecclesia alias dicemus copiosius. Haec  
+          <lb ed="#Z" n="30"/>ad institutum praesens sufficiunt. Abunde enim satis fidei in deum patrem, filium,  
+          <lb ed="#Z" n="31"/>&amp; spiritum sanctum fructum exprimunt &amp; exponunt, nempe quod communio 
+          <lb ed="#Z" n="32"/>nem habemus cum deo &amp; cum omnibus sanctis, &amp; quod in hac societate sancti- 
+          <lb ed="#Z" n="33"/>ficamur ab omnibus inquinamentis, purgati iam &amp; sancti in Christo domino 
+          <lb ed="#Z" n="34"/>nostro.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e444">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Sequitur articulus fidei decimus, REMISSIONEM PECCATO- 
+          <lb ed="#Z" n="36"/>RVM. Fructus alter fidei in deum patrem, filium, &amp; spiritum sanctum 
+          exponi<lb ed="#Z" n="37" break="no"/>tur, remissio uidelicet peccatorum, quae tametsi in sanctificatione superioris 
+          arti<lb ed="#Z" n="38" break="no"/>culi sit comprehensa, uiuidius tamen hic exprimitur. Extra ecclesiam ceu arcam  
+          <lb ed="#Z" n="39"/>Noe nulla est salus : in ecclesia autem, in societate inquam Christi &amp; sanctorum, 
+          <lb ed="#Z" n="40"/>est plenaria remissio omnium peccatorum. Haec ut rectius intelligantur, 
+          digere<lb ed="#Z" n="41" break="no"/>mus in aliquot capita.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e463">
+          <lb ed="#Z" n="42"/><pc type="indent"/> Principio necesse est omnes agnoscamus &amp; confiteamur nos esse peccatores. 
+          <lb ed="#Z" n="43"/>ac natura proprioque nostro merito filios irae &amp; condemnationis. Nam non frustra 
+          <lb ed="#Z" n="44"/>neque uane mendacem appellauit beatus Ioannes omnem qui negat se esse 
+          pecca<lb ed="#Z" n="45" break="no"/>torem. Et qui corda hominum nouit deus, iussit nos ad extremum usque halitum  
+          <lb ed="#Z" n="46"/>orare, Remitte nobis debita nostra. Sed &amp; in euangelio duo elegantia habemus 
+          <lb ed="#Z" n="47"/>confitentium deo peccata sua aperte, exempla, filij uidelicet prodigi, &amp; publicani 
+          <lb ed="#Z" n="48"/>apud Lucam. Teneamus ergo nos omnes esse peccatores, sicut &amp; Paulus docuit 
+          <!--81.xml-->
+          <pb ed="#Z" n="29-v"/>
+          <lb ed="#Z" n="1"/>imo euicit ad Rom. 3. cap. &amp; confiteamur deo ingenue peccata nostra cum Daui¬  
+          <lb ed="#Z" n="2"/>de Psal. 32. &amp; 51. dicentes, Peccatum meum tibi notum feci, &amp; iniquitatem meam  
+          <lb ed="#Z" n="3"/>non abscondi. Dixi, confitebor aduersum me iniquitatem meam, &amp; tu remisisti 
+          ini<lb ed="#Z" n="4" break="no"/>quitatem peccati mei. Miserere mei deus secundum magnam misericordiam tuam¬  
+          <lb ed="#Z" n="5"/>&amp;c. Notus est Psalmus.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e497">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Deinde credamus nobis peccata illa nostra condonata &amp; remissa esse a 
+          deo<lb ed="#Z" n="7" break="no"/>non propter illam nostram peccatorum agnitionem &amp; confessionem, sed propter 
+          <lb ed="#Z" n="8"/>meritum ac sanguinem filij dei : non propter opera &amp; merita nostra, sed propter 
+          <lb ed="#Z" n="9"/>ueritatem &amp; misericordiam siue gratiam dei. Diserte enim profitemur, Credo 
+          re<lb ed="#Z" n="10" break="no"/>misionem peccatorum: non dicimus, Emo, aut muneribus impetro, aut operibus 
+          <lb ed="#Z" n="11"/>assequor remisionem peccatorum, sed, Credo remisionem peccatorum. Ac Re- 
+          <lb ed="#Z" n="12"/>misionis uocabulum gratuitam condonationem significat metaphora tracta a 
+          cre<lb ed="#Z" n="13" break="no"/>ditoribus &amp; debitoribus, Remittit enim debitori creditor cum ille non est 
+          soluen<lb ed="#Z" n="14" break="no"/>do: ergo remissio est donatio: iuxta illud saluatoris in euangelio, Duo debitores 
+          <lb ed="#Z" n="15"/>erant cuidam creditori : cumque illi non essent soluendo, donauit utrisque. Huc 
+          per<lb ed="#Z" n="16" break="no"/>tinet illud ex oratione dominica, Et remitte nobis debita nostra. Debita enim 
+          no<lb ed="#Z" n="17" break="no"/>stra peccata sunt, ea nobis remitti, id est condonari postulamus. Huc pertinent illa  
+          <lb ed="#Z" n="18"/>sancti Pauli uerba, Ei qui operatur, merces non imputatur secundum gratiam, sed 
+          <lb ed="#Z" n="19"/>secundum debitum. Porro ei qui non operatur, sed credit in eum qui iustificat im  
+          <lb ed="#Z" n="20"/>pium, imputatur fides sua ad iustitiam. Quemadmodum &amp; Dauid explicat 
+          bea<lb ed="#Z" n="21" break="no"/>tificationem hominis cui deus imputat iustitiam absque operibus, Beati quorum 
+          re<lb ed="#Z" n="22" break="no"/>missae sunt iniquitates, &amp; quorum obtecta sunt peccata. Beatus uir cui non impu 
+          <lb ed="#Z" n="23"/>tabit dominus peccatum. Proinde gratis quidem quod nos quidem attinet, qui non  
+          <lb ed="#Z" n="24"/>habemus quod rependamus, quantum uero ad iustitiam dei, propter meritum &amp;  
+          <lb ed="#Z" n="25"/>satisfactionem Christi, condonantur nobis peccata.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e544">
+          <lb ed="#Z" n="26"/><pc type="indent"/> Condonantur autem peccata, non paucorum, non unius aut alterius saeculi,  
+          <lb ed="#Z" n="27"/>non certa &amp; numerata, sed omnium hominum, omnium saeculorum, &amp; tota 
+          mul<lb ed="#Z" n="28" break="no"/>titudo peccatorum, quicquid est &amp; dicitur peccatum, siue originale sit, siue 
+          actua<lb ed="#Z" n="29" break="no"/>le, siue alienum sit, breuiter omnia peccata remittuntur nobis. Id quod sic 
+          intelli<lb ed="#Z" n="30" break="no"/>gimus, unicam uidelicet Christi hostiam satis esse efficacem ad abluenda omnia 
+          <lb ed="#Z" n="31"/>omnium peccatorum fide ad thronum gratiae accurrentium peccata. Ergo non do 
+          <lb ed="#Z" n="32"/>cemus homines peccare, quia iam olim pro peccatis satisfecit dominus: sed si quis 
+          <lb ed="#Z" n="33"/>peccauerit, docemus illum bene sperare non desperare, &amp; accedere ad thronum 
+          <lb ed="#Z" n="34"/>gratiae. Christum enim residentem ad dexteram patris, esse agnum illum dei qui 
+          <lb ed="#Z" n="35"/>tollat peccata mundi. Et significanter quidem in symbolo ponitur, Credo remis- 
+          <lb ed="#Z" n="36"/>sionem peccatorum, &amp; non peccati. Peccatorum enim dicentes, agnoscimus deum  
+          <lb ed="#Z" n="37"/>remittere omnia peccata. Nam ut Pauli testimonia ad Rom. 3. &amp; 5. non 
+          profera<lb ed="#Z" n="38" break="no"/>mus, sufficient illa Ioannis apostoli &amp; euangelistae testificantis in epistola illa sua,  
+          <lb ed="#Z" n="39"/>atque dicentis, Et sanguis Iesu Christi filij dei emundat nos ab omni peccato. En ab  
+          <lb ed="#Z" n="40"/>omni peccato dixit. Ab omni inquam qui dicit, nullum excludit, nisi forte quod 
+          <lb ed="#Z" n="41"/>exclusit ipse dominus, peccatum in spiritum sanctum, pro quo &amp; Ioannes ille idem 
+          <lb ed="#Z" n="42"/>orare prohibuit, Rursus, Si confitemur peccata nostra, ait idem ille, fidelis est &amp; 
+          <lb ed="#Z" n="43"/>iustus ut remittat nobis peccata nostra, &amp; emundet nos ab omni iniquitate nostra. 
+          <lb ed="#Z" n="44"/>Non satis erat apostolo dixisse, Vt remittat nobis peccata nostra, adiecit insuper 
+          <lb ed="#Z" n="45"/>ut rem proprijssime &amp; significantissime explicaret, Et emundet nos ab omni 
+          ini<lb ed="#Z" n="46" break="no"/>quitate nostra, Rursus ab omni iniquitate dicit. Et quia calumniator aliquis 
+          obii<lb ed="#Z" n="47" break="no"/>cere poterat, Efficit huiusmodi doctrina inertes &amp; segnes homines. Nam 
+          homi<lb ed="#Z" n="48" break="no"/>nes praetextu gratiae diuinae pergent peccare : respondet ergo Ioannes in cap 2. &amp; 
+          <!--82.xml-->
+          <pb ed="#Z" n="30-r"/>
+          <lb ed="#Z" n="1"/>ait, Filioli mei baec scribo uobis ne peccetis: &amp; si quis peccauerit, aduocatum 
+          ha<lb ed="#Z" n="2" break="no"/>bemus apud patrem Iesum Christum iustum. Et ipse est propitiatio pro peccatis 
+          <lb ed="#Z" n="3"/>nostris, non pro nostris autem tantum, sed etiam pro totius mundi. Proinde 
+          cer<lb ed="#Z" n="4" break="no"/>tum est morte Christi condonari credentibus peccata omnia.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e610">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Porro remittit dominus solus peccata. Solius enim dei gloria est remittere pec 
+          <lb ed="#Z" n="6"/>cata, &amp; ex iniustis facere iustos. Ergo quanquam homines dicantur remittere, id  
+          <lb ed="#Z" n="7"/>tamen de ministerio non potestate intelligendum est. Annunciat minister credenti  
+          <lb ed="#Z" n="8"/>propter Christum remissa esse peccata: nec fallit. Deus enim uere peccata 
+          remit<lb ed="#Z" n="9" break="no"/>mit credentibus: iuxta illud, Quorum remiseritis peccata, remittuntur eis. Id fit 
+          <lb ed="#Z" n="10"/>quotiescunque annunciatur uerbum euangelij, ut nihil necesse sit comminisci con 
+          <lb ed="#Z" n="11"/>tessione auriculari &amp; priuata sacerdotis absolutione ad condonationem 
+          peccato<lb ed="#Z" n="12" break="no"/>rum opus esse. Nam ut auricularis confessio non fuit usurpata sanctis ante 
+          ad<lb ed="#Z" n="13" break="no"/>uentum Christi, ita non legimus apostolos priuatas audiuisse confessiones, uel pri 
+          <lb ed="#Z" n="14"/>uatas absolutiones usurpasse in ecclesia Christi. Satis est confiteri deo inspicienti 
+          <lb ed="#Z" n="15"/>corda nostra, &amp; idcirco legitimo confessionario peccata nostra. Satis est si iuxta 
+          <lb ed="#Z" n="16"/>uerbum S. Iacobi alter alteri fateatur delicta &amp; offensas, precemurque condonatio 
+          <lb ed="#Z" n="17"/>nem, &amp; mutuo redeamus in gratiam. Satis est audiuisse euangelium promittenti nobis 
+          <lb ed="#Z" n="18"/>per Christum remisionem, peccatorum si credamus. Credamus ergo remisionem 
+          <lb ed="#Z" n="19"/>peccatorum, orantes interim dominum ut is &amp; fidem concedat &amp; augeat. Haec  
+          <lb ed="#Z" n="20"/>quondam &amp; in primitiua ecclesia satis fuerunt efficacia ad consequendam indulgen 
+          <lb ed="#Z" n="21"/>tiam &amp; plenariam peccatorum remisionem: sufficiunt haud dubie etiam hodie.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e650">
+          <lb ed="#Z" n="22"/><pc type="indent"/> Praeterea remittit dominus nobis peccata, non ut non sint &amp; reliquias in 
+          car<lb ed="#Z" n="23" break="no"/>ne nostra ceu aculeum non relinquant, sed ne imputentur nobis ad 
+          condemna<lb ed="#Z" n="24" break="no"/>tionem. Haeret &amp; exerit sese concupiscentia in carne nostra, spirituique dei bono 
+          re<lb ed="#Z" n="25" break="no"/>pugnat uel in sanctis quoad uixerimus in hisce terris. Multa ergo hic opus 
+          uigi<lb ed="#Z" n="26" break="no"/>lia, multis ieiunijs quibus carni detrahamus fomenta mali, multis precibus quibus 
+          <lb ed="#Z" n="27"/>imploremus dei auxilium ne uincamur a malo. Quod si quis succubuerit 
+          tenta<lb ed="#Z" n="28" break="no"/>tioni, ne praebeat se irretiendum diabolo, resurgat per poenitentiam, recurrat ad 
+          <lb ed="#Z" n="29"/>Christum, credens sibi per mortem Christi hunc quoque lapsum esse condonatum. 
+          <lb ed="#Z" n="30"/>Recurret autem toties quoties a concupiscentia &amp; peccato fuerit superatus. Huc 
+          <lb ed="#Z" n="31"/>enim pertinent omnes adhortationes prophetarum &amp; apostolorum suadentes con  
+          <lb ed="#Z" n="32"/>uersionem ad dominum.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e678">
+          <lb ed="#Z" n="33"/><pc type="indent"/> Peccata denique nostra ita condonat dominus, ut eorum plane recordari nolit. 
+          <lb ed="#Z" n="34"/>lta enim praedixit per Ieremiam in cap. 3t. Ergo non animaduertit in nos. Non  
+          <lb ed="#Z" n="35"/>enim culpam modo, sed &amp; poenam peccati condonauit. Quod autem non raro fia 
+          <lb ed="#Z" n="36"/>gellis suis nos caedit, &amp; caedit quidem propter peccata: sicuti clare exprimit 
+          scrip<lb ed="#Z" n="37" break="no"/>tura sancta, id quidem non fit ut afflictione nostra satisfaciamus pro peccatis 
+          com<lb ed="#Z" n="38" break="no"/>missis. Ita enim euacuaretur mors Christi: sed flagellando castigat nos dominus, 
+          <lb ed="#Z" n="39"/>&amp; fagellando declarat se non probare peccata quae designauimus, ac ipse gratis 
+          <lb ed="#Z" n="40"/>condonauit: flagellando item exempla statuit nos alijs ne ipsi quoque peccent: sed 
+          <lb ed="#Z" n="41"/>&amp; nobis ipsis occasionem peccandi amputat, &amp; cruce nostram exercet patientiam. 
+          <lb ed="#Z" n="42"/>Haec hactenus de Remisione peccatorum. De qua nonnulla disseruimus etiam  
+          <lb ed="#Z" n="43"/>in sermone de fide iustificante, &amp; alias.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e705">
+          <lb ed="#Z" n="44"/><pc type="indent"/> Articulus fidei undecimus hic est, CARNIS RESVRRECTIO 
+          <lb ed="#Z" n="45"/>NEM. DUO articuli postremi, hic &amp; duodecimus, fructum fidei praestantissimum d 
+          <lb ed="#Z" n="46"/>summamque totius perfectionis succincta breuitate concludunt, finem inquam fi- 
+          <lb ed="#Z" n="47"/>dei, aeternam uitam, &amp; totius hominis plenam &amp; perfectam salutem profitens. 
+          To<lb ed="#Z" n="48" break="no"/>tus enim homo saluabitur cum anima tum corpore. Nam ut homo anima &amp; cor- 
+          <!--83.xml-->
+          <pb ed="#Z" n="30-v"/>
+          <lb ed="#Z" n="1"/>pore perierat, ita anima &amp; corpore restitui debebat, adeoque &amp; per Christum 
+          resti<lb ed="#Z" n="2" break="no"/>tutus est. Anima quidem hominis spiritus est, neque interit unquam : corpus 
+          terre<lb ed="#Z" n="3" break="no"/>num est, moritur ergo ac computrescit. Quare multi arbitrantur interire 
+          corpo<lb ed="#Z" n="4" break="no"/>ra, neque ea unquam uel gaudiorum uel poenarum fore consortia. Diuersum uero 
+          <lb ed="#Z" n="5"/>hoc articulo profitemur, confitentes corpora illa nostra adeoque carnem nostram  
+          <lb ed="#Z" n="6"/>resurgere &amp; ingredi in uitam aeternam.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e737">
+          <lb ed="#Z" n="7"/><pc type="indent"/> De uocabulo Resurrectionis diximus ubi explicaremus articulum illum, 
+          Ter<lb ed="#Z" n="8" break="no"/>tia die resurrexit ex mortuis. Caro uero multo significantius huius nostrae carnis 
+          <lb ed="#Z" n="9"/>resurrectionem quam si corpus diceremus exprimit. Certe Cyprianus author est 
+          <lb ed="#Z" n="10"/>in aliquot Orientis ecclesijs hunc articulum sic fuisse pronunciatum, Credo huius 
+          <lb ed="#Z" n="11"/>carnis resurrectionem. Nam &amp; Augustinus de fide &amp; symbolo cap. 19. scriptum 
+          <lb ed="#Z" n="12"/>reliquit. Haec uisibilis quae caro proprie dicitur, sine dubitatione credenda est 
+          re<lb ed="#Z" n="13" break="no"/>surgere. Hanc uidetur Paulus apostolus ceu digito suo ostendere cum ait. Opor- 
+          <lb ed="#Z" n="14"/>tet corruptibile H Oc induere incorruptionem. Cum enim dicit, HOc, in eam  
+          <lb ed="#Z" n="15"/>quasi digitum intendit. Haec ille. Sed &amp; diuus Hieronymus urget Ioan. 
+          Hieroso<lb ed="#Z" n="16" break="no"/>lymitanum episcopum, ut palam confiteatur carnis non tantum corporis resurre 
+          <lb ed="#Z" n="17"/>ctionem. Alia, ait, carnis, alia corporis definitio est. Omnis caro est corpus: non om 
+          <lb ed="#Z" n="18"/>ne corpus est caro. Caro est proprie quae sanguine, uenis, ossibus neruisque constrin 
+          <lb ed="#Z" n="19"/>gitur. Corpus quanquam &amp; caro dicatur, interdum tamen uel aetherium uel 
+          ae<lb ed="#Z" n="20" break="no"/>rium nominatur, quod tactui uisuique non subiacet: &amp; plerunque uisibile est atque tan 
+          <lb ed="#Z" n="21"/>gibile. Paries est corpus, sed non caro, &amp;c. Haec Hieron. Credamus itaque corpora 
+          <lb ed="#Z" n="22"/>hominum quae de terra sumpta sunt, &amp; quae homines hic uiuentes gerunt, in 
+          qui<lb ed="#Z" n="23" break="no"/>bus uiuunt &amp; uersantur, quae moriuntur, inque cinerem &amp; puluerem abeunt, 
+          rur<lb ed="#Z" n="24" break="no"/>sus reuiuiscere.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e780">
+          <lb ed="#Z" n="25"/><pc type="indent"/> Sed rogas quomodo possit haec caro redacta in fauillam &amp; puluerem adeoque 
+          <lb ed="#Z" n="26"/>in nihilum, resurgere in substantia &amp; forma pristina : ueluti cum a ferarum 
+          den<lb ed="#Z" n="27" break="no"/>tibus dilacerata, aut ignium flammis prorsus absumpta est, cumque in 
+          monumen<lb ed="#Z" n="28" break="no"/>tis non nisi tenuissimus &amp; rarissimus reperitur puluisculus, Relego te ad 
+          omnipo<lb ed="#Z" n="29" break="no"/>tentiam dei, quam &amp; apostolus citauit dicens, Christus transfigurabit corpus 
+          no<lb ed="#Z" n="30" break="no"/>strum humile ut conforme reddat corpori suo glorioso, secundum efficaciam qua 
+          <lb ed="#Z" n="31"/>potest etiam sibi subijcere omnia. Proinde qui ab initio cum nullus omnino esset 
+          <lb ed="#Z" n="32"/>homo in mundo, hominem potuit ex puluere terrae producere, tametsi idem 
+          ho<lb ed="#Z" n="33" break="no"/>mo iterum resoluatur in id unde sumptus est nempe terram, iuxta quod dixit, Pul 
+          <lb ed="#Z" n="34"/>uis es &amp; in puluerem reuerteris, certe poterit idem ille deus etiam in fine saeculi 
+          <lb ed="#Z" n="35"/>hominem rursus excitare eterra. Diserte enim dixit in euangelio dominus, 
+          Ve<lb ed="#Z" n="36" break="no"/>niet hora in qua omnes qui in monumentis sunt audient uocem filij dei, &amp; prodi 
+          <lb ed="#Z" n="37"/>bunt, qui bona fecerunt in resurrectionem uitae, qui uero mala egerunt in 
+          resur<lb ed="#Z" n="38" break="no"/>rectionem iudicij. lam uero fides nostra certa concipit persuasione, ut apostolus 
+          <lb ed="#Z" n="39"/>ait, quod is qui promisit idem potens est &amp; praestare. Sunt praeterea uiua huius rei 
+          <lb ed="#Z" n="40"/>exempla, sunt clarissima sanctae scripturae testimonia. lonas deglutitur a ceto in 
+          <lb ed="#Z" n="41"/>Syriaco mari, at idem post triduum ad declarandam carnis resurrectionem ueram 
+          <lb ed="#Z" n="42"/>e uisceribus beluae euomitur uiuus in aridam. Proinde iam non amplius creditu 
+          <lb ed="#Z" n="43"/>difficile est, quod in theologia domini mare dicitur reddere mortuos suos. Non po 
+          <lb ed="#Z" n="44"/>tuit impetus ignis nocere tribus socijs Danielis, imo rabies ferarum contra 
+          natu<lb ed="#Z" n="45" break="no"/>ram pepercit ipsi Danieli : ergo quid mirum si potentiae dei ne hodie quidem 
+          resi<lb ed="#Z" n="46" break="no"/>stere possit uis ignis &amp; rabies ferarum, creaturas suas excitare uolenti? An non 
+          <lb ed="#Z" n="47"/>triduo iam in sepulchro iacentem imo &amp; foetentem Lazarum excitauit dominus 
+          <lb ed="#Z" n="48"/>noster Christus? An non ipse confracta mortis tyrannide, terria die resurrexit ex 
+          <!--84.xml-->
+          <pb ed="#Z" n="31-r"/>
+          <lb ed="#Z" n="1"/>mortuis, &amp; resurrexit quidem eadem carnis substantia &amp; corporis forma, qua pe 
+          <lb ed="#Z" n="2"/>penderat in cruce, &amp; sublatus e cruce, fuerat sepultus? In Christum, qui dicitur 
+          <lb ed="#Z" n="3"/>primogenitus ex mortuis, merito respicimus quoties cogitamus qualis futura sit 
+          <lb ed="#Z" n="4"/>resurrectio carnis nostrae. Ad eum enim modum resurgent membra, quemadmo 
+          <lb ed="#Z" n="5"/>dum resurrexit caput: non quidem tertia die a morte nostra, sed nostro modo &amp;  
+          <lb ed="#Z" n="6"/>ordine in die illa ultima: uero tamen &amp; nostro illo corpore in quo iam uiuimus.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e853">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Testimonia de resurrectione carnis nostrae aliquot subiungemus. 
+          Profite<lb ed="#Z" n="8" break="no"/>tur lob fidem suam de resurrectione mortuorum in maxima sua infirmitate, affli- 
+          <lb ed="#Z" n="9"/>ctione, &amp; aegritudine, ac dicit, Scio quod redemptor meus uiuit, &amp; in nouissimo  
+          <lb ed="#Z" n="10"/>die de terra surrecturus sum. Et rursum circundabor pelle mea, &amp; in carne mea 
+          <lb ed="#Z" n="11"/>uidebo deum: quem uisurus sum ego ipse, &amp; oculi mei conspecturi funt, &amp; non 
+          <lb ed="#Z" n="12"/>alius, Reposita est haec spes in sinu meo. Clarissimum est hoc testimonium non  
+          <lb ed="#Z" n="13"/>indigens ulla copiosiore expositone.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e872">
+          <lb ed="#Z" n="14"/><pc type="indent"/> Non minus clara sunt testimonia lsaiae 26. Ezech. 37. Psal. 15. Matth. 22. Ioan 
+          <lb ed="#Z" n="15"/>cap. 5. 6. 51. In Actis nullibi non inculcatur resurrectio mortuorum. S. Paulus in 1. ad 
+          <lb ed="#Z" n="16"/>Corinth. 55. cap. plene de hac resurrectione disputat. In 2. epistola cap. 4. Semper 
+          <lb ed="#Z" n="17"/>nos qui uiuimus, inquit, in mortem tradimur propter Iesum, ut &amp; uita Iesu mani 
+          <lb ed="#Z" n="18"/>festetur in mortali carne nostra. En quid poterat dici clarius quam uitam Chri- 
+          <lb ed="#Z" n="19"/>sti manifestandam esse in mortali carne nostra? Mox enim subiungit. Scientes 
+          <lb ed="#Z" n="20"/>quod qui suscitauit dominum Iesum, nos quoque per Iesum suscitabit. Et in 5. cap. 
+          <lb ed="#Z" n="21"/>Omnes nos manifestari oportet, ait, coram tribunali Christi, ut reportet 
+          unus<lb ed="#Z" n="22" break="no"/>quisque ea quae fiunt per corpus, iuxta id quod fecit, siue id bonum sit siue malum. 
+          <lb ed="#Z" n="23"/>Corpora ergo nostra uera resurgent in die iudicij.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e898">
+          <lb ed="#Z" n="24"/><pc type="indent"/> Explicandum porro erit charitati uestrae quomodo resurrectura sint corpora 
+          <lb ed="#Z" n="25"/>nostra &amp; qualia in resurrectione futura. In fine &amp; exitu saeculorum siue huius mun 
+          <lb ed="#Z" n="26"/>di ueniet in iudicium magna cum maiestate dominus noster Iesus Christus, &amp; 
+          tun<lb ed="#Z" n="27" break="no"/>quidem quos dies illa deprehendet uiuos in puncto temporis mutabuntur, mor 
+          <lb ed="#Z" n="28"/>tui autem a primo homine ad ultimum, uniuersi inquam resurgent, ac in propria 
+          <lb ed="#Z" n="29"/>carne stabunt inter uiuos illos immutatos ante tribunal Christi, ultimam illam ex- 
+          <lb ed="#Z" n="30"/>pectantes sententiam. Id quod Paulus hisce uerbis exposuit, Ecce mysterium uo 
+          <lb ed="#Z" n="31"/>bis dico, Non omnes quidem dormiemus, omnes tamen immutabimur in puncto 
+          <lb ed="#Z" n="32"/>temporis in momento oculi per extremam tubam. Canet enim, &amp; mortui 
+          resur<lb ed="#Z" n="33" break="no"/>gent incorruptibiles: &amp; nos immutabimur. Oportet enim corruptibile Hoc in 
+          <lb ed="#Z" n="34"/>duere incorruptibilitatem, &amp; mortale hoc induere immortalitatem.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e925">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Ex hoc claro apostoli testimonio colligere licet etiam qualia sint futura corpo 
+          <lb ed="#Z" n="36"/>ra nostra ex resurrectione: non alia quidem erunt corpora nostra ex resurrectione 
+          <lb ed="#Z" n="37"/>quam nunc sint, nisi quod ab omni corruptione &amp; affectione corruptibili erunt 
+          <lb ed="#Z" n="38"/>aliena. Dicit enim apostolus, Mortui resurgent. Item, Nos immutabimur, 
+          Rur<lb ed="#Z" n="39" break="no"/>sus emphatice &amp; denesiode ipsamet corpora nostra quae nunc circunferimus 
+          de<lb ed="#Z" n="40" break="no"/>monstrans, dicit, Hoc corruptibile, Hoc mortale, Hoc inquam corpus &amp; non 
+          <lb ed="#Z" n="41"/>aliud sicut &amp; lob testificatus est, resurget: resurget autem incorruptibile quod 
+          <lb ed="#Z" n="42"/>aliquando erat corruptibile: resurget immortale, quod ante resurrectionem erat 
+          <lb ed="#Z" n="43"/>mortale. Liberabitur ergo in resurrectione corpus nostrum ab omni affectione 
+          <lb ed="#Z" n="44"/>praua &amp; passibili, ab omni corruptione: non autem annihilabitur eius 
+          substan<lb ed="#Z" n="45" break="no"/>tia, non conuertetur in spiritum, non erit a sua figura alienum. Et hoc quidem  
+          <lb ed="#Z" n="46"/>corpus propter purificationem &amp; defecationem illam, imo propter dotes 
+          coe<lb ed="#Z" n="47" break="no"/>lestes &amp; diuinas, appellatur &amp; Corpus spirituale &amp; corpus gloriosum ac 
+          clari<lb ed="#Z" n="48" break="no"/>ficatum.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e959">
+          <!--85.xml-->
+          <pb ed="#Z" n="31-v"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> Paulus enim ad Philippenses 3. Couersatio nostra, inquit, in coelis est, ex quo 
+          <lb ed="#Z" n="2"/>&amp; seruatorem expectamus dominum Iesum Christum, qui tranfigurabit corpus 
+          <lb ed="#Z" n="3"/>nostrum humile, ut conforme reddat corpori suo glorioso. Ecce resurrectionem 
+          <lb ed="#Z" n="4"/>nostram ex mortuis appellat apostolus non transsubstantiationem aut 
+          annihila<lb ed="#Z" n="5" break="no"/>tionem corporis nostri, sed transfigurationem: deinde corpus transfiguratum 
+          qua<lb ed="#Z" n="6" break="no"/>le sit ostendens, nominat gloriosum, non utique alienum ab omni figura aut exem 
+          <lb ed="#Z" n="7"/>ptum forma, sed auctum gloria: imo ipsum domini Iesu corpus nobis proponit in 
+          <lb ed="#Z" n="8"/>quo ostendit qualia sint futura corpora nostra in gloria. Diserte enim dicit, 
+          Con<lb ed="#Z" n="9" break="no"/>forme reddet corpus nostrum humile corpori suo glorioso. Videamus ergo 
+          qua<lb ed="#Z" n="10" break="no"/>le habuerit corpus a resurrectione dominus noster : non erat hoc conuersum uel 
+          <lb ed="#Z" n="11"/>in spiritum uel annihilatum, uel nulla forma &amp; figura cognobile. Manus enim  
+          <lb ed="#Z" n="12"/>&amp; pedes ostendens fixura clauorum insignes dicit, Videte quia ego ipse sum, 
+          ni<lb ed="#Z" n="13" break="no"/>mirum eodem indutus corpore quo pependi in cruce. Clarius enim loquens &amp;  
+          <lb ed="#Z" n="14"/>corpus suum a spirituali substantia asserens, ait, Spiritus carnem &amp; ossa non 
+          ha<lb ed="#Z" n="15" break="no"/>bet sicut uidetis me habere. Habet ergo clarificatum corpus carnem &amp; ossa, nec 
+          <lb ed="#Z" n="16"/>alia membra quam quae habuit dum nondum fuisset clarificatum. Ideo enim &amp;  
+          <lb ed="#Z" n="17"/>Thomae palpandum &amp; contrectandum praebuit idem dominus &amp; latus &amp; cicatri 
+          <lb ed="#Z" n="18"/>ces quinque uulnerum, ne quid dubitaremus de ueritate corporis resuscitati. Edit  
+          <lb ed="#Z" n="19"/>cum discipulis &amp; bibit, sicuti &amp; Petrus testatur coram Cornelio in Actis, ut 
+          appa<lb ed="#Z" n="20" break="no"/>reret omnibus illud ipsum corpus resurrexisse quod ceciderat.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e1010">
+          <lb ed="#Z" n="21"/><pc type="indent"/> Iam etsi hoc corpus loco sit circumscriptum, non per omnia diffusum, licet 
+          <lb ed="#Z" n="22"/>suam habeat dimensionem figuram seu formam, &amp; suum pondus, fexum, &amp; suam  
+          <lb ed="#Z" n="23"/>naturam, alienum tamen est ab omni passione, corruptione &amp; infirmitate. Nam  
+          <lb ed="#Z" n="24"/>corpus domini resuscitatum in horto, non in sepulchro erat, dum hoc uncturae 
+          ue<lb ed="#Z" n="25" break="no"/>nirent mulieres, his &amp; redeuntibus quidem a sepulchro in itinere occurrit, in 
+          hor<lb ed="#Z" n="26" break="no"/>to Magdalenae se uidendum exhibet: aequis passibus contendit Emaum cum duo 
+          <lb ed="#Z" n="27"/>bus illis Emaum petentibus : interea dum apud hos esset corpore suo, non erat 
+          <lb ed="#Z" n="28"/>apud alios: ubi redijssent illi duo ad undecim discipulos, adest &amp; ipse ad uesperam 
+          <lb ed="#Z" n="29"/>dominus, Praecedit suos in Galilaeam: redit mox in ludaeam, ubi ex monte oliueti 
+          <lb ed="#Z" n="30"/>corpus eius sublatum est in coelum. Haec omnia approbant corporis Christi 
+          ue<lb ed="#Z" n="31" break="no"/>ritatem. Sed quoniam hoc corpus quamuis uerum, sui sexus, loci, ingenij &amp; suae 
+          <lb ed="#Z" n="32"/>formae ac naturae sit, glorificatum &amp; gloriosum dicitur corpus, paucula dicemus 
+          <lb ed="#Z" n="33"/>&amp; de gloria illa, quae uidelicet accedit uerae corporis resuscitati formae atque sub 
+          <lb ed="#Z" n="34"/>stantiae.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e1044">
+          <lb ed="#Z" n="35"/><pc type="indent"/> Principio gloria usurpatur in hoc negotio pro lumine atque illustri splendore. 
+          <lb ed="#Z" n="36"/>nt Nam &amp; Paulus dicit filios lsrael prae gloria uultus Mosis non potuisse oculos 
+          in<lb ed="#Z" n="37" break="no"/>tendere in faciem Mosis: ita gloriosum corpus erit illustre &amp; splendens corpus. 
+          <lb ed="#Z" n="38"/>Huius rei elegans specimen exhibuit dominus noster uel ante resurrectionem 
+          <lb ed="#Z" n="39"/>suam, dum discipulis suis qualemcunque gustum futurae gloriae uellet propinare,  
+          <lb ed="#Z" n="40"/>ac iccirco delectos subduceret in montis cuiusdam cacumen, ubi &amp; transformatus 
+          <lb ed="#Z" n="41"/>est coram ipsis, ita ut species uultus eius splenderet sicut sol, uestimenta autem eius 
+          <lb ed="#Z" n="42"/>albicarent ac candida essent tanquam lumen. Eandem quidem corporis 
+          substan<lb ed="#Z" n="43" break="no"/>tiam retinuit dominus, eadem corporis membra: haec autem sunt 
+          transformata<lb ed="#Z" n="44" break="no"/>Transformatio autem illa ostenditur fuisse in accidentijs. Accessit enim lux &amp;  
+          <lb ed="#Z" n="45"/>&amp; splendor, ut manente substantia et forma uultus &amp; corporis, uultus &amp; corpus 
+          <lb ed="#Z" n="46"/>ueluti sol &amp; lumen rutilarit. Et quamuis resuscitatum domini corpus non 
+          lega<lb ed="#Z" n="47" break="no"/>tur in quadraginta diebus in quibus se rediuiuum ostendit discipulis, exeruisse 
+          <lb ed="#Z" n="48"/>aut fudisse de se fulgorem, idque propter dispensationem iuxta quam cum discipulis 
+          <!--86.xml-->
+          <pb ed="#Z" n="32-r"/>
+          <lb ed="#Z" n="1"/>suis comedit, cum clarificata corpora nullo indigeant alimento: tamen fulget iam  
+          <lb ed="#Z" n="2"/>sicuti Ioannes testatur in Apocalypsi cap. 1. in coelis, &amp; spem certam aperiunt 
+          no<lb ed="#Z" n="3" break="no"/>bis sacrae literae etiam corpora nostra fore clarificanda in resurrectione. Nam ipse 
+          <lb ed="#Z" n="4"/>dominus in euangelio ex Daniele loquens de die iudicij, Tunc iusti fulgebunt, in 
+          <lb ed="#Z" n="5"/>quit, uelut sol in regno patris sui. Hac de causa corpora gloriosa etiam appellan 
+          <lb ed="#Z" n="6"/>tur clarificata a coelestis luminis quo illustrantur &amp; ornantur claritate.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e1095">
+          <lb ed="#Z" n="7"/><pc type="indent"/> Deinde opponitur gloria humilitati. Paulus enim dicit, Transfigurabit cor- 
+          <lb ed="#Z" n="8"/>pus nostrum humile, ut conforme reddat corpori suo glorioso. Opponuntur in 
+          <lb ed="#Z" n="9"/>his uerbis Humilitas &amp; Gloria. Humilitas comprehendit omne quod propter pec  
+          <lb ed="#Z" n="10"/>catum irrogatum est corpori miseriarum &amp; infirmitatum, passionum &amp; 
+          affectio<lb ed="#Z" n="11" break="no"/>num. Ab illis omnibus repurgantur corpora nostra in resurrectione uitae : ut iam  
+          <lb ed="#Z" n="12"/>gloriosa corpora sint corpora defecata ab omni corruptione, passione 
+          infirmita<lb ed="#Z" n="13" break="no"/>teque, induta autem perpetuitate &amp; coelesti sensu &amp; gloria. Apostolus enim, Semi- 
+          <lb ed="#Z" n="14"/>natur in corruptione, inquit, resurgit in incorruptibilitate: seminatur in ignomi- 
+          <lb ed="#Z" n="15"/>nia, resurgit in gloria: seminatur in infirmitate, resurgit in petentia: seminatur cor- 
+          <lb ed="#Z" n="16"/>pus animale, resurgit corpus spirituale. Pollent ergo gloriosa uel clarificata cor- 
+          <lb ed="#Z" n="17"/>pora multis dotibus, incorruptibilitate inquam, gloria, potentia ac spiritu 
+          uiuifi<lb ed="#Z" n="18" break="no"/>cante. Ipse enim apostolus sese declarans quid intellexerit per animale &amp; 
+          spiritua<lb ed="#Z" n="19" break="no"/>le corpus, subiungit, Est corpus animale, est &amp; corpus spirituale: sicut scriptum est 
+          <lb ed="#Z" n="20"/>Factus est primus homo in animam uiuentem, extremus homo in spiritum uiui 
+          <lb ed="#Z" n="21"/>ficantem. Deinde adhuc clarius, At non primum quod spirituale, sed quod anima  
+          <lb ed="#Z" n="22"/>le deinde quod spirituale. Primus homo de terra terrenus: secundus ipse dominus 
+          <lb ed="#Z" n="23"/>de coelo. Qualis terrenus ille, tales &amp; hi qui terreni sunt: &amp; qualis ille coelestis, 
+          ta<lb ed="#Z" n="24" break="no"/>les &amp; hi qui coelestes sunt. Et quemadmodum gestauimus imaginem terreni, ita 
+          <lb ed="#Z" n="25"/>gestabimus &amp; imaginem coelestis. Proinde appellauit Paulus animale corpus ter 
+          <lb ed="#Z" n="26"/>renum corpus, quod habemus ab ipso Adamo parente nostro, quod ab anima ue 
+          <lb ed="#Z" n="27"/>getatur ac uiuit. Spirituale autem corpus appellauit coeleste quod a Christo &amp;  
+          <lb ed="#Z" n="28"/>ad similitudinem corporis Christi habemus, quod licet uerum corpus &amp; uera 
+          ca<lb ed="#Z" n="29" break="no"/>ro sit, per spiritum tamen Christi uiuificatur &amp; seruatur, nec ullis indiget animae 
+          <lb ed="#Z" n="30"/>uegetatiuae potentijs
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e1152">
+          <lb ed="#Z" n="31"/><pc type="indent"/> Quanquam ergo haec ipsa corpora nostra &amp; membra eadem quae nunc geri 
+          <lb ed="#Z" n="32"/>mus, futura sint post resurrectionem in coelo, quia tamem clarificata sunt &amp; ab om 
+          <lb ed="#Z" n="33"/>ni corruptibilitate ac animali sensu purificata, certe non erit ullus animalis corru 
+          <lb ed="#Z" n="34"/>ptibilisque uel sensus uel affectus adeoque carnalis corporis aut membrorum usus, 
+          <lb ed="#Z" n="35"/>id quod dominus contra Sadducaeos in coelis nuptias imaginantes, aut hoc 
+          absur<lb ed="#Z" n="36" break="no"/>do potius resurrectionem suggillantes, asserit &amp; ait, Filij huius saeculi ducunt uxo 
+          <lb ed="#Z" n="37"/>res &amp; nuptum dant: illi uero qui digni habebuntur saeculo illo &amp; resurrectione ex 
+          <lb ed="#Z" n="38"/>mortuis, neque ducunt uxores neque nuptum dant: neque enim ultra mori possunt,  
+          <lb ed="#Z" n="39"/>Aequales enim angelis sunt &amp; filij sunt dei, cum sint filij resurrectionis. Ad quem 
+          <lb ed="#Z" n="40"/>modum &amp; Paulus, Caro &amp; sanguis ait, regni dei haereditatem consequi non 
+          pos<lb ed="#Z" n="41" break="no"/>sunt. Id ne quis de substantia carnis intelligeret, per interpretationem subdit, Neque 
+          <lb ed="#Z" n="42"/>corruptio incoruptibilitatis haereditatem accipiet. Proinde caro &amp; sanguis, id est 
+          <lb ed="#Z" n="43"/>carnales affectiones &amp; cupiditates non erunt in electis agentibus in coelo. Nam  
+          <lb ed="#Z" n="44"/>coelestia gaudia aliena sunt a gaudijs terrestribus adeoque sunt alterius naturae, ut 
+          <lb ed="#Z" n="45"/>huiusmodi corruptos haeredes non admittant, ideoque prius corpora corruptibilia 
+          <lb ed="#Z" n="46"/>ab omni corruptione purgari adeoque clarificari oporteat. Errant Turci expectan 
+          <lb ed="#Z" n="47"/>tes gaudia terrestria.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e1192">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Porro resurgent &amp; impiorum corpora. Paulus enim in Actis. Credo, inquit  
+          <!--87.xml-->
+          <pb ed="#Z" n="32-v"/>
+          <lb ed="#Z" n="1"/>omnibus quae in lege &amp; prophetis scripta sunt, spem habens in deum fore, 
+          quem<lb ed="#Z" n="2" break="no"/>admodum ipsi expectant resurrectionem mortuorum, simul iustorum &amp; iniusto 
+          <lb ed="#Z" n="3"/>rum. En iniustorum quoque dicit apostolus. Caeterum non tollentur in resurrectio 
+          <lb ed="#Z" n="4"/>ne ex horum corporibus infirmitas, ignominia, corruptio &amp; miseria : interim 
+          ue<lb ed="#Z" n="5" break="no"/>ro hoc ipsum corpus quod resurgit in ignominia, iudicio &amp; potentia dei 
+          confirma<lb ed="#Z" n="6" break="no"/>bitur in ignominia &amp; corruptione, adeoque ad aeterna tormenta perferenda 
+          perpe<lb ed="#Z" n="7" break="no"/>tuabitur immortaleque &amp; incorruptibile in morte &amp; corruptione reddetur : ut 
+          <lb ed="#Z" n="8"/>quemadmodum corpora quaedam reperiuntur in terris, quae in ignibus 
+          perdu<lb ed="#Z" n="9" break="no"/>rant, ita non atterentur neque frangentur ullis tormentis maledicta impiorum cor 
+          <lb ed="#Z" n="10"/>pora, subinde enim ac in momenta uires nouas patiendi accipient, luentque hoc mo 
+          <lb ed="#Z" n="11"/>do commeritas poenas sine fine in saecula saeculorum. Dominus enim in 
+          euange<lb ed="#Z" n="12" break="no"/>lio. Qui mala, inquit, egerunt, resurgent in resurrectionem condemnationis, id est.  
+          <lb ed="#Z" n="13"/>in perseuerantem perpetuamque condemnationem. Nam Daniel prior dixit, Et mul 
+          <lb ed="#Z" n="14"/>titudo ex ijs qui dormiunt in puluere terrae euigilabunt: hi ad uitam perpetuam,.  
+          <lb ed="#Z" n="15"/>illi uero ad probra &amp; contemptum aeternum, Rursus enim in euangelio dicit 
+          do<lb ed="#Z" n="16" break="no"/>minus, lllorum uermis non moritur, &amp; ignis non extinguitur. Nam ijsdem 
+          uer<lb ed="#Z" n="17" break="no"/>bis prior usus est lsaias in cap. 66. Semper ergo illa domini uox retinenda erit in 
+          <lb ed="#Z" n="18"/>cordibus nostris, lllum metuite qui potest &amp; animam &amp; corpus perdere in gehen 
+          <lb ed="#Z" n="19"/>na. Haec hactenus de resurrectione carnis.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e1243">
+          <lb ed="#Z" n="20"/><pc type="indent"/> Vltimus fidei nostrae articulus omnia feliciter concludens hic est, ET 
+          <lb ed="#Z" n="21"/>VITAM AETERNAM. Audiuimus &amp; intelleximus animas hominum esse 
+          <lb ed="#Z" n="22"/>immortales, insuper &amp; corpora nostra resurgere in fine mundi. Hoc nos credere 
+          <lb ed="#Z" n="23"/>professi sumus, Sequitur ergo in calce symboli, quo anima illa perpetua &amp; corpus 
+          <lb ed="#Z" n="24"/>resuscitatum sint peruentura. Profitemur itaque. Et uitam aeternam, uidelicet 
+          cre<lb ed="#Z" n="25" break="no"/>do me corpore &amp; anima consecuturum &amp; uicturum. Et aeternitas quidem 
+          per<lb ed="#Z" n="26" break="no"/>petua est nec admittit ullum finem, sicut modo declaratum est diuinae scripturae 
+          <lb ed="#Z" n="27"/>testimonijs.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e1264">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Porro uitae huius participes fiunt animae simul atque migrant a corporibus, 
+          do<lb ed="#Z" n="29" break="no"/>mino ipso testante, Qui credit in filium dei, in iudicium non ueniet, sed transiuit a 
+          <lb ed="#Z" n="30"/>morte in uitam. Corpora uero sepeliuntur &amp; computrescunt, interim illa ipsa non 
+          <lb ed="#Z" n="31"/>sunt expertia uitae. Sed tum demum recipiuntur in aeternam uitam, cum post die 
+          <lb ed="#Z" n="32"/>iudicij excitata obuiam Christo rapientur in aera, ut semper sint cum domino. 
+          <lb ed="#Z" n="33"/>Tunc enim animae e coelis redeunt ad sua corpora, ut totus perfectus &amp; plenus ho 
+          <lb ed="#Z" n="34"/>mo anima &amp; corpore uiuat in aeternum. Nam anima Christi in cruce morientis 
+          <lb ed="#Z" n="35"/>migrauit extemplo in paradisum, tertia uero die redijt ad corpus, quod resurrexit 
+          <lb ed="#Z" n="36"/>&amp; ascendit in coelum. Quemadmodum ergo capiti obtigit uita aeterna, ita omni- 
+          <lb ed="#Z" n="37"/>bus &amp; singulis Christi membris eadem obueniet.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e1289">
+          <lb ed="#Z" n="38"/><pc type="indent"/> Cum autem Paulus dicat ex lsaia, Quae oculus non uidit, &amp; auris non audi 
+          <lb ed="#Z" n="39"/>uit, &amp; in cor hominis non ascenderunt, ea praeparauit dominus diligentibus se, ar 
+          <lb ed="#Z" n="40"/>bitror ego si omnia de uita aeterna dicta fuerint, quae omnium hominum 
+          omni<lb ed="#Z" n="41" break="no"/>umque saeculorum ora profari potuerint, uix minimam eius particulam fuisse &amp; esse 
+          <lb ed="#Z" n="42"/>delibatam. Nam utcunque disertis &amp; tropicis uerbis, allusionibus &amp; aenigmatibus 
+          <lb ed="#Z" n="43"/>scriptura uitam &amp; gaudia illa adumbrat euidentissime, modica tamen sunt 
+          reue<lb ed="#Z" n="44" break="no"/>ra illa omnia, donec illa dies uenerit qua ipsum deum conditorem omnium in sua 
+          <lb ed="#Z" n="45"/>gloria, Christum seruatorem nostrum in sua maiestate, omnes denique beatos 
+          spiri<lb ed="#Z" n="46" break="no"/>tus, angelos, patriarchas, prophetas, apostolos, martyres, patres nostros, &amp; omnen 
+          <lb ed="#Z" n="47"/>gentem nostram, &amp; omnem exercitum coelestem, omnemque illam gloriam diuinam 
+          <lb ed="#Z" n="48"/>&amp; coelestem ineffabili cum gaudio uiderimus. Verissime ergo dixit Aurelius Au¬ 
+          <!--88.xml-->
+          <pb ed="#Z" n="33-r"/>
+          <lb ed="#Z" n="1"/>gustinus libro de ciuitate dei 22. cap. 29. Cum ex me quaeritur quid acturi sint san 
+          <lb ed="#Z" n="2"/>cti in illo corpore spiritali : non dico quod iam uideo sed quod credo. Dico itaque  
+          <lb ed="#Z" n="3"/>quod uisuri sint deum in ipso corpore. Et iterum, llla actio uel quies atque otium 
+          <lb ed="#Z" n="4"/>quale futurum sit, si uerum uelim dicere, nescio. Pax enim dei superat omnem in 
+          <lb ed="#Z" n="5"/>tellectum. Breuiter uidebimus ipsum deum de facie ad faciem, laudabimus deum  
+          <lb ed="#Z" n="6"/>in saecula saeculorum, fruemur deo ad satietatem omni carentem fastidio. Et facies 
+          <lb ed="#Z" n="7"/>dei non est uultus ille qui in nobis apparet, sed reuelatio iucundissima dei &amp; frui 
+          <lb ed="#Z" n="8"/>tio quam nulla digne satis explicarit mortalis lingua. Age ergo credamus &amp; uiua 
+          <lb ed="#Z" n="9"/>mus, charissimi fratres, ut ubi hinc migrauerimus, re ipsa experiamur ineffabilia 
+          <lb ed="#Z" n="10"/>uitae futurae &amp; aeternae gaudia quae hodie credimus.
+        </p>
+        <p xml:id="UD1xh4-SJPiPd-d1e1342">
+          <lb ed="#Z" n="11"/><pc type="indent"/> Hactenus enim fidei Christianae fructum &amp; finem per quatuor articulos 
+          ulti<lb ed="#Z" n="12" break="no"/>mos exposuimus. Tendit fides in unum deum, patrem, &amp; filium, &amp; spiritum 
+          san<lb ed="#Z" n="13" break="no"/>ctum, qui fideles sanctificat, purgat &amp; consecrat sibi ecclesiam. Haec habet commu 
+          <lb ed="#Z" n="14"/>nionem cum deo &amp; cum omnibus sanctis. Huic condonat deus omnia delicta. 
+          <lb ed="#Z" n="15"/>Hanc anima &amp; corpore seruat. Vt enim animae mori non possunt, ita excitat deus 
+          <lb ed="#Z" n="16"/>corpora sanctorum, quae &amp; gloriosa reddit &amp; perennia, ut totus homo aeternum 
+          <lb ed="#Z" n="17"/>uiuat in coelis cum domino. Cui laus &amp; gloria in saecula saeculorum, Amen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

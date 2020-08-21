@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sermo 1</title>
+        <author ref="#HeinrichBullinger">Heinrich Bullinger</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sermo 1</title>
+          <date when="2020-08-08">August 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+            </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Z" n="cod-a3V3DV">Zurich 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-08-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Z" n="1-r"/>
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="UD1xh4-XddV3R"><!-- d1s1 -->
+        <head xml:id="UD1xh4-XddV3R-Hd1e106">Sermo 1</head>
+        <head xml:id="UD1xh4-XddV3R-Hd1e109" type="question-title">De verbo Dei, origine eius, quomodo et per quos mundo sit revelatum</head>
+        <p xml:id="UD1xh4-XddV3R-d1e112"><!--24.xml-->
+          <pb ed="#Z" n="1-r"/>
+          <lb ed="#Z" n="1"/><pc type="indent"/> OMNIA dogmata fidei Christianes, omnis item recte bene beateque 
+          ui<lb ed="#Z" n="2" break="no"/>uendi ratio, omnis denique sapientia uera diuina quod semper petita est 
+          <lb ed="#Z" n="3"/>ex uerbi Dei restimonijs seu iudicatis: neque hodie uel a uere sapien 
+          <lb ed="#Z" n="4"/>tibus uiris, uel a fidelibus &amp; a Deo uocatis ecclesiarum ministris illa  
+          <lb ed="#Z" n="5"/>aliunde quam ex uerbo Dei hauriri, doceri denique &amp; confirmari 
+          so<lb ed="#Z" n="6" break="no"/>lide possunt, Quisquis itaque ignorat quid sit uerbum Dei, &amp; quae uerbi Dei ratio,  
+          <lb ed="#Z" n="7"/>in ipso templo domini auditorioque Christi, adde &amp; in lectione scripturarum 
+          sacra<lb ed="#Z" n="8" break="no"/>rum, ueluti caecus, surdus &amp; amens uersari uidetur. Imo quod aliqui in audiendis 
+          <lb ed="#Z" n="9"/>sermonibus sacris ecclesiasticisue irreligiosiores &amp; segniores apparent, non alio exo 
+          <lb ed="#Z" n="10"/>ritur fonte, quam quod uirtutem &amp; ueram rationem uerbi Dei, neque recte 
+          intelli<lb ed="#Z" n="11" break="no"/>gunt neque satis diligenter expendunt. Ne quid iraque remorentur hic studiosos 
+          ueri<lb ed="#Z" n="12" break="no"/>tatis ac uerbi Dei : quinimo ut in omnium animos iusta uerbi Dei existimatio 
+          re<lb ed="#Z" n="13" break="no"/>ponatur, explicabo, Deo iuuante, charitati uestrae, quaenam religiosum hominem 
+          <lb ed="#Z" n="14"/>de uerbo Dei sentire ettenere oporteat. Vos assiduis &amp; intentis precibus benignas 
+          <lb ed="#Z" n="15"/>Dei nostri aures pulsate, quo &amp; mihi sanctam &amp; efficacem dicendi facultatem con 
+          <lb ed="#Z" n="16"/>cedat, &amp; uobis aures &amp; mentem aperiat, ut in omnibus laudetur nomen domini,  
+          <lb ed="#Z" n="17"/>uberemque fructum percipiant animae nostrae.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e156">
+          <lb ed="#Z" n="18"/><pc type="indent"/> Principio explicandum erit nobis quid sit uerbum Dei. Verbum in scripturis 
+          <lb ed="#Z" n="19"/>&amp; iuxta idioma linguae Hebreses latissime patet. Significat enim rem quamlibet, 
+          si<lb ed="#Z" n="20" break="no"/>cuti &amp; Germanis latissime patet uocabulum ding. Apud sanctum Lucam dicit ad 
+          <lb ed="#Z" n="21"/>beatam uirginem angelus Dei, Non erit apud Deum impossibile omne uerbum. Id 
+          <lb ed="#Z" n="22"/>quod perinde est ac si dixisset, Deo omnia possibilia, aut res nulla erit impossibilis 
+          <lb ed="#Z" n="23"/>Deo. Significat uerbum &amp; dictionem ore hominis prolatam. Aliquando usurpatur 
+          <lb ed="#Z" n="24"/>pro commisione, aliqueando &amp; pro integra sententia aut etiam oratione aut 
+          pro<lb ed="#Z" n="25" break="no"/>phetia. Exempla de hi in scripturis copiosa sund. Caeterum cum uerbum 
+          coniun<lb ed="#Z" n="26" break="no"/>gitur cum alio, ut cum dicitur in praesenti uerbum Dei, etiam sic non usurpatur 
+          ea<lb ed="#Z" n="27" break="no"/>dem significatione. Nam uerbum Dei significat uirtutem &amp; petentiam Dei : 
+          poni<lb ed="#Z" n="28" break="no"/>tur &amp; pro filio Dei, qui est secunda in adoranda trinitate persona. Manifestum est 
+          <lb ed="#Z" n="29"/>enim omnibus illa diui Euangelistes uox, Verbum caro factum est. Proprie autem  
+          <lb ed="#Z" n="30"/>in nostro hoc negotio significat uerbum Dei, eloquium Dei, reuelationemque uolun 
+          <lb ed="#Z" n="31"/>tatis diuinae, per os Christi, prophetarum ac apostolorum, primum quidem uiua uo 
+          <lb ed="#Z" n="32"/>ce prolatam, deinde etiam relatam in literas, quas recte appellant sacras atque diuinas.  
+          <lb ed="#Z" n="33"/>Verbum enim mentem eius ex quo prodit refert : prinde uerbum Dei Deum 
+          re<lb ed="#Z" n="34" break="no"/>sert. Est autem Deus natura sua uerax, iustus, bonus, purus, immortalis, aeternus,  
+          <lb ed="#Z" n="35"/>iccirco consequens est &amp; uerbum Dei quod prodit ex ore Dei, uerum esse, iustum,  
+          <lb ed="#Z" n="36"/>sine fraude &amp; dolo, sine errore &amp; affectu prauo, snctum, purum, bonum, immor 
+          <lb ed="#Z" n="37"/>tale aeternum. Dominus enim in euangelio dicit, Sermo tuus ueritas est. Et 
+          aposto<lb ed="#Z" n="38" break="no"/>lus Paulus, Verbum Dei, inquit non est alligatum, Rursus clamat tota scriptura,  
+          <!--25.xml-->
+          <pb ed="#Z" n="1-v"/>
+          <lb ed="#Z" n="1"/>Verbum domini manet in aeternum. Nam &amp; Solomon dicit. Omne eloquium Dei 
+          <lb ed="#Z" n="2"/>est repurgatum. Nihil adiincias uerbis eius. ne forte redarguat te &amp; inueniaris men  
+          <lb ed="#Z" n="3"/>dax. Dauid quoque. Eloquia domini, ait, eloquia munda, argentum igne 
+          expurga<lb ed="#Z" n="4" break="no"/>tum, defecatum a terra septempliciter.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e218">
+          <lb ed="#Z" n="5"/><pc type="indent"/> Haec intelliget charitas uestra plenius, si paulo copiosius de causa siue origine 
+          <lb ed="#Z" n="6"/>tum &amp; certitudine uerbi Dei dixero. Verbum Dei ueritas est: atqui ueritatis 
+          u<lb ed="#Z" n="7" break="no"/>nicus fons est Deus : origo ergo &amp; causa uerbi Dei Deum est. Atque hic quidem  
+          <lb ed="#Z" n="8"/>Deus cum membra, mortalium hominum instar, minime habeat, ore caret etiam  
+          <lb ed="#Z" n="9"/>corporeo: quia tamen os instrumentum est uocis, tribuitur Deo os. Nam 
+          loquu<lb ed="#Z" n="10" break="no"/>tus est hominibus uoce humana, id est, uoce hominibus perceptibili atque effigiata 
+          <lb ed="#Z" n="11"/>ad sermonem usitatum inter homines. Claret hoc in rebus gestis cum sanctis 
+          pa<lb ed="#Z" n="12" break="no"/>tribus, quibus cum, ut cum parentibus nostris  Adamo &amp; Eua, cum Noe &amp; reli¬  
+          <lb ed="#Z" n="13"/>quis patribus frequentissime colloquutus legitur. In monte Sina ipse dominus con  
+          <lb ed="#Z" n="14"/>cionatur ad magnam lsraelis ecclesiam, recitans significanter decem illa capita, in 
+          <lb ed="#Z" n="15"/>quibus omnis comprehenditur pietas. Nam Deut. 5. cap. sic legimus, Verba ista 
+          <lb ed="#Z" n="16"/>(decalogum intelligens) loquutus est dominus ad omnem ecclesiam de medio ig  
+          <lb ed="#Z" n="17"/>nis uoce magna. Et in cap. 4. Vocem uerborum uos audistis, similitudinem autem  
+          <lb ed="#Z" n="18"/>nullam uidistis, praeter uocem. Frequentissime uero usus est deus opera 
+          angelo<lb ed="#Z" n="19" break="no"/>rum, per quorum ministerium colloquutus est cum mortalibus. Cognitissimum 
+          <lb ed="#Z" n="20"/>uero illud est omnibus hominibus, quod filius patris incarnatus in terris 
+          obam<lb ed="#Z" n="21" break="no"/>bulauit, uerusque Deus &amp; homo lsraeliticum populum ferme per triennium do¬  
+          <lb ed="#Z" n="22"/>cuit. Quondam autem &amp; antequam nasceretur mundo Dei filius, insinuauit se 
+          <lb ed="#Z" n="23"/>Deus animis sanctorum patrum, deinde etiam mentibus sanctorum prophetarum, 
+          <lb ed="#Z" n="24"/>ac deinceps per ipsorum ora &amp; scripta mundum docuit. Ita &amp; Christus dominus 
+          <lb ed="#Z" n="25"/>spiritum sanctum, qui patris &amp; filij spiritus est, misit in apostolos, per quorum ora 
+          <lb ed="#Z" n="26"/>uoces ac calamos toti mundo innotuit.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e270">
+          <lb ed="#Z" n="27"/><pc type="indent"/> Atque hi serui Dei omnes ceu electa Dei organa reuelationem Dei a Deo 
+          per<lb ed="#Z" n="28" break="no"/>cipientes animis syncerissimis, oracula seu eloquia Dei quae perceperant, primum  
+          <lb ed="#Z" n="29"/>quidem uiua uoce mundo tradiderunt, deinde senescente mundo, quidam 
+          ipso<lb ed="#Z" n="30" break="no"/>rum &amp; literarum monimentis mandatunt. Haec autem quomodo &amp; per quos facta 
+          <lb ed="#Z" n="31"/>sint praestat cognoscere. Nam ex hac historia elucescit uera uerbi Dei ratio 
+          certi<lb ed="#Z" n="32" break="no"/>tudo &amp; dignitas.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e287">
+          <lb ed="#Z" n="33"/><pc type="indent"/> Ab exordio rerum ad tempora usque Mosis nulla extant scripta qua 
+          peruene<lb ed="#Z" n="34" break="no"/>rint ad nostram notitiam: quamuis uerisimile sit priscum &amp; primum illud 
+          saecu<lb ed="#Z" n="35" break="no"/>lum non omnino fuisse sine omni scriptura. Nam citatur at S. luda apostolo fratre 
+          <lb ed="#Z" n="36"/>beati lacobi scriptum uaticinium beati patris nostri Enoch, qui legitur septimus 
+          <lb ed="#Z" n="37"/>fuisse at patre nostro Adam. Videtur praeterea scriptum aut historia lob antiquis  
+          <lb ed="#Z" n="38"/>aedita temporibus. Vtcumque uero hoc habeat sancti in ecclesia Dei omnes primum 
+          <lb ed="#Z" n="39"/>inter scriptores sacros collocant fidelissimum Dei seruum Mosen.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e306">
+          <lb ed="#Z" n="40"/><pc type="indent"/> Ab exordio itaque mundi Deus per spiritum suum, per ministeria quoque 
+          ange<lb ed="#Z" n="41" break="no"/>lorum locutus est sanctis patribus, ac hi filijs nepotibusque &amp; toti posteritati quae at 
+          <lb ed="#Z" n="42"/>Deo acceperant, iuia uoce tradiderunt : cum ea utique accepissent, non ut sibi reser 
+          <lb ed="#Z" n="43"/>uarent, sed posteris quoque communicarent. Deus enim subinde testabatur se uelle 
+          <lb ed="#Z" n="44"/>Deum esse &amp; patrum &amp; feminis ipsorum in sempiternum. Elucescit hoc in histo¬  
+          <lb ed="#Z" n="45"/>ria Adae Noe &amp; Abrabae primorum genearcharum marime. Certe Gen. 19. legi¬  
+          <lb ed="#Z" n="46"/>mus angelum domini, adeoque ipsum dominum dixisse ad Abrahamum, Num 
+          ce<lb ed="#Z" n="47" break="no"/>labo Abrahamum, quae ego facturus sum : cum Abraham omnino futurus sit in gen 
+          <lb ed="#Z" n="48"/>tem magnam &amp; ualentem, benedicendaeque sint in eo omnes nationes terrae: Hoc  
+          <!--26.xml-->
+          <pb ed="#Z" n="2-r"/>
+          <lb ed="#Z" n="1"/>quoque scio quod mandaturus sit filijs suis &amp; domui suae post se, ut custodiant uiam  
+          <lb ed="#Z" n="2"/>domini, faciantque iustitiam &amp; iudicium, &amp; reliqua. Abraham itaque fidelissimus &amp;  
+          <lb ed="#Z" n="3"/>religiosissimus Dei cultor ( sicuti &amp; prisci illi primi saeculi patres) nihil hac in re 
+          <lb ed="#Z" n="4"/>neglexit, sed diligentissime homines de uoluntate &amp; iudicijs Dei instituit. Vnde 
+          <lb ed="#Z" n="5"/>&amp; a Mose adeoqe ab ipso Deo appellatus est propheta. Vsurpata est autem 
+          reli<lb ed="#Z" n="6" break="no"/>giosa &amp; uiua illa traditio sanctorum patrum ab exordio mundi usque ad 
+          tempo<lb ed="#Z" n="7" break="no"/>ra Mosis, Praeterea curauit diuina bonitas ne ulla unquam saecula carerent 
+          clarissi<lb ed="#Z" n="8" break="no"/>mis luminibus indubitatae fidei testibus &amp; maximae authoritatis patribus. Saeculum 
+          <lb ed="#Z" n="9"/>enim ante diluuium habuit clarissimos &amp; sanctissimos sapientissimosque uiros no 
+          <lb ed="#Z" n="10"/>uem, Adam, Seth, Enos, Kenam, Malalehel, Iared, Enoch, Mathusalem &amp; Lamech. 
+          <lb ed="#Z" n="11"/>Ex his praecipui Adam &amp; Mathusalem ordiuntur &amp; concludunt omnes annos 
+          sae<lb ed="#Z" n="12" break="no"/>culi ante diluuium 1656. Nam Adam uixit annos uitae 930. Moritur ergo ante dilu 
+          <lb ed="#Z" n="13"/>uium anno 7ao. Mathusalem uero uixit annos uitae 963. Moritur eo ipso anno, quo  
+          <lb ed="#Z" n="14"/>inundauit diluuium: ac uixit una cum Adamo annos 243. ut abunde potuerit 
+          insti<lb ed="#Z" n="15" break="no"/>tui ab Adamo de exordio rerum, de Deo, de lapsu hominis &amp; restitutione, rebusquam 
+          <lb ed="#Z" n="16"/>ad religionem pertinentibus omnibus, quemadmodum ipse ab ipso Deo erat 
+          insti<lb ed="#Z" n="17" break="no"/>tutus. Ergo hi duo patres una cum alijs supra nominatis totum illud saeculum 
+          abun<lb ed="#Z" n="18" break="no"/>de satis erudire potuerunt de salute uera ac de iustis uijs domini. A diluuio dedit  
+          <lb ed="#Z" n="19"/>Deus iterum mundo uiros clarissimos &amp; lumina maxima. Horum nomina sunt,  
+          <lb ed="#Z" n="20"/>Noe, Sem, Arphaxat, Sale, Heber, Palec, Reu, Saruch, Nachor, Thare, Abraham, 
+          <lb ed="#Z" n="21"/>lsaac, Iacob. Habemus hic patriarchas praestantissimos 13. In quibus primi duo Noe 
+          <lb ed="#Z" n="22"/>&amp; Sem principatum tenent, post quos illustriores sunt Abraham Isaac &amp; Iacob. Vi 
+          <lb ed="#Z" n="23"/>xit Noe annos uitae in uniuersum 950. Natus erat annos 600. cum inundaret dilu 
+          <lb ed="#Z" n="24"/>uium. Vidit ergo &amp; audiuit omnes sanctos patres primi saeculi ante diluuium, 
+          tri<lb ed="#Z" n="25" break="no"/>bus duntaxat exceptis, Adamo, Seth &amp; Enos. Ac cum reliquis, qui hos uiderant &amp; 
+          <lb ed="#Z" n="26"/>audierant, conuixit annis plurimis, ut nihil eorum quae Adam tradiderat ignorare 
+          <lb ed="#Z" n="27"/>potuerit. Moritur Noe ( quod dictu mirum sed tamen uerum est) anno aetatis 
+          Abra<lb ed="#Z" n="28" break="no"/>hae 59. Cum patre uiuit multos annos filius Sem. Vixit enim annos uitae in uniuer 
+          <lb ed="#Z" n="29"/>sum 600. Natus est ipsi Noe ante diluuium annis circiter 96. Vidit ergo &amp; audiuit  
+          <lb ed="#Z" n="30"/>non tantum patrem Noe &amp; auum Lamech, sed etiam proauum Mathusalem, cum 
+          <lb ed="#Z" n="31"/>quo uixit ante diluuium annos illos 96. Ab eo erudiri potuit de omnibus quae 
+          Ma<lb ed="#Z" n="32" break="no"/>thusalem audierat &amp; didicerat ab Adamo ac reliquis patriarchis. Moritur autem 
+          <lb ed="#Z" n="33"/>Sem post fata Abrahae anno Iacobi 52. nimirum 37. annos post mortem Abrahae, 
+          <lb ed="#Z" n="34"/>anno aetatis lsaac 112. ut Iacob patriarcha ab ipso Sem omnem ueram theologiam  
+          <lb ed="#Z" n="35"/>uti hic a Mathusalem acceperat, discere potuerit, a tertio post Adam teste ac 
+          praece<lb ed="#Z" n="36" break="no"/>ptore. Porro Iacob patriarcha suis quoque liberis tradidit, quod ut traderet a Deo  
+          <lb ed="#Z" n="37"/>per patres accepit. Nascitur Iacobo in Mesopotamia Leui filius, &amp; huic rursus Ka 
+          <lb ed="#Z" n="38"/>had, qui uidit &amp; audiuit Iacobum. Nam non paucos annos uixit Kahad cum auo 
+          <lb ed="#Z" n="39"/>Iacobo. Recensetur enim in catalogo liberorum descendentium cum Iacobo in Ae- 
+          <lb ed="#Z" n="40"/>gyptum: at uixit lacob in Aegypto cum liberis suis annos 17. Hic autem Kahad est  
+          <lb ed="#Z" n="41"/>auus Mosis, pater Amram, a quo plenam &amp; certam illam traditionem de uoluntate 
+          <lb ed="#Z" n="42"/>praeceptis &amp; iudicijs Dei perfectissime hausit, sicuti Amram pater didicerat ex pa 
+          <lb ed="#Z" n="43"/>tre Kahad, Kahad a Iacobo, Iacobus a Sem, Sem a Mathusalem atque Adamo primo  
+          <lb ed="#Z" n="44"/>patre omnium nostrum, ut iam Moses stet in mundo septimus testis ab ipso 
+          Ada<lb ed="#Z" n="45" break="no"/>mo. Complentur autem anni mundi ab exordio rerum ad natiuitatem usque Mosis  
+          <lb ed="#Z" n="46"/>2368. Reperiet autem hanc supputationem ueram &amp; iustam esse quisquis annos a  
+          <lb ed="#Z" n="47"/>Mose in Genesi &amp; Exodo non frustra consignatos diligenter supputauerit.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e435">
+          <lb ed="#Z" n="48"/><pc type="indent"/> lam praestat etiam scire prima illa capita uiuae traditionis a sanctis patribus, Deo  
+          <!--27.xml-->
+          <pb ed="#Z" n="2-v"/>
+          <lb ed="#Z" n="1"/>sic disponente, ueluti per manus toti posteritati tradita. Tradiderunt patres 
+          poste<lb ed="#Z" n="2" break="no"/>ris suis Deum pro natiua sua bonitate bene uelle hominibus, uelle ut homines 
+          om<lb ed="#Z" n="3" break="no"/>nes ad agnitionem ueritatis ueniant, &amp; diuinae consortes naturae sancti felices &amp;  
+          <lb ed="#Z" n="4"/>beati fiant. Ideoque ab initio Deum condidisse hominem ad similitudinem &amp; 
+          ima<lb ed="#Z" n="5" break="no"/>ginem suam, ut esset bonus, sanctus, immortalis, beatus, &amp; omnium bonorum Dei 
+          <lb ed="#Z" n="6"/>particeps : hominem autem in ea dignitate &amp; felicitate non perstitisse, sed opera 
+          <lb ed="#Z" n="7"/>diaboli &amp; culpa propria incidisse in peccatum, miseriam &amp; mortem, conmutasseque 
+          <lb ed="#Z" n="8"/>imaginem Dei imagine diaboli. Porro Deum opus hic iterum ceu nouum salutis 
+          <lb ed="#Z" n="9"/>instituisse, per quod homo restitutus, &amp; ab omnibus malis liberatus Deo rursus 
+          <lb ed="#Z" n="10"/>similis fiat: ac opus quidem hoc ingens &amp; diuinum medio quodam perfecturum,  
+          <lb ed="#Z" n="11"/>nempe per uerbum incarnatum. Nam ut hoc incarnando hominem Deo coniun 
+          <lb ed="#Z" n="12"/>xit, ita moriendo in carne expiauit sanctificauit &amp; liberauit hominem, eidemque  
+          <lb ed="#Z" n="13"/>spiritum sanctum donando eundem reddidit diuinae consortem naturae, 
+          immor<lb ed="#Z" n="14" break="no"/>talem &amp; beatum. Efficit denique ut conemur ingenium moresque eius exprimere ad 
+          <lb ed="#Z" n="15"/>cuius imaginem sumus conditi, ut simus anima &amp; corpore sancti. Adiecerunt 
+          uer<lb ed="#Z" n="16" break="no"/>bum suo tempore &amp; saeculo fore incarnandum, Restare item diem iudicij magnum, 
+          <lb ed="#Z" n="17"/>in quo omnes homines congregati, pij uero duntaxat percepturi sint praemia illa  
+          <lb ed="#Z" n="18"/>immortalitatis diuinitatisque. Haec autem est summa breuis traditionis sanctorum 
+          <lb ed="#Z" n="19"/>patrum, quam praestat copiosius retexere, &amp; ueluti per partes diligentius 
+          prose<lb ed="#Z" n="20" break="no"/>qui. Principio ergo tradiderunt patres, unum esse Deum in adoranda trinitate, 
+          pa<lb ed="#Z" n="21" break="no"/>trem, filium &amp; spiritum sanctum, conditorem &amp; gubernatorem coeli &amp; terrae ac 
+          <lb ed="#Z" n="22"/>omnium quae in eis sunt, a quo conditus sit homo, &amp; qui propter hominem omnia 
+          <lb ed="#Z" n="23"/>condiderit, omniaque subiecerit homini, cui necessaria sufficiat tanquam fidus 
+          pa<lb ed="#Z" n="24" break="no"/>ter &amp; dominus munificentissimus. Deinde tradiderunt hominem constare anima 
+          <lb ed="#Z" n="25"/>&amp; corpore, &amp; bene quidem conditum esse ad imaginem &amp; similitudinem Dei, sua 
+          <lb ed="#Z" n="26"/>autem culpa &amp; diaboli instigatione prolapsum in peccatum, mortem &amp; condem  
+          <lb ed="#Z" n="27"/>nationem una cum inexplicabili aerumnarum tela inuexisse in mundum, ut iam  
+          <lb ed="#Z" n="28"/>omnes filij Adae ex Adam nascantur filij irae &amp; calamitatum. Deum autem qui di 
+          <lb ed="#Z" n="29"/>ues est misericordia pro immensa sua bonitate misertum humanae miseriae, ex mera 
+          <lb ed="#Z" n="30"/>sua gratia condonationem culpae promisisse, poenaeque grauitatem imposuisse filio 
+          <lb ed="#Z" n="31"/>unico, ut hic postquam ipsi a serpente contritus sit calcaneus, conterat &amp; ipse 
+          ca<lb ed="#Z" n="32" break="no"/>put serpentis. Hoc est, promittit Deus semen siue filium qui ex singulari foemina, 
+          <lb ed="#Z" n="33"/>id est ex laudatissima uirgine incarnandus, morte mortem &amp; mortis authorem sa 
+          <lb ed="#Z" n="34"/>thanam sit superaturus, fidelesque Adae filios liberaturus, imo &amp; adoptaturus in fi 
+          <lb ed="#Z" n="35"/>lios Dei ac haeredes uitae aeternae. Docuerunt ergo sancti patres fidem in Deum  
+          <lb ed="#Z" n="36"/>&amp; in filium eius totius mundi redemptorem: cum etiam sacrificarunt figurantes 
+          <lb ed="#Z" n="37"/>mortem siue hostiam eius immaculatam, qua detersurus &amp; expiaturus erat 
+          pec<lb ed="#Z" n="38" break="no"/>cata totius mundi. Ideo &amp; diligentissime obseruarunt genus &amp; generis lineam 
+          <lb ed="#Z" n="39"/>Messiae. Nam deducitur ea quasi filo ab Adamo ad Noe, a Noe per Sem ad ipsum 
+          <lb ed="#Z" n="40"/>usque Abrahamum: ad quem rursus dicitur, In semine tuo benedicentur omnes na 
+          <lb ed="#Z" n="41"/>tiones terrae: quibus uerbis prima promissio Adae facta de Christo redemptore &amp;  
+          <lb ed="#Z" n="42"/>maledictionem benedictione permutante renouatur &amp; inculcatur. Eadem linea 
+          <lb ed="#Z" n="43"/>ab Abrahamo deducitur per lsaacum in Iacobum, ac ipse Iacob plenus spiritu Dei 
+          <lb ed="#Z" n="44"/>Iudam filium feminis benedicti designat genearcham, sicut uidere licet Genes. 
+          49<lb ed="#Z" n="45" break="no"/>In tribu Iuda demum designatur domus Dauid, ex qua sit semen &amp; germen illud 
+          <lb ed="#Z" n="46"/>uitae proditurum.: Praeterea tradiderunt beati patres Deum cum genere mortalium 
+          <lb ed="#Z" n="47"/>foedere quodam coaluisse, ac se fidelibus, fideles sibi Deo inquam arctissime 
+          ob<lb ed="#Z" n="48" break="no"/>strinxisse. Vnde iam docebant Deo fidem seruare, Deum adorare, falsos deos abo¬  
+          <!--28.xml-->
+          <pb ed="#Z" n="3-r"/>
+          <lb ed="#Z" n="1"/>minari, Deum inuocare solum, &amp; colere religiose. Porro cultum Dei constare 
+          re<lb ed="#Z" n="2" break="no"/>bus spiritualibus, fide, spe, charitate, obedientia, iustitia, sanctimonia, innocentia,. 
+          <lb ed="#Z" n="3"/>patientia, ueritate, iudicio &amp; pietate. Ideoque accusabant scelera atque peccata, perfi 
+          <lb ed="#Z" n="4"/>diam, incredulitatem, desperationem, inobedientiam, impatientiam, mendacium,.  
+          <lb ed="#Z" n="5"/>hypocrisim, odia, contumelias, uim, iniurias, iniustitiam, impuritatem, luxum, cra 
+          <lb ed="#Z" n="6"/>pulam, stupra, iniquitatem, impietatem. Docebant Deum boni esse 
+          remunerato<lb ed="#Z" n="7" break="no"/>rem, mali autem uindicem ultoremque. Docuerunt animas hominum esse immor 
+          <lb ed="#Z" n="8"/>tales, &amp; corpora quoque resurgere in iudicio: ergo hortabantur ita in hac uita tem  
+          <lb ed="#Z" n="9"/>porali uiueremus omnes, ne amitteremus aeternam. Haec est summa uerbi Dei re 
+          <lb ed="#Z" n="10"/>uelati patribus, &amp; per hos tradita posteritati. Haec est traditio diuina patrum, quae 
+          <lb ed="#Z" n="11"/>omnem pietatem comprehendit. Haec est denique fides patrum uera, uetus, indubi 
+          <lb ed="#Z" n="12"/>tata, authentica, orthodoxa &amp; catholica. Ad haec tradiderunt sancti patres liberis 
+          <lb ed="#Z" n="13"/>&amp; posteris suis supputationem annorum ab exordio mundi, certam denique histo¬  
+          <lb ed="#Z" n="14"/>riam utilem &amp; necessariam rerum a condito mundo ad suam usque aetatem, ne filij 
+          <lb ed="#Z" n="15"/>ignorarent principium &amp; successionem rerum humanarum, iudicia item Dei &amp;  
+          <lb ed="#Z" n="16"/>exempla pie pariter &amp; impie uiuentium. Possemus autem haec omnia ex primo li 
+          <lb ed="#Z" n="17"/>bro Mosis qui Genesis dicitur, clare &amp; ordine pulcherrimo demostrare, nisi 
+          pro<lb ed="#Z" n="18" break="no"/>lixe nimis protraheretur sermo. Sed &amp; pauculos adeoque nullos astare arbitror,  
+          <lb ed="#Z" n="19"/>qui non intelligant me ista de ueterum traditione quasi uerbotim recitasse ex lib.  
+          <lb ed="#Z" n="20"/>Gen. ut iam liceat in coepta pergere historia.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e597">
+          <lb ed="#Z" n="21"/><pc type="indent"/> Caeterum quae hactenus ore ac ueluti per manus tradita sunt a patribus 
+          mun<lb ed="#Z" n="22" break="no"/>do, primum a beato Mose relata sunt in literas, una cum ijs quae toto uitae Mosis  
+          <lb ed="#Z" n="23"/>tempore per annos 120. gesta sunt. Atque ut maiorem in toto terrarum orbe &amp; apud  
+          <lb ed="#Z" n="24"/>omnes homines omnibusque saeculis authoritatem haberet, nemoque ignoraret scri- 
+          <lb ed="#Z" n="25"/>pta Mosis ipsissimum esse Dei uerbum, ornatur a Deo Moses &amp; ueluti inaugura 
+          <lb ed="#Z" n="26"/>tur signis &amp; portentis uere stupendis, quae per Mosis manum, hoc est ministerium 
+          <lb ed="#Z" n="27"/>patrabat omnipotens, &amp; patrabat quidem non in angulo aliquo mundi, aut in loco 
+          <lb ed="#Z" n="28"/>obscuro, sed in eius aetatis florentissimo famosissimoque Aegyptiaco regno. 
+          Mira<lb ed="#Z" n="29" break="no"/>cula illa maiora &amp; plura sunt quam hic paucis recensere liceat: neque uero illa 
+          repe<lb ed="#Z" n="30" break="no"/>tere necesse est, cum eorum charitas uestra non sit omnino rudis &amp; ignara. 
+          Dein<lb ed="#Z" n="31" break="no"/>de conciliauit Mosi authoritatem Deus etiam alijs modis. Frequentissima enim  
+          <lb ed="#Z" n="32"/>cum Mose habuit colloquia Deus: ac inter alia, Ecce ueniam ad te, ait, in densa 
+          nu<lb ed="#Z" n="33" break="no"/>be ut audiat me populus tecum loquentem, &amp; credat tibi in perpetuum. Nec his 
+          <lb ed="#Z" n="34"/>contentus dominus, iubet Mosen in concionem euocare totum populum, sexcente 
+          <lb ed="#Z" n="35"/>na inquam uirorum milia, una cum uxoribus &amp; liberis. Euocati sunt ad montem 
+          <lb ed="#Z" n="36"/>Sina, in hoc apparet Deus mirifica ac terribili specie, ac ipse concionatur ad eccle 
+          <lb ed="#Z" n="37"/>siam, recitans ipsis decem praecepta. Populus uero territus diuina maiestate 
+          de<lb ed="#Z" n="38" break="no"/>precatur ac poscit, ne dominus ipse porro pergat ore proprio concionari ecclesies. 
+          <lb ed="#Z" n="39"/>satis esse si Mose utatur ad ipsos interprete, ac per ipsum ecclesiae loquatur, 
+          Rece<lb ed="#Z" n="40" break="no"/>pit conditionem altissimus, ac porro per Mosen populo locutus est quod uoluit.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e644">
+          <lb ed="#Z" n="41"/><pc type="indent"/> Et quoniam populus ille erat durae ceruicis populus, in Aegypto quoque ex 
+          <lb ed="#Z" n="42"/>consortio idololatrarum non uulgariter corruptus, coepit iam quoque literis 
+          com<lb ed="#Z" n="43" break="no"/>mittere Moses quae tradiderant sancti patres, quae item ipsi iam reuelauerat 
+          do<lb ed="#Z" n="44" break="no"/>minus. Ea ideo in literas retulit ne apud segnem populum obliuione &amp; temporum 
+          <lb ed="#Z" n="45"/>diuturnitate &amp; improbitate uel interirent uel corrumperentur. Praeit autem Mosi 
+          <lb ed="#Z" n="46"/>dominus suo exemplo. Nam quae recitauerat Deus apud ecclesiam in monte Sina, 
+          <lb ed="#Z" n="47"/>eadem mox digito suo inscribit tabulis lapideis duabus, qui eadem ab exordio 
+          <lb ed="#Z" n="48"/>mundi digito suo inscripserat cordibus patrum. Deinde Mosi quoque diserte prae¬ 
+          <!--29.xml-->
+          <pb ed="#Z" n="3-v"/>
+          <lb ed="#Z" n="1"/>cipit ut scribat quae reuelarat dominus. Obtemperauit precepto domini Moses ac 
+          <lb ed="#Z" n="2"/>scripsit. Scribentis manum direxit spiritus sanctus, qui totam Mosis mentem oc. 
+          <lb ed="#Z" n="3"/>cuparat. Nulla deerat facultas Mosi necessaria scriptori absolutissimo. Abunde 
+          <lb ed="#Z" n="4"/>instructus erat a maioribus suis. Natus enim est ex prosapia sanctissima patrum,.  
+          <lb ed="#Z" n="5"/>quos dominus testes uoluntatis mandatorum iudiciorumque suorum constituerat,  
+          <lb ed="#Z" n="6"/>puto autem Amram, Kahad, Iacobum, Sem, Mathusalem &amp; Adamum. Potuit itaque  
+          <lb ed="#Z" n="7"/>ueram &amp; certam ab exordio mundi ad sua usque tempora historiam scribere. Cui 
+          <lb ed="#Z" n="8"/>ea adiecit quae sua aetate in populo Dei facta sunt, quorum ipse erat ueracissimus 
+          <lb ed="#Z" n="9"/>&amp; oculatus atque auritus testis. Imo quae libris comprehendit, populo suo recitauit,  
+          <lb ed="#Z" n="10"/>nec inuentus est in tot milibus qui recitatis contradiceret : ut non parum 
+          existi<lb ed="#Z" n="11" break="no"/>mationis addat scriptis Mosi ecclesiae illius maximae unanimis consensus ac 
+          <lb ed="#Z" n="12"/>testificatio.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e696">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Complexus est autem Moses historiam ab exordio mundi ad mortem usque 
+          <lb ed="#Z" n="14"/>suam per annos 2488. libris quinque, qui &amp; libri Mosis quinque dicuntur. In ijs co 
+          <lb ed="#Z" n="15"/>piosissime exposuit reuelationem uerbi Dei factam hominibus, &amp; quid contineat 
+          <lb ed="#Z" n="16"/>&amp; doceat uerbum Dei. Habemus in his, ut ipsius Dei multiplicia oracula, ita 
+          cla<lb ed="#Z" n="17" break="no"/>rissimorum, uetustissimorum, sanctissimorum, sapientissimorum, maximorumque  
+          <lb ed="#Z" n="18"/>totius mundi uirorum illustrissima testimonia, sententias, exempla, dogmata, de 
+          <lb ed="#Z" n="19"/>omnibus quae ad ueram pietatem, bene beateque uiuendi rationem pertinere 
+          uiden<lb ed="#Z" n="20" break="no"/>tur. Ideo apud omnes posteros hi libri ut authentici, &amp; qui ex seipsis sat 
+          autho<lb ed="#Z" n="21" break="no"/>ritatis habent, &amp; quibus citra contradictionem totus mundus credere debet, fi- 
+          <lb ed="#Z" n="22"/>dem inuenerunt paratissimam. Quinimo dominus noster Iesus Christus 
+          unige<lb ed="#Z" n="23" break="no"/>nitus Dei filius, fideles ad lectionem Mosis relegat, ac id quidem in rebus salutis 
+          <lb ed="#Z" n="24"/>nostrae maximis. Loca extant Ioan. 5. &amp; Lucae 16. Apud Matth. in 5. dicit, Ne exi- 
+          <lb ed="#Z" n="25"/>stimetis quod uenerim ad destruendam legem aut prophetas, imo non ueni ut 
+          de<lb ed="#Z" n="26" break="no"/>struam, sed ut compleam. Amen quippe dico uobis, donec praetereat coelum &amp;  
+          <lb ed="#Z" n="27"/>terra, iota unum aut apex non praeterierit ex lege, quoad omnia facta fuerint.  
+          <lb ed="#Z" n="28"/>Quisquis igitur soluerit unum ex mandatis hisce minimis &amp; docuerit sic homi- 
+          <lb ed="#Z" n="29"/>nes, minimus uocabitur in regno coelorum, Quisquis autem fecerit &amp; docuerit,  
+          <lb ed="#Z" n="30"/>hic magnus uocabitur in regno coelorum. Certe reperti sunt qui contradixerint 
+          <lb ed="#Z" n="31"/>Mosi seruo Dei. Sed Deus contradictionem illam ueluti maiestati diuinae illatam  
+          <lb ed="#Z" n="32"/>reputauit, ac seuerissime puniuit. Testimonia extant Exodi 16. &amp; Numeri 12. Pri- 
+          <lb ed="#Z" n="33"/>mum quidem murmurantis populi contra Mosen : secundum Mariae sororis 
+          Mo<lb ed="#Z" n="34" break="no"/>sis contradicentis fratri. Caeterum populus audit, Non contra ministros tendunt 
+          <lb ed="#Z" n="35"/>querimoniae uestrae, sed contra dominum. Maria uero sepra horribiliter percussa 
+          <lb ed="#Z" n="36"/>est. Theotectus tragoediarum scriptor oculis capitur : &amp; Theopompus incidit in 
+          <lb ed="#Z" n="37"/>insaniam, quod irreligiosius attigissent uerbum Dei. Quanquam enim uerbum 
+          <lb ed="#Z" n="38"/>Dei reueletur proferatur aut scribatur per homines, non desinit tamen esse quod 
+          <lb ed="#Z" n="39"/>reuera est, neque incipit humanum esse uerbum quod ab hominibus praedicatur aut 
+          <lb ed="#Z" n="40"/>auditur: non magis quam regis praeceptum, praeconis praeceptum dicitur, quod a 
+          <lb ed="#Z" n="41"/>praecone annunciatur. Spernit Deum &amp; cum Deo omnes sanctos patriarchas,  
+          <lb ed="#Z" n="42"/>quisquis contempserit Mosen, per quem nobis loquitur Deus, &amp; a quo recepimus 
+          <lb ed="#Z" n="43"/>quae ab exordio mundi posteris tradiderunt patriarchae. Nullum est inter uerbum 
+          <lb ed="#Z" n="44"/>Dei traditum uiua uoce hominis, &amp; stilo hominis scriptum discrimen, nisi 
+          quate<lb ed="#Z" n="45" break="no"/>nus uox uiua &amp; scriptura inter se differunt, materia certe sensus &amp; intentio utro 
+          <lb ed="#Z" n="46"/>bique eadem est. Intellexit autem ex his charitas uestra certam originis uerbi Dei 
+          <lb ed="#Z" n="47"/>historiam.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e775">
+          <lb ed="#Z" n="48"/><pc type="indent"/> Pergamus iam ad reliqua, addere uidelicet historiam progressus uerbi Dei, ac 
+          <!--30.xml-->
+          <pb ed="#Z" n="4-r"/>
+          <lb ed="#Z" n="1"/>quomodo subinde clarius illustriusque mundo illuxerit. Post sublatum ex hoc 
+          mun<lb ed="#Z" n="2" break="no"/>do in coelos beatum Mosen, dedit benignus dominus continue prophetas praestan 
+          <lb ed="#Z" n="3"/>tissimos suae ecclesies, quam elegerat, ut per ipsam uniuerso mundo uerbum suum. 
+          <lb ed="#Z" n="4"/>reuelaret. Fuerunt autem quondam ueteribus prophetae, qui hodie nobis sunt ua 
+          <lb ed="#Z" n="5"/>tes, sacerdotes, sapientes, concionatores, pastores, episcopi, doctores uel theologi,  
+          <lb ed="#Z" n="6"/>rerum diuinarum scientissimi, &amp; rectores populi a Deo in fide dati. Huiusmodi 
+          au<lb ed="#Z" n="7" break="no"/>tem nec paucos nec obscuros floruisse in populo siue ecclesia Dei ad captiuitatem 
+          <lb ed="#Z" n="8"/>usque Babylonicam testabitur quisquis diuinam legerit historiam. Inter eos 
+          nume<lb ed="#Z" n="9" break="no"/>rantur singulares &amp; excellentes Phinees, Samuel, Helias, Heliseus, lsaias, &amp; 
+          Iere<lb ed="#Z" n="10" break="no"/>mias, Reges simul &amp; prophetae fuerunt Dauid &amp; Solomon. In captiuitate 
+          Baby<lb ed="#Z" n="11" break="no"/>lonica clari fuerunt Daniel &amp; Ezechiel. Post captiuitatem fsoruit inter alios 
+          za<lb ed="#Z" n="12" break="no"/>charias ille Barachiae filius. Paucos hic ex multis numeraui. Qui, tametsi diuersis 
+          <lb ed="#Z" n="13"/>temporibus &amp; longissimis inter se spacijs temporum floruerunt, unanimes tamen 
+          <lb ed="#Z" n="14"/>omnes agnouerunt Deum orbi loquutum esse per Mosen, qui, Deo disponente, 
+          <lb ed="#Z" n="15"/>uerae theologiae compendium &amp; plenissimam uerbi Dei summam reliquerit scri- 
+          <lb ed="#Z" n="16"/>ptis comprehensam ecclesiae in mundo. Omnes isti sacerdotes uates ac prophetae 
+          <lb ed="#Z" n="17"/>in omnibus unice respexerunt ad doctrinam Mosis. Omnes item relegarunt in cau 
+          <lb ed="#Z" n="18"/>sa fidei &amp; religionis ad libros Mosis. Legem Mosis, quae reuera Dei est ac 
+          proprijs<lb ed="#Z" n="19" break="no"/>sime Thora seu directorium &amp; regula fidei &amp; uitae dicitur, inculcauerunt omni- 
+          <lb ed="#Z" n="20"/>bus hominibus. Hanc explicarunt pro ratione temporum personarum &amp; locorum 
+          <lb ed="#Z" n="21"/>hominibus. Omnes enim sacerdotes &amp; prophetae ante incarnationem Christi 
+          pie<lb ed="#Z" n="22" break="no"/>tatem &amp; ueram religionem tradiderunt sui saeculi hominibus uiua uoce. Nec aliud 
+          <lb ed="#Z" n="23"/>tradiderunt quam quod patres acceperant a Deo, Moses a Deo &amp; patribus, 
+          idip<lb ed="#Z" n="24" break="no"/>sum mox scriptis etiam mandantes commendarunt uniuerse posteritati ad finem  
+          <lb ed="#Z" n="25"/>usque mundi : ut in prophetis iam habeamus doctrinam quidem Mosis patrumque  
+          <lb ed="#Z" n="26"/>traditionem, sed omnia &amp; singula plenius &amp; significantius exposita expolitaque,  
+          <lb ed="#Z" n="27"/>insuper etiam locis temporibus &amp; personis aptata.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e844">
+          <lb ed="#Z" n="28"/><pc type="indent"/> Porro doctrina &amp; scripta prophetarum maximae semper authoritatis fuerunt 
+          <lb ed="#Z" n="29"/>apud omnes sapientes homines in toto mundo. Multis enim argumentis 
+          depre<lb ed="#Z" n="30" break="no"/>hensum est, illa non ipsis exorta esse authoribus, sed coelitus ac diuinitus inspirata 
+          <lb ed="#Z" n="31"/>a spiritu dei sancto. Deus enim est qui spiritu suo inhabitans animis per ora nobis 
+          <lb ed="#Z" n="32"/>resonat prophetarum. Habent ergo amplissimum a Christo Dei filio &amp; ab electis 
+          <lb ed="#Z" n="33"/>eius apostolis testimonium. Quid quod Deus stupenda nec pauca per ipsorum 
+          <lb ed="#Z" n="34"/>ministerium miracula prodigiaque patrauit : ut uel ex signis maximis disceremus 
+          <lb ed="#Z" n="35"/>Deum esse cuius instinctu agant docent atque scribunt quae nobis reliquerunt in 
+          <lb ed="#Z" n="36"/>monumentis prophetae. Praeterea perhibent prophetis illustrissima testimonia di 
+          <lb ed="#Z" n="37"/>uinae ueritatis tot respublicae siue ecclesiae a prophetis secundum uerbum Dei 
+          con<lb ed="#Z" n="38" break="no"/>gregatae acgubernatae. Laudantur excellentissimi Plato, enon, Aristoteles &amp;  
+          <lb ed="#Z" n="39"/>reliqui gentium philosophi. Sed quis istorum unquam potuit colligere ecclesiam.  
+          <lb ed="#Z" n="40"/>secundum sua uiuentem placita? Atqui prophetae nostri clarissimas &amp; 
+          famosissi<lb ed="#Z" n="41" break="no"/>mas in toto terrarum orbe respub. siue ecclesias, imo regna fsorentissima sub suo 
+          <lb ed="#Z" n="42"/>habuerunt magisterio. Solomonem regem &amp; prophetam tantum non adorarunt 
+          <lb ed="#Z" n="43"/>omnes totius mundi, qui suo scilicet saeculo uiuebant, sapientes, proficiscentes ad 
+          <lb ed="#Z" n="44"/>ipsum ab ipsis mundi finibus. Daniel quoque in monarchia totius mundi 
+          praestan<lb ed="#Z" n="45" break="no"/>tissima Babylonica primas tenuit inter sapientes. Sed &amp; magnae authoritatis erat 
+          <lb ed="#Z" n="46"/>apud Darium Medum, Astyagis uel Assueri filium, atque apud excellentissimum 
+          <lb ed="#Z" n="47"/>regem Cyrum. Libet hic quoque commemorare diuinam illam in prophetis nostris 
+          <lb ed="#Z" n="48"/>praescientiam &amp; futurarum rerum post multa saecula certissimam praedictionem, 
+          <!--31.xml-->
+          <pb ed="#Z" n="4-v"/>
+          <lb ed="#Z" n="1"/>Nam ut hic ex alijs nihil commemorem, nonne praedixit lsaias certissima 
+          praedi<lb ed="#Z" n="2" break="no"/>ctione, quae postea in Christo domino per ludaeos sunt completa? Vetustis non  
+          <lb ed="#Z" n="3"/>frustra uisus est Euangelista magis esse quam propheta siue uates. Cyri regis 
+          no<lb ed="#Z" n="4" break="no"/>men prodidit centum 60. ad minimum annis priusquam nasceretur Cyrus. Ac 
+          <lb ed="#Z" n="5"/>Daniel recte a uetustis appellatus est polyhistor. Nam quae a suo saeculo ad tempo 
+          <lb ed="#Z" n="6"/>ra usque Christi, imo ad extremum usque iudicij diem fiant ac facta sunt in omnibus 
+          <lb ed="#Z" n="7"/>fere regnis mundi, in populoque Dei, tam significanter ille praedixit, ut uideri 
+          pos<lb ed="#Z" n="8" break="no"/>sit historiam contexuisse rerum praeteritarum. Haec inquam omnia euidentissime 
+          <lb ed="#Z" n="9"/>euincunt doctrinam &amp; scripta prophetarum ipsissimum esse uerbum Dei: quo 
+          no<lb ed="#Z" n="10" break="no"/>mine &amp; titulo etiam ornantur passim in scripturis. Petrus certe apostolus, Non 
+          <lb ed="#Z" n="11"/>uoluntate hominis allata est olim prophetia, inquit, sed a spiritu sancto impulsi, lo 
+          <lb ed="#Z" n="12"/>quuti sunt sancti Dei homines.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e923">
+          <lb ed="#Z" n="13"/><pc type="indent"/> Quanquam uero Deus uerbum suum copiose, clare, diserte, &amp; simpliciter mun 
+          <lb ed="#Z" n="14"/> do per patriarchas, per Mosen, per sacerdotes &amp; per prophetas reuelauit, in fine 
+          <lb ed="#Z" n="15"/>tamen temporum omnium luculentissime simplicissime abundantissimeque toti 
+          ter<lb ed="#Z" n="16" break="no"/>rarum orbi per filium exposuit. De coelis enim descendens ipse Dei patris 
+          unige<lb ed="#Z" n="17" break="no"/>nitus filius, uti praedixerant prophetae, omnia qua praedixerant complet, &amp; om- 
+          <lb ed="#Z" n="18"/>nem pietatem fere per triennium docet. Nam Ioannes, Deum nemo uidit unquam,.  
+          <lb ed="#Z" n="19"/>ait, unigenitus qui est in sinu patris ipse enarrauit. Sed &amp; ipse dominus ad discipu 
+          <lb ed="#Z" n="20"/>los ait. Omnia quae audiui at patre meo nota feci uobis. Et iterum, Ego sum lux mun 
+          <lb ed="#Z" n="21"/>di: qui sequitur me non ambulat in tenebris, sed habebit lumen uitae. Docuit 
+          au<lb ed="#Z" n="22" break="no"/>tem dominus noster uolenti coelos ingredi atque saluari, necesse esse regenerationem 
+          <lb ed="#Z" n="23"/>coelestem. Prima enim natiuitate hominem nasci morti, secunda uitae, 
+          Regenera<lb ed="#Z" n="24" break="no"/>tionem autem illam perfici spiritu Dei, qui fide corda nostra imbuat, fide inquam  
+          <lb ed="#Z" n="25"/>in Christum qui mortuus est propter peccata nostra, &amp; resurrexit propter 
+          iustifi<lb ed="#Z" n="26" break="no"/>cationem nostram. Ea fide docuit iustificari credentes : &amp; ex eadem fide subnasci 
+          <lb ed="#Z" n="27"/>uarios charitatis &amp; innocentiae fructus: ad quos proferendos constantissime 
+          ad<lb ed="#Z" n="28" break="no"/>hortatus est. Docuit praeterea se esse legis &amp; prophetarum complementum aut 
+          ple<lb ed="#Z" n="29" break="no"/>nitudinem, adeoque &amp; Mosis prophetarumque doctrinam approbauit &amp; exposuit. 
+          <lb ed="#Z" n="30"/>Doctrinae coniunxit uaria miracula &amp; beneficia, quibus declarauit se esse lumen 
+          <lb ed="#Z" n="31"/>illud mundi &amp; potentem benignumque mundi redemptorem. lam ut doctrina &amp;  
+          <lb ed="#Z" n="32"/>beneficia eius toti innotescerent orbi, delegit sibi testes quos appellauit apostolos,  
+          <lb ed="#Z" n="33"/>eo quod ipsos in orbem terrarum ad praedicandum ablegare statuisset. Erant 
+          te<lb ed="#Z" n="34" break="no"/>stes illi homines simplices, innocentes, iusti, ueraces, doli &amp; artium expertes, &amp; per 
+          <lb ed="#Z" n="35"/>omnia sancti probique: quorum nomina in ecclesia frequenter recitare utile est. Sunt 
+          <lb ed="#Z" n="36"/>haec apostolorum nomina, Petrus &amp; Andreas, Iacobus &amp; Ioannes, Philippus &amp;  
+          <lb ed="#Z" n="37"/>Barptholomeus, Thomas &amp; Matthaeus, Iacobus Alphaei &amp; ludas frater eius 
+          cog<lb ed="#Z" n="38" break="no"/>nomento Thaddaeus, Simon &amp; ludas lscariotes, in cuius locum ( quod prodidisset 
+          <lb ed="#Z" n="39"/>dominum) subijt beatus Matthias. Hos fere per triennium habuit auditores do¬  
+          <lb ed="#Z" n="40"/>ctrinae suae coelestis, &amp; spectatores diuinorum operum. Hos ab ascensione ad 
+          coe<lb ed="#Z" n="41" break="no"/>los, misso e coelis sancto spiritu instruxit omni facultate. Nam ut scripturarum 
+          e<lb ed="#Z" n="42" break="no"/>rant peritissimi, ita linguarum omnium nec ignari nec infacundi. Ad eum autem  
+          <lb ed="#Z" n="43"/>modum instructi exeunt ex Hierosolymorum urbe &amp; permeant orbem terrarum,.  
+          <lb ed="#Z" n="44"/>omnibus populis &amp; gentibus praedicantes, quod praedicandum acceperant ab ipso 
+          <lb ed="#Z" n="45"/>mundi saluatore, &amp; domino Iesu Christo. Cumque annis iam aliquot uiua uoce 
+          prae<lb ed="#Z" n="46" break="no"/>dicassent, quod praedicarunt, etiam scriptis commiserunt. Nam alij quidem 
+          scrip<lb ed="#Z" n="47" break="no"/>serunt historiam de dictis &amp; factis Christi, alij de dictis &amp; factis apostolorum. Alij 
+          <lb ed="#Z" n="48"/>uarias ad uarias gentes miserunt epistolas. In quibus omnibus ad confirmationem 
+          <!--32.xml-->
+          <pb ed="#Z" n="5-r"/>
+          <lb ed="#Z" n="1"/>SERM6O. I. 
+          <lb ed="#Z" n="2"/>ueritatis, ueteri quoque legis &amp; prophetarum scriptura utuntur, sicuti &amp; dominus 
+          <lb ed="#Z" n="3"/>factitasse legitur. Porro coniunguntur 12. apostolis, duo, magna orbis lumina, Ba 
+          <lb ed="#Z" n="4"/>ptista Ioannes, quo sanctior non est natus ex mulieribus, &amp; uas electionis Paulus  
+          <lb ed="#Z" n="5"/>doctor ille magnus Gentium.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e1020">
+          <lb ed="#Z" n="6"/><pc type="indent"/> Neque uero mirum est praecursorem &amp; apostolos Christi, semper in ecclesia 
+          ma<lb ed="#Z" n="7" break="no"/>ximam habuisse &amp; dignitatem &amp; authoritatem. Nam sicut legati fuerunt regis  
+          <lb ed="#Z" n="8"/>aeterni, &amp; omnium saeculorum totiusque mundi, ita spiritu dei donati, nihil ex suo 
+          <lb ed="#Z" n="9"/>fecerunt arbitrio. Ac dominus per ipsorum ministerium, maxima patrauit 
+          mira<lb ed="#Z" n="10" break="no"/>cula, quibus ipsorum ornaret ministerium, ipsorumque nobis doctrinam commen 
+          <lb ed="#Z" n="11"/>daret. Quid quod uerbo illo dei totum mundum conuerterunt, &amp; praeclaras per 
+          <lb ed="#Z" n="12"/>orbem terrae ecclesias collegerunt atque fundarunt? Id quod humanis consilijs &amp;  
+          <lb ed="#Z" n="13"/>uerbis nequaquam perficere potuissent. His accedit quod doctrinae propagatae,  
+          <lb ed="#Z" n="14"/>tanquam uiuificae innitentes, mori non recusarunt. Praeterea quotquot 
+          credide<lb ed="#Z" n="15" break="no"/>rant doctrinae euangelicae, non horruerunt per aquas, ignes &amp; gladios, uitam hanc  
+          <lb ed="#Z" n="16"/>abrumpere, futuramque apprehendere. Neutiquam baec potuissent sancti fideles,  
+          <lb ed="#Z" n="17"/>nisi doctrina cui crediderant esset diuina. Quamuis itaque apostoli fuerint homi- 
+          <lb ed="#Z" n="18"/>nes, doctrina tamen ipsorum, primum quidem tradita uoce uiua, deinde calamis 
+          <lb ed="#Z" n="19"/>relata in literas, est diuina, adeoque ipsum uerbum dei uerum. Ideo enim 
+          aposto<lb ed="#Z" n="20" break="no"/>lus scriptum reliquit, Cum acciperetis a nobis sermonem quo deum discebatis, 
+          acce<lb ed="#Z" n="21" break="no"/>pistis non sermonem hominum, sed sicut uere erat, sermonem dei, qui &amp; agit in 
+          <lb ed="#Z" n="22"/>nobis credentibus,.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e1060">
+          <lb ed="#Z" n="23"/><pc type="indent"/> Verum res ipsa &amp; locus iam postulant, ut etiam colligamus &amp; diserte annu¬  
+          <lb ed="#Z" n="24"/>meremus libros illos sacros, in quibus comprehensum est ipsum uerbum dei, pri- 
+          <lb ed="#Z" n="25"/>mum quidem a patribus, item ab ipso Christo &amp; apostolis uiua voce proditum, i 
+          <lb ed="#Z" n="26"/>deinde etiam in libros conscriptum, a prophetis &amp; apostolis. Et primo quidem lo 
+          <lb ed="#Z" n="27"/>co ponuntur libri quinque Mosis, Sequuntur deinde libri losue, ludicum, Ruth, Sa 
+          <lb ed="#Z" n="28"/>muelis 2. Regum 2. Paralipomenon 2. Esdrae, Nehemiae &amp; Hesther singuli. Acce 
+          <lb ed="#Z" n="29"/>dunt his deinceps lob, Dauid siue liber Psalmorum. Solomonis libelli tres, 
+          Prouer<lb ed="#Z" n="30" break="no"/>biorum, Ecclesiastes &amp; Cantica. Quibus annumerantur quatuor maiores 
+          prophe<lb ed="#Z" n="31" break="no"/>tae, Isaias, Ieremias, Ezechiel Daniel : &amp; prophetae minores 12. quorum nomina 
+          <lb ed="#Z" n="32"/>sunt notissima. His libris absoluitur uetus testamentum. Nouum habet initio hi- 
+          <lb ed="#Z" n="33"/>storiam de Christo domino euangelicam, a quatuor scriptam authoribus, a 
+          duo<lb ed="#Z" n="34" break="no"/>bus inquam apostolis, Matthaeo &amp; Ioanne, &amp; a duobus discipulis, Marco &amp; 
+          Lu<lb ed="#Z" n="35" break="no"/>ca, qui etiam librum composuit mire elegantem &amp; utilem, de actibus 
+          apostolo<lb ed="#Z" n="36" break="no"/>rum. Inter apostolos, Paulus aedidit ad uarias ecclesias atque personas 14. epistolas,  
+          <lb ed="#Z" n="37"/>Reliqui scripserunt septem, quae &amp; canonicae &amp; catholicae appellantur. Claudun 
+          <lb ed="#Z" n="38"/>tur autem libri noui testamenti Reuelatione Iesu Christi, quam aperuit dilecto 
+          <lb ed="#Z" n="39"/>discipulo Ioanni euangelistae &amp; apostolo, ostendens ipsi adeoque toti ecclesiae fata 
+          <lb ed="#Z" n="40"/>ecclesiae ad iudicij usque diem. His itaque libris pauculis &amp; sobrijs non immensis, pla 
+          <lb ed="#Z" n="41"/>nis &amp; simplicibus non obscuris &amp; impexis continetur plena pietatis doctrina, ip 
+          <lb ed="#Z" n="42"/>sum inquam uerbum ueri uiui &amp; aeterni dei.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e1108">
+          <lb ed="#Z" n="43"/><pc type="indent"/> Peruenerunt autem libri Mosis &amp; prophetarum ad tempora usque Christi &amp;  
+          <lb ed="#Z" n="44"/>apostolorum integri &amp; incorrupti per tot saecula pericula &amp; captiuitates. Nam do¬  
+          <lb ed="#Z" n="45"/>minus Iesus &amp; apostoli illis libris ceu authenticis usi sunt. Id quod non fecissent 
+          <lb ed="#Z" n="46"/>aut facere potuissent, si uel corrupti fuissent, uel penitus interijssent. Libri quoque 
+          <lb ed="#Z" n="47"/>quos adiecerunt apostoli Christi, una cum lege &amp; prophetis integri &amp; incorrupti 
+          <lb ed="#Z" n="48"/>asseruati sunt in ecclesia per omnes persequutiones, &amp; integri incorruptique in 
+          <lb ed="#Z" n="49"/>manus nostras, in quos fines saeculorum inciderunt, peruenerunt. Nam uigilanti 
+          <!--33.xml-->
+          <pb ed="#Z" n="5-v"/>
+          <lb ed="#Z" n="1"/>cura &amp; bonitate ineffabili dei patris nostri factum est, ne ulla unquam saecula the 
+          <lb ed="#Z" n="2"/>sauro caruerint careantque tanto.
+        </p>
+        <p xml:id="UD1xh4-XddV3R-d1e1135">
+          <lb ed="#Z" n="3"/><pc type="indent"/> Haec autem hactenus exposui charitati uestrae, de eo quid sit uerbum dei, quae 
+          <lb ed="#Z" n="4"/>eius origo in ecclesia, quis eius progressus, quae dignitas &amp; certitudo. Verbum dei 
+          <lb ed="#Z" n="5"/>est eloquium dei, reuelatio uidelicet uoluntatis eius bonae erga homines, quam  
+          <lb ed="#Z" n="6"/>ab initio, nunc ore suo, nunc per colloquia angelorum, primis illis uetustissimis 
+          <lb ed="#Z" n="7"/>&amp; sanctissimis patribus aperuit: hi uero posteris suis fideliter tradiderunt. Veniunt  
+          <lb ed="#Z" n="8"/>hic commemoranda maxima orbis lumina Adam, Seth, Mathusalem, Noe, Sem, 
+          <lb ed="#Z" n="9"/>Abraham, Isaac, Iacob, Amram, &amp; huius filius Moses, qui deo iubente, &amp; histo-  
+          <lb ed="#Z" n="10"/>riam &amp; traditiones sanctorum patrum scripto comprehendit, quibus legem scri- 
+          <lb ed="#Z" n="11"/>ptam &amp; expositonem legis eum historia sui temporis copiosa &amp; luculenta con- 
+          <lb ed="#Z" n="12"/>iunxit. Post Mosen dedit deus ecclesiae suae praestantissimos homines, propheras 
+          <lb ed="#Z" n="13"/>&amp; sacerdotes, qui &amp; ipsi quae acceperant a domino, posteris &amp; uiua voce &amp; scri- 
+          <lb ed="#Z" n="14"/>ptis tradiderunt. Post hos descendit e coelis in mundum ipse dei unigenitus fi- 
+          <lb ed="#Z" n="15"/>lius, &amp; impleuit quaecunque de ipso in lege &amp; prophetis legebantur scripta, ident 
+          <lb ed="#Z" n="16"/>plenissimam beate beneque uiuendi rationem tradidit: apostolos sibi testes adhi- 
+          <lb ed="#Z" n="17"/>buit. Hi uero testes postea omnia quae tradiderat dominus, primum quidem uo- 
+          <lb ed="#Z" n="18"/>ce uiua praedicarunt, deinde ne unquam uel corrumperentur, uel est memoria ho- 
+          <lb ed="#Z" n="19"/>minum auferrentur, chartis commendarunt: ut iam habeamus &amp; praedicatum et  
+          <lb ed="#Z" n="20"/>scriptum uerbum dei a patribus, a prophetis, &amp; ab apostolis. Profecta sunt haec ab  
+          <lb ed="#Z" n="21"/>uno eodem spiritu dei, &amp; tendunt ad unum finem, ut doceant homines beatae be- 
+          <lb ed="#Z" n="22"/>neque uiuere. His qui non credit praesertim unigenito dei filio, cui quaeso credet? 
+          <lb ed="#Z" n="23"/>Habemus hic totius mundi &amp; orbis terrarum uiros sanctissimos, innocentissi- 
+          <lb ed="#Z" n="24"/>mos, integerrimos, laudatissimos, iustissimos, antiquissimos, sapientissimos, diuinis  
+          <lb ed="#Z" n="25"/>simos, breuiter modis omnibus incomparabiles. Nihil tale ostenderit nobis totus 
+          <lb ed="#Z" n="26"/>mundus, etsi totus millies congregetur in synodum. Collegit beatus Constantinus 
+          <lb ed="#Z" n="27"/>lmperator ex toto terrarum orbe oecumenicum consilium: ac coierunt tum praestan 
+          <lb ed="#Z" n="28"/>tissimi ex toto mundo patres 318. sed hos prudentissimi quique non dixerint uel um 
+          <lb ed="#Z" n="29"/>bras esse collatos illis, a quibus accepimus uerbum dei. Credamus ergo in omni- 
+          <lb ed="#Z" n="30"/>bus uerbo dei, nobis per scripturas tradito. Teneamus per scripturas nobis loqui  
+          <lb ed="#Z" n="31"/>ipsum dominum deum uerum uiuum &amp; aeternum. Laudemus nomen &amp; bonitatem 
+          <lb ed="#Z" n="32"/>eius in saecula, qui dignatus est miseris mortalibus nobis uniuersam bene beataeque  
+          <lb ed="#Z" n="33"/>uiuendi rationem aperire, tam fideliter plene ac simpliciter. Ipsi laus &amp; gloria &amp;c
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
