@@ -146,7 +146,7 @@
           <lb ed="#Z" n="44"/>quaestio. in Exodum 71. &amp; epistola ad sanuarium 119. etiam tria tantum primae 
           ta<lb ed="#Z" n="45" break="no"/>bulae praecepta numerat, idque propter mysterium trinitatis. Idem tamen non 
           omit<lb ed="#Z" n="46" break="no"/>tit mandatum de non habendis colendisque idolis, memor haud dubie illorum in
-          <lb ed="#Z" n="47"/>euangelio uerborum domini, <quote source="http://scta.info/resource/mt5_18@1-21 http://scta.info/resource/mt5_19@1-17">Amen dico uobis, donec praetereat eoelum &amp; terra,
+          <lb ed="#Z" n="47"/>euangelio uerborum domini, <quote xml:id="UD1xh4-ojVyM6-Qd1e303" source="http://scta.info/resource/mt5_18@1-21 http://scta.info/resource/mt5_19@1-17">Amen dico uobis, donec praetereat eoelum &amp; terra,
           <lb ed="#Z" n="48"/>iota unum aut apex non praeterierit ex lege, quoad omnia facta fuerint. Quisquis
           <!--102.xml-->
           <pb ed="#Z" n="40-r"/>
@@ -167,7 +167,7 @@
         </p>
         <p xml:id="UD1xh4-ojVyM6-d1e347">
           <lb ed="#Z" n="13"/><pc type="indent"/> PRIMVM Decalogi praeceptum hisce uerbis pronunciauit ipse dominus,
-          <lb ed="#Z" n="14"/><quote source="http://scta.info/resource/ex20_2@1-14 http://scta.info/resource/ex20_3@1-6">EGO DOMINVS DEVS TVVS, QVI EDVXI TE EXTER
+          <lb ed="#Z" n="14"/><quote xml:id="UD1xh4-ojVyM6-Qd1e348" source="http://scta.info/resource/ex20_2@1-14 http://scta.info/resource/ex20_3@1-6">EGO DOMINVS DEVS TVVS, QVI EDVXI TE EXTER
           <lb ed="#Z" n="15"/>RA AEGYPTI, DE DOMO SERVITVTIS: NON HABEBIS
           <lb ed="#Z" n="16"/>DEOS ALIENOS CORAM ME.</quote> DUO habet membra hoc praeceptum,
           <lb ed="#Z" n="17"/>Prius &amp; ipsum uaria continet. Principio enim offert se nobis deus, &amp; exponit no 
@@ -222,9 +222,9 @@
           <lb ed="#Z" n="12"/>ferentes, omnia bona ab ipso petentes, &amp; pro omnibus beneficijs gratias agentes,  
           <lb ed="#Z" n="13"/>hunc adoremus, hunc colamus timore syncero &amp; dilectione ardentissima, spe 
           per<lb ed="#Z" n="14" break="no"/>tinacissima. Huc enim pertinent illa ex sancto Mose &amp; euangelio sententiae.
-          <quote source="http://scta.info/resource/mt4_10@9-16">Do<lb ed="#Z" n="15" break="no"/>minum deum tuum adorabis, &amp; illi soli seruies.</quote> Et iterum, Dominum deum 
+          <quote xml:id="UD1xh4-ojVyM6-Qd1e467" source="http://scta.info/resource/mt4_10@9-16">Do<lb ed="#Z" n="15" break="no"/>minum deum tuum adorabis, &amp; illi soli seruies.</quote> Et iterum, Dominum deum 
           ue<lb ed="#Z" n="16" break="no"/>strum sequimini, illum timete, illius praecepta custodite, illius uocem audite, illi 
-          ser<lb ed="#Z" n="17" break="no"/>uite, &amp; illi adhaerete. Quid quod ipse dominus in Psal. clamat, <quote source="http://scta.info/resource/ps49_14@1-9 http://scta.info/resource/ps49_15@1-11">Sacrifica deo
+          ser<lb ed="#Z" n="17" break="no"/>uite, &amp; illi adhaerete. Quid quod ipse dominus in Psal. clamat, <quote xml:id="UD1xh4-ojVyM6-Qd1e476" source="http://scta.info/resource/ps49_14@1-9 http://scta.info/resource/ps49_15@1-11">Sacrifica deo
           lau<lb ed="#Z" n="18" break="no"/>dem, &amp; persolue altissimo uota tua. Et inuoca me in die tribulationis, &amp;c</quote>
         </p>
         <p xml:id="UD1xh4-ojVyM6-d1e480">
@@ -244,7 +244,7 @@
           <lb ed="#Z" n="32"/>potestate tenebrarum peccati, mortis, &amp; diaboli liberauit. Vnde colligimus deum 
           <lb ed="#Z" n="33"/>aeternum, uerum, optimum maximum, beatissimumque ut potentissimum, sic 
           no<lb ed="#Z" n="34" break="no"/>strum esse deum, &amp; hunc nobis bene uelle, nos curare &amp; amare. luxta illud
-          apo<lb ed="#Z" n="35" break="no"/>stoli. <quote source="http://scta.info/resource/rom8_32@1-20">Qui proprio filio suo non pepercit, sed pro nobis omnibus tradidit illum, qui
+          apo<lb ed="#Z" n="35" break="no"/>stoli. <quote xml:id="UD1xh4-ojVyM6-Qd1e523" source="http://scta.info/resource/rom8_32@1-20">Qui proprio filio suo non pepercit, sed pro nobis omnibus tradidit illum, qui
           <lb ed="#Z" n="36"/>fieri posset ut non cum eodem omnia nobis donet?</quote> Equidem mysterium 
           redem<lb ed="#Z" n="37" break="no"/>ptionis nostrae per Christum dominum nostrum, comprehensum est 
           manifestissi<lb ed="#Z" n="38" break="no"/>me in primo Decalogi praecepto. Nam clarum est liberationem populi lsraelitici 
@@ -252,7 +252,7 @@
           <lb ed="#Z" n="40"/>regnorum mundi per Christum dominum, qui totum orbem liberauit ex seruitu 
           <lb ed="#Z" n="41"/>te peccati &amp; diaboli. Quod si quis dubitat, inspiciat caeremoniam siue sacramentum 
           <lb ed="#Z" n="42"/>huius corporalis liberationis, ipsum inquam Pascha. Quis uero nesciat agnum 
-          il<lb ed="#Z" n="43" break="no"/>lum typum praetulisse Christo liberatori? An obscura est haec Pauli uox, <quote source="http://scta.info/resource/Icor5_7@12-16">Pascha
+          il<lb ed="#Z" n="43" break="no"/>lum typum praetulisse Christo liberatori? An obscura est haec Pauli uox, <quote xml:id="UD1xh4-ojVyM6-Qd1e543" source="http://scta.info/resource/Icor5_7@12-16">Pascha
           <lb ed="#Z" n="44"/>nostrum immolatus est Christus</quote>? An non omnes apostoli cum Ioanne Baptista 
           <lb ed="#Z" n="45"/>appellarunt dominum nostrum dei agnum qui tollat peccata mundi ? Praeterea 
           <lb ed="#Z" n="46"/>clara sunt lsaiae prophetae uerba in cap. 52. ubi diserte inter se confert liberationem 
@@ -269,7 +269,7 @@
           <lb ed="#Z" n="5"/><pc type="indent"/> Posterius membrum primi praecepti uetat nobis ne quis nostrum habeat deos  
           <lb ed="#Z" n="6"/>alienos, id est excludit extra deum omnia praesidia uitae, quaecunque tandem 
           prae<lb ed="#Z" n="7" break="no"/>ter deum uel fingi uel eligi possunt. Ac utitur dominus uehementissimo 
-          loquen<lb ed="#Z" n="8" break="no"/>di genere. Nam dicit, <quote source="http://scta.info/resource/ex20_3@1-6">Non habebis deos alienos coram me.</quote> En non habebis, &amp; non 
+          loquen<lb ed="#Z" n="8" break="no"/>di genere. Nam dicit, <quote xml:id="UD1xh4-ojVyM6-Qd1e582" source="http://scta.info/resource/ex20_3@1-6">Non habebis deos alienos coram me.</quote> En non habebis, &amp; non 
           <lb ed="#Z" n="9"/>habebis quidem coram me, uel ante faciem meam, uel mecum, uel apud me. 
           Ger<lb ed="#Z" n="10" break="no"/>manice, au miriooer nanbeno mit. Soer lau mide nit sebenpos minen ougen 
           <lb ed="#Z" n="11"/>lta enim loquuntur irati patres, quando prohibent rem uehementer turpem &amp;  
@@ -323,7 +323,7 @@
           inuo<lb ed="#Z" n="7" break="no"/>cemus, ipsi adhaereamus, ei in omnibus obediamus.
         </p>
         <p xml:id="UD1xh4-ojVyM6-d1e684">
-          <lb ed="#Z" n="8"/><pc type="indent"/> Secundum Decalogi praeceptum hoc est, <quote source="http://scta.info/resource/ex20_4@1-25 http://scta.info/resource/ex20_5@1-26 http://scta.info/resource/ex20_6@1-13">NON FACIES TIBI SCVI
+          <lb ed="#Z" n="8"/><pc type="indent"/> Secundum Decalogi praeceptum hoc est, <quote xml:id="UD1xh4-ojVyM6-Qd1e702" source="http://scta.info/resource/ex20_4@1-25 http://scta.info/resource/ex20_5@1-26 http://scta.info/resource/ex20_6@1-13">NON FACIES TIBI SCVI
           <lb ed="#Z" n="9"/>PTILE, NE QVE SIMILITVDINEM VLLAM EORVM
           <lb ed="#Z" n="10"/>QVAEIN COELIS SVNT SVRSVM, VEL IN TERRA
           <lb ed="#Z" n="11"/>DEORSVM, VELIN AQVIS QVAE SVE TERRA SVNT:
@@ -384,7 +384,7 @@
           ubi<lb ed="#Z" n="12" break="no"/>que praesens, coelum &amp; terram implens, aeternus, uiuus &amp; uiuificans atque 
           conser<lb ed="#Z" n="13" break="no"/>uans omnia, gloriae &amp; maiestatis supra coelos exaltatae. Quis autem exprimat ulla  
           <lb ed="#Z" n="14"/>uel imagine uel materia spiritum? Deus est immensa potentia, omnia uiuificans 
-          <lb ed="#Z" n="15"/>atque conseruans. Sed imagines Dauid describit ac dicit, <quote source="http://scta.info/resource/ps113_12@1-8 http://scta.info/resource/ps113_14@1-10 http://scta.info/resource/ps113_15@1-15">Simulachra gentium
+          <lb ed="#Z" n="15"/>atque conseruans. Sed imagines Dauid describit ac dicit, <quote xml:id="UD1xh4-ojVyM6-Qd1e836" source="http://scta.info/resource/ps113_12@1-8 http://scta.info/resource/ps113_14@1-10 http://scta.info/resource/ps113_15@1-15">Simulachra gentium
           ar<lb ed="#Z" n="16" break="no"/>gentum &amp; aurum, opera manuum hominum. Aures habent &amp; non audiunt
           na<lb ed="#Z" n="17" break="no"/>res habent &amp; non odorantur. Manus habent nec palpant, pedes habent nec
           am<lb ed="#Z" n="18" break="no"/>bulant, neque sonus ullus est in gutture eorum.</quote> Quid obsecro haec cum deo 
@@ -436,7 +436,7 @@
           cuiuscun<lb ed="#Z" n="12" break="no"/>que rei, quod prohibuit tibi dominus deus tuus. Haec Moses hactenus,
         </p>
         <p xml:id="UD1xh4-ojVyM6-d1e927">
-          <lb ed="#Z" n="13"/><pc type="indent"/> Isaias uero in cap. 40. dicit, <quote source="http://scta.info/resource/is40_15@1-16 http://scta.info/resource/is40_16@1-13 http://scta.info/resource/is40_17@1-17 http://scta.info/resource/is40_18@1-10 http://scta.info/resource/is40_19@1-13 http://scta.info/resource/is40_20@1-14 http://scta.info/resource/is40_21@1-18">Ecce gentes (nimirum collatae deo) tanquam gutta
+          <lb ed="#Z" n="13"/><pc type="indent"/> Isaias uero in cap. 40. dicit, <quote xml:id="UD1xh4-ojVyM6-Qd1e950" source="http://scta.info/resource/is40_15@1-16 http://scta.info/resource/is40_16@1-13 http://scta.info/resource/is40_17@1-17 http://scta.info/resource/is40_18@1-10 http://scta.info/resource/is40_19@1-13 http://scta.info/resource/is40_20@1-14 http://scta.info/resource/is40_21@1-18">Ecce gentes (nimirum collatae deo) tanquam gutta
           <lb ed="#Z" n="14"/>situlae, &amp; ut puluis adherens bilanci reputantur. Ecce insulae quasi puluis exiguus,
           <lb ed="#Z" n="15"/>Libanus non satis esset excitando igni neque ferae eius sufficerent holocausto.
           Om<lb ed="#Z" n="16" break="no"/>nes Gentes coram deo quasi nihil sunt, &amp; res inanes atque friuolae reputantur erga
@@ -444,7 +444,7 @@
           <lb ed="#Z" n="18"/>ei: simulachrum fudit artifex, &amp; auri fusor diducit illud, &amp; laminis argenteis
           obdu<lb ed="#Z" n="19" break="no"/>cit. Qui opibus destitutus est, ut &amp; ipse offerat, eligit imputrescibile lignum, &amp;
           quae<lb ed="#Z" n="20" break="no"/>rit sibi artificem peritum, qui sculptibile praeparet, ne moueatur loco. An haec
-          ig<lb ed="#Z" n="21" break="no"/>noratis: an non illa audistis?</quote> Et mox. <quote source="http://scta.info/resource/is40_22@1-23 http://scta.info/resource/is40_23@1-12 http://scta.info/resource/is40_25@1-8 http://scta.info/resource/is40_26@1-21">Qui sedet super globum terrae, &amp;
+          ig<lb ed="#Z" n="21" break="no"/>noratis: an non illa audistis?</quote> Et mox. <quote xml:id="UD1xh4-ojVyM6-Qd1e970" source="http://scta.info/resource/is40_22@1-23 http://scta.info/resource/is40_23@1-12 http://scta.info/resource/is40_25@1-8 http://scta.info/resource/is40_26@1-21">Qui sedet super globum terrae, &amp;
           habitato<lb ed="#Z" n="22" break="no"/>res eius sunt quasi locustae. Qui extendit coelos ut cortinam, ac uelut tentorium ad
           <lb ed="#Z" n="23"/>habitandum. Qui redigit potentes in nihilum, &amp; redigit iudices terrae ad nihilum.
           <lb ed="#Z" n="24"/>Cui ergo me assimilabitis, aut cui similis ero, ait sanctus? Attollite in sublime
@@ -453,7 +453,7 @@
         </p>
         <p xml:id="UD1xh4-ojVyM6-d1e961">
           <lb ed="#Z" n="27"/><pc type="indent"/> Paulus uero apostolus Christi apud Athenienses disserens de uera religione,
-          <lb ed="#Z" n="28"/>dicit, <quote source="http://scta.info/resource/act17_24@1-22 http://scta.info/resource/act17_25@1-15 http://scta.info/resource/act17_26 http://scta.info/resource/act17_27 http://scta.info/resource/act17_28@1-19 http://scta.info/resource/act17_29@1-21">Deus qui fecit mundum &amp; omnia quae in eo sunt, hic coeli &amp; terrae cum sit
+          <lb ed="#Z" n="28"/>dicit, <quote xml:id="UD1xh4-ojVyM6-Qd1e991" source="http://scta.info/resource/act17_24@1-22 http://scta.info/resource/act17_25@1-15 http://scta.info/resource/act17_26 http://scta.info/resource/act17_27 http://scta.info/resource/act17_28@1-19 http://scta.info/resource/act17_29@1-21">Deus qui fecit mundum &amp; omnia quae in eo sunt, hic coeli &amp; terrae cum sit
           <lb ed="#Z" n="29"/>dominus, non in manufactis templis habitat, nec manibus humanis colitur,
           indi<lb ed="#Z" n="30" break="no"/>gens aliquo : cum ipse det omnibus uitam &amp; halitum per omnia, fecitque ex uno
           <lb ed="#Z" n="31"/>sanguine omne genus hominum, ut inhabitaret super uniuersam faciem terrae,
@@ -546,7 +546,7 @@
           <lb ed="#Z" n="12"/>cultum latriae imaginibus minime tribuamus, quomodo his quod spiritus dei ac 
           <lb ed="#Z" n="13"/>uerbi dei officium ac beneficium est, tribuere possimus, munus docendi, 
           admo<lb ed="#Z" n="14" break="no"/>nendi adhortandique : cum clarissimus &amp; apostolico testimonio commendatissimus 
-          <lb ed="#Z" n="15"/>propheta Abacuk scriptum nobis reliquerit haec diuinissima certe uerba, <quote source="http://scta.info/resource/hab2_18@1-22 http://scta.info/resource/hab2_19@1-19 http://scta.info/resource/hab2_20@1-12">Quid
+          <lb ed="#Z" n="15"/>propheta Abacuk scriptum nobis reliquerit haec diuinissima certe uerba, <quote xml:id="UD1xh4-ojVyM6-Qd1e1192" source="http://scta.info/resource/hab2_18@1-22 http://scta.info/resource/hab2_19@1-19 http://scta.info/resource/hab2_20@1-12">Quid
           <lb ed="#Z" n="16"/>prodest sculptile, quia sculpsit illud fictor suus, fusile quod annunciat mendacium:
           <lb ed="#Z" n="17"/>&amp; tamen fiduciam habet in eo, fictor scilicet in figmento suo, ut faceret simulachra
           <lb ed="#Z" n="18"/>muta. Vae qui dicit ligno, euigila: &amp; lapidi insensibili, excitare. Ipse ne doceret?
@@ -599,7 +599,7 @@
           <lb ed="#Z" n="11"/>hodie a multis pro cultu dei gratissimo. Vel certe tale quid dixit dmins, Nolo alios 
           <lb ed="#Z" n="12"/>tibi quaeras deos: nolo ipse tibi cominiscaris cultum. Causa, Sum deus zelotes, 
           nimi<lb ed="#Z" n="13" break="no"/>rum irritabilis, qui non patior impune praeteriri me meaque legitima. Atque ad hunc 
-          <lb ed="#Z" n="14"/>sensum porro exponit multis quomodo sit zelotes, <quote source="http://scta.info/resource/ex20_5@13-26">uisitans utique iniquitatem patrum
+          <lb ed="#Z" n="14"/>sensum porro exponit multis quomodo sit zelotes, <quote xml:id="UD1xh4-ojVyM6-Qd1e1308" source="http://scta.info/resource/ex20_5@13-26">uisitans utique iniquitatem patrum
           <lb ed="#Z" n="15"/>in filijs, in tertiam &amp; quartam generationem, eorum qui oderunt me.</quote> Deus ergo 
           uin<lb ed="#Z" n="16" break="no"/>dex est seuerissimus et ultor iustissimus contra eos primum qui alenos sequunt deos,  
           <lb ed="#Z" n="17"/>prohibitisue cultibus deo seruiunt, deinde contra omnes qui praeuaricantur legem 
@@ -614,7 +614,7 @@
           <lb ed="#Z" n="24"/>in filijs in tertiam &amp; quartam generationem: non quod iniustus sit deus &amp; puniat 
           <lb ed="#Z" n="25"/>alienum peccatum in innocentibus, hoc est in ijs qui peccatum non comiserunt: 
           <lb ed="#Z" n="26"/>sicuti impie calumniabantur deum in Ezechiele ludaei, hoc proferentes dicterij,.
-          <lb ed="#Z" n="27"/><quote source="http://scta.info/resource/ez18_2@15-22">Patres comederunt uuam acerbam, &amp; dentes filiorum obstupuerunt.</quote> Non ita 
+          <lb ed="#Z" n="27"/><quote xml:id="UD1xh4-ojVyM6-Qd1e1343" source="http://scta.info/resource/ez18_2@15-22">Patres comederunt uuam acerbam, &amp; dentes filiorum obstupuerunt.</quote> Non ita 
           ha<lb ed="#Z" n="28" break="no"/>bet res. Quisque enim suum portabit peccatum. nec filius patris, neque pater filij 
           ini<lb ed="#Z" n="29" break="no"/>quitatem feret dependetque. Ita sane constanter docet apud Ezechielem &amp; in tota  
           <lb ed="#Z" n="30"/>scriptura ueracissimus deus. Proinde si liberi aut nepotes uestigijs patrum obliquis  
@@ -652,7 +652,7 @@
           <lb ed="#Z" n="10"/>seu beneficentiam praestans in millia. Qua parte excellere uidetur. Animaduertit 
           <lb ed="#Z" n="11"/>enim iratus in tertiam &amp; quartam generationem: : sed beneficus est in multa 
           mil<lb ed="#Z" n="12" break="no"/>lia. Bonitatis enim beneficiorumque eius nullus modus, nullus finis: &amp; 
-          misericor<lb ed="#Z" n="13" break="no"/>dia domini super omnia opera eius. Hic tamen rursus duo appendit <quote source="http://scta.info/resource/ex20_6@6-13">His qui
+          misericor<lb ed="#Z" n="13" break="no"/>dia domini super omnia opera eius. Hic tamen rursus duo appendit <quote xml:id="UD1xh4-ojVyM6-Qd1e1428" source="http://scta.info/resource/ex20_6@6-13">His qui
           dili<lb ed="#Z" n="14" break="no"/>gunt me &amp; custodiunt praecepta mea.</quote> Duo inquam requirit a suis. Primum ut di- 
           <lb ed="#Z" n="15"/>ligant deum &amp; hunc habeant pro deo suo: quod cum fit, nullus erit in pijs deus 
           <lb ed="#Z" n="16"/>alienus, Secundum ut obediant deo, ambulent in praeceptis dei: quod cum fit,  

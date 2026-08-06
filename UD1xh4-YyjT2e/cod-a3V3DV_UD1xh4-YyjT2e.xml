@@ -49,7 +49,7 @@
     <body>
       <div xml:id="UD1xh4-YyjT2e">
         <head xml:id="UD1xh4-YyjT2e-Hd1e95">Decas 5, Sermo 6 [Zurich 1552 Transcription]</head>
-        <p>
+        <p xml:id="UD1xh4-YyjT2e-d1e94">
           <!-- This paragraph is the heading of the sermo -->
           <lb ed="#Z"/>De signis et signorum ratione, de signis sacramentalibus, quid sit sacramentum, a quo, ob quas
           <lb ed="#Z"/><choice><orig>caussas</orig><reg>causas</reg></choice>,
@@ -70,41 +70,41 @@
         <!-- english paragraph varies here; we are following this edition as default for all paragraph alignment -->
         <p xml:id="UD1xh4-YyjT2e-d1e118">
           <lb ed="#Z"/><emph rend="capitals">Signum</emph> appellant Latini scriptores notam, repraesentationem, uestigium
-          <lb ed="#Z"/>et indicium rei significantis. Sic <name>Tullius</name> et <name>Fabius</name>. Hic, Signum, ait, uocant <foreign>semeion</foreign>, quan<lb ed="#Z"/>quam
+          <lb ed="#Z"/>et indicium rei significantis. Sic <name xml:id="UD1xh4-YyjT2e-Nd1e145">Tullius</name> et <name xml:id="UD1xh4-YyjT2e-Nd1e147">Fabius</name>. Hic, Signum, ait, uocant <foreign>semeion</foreign>, quan<lb ed="#Z"/>quam
           id quidam indicium, quidam uestigium nominarunt, per quod res intelli<lb ed="#Z"/>gitur,
-          ut per sanguinem caedes. <ref xml:id="UD1xh4-YyjT2e-Rd1e138" corresp="#UD1xh4-YyjT2e-Qd1e147"><name>D. Aurel. Augustinus</name> scriptor ecclesiasticus nobilis,
+          ut per sanguinem caedes. <ref xml:id="UD1xh4-YyjT2e-Rd1e138" corresp="#UD1xh4-YyjT2e-Qd1e147"><name xml:id="UD1xh4-YyjT2e-Nd1e157">D. Aurel. Augustinus</name> scriptor ecclesiasticus nobilis,
           <lb ed="#Z"/><title>de Magistro</title> capitulo 4</ref>. <quote xml:id="UD1xh4-YyjT2e-Qd1e147" source="http://scta.info/resource/ZlRai8-TPspMO">Dicimus ea, inquit, signa universaliter omnia, quae significant
           <lb ed="#Z"/>aliquid: ubi etiam uerba esse invenimus</quote>. <ref xml:id="UD1xh4-YyjT2e-Rd1e152" corresp="#UD1xh4-YyjT2e-Qd1e160">Idem <title>de Doctrina Christiana</title> libro 2, capitulo 1.</ref>, dicit,
           <lb ed="#Z"/><quote xml:id="UD1xh4-YyjT2e-Qd1e160" source="http://scta.info/resource/addc-l2">Signum est res praeter speciem quam ingerit sensibus, aliud aliquid ex se faciens
           <lb ed="#Z"/>in cogitationem uenire; sicut fumo viso, ignem subesse credimus</quote>
         </p>
-        <p>
-          <lb ed="#Z"/>Distinguit <ref>idem ille</ref> signa, in <seg>signa naturalia et data 
+        <p xml:id="UD1xh4-YyjT2e-d1e182">
+          <lb ed="#Z"/>Distinguit <ref xml:id="UD1xh4-YyjT2e-Rd1e186">idem ille</ref> signa, in <seg>signa naturalia et data 
             <note type="marginal-note" place="margin-right">
               <lb ed="#Z"/>Divisio signorum 
-              <lb ed="#Z"/>ex <name>Augustino</name>. 
+              <lb ed="#Z"/>ex <name xml:id="UD1xh4-YyjT2e-Nd1e196">Augustino</name>. 
             </note>
-          </seg>. <quote>Naturalia</quote> vocat, <quote>quae sine 
+          </seg>. <quote xml:id="UD1xh4-YyjT2e-Qd1e200">Naturalia</quote> vocat, <quote xml:id="UD1xh4-YyjT2e-Qd1e202">quae sine 
           <lb ed="#Z"/>voluntate atque ullo appetitu significandi praeter se aliquid aliud ex se cognosci fa<lb ed="#Z"/>ciunt; 
           sicuti est fumus, significans ignem. Non enim volens significare id facit</quote>. 
-          <lb ed="#Z"/><quote>Data sunt</quote>, inquit, <quote>quae sibi quaeque viventia invicem dant, ad demonstrandos quan<lb ed="#Z"/>tum 
+          <lb ed="#Z"/><quote xml:id="UD1xh4-YyjT2e-Qd1e211">Data sunt</quote>, inquit, <quote xml:id="UD1xh4-YyjT2e-Qd1e213">quae sibi quaeque viventia invicem dant, ad demonstrandos quan<lb ed="#Z"/>tum 
           possunt motus animi sui, vel sensa aut intellecta quaelibet.</quote> Et Data quidem 
           <lb ed="#Z"/>signa rursus distinguit per sensus. Alia enim ad oculos pertinent, ut sunt vexilla 
           et signa ducum, motus manum et omnium membrorum. Alia ad aures, ut sunt 
-          <lb ed="#Z"/><quote>tuba et tibia</quote>, et ipsa denique verba, quae <quote>inter homines obtinuerunt principatum 
+          <lb ed="#Z"/><quote xml:id="UD1xh4-YyjT2e-Qd1e221">tuba et tibia</quote>, et ipsa denique verba, quae <quote xml:id="UD1xh4-YyjT2e-Qd1e223">inter homines obtinuerunt principatum 
           <lb ed="#Z"/>significandi</quote>. Ad odorem refert <seg>illum odorem unguenti evangelicum 
             <note type="marginal-note" place="margin-right">Ioan. 12</note></seg>, quo dominus ali<lb ed="#Z"/>quid 
           significare voluerit. Ad gustum retulit <seg>Coenam domini 
-            <note type="marginal-note" place="margin-right">Marc. 14</note></seg>. <quote>Sacramento enim san<lb ed="#Z"/>guinis 
-          et corporis sui</quote>, inquit, <quote>praegustato, significavit quod voluit</quote>. Addit et exem<pb ed="#Z" n="322-v"/>plum 
+            <note type="marginal-note" place="margin-right">Marc. 14</note></seg>. <quote xml:id="UD1xh4-YyjT2e-Qd1e241">Sacramento enim san<lb ed="#Z"/>guinis 
+          et corporis sui</quote>, inquit, <quote xml:id="UD1xh4-YyjT2e-Qd1e246">praegustato, significavit quod voluit</quote>. Addit et exem<pb ed="#Z" n="322-v"/>plum 
           <!-- folio 322v -->
-          ad tactum, <quote>Et cum <seg>mulier tangendo fimbriam vestimenti eius
+          ad tactum, <quote xml:id="UD1xh4-YyjT2e-Qd1e253">Et cum <seg>mulier tangendo fimbriam vestimenti eius
             <note type="marginal-note" place="margin-left">Matth. 9</note></seg> salva facta est,
-          <lb ed="#Z"/>nonnihil significat.</quote> Sic <name>Augustinus</name> de Signorum generibus et differentia disseruit.
+          <lb ed="#Z"/>nonnihil significat.</quote> Sic <name xml:id="UD1xh4-YyjT2e-Nd1e263">Augustinus</name> de Signorum generibus et differentia disseruit.
         </p>
-        <p>
+        <p xml:id="UD1xh4-YyjT2e-d1e266">
           <!-- this is Scotus, but not verbatim! -->
-          <lb ed="#Z"/><ref>Alii</ref> vero nihil diversi quidem ab illo asserentes, Signa iuxta temporum ra<lb ed="#Z"/>tionem 
+          <lb ed="#Z"/><ref xml:id="UD1xh4-YyjT2e-Rd1e271">Alii</ref> vero nihil diversi quidem ab illo asserentes, Signa iuxta temporum ra<lb ed="#Z"/>tionem 
           distinguunt. Dicunt enim Signa alia quidem esse rerum praesentium, alia 
           <lb ed="#Z"/>rerum praeteritarum, alia vero rerum futurarum. Praesentium signa putat, quae 
           <lb ed="#Z"/>significant res esse praesentes: veluti haedera suspensa indicat vinum ibi vendi ubi 
